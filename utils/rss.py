@@ -22,7 +22,7 @@ def fetch_rss():
                 src["url"]
             )
 
-            for entry in feed.entries[:3]:
+            for entry in feed.entries[:1]:
 
                 articles.append({
                     "title": entry.get("title", ""),
@@ -30,7 +30,9 @@ def fetch_rss():
                     "summary": entry.get("summary", ""),
                     "source": src["name"]
                 })
-
+            if len(articles) >= 15:
+                return articles
+                
         except Exception as e:
 
             print(f"RSS Error: {e}")
