@@ -95,6 +95,43 @@ def call_nvidia_ai(text):
 
     return content
 
+# ===== 抓文章圖片 =====
+def fetch_image(url):
+
+    try:
+
+        headers = {
+            "User-Agent": "Mozilla/5.0"
+        }
+
+        response = requests.get(url, headers=headers, timeout=10)
+
+        html = response.text
+
+        # 找 og:image
+        marker = 'property="og:image"'
+
+        if marker in html:
+
+            split_html = html.split(marker)
+
+            if len(split_html) > 1:
+
+                part = split_html[1]
+
+                content_split = part.split('content="')
+
+                if len(content_split) > 1:
+
+                    image_url = content_split[1].split('"')[0]
+
+                    return image_url
+
+    except Exception as e:
+        print(f"Image Error: {e}")
+
+    return ""
+    
 # ===== 抓 RSS =====
 def fetch_rss():
 
