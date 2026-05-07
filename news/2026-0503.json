@@ -1,0 +1,62 @@
+[
+  {
+    "id": "001",
+    "title": "美國國防部攜手 OpenAI、Google 等打造 AI 軍事系統",
+    "summary": "美國國防部與多家科技巨頭合作導入 AI，目標打造「AI-first 軍事體系」。",
+    "content": "<p>美國國防部近日宣布，已與 OpenAI、Google、Microsoft、Amazon 及 NVIDIA 等多家科技公司達成合作，將大型語言模型導入機密軍事網路。</p><p>這項計畫旨在提升決策分析與作戰效率，但也引發倫理與安全疑慮，專家警告 AI 在軍事應用中仍需嚴格監管與人類介入。</p>",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "002",
+    "title": "AI 軍事化引發爭議，科技公司內部出現反對聲浪",
+    "summary": "Google 與 OpenAI 等參與軍方 AI 計畫，引發員工與專家對倫理問題的擔憂。",
+    "content": "<p>隨著多家科技公司參與美國軍方 AI 計畫，內部員工與研究人員對 AI 用於戰爭場景表達憂慮。</p><p>專家指出，AI 在戰場決策中可能產生誤判風險，若缺乏監管機制，可能帶來不可逆的後果。</p>",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c",
+    "source": "MarketWatch",
+    "url": "https://www.marketwatch.com/story/google-spacex-and-openai-are-being-tapped-to-make-the-u-s-an-ai-first-fighting-force-3c1245ac",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "003",
+    "title": "馬斯克出庭對抗 OpenAI，AI 發展方向成焦點",
+    "summary": "Elon Musk 在法庭上質疑 OpenAI 商業化方向，AI 未來治理成為爭論核心。",
+    "content": "<p>Elon Musk 近日在與 OpenAI 的訴訟中出庭作證，強調該公司偏離原本為人類利益服務的初衷。</p><p>這場訴訟不僅關乎企業控制權，也凸顯 AI 發展在商業利益與公共安全之間的衝突。</p>",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/key-takeaways-musks-testimony-openai-trial-2026-05-01/",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "004",
+    "title": "OpenAI 與創辦人糾紛升溫，治理結構成產業關鍵議題",
+    "summary": "OpenAI 與 Elon Musk 爭議升級，AI 公司治理模式引發市場關注。",
+    "content": "<p>OpenAI 與共同創辦人 Elon Musk 的法律爭議持續升溫，雙方對於公司是否偏離原始使命產生嚴重分歧。</p><p>業界認為，此案可能影響未來 AI 公司治理模式，甚至改變產業對「開放與商業化」的平衡。</p>",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "005",
+    "title": "AI 軍備競賽升溫，各國加速發展戰場智能系統",
+    "summary": "全球 AI 軍事競賽加速，美國與中國等國持續加碼投資。",
+    "content": "<p>隨著 AI 技術快速發展，各國正積極將其應用於軍事領域，以提升情報分析與作戰效率。</p><p>專家指出，AI 軍備競賽可能改變未來戰爭型態，並帶來新的國際安全挑戰。</p>",
+    "image": "https://images.unsplash.com/photo-1460472178825-e5240623afd5",
+    "source": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/the-pentagon-announces-ai-deals-with-openai-google-microsoft-amazon-nvidia-and-more-llms-to-be-deployed-on-classified-department-of-war-networks-for-lawful-operational-use",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "006",
+    "title": "AI 安全與商業利益拉鋸，產業進入關鍵轉折點",
+    "summary": "AI 發展面臨安全與商業化衝突，企業與政府需尋求平衡。",
+    "content": "<p>近期多起事件顯示，AI 發展正處於安全與商業利益的拉鋸階段，企業在追求成長的同時，也面臨監管壓力。</p><p>分析指出，未來 AI 發展將取決於監管政策與企業責任之間的平衡，這將成為產業下一階段的關鍵。</p>",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+    "source": "Reuters",
+    "url": "https://www.reuters.com",
+    "date": "2026-05-03"
+  }
+]

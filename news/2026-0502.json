@@ -1,0 +1,82 @@
+[
+  {
+    "id": "001",
+    "title": "OpenAI 擴展 GPT-5 應用生態，企業整合能力再提升",
+    "summary": "OpenAI 持續擴展 GPT-5 應用場景，強化企業整合與自動化能力，推動 AI 深入商業流程。",
+    "content": "<p>OpenAI 近期針對 GPT-5 推出更多企業整合能力，包括與內部資料庫、客服系統與辦公工具的深度串接，使 AI 能直接參與企業日常營運流程。</p><p>分析指出，這類整合將大幅降低企業導入門檻，讓 AI 從輔助工具轉變為核心基礎設施，特別是在客服自動化與商業分析領域影響顯著。</p>",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/blog",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "002",
+    "title": "Google 強化 Gemini 生態系，AI 助手全面進入產品線",
+    "summary": "Google 將 Gemini 深度整合至搜尋與辦公工具，推動 AI 成為主要互動入口。",
+    "content": "<p>Google 持續擴展 Gemini 模型應用，將其整合進搜尋、Gmail、Docs 等核心產品，讓使用者可透過對話方式完成複雜操作。</p><p>此舉被視為對傳統操作介面的重大轉變，未來使用者將更依賴 AI 助手來完成資訊整理與內容生成。</p>",
+    "image": "https://images.unsplash.com/photo-1581093588401-12d6e0e3c6c3",
+    "source": "Google Blog",
+    "url": "https://blog.google/technology/ai/",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "003",
+    "title": "Amazon 導入生成式 AI 客服系統，提升效率並降低成本",
+    "summary": "Amazon 採用生成式 AI 優化客服流程，大幅提升回應速度並降低人力成本。",
+    "content": "<p>Amazon 正在其客服系統中導入生成式 AI，使系統能理解用戶語意並自動生成回應，處理大量常見問題。</p><p>業界分析指出，此類技術可顯著降低客服人力需求，同時提升回應一致性與效率，未來將成為電商標準配置。</p>",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "004",
+    "title": "Tesla 強化 AI 訓練平台，自動駕駛能力持續進化",
+    "summary": "Tesla 升級 AI 訓練系統，透過大規模數據優化自動駕駛模型。",
+    "content": "<p>Tesla 持續優化其 AI 訓練平台，透過車輛回傳的大量實際道路數據，提升模型在複雜環境中的判斷能力。</p><p>這種以數據驅動的學習模式，使自動駕駛系統能快速迭代，逐步逼近更高等級的自動化駕駛。</p>",
+    "image": "https://images.unsplash.com/photo-1511391409281-6922d3cbe6c1",
+    "source": "Tesla",
+    "url": "https://www.tesla.com/autopilot",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "005",
+    "title": "Meta 升級 AI 廣告系統，精準投放能力再提升",
+    "summary": "Meta 強化 AI 廣告技術，透過自動生成與數據分析提升轉換率。",
+    "content": "<p>Meta 宣布升級其 AI 廣告系統，利用機器學習分析用戶行為並自動生成廣告內容。</p><p>新系統可動態調整投放策略，使廣告更精準觸及目標族群，進一步提高企業投資報酬率。</p>",
+    "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868",
+    "source": "Meta",
+    "url": "https://ai.meta.com/blog/",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "006",
+    "title": "NVIDIA 擴大 AI 資料中心布局，算力需求持續攀升",
+    "summary": "NVIDIA 加速資料中心建設，以滿足企業對 AI 運算資源的爆發性需求。",
+    "content": "<p>NVIDIA 正積極擴展全球 AI 資料中心布局，以應對企業與研究機構對高效能運算資源的需求。</p><p>隨著生成式 AI 應用快速增長，算力已成為關鍵基礎設施，各大企業正加大投資以確保競爭優勢。</p>",
+    "image": "https://images.unsplash.com/photo-1581091215367-59ab6b0b61f6",
+    "source": "NVIDIA",
+    "url": "https://www.nvidia.com/en-us/data-center/",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "007",
+    "title": "AI 人才爭奪戰升溫，科技公司全面加碼招聘",
+    "summary": "全球科技公司持續擴大 AI 招聘，人才競爭推高薪資水準。",
+    "content": "<p>隨著 AI 技術需求持續攀升，各大科技公司正加速招募相關人才，涵蓋模型訓練、應用開發與基礎架構領域。</p><p>市場競爭加劇導致薪資水準上升，AI 人才已成為企業能否維持競爭力的關鍵因素之一。</p>",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/technology",
+    "date": "2026-05-02"
+  },
+  {
+    "id": "008",
+    "title": "生成式 AI 快速普及，中小企業導入速度明顯提升",
+    "summary": "隨著成本下降與工具成熟，中小企業加速導入生成式 AI。",
+    "content": "<p>生成式 AI 工具逐漸成熟且成本降低，使中小企業也能快速導入相關技術。</p><p>從內容行銷到客服自動化，AI 正在重塑企業運作模式，並成為提升效率的重要工具。</p>",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/category/artificial-intelligence/",
+    "date": "2026-05-02"
+  }
+]

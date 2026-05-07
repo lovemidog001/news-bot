@@ -1,0 +1,32 @@
+[
+  {
+    "id": "001",
+    "title": "Apple 傳出加速 AI 晶片研發，M5 架構提前曝光",
+    "summary": "Apple 正加速自研 AI 晶片開發，M5 架構細節提前曝光，主打高效能與低功耗。",
+    "content": "<p>市場傳出 Apple 正加速下一代 M5 晶片的開發進度，並將 AI 運算能力列為核心設計方向。</p><p>新架構預計提升神經網路運算效率，同時降低能耗，為未來 Mac 與 AI 應用鋪路。</p>",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "002",
+    "title": "Google 擴展 AI 搜尋功能，整合即時資訊生成",
+    "summary": "Google 強化 AI 搜尋體驗，新增即時資訊整合與摘要生成能力。",
+    "content": "<p>Google 宣布進一步升級其搜尋引擎，導入更強大的 AI 摘要與即時資訊整合功能。</p><p>此舉可讓使用者在搜尋結果中直接獲得重點整理，減少點擊與閱讀時間。</p>",
+    "image": "https://images.unsplash.com/photo-1581093588401-12d6e0e3c6c3",
+    "source": "Google Blog",
+    "url": "https://blog.google",
+    "date": "2026-04-20"
+  },
+  {
+    "id": "003",
+    "title": "Tesla 推出新版自動駕駛系統，強化城市導航能力",
+    "summary": "Tesla 更新自動駕駛系統，大幅提升城市道路辨識與導航準確度。",
+    "content": "<p>Tesla 發布最新自動駕駛軟體版本，針對城市道路環境進行優化。</p><p>系統可更精準辨識行人、號誌與複雜路況，進一步推進全自動駕駛目標。</p>",
+    "image": "https://images.unsplash.com/photo-1511391409281-6922d3cbe6c1",
+    "source": "Tesla",
+    "url": "https://www.tesla.com",
+    "date": "2026-04-20"
+  }
+]

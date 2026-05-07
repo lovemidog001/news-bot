@@ -1,0 +1,42 @@
+[
+  {
+    "id": "001",
+    "title": "OpenAI 發布 GPT-5，推理與多模態能力全面躍升",
+    "summary": "OpenAI 推出 GPT-5，在複雜推理與多模態處理上大幅突破，進一步拉開與競爭對手差距。",
+    "content": "<p>OpenAI 正式發布新一代旗艦模型 GPT-5，強調在推理能力與多模態理解上的全面升級，能處理更複雜的邏輯問題與跨媒體任務。</p><p>根據測試結果，GPT-5 在數學推導、程式生成與語意理解上均有顯著提升，顯示大型模型正朝向更接近人類思考的方向發展。</p>",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "002",
+    "title": "Google 推出 Gemini Ultra 2.0，長文本處理能力再進化",
+    "summary": "Google 發布 Gemini Ultra 2.0，支援超長上下文與學術分析，瞄準研究與專業應用場景。",
+    "content": "<p>Google DeepMind 宣布 Gemini Ultra 2.0 進入公測階段，主打長文本理解與高階分析能力，支援高達數百萬 token 的上下文處理。</p><p>該模型特別適用於學術研究與專業分析場景，可協助使用者快速理解複雜文件與大量資料。</p>",
+    "image": "https://images.unsplash.com/photo-1581093588401-12d6e0e3c6c3",
+    "source": "Google Blog",
+    "url": "https://blog.google",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "003",
+    "title": "Anthropic 發布 Claude 4，導入即時事實查核機制",
+    "summary": "Anthropic 推出 Claude 4，強化 AI 安全與事實查核能力，降低錯誤資訊風險。",
+    "content": "<p>Anthropic 發布 Claude 4 系列模型，進一步升級其憲法 AI 架構，提升模型在安全與回應準確性上的表現。</p><p>新版本導入即時事實查核機制，可在生成內容時同步驗證資訊來源，有效降低 AI 幻覺問題。</p>",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+    "source": "Anthropic",
+    "url": "https://anthropic.com",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "004",
+    "title": "AI 大模型競爭白熱化，三大陣營同日發表新產品",
+    "summary": "OpenAI、Google 與 Anthropic 同日發布新模型，顯示 AI 競爭進入全面加速階段。",
+    "content": "<p>隨著 OpenAI、Google 與 Anthropic 在同一天發布新一代模型，AI 市場競爭正式進入白熱化階段。</p><p>三大陣營分別在推理能力、長文本處理與安全性上各自突破，顯示產業已從單點優勢轉向多維度競爭。</p>",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "source": "Reuters",
+    "url": "https://www.reuters.com",
+    "date": "2026-04-30"
+  }
+]

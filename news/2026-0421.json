@@ -1,0 +1,32 @@
+[
+  {
+    "id": "001",
+    "title": "Microsoft 強化 Copilot 生態，整合企業資料分析",
+    "summary": "Microsoft 擴展 Copilot 功能，支援企業內部資料分析與決策輔助。",
+    "content": "<p>Microsoft 宣布升級 Copilot，進一步整合企業內部資料系統。</p><p>新功能可自動分析數據並生成報告，協助企業提升決策效率。</p>",
+    "image": "https://images.unsplash.com/photo-1531497865144-0464ef8fb9a9",
+    "source": "Microsoft",
+    "url": "https://www.microsoft.com",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "002",
+    "title": "Amazon 推出 AI 倉儲系統，物流效率再提升",
+    "summary": "Amazon 導入 AI 倉儲管理系統，大幅提升物流處理速度。",
+    "content": "<p>Amazon 發布新一代 AI 倉儲系統，利用機器學習優化貨物流動。</p><p>該系統可預測需求並自動調整庫存配置，提高配送效率。</p>",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d",
+    "source": "Reuters",
+    "url": "https://www.reuters.com",
+    "date": "2026-04-21"
+  },
+  {
+    "id": "003",
+    "title": "Meta 強化 VR 社交平台，推動虛擬經濟發展",
+    "summary": "Meta 升級 VR 社交功能，新增虛擬交易與創作者收益機制。",
+    "content": "<p>Meta 宣布更新其 VR 社交平台，導入更多虛擬經濟功能。</p><p>創作者可透過虛擬商品與服務獲利，進一步擴大生態系。</p>",
+    "image": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "date": "2026-04-21"
+  }
+]

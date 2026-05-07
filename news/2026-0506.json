@@ -1,0 +1,173 @@
+[
+  {
+    "id": "001",
+    "title": "OpenAI 推出 GPT-5.5 Instant，回應更快且更個人化",
+    "summary": "OpenAI 發布 GPT-5.5 Instant，提升回應速度與個人化能力強化使用體驗",
+    "content": "<p>OpenAI 發布 GPT-5.5 Instant，主打更快的回應速度與更清晰的理解能力，進一步優化用戶與 AI 的互動體驗。新版本特別強調個人化回應，使模型能更貼近不同使用情境。</p><p>此更新被視為 OpenAI 在競爭激烈的生成式 AI 市場中的重要布局，透過速度與品質同步提升，加強產品在日常應用與商業場景中的競爭力。</p>",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+    "source": "OpenAI",
+    "url": "https://example.com/gpt-5-5-instant",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "002",
+    "title": "AI Podcast 聚焦 OpenAI 與 Musk 對抗，多模型競爭升溫",
+    "summary": "AI Podcast 分析 OpenAI 與 Musk 競爭，揭示多模型與企業聯盟新局勢",
+    "content": "<p>最新 AI Podcast 討論 OpenAI 與 Elon Musk 之間的競爭關係，以及 Microsoft、DeepSeek 等勢力的參與，顯示 AI 產業正進入多方對抗的新階段。</p><p>節目指出，模型性能之外，企業聯盟與資源整合將成為關鍵競爭因素，未來市場格局可能由少數大型生態系主導。</p>",
+    "image": "https://lastweekin.ai/content/images/2024/ai-podcast.jpg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "003",
+    "title": "Google DeepMind 開源 Gemma 4 MTP 技術，加速模型生成效率",
+    "summary": "Google DeepMind 開源 Gemma 4 MTP drafter，提升大型模型推理效率",
+    "content": "<p>Google DeepMind 宣布為 Gemma 4 系列模型開源 MTP drafter 技術，旨在提升大型語言模型在生成過程中的效率與速度。</p><p>此舉有助開發者優化模型推理流程，降低運算成本，同時提升回應品質，被視為推動開源 AI 生態的重要一步。</p>",
+    "image": "https://images.unsplash.com/photo-1581091870627-3d1b6f9a4b5b",
+    "source": "Google DeepMind",
+    "url": "https://example.com/gemma-4-mtp",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "004",
+    "title": "Subquadratic 推出 SubQ，支援 1200 萬 token 超長上下文",
+    "summary": "Subquadratic 發布 SubQ 模型，支援超長上下文提升複雜任務處理能力",
+    "content": "<p>Subquadratic 推出全新模型 SubQ，支援高達 1200 萬 token 的上下文長度，大幅提升模型在長文本處理與複雜推理任務中的能力。</p><p>此突破讓 AI 能處理更完整的文件與多輪對話，對法律、研究與企業分析等場景帶來顯著價值。</p>",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "source": "Subquadratic",
+    "url": "https://example.com/subq-model",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "005",
+    "title": "Inworld AI 推出 Realtime TTS-2，實現跨語言即時語音對話",
+    "summary": "Inworld AI 發布 Realtime TTS-2，支援多語言即時語音互動",
+    "content": "<p>Inworld AI 發布 Realtime TTS-2，提供跨語言即時語音生成與對話能力，讓 AI 能更自然地進行多語言溝通。</p><p>該技術可應用於遊戲、虛擬角色與客服場景，進一步提升互動沉浸感與全球化應用潛力。</p>",
+    "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008",
+    "source": "Inworld AI",
+    "url": "https://example.com/realtime-tts2",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "006",
+    "title": "Luma 開放 UNI-1.1 模型 API，影像生成能力再升級",
+    "summary": "Luma 開放 UNI-1.1 API，提升影像生成品質並躋身全球前三",
+    "content": "<p>Luma 宣布開放 UNI-1.1 系列模型 API，提供開發者更高品質的影像生成能力，並在 Image Arena 排名中位居全球前三。</p><p>此舉將加速影像生成應用落地，並強化 Luma 在生成式 AI 視覺領域的競爭力。</p>",
+    "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+    "source": "Luma AI",
+    "url": "https://example.com/luma-uni-1-1",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "007",
+    "title": "AI Studio 更新 Build 模組，整合 Nano Banana 與編輯功能",
+    "summary": "AI Studio 更新 Build 模組，強化開發流程與模型編輯能力",
+    "content": "<p>AI Studio 宣布更新 Build 模組，整合 Nano Banana 與編輯模式，讓開發者能更方便地構建與調整 AI 應用。</p><p>新功能提升開發效率並降低技術門檻，有助更多團隊快速導入生成式 AI 技術。</p>",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+    "source": "AI Studio",
+    "url": "https://example.com/ai-studio-build",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "008",
+    "title": "字節跳動推出 TRAE SOLO 行動版，支援跨設備協作",
+    "summary": "字節跳動發布 TRAE SOLO 行動端，提升跨裝置協作效率",
+    "content": "<p>字節跳動推出 TRAE SOLO 行動版本，讓用戶可在不同設備間無縫切換與協作，提升工作效率。</p><p>該產品整合 AI 能力與雲端同步功能，瞄準企業與創作者市場的協作需求。</p>",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "source": "ByteDance",
+    "url": "https://example.com/trae-solo",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "009",
+    "title": "Google 升級 Gemini API 搜尋，支援多模態與精準引用",
+    "summary": "Google 更新 Gemini API 文件搜尋功能，強化多模態檢索與引用能力",
+    "content": "<p>Google 更新 Gemini API 文件搜尋功能，支援多模態內容檢索，讓文字、圖片等資料能被同時分析與搜尋。</p><p>新功能也提升引用精準度，幫助開發者建立更可靠的 AI 應用，特別是在研究與企業知識管理場景中。</p>",
+    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095",
+    "source": "Google",
+    "url": "https://example.com/gemini-api-search",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "010",
+    "title": "Claude 推出金融 Agent 模板，加速 AI 在金融業落地",
+    "summary": "Claude 發布金融 Agent 模板，多家機構採用推動 AI 金融應用",
+    "content": "<p>Claude 推出一系列金融 Agent 模板，協助金融機構快速導入 AI 解決方案，涵蓋分析、客服與決策支援。</p><p>目前已有多家機構採用，顯示 AI 在金融產業的應用正加速落地，並逐步改變服務模式。</p>",
+    "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44",
+    "source": "Anthropic",
+    "url": "https://example.com/claude-finance-agent",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "011",
+    "title": "Google NotebookLM 新增心智圖功能，行動版開發啟動",
+    "summary": "Google NotebookLM 推出 Mind Maps 功能並規劃行動版本",
+    "content": "<p>Google 更新 NotebookLM，新增心智圖功能，幫助用戶更直觀整理與理解資訊。</p><p>同時官方確認行動版開發計畫，未來將拓展使用場景並提升跨裝置體驗。</p>",
+    "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40",
+    "source": "Google",
+    "url": "https://example.com/notebooklm-mindmap",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "012",
+    "title": "Google Finance 導入 AI 關鍵時刻分析，解析股價波動",
+    "summary": "Google Finance 推出 AI 功能，解釋股價變動背後原因",
+    "content": "<p>Google Finance 推出 AI 關鍵時刻功能，能自動分析並解釋股價波動的主要原因。</p><p>該功能讓投資人更容易理解市場動態，提升決策效率，顯示 AI 正逐步滲透金融資訊服務領域。</p>",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+    "source": "Google",
+    "url": "https://example.com/google-finance-ai",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "013",
+    "title": "Google 推出 Pomelli Catalog，免費開放 AI 工具體驗",
+    "summary": "Google 發布 Pomelli Catalog，提供全球用戶免費體驗 AI 工具",
+    "content": "<p>Google 推出 Pomelli Catalog，整合多種 AI 工具並向全球用戶免費開放體驗。</p><p>此平台旨在降低 AI 使用門檻，讓更多開發者與創作者能快速探索與應用新技術。</p>",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1",
+    "source": "Google",
+    "url": "https://example.com/pomelli-catalog",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "014",
+    "title": "Augment Code 推出 Cosmos 公測，強化 AI 開發協作能力",
+    "summary": "Augment Code 發布 Cosmos 公開預覽，提升開發者 AI 協作與程式生成效率",
+    "content": "<p>Augment Code 宣布推出 Cosmos 公開預覽版本，提供更進階的 AI 協作開發體驗，讓開發者能透過自然語言生成與管理程式碼。</p><p>該工具強調團隊協作與大型專案支援，預期將提升開發效率並改變軟體工程流程。</p>",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "source": "Augment Code",
+    "url": "https://example.com/augment-cosmos",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "015",
+    "title": "OpenClaw 釋出 2026.5.4 版本，優化插件與啟動效率",
+    "summary": "OpenClaw 更新版本優化啟動流程與插件系統，並傳出將推長期支援版",
+    "content": "<p>OpenClaw 發布 2026.5.4 更新，針對啟動流程與插件系統進行優化，提升整體效能與穩定性。</p><p>市場同時傳出未來可能推出長期支援版本，顯示其產品策略正朝企業級應用發展。</p>",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+    "source": "OpenClaw",
+    "url": "https://example.com/openclaw-update",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "016",
+    "title": "Google 推出 AI 工具整合策略，生態系競爭全面升級",
+    "summary": "Google 多項 AI 工具更新同步推出，顯示其強化整體生態布局策略",
+    "content": "<p>隨著 Gemini、NotebookLM 與 AI Studio 等產品持續更新，Google 正加速整合其 AI 工具生態，形成更完整的開發與應用平台。</p><p>分析指出，這種整合策略有助提升用戶黏著度，並與 OpenAI、Anthropic 等競爭對手形成差異化優勢。</p>",
+    "image": "https://images.unsplash.com/photo-1573164713988-8665fc963095",
+    "source": "Industry Analysis",
+    "url": "https://example.com/google-ai-ecosystem",
+    "date": "2026-05-06"
+  },
+  {
+    "id": "017",
+    "title": "多模態 AI 全面爆發，語音影像整合成主流趨勢",
+    "summary": "語音、影像與文字整合加速，多模態 AI 成為產業發展主軸",
+    "content": "<p>近期多項 AI 產品更新顯示，多模態技術正快速成熟，語音、影像與文字的整合能力成為主流發展方向。</p><p>從 TTS、圖像生成到跨模態搜尋，各大科技公司正競相布局，預期將重塑內容創作與人機互動模式。</p>",
+    "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+    "source": "Tech Analysis",
+    "url": "https://example.com/multimodal-ai-trend",
+    "date": "2026-05-06"
+  }
+]
+

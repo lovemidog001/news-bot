@@ -1,0 +1,92 @@
+[
+  {
+    "id": "001",
+    "title": "OpenAI 升級帳戶安全機制，導入多層驗證強化防護",
+    "summary": "OpenAI 推出進階安全功能，透過多層驗證與異常偵測提升帳戶防護能力",
+    "content": "<p>OpenAI 宣布推出進階帳戶安全機制，導入多層驗證與異常登入偵測，以提升用戶資料保護能力。此次更新主要針對日益增加的資安風險，強化整體登入安全流程。</p><p>此外，系統也提供更細緻的裝置與權限管理功能，讓使用者能掌握帳戶活動。隨著 AI 應用普及，資安已成為平台競爭與信任建立的重要基礎。</p>",
+    "image": "https://openai.com/content/images/2023/11/security.jpg",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advanced-account-security/",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "002",
+    "title": "AI Podcast 解析 GPT-5.5，多模態競爭成產業新核心",
+    "summary": "AI Podcast 指出 GPT-5.5 發展，顯示多模態整合成為 AI 競爭關鍵",
+    "content": "<p>最新 AI Podcast 探討 GPT-5.5 與 DeepSeek 等模型進展，指出生成式 AI 正從單一能力競爭轉向多模態整合，包括文字、圖像與推理能力的同步提升。</p><p>專家認為，未來勝負關鍵將在於應用整合與產品落地，而非單純模型性能，企業需建立完整生態系以維持競爭優勢。</p>",
+    "image": "https://lastweekin.ai/content/images/2024/ai-podcast.jpg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-243-gpt-55-deepseek",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "003",
+    "title": "TED 演講揭示言論成本上升，AI 時代民主壓力加劇",
+    "summary": "TED 指出言論成本上升，AI 與輿論環境改變民主社會運作方式",
+    "content": "<p>在最新 TED 演講中，Miles Taylor 探討現代社會中發表不同意見的成本正在上升，特別是在政治與科技高度交織的環境下。</p><p>他指出，AI 與社群媒體放大輿論壓力，使言論風險增加，可能影響民主制度運作，呼籲建立更包容的公共討論空間。</p>",
+    "image": "https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_1815/miles_taylor.jpg",
+    "source": "TED",
+    "url": "https://www.ted.com/talks/miles_taylor_the_rising_cost_of_dissent_in_america_may_2026",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "004",
+    "title": "專家談 AI 外交與言論自由，美國全球角色面臨挑戰",
+    "summary": "專家分析 AI 對外交與言論自由影響，指出美國需重新定位科技責任",
+    "content": "<p>專家指出，生成式 AI 正改變國際資訊傳播與外交模式，使各國在言論自由與資訊安全之間面臨新的平衡挑戰。</p><p>分析認為，美國需在科技領導與民主價值之間取得平衡，建立全球 AI 治理框架，以避免技術被用於操控輿論或地緣政治工具。</p>",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df",
+    "source": "Policy Analysis",
+    "url": "https://example.com/ai-diplomacy-free-speech",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "005",
+    "title": "Valve 兩天進口 50 噸主機設備，硬體布局動向曝光",
+    "summary": "Valve 大量進口主機設備，顯示其加速硬體與平台整合策略",
+    "content": "<p>市場消息指出 Valve 在短短兩天內進口約 50 噸遊戲主機設備，引發對其硬體策略的高度關注。</p><p>分析認為，Valve 正積極擴展硬體與平台整合能力，未來可能推出新產品或強化既有裝置生態，以提升競爭力。</p>",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db",
+    "source": "Industry Report",
+    "url": "https://example.com/valve-console-import",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "006",
+    "title": "OpenAI 總裁受訪避答關鍵議題，引發治理透明度討論",
+    "summary": "OpenAI 高層訪談避答核心問題，市場關注公司策略與透明度",
+    "content": "<p>OpenAI 總裁近期接受訪問時，對部分關鍵問題未正面回應，引發外界對公司治理與決策透明度的討論。</p><p>在 AI 競爭加劇背景下，企業策略與溝通方式成為市場關注焦點，透明度將影響投資人與用戶信任。</p>",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+    "source": "Business Insider",
+    "url": "https://example.com/openai-president-interview",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "007",
+    "title": "Apple 申請暫停 Epic 案，App Store 收費模式爭議升溫",
+    "summary": "Apple 向最高法院申請暫停裁決，顯示 App Store 抽成爭議持續擴大",
+    "content": "<p>Apple 向美國最高法院提出申請，要求暫停 Epic Games 訴訟相關裁決，試圖延後 App Store 政策影響。</p><p>此案關乎平台抽成與市場競爭公平性，未來判決將影響全球應用商店商業模式與開發者收益結構。</p>",
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9",
+    "source": "The Verge",
+    "url": "https://example.com/apple-epic-supreme-court",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "008",
+    "title": "Elon Musk 與 SEC 和解，Twitter 披露案正式結束",
+    "summary": "Elon Musk 與 SEC 達成和解，結束 Twitter 收購前資訊披露爭議",
+    "content": "<p>Elon Musk 與美國證券交易委員會達成和解，解決其在收購 Twitter 前未及時披露持股的法律問題。</p><p>此案凸顯科技企業高層在資本市場的監管壓力，未來相關規範可能進一步收緊，以確保市場透明與公平。</p>",
+    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/",
+    "date": "2026-05-05"
+  },
+  {
+    "id": "009",
+    "title": "GTA 6 傳進入高強度開發期，加班文化再掀討論",
+    "summary": "GTA 6 傳出開發團隊加班至深夜，引發遊戲產業工作環境關注",
+    "content": "<p>根據最新消息，《GTA 6》開發團隊已進入高強度開發階段，部分員工需工作至凌晨，引發外界對加班文化的關注。</p><p>業界指出，3A 大作在發售前進入 crunch 階段並不罕見，但長期勞動問題仍持續受到批評，成為遊戲產業的重要議題。</p>",
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c44367f",
+    "source": "4Gamers",
+    "url": "https://www.4gamers.com.tw/news/detail/78889/gta-6-insider-responds-to-claims-devs-are-working-until-3-am-as-crunch-starts",
+    "date": "2026-05-05"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "001",
+    "title": "OpenAI 宣布 Stargate 超級計算基礎設施擴建",
+    "summary": "OpenAI 推動 Intelligence Age 基礎建設，擴大 Stargate 資料中心以滿足 AGI 訓練需求。",
+    "content": "<p>OpenAI 於 4 月 29 日宣布擴建 Stargate 計畫，新增大量 GPU 叢集，以支援下一代大型模型訓練。該基礎設施將大幅提升計算能力，加速 AGI 發展。</p><p>此舉顯示 OpenAI 持續投資硬體基礎，以維持在 AI 競賽中的領先地位。</p>",
+    "image": "https://picsum.photos/id/1015/800/600",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "002",
+    "title": "Anthropic 推出 Claude Managed Agents",
+    "summary": "Anthropic 發布 Claude Managed Agents，提升 AI 代理自主執行能力。",
+    "content": "<p>Anthropic 在 4 月推出 Claude Managed Agents，讓 AI 能更安全地處理複雜多步驟任務。結合憲法 AI 框架，顯著降低風險。</p><p>此功能特別適合企業級自動化工作流。</p>",
+    "image": "https://picsum.photos/id/106/800/600",
+    "source": "Anthropic",
+    "url": "https://anthropic.com",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "003",
+    "title": "Poolside 發布開源代理編碼模型 Laguna XS.2",
+    "summary": "Poolside 推出免費高性能開源模型 Laguna XS.2，專注本地代理式程式碼生成。",
+    "content": "<p>美國 AI 新創 Poolside 發布 Laguna XS.2 開源模型與 Laguna M.1，提供強大本地編碼代理能力，支援終端機與 Web IDE。</p>",
+    "image": "https://picsum.photos/id/201/800/600",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "004",
+    "title": "Ineffable Intelligence 獲 11 億美元融資",
+    "summary": "David Silver 新創 Ineffable Intelligence 完成 11 億美元融資，開發 AI Superlearner。",
+    "content": "<p>AlphaGo 創造者 David Silver 創辦的 Ineffable Intelligence 以 51 億美元估值融資 11 億美元，目標透過強化學習生成全新知識。</p>",
+    "image": "https://picsum.photos/id/237/800/600",
+    "source": "SiliconANGLE",
+    "url": "https://siliconangle.com",
+    "date": "2026-04-29"
+  },
+  {
+    "id": "005",
+    "title": "OpenAI 完成 1220 億美元巨額融資",
+    "summary": "OpenAI 以 8520 億美元估值完成 Series D 融資，加速 AI 基礎設施與模型開發。",
+    "content": "<p>OpenAI 宣布完成 1220 億美元融資，用於擴大計算資源與新一代模型研發，展現投資人對 AGI 的高度信心。</p>",
+    "image": "https://picsum.photos/id/180/800/600",
+    "source": "OpenAI",
+    "url": "https://openai.com",
+    "date": "2026-04-29"
+  }
+]

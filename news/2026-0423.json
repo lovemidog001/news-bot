@@ -1,0 +1,12 @@
+[
+  {
+    "id": "001",
+    "title": "OpenAI 擴展企業 API，強化多模態應用能力",
+    "summary": "OpenAI 推出升級版 API，支援圖片與語音整合應用。",
+    "content": "<p>OpenAI 宣布更新其企業 API，提供更完整的多模態支援。</p><p>開發者可整合文字、圖片與語音功能，打造更豐富的應用場景。</p>",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+    "source": "OpenAI",
+    "url": "https://openai.com",
+    "date": "2026-04-23"
+  }
+]

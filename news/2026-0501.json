@@ -1,0 +1,62 @@
+[
+  {
+    "id": "001",
+    "title": "xAI 發布 Grok 4，強化即時知識與多步推理能力",
+    "summary": "xAI 推出 Grok 4，主打即時資訊整合與高階推理能力，進一步縮短 AI 回應與現實世界的距離。",
+    "content": "<p>xAI 正式發布新一代模型 Grok 4，進一步強化即時知識存取與多步推理能力，讓模型在複雜問題上能提供更精準的答案。</p><p>相較前代版本，Grok 4 在數學推導、程式碼生成與即時資訊理解上有顯著提升，顯示 AI 正逐步從「會說」進化為「會判斷」。</p>",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995",
+    "source": "xAI",
+    "url": "https://x.ai",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "002",
+    "title": "OpenAI 推出 GPT-5o mini，壓低成本搶攻大規模應用",
+    "summary": "OpenAI 發布 GPT-5o mini，在維持高性能的同時大幅降低成本，瞄準企業級與高頻應用場景。",
+    "content": "<p>OpenAI 推出 GPT-5o mini，主打更快回應速度與更低使用成本，讓 AI 能更廣泛導入日常應用與商業流程中。</p><p>此舉顯示 AI 市場正從性能競賽轉向「成本與規模」，企業可望以更低門檻導入 AI 解決方案。</p>",
+    "image": "https://images.unsplash.com/photo-1676299081847-824916de030a",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "003",
+    "title": "Meta 發布 Llama 4，多模態開源模型性能逼近閉源系統",
+    "summary": "Meta 推出 Llama 4，支援多模態處理，開源模型性能持續逼近商業閉源 AI。",
+    "content": "<p>Meta 正式發布 Llama 4，進一步提升開源模型在多模態處理上的能力，支援文字、圖像與語音整合。</p><p>隨著性能持續提升，開源 AI 正逐漸縮小與閉源模型的差距，對整體產業競爭格局產生深遠影響。</p>",
+    "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485",
+    "source": "Meta AI",
+    "url": "https://ai.meta.com",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "004",
+    "title": "Anthropic 升級 Claude 4.1，強化企業級安全與合規能力",
+    "summary": "Anthropic 推出 Claude 4.1，聚焦企業安全與資料隱私，瞄準高監管產業市場。",
+    "content": "<p>Anthropic 發布 Claude 4.1，進一步強化模型在企業環境中的安全性與合規能力。</p><p>新版本導入更嚴格的審核機制與資料保護設計，特別適用於金融、醫療等高風險應用場景。</p>",
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+    "source": "Anthropic",
+    "url": "https://anthropic.com",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "005",
+    "title": "Microsoft 推出 Phi-4，小型模型強攻邊緣 AI 市場",
+    "summary": "Microsoft 發布 Phi-4，小型高效模型可在手機與本地設備運行，推動邊緣 AI 普及。",
+    "content": "<p>Microsoft 發布 Phi-4 模型，專為資源受限環境設計，能在手機與邊緣設備上運行。</p><p>隨著輕量模型性能提升，AI 正逐步從雲端走向本地，開啟更多即時與隱私導向的應用場景。</p>",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "source": "Microsoft Research",
+    "url": "https://www.microsoft.com/ai",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "006",
+    "title": "AI 模型競爭進入成本戰，企業導入門檻快速下降",
+    "summary": "隨著多家科技公司推出低成本模型，AI 市場競爭從性能轉向價格與規模。",
+    "content": "<p>近期多家科技公司相繼推出低成本 AI 模型，顯示市場競爭已從單純性能比拼轉向成本與可擴展性。</p><p>這一趨勢將加速 AI 在中小企業與日常應用中的普及，進一步擴大整體市場規模。</p>",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com",
+    "date": "2026-05-01"
+  }
+]

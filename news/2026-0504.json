@@ -1,0 +1,141 @@
+[
+  {
+    "id": "001",
+    "priority": "headline",
+    "title": "AI 軍事合作全面曝光，美國打造「AI-first 戰爭體系」",
+    "summary": "美國國防部攜手 OpenAI、Google 等科技巨頭，正式推動 AI 軍事化，引發全球關注。",
+    "content": "<p>美國國防部近期確認，已與 OpenAI、Google、Microsoft、Amazon 與 NVIDIA 等企業合作，將大型 AI 系統導入軍事網路與作戰流程中。</p><p>這項策略被視為打造「AI-first 軍事體系」的關鍵一步，未來將用於情報分析、戰場預測與決策輔助，但也引發全球對 AI 武器化的倫理與安全疑慮。</p>",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "source": "The Guardian",
+    "url": "https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "002",
+    "priority": "high",
+    "title": "OpenAI 與 Elon Musk 爭議升級，AI 控制權成焦點",
+    "summary": "Elon Musk 與 OpenAI 法律衝突升溫，AI 發展方向與控制權問題浮上檯面。",
+    "content": "<p>Elon Musk 與 OpenAI 的法律爭議持續升溫，雙方對於公司是否偏離原始使命產生嚴重分歧。</p><p>此案凸顯 AI 發展中「商業化 vs 公共利益」的核心矛盾，也讓企業治理成為產業關注焦點。</p>",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/key-takeaways-musks-testimony-openai-trial-2026-05-01/",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "003",
+    "priority": "high",
+    "title": "Google 全面推進 Gemini，AI 助手成核心入口",
+    "summary": "Google 將 Gemini 深度整合至產品線，AI 正成為主要使用介面。",
+    "content": "<p>Google 持續推動 Gemini 模型整合至搜尋與辦公工具，使 AI 成為使用者主要互動方式。</p><p>這代表科技產品正從「工具導向」轉向「AI 導向」，改變使用者與資訊互動的模式。</p>",
+    "image": "https://images.unsplash.com/photo-1581093588401-12d6e0e3c6c3",
+    "source": "Google Blog",
+    "url": "https://blog.google/technology/ai/",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "004",
+    "priority": "high",
+    "title": "NVIDIA 擴張 AI 算力版圖，資料中心需求爆發",
+    "summary": "AI 熱潮帶動算力需求，NVIDIA 加速全球資料中心布局。",
+    "content": "<p>NVIDIA 持續擴展 AI 資料中心建設，以應對企業對大型模型運算需求的快速成長。</p><p>隨著生成式 AI 普及，算力已成為企業競爭的核心資源，帶動整個半導體與雲端產業成長。</p>",
+    "image": "https://images.unsplash.com/photo-1581091215367-59ab6b0b61f6",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/technology/",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "005",
+    "priority": "normal",
+    "title": "Amazon 擴大 AI 客服應用，自動化程度再提升",
+    "summary": "Amazon 導入生成式 AI，提升客服效率並降低營運成本。",
+    "content": "<p>Amazon 正在其客服系統中導入生成式 AI，使大量用戶問題可自動回應與處理。</p><p>這種自動化模式將進一步降低人力需求，同時提升整體服務效率。</p>",
+    "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d",
+    "source": "Reuters",
+    "url": "https://www.reuters.com/business/",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "006",
+    "priority": "normal",
+    "title": "Meta 強化 AI 廣告系統，推動營收成長",
+    "summary": "Meta 升級 AI 廣告技術，提高精準投放與轉換率。",
+    "content": "<p>Meta 宣布升級 AI 廣告系統，利用用戶數據分析提升投放精準度。</p><p>新系統可自動生成內容並優化策略，吸引企業增加廣告投入。</p>",
+    "image": "https://images.unsplash.com/photo-1611162616475-46b635cb6868",
+    "source": "Meta",
+    "url": "https://ai.meta.com/blog/",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "007",
+    "priority": "normal",
+    "title": "AI 人才需求持續上升，企業競爭加劇",
+    "summary": "科技公司持續擴大 AI 招聘，人才成為競爭關鍵。",
+    "content": "<p>AI 技術需求快速成長，促使企業持續擴大招聘相關人才。</p><p>薪資水準與競爭同步上升，AI 人才已成為企業核心資產。</p>",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "source": "Bloomberg",
+    "url": "https://www.bloomberg.com/technology",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "008",
+    "priority": "insight",
+    "title": "AI 正從技術競賽轉向權力競賽",
+    "summary": "從軍事、企業到人才，AI 已成為全球權力競爭核心。",
+    "content": "<p>從美國軍方導入 AI，到科技公司間的競爭與法律衝突，AI 已不再只是技術問題，而是權力與影響力的延伸。</p><p>未來 AI 發展將不僅取決於技術突破，更取決於誰掌握資源、數據與規則制定權。</p>",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+    "source": "Analysis",
+    "url": "https://www.reuters.com/technology/",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "009",
+    "title": "Apple 推出 2026 Pride 錶帶與動態錶面，延續多元設計理念",
+    "summary": "Apple 發布 2026 Pride 系列錶帶與動態錶面，強化個性化設計並持續支持 LGBTQ+ 社群",
+    "content": "<p>Apple 宣布推出 2026 年 Pride 系列，包括全新 Apple Watch 彩虹錶帶、動態錶面以及 iPhone 專屬桌布，延續每年於同志驕傲月前發布的傳統。新設計延續多彩條紋元素，強調每條錶帶皆具有獨特外觀，象徵個體差異與多元文化。</p><p>此外，搭配的錶面與桌布加入動態變化效果，能隨裝置移動或使用情境改變顏色排列，提升視覺互動體驗。Apple 同時表示將持續資助 LGBTQ+ 相關組織，讓產品設計與社會價值形成連結。</p>",
+    "image": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-Pride-Collection-hero_big.jpg.large.jpg",
+    "source": "MacRumors",
+    "url": "https://www.macrumors.com/2026/05/04/apple-watch-2026-pride-band/",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "010",
+    "title": "OpenAI 強化帳戶安全機制，新增進階防護與驗證功能",
+    "summary": "OpenAI 推出進階帳戶安全功能，提升使用者資料保護並降低帳號遭入侵風險",
+    "content": "<p>OpenAI 宣布升級帳戶安全機制，推出進階驗證與防護功能，強化用戶在平台上的資安防線。新措施包含更嚴格的登入驗證流程與異常行為偵測，以防止未授權存取。</p><p>此次更新也針對企業與高風險帳戶提供更完整的安全選項，讓使用者能更精細地管理登入權限與設備存取。隨著 AI 工具普及，帳戶安全已成為平台競爭的重要一環。</p>",
+    "image": "https://openai.com/content/images/2023/11/security.jpg",
+    "source": "OpenAI",
+    "url": "https://openai.com/index/advanced-account-security/",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "011",
+    "title": "Epic Games 上架 Oddsparks，結合自動化與冒險玩法",
+    "summary": "Oddsparks 登陸 Epic Games 平台，融合自動化生產與動作冒險玩法吸引玩家關注",
+    "content": "<p>Epic Games Store 上架新作《Oddsparks》，該遊戲結合自動化建設與動作冒險元素，玩家可透過類似工廠系統的方式指揮角色進行資源收集與生產。</p><p>遊戲特色在於將策略與即時操作融合，玩家不僅要優化流程，也需探索未知區域與應對敵人挑戰。此類混合玩法被視為近期遊戲市場的新興趨勢之一。</p>",
+    "image": "https://cdn2.unrealengine.com/egs-oddsparks-keyart-1920x1080-1920x1080.jpg",
+    "source": "Epic Games",
+    "url": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "012",
+    "title": "Hisense 大幅調降 UR9 電視價格，搶攻高階市場",
+    "summary": "Hisense 調降 UR9 電視售價，以高規格與更親民價格競爭高階電視市場",
+    "content": "<p>Hisense 宣布調降旗下 UR9 系列電視價格，藉由更具競爭力的定價策略切入高階顯示市場。該系列主打高亮度與進階影像處理技術，定位於高端影音體驗。</p><p>隨著價格下修，UR9 將與 Samsung、LG 等品牌正面競爭，進一步擴大市占率。市場分析指出，高性價比策略將成為中國品牌在全球電視市場的重要突破口。</p>",
+    "image": "https://cdn.vox-cdn.com/thumbor/Hisense-TV.jpg",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/922571/hisense-cuts-price-ur9",
+    "date": "2026-05-04"
+  },
+  {
+    "id": "013",
+    "title": "AI Podcast 熱議 GPT-5.5 與 ChatGPT 圖像能力進化",
+    "summary": "AI Podcast 討論 GPT-5.5 與圖像生成能力，揭示多模態發展新趨勢",
+    "content": "<p>最新 AI Podcast 聚焦 GPT-5.5 與 ChatGPT 圖像功能的進展，探討生成式 AI 在多模態領域的突破。節目指出，圖像與文字的整合能力正快速提升。</p><p>專家認為，未來 AI 將不再局限於單一輸入形式，而是朝向跨媒介理解與生成發展，進一步擴大應用場景，包括設計、內容創作與商業決策。</p>",
+    "image": "https://lastweekin.ai/content/images/2024/ai-podcast.jpg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-243-gpt-55-deepseek",
+    "date": "2026-05-04"
+  }
+]
+
