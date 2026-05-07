@@ -76,11 +76,27 @@ today_file = datetime.now().strftime(
 
 counter = len(results) + 1
 
+# ===== URL 去重 =====
+
+existing_urls = {
+    item["url"]
+    for item in results
+}
 
 # ===== 主流程 =====
 
 for art in articles:
 
+        # ===== 已存在則跳過 =====
+
+    if art["link"] in existing_urls:
+
+        print(
+            f"Skip Duplicate: {art['link']}"
+        )
+
+        continue
+        
     if len(results) >= config["max_articles"]:
         break
 
