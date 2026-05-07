@@ -1,179 +1,76 @@
 import json
-import feedparser
-import requests
 import os
 from datetime import datetime
 
-# ===== 讀設定 =====
-with open("config.json", "r", encoding="utf-8") as f:
+from utils.ai import call_nvidia
+from utils.image import fetch_image
+from utils.json_fix import repair_json
+from utils.rss import fetch_rss
+
+
+# ===== 讀取設定 =====
+
+with open(
+    "config.json",
+    "r",
+    encoding="utf-8"
+) as f:
+
     config = json.load(f)
 
-# ===== NVIDIA AI =====
-def call_nvidia_ai(text):
 
-    api_key = os.getenv("NVIDIA_API_KEY")
+# ===== AI Provider Mapping =====
 
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
-    }
+AI_PROVIDER = {
+    1: "nvidia",
+    2: "gemini",
+    3: "openai",
+    4: "deepseek"
+}
 
-    prompt = f"""
-你是一位專業科技新聞編輯。
 
-請根據以下內容，生成符合規範的 JSON。
+provider = AI_PROVIDER.get(
+    config["ai_provider"],
+    "nvidia"
+)
 
-規則：
 
-1. title：
-- 20~40字
-- 像科技新聞標題
-- 不要誇張農場感
+# ===== 抓 RSS =====
 
-2. summary：
-- 20~50字
-- 一句話講重點
+articles = fetch_rss()
 
-3. content：
-- HTML格式
-- 必須：
-<p>第一段</p><p>第二段</p>
 
-4. image：
-- 留空字串 ""
+# ===== 結果 =====
 
-5. source：
-- 留空字串 ""
+results = []
 
-只輸出 JSON。
-不要 markdown。
-不要 ```json。
-不要解釋。
 
-格式：
+# ===== 日期 =====
 
-{{
-  "title": "",
-  "summary": "",
-  "content": "",
-  "image": "",
-  "source": ""
-}}
+today_display = datetime.now().strftime(
+    "%Y-%m-%d"
+)
 
-內容：
-{text}
-"""
+today_file = datetime.now().strftime(
+    "%Y-%m%d"
+)
 
-    payload = {
-        "model": config["model"],
-        "messages": [
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ],
-        "temperature": 0.6,
-        "top_p": 0.9,
-        "max_tokens": 800
-    }
 
-    response = requests.post(
-        "https://integrate.api.nvidia.com/v1/chat/completions",
-        headers=headers,
-        json=payload,
-        timeout=60
-    )
+# ===== 正確流水號 =====
 
-    response.raise_for_status()
+counter = 1
 
-    result = response.json()
 
-    content = result["choices"][0]["message"]["content"]
+# ===== 主流程 =====
 
-    # 清理 markdown
-    content = content.replace("```json", "").replace("```", "").strip()
+for art in articles:
 
-    return content
-
-# ===== 抓文章圖片 =====
-def fetch_image(url):
+    if len(results) >= config["max_articles"]:
+        break
 
     try:
 
-        headers = {
-            "User-Agent": "Mozilla/5.0"
-        }
-
-        response = requests.get(url, headers=headers, timeout=10)
-
-        html = response.text
-
-        # 找 og:image
-        marker = 'property="og:image"'
-
-        if marker in html:
-
-            split_html = html.split(marker)
-
-            if len(split_html) > 1:
-
-                part = split_html[1]
-
-                content_split = part.split('content="')
-
-                if len(content_split) > 1:
-
-                    image_url = content_split[1].split('"')[0]
-
-                    return image_url
-
-    except Exception as e:
-        print(f"Image Error: {e}")
-
-    return ""
-
-# ===== 抓 RSS =====
-def fetch_rss():
-
-    with open("rss_sources.json", "r", encoding="utf-8") as f:
-        sources = json.load(f)
-
-    articles = []
-
-    for src in sources:
-
-        try:
-            feed = feedparser.parse(src["url"])
-
-            for entry in feed.entries[:3]:
-
-                articles.append({
-                    "title": entry.get("title", ""),
-                    "link": entry.get("link", ""),
-                    "summary": entry.get("summary", ""),
-                    "source": src["name"]
-                })
-
-        except Exception as e:
-            print(f"RSS Error: {e}")
-
-    return articles
-
-# ===== 主流程 =====
-def main():
-
-    articles = fetch_rss()
-
-    results = []
-
-    today_display = datetime.now().strftime("%Y-%m-%d")
-    today_file = datetime.now().strftime("%Y-%m%d")
-
-    for idx, art in enumerate(articles[:config["max_articles"]]):
-
-        try:
-
-            raw_text = f"""
+        raw_text = f"""
 標題：
 {art['title']}
 
@@ -181,58 +78,157 @@ def main():
 {art['summary']}
 """
 
-            ai_result = call_nvidia_ai(raw_text)
+        # ===== AI 呼叫 =====
 
-            data = json.loads(ai_result)
+        if provider == "nvidia":
 
-            news_item = {
-                "id": str(idx + 1).zfill(3),
-                "title": data.get("title", ""),
-                "summary": data.get("summary", ""),
-                "content": data.get("content", ""),
-                "image": fetch_image(art["link"]),
-                "source": art["source"],
-                "url": art["link"],
-                "date": today_display
-            }
+            ai_result = call_nvidia(
+                raw_text,
+                config["model"]
+            )
 
-            results.append(news_item)
+        else:
+            continue
 
-            print(f"Generated: {news_item['title']}")
 
-        except Exception as e:
-            print(f"AI Error: {e}")
+        # ===== 修復 JSON =====
 
-    # 建立資料夾
-    os.makedirs("news", exist_ok=True)
+        data = repair_json(ai_result)
 
-    # 輸出當天 JSON
-    output_path = f"news/{today_file}.json"
 
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
+        # ===== 組合新聞 =====
 
-    print(f"Saved: {output_path}")
+        news_item = {
 
-    # ===== 更新 news/index.json =====
-    index_path = "news/index.json"
+            "id": str(counter).zfill(3),
 
-    # 讀取現有清單
-    if os.path.exists(index_path):
-        with open(index_path, "r", encoding="utf-8") as f:
-            index = json.load(f)
-    else:
-        index = []
+            "title": data.get(
+                "title",
+                ""
+            ),
 
-    # 加入今天日期（若不重複）
-    if today_file not in index:
-        index.insert(0, today_file)  # 最新的放最前面
+            "summary": data.get(
+                "summary",
+                ""
+            ),
 
-    with open(index_path, "w", encoding="utf-8") as f:
-        json.dump(index, f, ensure_ascii=False, indent=2)
+            "content": data.get(
+                "content",
+                ""
+            ),
 
-    print(f"Updated: {index_path}")
+            "image": fetch_image(
+                art["link"]
+            ),
 
-# ===== 啟動 =====
-if __name__ == "__main__":
-    main()
+            "source": art["source"],
+
+            "url": art["link"],
+
+            "date": today_display
+        }
+
+
+        results.append(news_item)
+
+        counter += 1
+
+        print(
+            f"Generated: {news_item['title']}"
+        )
+
+    except Exception as e:
+
+        print(f"AI Error: {e}")
+
+
+# ===== 建立 news 資料夾 =====
+
+os.makedirs(
+    "news",
+    exist_ok=True
+)
+
+
+# ===== 輸出每日 JSON =====
+
+output_path = f"news/{today_file}.json"
+
+with open(
+    output_path,
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        results,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
+
+
+# ===== index.json =====
+
+index_path = "news/index.json"
+
+
+# 讀取舊 index
+
+if os.path.exists(index_path):
+
+    with open(
+        index_path,
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        index = json.load(f)
+
+else:
+
+    index = []
+
+
+# 新增今日資訊
+
+entry = {
+
+    "file": f"{today_file}.json",
+
+    "date": today_display,
+
+    "count": len(results)
+}
+
+
+# 避免重複
+
+exists = any(
+    item["file"] == entry["file"]
+    for item in index
+)
+
+
+if not exists:
+
+    index.insert(0, entry)
+
+
+# 存回 index.json
+
+with open(
+    index_path,
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        index,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
+
+
+print(f"Saved: {output_path}")
