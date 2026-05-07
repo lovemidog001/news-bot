@@ -1,7 +1,7 @@
 {
   "ai_provider": "nvidia",
   "model": "google/gemma-4-31b-it",
-  "max_articles": 3,
+  "max_articles": 20,
   "rss_sources": [
     { "name": "TechCrunch", "url": "https://techcrunch.com/feed/" },
     { "name": "Google Blog", "url": "https://blog.google/rss/" },
