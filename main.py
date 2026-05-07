@@ -35,7 +35,30 @@ articles = fetch_rss()
 
 # ===== 結果 =====
 
-results = []
+output_path = f"news/{today_file}.json"
+
+
+# ===== 如果今日檔案已存在 =====
+
+if os.path.exists(output_path):
+
+    try:
+
+        with open(
+            output_path,
+            "r",
+            encoding="utf-8"
+        ) as f:
+
+            results = json.load(f)
+
+    except:
+
+        results = []
+
+else:
+
+    results = []
 
 
 # ===== 日期 =====
@@ -51,7 +74,7 @@ today_file = datetime.now().strftime(
 
 # ===== 正確流水號 =====
 
-counter = 1
+counter = len(results) + 1
 
 
 # ===== 主流程 =====
