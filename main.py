@@ -131,7 +131,7 @@ def fetch_image(url):
         print(f"Image Error: {e}")
 
     return ""
-    
+
 # ===== 抓 RSS =====
 def fetch_rss():
 
@@ -206,13 +206,32 @@ def main():
     # 建立資料夾
     os.makedirs("news", exist_ok=True)
 
-    # 輸出 JSON
+    # 輸出當天 JSON
     output_path = f"news/{today_file}.json"
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
     print(f"Saved: {output_path}")
+
+    # ===== 更新 news/index.json =====
+    index_path = "news/index.json"
+
+    # 讀取現有清單
+    if os.path.exists(index_path):
+        with open(index_path, "r", encoding="utf-8") as f:
+            index = json.load(f)
+    else:
+        index = []
+
+    # 加入今天日期（若不重複）
+    if today_file not in index:
+        index.insert(0, today_file)  # 最新的放最前面
+
+    with open(index_path, "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=2)
+
+    print(f"Updated: {index_path}")
 
 # ===== 啟動 =====
 if __name__ == "__main__":
