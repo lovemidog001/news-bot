@@ -2,5 +2,13 @@
   {
     "name": "TechCrunch",
     "url": "https://techcrunch.com/feed/"
+  },
+  {
+    "name": "Google Blog",
+    "url": "https://blog.google/rss/"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/index.xml"
   }
 ]
