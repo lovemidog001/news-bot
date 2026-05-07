@@ -1,0 +1,5 @@
+{
+  "ai_provider": "gemini",
+  "model": "gemini-1.5-flash",
+  "max_articles": 5
+}
