@@ -1,6 +1,5 @@
 {
   "ai_provider": "nvidia",
   "model": "google/gemma-4-31b-it",
-  "max_articles": 20,
+  "max_articles": 10
 }
-
