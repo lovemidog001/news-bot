@@ -190,7 +190,7 @@ def main():
                 "title": data.get("title", ""),
                 "summary": data.get("summary", ""),
                 "content": data.get("content", ""),
-                "image": data.get("image", ""),
+                "image": fetch_image(art["link"]),
                 "source": art["source"],
                 "url": art["link"],
                 "date": today_display
