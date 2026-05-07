@@ -1,12 +1,22 @@
 [
   {
-    "id": "001",
-    "title": "印度新創 Pronto 僅憑 20 分鐘簡報即獲 Lachy Groom 投資支持",
-    "summary": "Pronto 日預訂量已達 2.6 萬筆，正搶佔潛在規模達 180 億美元的市場機會。",
-    "content": "<p>印度新創公司 Pronto 近日獲得知名投資人 Lachy Groom 的資金支持，據悉此次投資僅經過一次 20 分鐘的簡報演示便達成協議。</p><p>目前 Pronto 的業務規模正快速擴張，每日預訂量已攀升至 26,000 筆，目標是深耕潛在市場規模高達 180 億美元的產業領域。</p>",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/anjali-sardana-pronto.jpg?resize=1200,800",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+    "id": "011",
+    "title": "Meta 擬導入 AI 視覺分析系統，防止用戶利用偽裝鬍鬚規避年齡驗證",
+    "summary": "Meta 將透過 AI 分析身高與骨骼結構等視覺線索，強化年齡驗證工具以防止兒童繞過檢查。",
+    "content": "<p>近日有案例顯示，兒童可透過佩戴假鬍鬚等簡單偽裝手段，成功欺騙在線年齡驗證工具。為了堵住這一漏洞，Meta 決定重新設計其驗證機制，以提升辨識的準確性。</p><p>新系統將導入 AI 技術，不再僅依賴單一特徵，而是綜合分析影像與影片中的「視覺線索」，例如使用者的身高與骨骼結構，以更有效地防止未成年人非法進入平台。</p>",
+    "image": "https://media.wired.com/photos/69fb7bd8844a933bdeb7fffe/191:100/w_1280,c_limit/GettyImages-166419623.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/a-kid-with-a-fake-mustache-tricked-an-online-age-verification-tool/",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "014",
+    "title": "馬斯克與奧特曼法律之爭開戰，探討 AI 對民主體制的影響",
+    "summary": "科技新聞快訊分析馬斯克與 Sam Altman 法律訴訟案首週進展及其對 AI 產業的衝擊。",
+    "content": "<p>AI 領域的兩位重量級人物——Elon Musk 與 Sam Altman 正陷入激烈的法律爭端。本週法院審理重點聚焦於雙方對於 AI 開發方向的分歧，以及相關權利義務的法律界定。</p><p>除了法律訴訟，業界亦在深入討論 AI 技術如何應用於民主體制，探討在自動化時代如何維持社會治理的透明度與公平性。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260504_algo2.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
     "date": "2026-05-07"
   }
 ]
