@@ -1,3 +1,4 @@
+```python
 import json
 import os
 from datetime import datetime
@@ -7,8 +8,15 @@ from utils.image import fetch_image
 from utils.json_fix import repair_json
 from utils.rss import fetch_rss
 
+
 # ===== 讀取設定 =====
-with open("config.json", "r", encoding="utf-8") as f:
+
+with open(
+    "config.json",
+    "r",
+    encoding="utf-8"
+) as f:
+
     config = json.load(f)
 
 
@@ -28,12 +36,26 @@ provider = AI_PROVIDER.get(
 )
 
 
-# ===== 抓 RSS =====
+# ===== 日期 =====
 
-articles = fetch_rss()
+today_display = datetime.now().strftime(
+    "%Y-%m-%d"
+)
+
+today_file = datetime.now().strftime(
+    "%Y-%m%d"
+)
 
 
-# ===== 結果 =====
+# ===== 建立 news 資料夾 =====
+
+os.makedirs(
+    "news",
+    exist_ok=True
+)
+
+
+# ===== 今日輸出檔案 =====
 
 output_path = f"news/{today_file}.json"
 
@@ -61,20 +83,10 @@ else:
     results = []
 
 
-# ===== 日期 =====
-
-today_display = datetime.now().strftime(
-    "%Y-%m-%d"
-)
-
-today_file = datetime.now().strftime(
-    "%Y-%m%d"
-)
-
-
 # ===== 正確流水號 =====
 
 counter = len(results) + 1
+
 
 # ===== URL 去重 =====
 
@@ -83,11 +95,17 @@ existing_urls = {
     for item in results
 }
 
+
+# ===== 抓 RSS =====
+
+articles = fetch_rss()
+
+
 # ===== 主流程 =====
 
 for art in articles:
 
-        # ===== 已存在則跳過 =====
+    # ===== 已存在則跳過 =====
 
     if art["link"] in existing_urls:
 
@@ -96,9 +114,13 @@ for art in articles:
         )
 
         continue
-        
+
+
+    # ===== 達到上限 =====
+
     if len(results) >= config["max_articles"]:
         break
+
 
     try:
 
@@ -110,6 +132,7 @@ for art in articles:
 {art['summary']}
 """
 
+
         # ===== AI 呼叫 =====
 
         if provider == "nvidia":
@@ -120,6 +143,7 @@ for art in articles:
             )
 
         else:
+
             continue
 
 
@@ -161,30 +185,34 @@ for art in articles:
         }
 
 
+        # ===== 加入結果 =====
+
         results.append(news_item)
 
+
+        # ===== 更新已存在網址 =====
+
+        existing_urls.add(
+            art["link"]
+        )
+
+
+        # ===== 流水號 +1 =====
+
         counter += 1
+
 
         print(
             f"Generated: {news_item['title']}"
         )
+
 
     except Exception as e:
 
         print(f"AI Error: {e}")
 
 
-# ===== 建立 news 資料夾 =====
-
-os.makedirs(
-    "news",
-    exist_ok=True
-)
-
-
-# ===== 輸出每日 JSON =====
-
-output_path = f"news/{today_file}.json"
+# ===== 儲存每日 JSON =====
 
 with open(
     output_path,
@@ -204,19 +232,77 @@ with open(
 
 index_path = "news/index.json"
 
-# 讀取舊 index
+
+# ===== 讀取 index =====
+
 if os.path.exists(index_path):
-    with open(index_path, "r", encoding="utf-8") as f:
-        index = json.load(f)
+
+    try:
+
+        with open(
+            index_path,
+            "r",
+            encoding="utf-8"
+        ) as f:
+
+            index = json.load(f)
+
+    except:
+
+        index = []
+
 else:
+
     index = []
 
-# 新增今日（避免重複，保持純字串格式）
-if today_file not in index:
-    index.insert(0, today_file)
 
-# 存回 index.json
-with open(index_path, "w", encoding="utf-8") as f:
-    json.dump(index, f, ensure_ascii=False, indent=2)
+# ===== 今日資訊 =====
+
+entry = {
+
+    "file": f"{today_file}.json",
+
+    "date": today_display,
+
+    "count": len(results)
+}
+
+
+# ===== 更新或新增 =====
+
+updated = False
+
+for item in index:
+
+    if item["file"] == entry["file"]:
+
+        item["count"] = len(results)
+
+        updated = True
+
+        break
+
+
+if not updated:
+
+    index.insert(0, entry)
+
+
+# ===== 儲存 index.json =====
+
+with open(
+    index_path,
+    "w",
+    encoding="utf-8"
+) as f:
+
+    json.dump(
+        index,
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
+
 
 print(f"Saved: {output_path}")
+```
