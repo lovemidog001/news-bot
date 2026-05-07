@@ -11,20 +11,6 @@ from utils.rss import fetch_rss
 with open("config.json", "r", encoding="utf-8") as f:
     config = json.load(f)
 
-try:
-
-    with open(
-        index_path,
-        "r",
-        encoding="utf-8"
-    ) as f:
-
-        index = json.load(f)
-
-except:
-
-    index = []
-
 
 # ===== AI Provider Mapping =====
 
@@ -179,63 +165,19 @@ with open(
 
 index_path = "news/index.json"
 
-
 # 讀取舊 index
-
 if os.path.exists(index_path):
-
-    with open(
-        index_path,
-        "r",
-        encoding="utf-8"
-    ) as f:
-
+    with open(index_path, "r", encoding="utf-8") as f:
         index = json.load(f)
-
 else:
-
     index = []
 
-
-# 新增今日資訊
-
-entry = {
-
-    "file": f"{today_file}.json",
-
-    "date": today_display,
-
-    "count": len(results)
-}
-
-
-# 避免重複
-
-exists = any(
-    item["file"] == entry["file"]
-    for item in index
-)
-
-
-if not exists:
-
-    index.insert(0, entry)
-
+# 新增今日（避免重複，保持純字串格式）
+if today_file not in index:
+    index.insert(0, today_file)
 
 # 存回 index.json
-
-with open(
-    index_path,
-    "w",
-    encoding="utf-8"
-) as f:
-
-    json.dump(
-        index,
-        f,
-        ensure_ascii=False,
-        indent=2
-    )
-
+with open(index_path, "w", encoding="utf-8") as f:
+    json.dump(index, f, ensure_ascii=False, indent=2)
 
 print(f"Saved: {output_path}")
