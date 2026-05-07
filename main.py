@@ -10,13 +10,19 @@ from utils.rss import fetch_rss
 
 # ===== 讀取設定 =====
 
-with open(
-    "config.json",
-    "r",
-    encoding="utf-8"
-) as f:
+try:
 
-    config = json.load(f)
+    with open(
+        index_path,
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        index = json.load(f)
+
+except:
+
+    index = []
 
 
 # ===== AI Provider Mapping =====
