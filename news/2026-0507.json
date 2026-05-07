@@ -1,82 +1,12 @@
 [
   {
     "id": "001",
-    "title": "印度新創 Pronto 憑 20 分鐘簡報獲 Lachy Groom 投資，目標搶佔 180 億美元市場喔",
-    "summary": "Pronto 目前日訂單量已達 2.6 萬筆，在市場規模預計將成長至 180 億美元之際獲得重量級投資。",
-    "content": "<p>印度新創公司 Pronto 近日成功獲得知名投資人 Lachy Groom 的支持，據悉此次投資僅在一次 20 分鐘的簡報後便迅速達成。Pronto 目前的業務成長迅速，日均訂單量已攀升至 26,000 筆，展現出強勁的市場需求。</p><p>隨著相關市場規模預計將擴張至 180 億美元，Pronto 計劃利用此次注入的資金加速規模化發展，旨在搶佔該高成長市場的領先地位。</p>",
-    "image": "",
+    "title": "印度新創 Pronto 僅憑 20 分鐘簡報即獲 Lachy Groom 投資支持",
+    "summary": "Pronto 日預訂量已達 2.6 萬筆，正搶佔潛在規模達 180 億美元的市場機會。",
+    "content": "<p>印度新創公司 Pronto 近日獲得知名投資人 Lachy Groom 的資金支持，據悉此次投資僅經過一次 20 分鐘的簡報演示便達成協議。</p><p>目前 Pronto 的業務規模正快速擴張，每日預訂量已攀升至 26,000 筆，目標是深耕潛在市場規模高達 180 億美元的產業領域。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/anjali-sardana-pronto.jpg?resize=1200,800",
     "source": "TechCrunch",
     "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "002",
-    "title": "Barry Diller 支持 Sam Altman 但警告 AGI 時代信任已不再重要喔",
-    "summary": "Barry Diller 在肯定 OpenAI 執行長 Sam Altman 的同時，警告 AGI 是不可預測的力量，必須建立防護機制。",
-    "content": "<p>Barry Diller 近日對 OpenAI 執行長 Sam Altman 表示信任與支持，但他在討論通用人工智慧（AGI）的發展時指出，隨著技術趨近 AGI，單純的「信任」將變得不再重要。</p><p>Diller 警告 AGI 將成為一種不可預測的強大力量，因此在追求技術突破的同時，建立嚴格的防護欄（guardrails）與監管機制至關重要，以確保 AI 的發展不會脫離人類控制。</p>",
-    "image": "",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "003",
-    "title": "Snap 與 Perplexity 終止 4 億美元 AI 搜尋整合合作協議",
-    "summary": "Snap 宣布與 Perplexity 的合作已在友好氛圍下結束，原定將 AI 搜尋引擎整合至 Snapchat 的計畫取消。",
-    "content": "<p>Snap 官方近日表示，先前與 AI 搜尋新創公司 Perplexity 達成的 4 億美元合作協議已正式終止。雙方強調此次合作的結束是在友好氛圍下達成，並未透露具體的終止原因。</p><p>該項合作案於去年 11 月公布，原計畫將 Perplexity 的 AI 搜尋功能直接整合進 Snapchat 應用程式中，旨在提升用戶獲取資訊的效率，但最終未能如期實施。</p>",
-    "image": "",
-    "source": "TechCrunch",
-    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "004",
-    "title": "Google 搜尋推出五項園藝實用技巧 讓用戶在搜尋結果中直接獲取指南",
-    "summary": "Google 搜尋整合園藝實用技巧，讓使用者能直接在搜尋介面獲取植物照顧建議。",
-    "content": "<p>Google 搜尋近期更新了園藝相關的功能，提供五項實用的園藝技巧，旨在讓使用者在搜尋過程中能更快速地獲取植物種植與維護的專業建議。</p><p>透過優化後的搜尋介面，用戶不再需要點擊多個網站，即可直接在搜尋結果中查看針對不同植物類型的照顧指南，提升園藝愛好者的操作效率。</p>",
-    "image": "",
-    "source": "Google Blog",
-    "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "005",
-    "title": "Google Flow Music 攜手 Believe 為音樂創作者推出次世代數位工具",
-    "summary": "Google Flow Music 與 Believe 合作開發新一代工具，旨在提升音樂藝術家的創作與管理效率。",
-    "content": "<p>Google Flow Music 與 Believe 正式宣布合作，將為全球音樂藝術家提供次世代的數位工具。此次合作旨在透過技術創新，簡化音樂創作流程並優化分發管理，讓創作者能更專注於藝術表現。</p><p>這套新工具將整合先進的數據分析與創作輔助功能，協助藝術家在競爭激烈的數位音樂市場中，更精準地觸及目標受眾並提升作品的影響力。</p>",
-    "image": "",
-    "source": "Google Blog",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/believe-flow-music-partnership/",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "007",
-    "title": "馬斯克與奧特曼法律爭端升溫：親信 Shivon Zilis 出庭作證",
-    "summary": "馬斯克與 OpenAI 執行長奧特曼的訴訟案中，馬斯克親信 Zilis 出庭作證，其複雜關係成為焦點。",
-    "content": "<p>在馬斯克與 OpenAI 執行長奧特曼的法律訴訟過程中，馬斯克的忠實支持者 Shivon Zilis 正式出庭作證。Zilis 在法庭上宣誓證實其為馬斯克四名子女的母親，此舉讓其個人關係與法律爭端交織，引起外界高度關注。</p><p>此次作證不僅揭露了馬斯克私生活的複雜面，更讓 Zilis 從原本的堅定支持者，在法律攻防中變得處境尷尬，成為本案中一個不可忽視的關鍵變數。</p>",
-    "image": "",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "008",
-    "title": "任天堂驚喜公布新世代《星狐 Star Fox 將於 6 月 25 日登陸 Switch 2",
-    "summary": "任天堂正式宣布睽違十年的《星狐》系列新作，將於 6 月 25 日在次世代主機 Switch 2 上推出。",
-    "content": "<p>任天堂近日正式揭曉睽違十年的《星狐》（Star Fox）系列新作，該作品將於 6 月 25 日正式發行。此前 Fox McCloud 在《超級瑪利歐銀河》電影中的現身，如今被證實是為此次遊戲回歸所做的鋪陳。</p><p>這款僅以《Star Fox》命名的作品將在任天堂的次世代主機 Switch 2 上推出，官方表示本作將基於系列經典元素打造，為玩家帶來全新的太空冒險體驗。</p>",
-    "image": "",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "009",
-    "title": "Google 正式終止 Project Mariner 實驗計畫 停止開發跨網頁自動化功能",
-    "summary": "Google 已關閉旨在協助使用者在網頁上自動執行任務的實驗性功能 Project Mariner。",
-    "content": "<p>根據 Wired 報導，Google 已正式終止其實驗性計畫 Project Mariner。該功能原先旨在開發一種能跨網頁自動執行任務的 AI 代理工具，以提升使用者的網路操作效率。</p><p>目前 Project Mariner 的官方登陸頁面已顯示關閉通知，明確指出該計畫已於 2026 年 5 月 4 日停止運作，相關技術將不再對外提供服務。</p>",
-    "image": "",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
     "date": "2026-05-07"
   }
 ]
