@@ -7,8 +7,9 @@ from utils.image import fetch_image
 from utils.json_fix import repair_json
 from utils.rss import fetch_rss
 
-
 # ===== 讀取設定 =====
+with open("config.json", "r", encoding="utf-8") as f:
+    config = json.load(f)
 
 try:
 
