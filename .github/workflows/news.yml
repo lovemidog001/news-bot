@@ -1,37 +1,65 @@
-name: Generate News
+```yaml id="jlwm5"
+name: AI News Bot
 
-permissions:
-  contents: write
 on:
+
   schedule:
-    - cron: '0 1,9 * * *'  # 每天 UTC 1點
+
+    # 台灣時間：
+    # 09:00
+    # 18:00
+
+    - cron: '0 1,10 * * *'
+
   workflow_dispatch:
 
+
 jobs:
+
   build:
+
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
+
         with:
           python-version: '3.10'
 
-      - name: Install deps
-        run: pip install -r requirements.txt
 
-      - name: Run script
-        env:
-          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-        run: python main.py
-
-      - name: Commit
+      - name: Install Dependencies
         run: |
-          git config --global user.name "bot"
-          git config --global user.email "bot@users.noreply.github.com"
-          git add news/*.json
-          git commit -m "update news" || echo "no changes"
+
+          pip install -r requirements.txt
+
+
+      - name: Run News Generator
+
+        env:
+
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+
+        run: |
+
+          python main.py
+
+
+      - name: Commit JSON Files
+
+        run: |
+
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add news/
+
+          git commit -m "Auto update news" || echo "No changes"
+
           git push
+```
