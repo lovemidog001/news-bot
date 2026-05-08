@@ -1,6 +1,6 @@
 {
   "ai_provider": 1,
   "schedule": 1,
-  "max_articles": 15,
+  "max_articles": 20,
   "model": "deepseek-ai/deepseek-v4-pro"
 }
