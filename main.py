@@ -1,4 +1,3 @@
-```python
 import json
 import os
 from datetime import datetime
@@ -305,4 +304,3 @@ with open(
 
 
 print(f"Saved: {output_path}")
-```
