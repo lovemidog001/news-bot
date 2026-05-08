@@ -148,5 +148,55 @@
     "source": "AI Trends",
     "url": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
     "date": "2026-05-08"
+  },
+  {
+    "id": "016",
+    "title": "AI 接手診所行政：醫護不再被文書淹沒，但下一步呢？",
+    "summary": "AI 正快速自動化醫療行政工作，雖緩解了醫護過勞，卻也引發未來是否會取代人力的深層提問。",
+    "content": "<p>許多人工智慧公司正致力於自動化人類當前從事的重複性工作，醫療行政領域也不例外。這些技術的初衷在於減輕醫護人員的負擔，但最終將面臨一個更艱難的提問：輔助人力與取代人力之間的界線究竟在哪裡？</p><p>對此，新創公司 Basata 的創辦人表示，目前與他們合作的行政人員並不擔心被取代的問題。相較於未來職位的存續，他們更憂慮的是當下被龐大文書作業淹沒、無法負荷的現實困境。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-9.00.25-PM.png?resize=1200,711",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "017",
+    "title": "PS5銷量年減46% 索尼面臨漲價與記憶體危機雙重打擊",
+    "summary": "索尼最新一季PS5銷量僅150萬台，較去年同期暴跌46%，主因是連續漲價與記憶體短缺。",
+    "content": "<p>索尼在最新公布的第四財季財報中揭露，PS5遊戲主機銷量僅達150萬台，與去年同期相比大幅下滑46%，顯示這款熱門主機正面臨嚴峻的市場挑戰。</p><p>此波銷量暴跌緊接在索尼過去一年內兩度調漲PS5售價之後，標準版主機價格已從499.99美元一路攀升至649.99美元，加上全球記憶體供應危機持續干擾生產，雙重打擊下嚴重影響消費者的購買意願。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717622/247361_PS5_Pro_VPavic_256.jpg?quality=90&strip=all&crop=0%2C10.761835884455%2C100%2C78.47632823109&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "018",
+    "title": "2026年最佳手機遊戲手把推薦：一秒變身掌上型主機",
+    "summary": "想讓手機化身完整遊戲主機嗎？外媒評選年度最佳手把，Backbone獲選為首選。",
+    "content": "<p>隨著手機遊戲效能日益強悍，無論是iPhone或Android裝置，都能輕鬆運行3A級大作。但要獲得最佳遊戲體驗，觸控螢幕往往力不從心，一款優秀的外接手把便成了關鍵，讓你的手機瞬間變身專業掌上型主機。</p><p>在2026年的眾多選擇中，Backbone憑藉其出色的握持手感、極低延遲的連接與完善的軟體整合，再度成為編輯首選。其他品牌如Razer與GameSir也推出了極具競爭力的新品，滿足不同預算與平台需求的玩家。</p>",
+    "image": "https://media.wired.com/photos/69fcd3263b9ebe84b418141e/191:100/w_1280,c_limit/Buying%20Guide%20Best%20Mobile%20Gaming%20Controllers%20052026%20SOURCE%20Best%20Buy-Amazon.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/best-mobile-gaming-controllers/",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "019",
+    "title": "從試管嬰兒到AI選胚：科技如何重塑生育未來",
+    "summary": "自1978年首例試管嬰兒誕生，生殖科技已從體外受精進化到AI輔助與基因篩選的新紀元。",
+    "content": "<p>1978年，全球首位「試管嬰兒」的誕生徹底改寫了人類生育史，這項由科學家先驅開創的體外受精技術，為無數不孕伴侶點燃希望。四十餘年來，生殖醫學已從基礎的卵子與精子體外結合，邁向更精準、更複雜的輔助生育時代。</p><p>當前技術前沿正聚焦於人工智慧輔助胚胎篩選、基因檢測及時差攝影監控，這些突破不僅大幅提升著床成功率，也重新定義了生命初始的選擇標準，讓訂製健康寶寶的願景逐漸成為可能。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260506_checkup_IVF.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "020",
+    "title": "Google 推出無螢幕穿戴裝置，AI 助理隨身聽",
+    "summary": "本週科技焦點：Google 發表無螢幕穿戴裝置、reMarkable 新電子紙平板與 DJI 新款手持穩定器。",
+    "content": "<p>Google 本週發表了一款顛覆傳統設計的穿戴式裝置，其最大特點是完全捨棄了螢幕，改以語音與觸覺回饋作為主要互動方式，將 AI 助理隨身化。</p><p>除了 Google 的新品，本週還有 reMarkable 推出的新一代電子紙書寫平板，以及 DJI 專為創作者設計的全新手持穩定器，為數位生產力工具帶來更多選擇。</p>",
+    "image": "https://www.engadget.com/img/gallery/the-morning-after-googles-new-wearable-ditches-the-display/l-intro-1778236443.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2167661/the-morning-after-google-fitbit-air/",
+    "date": "2026-05-08"
   }
 ]
