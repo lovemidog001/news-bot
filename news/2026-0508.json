@@ -1,0 +1,152 @@
+[
+  {
+    "id": "001",
+    "title": "Ramp 估值飆升，傳正洽談新融資突破 400 億美元",
+    "summary": "金融科技獨角獸 Ramp 傳正洽談新一輪融資，估值上看 400 億美元，距離上次 320 億美元估值僅半年。",
+    "content": "<p>金融科技新創 Ramp 在資本市場的熱度持續升溫。根據最新報導，該公司正在洽談新一輪融資，目標是籌集 7.5 億美元，而其投前估值更一舉突破 400 億美元大關，顯示投資人對其商業模式的強勁信心。</p><p>值得注意的是，Ramp 在去年 11 月才剛完成一輪融資，當時的估值為 320 億美元。短短六個月內，公司估值便大幅躍升超過 80 億美元，反映出企業支出管理與金融自動化領域的競爭日趨白熱化，以及市場對頭部玩家的高度追捧。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "002",
+    "title": "Google 五大安全工具強化帳戶防護，抵禦網路威脅",
+    "summary": "Google 推出五項實用安全工具，協助用戶輕鬆強化帳戶保護，防範未經授權的存取。",
+    "content": "<p>為了應對日益複雜的網路安全威脅，Google 整合旗下多項安全功能，協助用戶以更簡單的方式守護個人帳戶。這些工具涵蓋了從登入驗證到深層隱私設定的各個層面，旨在提供多層次的防護網。</p><p>這五大工具包括內建於 Chrome 的密碼管理員、可自動過濾可疑訊息的進階保護計劃、能即時檢查帳戶安全狀態的安全設定檢查、便於分享的通行密鑰登入技術，以及在 Google 應用程式中一鍵刪除近期搜尋紀錄的功能，全面降低資料外洩的風險。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Password_Security_ss.width-1300.png",
+    "source": "Google Blog",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/world-password-day-2026/",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "003",
+    "title": "Canvas平台大規模當機，駭客組織ShinyHunters揚言外洩學校資料",
+    "summary": "學習管理平台Canvas證實遭駭客組織ShinyHunters入侵，導致學生個資外洩，系統大規模中斷並顯示駭客訊息。",
+    "content": "<p>由Instructure持有的學習管理平台Canvas近日發生大規模服務中斷，學生在嘗試登入時，頁面竟顯示駭客組織ShinyHunters的攻擊宣告。該組織聲稱已成功入侵Instructure，並威脅將外洩所竊取的學校資料。</p><p>Instructure稍早證實遭遇重大資料外洩事件，外流資料涵蓋學生姓名、電子郵件地址、學號與私人訊息。此次當機事件再度凸顯教育機構在數位化轉型中，正面臨日益嚴峻的資安威脅與勒索挑戰。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25332725/STK419_DEEPFAKE_CVIRGINIA_L.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "004",
+    "title": "法庭文件揭露微軟高層曾對OpenAI抱持懷疑態度",
+    "summary": "2018年的內部郵件顯示，微軟高層對OpenAI的技術存疑，但更擔心將其推向競爭對手亞馬遜。",
+    "content": "<p>根據馬斯克與奧特曼訴訟案中披露的電子郵件，微軟高層早在2018年就對OpenAI的技術能力與發展方向抱持一定程度的懷疑。這些內部通訊揭示了科技巨頭在面對新興AI實驗室時的複雜心態。</p><p>郵件內容指出，儘管微軟內部對OpenAI的評價有所保留，但管理層更擔心過度施壓或錯失合作機會，可能會將這家潛力無限的公司推向其主要雲端競爭對手亞馬遜的懷抱，因此最終仍決定維持合作關係。</p>",
+    "image": "https://media.wired.com/photos/69fd155e0436533ae1a17e00/191:100/w_1280,c_limit/What-Microsoft-Executives-Were-Dishing-About-OpenAI-Business-1778707567.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "005",
+    "title": "MIT科技評論：試管嬰兒技術革新與陽台太陽能崛起",
+    "summary": "本期《The Download》探討重塑試管嬰兒流程的新興科技，以及陽台太陽能板如何推動個人綠能轉型。",
+    "content": "<p>最新一期的《The Download》聚焦兩項正在改變生活的科技趨勢。首先是試管嬰兒（IVF）領域的革新，儘管該技術在過去四十年已幫助數百萬嬰兒誕生，但其過程依然漫長、痛苦且昂貴，成功率也並非百分之百，新創公司正試圖用自動化和AI改變現狀。</p><p>另一項值得關注的發展是陽台太陽能系統的興起。這種即插即用的微型光電裝置讓公寓住戶也能輕鬆參與能源轉型，在歐洲部分地區蔚為風潮，為都市再生能源普及開闢了新路徑。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260505_IVF_heroNEW.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "006",
+    "title": "美國土安全部遭控濫用DNA資料庫監控移民批評者",
+    "summary": "訴訟指控國土安全部將DNA資料庫與移民執法監控系統連結，引發隱私爭議。",
+    "content": "<p>一項最新訴訟指控，美國國土安全部（DHS）正試圖建立龐大的DNA資料庫，並將其與移民及海關執法局（ICE）的監控系統整合，用以追蹤批評移民政策的人士。此舉引發了對政府過度監控與基因隱私的嚴重擔憂。</p><p>原告方指出，DHS缺乏法律授權來創建此類大規模生物識別資料庫，且該行為可能違反憲法對隱私權的保障。訴訟要求法院介入，阻止這項被形容為「將基因監視納入移民執法機器」的計畫。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2238676352-1024x648.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/05/ice-protesters-sue-to-stop-dhs-from-seizing-dna-samples/",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "007",
+    "title": "Twitch 祭出新規打擊觀看數造假，累犯將遭流量限制",
+    "summary": "Twitch 執行長宣布，針對屢次使用機器人灌水觀看數的實況主，將祭出觀看數上限的懲罰。",
+    "content": "<p>為維護平台內容創作的公平性，Twitch 執行長 Dan Clancy 近日宣布，將對被發現使用觀看機器人（Viewbotting）的實況主實施更嚴厲的新罰則。這項措施旨在打擊長期以來透過虛假流量獲取曝光優勢的作弊行為。</p><p>根據新政策，除了現有的停權處分外，屢次違規的頻道將被施加觀看數「上限」。這意味著即便透過不正當手段灌入流量，系統也將不再計入超過限制的數字，直接削弱其欺騙行為所帶來的收益與排名紅利。</p>",
+    "image": "https://www.engadget.com/img/gallery/twitch-has-new-penalties-for-streamers-caught-viewbotting-ceo-says/l-intro-1778196088.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2167521/twitch-has-new-penalties-for-streamers-caught-viewbotting-ceo-says/",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "008",
+    "title": "紐約時報Connections遊戲提示與解答：2026年5月8日",
+    "summary": "紐約時報文字遊戲Connections今日提示出爐，協助玩家找出單字間的共通脈絡。",
+    "content": "<p>紐約時報旗下的文字遊戲Connections，每日挑戰玩家從16個單字中，找出四組各具共通主題的詞彙組合。今日的謎題涵蓋了不同難度的分類，從最直覺的黃色類別到最曲折的紫色類別，考驗玩家的聯想力與詞彙量。</p><p>若您正在挑戰2026年5月8日的關卡並尋求指引，以下提供逐步的提示與完整解答。建議玩家先從較顯而易見的關聯性著手，排除干擾選項，再逐步破解隱藏其中的深層連結，享受解謎的樂趣。</p>",
+    "image": "https://helios-i.mashable.com/imagery/articles/06bughi04UrSDLh9aZQYxDc/hero-image.fill.size_1200x675.v1777990083.jpg",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/nyt-connections-hint-answer-today-may-8-2026",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "009",
+    "title": "Instagram即日起關閉隱私技術，你的私訊將有何影響？",
+    "summary": "Meta宣布取消Instagram端對端加密訊息功能，引發隱私重大轉向。",
+    "content": "<p>Instagram母公司Meta今日正式關閉平台上的端對端加密訊息功能，這項決定標誌著該公司在隱私保護策略上的重大轉向。此舉意味著用戶透過Instagram Direct傳送的私人訊息，將不再享有原本僅限通訊雙方讀取的加密保障。</p><p>此一變動引發外界對用戶隱私與資料安全的廣泛討論，Meta目前尚未詳細說明關閉該技術的具體原因，但預料將對全球數億用戶的日常通訊習慣與信任度帶來深遠影響。</p>",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b18f/live/cbad6e00-4a17-11f1-a7ce-b934bcb15ff4.jpg",
+    "source": "BBC News - Technology",
+    "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "010",
+    "title": "臉書假新聞辨識指南：新媒體識讀術養成",
+    "summary": "假新聞其實不難辨認，只要掌握關鍵技巧就能看穿。這是一份新媒體識讀指南。",
+    "content": "<p>在資訊爆炸的時代，臉書動態牆已成為假新聞滋生的溫床。然而，辨識虛假資訊並非難事，關鍵在於掌握一套系統性的查證方法。這不僅是技能，更是現代公民必備的新媒體素養。</p><p>從檢查消息來源的可信度、確認文章發布日期，到反向搜尋圖片與比對多方報導，簡單的步驟就能有效阻斷謠言傳播。養成質疑的習慣，你就能在點擊分享前，成功攔截假新聞。</p>",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/161031214334-01-fake-news.jpg?q=x_0,y_0,h_1688,w_2999,c_fill/w_800",
+    "source": "CNN Technology",
+    "url": "http://www.cnn.com/2016/11/18/tech/how-to-spot-fake-misleading-news-trnd/index.html?eref=rss_tech",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "011",
+    "title": "五大優勢解析：AI 搜尋如何顛覆傳統 Google 搜尋體驗",
+    "summary": "AI 搜尋雖非完美，但在選購生鮮雜貨與偵測詐騙等特定任務上，表現已超越傳統關鍵字搜尋。",
+    "content": "<p>儘管 Google 的 AI 搜尋技術在處理名人八卦等即時新聞時仍顯得不夠成熟，但它在特定生活應用場景中正展現出壓倒性的優勢。與傳統的關鍵字搜尋相比，新一代的 AI 搜尋能更精準地理解複雜語意，直接為使用者歸納出解決方案，而非單純提供一長串的藍色連結。</p><p>從協助規劃健康飲食並自動挑選線上購物清單，到即時分析來電內容與網頁特徵以偵測潛在詐騙，AI 搜尋正從被動的資料庫轉變為主動的顧問。這項技術不僅大幅縮短了資訊篩選的時間，更在需要深度推理的任務中，提供了舊式搜尋引擎難以企及的精準度。</p>",
+    "image": "",
+    "source": "NYTimes Technology",
+    "url": "https://www.nytimes.com/2026/05/07/technology/personaltech/google-ai-mode-search.html",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "012",
+    "title": "Komai 亮相：一款值得你愛上的精緻 Matrix 聊天應用",
+    "summary": "開源通訊協定 Matrix 迎來新客戶端 Komai，主打精緻介面與流暢體驗，有望成為日常溝通利器。",
+    "content": "<p>在去中心化通訊備受關注的時代，Matrix 生態系迎來了一位優雅的新成員：Komai。這款全新的客戶端應用程式，以其細膩的設計語言和對使用者體驗的深度打磨，試圖在眾多同類產品中脫穎而出，提供一個真正能讓人「愛上」的日常聊天環境。</p><p>Komai 不僅僅是另一個 Matrix 的網頁介面，開發團隊從底層重新思考了互動流程，專注於提供直覺且反應靈敏的操作感受。對於追求開源、自主託管，同時又不願在視覺美感與使用流暢度上妥協的使用者來說，Komai 的出現無疑提供了一個極具吸引力的新選擇。</p>",
+    "image": "https://etke.cc/img/komai/main-view.webp",
+    "source": "Hacker News",
+    "url": "https://etke.cc/blog/introducing-komai",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "013",
+    "title": "DevPass 登場：單一金鑰解鎖所有程式開發模型",
+    "summary": "LLM Gateway 推出 DevPass，以三種固定價格方案提供存取所有程式開發模型的統一金鑰。",
+    "content": "<p>LLM Gateway 正式發表全新服務「DevPass」，旨在簡化開發者存取多種大型語言模型的流程。</p><p>透過單一 API 金鑰與三種固定價格方案，開發者不再需要分別管理多個模型供應商的帳號與付費，即可在統一平台上選用最適合的程式開發模型。</p>",
+    "image": "",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/devpass-by-llm-gateway",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "014",
+    "title": "本地優先網頁開發架構：2026年務實技術解析",
+    "summary": "針對經驗豐富的開發者，深入探討2026年建構本地優先網頁應用程式的務實觀點與架構權衡。",
+    "content": "<p>在2026年，本地優先（Local-First）網頁開發已不再是新鮮概念，但對於那些經歷過無數技術風潮、對銀彈論調抱持懷疑態度的資深開發者而言，其實際架構的複雜性才剛開始被認真審視。本文旨在提供一個誠實的視角，剖析在現代網頁應用中實現資料本地所有權、離線可用性與多裝置同步的真正取捨。</p><p>核心挑戰在於如何擺脫傳統的客戶端-伺服器中心化模型，轉而採用CRDT（無衝突資料型態）等技術處理分散式資料同步，同時重新思考認證、授權與衝突解決策略。這不僅是技術棧的轉換，更是對應用狀態管理哲學的根本反思，要求開發者在用戶體驗、資料一致性與系統複雜度之間找到新的平衡點。</p>",
+    "image": "https://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
+    "source": "Smashing Magazine",
+    "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "015",
+    "title": "美軍AI開發平台借鑒卡內基美隆AI堆疊架構實踐",
+    "summary": "美軍AI整合中心數據長指出，卡內基美隆大學定義的AI堆疊是軍方建構AI開發平台的核心基礎。",
+    "content": "<p>美國陸軍正積極打造其人工智慧開發平台，其核心方法論奠基於學術界權威機構卡內基美隆大學所定義的AI堆疊架構。在近期舉行的AI World Government大會上，美軍AI整合中心首席數據科學家Isaac Faber強調了此架構對於軍方AI發展策略的重要性。</p><p>此舉顯示政府部門在推動AI技術發展時，開始遵循標準化的分層架構，以確保從底層基礎設施到上層應用的開發流程能具備一致性與可擴展性，為國防領域的智慧化轉型奠定穩固基石。</p>",
+    "image": "",
+    "source": "AI Trends",
+    "url": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+    "date": "2026-05-08"
+  }
+]
