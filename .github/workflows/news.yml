@@ -1,4 +1,4 @@
-```yaml id="jlwm5"
+yaml id="jlwm5"
 name: AI News Bot
 
 on:
@@ -62,4 +62,3 @@ jobs:
           git commit -m "Auto update news" || echo "No changes"
 
           git push
-```
