@@ -168,5 +168,15 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/noteweave",
     "date": "2026-05-09"
+  },
+  {
+    "id": "018",
+    "title": "自然語言驅動開發：Staff.rip 用口語指令直接部署程式碼",
+    "summary": "新工具 Staff.rip 讓開發者能以自然語言描述程式碼變更，並自動完成部署，簡化開發流程。",
+    "content": "<p>一款名為 Staff.rip 的新型開發者工具在 Product Hunt 上亮相，其核心概念是讓使用者能以日常口語描述程式碼的變更需求，系統便會自動將其轉化為可部署的程式碼。</p><p>此工具旨在消除從想法到部署之間的複雜步驟，開發者無需手動編寫具體的程式碼邏輯，只需說明「修復登入頁面的錯誤」或「為按鈕添加陰影效果」，即可快速完成變更並上線，大幅提升開發效率。</p>",
+    "image": "",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/staff-rip",
+    "date": "2026-05-09"
   }
 ]
