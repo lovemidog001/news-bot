@@ -138,5 +138,45 @@
     "source": "AI Trends",
     "url": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
     "date": "2026-05-10"
+  },
+  {
+    "id": "015",
+    "title": "紐約市無人機送貨實測啟航，空域挑戰與效益仍待驗證",
+    "summary": "全美最繁忙空域之一的紐約市迎來送貨無人機試飛，這項服務的長期可行性仍是未知數。",
+    "content": "<p>在城市中部署送貨無人機是否合乎邏輯？儘管各界對此仍無定論，但這些飛行器已悄然在紐約市上空展開運作。作為全美最繁忙、管制最嚴格的空域之一，這項測試正面臨巨大的技術與監管挑戰。</p><p>目前這項服務可能僅為短期實驗，旨在評估無人機在複雜城市環境中的導航能力、安全性及公眾接受度。業者正試圖釐清在摩天大樓林立、訊號干擾頻繁的曼哈頓，無人機物流能否真正從概念驗證轉化為可持續的商業模式。</p>",
+    "image": "https://media.wired.com/photos/69fe85fad5e391043d8a2ca0/191:100/w_1280,c_limit/Can-Delivery-Drones-Make-Sense-Gear.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "016",
+    "title": "Windows 10 終止支援，Windows 11 Pro 限時下殺至 9.97 美元",
+    "summary": "微軟結束 Windows 10 支援，Windows 11 Pro 終身授權限時特價僅 9.97 美元。",
+    "content": "<p>隨著微軟正式終止對 Windows 10 的官方支援，許多用戶面臨系統升級的迫切需求。近期有平台推出 Windows 11 Pro 的限時優惠，終身授權版本價格大幅調降至僅 9.97 美元，為尚未升級的用戶提供了一個極具吸引力的換機契機。</p><p>Windows 11 Pro 不僅帶來更現代的介面設計，更內建 BitLocker 加密、遠端桌面及 Hyper-V 虛擬化等進階安全與生產力功能。在資安威脅日益嚴峻的當下，把握優惠升級至受支援的作業系統，將能有效提升裝置的防護能力與工作效率。</p>",
+    "image": "https://helios-i.mashable.com/imagery/articles/00iyRrMjauYiD0sKKHgiY3g/hero-image.fill.size_1200x675.v1778236992.jpg",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/may-10-microsoft-windows-11-pro",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "017",
+    "title": "Rotten.com 數位考古：見證早期網路震撼文化的興衰",
+    "summary": "《巴黎評論》回顧爭議網站 Rotten.com，探討其作為早期網路黑暗好奇心與衝擊文化先驅的歷史意義。",
+    "content": "<p>在演算法主導內容的今日，網路文化的前身往往被遺忘。《巴黎評論》近期刊文，深入回顧了曾象徵早期網路黑暗面的爭議網站 Rotten.com，為千禧年前後的數位野蠻生長留下重要註腳。</p><p>該網站以蒐集駭人聽聞的影像與奇聞異事聞名，成為網路早期「震驚文化」的標誌。文章不僅爬梳其創立背景，更探討了它如何在缺乏審查機制的時代，挑戰公眾底線並滿足了人類對死亡與怪異的好奇心，其影響至今仍在迷因與次文化中若隱若現。</p>",
+    "image": "",
+    "source": "Hacker News",
+    "url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "018",
+    "title": "Notion 3.4 重大更新：全新儀表板、連接器與更聰明的 AI 代理登場",
+    "summary": "Notion 推出 3.4 版本，加入全新儀表板、資料連接器、側邊欄強化及更智慧的 AI 代理功能。",
+    "content": "<p>生產力平台 Notion 正式發布 3.4 版本更新，此次重點強化了資料視覺化與整合能力，為用戶帶來全新的儀表板（Dashboards）功能，讓專案進度與數據追蹤更加直觀。</p><p>此外，本次更新也加入了更多第三方連接器（Connectors）、重新設計的側邊欄，以及更聰明的 AI 代理（AI Agents），進一步提升工作流程自動化與資訊查找的效率。</p>",
+    "image": "",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/notion-3-4",
+    "date": "2026-05-10"
   }
 ]
