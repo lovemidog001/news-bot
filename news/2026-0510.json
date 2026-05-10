@@ -178,5 +178,25 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/notion-3-4",
     "date": "2026-05-10"
+  },
+  {
+    "id": "019",
+    "title": "未來辦公室興起低語風潮？語音互動普及重塑工作樣貌",
+    "summary": "隨著人類與電腦語音互動日益頻繁，未來辦公環境可能轉變為充滿輕聲細語的安靜空間。",
+    "content": "<p>隨著語音助理與AI對話技術的成熟，我們正逐步邁入一個以語音為主要介面的運算時代。這項轉變不僅限於智慧家庭的聲控，更將深刻影響辦公室的互動模式，未來的工作場所可能不再充斥著鍵盤敲擊聲，而是此起彼落的輕聲細語。</p><p>專家預測，當員工習慣以口語指令處理文書、分析數據及溝通協作時，傳統的開放式辦公室噪音問題將獲得緩解，取而代之的是更為專注且保有隱私的低語環境。這股趨勢也將考驗企業在空間設計與文化建立上，如何平衡人機互動與人際交流的界線。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-84164497.jpg?resize=1200,798",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "020",
+    "title": "Bastl Kalimba：結合物理建模與FM的拇指琴合成器",
+    "summary": "這款樂器本質是合成器，透過拇指琴方式演奏，融合物理建模與FM合成引擎。",
+    "content": "<p>Bastl Instruments 推出的 Kalimba 並非傳統拇指琴，而是一款披著卡林巴外衣的獨特合成器。雖然演奏方式與卡林巴無異，但其金屬彈片本身發出的聲音極小，主要作為觸發合成引擎的控制器。</p><p>這款合成器的核心結合了物理建模與 FM 合成技術，並內建麥克風可混合些許原聲質感，為聲音設計帶來更多可能性與實驗性火花。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/bastl_kalimba_preview_04cr.png?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+    "date": "2026-05-10"
   }
 ]
