@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "id": "001",
+    "title": "接觸追蹤App能否對抗漢他病毒？專家坦言效果有限",
+    "summary": "疫情期間廣泛部署的接觸追蹤App，在面對漢他病毒這類小規模、非人傳人的疫情時，其核心功能幾乎派不上用場。",
+    "content": "<p>在新冠疫情期間，接觸追蹤應用程式曾被各國政府寄予厚望，透過藍牙技術記錄用戶間的近距離接觸，以便在確診後迅速通知潛在感染者。然而，當面對漢他病毒這類主要由齧齒動物傳播給人類的疾病時，這套數位防疫工具的局限性便顯露無遺，因為其設計初衷是阻斷人與人之間的傳播鏈，而非人與動物之間的接觸。</p><p>公共衛生專家指出，漢他病毒的爆發通常規模較小且多為散發病例，感染途徑多與吸入受汙染的鼠類排泄物或唾液有關。在這種情況下，依賴手機訊號強度判斷密切接觸者的App根本無法發揮作用，防疫重點應回歸到環境清消、防鼠措施以及對高風險族群的衛教宣導，而非試圖用科技工具解決所有類型的傳染病威脅。</p>",
+    "image": "https://media.wired.com/photos/69fe0496091fad5afc47d051/191:100/w_1280,c_limit/GettyImages-1209069405.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "002",
+    "title": "馬斯克對決奧特曼第二週：OpenAI反擊，揭露挖角企圖",
+    "summary": "OpenAI與馬斯克的訴訟進入第二週，焦點轉向馬斯克提告動機，並揭露他曾試圖挖角奧特曼。",
+    "content": "<p>伊隆·馬斯克與OpenAI之間備受矚目的法律戰進入第二週，馬斯克提起訴訟的動機成為法庭攻防焦點。上週，馬斯克親自出庭作證，指控OpenAI執行長山姆·奧特曼與總裁格雷格·布羅克曼，以維持非營利性質的承諾誘使他捐贈了3800萬美元，最終卻背棄初衷。</p><p>本週情勢出現轉折，OpenAI展開反擊，質疑馬斯克提告的真正意圖。關鍵證人、Neuralink高層希馮·齊莉絲的證詞揭露，馬斯克曾試圖挖角山姆·奧特曼，此一發展讓馬斯克聲稱因OpenAI偏離使命而受騙的說法，面臨更嚴格的檢驗。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260508_OpenAIcase.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+    "date": "2026-05-11"
+  }
+]
