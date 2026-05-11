@@ -58,5 +58,135 @@
     "source": "AI Trends",
     "url": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
     "date": "2026-05-11"
+  },
+  {
+    "id": "007",
+    "title": "GM裁員數百名IT人員，轉聘AI專才推動轉型",
+    "summary": "通用汽車裁撤數百名IT員工，同步招募具備AI開發、數據工程及雲端技能的人才以加速轉型。",
+    "content": "<p>通用汽車（GM）近期宣布裁撤數百名資訊科技部門員工，此舉並非單純的成本削減，而是為了重新調整人力資源配置，將重點轉向招募具備更強人工智慧技能的專業人才。</p><p>據悉，這波招募將聚焦於AI原生開發、數據工程與分析、雲端基礎架構工程，以及代理與模型開發、提示工程和新興AI工作流程等關鍵領域，顯示GM正全力押注軟體定義與AI驅動的未來。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "008",
+    "title": "量子科學結合AI 跨足生命科學新領域",
+    "summary": "一項新計畫將量子科學與人工智慧應用於生命科學，開啟跨領域研究新篇章。",
+    "content": "<p>一項嶄新的研究計畫正式啟動，旨在將量子科學與人工智慧的前沿技術，應用於複雜的生命科學領域。此舉被視為跨學科整合的重要里程碑，有望為生物學與醫學研究帶來突破性進展。</p><p>該計畫的視覺概念展示出波浪狀的金色線路，透過分層金屬板上的圓形切口進行連接，象徵著量子技術與生物系統之間錯綜複雜卻又精密的交互作用。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/251006_Quantium_AI_0555_2096x1182.width-1300.png",
+    "source": "Google Blog",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences/",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "009",
+    "title": "OpenAI 推出 Daybreak 計畫：AI 自動化漏洞獵捕與修補新防線",
+    "summary": "OpenAI 發表 Daybreak 計畫，運用 AI 代理主動偵測程式碼漏洞、建立威脅模型並自動化修補，搶先攻擊者一步。",
+    "content": "<p>OpenAI 近日正式發表了名為 Daybreak 的全新 AI 安全計畫，旨在搶在攻擊者發現漏洞之前，主動進行偵測與修補。這項計畫被視為是對競爭對手 Anthropic 旗下 Claude Mythos 的強勢回應，將網路防禦從被動的威脅應對，轉向由 AI 驅動的主動獵捕模式。</p><p>Daybreak 的核心仰賴於今年三月推出的 Codex Security AI 代理，它能根據組織的程式碼庫建立精細的威脅模型，聚焦於潛在的攻擊路徑。該系統不僅能驗證高風險漏洞的真實性，更能自動化執行偵測流程，大幅縮短漏洞從被發現到修復的時間差，為企業築起一道動態的智慧防禦網。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "010",
+    "title": "傳統膽固醇檢測不足：為何醫師不採更精準的風險評估法？",
+    "summary": "現行壞膽固醇檢測無法完整呈現心血管風險，更精確的替代方案存在卻未被廣泛採用。",
+    "content": "<p>常規血液檢測中的低密度脂蛋白膽固醇（LDL-C），俗稱「壞膽固醇」，長期被視為評估心血管疾病風險的關鍵指標。然而，僅憑這項數值並無法完整描繪風險全貌，許多檢驗結果正常的人仍可能發生心臟病或中風。</p><p>醫學界其實存在更精準的檢測方式，例如測量脂蛋白顆粒數量或脂蛋白(a)等指標，能更有效辨識高風險族群。但由於臨床指引更新緩慢、成本考量與醫師習慣等因素，這些進階檢測在常規診療中仍不普及，形成預防醫學上的一大缺口。</p>",
+    "image": "https://media.wired.com/photos/69f4f43f1b39f18829e38fa4/191:100/w_1280,c_limit/Science_MovingBeyondtheBadCholesterolTest_1080x1080.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/moving-beyond-bad-cholesterol-test/",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "011",
+    "title": "諾貝爾經濟學獎得主揭示：AI發展三大關鍵觀察點",
+    "summary": "諾貝爾經濟學獎得主Daron Acemoglu提出AI領域值得關注的三大趨勢，其觀點與矽谷主流看法形成鮮明對比。",
+    "content": "<p>在2024年榮獲諾貝爾經濟學獎前數月，Daron Acemoglu發表了一篇在矽谷並未獲得太多支持的論文，其觀點與科技巨頭的樂觀預測大相逕庭。</p><p>Acemoglu的研究深入探討了人工智慧對生產力與勞動市場的實際影響，並提出了三個值得業界與投資人密切關注的發展方向，挑戰了當前對AI經濟效益的過度樂觀預期。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260507_algo2.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "012",
+    "title": "Linux核心再爆高風險漏洞，兩週內第二起重大安全威脅",
+    "summary": "Linux系統於兩週內接連發現第二個嚴重漏洞，呼籲管理員立即更新生產環境修補程式。",
+    "content": "<p>Linux核心近期安全事件頻傳，資安研究人員揭露兩週內第二個高嚴重性漏洞，可能允許攻擊者取得系統權限或執行任意程式碼，對伺服器與雲端基礎設施構成重大威脅。</p><p>目前各大發行版已陸續釋出正式修補程式，安全專家強烈建議系統管理員立即排程更新，切勿延遲部署，以避免潛在的遠端攻擊風險。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "013",
+    "title": "韋伯望遠鏡再突破，精細繪製宇宙網結構",
+    "summary": "天文學家利用韋伯太空望遠鏡獲得更精細的宇宙網地圖，將有助於深入探索宇宙的過往。",
+    "content": "<p>天文學家利用韋伯太空望遠鏡（JWST）的最新觀測數據，成功大幅提升了宇宙網（cosmic web）的繪製精細度。這項進展讓科學家得以更清晰地窺見宇宙大尺度結構的氣體分布與演化細節。</p><p>研究團隊表示，新增的顯著細節意味著未來對於宇宙早期歷史的調查將能更為精準。透過分析這些絲狀結構如何連接星系並輸送物質，科學家得以回溯宇宙演化的關鍵歷程。</p>",
+    "image": "https://www.engadget.com/img/gallery/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/l-intro-1778539967.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2170334/astronomers-use-the-webb-telescope-to-improve-our-map-of-the-cosmic-web/",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "014",
+    "title": "社群媒體不需內容警察，專家呼籲從根本設計改善",
+    "summary": "網路倡議者指出，與其依賴笨拙的言論審查，不如正視並解決平台成癮且危險的設計問題。",
+    "content": "<p>面對社群平台上日益氾濫的有害內容，網路倡議者 Lennon Torres 提出了截然不同的觀點。他認為，與其讓科技巨頭扮演笨拙的「內容警察」，仰賴充滿爭議且執行不一的言論審查指南，不如從根本問題著手：改變這些平台令人成癮且具備潛在危險的設計機制。</p><p>Torres 指出，Meta 等公司現行的言論規範只是掩蓋了更深層的系統性瑕疵。真正驅動仇恨言論、錯誤資訊與極端內容傳播的，往往是為了最大化用戶參與度而設計的演算法和互動功能。唯有重新思考產品設計，打破這種以情緒綁架換取流量的惡性循環，才能為數位公共空間帶來實質且正向的改變。</p>",
+    "image": "https://helios-i.mashable.com/imagery/articles/07ocY1mBQrKjE94lYh5fsDR/hero-image.fill.size_1200x675.v1778537023.jpg",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/no-content-cops-better-design-op-ed",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "015",
+    "title": "科技重塑木工藝：智慧工具提升安全與精度",
+    "summary": "現代科技正徹底改造傳統木工坊，讓工具變得更安全、精準且高效。",
+    "content": "<p>傳統木工坊佈滿粉塵的印象正被科技徹底翻轉。從內建感測器的安全鋸台到電腦數值控制（CNC）銑床，現代數位工具不僅大幅降低了工傷風險，更能實現微米級的加工精度，讓工藝創作進入全新紀元。</p><p>智慧型電動工具能即時偵測人體接觸並在毫秒內制停，結合雷射導引與自動化設計軟體，即便是複雜的榫接結構也能精確重現。這股科技浪潮並未消弭手工技藝的價值，反而讓創作者能專注於設計與細節，將木作提升為科技與匠心的完美融合。</p>",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a1a6/live/ce922de0-3e23-11f1-ac78-2112837ce2aa.jpg",
+    "source": "BBC News - Technology",
+    "url": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "016",
+    "title": "Facebook假新聞辨識指南：提升新媒體識讀能力的關鍵技巧",
+    "summary": "假新聞其實不難辨認，關鍵在於掌握查證方法，這是一份給你的新媒體識讀指南。",
+    "content": "<p>在資訊爆炸的時代，假新聞在社群平台上的流竄已成為日常挑戰。然而，辨識這些不實資訊其實比想像中容易，只要掌握系統性的查證步驟，你就能有效避免被誤導，成為一個更具批判力的閱聽人。</p><p>這份指南提供了一套實用的方法，從檢查消息來源的可靠性、確認文章發布日期，到反向搜尋圖片與比對其他權威媒體的報導。透過養成這些簡單的查證習慣，你不僅能保護自己免受錯誤資訊的影響，也能防止無意間成為假新聞的傳播者。</p>",
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/161031214334-01-fake-news.jpg?q=x_0,y_0,h_1688,w_2999,c_fill/w_800",
+    "source": "CNN Technology",
+    "url": "http://www.cnn.com/2016/11/18/tech/how-to-spot-fake-misleading-news-trnd/index.html?eref=rss_tech",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "017",
+    "title": "馬斯克律師指控微軟CEO納德拉介入OpenAI高層人事動盪",
+    "summary": "馬斯克律師團稱，微軟執行長納德拉在Sam Altman去年短暫遭OpenAI董事會解僱時，曾出手干預助其復職。",
+    "content": "<p>根據馬斯克律師在法庭上的最新主張，微軟執行長薩蒂亞·納德拉（Satya Nadella）在2023年底OpenAI高層戲劇性動盪中扮演了關鍵角色，直接介入並影響了Sam Altman的去留。</p><p>該指控指出，當Altman被OpenAI董事會短暫解僱後，納德拉的干預行動最終促使Altman迅速重掌公司大權，此說法為這場科技業最引人注目的權力鬥爭增添了新的複雜層次。</p>",
+    "image": "",
+    "source": "NYTimes Technology",
+    "url": "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "018",
+    "title": "經典旋鈕控制器 Griffin PowerMate 現已支援現代 macOS",
+    "summary": "開源專案讓經典的 Griffin PowerMate USB 旋鈕控制器能在現代 macOS 系統上繼續使用。",
+    "content": "<p>曾風靡一時的 Griffin PowerMate USB 旋鈕控制器，現在透過開源驅動程式重獲新生。開發者 jameslockman 在 GitHub 上發布了專為現代 macOS 系統設計的驅動程式，讓這款經典的鋁製旋鈕輸入裝置能夠繼續在最新的蘋果電腦上運作。</p><p>該專案解決了舊版官方驅動程式無法在新版 macOS 上使用的相容性問題，讓使用者能再次利用 PowerMate 的旋轉與按壓功能來控制音量、捲動畫面或執行自訂巨集，延續這款經典週邊的實用價值。</p>",
+    "image": "https://opengraph.githubassets.com/0da75f02c05667c4a7057b96d1520b99734064ee5aa2e97c1aa52dfb3d1387de/jameslockman/Griffin-PowerMate-Driver",
+    "source": "Hacker News",
+    "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "019",
+    "title": "MiroMiro v2 登場：一鍵檢視、編輯與匯出網站設計",
+    "summary": "MiroMiro v2 讓使用者能直接檢查、編輯並匯出任何網站的設計元素。",
+    "content": "<p>MiroMiro v2 正式推出，為網頁開發者與設計師帶來強大工具，可直接在瀏覽器中檢視、編輯並匯出任何網站的設計。</p><p>此版本強化了設計擷取與修改流程，讓用戶能更直覺地分析網頁元素，並將靈感快速轉化為可用的設計資產。</p>",
+    "image": "",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/miromiro",
+    "date": "2026-05-11"
   }
 ]
