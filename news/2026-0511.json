@@ -18,5 +18,45 @@
     "source": "MIT Technology Review",
     "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
     "date": "2026-05-11"
+  },
+  {
+    "id": "003",
+    "title": "AI 驅動的 Google Finance 新版面擴展至歐洲市場",
+    "summary": "Google 宣布其整合人工智慧功能的新版財經服務，正式將服務範圍拓展至歐洲地區。",
+    "content": "<p>Google 宣布，其搭載人工智慧技術的新一代 Google Finance 服務，即日起正式擴展至歐洲市場，為當地用戶帶來更直覺的財經資訊體驗。</p><p>新版介面整合了 AI 驅動的市場摘要與個人化新聞推薦，旨在協助投資者更快速地掌握全球金融脈動與關鍵數據。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/UK_1920x1080.max-1440x810.png",
+    "source": "Google Blog",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "004",
+    "title": "Known Agents 助你追蹤網站上的 AI 爬蟲與機器人流量",
+    "summary": "新工具 Known Agents 可協助網站管理者識別並監控造訪網站的 AI 代理與自動化爬蟲。",
+    "content": "<p>隨著各類 AI 爬蟲與自動化機器人日益氾濫，網站管理者面臨流量分析與安全防護的新挑戰。</p><p>新推出的 Known Agents 工具，旨在協助網站主精確追蹤並識別這些非人類訪客，從而更好地管理伺服器資源與內容存取策略。</p>",
+    "image": "",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/known-agents",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "005",
+    "title": "本地優先架構崛起：2026年網頁開發的務實轉向",
+    "summary": "開發者以務實角度剖析2026年本地優先網頁應用架構，提醒切勿將其視為萬靈丹。",
+    "content": "<p>在雲端同步與協作成為主流的時代，一股「本地優先」的開發哲學正重新獲得資深開發者的關注。這並非單純的離線功能，而是一種將使用者本地裝置視為主要資料權威來源的架構思維，旨在從根本上解決延遲、可用性與資料所有權的難題。</p><p>然而，對於經歷過無數技術潮流的開發者而言，這並非又一個解決所有問題的銀彈。實作本地優先應用涉及複雜的衝突解決、資料同步策略與CRDT等技術決策，開發者必須審慎評估專案需求，在本地即時性與雲端協作之間找到真正的平衡點。</p>",
+    "image": "https://files.smashing.media/articles/architecture-local-first-web-development/architecture-local-first-web-development.jpg",
+    "source": "Smashing Magazine",
+    "url": "https://smashingmagazine.com/2026/05/architecture-local-first-web-development/",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "006",
+    "title": "美軍AI開發平台借鑒卡內基美隆AI堆疊架構",
+    "summary": "美軍AI整合中心數據長表示，陸軍正以卡內基美隆大學定義的AI堆疊為基礎，建構政府AI開發平台。",
+    "content": "<p>美國陸軍AI整合中心首席數據科學家Isaac Faber在AI World Government大會上指出，陸軍正以卡內基美隆大學定義的AI堆疊架構為核心基礎，推動其AI開發平台的建置工作。此舉旨在標準化軍方AI開發流程，提升跨部門協作效率。</p><p>該平台將整合數據管理、模型訓練與部署等關鍵層級，確保從底層基礎設施到上層應用的全面相容性，為政府機構建立安全且可擴展的AI開發環境提供最佳實踐參考。</p>",
+    "image": "",
+    "source": "AI Trends",
+    "url": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
+    "date": "2026-05-11"
   }
 ]
