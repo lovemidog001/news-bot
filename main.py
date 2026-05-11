@@ -2,7 +2,7 @@ import json
 import os
 from datetime import datetime
 
-from utils.ai import call_nvidia
+from utils.ai import call_ai_with_fallback
 from utils.image import fetch_image
 from utils.json_fix import repair_json
 from utils.rss import fetch_rss
@@ -11,15 +11,8 @@ from utils.rss import fetch_rss
 with open("config.json", "r", encoding="utf-8") as f:
     config = json.load(f)
 
-# ===== AI Provider Mapping =====
-AI_PROVIDER = {
-    1: "nvidia",
-    2: "gemini",
-    3: "openai",
-    4: "deepseek"
-}
-
-provider = AI_PROVIDER.get(config["ai_provider"], "nvidia")
+# ===== Fallback 順序（從 config 讀取，預設 nvidia → gemini → deepseek）=====
+fallback_chain = config.get("fallback_chain", ["nvidia", "gemini", "deepseek"])
 
 # ===== 抓 RSS =====
 articles = fetch_rss()
@@ -54,6 +47,7 @@ for art in articles:
 
     # URL 去重
     if art["link"] in existing_urls:
+        print(f"Skip Duplicate: {art['link']}")
         continue
 
     try:
@@ -65,10 +59,10 @@ for art in articles:
 {art['summary']}
 """
 
-        if provider == "nvidia":
-            ai_result = call_nvidia(raw_text, config["model"])
-        else:
-            continue
+        # ★ 使用 Fallback 系統，自動換 Provider
+        ai_result, used_provider = call_ai_with_fallback(
+            raw_text, fallback_chain, config["model"]
+        )
 
         data = repair_json(ai_result)
 
@@ -87,10 +81,10 @@ for art in articles:
         existing_urls.add(art["link"])
         counter += 1
 
-        print(f"Generated: {news_item['title']}")
+        print(f"Generated [{used_provider}]: {news_item['title']}")
 
     except Exception as e:
-        print(f"AI Error: {e}")
+        print(f"All AI Failed: {e}")
 
 # ===== 輸出每日 JSON =====
 with open(output_path, "w", encoding="utf-8") as f:
