@@ -127,7 +127,7 @@ def call_openai(text, model="gpt-4o-mini"):
 
 
 # ── Groq ──
-def call_groq(text, model="llama-3.1-70b-versatile"):
+def call_groq(text, model="llama-3.3-70b-versatile"):
     api_key = os.getenv("GROQ_API_KEY")
     headers = {
         "Authorization": f"Bearer {api_key}",
