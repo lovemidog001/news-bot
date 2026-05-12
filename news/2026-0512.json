@@ -8,5 +8,135 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/weavable",
     "date": "2026-05-12"
+  },
+  {
+    "id": "002",
+    "title": "搭上AI熱潮，Robinhood籌備第二檔創投基金IPO",
+    "summary": "Robinhood秘密提交申請，為其第二檔聚焦成長期與早期新創的創投基金進行首次公開募股。",
+    "content": "<p>線上券商Robinhood正積極擴展其在創投領域的版圖。根據最新消息，該公司已秘密提交申請，準備為其第二檔創投基金進行首次公開募股，顯示其投資觸角正從股票交易平台延伸至更深層的科技新創生態系。</p><p>此檔基金名為Robinhood Ventures II，將主要鎖定成長期與早期階段的科技新創公司。此舉正值人工智慧市場情緒高漲之際，Robinhood顯然希望藉由其平台與品牌影響力，在這一波AI投資熱潮中佔據更有利的位置，為投資人提供更多元的資產配置選項。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/vlad-tenev-robinhood-GettyImages-2272038864.jpg?w=1024",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "003",
+    "title": "Ilya Sutskever 為逼宮 Sam Altman 辯護：不想讓 OpenAI 被摧毀",
+    "summary": "前 OpenAI 首席科學家出庭作證，坦言當初參與董事會政變是為了保護公司，而非出於個人恩怨。",
+    "content": "<p>儘管已與 OpenAI 分道揚鑣，前首席科學家 Ilya Sutskever 在週一的法庭證詞中，依然為自己當初參與罷免執行長 Sam Altman 的爭議決定進行辯護。他強調，當時董事會的行動並非出於權力鬥爭，而是基於對公司未來走向的深切憂慮。</p><p>Sutskever 表示，他當時的核心動機是確保 OpenAI 不會偏離其安全開發通用人工智慧的使命，他坦言：『我不希望它被摧毀。』此一證詞揭示了這家頂尖 AI 實驗室高層去年動盪背後，關於 AI 安全與商業化之間的路線之爭。</p>",
+    "image": "https://media.wired.com/photos/6a02504ee09a7c202c6b229b/191:100/w_1280,c_limit/Model-Behavior-Musk-v-Altman-Ilya-Sutskever-Business-2275165628.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "004",
+    "title": "Linux核心再爆嚴重漏洞，兩週內第二起零日攻擊警報",
+    "summary": "繼上週重大漏洞後，Linux再現高風險安全缺陷，系統管理員應立即部署正式修補程式。",
+    "content": "<p>Linux作業系統核心在短短兩週內，被發現第二個嚴重安全漏洞，資安研究人員呼籲各界高度警戒。此次漏洞可能允許攻擊者繞過系統保護機制，取得更高權限或執行任意程式碼，對伺服器、雲端基礎設施及嵌入式裝置構成重大威脅。</p><p>目前各大Linux發行版已陸續推出正式修補版本，系統管理員應立即更新核心，以防範潛在的入侵風險。資安專家強調，延遲修補將使系統暴露於主動攻擊之下，務必優先處理此更新。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "005",
+    "title": "OpenAI 推出 Daybreak 資安計畫，正面迎戰 Anthropic Claude Mythos",
+    "summary": "OpenAI 發表基於 GPT-5.5 與 Codex Security 的網路安全計畫 Daybreak，被視為對 Anthropic 的直接回應。",
+    "content": "<p>OpenAI 近日正式啟動名為 Daybreak 的全新網路安全倡議，該計畫由最新的 GPT-5.5 模型與專為安全防護設計的 Codex Security 技術所驅動。此舉被業界解讀為 OpenAI 針對 Anthropic 旗下 Claude Mythos 資安方案所做出的戰略性回應，顯示 AI 巨頭間的競爭已從通用模型延伸至垂直專業領域。</p><p>Daybreak 旨在透過先進的 AI 代理自動偵測並修補軟體漏洞，同時提供即時的威脅情報分析。OpenAI 強調，該系統具備模擬複雜駭客攻擊的能力，能協助企業進行防禦演練，其反應速度與規模化優勢將為網路安全帶來全新的防禦維度。</p>",
+    "image": "https://www.engadget.com/img/gallery/daybreak-is-openais-response-to-anthropics-claude-mythos/l-intro-1778547896.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2170410/daybreak-openai-cybersecurity-initiative/",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "006",
+    "title": "諾貝爾經濟學獎得主揭示AI發展三大觀察重點",
+    "summary": "諾貝爾獎得主Daron Acemoglu提出AI領域值得關注的三大方向，其觀點與矽谷主流看法大相逕庭。",
+    "content": "<p>2024年諾貝爾經濟學獎得主Daron Acemoglu在獲獎前數月發表的一篇論文，讓他在矽谷並不受歡迎。他的觀點與大型科技公司對人工智慧帶動生產力爆炸性成長的樂觀預測背道而馳。</p><p>Acemoglu認為，各界應關注AI對勞動市場的影響、技術發展方向是否偏向自動化而非賦能人類，以及科技巨頭對AI基礎設施的過度投資可能帶來的泡沫風險。這三大觀察點為當前狂熱的AI發展提供了冷靜的經濟學視角。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260507_algo2.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "007",
+    "title": "軟體底層技術讀書會興起，深入探索系統內部設計",
+    "summary": "「Software Internals Book Club」社群正透過共讀經典書籍，深入探討軟體底層設計與實作細節。",
+    "content": "<p>近期一個名為「Software Internals Book Club」的技術讀書會引起關注，該社群專注於閱讀與討論軟體內部設計、系統架構及底層實作的經典書籍。</p><p>此讀書會旨在幫助開發者超越框架與API的表面應用，深入理解資料庫、作業系統、編譯器等核心技術的運作原理，透過集體研讀與交流提升技術深度。</p>",
+    "image": "",
+    "source": "Hacker News",
+    "url": "https://eatonphil.com/bookclub.html",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "008",
+    "title": "紐約時報文字遊戲 Connections 2026年5月12日提示與解答",
+    "summary": "Connections 考驗玩家找出單字間共通點的能力，本文提供當日線索與解答。",
+    "content": "<p>Connections 是紐約時報旗下極受歡迎的每日文字解謎遊戲，挑戰玩家從16個單字中，找出四組各具備「共通脈絡」的詞彙類別。</p><p>若你在2026年5月12日的謎題中卡關，本文將提供逐步提示與完整解答，協助你理解各組顏色所代表的關聯性。</p>",
+    "image": "https://helios-i.mashable.com/imagery/articles/070ALwvkkBxNvBiUkiQEFXw/hero-image.fill.size_1200x675.v1778517063.jpg",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/nyt-connections-hint-answer-today-may-12-2026",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "009",
+    "title": "馬斯克律師揭露：微軟執行長介入OpenAI內鬥，促成奧特曼復職",
+    "summary": "馬斯克律師團聲稱，微軟執行長納德拉在2023年OpenAI短暫開除奧特曼時，扮演關鍵角色促成其回歸。",
+    "content": "<p>根據馬斯克律師在法庭上的最新主張，OpenAI在2023年11月短暫解僱執行長山姆·奧特曼的戲劇性事件中，微軟執行長薩蒂亞·納德拉曾親自介入干預，最終促成奧特曼迅速復職並重組董事會。</p><p>這項指控是在馬斯克控告OpenAI轉型為營利性實體的訴訟脈絡中提出，意在凸顯微軟對OpenAI的實質控制力。律師團試圖藉此證明，這家名義上獨立的非營利組織，其重大決策實際上深受其最大金主微軟的影響。</p>",
+    "image": "",
+    "source": "NYTimes Technology",
+    "url": "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "010",
+    "title": "Genpire 發表：用 AI 直接打造真實產品的嶄新平台",
+    "summary": "Genpire 平台讓使用者能透過 AI 直接將概念轉化為實體產品，實現創意落地。",
+    "content": "<p>新興平台 Genpire 提出嶄新願景，宣稱能讓使用者透過 AI 直接打造真實產品，將抽象概念具體化。</p><p>此工具旨在簡化從設計到製造的流程，讓不具備深厚技術背景的創作者，也能快速將想法轉變為可觸及的實體物件。</p>",
+    "image": "",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/genpire-ai",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "011",
+    "title": "前OpenAI技術長新創發表「互動模型」，AI對話邁向全雙工即時反應",
+    "summary": "Thinking Machines發表原生多模態互動模型，能以0.4秒延遲同步處理語音與影像輸入，打破傳統回合制AI互動限制。",
+    "content": "<p>由前OpenAI技術長Mira Murati創立的Thinking Machines，今日發表全新「互動模型」研究預覽，宣稱其架構將互動性視為模型原生能力，而非外部軟體套件。該模型採用多串流、微回合設計，能同步處理200毫秒的音訊與影像片段，實現「全雙工」即時對話，讓AI能在使用者說話時給予回饋，或主動察覺視覺線索。</p><p>這款名為TML-Interaction-Small的模型擁有2760億參數（12億活躍參數），在反應延遲與互動品質基準測試中大幅領先GPT-realtime-2.0與Gemini-3.1-flash-live。公司計劃在未來數月內開放有限的研究預覽，並於今年稍晚進行更廣泛的發布，預計將為企業的即時客服、產線安全監控與時間敏感流程管理帶來全新可能。</p>",
+    "image": "",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "012",
+    "title": "Best Buy 祭出 65% 折扣，4TB WD Black SN850X SSD 創歷史新低價",
+    "summary": "在 PC 零組件價格飆漲之際，Best Buy 針對 4TB WD Black SN850X 固態硬碟推出高達 65% 的罕見折扣。",
+    "content": "<p>近期固態硬碟與記憶體等 PC 零組件價格持續攀升，讓許多尋求升級的玩家感到卻步。然而，美國零售商 Best Buy 此時逆勢推出震撼優惠，將高效能 4TB WD Black SN850X 固態硬碟以高達 65% 的折扣幅度促銷，創下該型號的歷史新低價。</p><p>WD Black SN850X 是針對硬派遊戲玩家與內容創作者設計的 PCIe 4.0 M.2 NVMe 旗艦 SSD，擁有極快的讀寫速度與散熱管理。此次降價使得這款原本高貴的大容量高速儲存裝置變得極具吸引力，對於正在觀望升級儲存空間的使用者而言，無疑是近期最值得入手的甜蜜點。</p>",
+    "image": "https://www.zdnet.com/a/img/resize/668613dd54aaee1e11076c9e8039babddbe2f225/2026/05/04/9db32f07-6469-418b-b1d6-cdcea1578de5/wd-black-sn850x-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/wd-black-sn850x-4tb-best-buy-deal/",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "013",
+    "title": "ChatGPT採用率2026年初擴張 35歲以上用戶成長最速",
+    "summary": "2026年第一季ChatGPT採用率激增，35歲以上族群成長最快且性別分布更趨均衡，顯示AI正邁向主流普及。",
+    "content": "<p>最新數據顯示，ChatGPT在2026年第一季的採用率出現顯著增長，其中以35歲以上用戶群的成長動能最為強勁，反映出生成式AI工具正快速突破早期採用者圈層，向更廣泛的年齡層滲透。</p><p>值得注意的是，用戶的性別比例也趨於平衡，打破了過往科技產品採用初期多以男性為主的態勢，此趨勢象徵著AI聊天機器人已進入主流大眾市場，成為跨世代與跨性別的日常生產力工具。</p>",
+    "image": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/signals/research/2026q1-update",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "014",
+    "title": "量子科學結合AI跨域生命科學，開啟生醫研究新紀元",
+    "summary": "研究團隊啟動新計畫，將量子科學與人工智慧應用於生命科學領域，探索未知生物機制。",
+    "content": "<p>一項前瞻性的跨領域研究計畫正式啟動，旨在將量子科學的精密量測與人工智慧的數據分析能力，系統性地應用於生命科學研究。</p><p>此計畫期望突破傳統生物學研究框架，透過量子技術解析生物分子間的複雜交互作用，並藉由AI加速藥物開發與疾病診斷，為生醫領域帶來革命性進展。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/251006_Quantium_AI_0555_2096x1182.width-1300.png",
+    "source": "Google Blog",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences/",
+    "date": "2026-05-12"
   }
 ]
