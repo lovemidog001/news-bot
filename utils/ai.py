@@ -73,15 +73,24 @@ def call_nvidia(text, model):
 
 # ── Gemini ──
 def call_gemini(text, model="gemini-2.0-flash"):
+    import time
     api_key = os.getenv("GEMINI_API_KEY")
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
     payload = {
         "contents": [{"parts": [{"text": build_prompt(text)}]}],
         "generationConfig": {"temperature": 0.6, "maxOutputTokens": 800}
     }
-    response = requests.post(url, json=payload, timeout=60)
+    # 429 時最多重試 3 次，每次等 10 秒
+    for attempt in range(3):
+        response = requests.post(url, json=payload, timeout=60)
+        if response.status_code == 429:
+            wait = 10 * (attempt + 1)
+            print(f"[Gemini] 429 rate limit，等待 {wait} 秒後重試...")
+            time.sleep(wait)
+            continue
+        response.raise_for_status()
+        return response.json()["candidates"][0]["content"]["parts"][0]["text"]
     response.raise_for_status()
-    return response.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 
 # ── DeepSeek ──
