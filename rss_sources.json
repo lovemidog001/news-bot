@@ -4,20 +4,12 @@
     "url": "https://techcrunch.com/feed/"
   },
   {
-    "name": "Google Blog",
-    "url": "https://blog.google/rss/"
-  },
-  {
     "name": "The Verge",
     "url": "https://www.theverge.com/rss/index.xml"
   },
   {
     "name": "Wired",
     "url": "https://www.wired.com/feed/rss"
-  },
-  {
-    "name": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/feed/"
   },
   {
     "name": "Ars Technica",
@@ -28,6 +20,14 @@
     "url": "https://www.engadget.com/rss.xml"
   },
   {
+    "name": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/feed/"
+  },
+  {
+    "name": "Hacker News",
+    "url": "https://hnrss.org/frontpage"
+  },
+  {
     "name": "Mashable",
     "url": "https://mashable.com/feeds/rss/all"
   },
@@ -36,80 +36,80 @@
     "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
   },
   {
-    "name": "CNN Technology",
-    "url": "http://rss.cnn.com/rss/edition_technology.rss"
-  },
-  {
     "name": "NYTimes Technology",
     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
   },
   {
     "name": "Reuters Technology",
-    "url": "http://feeds.reuters.com/reuters/technologyNews"
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://hnrss.org/frontpage"
+    "url": "https://feeds.reuters.com/reuters/technologyNews"
   },
   {
     "name": "Product Hunt",
     "url": "https://www.producthunt.com/feed"
   },
   {
-    "name": "Smashing Magazine",
-    "url": "https://www.smashingmagazine.com/feed/"
+    "name": "VentureBeat",
+    "url": "https://venturebeat.com/feed/"
   },
   {
-    "name": "Designmodo",
-    "url": "https://designmodo.com/feed/"
+    "name": "ZDNet",
+    "url": "https://www.zdnet.com/news/rss.xml"
   },
   {
-    "name": "AI Trends",
-    "url": "https://www.aitrends.com/feed/"
+    "name": "The Information",
+    "url": "https://www.theinformation.com/feed"
   },
   {
     "name": "OpenAI Blog",
-    "url": "https://openai.com/blog/rss/"
+    "url": "https://openai.com/news/rss.xml"
+  },
+  {
+    "name": "Google Blog",
+    "url": "https://blog.google/rss/"
   },
   {
     "name": "Microsoft Blog",
     "url": "https://blogs.microsoft.com/feed/"
   },
   {
+    "name": "Meta AI Blog",
+    "url": "https://ai.meta.com/blog/rss/"
+  },
+  {
+    "name": "Anthropic Blog",
+    "url": "https://www.anthropic.com/news/rss"
+  },
+  {
+    "name": "DeepMind Blog",
+    "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml"
+  },
+  {
     "name": "Apple Newsroom",
     "url": "https://www.apple.com/newsroom/rss-feed.rss"
   },
   {
-    "name": "SteamDB Free Games",
-    "url": "https://steamdb.info/rss/free/"
+    "name": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/feed/"
   },
   {
-    "name": "SteamDB Sales",
-    "url": "https://steamdb.info/rss/sales/"
+    "name": "AI Trends",
+    "url": "https://www.aitrends.com/feed/"
   },
   {
-    "name": "Epic Games Free Games",
-    "url": "https://store.epicgames.com/en-US/free-games/feed"
-  },
-  {
-    "name": "Humble Bundle",
-    "url": "https://humblebundle.com/rss"
-  },
-  {
-    "name": "Green Man Gaming Deals",
-    "url": "https://www.greenmangaming.com/rss/"
-  },
-  {
-    "name": "GOG.com News",
-    "url": "https://www.gog.com/news/feed"
-  },
-  {
-    "name": "Rock Paper Shotgun",
-    "url": "https://www.rockpapershotgun.com/feed"
+    "name": "IGN",
+    "url": "https://feeds.ign.com/ign/all"
   },
   {
     "name": "PC Gamer",
     "url": "https://www.pcgamer.com/rss/"
+  },
+  {
+    "name": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/feed"
   },
   {
     "name": "Kotaku",
@@ -124,7 +124,19 @@
     "url": "https://www.gamespot.com/feeds/news/"
   },
   {
-    "name": "IGN",
-    "url": "https://feeds.ign.com/ign/all"
+    "name": "Eurogamer",
+    "url": "https://www.eurogamer.net/feed"
+  },
+  {
+    "name": "GamesIndustry.biz",
+    "url": "https://www.gamesindustry.biz/rss/gamesindustry_news.rss"
+  },
+  {
+    "name": "Steam News",
+    "url": "https://store.steampowered.com/news/rss.aspx"
+  },
+  {
+    "name": "SteamDB",
+    "url": "https://steamdb.info/rss/free/"
   }
 ]
