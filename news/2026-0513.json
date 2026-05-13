@@ -1,0 +1,152 @@
+[
+  {
+    "id": "001",
+    "title": "Kevin Hartz 旗下 A* 完成第三期基金募資，規模達 4.5 億美元",
+    "summary": "A* 第三期基金以 4.5 億美元收尾，將採取通用策略投資 AI、金融科技等多元領域。",
+    "content": "<p>由 Kevin Hartz 領軍的創投公司 A* 宣布，其第三期基金已成功完成募資，最終金額達到 4.5 億美元。此舉顯示即便在當前充滿挑戰的募資環境中，具有實力的投資機構仍能獲得有限合夥人的強力支持。</p><p>該基金將維持其通用型投資策略，廣泛布局於人工智慧應用、金融科技、醫療保健與安全等多個關鍵領域。據悉，本期基金的單筆投資金額預計落在 300 萬至 500 萬美元之間，目標是支持至少 30 家具潛力的新創公司。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_9680.jpeg?w=1170",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "002",
+    "title": "Sam Altman 庭審證詞獲優勢，但恐難扭轉陪審團印象",
+    "summary": "Sam Altman 親自出庭作證，試圖扭轉被指控欺騙慈善機構的形象，但效果仍待觀察。",
+    "content": "<p>經過兩週聽取多位證人指稱他是個說謊的騙子後，陪審團終於聽到了這位「騙子」本人的說法：Sam Altman。在證詞尾聲，其律師 William Savitt 詢問他被指控竊取慈善機構的感受。</p><p>Altman 回應道，他們是透過大量努力才創造出這一切，試圖為自己的行為辯護。儘管他在庭上的應對看似佔了上風，但這可能仍不足以完全消除陪審團先入為主的負面印象。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "003",
+    "title": "無視空污訴訟，xAI 於密西西比州設施新增 16 座燃氣渦輪機",
+    "summary": "內部郵件揭露馬斯克的 xAI 正擴大使用移動式燃氣發電，持續推進 Colossus 2 站點建設。",
+    "content": "<p>儘管正面臨空氣品質相關的訴訟，由伊隆·馬斯克創辦的人工智慧公司 xAI，仍在密西西比州的 Colossus 2 資料中心站點大規模擴充能源設備。根據內部郵件顯示，該公司近期在該設施新增了 16 座便攜式燃氣渦輪機，以確保其超級電腦叢集能獲得足夠的電力供應。</p><p>此舉顯示 xAI 正急於加速其基礎設施建設，不願因環境爭議而放緩開發腳步。隨著當地居民與環保團體對發電機組排放問題的擔憂日益加劇，xAI 的擴張行動恐將進一步激化其與監管機構及社區之間的對立。</p>",
+    "image": "https://media.wired.com/photos/6a03856ecf0cbf2f8d86fffe/191:100/w_1280,c_limit/xAI-Adds-16-New-Gas-Turbines-Science-2217198328.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/xai-adds-19-new-gas-turbines-despite-ongoing-lawsuit/",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "004",
+    "title": "AI新創出奇招：邀你家客廳變身微型資料中心",
+    "summary": "新創公司提出分散式算力方案，讓家戶託管AI伺服器以加速部署並賺取被動收入。",
+    "content": "<p>為了解決AI算力供不應求與大規模資料中心建設緩慢的困境，科技新創正提出一項大膽的分散式計劃：將配備高效能GPU的微型資料中心直接部署在一般民眾的家中。此模式試圖繞過傳統集中式基礎設施的土地與電網限制，將閒置的住宅空間轉化為邊緣運算節點。</p><p>該方案不僅能顯著加快AI模型部署的速度，更設計了一套經濟誘因機制，讓參與的住戶能透過託管這些伺服器獲得報酬。業者聲稱，這將創造一種全新的共享經濟模式，將AI發展的紅利直接回饋給終端用戶，同時緩解科技巨頭對超大規模運算設施的極度依賴。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/XFRA-SPAN-Lifestyle-Brown-house-2560x1440.png",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/05/the-newest-ai-boom-pitch-host-a-mini-data-center-at-your-home/",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "005",
+    "title": "iRacing 登陸 Vision Pro，需搭配高階 PC 才能暢玩",
+    "summary": "知名賽車模擬器 iRacing 正式支援 Apple Vision Pro，但玩家仍需透過高效能 PC 進行運算。",
+    "content": "<p>知名硬核賽車模擬遊戲 iRacing 近日正式登陸 Apple Vision Pro 平台，為虛擬賽車玩家帶來了全新的沉浸式駕駛體驗。透過 Vision Pro 的超高解析度顯示器與空間運算能力，玩家彷彿置身於真實的駕駛艙中，感受前所未有的速度與激情。</p><p>然而，這並非一款獨立運行的頭戴裝置應用程式。玩家仍需擁有一台規格強悍的遊戲 PC 來負責核心的圖形運算，再將畫面串流至 Vision Pro 顯示。這意味著想要享受這項頂級體驗，除了購入昂貴的頭戴裝置外，硬體門檻依然相當高。</p>",
+    "image": "https://www.engadget.com/img/gallery/iracing-is-now-on-vision-pro-but-youll-need-a-hefty-pc-to-play-it/l-intro-1778625016.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2171489/iracing-is-now-on-vision-pro-but-youll-need-a-hefty-pc-to-play-it/",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "006",
+    "title": "MIT科技評論：世界模型為何成為當前AI最受關注的十大關鍵之一",
+    "summary": "MIT科技評論將世界模型列為當前AI十大關鍵趨勢，探討其如何讓AI從生成內容邁向理解世界。",
+    "content": "<p>世界模型近期入選了《MIT科技評論》「當前AI十大關鍵事物」榜單，引發業界高度關注。執行編輯Niall Firth解釋，這個新興領域正試圖賦予AI對物理世界的理解能力，使其不再只是模式匹配工具，而是能預測行動結果的智能體。</p><p>為深入探討此趨勢，MIT科技評論舉辦了訂閱者專屬圓桌討論「AI能學會理解世界嗎？」，編輯與記者群共同剖析AI從生成內容進化到具備常識推理與世界模型的關鍵演變路徑。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTR-Roundtables-Zoom-Opening-Overlay.png?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "007",
+    "title": "Kraftwerk 1976年激進單曲如何化身反核聖歌",
+    "summary": "BBC探討德國電子樂先驅Kraftwerk的經典曲目《Radioactivity》，如何從概念專輯作品演變為全球反核運動的標誌性歌曲。",
+    "content": "<p>德國電子音樂先驅 Kraftwerk 於 1976 年推出的專輯《Radioactivity》，其同名主打歌在當時以極具開創性的合成器聲響與簡約美學，探討了放射性與核能主題。這首作品不僅奠定了電子流行樂的雛形，更在數十年間持續發酵，其現場演出的改編版本融入了更強烈的反核立場，成為一首跨越世代的另類抗議歌曲。</p><p>該曲目在後續的巡演中，歌詞從原本對放射性的中性描述，轉變為明確的「停止放射性汙染」訴求，並伴隨著警示性的視覺投影。這種藝術與社會運動的結合，使這首誕生於冷戰時期的前衛電子樂章，在車諾比與福島核災後被反覆引用，確立了其作為反核文化象徵的獨特地位。</p>",
+    "image": "https://ychef.files.bbci.co.uk/624x351/p0nklthc.jpg",
+    "source": "Hacker News",
+    "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "008",
+    "title": "美國國防部公開多段不明空中現象影片總整理",
+    "summary": "美國國防部與國家情報總監辦公室釋出多段不明空中現象影片，作為記錄審查計畫的一環。",
+    "content": "<p>美國國防部與國家情報總監辦公室（ODNI）近期陸續釋出多段不明空中現象（UAP）的相關影片，這些影像資料是政府機關針對UAP記錄進行全面性審查與公開作業的一部分，引發外界高度關注。</p><p>此次釋出的影片涵蓋了多起由軍方飛行員目擊並記錄到的異常事件，畫面中顯示出無法立即辨識的飛行物體，展現了超越已知航空技術的飛行特性。當局希望透過資訊透明化，促進更深入的科學分析與公眾討論。</p>",
+    "image": "https://helios-i.mashable.com/imagery/videos/052HzFICz6A0SA9Fua6ZGPs/hero-image.fill.size_1200x675.v1778626991.jpg",
+    "source": "Mashable",
+    "url": "https://mashable.com/video/uap-videos-department-of-war-release",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "009",
+    "title": "奧特曼庭審揭露：馬斯克曾提議OpenAI控制權移交其子女",
+    "summary": "Sam Altman向陪審團表示，Elon Musk多次試圖取得OpenAI完全控制權，甚至提議轉給其子女。",
+    "content": "<p>OpenAI執行長Sam Altman在法庭上作證時指出，Elon Musk在早期曾多次尋求對公司的絕對控制權，甚至提出將控制權轉移給其子女的奇特構想。此證詞讓OpenAI與Musk之間的法律攻防戰再添爭議性話題。</p><p>Altman向陪審團描述，Musk對於人工智慧的發展方向有著強烈的個人意志，在未能如願主導OpenAI後，不僅選擇離開並創立競爭對手xAI，更轉而提起訴訟，指控OpenAI背離了非營利初衷。OpenAI方面則試圖藉此證明Musk的訴訟是出於個人控制慾而非公益考量。</p>",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/d608/live/c5360200-4e2a-11f1-a6a1-c1a2c5a4cd39.jpg",
+    "source": "BBC News - Technology",
+    "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "010",
+    "title": "馬斯克律師法庭直球對決：奧特曼，你值得信任嗎？",
+    "summary": "OpenAI執行長奧特曼出庭作證，坦言擔憂馬斯克意圖掌控該AI實驗室。",
+    "content": "<p>OpenAI執行長山姆·奧特曼（Sam Altman）週二在法庭上面臨來自馬斯克律師的尖銳提問，直接挑戰其個人誠信：「你值得信任嗎？」這場交鋒凸顯了兩位昔日合作夥伴之間日益加深的裂痕。</p><p>奧特曼在證詞中進一步表示，他確實擔心伊隆·馬斯克（Elon Musk）提起訴訟的背後動機，是為了奪取這家人工智慧實驗室的控制權，並將其與特斯拉合併。</p>",
+    "image": "",
+    "source": "NYTimes Technology",
+    "url": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "011",
+    "title": "Pixcode 推出自託管 AI 編碼代理控制中心",
+    "summary": "Pixcode 提供自託管的控制平台，讓開發者能集中管理與監控多個 AI 編碼代理的工作流程。",
+    "content": "<p>Pixcode 正式亮相，定位為一款自託管的控制中心，專為管理 AI 編碼代理而設計。</p><p>該平台讓開發團隊能在自有環境中集中監控與調度多個 AI 代理，提升軟體開發流程的可視化與掌控度。</p>",
+    "image": "",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pixcode",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "012",
+    "title": "Shai-Hulud蠕蟲繞過SLSA認證，六大行動防堵供應鏈攻擊",
+    "summary": "Shai-Hulud蠕蟲利用CI/CD信任鏈漏洞，發布帶有合法SLSA證明的惡意套件，企業需立即採取六項措施防護。",
+    "content": "<p>名為Mini Shai-Hulud的蠕蟲近期發動大規模供應鏈攻擊，已感染172個npm與PyPI套件，包含每週下載量高達1270萬次的@tanstack/react-router。該攻擊最驚人之處在於，所有惡意版本皆帶有有效的SLSA Build Level 3來源證明，成功繞過現有信任機制，竊取AWS金鑰、SSH私鑰、密碼管理器憑證及AI代理配置等敏感資訊。</p><p>攻擊者結合三個漏洞形成攻擊鏈：利用pull_request_target工作流程取得程式碼執行權、污染GitHub Actions快取，並在後續合法發布流程中從執行器記憶體提取OIDC令牌。蠕蟲更具備持久化機制，會將惡意程式寫入Claude Code與VS Code設定檔中，即使移除套件也無法清除，並在偵測到令牌被撤銷時觸發破壞性行為，抹除使用者家目錄。</p>",
+    "image": "",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/security/shai-hulud-worm-172-npm-pypi-packages-valid-provenance-ci-cd-audit",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "013",
+    "title": "實測190美元Mesh Wi-Fi系統，輕鬆承載12路4K串流",
+    "summary": "Tenda BE5100三件套裝以低成本實現高速Wi-Fi覆蓋，徹底消除家中無線訊號死角。",
+    "content": "<p>在家中部署一套價格僅190美元的Mesh Wi-Fi系統，竟能同時流暢處理多達12個4K影片串流，表現令人驚豔。這款Tenda BE5100三件套裝以親民價格提供了企業級的高速無線覆蓋能力。</p><p>實測結果顯示，該系統不僅安裝簡便，更能有效消滅家中所有無線訊號死角，為大坪數或多樓層住戶提供穩定且高速的連線體驗，堪稱高性價比的Wi-Fi升級首選。</p>",
+    "image": "https://www.zdnet.com/a/img/resize/a9710538c29dcbe8cedf5c449d82d1fdefe2c5c7/2026/05/11/3a376453-f299-42f6-93a9-1e005152f363/img-4255.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "014",
+    "title": "OpenAI Codex 如何革新財務團隊工作流程",
+    "summary": "實戰解析財務團隊如何利用 Codex 從原始數據自動生成 MBR、報告包與規劃情境。",
+    "content": "<p>OpenAI 最新展示揭示了 Codex 在財務領域的深度應用，財務團隊現在能直接透過自然語言指令，將繁雜的原始工作底稿轉化為結構化的管理報告（MBR）與完整的報告套件。</p><p>Codex 不僅能自動建立差異橋樑與模型檢查，更能根據即時輸入動態生成多種規劃情境，大幅縮短財務結算與分析周期，讓專業人員專注於高價值的策略判斷。</p>",
+    "image": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/how-finance-teams-use-codex",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "015",
+    "title": "Google 將 Gemini 核心 AI 功能深度整合至 Android 版 Chrome",
+    "summary": "Google 宣布將 Gemini 驅動的智慧搜尋與生成功能，直接內建於 Android 版 Chrome 瀏覽器。",
+    "content": "<p>Google 於最新一期的 Android Show 節目中宣布，將把 Gemini 人工智慧模型的核心體驗直接帶入 Android 版的 Chrome 瀏覽器。這項整合意味著使用者無需切換應用程式，即可在瀏覽網頁時獲得智慧輔助，包含更直覺的圖像辨識與內容摘要生成。</p><p>此次更新不僅強化了行動裝置上的搜尋互動，更讓開發者能透過網頁標準技術打造 AI 應用。Google 強調，Gemini 在 Chrome 中的深度整合將重新定義行動瀏覽體驗，讓複雜的任務變得像日常對話一樣簡單。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bringing_the_best_of_Gemini_in_Chrome_to_Andr.width-1300_XSadaSq.png",
+    "source": "Google Blog",
+    "url": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/",
+    "date": "2026-05-13"
+  }
+]
