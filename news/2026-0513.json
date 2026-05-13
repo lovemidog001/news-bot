@@ -148,5 +148,55 @@
     "source": "Google Blog",
     "url": "https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/",
     "date": "2026-05-13"
+  },
+  {
+    "id": "016",
+    "title": "Medicare新支付模型專為AI設計，科技界大多尚未察覺",
+    "summary": "ACCESS計畫首次建立政府支付機制，讓AI代理能為病患提供訪間監測與協調服務。",
+    "content": "<p>美國醫療保險正迎來一場靜默變革，全新的Medicare支付模型ACCESS，首次為AI代理在病患照護中的角色創造了正式的政府給付機制。過去，沒有任何聯邦資金可以支付那些在診間之外監測病患、電話追蹤、協調住房轉介或確保用藥依從性的AI系統，這項新規畫徹底改變了遊戲規則。</p><p>這項政策設計的核心，在於將AI從單純的輔助工具，提升為可獨立計費的照護協調者。儘管多數科技公司尚未意識到這股暗流，ACCESS模型已為遠距監測與預測性健康管理打開了龐大的市場大門，預示著演算法將正式成為醫療帳單系統中的一員。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-877394926.jpg?resize=1200,800",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "017",
+    "title": "特朗普手機本周開始發貨，CEO宣布",
+    "summary": "特朗普手機可能終於來了：Trump Mobile的CEO宣布本周開始發貨",
+    "content": "<p>特朗普手機的CEO Pat O'Brien宣布，本周將開始向買家發貨。</p><p>這一公告是在有關預購取消的報告在網路上廣泛傳播的同時發出的。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Vrg_illo_trump_phone_np2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/929471/trump-mobile-t1-phone-shipping-this-week",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "018",
+    "title": "Inside the Race to Develop a Test for the Rare Andes Hantavirus",
+    "summary": "A University of Nebraska lab has developed a test to detect the virus before symptoms become severe",
+    "content": "<p>A University of Nebraska lab has developed a test that can detect the virus before symptoms become severe.</p><p>Now, it's ready to start testing those returning to the US after a cruise outbreak.</p>",
+    "image": "https://media.wired.com/photos/6a023cd0676f3047201fdc4d/191:100/w_1280,c_limit/States-Dont-Have-Enough-Capacity-to-Test-for-Hantavirus-Science-2274271417.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/race-to-develop-andes-hantavirus-test/",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "019",
+    "title": "太空製藥新里程碑：軌道生產迎來關鍵起飛時刻",
+    "summary": "業界領袖認為，當前是太空製藥從實驗走向規模化生產的關鍵歷史轉折點。",
+    "content": "<p>隨著太空站商業化進程加速，在微重力環境下製造藥物的技術正迎來前所未有的發展機遇。業界領袖指出，這不僅是技術的突破，更標誌著太空製藥從理論驗證邁向商業量產的關鍵時刻。</p><p>「我確實認為，這對太空產業而言是一個極佳的歷史性時刻。」相關人士表示，微重力環境能生產出地球上無法達成的高純度晶體，這項優勢正吸引大量資本與目光，預示著軌道製藥即將進入快速成長期。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/Varda_W3_Capsule-1152x648.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "020",
+    "title": "Sony Xperia 1 VIII 亮相：更大感光元件與全新外觀設計",
+    "summary": "Sony 新一代旗艦 Xperia 1 VIII 搭載更大尺寸相機感光元件並換上新造型，但依然無緣美國市場。",
+    "content": "<p>Sony 正式發表新一代旗艦手機 Xperia 1 VIII，最大亮點在於相機系統全面升級，搭載比前代更大的感光元件，預期將大幅提升夜拍與動態範圍表現，同時機身外觀也迎來全新設計語言。</p><p>儘管硬體規格令人矚目，Sony 再次確認 Xperia 1 VIII 並無在美國市場上市的計畫，延續近年旗艦機種跳過北美市場的策略，令當地索粉感到惋惜。</p>",
+    "image": "https://www.engadget.com/img/gallery/sonys-xperia-1-viii-has-bigger-camera-sensors-and-a-new-look/l-intro-1778666799.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2171753/sony-xperia-1-viii-bigger-camera-sensor-redesign/",
+    "date": "2026-05-13"
   }
 ]
