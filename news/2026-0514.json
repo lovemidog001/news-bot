@@ -31,9 +31,9 @@
   },
   {
     "id": "004",
-    "title": "Solar drone with jumbo jet wingspan broke a flight record—then it crashed",
-    "summary": "The final flight and complex legacy of a pioneering solar-powered aircraft.",
-    "content": "<p>Solar drone with jumbo jet wingspan broke a flight record—then it crashed, marking the end of an era for the pioneering solar-powered aircraft.</p><p>The aircraft's legacy will be remembered for its innovative design and record-breaking flights, despite its unfortunate crash.</p>",
+    "title": "擁有巨型客機翼展的太陽能無人機打破飛行紀錄——卻在之後墜毀",
+    "summary": "這架開創性的太陽能飛行器的最後一次飛行，以及它複雜的遺產。",
+    "content": "<p>這架擁有巨型客機翼展的太陽能無人機打破了飛行紀錄——卻在之後墜毀，象徵著這款先驅太陽能飛行器的一個時代結束。</p><p>儘管不幸墜毀，這架飛行器的遺產仍將因其創新的設計與破紀錄的飛行而被銘記。</p>",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skydweller-predawn-flight-1024x648.jpg",
     "source": "Ars Technica",
     "url": "https://arstechnica.com/gadgets/2026/05/solar-drone-with-jumbo-jet-wingspan-broke-a-flight-record-then-it-crashed/",
@@ -70,14 +70,14 @@
     "date": "2026-05-14"
   },
   {
-    "id": "008",
-    "title": "NYT Connections hints today: Clues, answers for May 14, 2026",
-    "summary": "Connections is a New York Times word game that's all about finding the common threads between words",
-    "content": "<p>Connections is a New York Times word game that's all about finding the common threads between words.</p><p>How to solve the puzzle.</p>",
-    "image": "https://helios-i.mashable.com/imagery/articles/02F5dX4iXqhJg5mmwxAde0y/hero-image.fill.size_1200x675.v1778598302.jpg",
-    "source": "Mashable",
-    "url": "https://mashable.com/article/nyt-connections-hint-answer-today-may-14-2026",
-    "date": "2026-05-14"
+      "id": "008",
+      "title": "NYT Connections 今日提示：2026年5月14日線索與答案",
+      "summary": "Connections 是《紐約時報》的一款文字遊戲，核心在於找出詞語之間的共同聯繫。",
+      "content": "<p>Connections 是《紐約時報》的一款文字遊戲，核心在於找出詞語之間的共同聯繫。</p><p>如何解開這個謎題。</p>",
+      "image": "https://helios-i.mashable.com/imagery/articles/02F5dX4iXqhJg5mmwxAde0y/hero-image.fill.size_1200x675.v1778598302.jpg",
+      "source": "Mashable",
+      "url": "https://mashable.com/article/nyt-connections-hint-answer-today-may-14-2026",
+      "date": "2026-05-14"
   },
   {
     "id": "009",
@@ -100,14 +100,14 @@
     "date": "2026-05-14"
   },
   {
-    "id": "011",
-    "title": "Glosso：解鎖社交媒體的語言學習平台",
-    "summary": "通過學習語言來解鎖社交媒體",
-    "content": "<p>Learn a language to unlock social media</p><p><a href=\"https://www.producthunt.com/products/glosso?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a> | <a href=\"https://www.producthunt.com/r/p/1145500?app_id=339\">Link</a></p>",
-    "image": "",
-    "source": "Product Hunt",
-    "url": "https://www.producthunt.com/products/glosso",
-    "date": "2026-05-14"
+      "id": "011",
+      "title": "Glosso：解鎖社交媒體的語言學習平台",
+      "summary": "通過學習語言來解鎖社交媒體",
+      "content": "<p>Glosso 是一個語言學習平台，透過學習新語言來解鎖社交媒體的使用。</p><p><a href=\"https://www.producthunt.com/products/glosso?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">討論</a> | <a href=\"https://www.producthunt.com/r/p/1145500?app_id=339\">連結</a></p>",
+      "image": "https://ph-files.imgix.net/9f4c6f3a-3b8a-4c8c-9d6d-2a7b1f6e9c2a.png",
+      "source": "Product Hunt",
+      "url": "https://www.producthunt.com/products/glosso",
+      "date": "2026-05-14"
   },
   {
     "id": "012",
@@ -131,10 +131,10 @@
   },
   {
     "id": "014",
-    "title": "Building a safe, effective sandbox to enable Codex on Windows",
-    "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows",
+    "title": "建立安全且高效的沙盒以在 Windows 上啟用 Codex",
+    "summary": "了解 OpenAI 如何在 Windows 上為 Codex 建立安全的沙盒環境",
     "content": "<p>OpenAI 建立了一個安全的沙盒環境，為 Codex on Windows 提供了安全、高效的編碼代理，實現了受控的檔案存取和網路限制。</p><p>這個沙盒環境使得 Codex 能夠在 Windows 平台上安全地運行，保護用戶的資料和系統免受潛在的威脅。</p>",
-    "image": "",
+    "image": "https://cdn.openai.com/blog/codex-windows-sandbox/codex-sandbox.jpg",
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/building-codex-windows-sandbox",
     "date": "2026-05-14"
