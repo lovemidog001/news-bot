@@ -4,31 +4,38 @@ import requests
 
 def build_prompt(text):
     return f"""
-你是一位專業科技新聞編輯。
+你是一位專業科技新聞編輯，必須用繁體中文輸出。
 
 請根據以下內容生成 JSON。
 
 規則：
 
 1. title
+- 必須是繁體中文
 - 20~40字
 - 科技新聞風格
 - 不要農場感
+- 不可直接翻譯英文標題，要重新撰寫
 
 2. summary
+- 必須是繁體中文
 - 20~50字
-- 一句話重點
+- 一句話重點摘要
 
 3. content
+- 必須是繁體中文
 - HTML格式
-- 必須：
-<p>第一段</p><p>第二段</p>
+- 必須至少兩段：
+<p>第一段內容</p><p>第二段內容</p>
+- 不可出現英文原文句子
 
 4. image
 - 留空字串
 
 5. source
 - 留空字串
+
+重要：所有文字欄位（title、summary、content）都必須是繁體中文，不可出現英文段落。
 
 只輸出 JSON。
 不要 markdown。
@@ -80,7 +87,6 @@ def call_gemini(text, model="gemini-2.0-flash"):
         "contents": [{"parts": [{"text": build_prompt(text)}]}],
         "generationConfig": {"temperature": 0.6, "maxOutputTokens": 800}
     }
-    # 429 時最多重試 3 次，每次等 10 秒
     for attempt in range(3):
         response = requests.post(url, json=payload, timeout=60)
         if response.status_code == 429:
@@ -182,7 +188,6 @@ def call_ai_with_fallback(text, fallback_chain, model):
 
         try:
             print(f"[Fallback] 嘗試 {provider}...")
-            # NVIDIA 用 config 的 model，其他用各自預設
             result = fn(text, model) if provider == "nvidia" else fn(text)
             print(f"[Fallback] {provider} 成功")
             return result, provider
