@@ -138,5 +138,9 @@
   {
     "name": "SteamDB",
     "url": "https://steamdb.info/rss/free/"
+  },
+  {
+    "name": "4gamers",
+    "url": "https://www.4gamers.com.tw/rss/"
   }
 ]
