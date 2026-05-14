@@ -2,8 +2,8 @@ name: AI News Bot
 
 on:
   schedule:
-    # 台灣時間 07:00 和 18:00（UTC+8，GitHub 用 UTC）
-    - cron: '0 23,10 * * *'
+    # 台灣時間 08:00 和 18:00（UTC+8，GitHub 用 UTC）
+    - cron: '5 00,11 * * *'
   workflow_dispatch:
 
 permissions:
