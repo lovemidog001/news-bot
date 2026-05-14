@@ -39,3 +39,7 @@ jobs:
           git add news/
           git commit -m "Auto update news $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push
+
+      - name: Clear Serv00 Cache
+        run: |
+          curl -s "https://ailoom.ccwu.cc/cache_clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clear failed (non-critical)"
