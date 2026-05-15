@@ -148,5 +148,55 @@
     "source": "Google Blog",
     "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/es-devlins-a-national-portrait-for-the-national-portrait-gallery/",
     "date": "2026-05-15"
+  },
+  {
+    "id": "016",
+    "title": "從幫助電影製作人到挑戰谷歌：AI創業公司Runway的野心",
+    "summary": "AI視頻生成創業公司Runway認為，視頻生成是通往世界模型的道路，並且作為AI的外來者是優勢而非劣勢",
+    "content": "<p>AI視頻生成創業公司Runway最初是通過幫助電影製作人來起步的，但現在它的目標是挑戰谷歌在AI領域的霸主地位。Runway認為，視頻生成技術是未來AI發展的關鍵所在，並且它的獨特之處在於能夠將視頻生成技術應用於各個領域。</p><p>Runway的創始團隊認為，作為AI的外來者反而是優勢而非劣勢，因為它們可以從更客觀的角度來看待AI技術的發展，並且可以更好地應用於實際的商業場景中。通過不斷的技術研發和創新，Runway希望能夠在AI領域中佔據一席之地，並且成為未來AI技術發展的重要推動力之一。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Runway-founders.jpg?resize=1200,960",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "017",
+    "title": "特朗普遊戲機驚現華盛頓戰爭紀念碑，畫面卻出乎意料地精良",
+    "summary": "特朗普遊戲機在華盛頓戰爭紀念碑出現，畫面精良，令人驚訝",
+    "content": "<p>最近，一批特朗普遊戲機突然出現在華盛頓戰爭紀念碑，引起了眾多遊客的關注。這些遊戲機上的圖案是以像素藝術呈現的特朗普和其他政府官員的面貌，從遠處看去，難以想象它們竟然如此精良。</p><p>遊戲機的名稱為《Operation Epic Furious: Strait to Hell》，玩家可以體驗到一場緊張刺激的遊戲冒險。這些遊戲機的出現不僅讓遊客感到意外，同時也引發了人們對於政治和科技結合的思考。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-14-at-1.09.46PM.png?quality=90&strip=all&crop=0%2C10.286854132073%2C100%2C79.426291735855&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "018",
+    "title": "企業削減員工福利的荒唐理由",
+    "summary": "員工的健康保險、產假和退休金福利不斷惡化，證明了工作並不真正關心員工",
+    "content": "<p>近年來，許多企業為了節省成本，開始削減員工的福利，包括健康保險、產假和退休金等。這些福利原本是員工的基本權益，卻被企業以各種理由削減，對員工的生活產生了不利影響。</p><p>企業削減員工福利的理由往往很荒唐，例如「成本太高」、「員工不需要」等。然而，員工的福利是企業吸引和留住人才的重要因素，削減福利可能會對企業的長期發展產生負面影響。因此，企業應該重新考慮員工福利的重要性，為員工提供更好的福利和工作環境。</p>",
+    "image": "https://media.wired.com/photos/6a04fd3b34992d430cd2f12d/191:100/w_1280,c_limit/Backchannel-Employee-Benefits-Are-in-Bigger-Trouble-Than-You-Think-Business-83077313jpg.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "019",
+    "title": "太空科技週報：俄羅斯新型洲際彈道導彈成功試驗，歐洲太空飛機重現",
+    "summary": "SpaceX的升級版星際飛船將於5月19日進行首次試飛",
+    "content": "<p>近期，俄羅斯宣布成功試驗新型洲際彈道導彈，標誌著其軍事技術的重大突破。此外，歐洲的太空飛機項目也取得了重大的進展，為未來的太空探索提供了新的契機。</p><p>同時，SpaceX的升級版星際飛船也即將進行首次試飛，預計將於5月19日進行，這將是太空科技的一大重要事件。隨著太空科技的不斷進步，人類對太空的探索和開發將會更加深入和廣泛。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2276173925-1152x648-1778825433.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "020",
+    "title": "社群平台X宣布將減少英國境內的仇恨內容",
+    "summary": "英國通訊管理局Ofcom表示，X社群平台承諾加速審查被舉報的內容",
+    "content": "<p>近期，社群平台X面臨著越來越多的批評，關於其平台上的仇恨內容問題。為此，X宣布將採取措施減少英國境內的仇恨內容。</p><p>英國通訊管理局Ofcom表示，X社群平台已經承諾加速審查被舉報的內容，並將採取更多措施打擊仇恨內容。這一舉動被視為X社群平台為改善其平台內容質量所做出的努力。</p>",
+    "image": "https://www.engadget.com/img/gallery/x-a-bastion-for-hate-claims-it-will-reduce-hate-content-in-the-uk/l-intro-1778856522.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2173686/x-a-bastion-for-hate-claims-it-will-reduce-hate-content-in-the-uk/",
+    "date": "2026-05-15"
   }
 ]
