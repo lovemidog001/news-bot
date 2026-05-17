@@ -148,5 +148,35 @@
     "source": "Google Blog",
     "url": "https://blog.google/products-and-platforms/products/education/ai-policy-guidance-labs/",
     "date": "2026-05-17"
+  },
+  {
+    "id": "016",
+    "title": "特斯拉太陽能屋頂事業停滯不前 轉向太陽能板",
+    "summary": "特斯拉太陽能屋頂事業停滯不前，轉向太陽能板",
+    "content": "<p>特斯拉太陽能屋頂事業曾經被視為公司的一大亮點，但現在似乎停滯不前。特斯拉宣佈將轉向太陽能板的生產和銷售，標誌著公司在可再生能源領域的戰略調整。</p><p>特斯拉的太陽能屋頂事業最初被寄予厚望，公司承諾提供美觀和高效的太陽能屋頂解決方案。但是，由於技術和成本等問題，該事業一直未能達到預期的目標。現在，特斯拉決定轉向太陽能板的生產和銷售，希望能夠在可再生能源市場中找到新的機會。</p>",
+    "image": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/08/Tesla-Solar-Roof-quote.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "source": "Hacker News",
+    "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "017",
+    "title": "2026年5月17日最新科技動態：科技新聞綜合報導",
+    "summary": "科技新聞綜合報導，帶您全面了解最新科技動態",
+    "content": "<p>科技界近日發生許多重大事件，包括新技術的開發和應用，以及科技公司的最新動態。</p><p>這些事件對科技業的未來發展有著重要的影響，同時也為消費者帶來新的選擇和體驗。</p>",
+    "image": "https://helios-i.mashable.com/imagery/articles/04a61bNeKaIsFZNrZFwTELj/hero-image.fill.size_1200x675.v1778677880.jpg",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/hurdle-hints-answers-may-17-2026",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "018",
+    "title": "Agentmemory：持久記憶技術革新 Claude Code、Codex 和編碼代理",
+    "summary": "Agentmemory 提供持久記憶功能，革新 Claude Code、Codex 和編碼代理的運作",
+    "content": "<p>Agentmemory 是一項創新的技術，旨在為 Claude Code、Codex 和編碼代理提供持久記憶功能。這項技術可以讓代理更好地記住和學習，從而提高其效率和準確性。</p><p>透過 Agentmemory，開發人員可以創建出更智能和更高效的代理，從而在各種領域中發揮其潛力。這項技術的出現，預計將對人工智慧和機器學習等領域產生深遠影響。</p>",
+    "image": "https://ph-files.imgix.net/76862eae-129c-45bb-92ee-e3f700cad0ce.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/agent-memory-dev",
+    "date": "2026-05-17"
   }
 ]
