@@ -178,5 +178,25 @@
     "source": "Product Hunt",
     "url": "https://www.producthunt.com/products/agent-memory-dev",
     "date": "2026-05-17"
+  },
+  {
+    "id": "019",
+    "title": "從得來速到全自動門市，AI 聊天機器人正在重塑速食產業的未來",
+    "summary": "速食業者正大規模導入 AI 語音點餐系統，這只是餐飲服務全面自動化轉型的第一步。",
+    "content": "<p>速食連鎖巨頭正積極將人工智慧導入得來速車道，利用語音辨識與自然語言處理技術，讓聊天機器人負責點餐流程。這項變革不僅是為了因應人力短缺與成本壓力，更代表著餐飲業開始從根本上重新思考服務流程與顧客互動模式。</p><p>業界分析指出，得來速的語音點餐只是自動化浪潮的開端。隨著電腦視覺與機器學習技術的成熟，未來從廚房烹調、備餐包裝到結帳送餐，整個門市營運環節都有望實現無人或少人化操作，徹底改變我們所熟悉的速食消費體驗。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/mcdonalds.webp?quality=90&strip=all&crop=0%2C17.352141509707%2C100%2C78.541697009651&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+    "date": "2026-05-17"
+  },
+  {
+    "id": "020",
+    "title": "智慧澆水系統評測：太陽能驅動，簡單易用",
+    "summary": "Oto智慧澆水系統讓草坪澆水變得容易，只需每天三小時的直接陽光即可維持充電",
+    "content": "<p>近年來，智慧家居產品逐漸普及，各種智能設備讓生活變得更加便捷。其中，智慧澆水系統是其中一個讓人關注的產品。Oto智慧澆水系統就是其中一個受關注的產品，它採用太陽能驅動，簡單易用，讓用戶可以輕鬆地維護草坪。</p><p>該系統的優點在於，它可以根據天氣預報和土壤濕度自動調整澆水時間和量，讓草坪保持最佳狀態。另外，它還具有節水功能，可以幫助用戶節省水資源。雖然它需要每天三小時的直接陽光來維持充電，但這並不是一個很大的限制，因為大多數草坪都能夠滿足這個條件。</p>",
+    "image": "https://media.wired.com/photos/6a07975ab881502fc5a53048/191:100/w_1280,c_limit/review%20Oto%20smart%20sprinkler%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/review/oto-smart-sprinkler/",
+    "date": "2026-05-17"
   }
 ]
