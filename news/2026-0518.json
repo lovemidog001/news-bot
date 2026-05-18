@@ -1,0 +1,152 @@
+[
+  {
+    "id": "001",
+    "title": "蘋果擬推 Siri 重大革新，對話記錄將自動刪除以強化隱私",
+    "summary": "蘋果正計畫為 Siri 導入自動刪除對話記錄功能，隱私保護將成為新版語音助理的核心主軸。",
+    "content": "<p>根據最新消息，蘋果正著手對其語音助理 Siri 進行大規模改造，其中一項引人注目的新功能，便是讓系統能夠自動刪除用戶與 Siri 之間的對話記錄。此舉被視為蘋果在隱私保護領域的進一步深化，旨在降低個人資料被不當存取的風險。</p><p>業界預期，隱私將成為蘋果發表新版 Siri 時的重要宣傳主軸。透過自動清除互動歷程，用戶無需手動管理，便能確保敏感的語音指令與查詢內容不會長期留存於設備或雲端，進一步鞏固蘋果一貫強調的資料安全承諾。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "002",
+    "title": "微軟宣布終止 Teams 虛擬共聚模式，簡化視訊會議體驗",
+    "summary": "微軟將淘汰疫情期間推出的 Teams 虛擬共聚模式，該功能利用 AI 將與會者合成至同一場景，未來將專注於更簡潔的會議體驗。",
+    "content": "<p>微軟正式宣布，將逐步淘汰 Teams 視訊會議軟體中極具代表性的「共聚模式」（Together Mode）。這項功能在疫情期間應運而生，透過人工智慧技術將所有與會者的頭像擷取出來，放置在同一個虛擬場景（如禮堂或咖啡廳）中，營造出眾人齊聚一堂的錯覺，藉此緩解遠距工作的孤獨感並減輕視訊疲勞。</p><p>然而，隨著混合辦公模式成為常態，微軟決定調整發展方向，將資源集中在更簡化、更直覺的使用者介面上。官方表示，雖然共聚模式即將退場，但其背後的技術理念已融入其他功能，未來將持續優化會議體驗，確保用戶能擁有更流暢且高效的協作環境。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/20073111/togethermode.gif?quality=90&strip=all&crop=0,10.336347770903,100,79.327304458195",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "003",
+    "title": "太陽能智慧灑水器 Oto 實測：續航依賴充足日照，安裝簡便但環境限制多",
+    "summary": "Oto 智慧灑水器以太陽能供電且操作直覺，但每日需至少三小時直射陽光才能穩定運作。",
+    "content": "<p>這款名為 Oto 的智慧灑水器，主打無需更換電池的太陽能供電設計，安裝過程相當簡便，幾乎任何人都能快速完成設定。使用者只需透過手機應用程式，就能輕鬆排程灑水時間與區域，讓草坪維護工作變得更加自動化。</p><p>然而，實際使用後發現其供電穩定性高度依賴日照條件，每日必須獲得至少三小時的直射陽光才能維持足夠電力。若庭院位於陰影較多或日照不足的環境，灑水器可能面臨斷電風險，選購前務必評估安裝位置的採光狀況。</p>",
+    "image": "https://media.wired.com/photos/6a07975ab881502fc5a53048/191:100/w_1280,c_limit/review%20Oto%20smart%20sprinkler%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/review/oto-smart-sprinkler/",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "004",
+    "title": "CAR T 細胞療法突破癌症框架，有望重塑自體免疫疾病治療格局",
+    "summary": "研究人員正探索以 CAR T 細胞療法重置免疫系統，為自體免疫疾病患者帶來根治新希望。",
+    "content": "<p>過去被視為血液癌症突破性武器的 CAR T 細胞療法，如今正開闢全新戰線。科學家發現，這種透過基因工程改造患者自身免疫細胞、使其精準殲滅癌細胞的技術，同樣具備深層重置紊亂免疫系統的潛力，為紅斑性狼瘡、多發性硬化症等自體免疫疾病，提供了從根本糾正病因的可能性。</p><p>初步臨床試驗結果令人振奮，部分重症患者在經過一次性 CAR T 細胞注射後，其異常的免疫反應獲得顯著緩解，甚至達到長期無藥狀態。這項策略不再只是抑制症狀，而是鎖定並清除那些錯誤攻擊自身器官的 B 細胞，讓免疫系統有機會「重新開機」，恢復正常運作秩序。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-538030120-1152x648.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "005",
+    "title": "《要塞英雄》限時10分鐘搶先看《曼達洛人與古古》電影片段，5月19日登場",
+    "summary": "熱門遊戲《要塞英雄》將於5月19日獨家放映《曼達洛人與古古》10分鐘搶先看片段，電影隨後於5月22日正式上映。",
+    "content": "<p>星際大戰粉絲與遊戲玩家請注意！熱門大逃殺遊戲《要塞英雄》宣布，將在台灣時間5月19日於遊戲內舉辦特別放映活動，獨家公開即將上映的電影《曼達洛人與古古》長達10分鐘的搶先看片段，為這對超人氣搭檔的銀幕冒險提前暖身。</p><p>這部備受期待的星戰外傳電影，緊接著將於5月22日在全球各大戲院正式上映。此次與《要塞英雄》的合作，無疑是影視宣傳與遊戲跨界整合的又一成功案例，讓玩家能在虛擬世界中搶先感受曼達洛人與古古的魅力。</p>",
+    "image": "https://www.engadget.com/img/gallery/fortnite-players-get-a-10-minute-sneak-peek-of-the-mandalorian-and-grogu-on-may-19/l-intro-1779050879.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2175044/fortnite-players-get-a-10-minute-sneak-peek-of-the-mandalorian-and-grogu-on-may-19/",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "006",
+    "title": "馬斯克與奧特曼對簿公堂落幕 陪審團將裁決誰在說謊",
+    "summary": "馬斯克與奧特曼的訴訟進入最後階段，雙方律師激烈交鋒，攻擊對方當事人的誠信，案件現交由陪審團定奪。",
+    "content": "<p>特斯拉執行長馬斯克與 OpenAI 執行長奧特曼的訴訟案，本週進入最後一週庭審。雙方律師火力全開，集中攻擊對方當事人的可信度。奧特曼在庭上遭到嚴厲詰問，被指控有說謊前科，並涉嫌在與 OpenAI 有業務往來的公司中進行利益輸送。</p><p>面對指控，奧特曼展開反擊，將馬斯克描繪成一個渴望權力、試圖掌控通用人工智慧發展的投機者。在雙方激烈攻防落幕後，全案已交由陪審團審議，將決定哪一方的說法更值得採信。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/GettyImages-2273247036.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "007",
+    "title": "開源工具 Grid2Poster 問世，一鍵將國家電網架構轉化為設計海報",
+    "summary": "新開源專案 Grid2Poster 能將複雜的國家電網數據，自動生成為具設計感的資訊海報，讓能源基礎設施一目了然。",
+    "content": "<p>一個名為 Grid2Poster 的開源工具近日在開發者社群引起關注，它能夠將特定國家的電力傳輸網路數據，轉換成一張張極具現代設計美感的資訊海報。這項專案旨在將複雜且龐大的能源基礎設施資料視覺化，讓大眾能以更直觀、更藝術的方式理解電網的規模與布局。</p><p>該工具從開放街圖等來源擷取電力線與變電站等地理空間數據，並透過演算法進行圖像渲染與排版，最終輸出高解析度的海報圖檔。無論是用於教育展示、公共政策溝通，或是單純作為科技風格的室內裝飾，Grid2Poster 都為能源數據的呈現提供了嶄新的可能性。</p>",
+    "image": "https://opengraph.githubassets.com/27180725773910876177f332abcf2c1ae40620f52438fc71753b755760ff9096/open-energy-transition/grid2poster",
+    "source": "Hacker News",
+    "url": "https://github.com/open-energy-transition/grid2poster",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "008",
+    "title": "重視真人設計課程的語言學習者，把握 Babbel 終身訂閱限時優惠",
+    "summary": "Babbel 推出終身語言學習方案，透過優惠碼能以優惠價格解鎖 14 種語言的真人設計課程。",
+    "content": "<p>對於偏好由語言專家精心打造課程的學習者來說，純粹依賴 AI 生成內容的學習工具往往缺乏系統性與教學深度。Babbel 長期以來堅持由真人語言教師設計課程，這項特色在自動生成技術氾濫的時代更顯珍貴，能提供更具脈絡與文化背景的學習體驗。</p><p>本次限時促銷活動讓使用者能以優惠價格取得終身存取權限，內容涵蓋 14 種語言。課程設計聚焦於真實世界的對話練習，並將內容切分為易於消化的短單元，幫助忙碌的現代人有效利用零碎時間，逐步建立實際的語言溝通能力。</p>",
+    "image": "https://helios-i.mashable.com/imagery/articles/02oIYzqIqXuvFawkh5HjjBb/hero-image.fill.size_1200x675.v1778748442.jpg",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/may-17-babbel-language-learning-lifetime-subscription",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "009",
+    "title": "亞馬遜稱霸歐美電商市場，為何始終缺乏西方對手？",
+    "summary": "亞馬遜在歐美電商領域的規模遠超同業，分析其為何能長期維持壓倒性優勢而未逢敵手。",
+    "content": "<p>當我們審視歐美電商版圖時，會發現一個耐人尋味的現象：這家網路巨擘的規模，讓大西洋兩岸的所有線上零售商都相形見絀。無論是傳統零售巨頭轉型，還是新興的垂直電商，似乎都難以撼動其霸主地位，形成了一種極為特殊的單極化市場格局。</p><p>究其根本，這並非單純的價格或流量之爭。其真正難以複製的護城河，在於將電商平台、雲端運算服務與物流基礎設施深度捆綁，所產生的巨大飛輪效應。競爭對手或許能在特定領域追趕，但要同時複製這套涵蓋數位生態與實體基建的龐大體系，門檻已高到令人望而卻步。</p>",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/fa7e/live/9e8e8270-5088-11f1-89a3-d1f559421220.jpg",
+    "source": "BBC News - Technology",
+    "url": "https://www.bbc.com/news/articles/cg7p5nr307mo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "010",
+    "title": "OpenAI訴訟進入關鍵階段：馬斯克與阿特曼案結辯後將交由陪審團裁決",
+    "summary": "馬斯克與OpenAI的聯邦訴訟完成結辯，九人陪審團預計下週開始審議，結果將影響AI發展走向。",
+    "content": "<p>備受矚目的馬斯克與OpenAI執行長阿特曼之間的聯邦訴訟案，本週四已完成雙方的結辯程序。這場科技界的世紀對決，如今將命運交到九名陪審員手中，預計下週展開關鍵審議。</p><p>此案不僅涉及兩位科技巨頭間的商業與理念之爭，其最終裁決更可能為快速發展的人工智慧產業，樹立關於公司治理與發展方向的重要先例，後續影響備受各界關注。</p>",
+    "image": "",
+    "source": "NYTimes Technology",
+    "url": "https://www.nytimes.com/2026/05/14/technology/openai-trial-elon-musk-sam-altman.html",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "011",
+    "title": "Fere AI 登場：將市場訊號化為加密貨幣與預測市場交易的智慧代理人",
+    "summary": "Fere AI 推出能將即時市場訊號，自動轉化為加密貨幣及 Polymarket 交易操作的智慧代理人服務。",
+    "content": "<p>一款名為 Fere AI 的新型態智慧代理人正式問世，其核心功能是能夠即時分析各類市場訊號，並自動將其轉化為具體的加密貨幣交易指令，甚至在預測市場平台 Polymarket 上進行操作。</p><p>這項服務旨在簡化使用者從資訊獲取到實際執行的複雜流程，透過自動化代理機制，讓交易者能更快速、更精準地對市場變化做出反應，無需手動監控並下單。</p>",
+    "image": "https://ph-files.imgix.net/6f50454e-0f2f-4bb9-91eb-7e63c7d03637.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/fere-ai",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "012",
+    "title": "圖譜增強式 RAG 架構解析：突破向量搜尋的企業落地極限",
+    "summary": "當企業資料高度互連時，純向量檢索常因失去結構而失準；本文探討結合圖資料庫的混合式 RAG 架構，實現多跳推理與精準脈絡還原。",
+    "content": "<p>檢索增強生成（RAG）已成為大型語言模型落地私有資料的標準作法，但傳統以向量相似度為核心的架構，在供應鏈、金融合規等高度互連的領域中經常失靈。這類架構能捕捉語意相似性，卻無法理解資料之間的從屬、依賴或所有權關係，導致面對「零件 X 延遲將如何影響客戶 Y 的第三季交付」這類多跳推理問題時，模型容易產生幻覺或給出模糊回應。</p><p>為了解決此痛點，圖譜增強式 RAG 應運而生。其核心在於建立一套混合檢索機制，於資料攝取階段就透過語言模型或命名實體辨識，將非結構化文本中的實體與關聯萃取出來，並與既有的結構化圖資料庫連結。查詢時則先以向量掃描找到語意入口點，再沿著圖譜邊緣進行遍歷，最終提供給語言模型一份包含完整脈絡的結構化資訊，讓回答既能奠基於語意，也保有業務邏輯的精確性。</p>",
+    "image": "",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "013",
+    "title": "三星與摩托羅拉手機實測對決：深入評測後的最佳選擇分析",
+    "summary": "經過大量實測，三星與摩托羅拉各有優勢，最終選擇取決於預算與核心需求。",
+    "content": "<p>在安卓手機市場中，三星與摩托羅拉是兩個極具代表性的品牌，但它們瞄準的客群與產品策略截然不同。三星以全方位的旗艦技術、精緻的工藝設計和長期的軟體更新承諾著稱，從頂尖的 Galaxy S 系列到創新的摺疊螢幕手機，幾乎涵蓋所有價位帶，生態系整合度極高。</p><p>相對而言，摩托羅拉則專注於提供純淨且流暢的軟體體驗，並在入門與中階市場展現極高的性價比。其操作介面接近原生安卓，沒有過多的附加軟體，加上領先業界的快充技術與獨特的手勢操作，對於追求簡潔實用與預算有限的消費者來說，魅力十足。最終的選擇，其實就是看您更看重頂尖規格與生態系，還是純粹的系統體驗與價格優勢。</p>",
+    "image": "https://www.zdnet.com/a/img/resize/8d2a798f6ddb5c95af74d282f2f3a6ef50076906/2024/07/08/60e5211c-f6ea-4d29-97af-904a55de7de0/dsc01259.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/samsung-vs-motorola-phones/",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "014",
+    "title": "OpenAI與馬爾他政府合作，全國公民將免費使用ChatGPT Plus",
+    "summary": "OpenAI與馬爾他宣布合作，將向全體公民提供ChatGPT Plus服務，並推動人工智慧技能培訓與負責任使用。",
+    "content": "<p>人工智慧公司OpenAI與地中海島國馬爾他政府達成一項創新合作協議，計劃將旗下高階對話模型ChatGPT Plus免費提供給全體馬爾他公民使用。此舉旨在透過普及先進人工智慧工具，提升公共服務效率與民眾數位素養。</p><p>除了開放服務存取權限，雙方也將共同推出教育訓練計畫，協助民眾培養實用的人工智慧應用能力，並建立負責任且合乎倫理的科技使用觀念，為各國推動全民智慧轉型樹立嶄新典範。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/25iIHzkpMZU6D9guaSf5JD/fdbc74ef48943e248e832d406c68695c/SEO_Card__2_.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "015",
+    "title": "Google DeepMind 亞太加速器啟動，聚焦 AI 應對環境風險",
+    "summary": "Google DeepMind 宣布在亞太區推出加速器計畫，運用人工智慧協助解決該地區面臨的嚴峻環境挑戰。",
+    "content": "<p>Google DeepMind 正式宣布在亞太地區啟動全新的加速器計畫，目標是應對該區域日益加劇的環境風險。儘管亞太地區是全球經濟成長的重要引擎，卻也極易受到氣候變遷的衝擊，海平面上升與極端氣候事件頻傳，威脅著當地生態與居民生活。</p><p>此計畫將資助並輔導非營利組織與社會企業，聚焦於運用人工智慧開發創新解決方案。獲選團隊將獲得技術指導、雲端資源以及與 DeepMind 專家合作的機會，共同在生物多樣性保護、水資源管理及低碳能源等關鍵領域尋求突破。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DeepMind_Accelerator_Asia_Pacific.max-1440x810.png",
+    "source": "Google Blog",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet/",
+    "date": "2026-05-18"
+  }
+]
