@@ -148,5 +148,55 @@
     "source": "Google Blog",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/accelerator-ai-for-the-planet/",
     "date": "2026-05-18"
+  },
+  {
+    "id": "016",
+    "title": "Bambu Studio 專案涉嫌違反 AGPL 授權協議",
+    "summary": "Bambu Studio 專案的 bambu_networking 功能涉嫌違反 AGPL 授權協議",
+    "content": "<p>Bambu Studio 是一個知名的開源軟體專案，最近被發現其 bambu_networking 功能涉嫌違反 AGPL 授權協議。這個爭議引起了開源社群的廣泛關注和討論。</p><p>根據相關報告，Bambu Studio 專案的 bambu_networking 功能涉嫌違反 AGPL 授權協議的具體原因是，該功能使用了某些第三方庫，但沒有遵守 AGPL 的授權要求。這個問題引發了開源社群的關注，因為 AGPL 授權協議是保護開源軟體知識產權的重要機制。</p>",
+    "image": "https://opengraph.githubassets.com/d34346fc15413e355e831bef76c05fc263c79979a5e6d0c35606826ebd616476/jarczakpawel/OrcaSlicer-bambulab",
+    "source": "Hacker News",
+    "url": "https://github.com/jarczakpawel/OrcaSlicer-bambulab/blob/main/bambu_agpl.md",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "017",
+    "title": "紐約時報推出新遊戲Pips，將多米諾樂趣帶到您的電腦桌面",
+    "summary": "紐約時報最新遊戲Pips，讓您在電腦上享受多米諾樂趣，同時提供遊戲技巧和解答",
+    "content": "<p>紐約時報推出了一款新遊戲Pips，將多米諾樂趣帶到您的電腦桌面。這款遊戲簡單易玩，同時也提供了豐富的挑戰和樂趣。玩家可以通過滑鼠點擊和拖曳多米諾骨牌，創造出自己的多米諾排列和組合。</p><p>如果您在玩Pips的過程中遇到困難，紐約時報也提供了相關的遊戲技巧和解答。玩家可以通過這些提示和解答，找到解決問題的方法，繼續享受遊戲的樂趣。無論您是多米諾的粉絲，還是只是想找一款有趣的遊戲，Pips都是您不容錯過的選擇。</p>",
+    "image": "https://helios-i.mashable.com/imagery/articles/01XlOAisJsDOs42d1xbDXq1/hero-image.fill.size_1200x675.v1779082679.jpg",
+    "source": "Mashable",
+    "url": "https://mashable.com/article/pips-nyt-games-hints-answers-easy-medium-hard-may-18-2026",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "018",
+    "title": "英國皇家天文台警告：即時人工智慧答案可能低估人類智慧",
+    "summary": "英國皇家天文台負責人指出，人類豐富的知識歷史表明，應避免過度依賴人工智慧",
+    "content": "<p>英國皇家天文台近日發表聲明，警告即時人工智慧答案可能低估人類智慧。天文台負責人表示，人類的智慧和知識是無法被取代的，過度依賴人工智慧可能會導致人類智慧的低估。</p><p>英國皇家天文台的歷史表明，人類的智慧和知識是無窮無盡的。天文台負責人指出，人類應該避免過度依賴人工智慧，否則可能會失去人類智慧的價值和意義。</p>",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ec05/live/8bea2980-5079-11f1-b637-39d6d94b351f.jpg",
+    "source": "BBC News - Technology",
+    "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "019",
+    "title": "Pixserp：將人工智慧帶到網路上的革命性平台",
+    "summary": "Pixserp是一個讓您的人工智慧模型走向網路的平台，提供十種答案形式的單一端點",
+    "content": "<p>Pixserp是一個嶄新的平台，旨在將人工智慧模型帶到網路上，讓開發人員可以輕鬆地將其模型部署到線上。這個平台提供了一個單一的端點，讓開發人員可以輕鬆地存取其模型的答案，並以十種不同的形式呈現給用戶。</p><p>通過Pixserp，開發人員可以將其模型部署到網路上，讓用戶可以輕鬆地存取和使用。這個平台的出現，將大大簡化人工智慧模型的部署和使用過程，讓更多的人可以享受到人工智慧的便利。</p>",
+    "image": "https://ph-files.imgix.net/3a43e923-0bfd-4957-8d7a-3e47ff8e5a85.png?auto=format&fit=crop&frame=1&h=512&w=1024",
+    "source": "Product Hunt",
+    "url": "https://www.producthunt.com/products/pixserp",
+    "date": "2026-05-18"
+  },
+  {
+    "id": "020",
+    "title": "科技達人推薦：優惠六十美元的金屬探測器，值得您入手",
+    "summary": "利用這款金屬探測器套件，在海灘或自家後院尋找寶藏",
+    "content": "<p>金屬探測器是一種既有趣又實用的工具，能夠幫助您在海灘或自家後院尋找寶藏。這款金屬探測器套件在Amazon上以優惠價格出售，節省了六十美元，是一個非常划算的選擇。</p><p>這款金屬探測器具有高敏感度和精確的探測能力，能夠準確地定位金屬物體。另外，它還具有耐用和防水的設計，適合在各種環境中使用。無論您是初學者還是經驗豐富的金屬探測器使用者，這款套件都是一個不錯的選擇。</p>",
+    "image": "https://www.zdnet.com/a/img/resize/c5d32e90e217fa5990a956b3b37b5905a7f5056c/2026/05/15/f2e16349-3b03-40ef-b2d3-70610f335b96/pancky-metal-detector.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/pancky-metal-detector-bundle-deal/",
+    "date": "2026-05-18"
   }
 ]
