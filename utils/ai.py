@@ -4,30 +4,36 @@ import requests
 
 def build_prompt(text):
     return f"""
-你是一位專業科技新聞編輯，必須用繁體中文輸出。
+你是一位專業科技新聞編輯，必須用繁體中文撰寫完整的新聞報導。
 
 請根據以下內容生成 JSON。
 
 規則：
 
-1. title
+1. title（標題）
 - 必須是繁體中文
-- 20~40字
-- 科技新聞風格
-- 不要農場感
+- 15~30字
+- 科技新聞風格，具體清楚
+- 不要農場感、不要誇大
 - 不可直接翻譯英文標題，要重新撰寫
 
-2. summary
+2. summary（摘要）
 - 必須是繁體中文
-- 20~50字
-- 一句話重點摘要
+- 50~80字
+- 說清楚新聞的核心重點、影響和意義
 
-3. content
+3. content（內文）
 - 必須是繁體中文
-- HTML格式
-- 必須至少兩段：
-<p>第一段內容</p><p>第二段內容</p>
-- 不可出現英文原文句子
+- HTML 格式，使用 <p>、<h2>、<ul>、<li>、<strong> 等標籤
+- 必須包含以下結構：
+  * <h2>事件背景</h2><p>詳細說明這件事的來龍去脈，至少 80 字</p>
+  * <h2>詳細內容</h2><p>深入分析事件細節、數據、相關人物或公司，至少 100 字</p>
+  * <h2>影響與意義</h2><p>分析這件事對產業、使用者或市場的影響，至少 80 字</p>
+  * <h2>未來展望</h2><p>說明後續可能的發展方向，至少 60 字</p>
+- 總字數必須在 400 字以上
+- 不可出現英文段落
+- 不可使用「根據報導」、「據悉」等模糊開頭
+- 內容要有深度，不要只是重複摘要
 
 4. image
 - 留空字串
@@ -35,14 +41,15 @@ def build_prompt(text):
 5. source
 - 留空字串
 
-重要：所有文字欄位（title、summary、content）都必須是繁體中文，不可出現英文段落。
+重要規定：
+- 所有文字必須是繁體中文
+- content 總字數不得少於 400 字
+- 必須有 4 個 h2 小標題段落
+- 文章要有新聞價值，不要流水帳
 
-只輸出 JSON。
-不要 markdown。
-不要解釋。
+只輸出 JSON，不要 markdown，不要任何解釋。
 
 格式：
-
 {{
   "title": "",
   "summary": "",
@@ -51,7 +58,7 @@ def build_prompt(text):
   "source": ""
 }}
 
-內容：
+新聞內容：
 {text}
 """
 
@@ -68,7 +75,7 @@ def call_nvidia(text, model):
         "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
         "top_p": 0.9,
-        "max_tokens": 800
+        "max_tokens": 2000
     }
     response = requests.post(
         "https://integrate.api.nvidia.com/v1/chat/completions",
@@ -85,7 +92,7 @@ def call_gemini(text, model="gemini-2.0-flash"):
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
     payload = {
         "contents": [{"parts": [{"text": build_prompt(text)}]}],
-        "generationConfig": {"temperature": 0.6, "maxOutputTokens": 800}
+        "generationConfig": {"temperature": 0.6, "maxOutputTokens": 2000}
     }
     for attempt in range(3):
         response = requests.post(url, json=payload, timeout=60)
@@ -110,7 +117,7 @@ def call_deepseek(text, model="deepseek-chat"):
         "model": model,
         "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
-        "max_tokens": 800
+        "max_tokens": 2000
     }
     response = requests.post(
         "https://api.deepseek.com/chat/completions",
@@ -131,7 +138,7 @@ def call_openai(text, model="gpt-4o-mini"):
         "model": model,
         "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
-        "max_tokens": 800
+        "max_tokens": 2000
     }
     response = requests.post(
         "https://api.openai.com/v1/chat/completions",
@@ -152,7 +159,7 @@ def call_groq(text, model="llama-3.3-70b-versatile"):
         "model": model,
         "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
-        "max_tokens": 800
+        "max_tokens": 2000
     }
     response = requests.post(
         "https://api.groq.com/openai/v1/chat/completions",
