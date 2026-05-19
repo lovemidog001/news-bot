@@ -35,12 +35,6 @@ def build_prompt(text):
 - 不可使用「根據報導」、「據悉」等模糊開頭
 - 內容要有深度，不要只是重複摘要
 
-4. image
-- 留空字串
-
-5. source
-- 留空字串
-
 重要規定：
 - 所有文字必須是繁體中文
 - content 總字數不得少於 400 字
@@ -53,9 +47,7 @@ def build_prompt(text):
 {{
   "title": "",
   "summary": "",
-  "content": "",
-  "image": "",
-  "source": ""
+  "content": ""
 }}
 
 新聞內容：
