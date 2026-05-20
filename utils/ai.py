@@ -8,6 +8,8 @@ import requests
 # =========================================================
 
 def build_prompt(text):
+    # 註解：在 f-string 中，純文字的「{」和「}」必須寫成「{{」和「}}」來進行轉義。
+    # 註解：只有最底部的 {text} 需要保持單個大括號，用來帶入 Python 變數。
     return f"""
 你是一位充滿活力、說話接地氣的專業科技網紅兼新聞編輯。現在要請你將一則英文科技新聞，轉譯並重編成台灣讀者會大感興趣、兼具深度與趣味的繁體中文報導。
 
@@ -47,7 +49,7 @@ def build_prompt(text):
   * <h2>編輯悄悄話</h2>
     <p>生活趣味口語結論！用最接地氣、幽默、像朋友聊天的口吻，總結這場科技變革，給讀者一個有趣的反思，至少 60 字。</p>
 
-禁止
+【禁止】
 - emoji
 - 中國用語（如：質量、優化、屏幕、計算機、智能）
 - AI 制式語氣
@@ -55,17 +57,17 @@ def build_prompt(text):
 - 「總而言之」
 - 「據悉」
 
-重要規定
+【重要規定】
 - 嚴禁出現英文段落，專有名詞（如 AI, Apple, Google, Meta）除外。
 - 資訊必須確實根據原文，不可憑空捏造事实，但在包裝與語氣上要活潑生動。
 - 只輸出 JSON，不要 markdown（不要 ```json），不要任何前後文解釋。
 
-格式：
-{{
+【輸出格式】
+{{{{
   "title": "",
   "summary": "",
   "content": ""
-}}
+}}}}
 
 新聞內容：
 {text}
@@ -87,7 +89,7 @@ def call_nvidia(text, model):
         "max_tokens": 2000
     }
     response = requests.post(
-        "https://integrate.api.nvidia.com/v1/chat/completions",
+        "[https://integrate.api.nvidia.com/v1/chat/completions](https://integrate.api.nvidia.com/v1/chat/completions)",
         headers=headers, json=payload, timeout=60
     )
     response.raise_for_status()
@@ -98,7 +100,7 @@ def call_nvidia(text, model):
 def call_gemini(text, model="gemini-2.0-flash"):
     import time
     api_key = os.getenv("GEMINI_API_KEY")
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
+    url = f"[https://generativelanguage.googleapis.com/v1beta/models/](https://generativelanguage.googleapis.com/v1beta/models/){model}:generateContent?key={api_key}"
     payload = {
         "contents": [{"parts": [{"text": build_prompt(text)}]}],
         "generationConfig": {"temperature": 0.6, "maxOutputTokens": 2000}
@@ -129,7 +131,7 @@ def call_deepseek(text, model="deepseek-chat"):
         "max_tokens": 2000
     }
     response = requests.post(
-        "https://api.deepseek.com/chat/completions",
+        "[https://api.deepseek.com/chat/completions](https://api.deepseek.com/chat/completions)",
         headers=headers, json=payload, timeout=60
     )
     response.raise_for_status()
@@ -150,7 +152,7 @@ def call_openai(text, model="gpt-4o-mini"):
         "max_tokens": 2000
     }
     response = requests.post(
-        "https://api.openai.com/v1/chat/completions",
+        "[https://api.openai.com/v1/chat/completions](https://api.openai.com/v1/chat/completions)",
         headers=headers, json=payload, timeout=60
     )
     response.raise_for_status()
@@ -171,7 +173,7 @@ def call_groq(text, model="llama-3.3-70b-versatile"):
         "max_tokens": 2000
     }
     response = requests.post(
-        "https://api.groq.com/openai/v1/chat/completions",
+        "[https://api.groq.com/openai/v1/chat/completions](https://api.groq.com/openai/v1/chat/completions)",
         headers=headers, json=payload, timeout=60
     )
     response.raise_for_status()
@@ -214,4 +216,3 @@ def call_ai_with_fallback(text, fallback_chain, model):
             continue
 
     raise Exception(f"所有 AI Provider 均失敗，最後錯誤：{last_error}")
-
