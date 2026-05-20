@@ -217,6 +217,21 @@ def safe_json_parse(output: str):
             return None
 
 # ── 安全版 Fallback ──
+def safe_json_parse(output: str):
+    """清理並嘗試解析 JSON，修復常見錯誤"""
+    cleaned = re.sub(r'[\x00-\x1F\x7F]', '', output)
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError:
+        # 嘗試修復：補引號、移除多餘逗號
+        fixed = re.sub(r'(\{|,)\s*([a-zA-Z0-9_]+)\s*:', r'\1 "\2":', cleaned)
+        fixed = re.sub(r',\s*([}\]])', r'\1', fixed)
+        try:
+            return json.loads(fixed)
+        except json.JSONDecodeError:
+            return None
+
+# ── 安全版 Fallback ──
 def call_ai_with_fallback(text, fallback_chain=["groq","openai","nvidia"], model="gpt-4o-mini"):
     """
     安全版：依序嘗試 Provider，並驗證 JSON 格式。
@@ -250,4 +265,4 @@ def call_ai_with_fallback(text, fallback_chain=["groq","openai","nvidia"], model
             last_error = e
             continue
 
-    raise
+    raise Exception(f"所有 AI Provider 均失敗，最後錯誤：{last_error}")
