@@ -1,5 +1,12 @@
 import os
+import re
+import json
+import time
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
+
 
 
 def build_prompt(text):
@@ -65,170 +72,213 @@ def build_prompt(text):
 """
 
 # ── NVIDIA ──
-def call_nvidia(text, model="nemotron-3-nano-omni-30b-a3b-reasoning"):
+def call_nvidia(text, model="meta/llama-3.1-70b-instruct"):
+
     api_key = os.getenv("NVIDIA_API_KEY")
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+
     payload = {
-        "model": model,  # 改成 NVIDIA 支援的模型
-        "messages": [{"role": "user", "content": build_prompt(text)}],
+        "model": model,
+        "messages": [
+            {
+                "role": "user",
+                "content": build_prompt(text)
+            }
+        ],
         "temperature": 0.6,
         "top_p": 0.9,
         "max_tokens": 2000
     }
+
     response = requests.post(
         "https://integrate.api.nvidia.com/v1/chat/completions",
-        headers=headers, json=payload, timeout=20
+        headers=headers,
+        json=payload,
+        timeout=60
     )
+
     response.raise_for_status()
+
     return response.json()["choices"][0]["message"]["content"]
 
-# ── Gemini 3.5 Flash ──
-def call_gemini35(text, model="gemini-3.5-flash"):
-    import time
+
+# ── Gemini ──
+def call_gemini(text, model="gemini-1.5-flash"):
+
     api_key = os.getenv("GEMINI_API_KEY")
+
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
+
     payload = {
-        "contents": [{"parts": [{"text": build_prompt(text)}]}],
-        "generationConfig": {"temperature": 0.6, "maxOutputTokens": 2000}
+        "contents": [
+            {
+                "parts": [
+                    {
+                        "text": build_prompt(text)
+                    }
+                ]
+            }
+        ],
+        "generationConfig": {
+            "temperature": 0.6,
+            "maxOutputTokens": 2000
+        }
     }
-    for attempt in range(1):  # 只試一次，加速
-        response = requests.post(url, json=payload, timeout=20)
-        if response.status_code == 429:
-            wait = 10 * (attempt + 1)
-            print(f"[Gemini 3.5] 429 rate limit，等待 {wait} 秒後重試...")
-            time.sleep(wait)
-            continue
-        response.raise_for_status()
-        return response.json()["candidates"][0]["content"]["parts"][0]["text"]
+
+    response = requests.post(
+        url,
+        json=payload,
+        timeout=60
+    )
+
     response.raise_for_status()
 
-# ── Gemini 2.0 Flash ──
-def call_gemini(text, model="gemini-2.0-flash"):
-    import time
-    api_key = os.getenv("GEMINI_API_KEY")
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
-    payload = {
-        "contents": [{"parts": [{"text": build_prompt(text)}]}],
-        "generationConfig": {"temperature": 0.6, "maxOutputTokens": 2000}
-    }
-    for attempt in range(2):  # 最多試2次
-        response = requests.post(url, json=payload, timeout=20)
-        if response.status_code == 429:
-            wait = 10 * (attempt + 1)
-            print(f"[Gemini] 429 rate limit，等待 {wait} 秒後重試...")
-            time.sleep(wait)
-            continue
-        response.raise_for_status()
-        return response.json()["candidates"][0]["content"]["parts"][0]["text"]
-    response.raise_for_status()
+    return response.json()["candidates"][0]["content"]["parts"][0]["text"]
+
 
 # ── DeepSeek ──
 def call_deepseek(text, model="deepseek-chat"):
+
     api_key = os.getenv("DEEPSEEK_API_KEY")
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+
     payload = {
         "model": model,
-        "messages": [{"role": "user", "content": build_prompt(text)}],
+        "messages": [
+            {
+                "role": "user",
+                "content": build_prompt(text)
+            }
+        ],
         "temperature": 0.6,
         "max_tokens": 2000
     }
-    response = requests.post("https://api.deepseek.com/chat/completions",
-                             headers=headers, json=payload, timeout=20)
+
+    response = requests.post(
+        "https://api.deepseek.com/chat/completions",
+        headers=headers,
+        json=payload,
+        timeout=60
+    )
+
     response.raise_for_status()
+
     return response.json()["choices"][0]["message"]["content"]
 
-# ── OpenAI ──
-def call_openai(text, model="gpt-4o-mini"):
-    api_key = os.getenv("OPENAI_API_KEY")
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
-    payload = {
-        "model": model,
-        "messages": [{"role": "user", "content": build_prompt(text)}],
-        "temperature": 0.6,
-        "max_tokens": 2000
-    }
-    response = requests.post("https://api.openai.com/v1/chat/completions",
-                             headers=headers, json=payload, timeout=20)
-    response.raise_for_status()
-    return response.json()["choices"][0]["message"]["content"]
 
 # ── Groq ──
 def call_groq(text, model="llama-3.3-70b-versatile"):
+
     api_key = os.getenv("GROQ_API_KEY")
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+
     payload = {
         "model": model,
-        "messages": [{"role": "user", "content": build_prompt(text)}],
+        "messages": [
+            {
+                "role": "user",
+                "content": build_prompt(text)
+            }
+        ],
         "temperature": 0.6,
         "max_tokens": 2000
     }
-    response = requests.post("https://api.groq.com/openai/v1/chat/completions",
-                             headers=headers, json=payload, timeout=20)
+
+    response = requests.post(
+        "https://api.groq.com/openai/v1/chat/completions",
+        headers=headers,
+        json=payload,
+        timeout=60
+    )
+
     response.raise_for_status()
+
     return response.json()["choices"][0]["message"]["content"]
+
 
 # ── Provider 對應表 ──
 PROVIDER_MAP = {
-    "nvidia":   call_nvidia,
-    "gemini":   call_gemini,
-    "gemini35": call_gemini35,
     "deepseek": call_deepseek,
-    "openai":   call_openai,
-    "groq":     call_groq,
+    "gemini": call_gemini,
+    "groq": call_groq,
+    "nvidia": call_nvidia,
 }
 
-import re, json
 
-# ── 安全版 JSON 解析 ──
+# ── JSON 安全解析 ──
 def safe_json_parse(output: str):
-    """清理並嘗試解析 JSON，修復常見錯誤"""
-    # 移除非法控制字元
+
     cleaned = re.sub(r'[\x00-\x1F\x7F]', '', output)
+
     try:
         return json.loads(cleaned)
-    except json.JSONDecodeError:
-        # 嘗試修復：補引號、移除多餘逗號
-        fixed = re.sub(r'(\{|,)\s*([a-zA-Z0-9_]+)\s*:', r'\1 "\2":', cleaned)
-        fixed = re.sub(r',\s*([}\]])', r'\1', fixed)
-        try:
-            return json.loads(fixed)
-        except json.JSONDecodeError:
-            return None
 
-# ── 安全版 Fallback ──
-def call_ai_with_fallback(text, fallback_chain=["gemini35","openai","groq","deepseek","nvidia"], model="gpt-4o-mini"):
-    """
-    安全版：依序嘗試 Provider，並驗證 JSON 格式。
-    - 每個 provider 最多嘗試一次
-    - 成功回傳 JSON dict，失敗則繼續下一個 provider
-    - 全部失敗則 raise Exception
-    """
+    except Exception:
+
+        match = re.search(r'\{.*\}', cleaned, re.DOTALL)
+
+        if match:
+
+            try:
+                return json.loads(match.group())
+
+            except Exception:
+                return None
+
+    return None
+
+
+# ── Fallback ──
+def call_ai_with_fallback(
+    text,
+    fallback_chain=["deepseek", "gemini", "groq", "nvidia"]
+):
+
     last_error = None
 
     for provider in fallback_chain:
+
         fn = PROVIDER_MAP.get(provider)
+
         if not fn:
-            print(f"[Fallback] 未知 provider：{provider}，跳過")
             continue
 
         try:
+
             print(f"[Fallback] 嘗試 {provider}...")
-            # NVIDIA 需要 model，其它不用
-            result = fn(text, model) if provider == "nvidia" else fn(text)
-            print(f"[Fallback] {provider} 成功")
+
+            result = fn(text)
 
             parsed = safe_json_parse(result)
-            if parsed:
-                return parsed, provider
-            else:
-                print(f"[Fallback] {provider} 回傳格式錯誤，丟掉此新聞")
-                last_error = "JSON 格式錯誤"
+
+            if not parsed:
+                print(f"[Fallback] {provider} JSON 解析失敗")
                 continue
 
+            print(f"[Fallback] {provider} 成功")
+
+            return parsed, provider
+
         except Exception as e:
+
             print(f"[Fallback] {provider} 失敗：{e}")
+
             last_error = e
+
             continue
 
-    raise Exception(f"所有 AI Provider 均失敗，最後錯誤：{last_error}")
+    raise Exception(f"所有 AI Provider 均失敗：{last_error}")
 
+  
