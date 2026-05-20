@@ -281,12 +281,15 @@ JSON：
     return None
 
 # =========================================================
-# Provider Calls
+# Provider Calls (這裡修正了預設 Model 名稱，並統一接口不帶 model 參數)
 # =========================================================
 
-def call_nvidia(text, model="gpt-4o-mini"):
+def call_nvidia(text):
 
     api_key = os.getenv("NVIDIA_API_KEY")
+    
+    # 修正：NVIDIA 認不得 gpt-4o-mini，改成 NVIDIA 支援的標準 Llama 模型
+    model = "meta/llama-3.1-70b-instruct"
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -317,9 +320,10 @@ def call_nvidia(text, model="gpt-4o-mini"):
 
     return response.json()["choices"][0]["message"]["content"]
 
-def call_groq(text, model="llama-3.3-70b-versatile"):
+def call_groq(text):
 
     api_key = os.getenv("GROQ_API_KEY")
+    model = "llama-3.3-70b-versatile"
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -349,9 +353,10 @@ def call_groq(text, model="llama-3.3-70b-versatile"):
 
     return response.json()["choices"][0]["message"]["content"]
 
-def call_openai(text, model="gpt-4o-mini"):
+def call_openai(text):
 
     api_key = os.getenv("OPENAI_API_KEY")
+    model = "gpt-4o-mini"
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -401,7 +406,6 @@ PROVIDER_MAP = {
 def call_ai_with_fallback(
     text,
     fallback_chain=["groq", "openai", "nvidia"],
-    model="gpt-4o-mini",
     max_attempts=3
 ):
 
@@ -425,11 +429,8 @@ def call_ai_with_fallback(
                     f"{provider} 第 {attempt+1}/{max_attempts} 次"
                 )
 
-                result = (
-                    fn(text, model)
-                    if provider == "nvidia"
-                    else fn(text)
-                )
+                # 修正：移除傳遞 model 參數，接口完全統一為 fn(text)
+                result = fn(text)
 
                 # 驗證 JSON
                 parsed = safe_json_parse(result)
@@ -441,7 +442,6 @@ def call_ai_with_fallback(
                         f"{provider} JSON 驗證成功"
                     )
 
-                    # 保持你原本系統相容
                     return json.dumps(
                         parsed,
                         ensure_ascii=False
@@ -463,32 +463,29 @@ def call_ai_with_fallback(
                     return healed
 
             except requests.Timeout as e:
-
                 logger.error(f"Timeout: {e}")
                 last_error = e
 
             except requests.ConnectionError as e:
-
                 logger.error(f"ConnectionError: {e}")
                 last_error = e
 
             except requests.HTTPError as e:
-
                 logger.error(f"HTTPError: {e}")
                 last_error = e
+                
+                # 優化：如果遇到 429 Too Many Requests，拉長等待時間讓 API 冷卻
+                if e.response.status_code == 429:
+                    logger.warning("觸發 429 頻率限制，延長等待時間...")
+                    time.sleep(15)
 
             except Exception as e:
-
                 logger.error(f"未知錯誤: {e}")
                 last_error = e
 
-            # exponential backoff
-            sleep_time = 2 ** attempt
-
-            logger.info(
-                f"等待 {sleep_time} 秒後重試"
-            )
-
+            # 指數退避（如果遇到 429 則底數放大，避免重試過快）
+            sleep_time = (2 ** attempt) * 3
+            logger.info(f"等待 {sleep_time} 秒後重試")
             time.sleep(sleep_time)
 
         logger.warning(
