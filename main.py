@@ -4,8 +4,7 @@ from datetime import datetime
 
 from utils.ai import call_ai_with_fallback
 from utils.image import fetch_image
-from utils.json_fix import repair_json
-from utils.rss import fetch_rss
+from utils.rss import fetch_rss  # 移除不需要的 repair_json 引用
 
 # ===== 讀取設定 =====
 with open("config.json", "r", encoding="utf-8") as f:
@@ -64,7 +63,9 @@ for art in articles:
             raw_text, fallback_chain, config["model"]
         )
 
-        data = repair_json(ai_result)
+        # 【關鍵修正】：因為新版 ai.py 回傳的是標準 JSON 字串，且內部已經過嚴格驗證與修復，
+        # 我們在這裡直接使用 json.loads 將它轉為 Python Dict 物件即可，不再需要呼叫外部的 repair_json。
+        data = json.loads(ai_result)
 
         news_item = {
             "id":      str(counter).zfill(3),
@@ -84,6 +85,7 @@ for art in articles:
         print(f"Generated [{used_provider}]: {news_item['title']}")
 
     except Exception as e:
+        # 當發生錯誤時，把具體的錯誤訊息 e 印出來，方便日後 debug
         print(f"All AI Failed: {e}")
 
 # ===== 輸出每日 JSON =====
