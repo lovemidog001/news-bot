@@ -17,10 +17,13 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # =========================================================
-# Prompt 建構
+# Prompt 建構（已更新為網紅生活化 + H1 結構版）
 # =========================================================
 
 def build_prompt(text):
+
+    text = text.strip()
+
     return f"""
 你是一位充滿活力、說話接地氣的專業科技網紅兼新聞編輯。現在要請你將一則英文科技新聞，轉譯並重編成台灣讀者會大感興趣、兼具深度與趣味的繁體中文報導。
 
@@ -33,6 +36,7 @@ def build_prompt(text):
 - 15~30字。
 - 必須吸睛、帶有懸念或痛點（例如：別再盲目跟風！、這項新技術可能改變你的生活...）。
 - 不要農場感、不要過度誇大，要重新撰寫，絕對不可直接翻譯英文標題。
+- 不要問句結尾。
 
 2. summary（摘要）
 - 必須是繁體中文，50~80字。
@@ -43,7 +47,7 @@ def build_prompt(text):
 - 總字數必須在 400 字以上（不含 H1 與 H2 標籤）。
 - 語氣要像科技部落客在跟朋友聊天，生活化、口語化，但分析要到位。
 - 不可使用「根據報導」、「據悉」等死板開頭。
-- 【SEO 重要結構】內文最開頭必須是 <h1> 標籤（內容與 title 完全一致），隨後必須嚴格包含以下四個 <h2> 結構：
+- 【SEO 重要結構】內文最開頭必須是 <h1> 標籤（內容與 title 完全一致），隨後必須嚴格包含以下四個 <h2> 結構（請直接使用以下指定的小標題文字）：
   
   <h1>（這裡直接填入上方生成的 title 內容）</h1>
 
@@ -58,6 +62,14 @@ def build_prompt(text):
     
   * <h2>編輯悄悄話</h2>
     <p>生活趣味口語結論！用最接地氣、幽默、像朋友聊天的口吻，總結這場科技變革，給讀者一個有趣的反思，至少 60 字。</p>
+
+【禁止】
+- emoji
+- 中國用語（如：質量、優化、屏幕、計算機、智能）
+- AI 制式語氣
+- 「值得注意的是」
+- 「總而言之」
+- 「據悉」
 
 【重要規定】
 - 嚴禁出現英文段落，專有名詞（如 AI, Apple, Google, Meta）除外。
@@ -234,7 +246,7 @@ JSON：
     try:
 
         response = requests.post(
-            "https://api.openai.com/v1/chat/completions",
+            "[https://api.openai.com/v1/chat/completions](https://api.openai.com/v1/chat/completions)",
             headers={
                 "Authorization": f"Bearer {api_key}",
                 "Content-Type": "application/json"
@@ -262,14 +274,12 @@ JSON：
     return None
 
 # =========================================================
-# Provider Calls (這裡修正了預設 Model 名稱，並統一接口不帶 model 參數)
+# Provider Calls（已修正 Llama 模型，並統一參數接口）
 # =========================================================
 
 def call_nvidia(text):
 
     api_key = os.getenv("NVIDIA_API_KEY")
-    
-    # 修正：NVIDIA 認不得 gpt-4o-mini，改成 NVIDIA 支援的標準 Llama 模型
     model = "meta/llama-3.1-70b-instruct"
 
     headers = {
@@ -291,7 +301,7 @@ def call_nvidia(text):
     }
 
     response = requests.post(
-        "https://integrate.api.nvidia.com/v1/chat/completions",
+        "[https://integrate.api.nvidia.com/v1/chat/completions](https://integrate.api.nvidia.com/v1/chat/completions)",
         headers=headers,
         json=payload,
         timeout=60
@@ -324,7 +334,7 @@ def call_groq(text):
     }
 
     response = requests.post(
-        "https://api.groq.com/openai/v1/chat/completions",
+        "[https://api.groq.com/openai/v1/chat/completions](https://api.groq.com/openai/v1/chat/completions)",
         headers=headers,
         json=payload,
         timeout=60
@@ -360,7 +370,7 @@ def call_openai(text):
     }
 
     response = requests.post(
-        "https://api.openai.com/v1/chat/completions",
+        "[https://api.openai.com/v1/chat/completions](https://api.openai.com/v1/chat/completions)",
         headers=headers,
         json=payload,
         timeout=60
@@ -410,7 +420,7 @@ def call_ai_with_fallback(
                     f"{provider} 第 {attempt+1}/{max_attempts} 次"
                 )
 
-                # 修正：移除傳遞 model 參數，接口完全統一為 fn(text)
+                # 統一呼叫 fn(text)
                 result = fn(text)
 
                 # 驗證 JSON
@@ -455,7 +465,7 @@ def call_ai_with_fallback(
                 logger.error(f"HTTPError: {e}")
                 last_error = e
                 
-                # 優化：如果遇到 429 Too Many Requests，拉長等待時間讓 API 冷卻
+                # 如果遇到 429 頻率限制，先強制冷卻 15 秒防止連續撞牆
                 if e.response.status_code == 429:
                     logger.warning("觸發 429 頻率限制，延長等待時間...")
                     time.sleep(15)
@@ -464,9 +474,13 @@ def call_ai_with_fallback(
                 logger.error(f"未知錯誤: {e}")
                 last_error = e
 
-            # 指數退避（如果遇到 429 則底數放大，避免重試過快）
+            # 指數退避時間加長，給 API 充裕緩衝空間
             sleep_time = (2 ** attempt) * 3
-            logger.info(f"等待 {sleep_time} 秒後重試")
+
+            logger.info(
+                f"等待 {sleep_time} 秒後重試"
+            )
+
             time.sleep(sleep_time)
 
         logger.warning(
