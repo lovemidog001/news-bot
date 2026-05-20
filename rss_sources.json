@@ -33,15 +33,11 @@
   },
   {
     "name": "BBC News - Technology",
-    "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
+    "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
   },
   {
     "name": "NYTimes Technology",
     "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-  },
-  {
-    "name": "Reuters Technology",
-    "url": "https://feeds.reuters.com/reuters/technologyNews"
   },
   {
     "name": "Product Hunt",
@@ -54,10 +50,6 @@
   {
     "name": "ZDNet",
     "url": "https://www.zdnet.com/news/rss.xml"
-  },
-  {
-    "name": "The Information",
-    "url": "https://www.theinformation.com/feed"
   },
   {
     "name": "OpenAI Blog",
@@ -94,10 +86,6 @@
   {
     "name": "NVIDIA Blog",
     "url": "https://blogs.nvidia.com/feed/"
-  },
-  {
-    "name": "AI Trends",
-    "url": "https://www.aitrends.com/feed/"
   },
   {
     "name": "IGN",
@@ -141,6 +129,6 @@
   },
   {
     "name": "4gamers",
-    "url": "https://www.4gamers.com.tw/rss/"
+    "url": "https://www.4gamers.com.tw/rss"
   }
 ]
