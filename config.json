@@ -2,6 +2,6 @@
   "ai_provider": 1,
   "schedule": 1,
   "max_articles": 5,
-  "model": "deepseek-ai/deepseek-v4-pro",
+  "model": "gpt-4o-mini",
   "fallback_chain": ["groq", "openai", "nvidia", "gemini"]
 }
