@@ -53,7 +53,7 @@ def build_prompt(text):
 重要規定:
 - 嚴禁出現英文段落，專有名詞（如 AI, Apple, Google, Meta）除外。
 - 資訊必須確實根據原文，不可憑空捏造事实，但在包裝與語氣上要活潑生動。
-- 只輸出 JSON，不要 markdown（不要 ```json），不要任何前後文解釋。
+- 只輸出 JSON，不要 markdown，不要任何解釋。
 
 格式：
 {{
