@@ -426,7 +426,7 @@ PROVIDER_MAP = {
 # Main AI Function
 # =========================================================
 
-def call_ai_with_fallback_safe(
+def call_ai_with_fallback(
     text: str,
     fallback_chain=None,
     max_attempts=3
