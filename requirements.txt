@@ -3,5 +3,3 @@ requests
 beautifulsoup4
 google-generativeai
 openai
-beautifulsoup4
-requests
