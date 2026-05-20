@@ -65,11 +65,11 @@ def build_prompt(text):
 """
 
 # ── NVIDIA ──
-def call_nvidia(text, model):
+def call_nvidia(text, model="nemotron-3-nano-omni-30b-a3b-reasoning"):
     api_key = os.getenv("NVIDIA_API_KEY")
     headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
     payload = {
-        "model": model,
+        "model": model,  # 改成 NVIDIA 支援的模型
         "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
         "top_p": 0.9,
@@ -111,7 +111,7 @@ def call_gemini(text, model="gemini-2.0-flash"):
         "contents": [{"parts": [{"text": build_prompt(text)}]}],
         "generationConfig": {"temperature": 0.6, "maxOutputTokens": 2000}
     }
-    for attempt in range(2):  # 只試2次，加速
+    for attempt in range(2):  # 最多試2次
         response = requests.post(url, json=payload, timeout=20)
         if response.status_code == 429:
             wait = 10 * (attempt + 1)
@@ -121,7 +121,6 @@ def call_gemini(text, model="gemini-2.0-flash"):
         response.raise_for_status()
         return response.json()["candidates"][0]["content"]["parts"][0]["text"]
     response.raise_for_status()
-
 
 # ── DeepSeek ──
 def call_deepseek(text, model="deepseek-chat"):
@@ -178,13 +177,17 @@ PROVIDER_MAP = {
     "groq":     call_groq,
 }
 
-# ── 安全版 Fallback ──
+import re, json
+
+# ── 安全版 JSON 解析 ──
 def safe_json_parse(output: str):
     """清理並嘗試解析 JSON，修復常見錯誤"""
+    # 移除非法控制字元
     cleaned = re.sub(r'[\x00-\x1F\x7F]', '', output)
     try:
         return json.loads(cleaned)
     except json.JSONDecodeError:
+        # 嘗試修復：補引號、移除多餘逗號
         fixed = re.sub(r'(\{|,)\s*([a-zA-Z0-9_]+)\s*:', r'\1 "\2":', cleaned)
         fixed = re.sub(r',\s*([}\]])', r'\1', fixed)
         try:
@@ -192,17 +195,28 @@ def safe_json_parse(output: str):
         except json.JSONDecodeError:
             return None
 
+# ── 安全版 Fallback ──
 def call_ai_with_fallback(text, fallback_chain=["gemini35","openai","groq","deepseek","nvidia"], model="gpt-4o-mini"):
+    """
+    安全版：依序嘗試 Provider，並驗證 JSON 格式。
+    - 每個 provider 最多嘗試一次
+    - 成功回傳 JSON dict，失敗則繼續下一個 provider
+    - 全部失敗則 raise Exception
+    """
     last_error = None
+
     for provider in fallback_chain:
         fn = PROVIDER_MAP.get(provider)
         if not fn:
             print(f"[Fallback] 未知 provider：{provider}，跳過")
             continue
+
         try:
             print(f"[Fallback] 嘗試 {provider}...")
+            # NVIDIA 需要 model，其它不用
             result = fn(text, model) if provider == "nvidia" else fn(text)
             print(f"[Fallback] {provider} 成功")
+
             parsed = safe_json_parse(result)
             if parsed:
                 return parsed, provider
@@ -210,9 +224,11 @@ def call_ai_with_fallback(text, fallback_chain=["gemini35","openai","groq","deep
                 print(f"[Fallback] {provider} 回傳格式錯誤，丟掉此新聞")
                 last_error = "JSON 格式錯誤"
                 continue
+
         except Exception as e:
             print(f"[Fallback] {provider} 失敗：{e}")
             last_error = e
             continue
+
     raise Exception(f"所有 AI Provider 均失敗，最後錯誤：{last_error}")
 
