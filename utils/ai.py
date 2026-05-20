@@ -1,4 +1,3 @@
-````python
 import os
 import re
 import json
@@ -585,4 +584,3 @@ if __name__ == "__main__":
     except Exception as e:
 
         logger.error(f"執行失敗: {e}")
-````
