@@ -3,11 +3,6 @@ import re
 import json
 import time
 import requests
-from dotenv import load_dotenv
-
-load_dotenv()
-
-
 
 def build_prompt(text):
     return f"""
