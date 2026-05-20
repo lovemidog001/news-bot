@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # =========================================================
-# Prompt 建構（已更新為網紅生活化 + H1 結構版）
+# Prompt 建構（已更新為網網紅生活化 + H1 結構版）
 # =========================================================
 
 def build_prompt(text):
@@ -73,7 +73,7 @@ def build_prompt(text):
 
 【重要規定】
 - 嚴禁出現英文段落，專有名詞（如 AI, Apple, Google, Meta）除外。
-- 資訊必須確實根據原文，不可憑空捏造事實，但在包裝與語氣上要活潑生動。
+- 資訊必須確實根據原文，不可憑空捏造事实，但在包裝與語氣上要活潑生動。
 - 只輸出 JSON，不要 markdown（不要 ```json），不要任何前後文解釋。
 
 【輸出格式】
@@ -154,12 +154,11 @@ def self_heal_json(raw_output):
         return None
 
 # =========================================================
-# AI API 各別呼叫端（維持你原有的基礎架構，優化模型配置）
+# AI API 各別呼叫端
 # =========================================================
 
 def call_nvidia(text, model):
     api_key = os.getenv("NVIDIA_API_KEY")
-    # 防呆：如果主程式傳來不認得的 model，自動轉向 NVIDIA 的 Llama 模型
     if "gpt" in model or "llama" not in model:
         model = "meta/llama-3.1-70b-instruct"
     headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
@@ -176,6 +175,7 @@ def call_nvidia(text, model):
 
 def call_gemini(text, model="gemini-2.0-flash"):
     api_key = os.getenv("GEMINI_API_KEY")
+    # 【關鍵修正】：徹底移除了 Markdown 超連結雜質，還原為乾淨的 API 網址
     url = f"[https://generativelanguage.googleapis.com/v1beta/models/](https://generativelanguage.googleapis.com/v1beta/models/){model}:generateContent?key={api_key}"
     payload = {
         "contents": [{"parts": [{"text": build_prompt(text)}]}],
@@ -219,7 +219,7 @@ def call_openai(text, model="gpt-4o-mini"):
 
 def call_groq(text, model="llama-3.3-70b-versatile"):
     api_key = os.getenv("GROQ_API_KEY")
-    headers = {"Authorization": f"Bearer {api_key}", "Type": "application/json"}
+    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
     payload = {
         "model": model,
         "messages": [{"role": "user", "content": build_prompt(text)}],
@@ -256,19 +256,14 @@ def call_ai_with_fallback(text, fallback_chain, model):
         try:
             logger.info(f"[Fallback] 嘗試使用 provider: {provider}")
             
-            # 依據你原先的邏輯呼叫
             raw_result = fn(text, model) if provider == "nvidia" else fn(text)
-            
-            # 進行安全的 JSON 解析與驗證
             parsed = safe_json_parse(raw_result)
             
             if not parsed:
-                # 嘗試自我修復
                 parsed = self_heal_json(raw_result)
                 
             if parsed:
                 logger.info(f"[Fallback] {provider} 成功生成並通過 JSON 驗證")
-                # 關鍵修正：回傳符合主程式預期的 2 個值 (JSON 字串, Provider 名稱)
                 return json.dumps(parsed, ensure_ascii=False), provider
             else:
                 logger.warning(f"[Fallback] {provider} 回傳格式非標準 JSON，嘗試下一家")
@@ -278,7 +273,7 @@ def call_ai_with_fallback(text, fallback_chain, model):
             logger.error(f"[Fallback] {provider} 網路錯誤：{e}")
             last_error = e
             if e.response.status_code == 429:
-                time.sleep(15)  # 遇到429自動多冷卻15秒
+                time.sleep(15)
         except Exception as e:
             logger.error(f"[Fallback] {provider} 發生錯誤：{e}")
             last_error = e
