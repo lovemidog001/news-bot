@@ -4,17 +4,18 @@ from datetime import datetime
 
 from utils.ai import call_ai_with_fallback
 from utils.image import fetch_image
-from utils.rss import fetch_rss  # 移除不需要的 repair_json 引用
+from utils.rss import fetch_rss
 
 # ===== 讀取設定 =====
 with open("config.json", "r", encoding="utf-8") as f:
     config = json.load(f)
 
-# ===== Fallback 順序（從 config 讀取，預設 nvidia → gemini → deepseek）=====
+# ===== Fallback 順序 =====
 fallback_chain = config.get("fallback_chain", ["nvidia", "gemini", "deepseek"])
 
 # ===== 抓 RSS =====
 articles = fetch_rss()
+print(f"【Debug】從 RSS 成功抓取到 {len(articles)} 篇新聞")
 
 # ===== 日期 =====
 today_display = datetime.now().strftime("%Y-%m-%d")
@@ -23,7 +24,7 @@ today_file    = datetime.now().strftime("%Y-%m%d")
 # ===== 建立 news 資料夾 =====
 os.makedirs("news", exist_ok=True)
 
-# ===== 讀取今日已有的新聞（累積模式）=====
+# ===== 讀取今日已有的新聞 =====
 output_path = f"news/{today_file}.json"
 
 if os.path.exists(output_path):
@@ -32,22 +33,26 @@ if os.path.exists(output_path):
 else:
     results = []
 
-# ===== 已有的 URL（去重用）=====
+# ===== 已有的 URL =====
 existing_urls = {item["url"] for item in results}
-
-# ===== 流水號從現有數量接續 =====
 counter = len(results) + 1
+
+print(f"【Debug】目前 config 設定的 max_articles 數量為: {config.get('max_articles')}")
+print(f"【Debug】目前今日已累積的新聞數量為: {len(results)}")
 
 # ===== 主流程 =====
 for art in articles:
 
     if len(results) >= config["max_articles"]:
+        print("【Debug】已達到 max_articles 限制，主流程中斷停止。")
         break
 
     # URL 去重
     if art["link"] in existing_urls:
         print(f"Skip Duplicate: {art['link']}")
         continue
+
+    print(f"【Debug】正在嘗試將新聞送給 AI：{art['title']}")
 
     try:
         raw_text = f"""
@@ -58,13 +63,11 @@ for art in articles:
 {art['summary']}
 """
 
-        # ★ 使用 Fallback 系統，自動換 Provider
+        # ★ 使用 Fallback 系統
         ai_result, used_provider = call_ai_with_fallback(
             raw_text, fallback_chain, config["model"]
         )
 
-        # 【關鍵修正】：因為新版 ai.py 回傳的是標準 JSON 字串，且內部已經過嚴格驗證與修復，
-        # 我們在這裡直接使用 json.loads 將它轉為 Python Dict 物件即可，不再需要呼叫外部的 repair_json。
         data = json.loads(ai_result)
 
         news_item = {
@@ -85,8 +88,7 @@ for art in articles:
         print(f"Generated [{used_provider}]: {news_item['title']}")
 
     except Exception as e:
-        # 當發生錯誤時，把具體的錯誤訊息 e 印出來，方便日後 debug
-        print(f"All AI Failed: {e}")
+        print(f"All AI Failed 錯誤詳情: {e}")
 
 # ===== 輸出每日 JSON =====
 with open(output_path, "w", encoding="utf-8") as f:
@@ -109,7 +111,6 @@ entry = {
     "count": len(results)
 }
 
-# 避免重複，若已存在則更新 count
 exists = False
 for i, item in enumerate(index):
     if isinstance(item, dict) and item.get("file") == entry["file"]:
