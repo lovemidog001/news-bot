@@ -193,10 +193,12 @@ def call_groq(text, model="llama-3.3-70b-versatile"):
 PROVIDER_MAP = {
     "nvidia":   call_nvidia,
     "gemini":   call_gemini,
+    "gemini35": call_gemini35,
     "deepseek": call_deepseek,
     "openai":   call_openai,
     "groq":     call_groq,
 }
+
 
 
 # ── ★ Fallback 核心：依序嘗試每個 Provider ──
