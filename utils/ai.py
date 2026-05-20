@@ -1,20 +1,7 @@
 import os
-import re
-import json
-import time
-import logging
 import requests
 
-# =========================================================
-# Logging
-# =========================================================
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s"
-)
-
-logger = logging.getLogger(__name__)
 
 # =========================================================
 # Prompt 建構（已更新為網網紅生活化 + H1 結構版）
@@ -87,81 +74,14 @@ def build_prompt(text):
 {text}
 """
 
-# =========================================================
-# JSON 處理公用函式
-# =========================================================
 
-def extract_json(text):
-    text = re.sub(r"```json", "", text)
-    text = re.sub(r"```", "", text)
-    text = re.sub(r'[\x00-\x1F\x7F]', '', text)
-    match = re.search(r'\{.*\}', text, re.DOTALL)
-    return match.group(0) if match else text.strip()
-
-def repair_json(text):
-    text = re.sub(r'(\{|,)\s*([a-zA-Z0-9_]+)\s*:', r'\1 "\2":', text)
-    text = re.sub(r',\s*([}\]])', r'\1', text)
-    return text
-
-def validate_json(data):
-    if not isinstance(data, dict):
-        return False
-    required_keys = ["title", "summary", "content"]
-    for key in required_keys:
-        if key not in data or not isinstance(data[key], str) or not data[key].strip():
-            return False
-    if len(data["content"]) < 300:
-        return False
-    return True
-
-def safe_json_parse(output):
-    cleaned = extract_json(output)
-    try:
-        parsed = json.loads(cleaned)
-        if validate_json(parsed):
-            return parsed
-    except json.JSONDecodeError:
-        pass
-    try:
-        repaired = repair_json(cleaned)
-        parsed = json.loads(repaired)
-        if validate_json(parsed):
-            return parsed
-    except Exception:
-        pass
-    return None
-
-def self_heal_json(raw_output):
-    api_key = os.getenv("OPENAI_API_KEY")
-    if not api_key:
-        return None
-    logger.info("啟動 AI JSON 自我修復")
-    payload = {
-        "model": "gpt-4o-mini",
-        "response_format": {"type": "json_object"},
-        "messages": [
-            {"role": "system", "content": "你是 JSON 修復工具，只輸出合法 JSON，不要解釋。"},
-            {"role": "user", "content": f"請修復以下 JSON：\n{raw_output}"}
-        ],
-        "temperature": 0
-    }
-    try:
-        response = requests.post("[https://api.openai.com/v1/chat/completions](https://api.openai.com/v1/chat/completions)", headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}, json=payload, timeout=30)
-        response.raise_for_status()
-        result = response.json()["choices"][0]["message"]["content"]
-        return safe_json_parse(result)
-    except Exception:
-        return None
-
-# =========================================================
-# AI API 各別呼叫端
-# =========================================================
-
+# ── NVIDIA ──
 def call_nvidia(text, model):
     api_key = os.getenv("NVIDIA_API_KEY")
-    if "gpt" in model or "llama" not in model:
-        model = "meta/llama-3.1-70b-instruct"
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
     payload = {
         "model": model,
         "messages": [{"role": "user", "content": build_prompt(text)}],
@@ -169,14 +89,19 @@ def call_nvidia(text, model):
         "top_p": 0.9,
         "max_tokens": 2000
     }
-    response = requests.post("[https://integrate.api.nvidia.com/v1/chat/completions](https://integrate.api.nvidia.com/v1/chat/completions)", headers=headers, json=payload, timeout=60)
+    response = requests.post(
+        "https://integrate.api.nvidia.com/v1/chat/completions",
+        headers=headers, json=payload, timeout=60
+    )
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"]
 
+
+# ── Gemini ──
 def call_gemini(text, model="gemini-2.0-flash"):
+    import time
     api_key = os.getenv("GEMINI_API_KEY")
-    # 【關鍵修正】：徹底移除了 Markdown 超連結雜質，還原為乾淨的 API 網址
-    url = f"[https://generativelanguage.googleapis.com/v1beta/models/](https://generativelanguage.googleapis.com/v1beta/models/){model}:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
     payload = {
         "contents": [{"parts": [{"text": build_prompt(text)}]}],
         "generationConfig": {"temperature": 0.6, "maxOutputTokens": 2000}
@@ -185,54 +110,78 @@ def call_gemini(text, model="gemini-2.0-flash"):
         response = requests.post(url, json=payload, timeout=60)
         if response.status_code == 429:
             wait = 10 * (attempt + 1)
+            print(f"[Gemini] 429 rate limit，等待 {wait} 秒後重試...")
             time.sleep(wait)
             continue
         response.raise_for_status()
         return response.json()["candidates"][0]["content"]["parts"][0]["text"]
     response.raise_for_status()
 
+
+# ── DeepSeek ──
 def call_deepseek(text, model="deepseek-chat"):
     api_key = os.getenv("DEEPSEEK_API_KEY")
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
     payload = {
         "model": model,
         "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
         "max_tokens": 2000
     }
-    response = requests.post("[https://api.deepseek.com/chat/completions](https://api.deepseek.com/chat/completions)", headers=headers, json=payload, timeout=60)
+    response = requests.post(
+        "https://api.deepseek.com/chat/completions",
+        headers=headers, json=payload, timeout=60
+    )
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"]
 
+
+# ── OpenAI ──
 def call_openai(text, model="gpt-4o-mini"):
     api_key = os.getenv("OPENAI_API_KEY")
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
     payload = {
         "model": model,
         "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
         "max_tokens": 2000
     }
-    response = requests.post("[https://api.openai.com/v1/chat/completions](https://api.openai.com/v1/chat/completions)", headers=headers, json=payload, timeout=60)
+    response = requests.post(
+        "https://api.openai.com/v1/chat/completions",
+        headers=headers, json=payload, timeout=60
+    )
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"]
 
+
+# ── Groq ──
 def call_groq(text, model="llama-3.3-70b-versatile"):
     api_key = os.getenv("GROQ_API_KEY")
-    headers = {"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"}
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
     payload = {
         "model": model,
         "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
         "max_tokens": 2000
     }
-    response = requests.post("[https://api.groq.com/openai/v1/chat/completions](https://api.groq.com/openai/v1/chat/completions)", headers=headers, json=payload, timeout=60)
+    response = requests.post(
+        "https://api.groq.com/openai/v1/chat/completions",
+        headers=headers, json=payload, timeout=60
+    )
     response.raise_for_status()
     return response.json()["choices"][0]["message"]["content"]
 
-# =========================================================
-# Provider 對應表
-# =========================================================
+
+# ── Provider 對應表 ──
 PROVIDER_MAP = {
     "nvidia":   call_nvidia,
     "gemini":   call_gemini,
@@ -241,42 +190,31 @@ PROVIDER_MAP = {
     "groq":     call_groq,
 }
 
-# =========================================================
-# Fallback 核心處理
-# =========================================================
+
+# ── ★ Fallback 核心：依序嘗試每個 Provider ──
 def call_ai_with_fallback(text, fallback_chain, model):
+    """
+    fallback_chain: list，例如 ["nvidia", "gemini", "deepseek"]
+    依序嘗試，成功就回傳結果，全部失敗則 raise Exception
+    """
     last_error = None
 
     for provider in fallback_chain:
         fn = PROVIDER_MAP.get(provider)
         if not fn:
-            logger.warning(f"[Fallback] 未知 provider：{provider}，跳過")
+            print(f"[Fallback] 未知 provider：{provider}，跳過")
             continue
 
         try:
-            logger.info(f"[Fallback] 嘗試使用 provider: {provider}")
-            
-            raw_result = fn(text, model) if provider == "nvidia" else fn(text)
-            parsed = safe_json_parse(raw_result)
-            
-            if not parsed:
-                parsed = self_heal_json(raw_result)
-                
-            if parsed:
-                logger.info(f"[Fallback] {provider} 成功生成並通過 JSON 驗證")
-                return json.dumps(parsed, ensure_ascii=False), provider
-            else:
-                logger.warning(f"[Fallback] {provider} 回傳格式非標準 JSON，嘗試下一家")
-                last_error = "JSON 驗證與修復均失敗"
+            print(f"[Fallback] 嘗試 {provider}...")
+            result = fn(text, model) if provider == "nvidia" else fn(text)
+            print(f"[Fallback] {provider} 成功")
+            return result, provider
 
-        except requests.HTTPError as e:
-            logger.error(f"[Fallback] {provider} 網路錯誤：{e}")
-            last_error = e
-            if e.response.status_code == 429:
-                time.sleep(15)
         except Exception as e:
-            logger.error(f"[Fallback] {provider} 發生錯誤：{e}")
+            print(f"[Fallback] {provider} 失敗：{e}")
             last_error = e
             continue
 
     raise Exception(f"所有 AI Provider 均失敗，最後錯誤：{last_error}")
+
