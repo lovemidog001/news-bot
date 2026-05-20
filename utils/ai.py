@@ -181,10 +181,27 @@ PROVIDER_MAP = {
 
 
 # ── ★ Fallback 核心：依序嘗試每個 Provider ──
-def call_ai_with_fallback(text, fallback_chain, model):
+def safe_json_parse(output: str):
+    """清理並嘗試解析 JSON，修復常見錯誤"""
+    cleaned = re.sub(r'[\x00-\x1F\x7F]', '', output)
+    try:
+        return json.loads(cleaned)
+    except json.JSONDecodeError:
+        # 嘗試修復：補引號、移除多餘逗號
+        fixed = re.sub(r'(\{|,)\s*([a-zA-Z0-9_]+)\s*:', r'\1 "\2":', cleaned)
+        fixed = re.sub(r',\s*([}\]])', r'\1', fixed)
+        try:
+            return json.loads(fixed)
+        except json.JSONDecodeError:
+            return None
+
+# ── 安全版 Fallback ──
+def call_ai_with_fallback(text, fallback_chain=["groq","openai","nvidia"], model="gpt-4o-mini"):
     """
-    fallback_chain: list，例如 ["nvidia", "gemini", "deepseek"]
-    依序嘗試，成功就回傳結果，全部失敗則 raise Exception
+    安全版：依序嘗試 Provider，並驗證 JSON 格式。
+    - 每個 provider 最多嘗試一次
+    - 成功回傳 JSON dict，失敗則繼續下一個 provider
+    - 全部失敗則 raise Exception
     """
     last_error = None
 
@@ -198,11 +215,18 @@ def call_ai_with_fallback(text, fallback_chain, model):
             print(f"[Fallback] 嘗試 {provider}...")
             result = fn(text, model) if provider == "nvidia" else fn(text)
             print(f"[Fallback] {provider} 成功")
-            return result, provider
+
+            parsed = safe_json_parse(result)
+            if parsed:
+                return parsed, provider
+            else:
+                print(f"[Fallback] {provider} 回傳格式錯誤，丟掉此新聞")
+                last_error = "JSON 格式錯誤"
+                continue
 
         except Exception as e:
             print(f"[Fallback] {provider} 失敗：{e}")
             last_error = e
             continue
 
-    raise Exception(f"所有 AI Provider 均失敗，最後錯誤：{last_error}")
+    raise
