@@ -1,7 +1,7 @@
 {
   "ai_provider": 1,
   "schedule": 1,
-  "max_articles": 15,
+  "max_articles": 30,
   "model": "gpt-4o-mini",
   "fallback_chain": [
     "deepseek",
