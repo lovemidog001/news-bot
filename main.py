@@ -76,13 +76,20 @@ for art in articles:
             print(f"Skip Duplicate: {art['link']}")
             continue
 
-        # ===== 原始新聞 =====
+        # ===== 原始新聞（含原文，讓 AI 生成更豐富的內容）=====
+        full = art.get('full_content', '').strip()
         raw_text = f"""
 標題：
 {art['title']}
 
 摘要：
 {art['summary']}
+"""
+        # 有原文才附上，避免 token 浪費
+        if full:
+            raw_text += f"""
+原文內容（參考用，請用自己的語氣重新詮釋）：
+{full[:2000]}
 """
 
         # ===== AI 生成 =====
