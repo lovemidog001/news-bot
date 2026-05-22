@@ -1,4 +1,7 @@
 [
+  // =========================
+  // 全球科技新聞
+  // =========================
   {
     "name": "TechCrunch",
     "url": "https://techcrunch.com/feed/"
@@ -8,12 +11,12 @@
     "url": "https://www.theverge.com/rss/index.xml"
   },
   {
-    "name": "Wired",
-    "url": "https://www.wired.com/feed/rss"
-  },
-  {
     "name": "Ars Technica",
     "url": "https://feeds.arstechnica.com/arstechnica/index"
+  },
+  {
+    "name": "Wired",
+    "url": "https://www.wired.com/feed/rss"
   },
   {
     "name": "Engadget",
@@ -24,26 +27,6 @@
     "url": "https://www.technologyreview.com/feed/"
   },
   {
-    "name": "Hacker News",
-    "url": "https://hnrss.org/frontpage"
-  },
-  {
-    "name": "Mashable",
-    "url": "https://mashable.com/feeds/rss/all"
-  },
-  {
-    "name": "BBC News - Technology",
-    "url": "https://feeds.bbci.co.uk/news/technology/rss.xml"
-  },
-  {
-    "name": "NYTimes Technology",
-    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
-  },
-  {
-    "name": "Product Hunt",
-    "url": "https://www.producthunt.com/feed"
-  },
-  {
     "name": "VentureBeat",
     "url": "https://venturebeat.com/feed/"
   },
@@ -52,44 +35,160 @@
     "url": "https://www.zdnet.com/news/rss.xml"
   },
   {
+    "name": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/feeds/all"
+  },
+  {
+    "name": "AnandTech",
+    "url": "https://www.anandtech.com/rss/"
+  },
+  {
+    "name": "Phoronix",
+    "url": "https://www.phoronix.com/rss.php"
+  },
+
+  // =========================
+  // AI / LLM / Agent
+  // =========================
+  {
     "name": "OpenAI Blog",
     "url": "https://openai.com/news/rss.xml"
   },
   {
-    "name": "Google Blog",
-    "url": "https://blog.google/rss/"
-  },
-  {
-    "name": "Microsoft Blog",
-    "url": "https://blogs.microsoft.com/feed/"
-  },
-  {
-    "name": "Meta AI Blog",
-    "url": "https://ai.meta.com/blog/rss/"
-  },
-  {
-    "name": "Anthropic Blog",
+    "name": "Anthropic News",
     "url": "https://www.anthropic.com/news/rss"
   },
   {
-    "name": "DeepMind Blog",
+    "name": "Google DeepMind",
     "url": "https://deepmind.google/blog/rss.xml"
+  },
+  {
+    "name": "Meta AI",
+    "url": "https://ai.meta.com/blog/rss/"
   },
   {
     "name": "Hugging Face Blog",
     "url": "https://huggingface.co/blog/feed.xml"
   },
   {
-    "name": "Apple Newsroom",
-    "url": "https://www.apple.com/newsroom/rss-feed.rss"
-  },
-  {
     "name": "NVIDIA Blog",
     "url": "https://blogs.nvidia.com/feed/"
   },
   {
+    "name": "Stability AI",
+    "url": "https://stability.ai/news/rss.xml"
+  },
+  {
+    "name": "Together AI",
+    "url": "https://www.together.ai/blog/rss.xml"
+  },
+  {
+    "name": "Mistral AI News",
+    "url": "https://mistral.ai/news/rss.xml"
+  },
+  {
+    "name": "LangChain Blog",
+    "url": "https://blog.langchain.dev/rss/"
+  },
+  {
+    "name": "LlamaIndex Blog",
+    "url": "https://www.llamaindex.ai/blog/rss.xml"
+  },
+  {
+    "name": "Weights & Biases",
+    "url": "https://wandb.ai/site/rss.xml"
+  },
+  {
+    "name": "Ollama Blog",
+    "url": "https://ollama.com/blog/rss.xml"
+  },
+  {
+    "name": "Perplexity Blog",
+    "url": "https://www.perplexity.ai/blog/rss.xml"
+  },
+
+  // =========================
+  // 開發者 / 軟體工程
+  // =========================
+  {
+    "name": "Hacker News",
+    "url": "https://hnrss.org/frontpage"
+  },
+  {
+    "name": "GitHub Blog",
+    "url": "https://github.blog/feed/"
+  },
+  {
+    "name": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/feed/"
+  },
+  {
+    "name": "InfoQ",
+    "url": "https://feed.infoq.com/"
+  },
+  {
+    "name": "DEV Community",
+    "url": "https://dev.to/feed"
+  },
+  {
+    "name": "Docker Blog",
+    "url": "https://www.docker.com/blog/feed/"
+  },
+  {
+    "name": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/rss/"
+  },
+  {
+    "name": "Vercel Blog",
+    "url": "https://vercel.com/blog/rss.xml"
+  },
+  {
+    "name": "Netlify Blog",
+    "url": "https://www.netlify.com/feed.xml"
+  },
+  {
+    "name": "Planet Kubernetes",
+    "url": "https://planetkubernetes.com/rss20.xml"
+  },
+  {
+    "name": "Reddit Programming",
+    "url": "https://www.reddit.com/r/programming/.rss"
+  },
+  {
+    "name": "Reddit Machine Learning",
+    "url": "https://www.reddit.com/r/MachineLearning/.rss"
+  },
+  {
+    "name": "Reddit LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+
+  // =========================
+  // 資安
+  // =========================
+  {
+    "name": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/feed/"
+  },
+  {
+    "name": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/feed/"
+  },
+  {
+    "name": "The Hacker News",
+    "url": "https://feeds.feedburner.com/TheHackersNews"
+  },
+
+  // =========================
+  // 遊戲媒體
+  // =========================
+  {
     "name": "IGN",
     "url": "https://feeds.ign.com/ign/all"
+  },
+  {
+    "name": "GameSpot",
+    "url": "https://www.gamespot.com/feeds/news/"
   },
   {
     "name": "PC Gamer",
@@ -100,16 +199,8 @@
     "url": "https://www.rockpapershotgun.com/feed"
   },
   {
-    "name": "Kotaku",
-    "url": "https://kotaku.com/rss"
-  },
-  {
     "name": "Polygon",
     "url": "https://www.polygon.com/rss/index.xml"
-  },
-  {
-    "name": "GameSpot",
-    "url": "https://www.gamespot.com/feeds/news/"
   },
   {
     "name": "Eurogamer",
@@ -120,15 +211,115 @@
     "url": "https://www.gamesindustry.biz/rss/gamesindustry_news.rss"
   },
   {
-    "name": "Steam News",
-    "url": "https://store.steampowered.com/news/rss.aspx"
+    "name": "Gematsu",
+    "url": "https://www.gematsu.com/feed"
   },
+  {
+    "name": "VG247",
+    "url": "https://www.vg247.com/feed"
+  },
+
+  // =========================
+  // Steam / PC / Indie
+  // =========================
   {
     "name": "SteamDB",
     "url": "https://steamdb.info/rss/free/"
   },
   {
-    "name": "4gamers",
+    "name": "SteamDB Patch Notes",
+    "url": "https://steamdb.info/patchnotes/feed/"
+  },
+  {
+    "name": "itch.io Blog",
+    "url": "https://itch.io/feed"
+  },
+
+  // =========================
+  // GameDev / 引擎
+  // =========================
+  {
+    "name": "Unity Blog",
+    "url": "https://blog.unity.com/feed"
+  },
+  {
+    "name": "Unreal Engine",
+    "url": "https://www.unrealengine.com/en-US/feed"
+  },
+  {
+    "name": "Godot Engine",
+    "url": "https://godotengine.org/rss.xml"
+  },
+  {
+    "name": "Gamasutra / Game Developer",
+    "url": "https://www.gamedeveloper.com/rss.xml"
+  },
+
+  // =========================
+  // 中文科技圈
+  // =========================
+  {
+    "name": "iThome",
+    "url": "https://www.ithome.com.tw/rss"
+  },
+  {
+    "name": "INSIDE",
+    "url": "https://www.inside.com.tw/feed"
+  },
+  {
+    "name": "TechOrange",
+    "url": "https://buzzorange.com/techorange/feed/"
+  },
+  {
+    "name": "T客邦",
+    "url": "https://www.techbang.com/posts.rss"
+  },
+  {
+    "name": "電腦王阿達",
+    "url": "https://www.koc.com.tw/feed"
+  },
+  {
+    "name": "4Gamers",
     "url": "https://www.4gamers.com.tw/rss"
+  },
+  {
+    "name": "巴哈姆特 GNN",
+    "url": "https://gnn.gamer.com.tw/rss.xml"
+  },
+  {
+    "name": "QooApp 遊戲新聞",
+    "url": "https://news.qoo-app.com/feed"
+  },
+  {
+    "name": "癮科技",
+    "url": "https://www.cool3c.com/rss"
+  },
+
+  // =========================
+  // 日本 / 亞洲遊戲資訊
+  // =========================
+  {
+    "name": "Famitsu",
+    "url": "https://www.famitsu.com/rss/famitsu/rss.xml"
+  },
+  {
+    "name": "4Gamer Japan",
+    "url": "https://www.4gamer.net/rss/index.xml"
+  },
+
+  // =========================
+  // Open Source / Linux
+  // =========================
+  {
+    "name": "Linux Foundation",
+    "url": "https://www.linuxfoundation.org/blog/rss.xml"
+  },
+  {
+    "name": "Red Hat Blog",
+    "url": "https://www.redhat.com/en/rss/blog"
+  },
+  {
+    "name": "Ubuntu Blog",
+    "url": "https://ubuntu.com/blog/feed"
   }
 ]
