@@ -1,1 +1,302 @@
-[]
+[
+  {
+    "id": "001",
+    "title": "AI技術讓逝去的飛行員聲音重現，挑戰航空安全調查",
+    "summary": "透過AI技術，人們成功重建了飛行員的聲音，迫使美國國家運輸安全委員會暫時封鎖其檔案系統，推進了航空安全調查的新時代",
+    "content": "<p>近年來，AI技術的發展日新月異，讓我們看到許多令人驚奇的應用。這次，AI技術又一次讓我們看到其強大的能力——讓逝去的飛行員聲音重現。這項技術的應用，不僅讓我們看到AI的潛力，也挑戰了航空安全調查的傳統方式。</p>  <h2>AI技術的應用</h2>  <p>美國國家運輸安全委員會（NTSB）最近發現，去年UPS飛機墜毀事故中，飛行員的聲音被使用AI技術重建，並在網路上流傳。這項技術的應用，讓NTSB不得不暫時封鎖其檔案系統，以防止機密資訊外洩。這項技術的核心是使用聲音信號轉換成圖像的方式，然後使用AI工具進行聲音重建。</p>  <p><strong>AI工具的選擇</strong>是這項技術的關鍵，目前已知的AI工具包括Codex等。這些工具可以將聲音信號轉換成數據，然後使用機器學習算法進行聲音重建。這項技術的應用，讓我們看到AI在航空安全調查中的潛力。</p>  <h2>挑戰傳統方式</h2>  <p>這項技術的應用，不僅讓我們看到AI的潛力，也挑戰了航空安全調查的傳統方式。傳統上，航空安全調查主要依靠人工分析和調查，但這項技術的應用，讓我們可以使用AI工具進行聲音重建和分析。這項技術的應用，將推進航空安全調查的新時代，讓我們可以更快速和準確地進行調查和分析。</p>  <p><strong>資料安全</strong>是這項技術的另一個關鍵，目前NTSB已經暫時封鎖其檔案系統，以防止機密資訊外洩。這項技術的應用，讓我們看到資料安全的重要性，同時也挑戰了我們對於資料安全的傳統方式。</p>  <h2>編輯悄悄話</h2>  <p>這項技術的應用，讓我們看到AI在航空安全調查中的潛力，同時也挑戰了我們對於資料安全的傳統方式。讓我們一起思考這項技術的應用，將如何推進航空安全調查的新時代。這項技術的應用，將讓我們可以更快速和準確地進行調查和分析，同時也將挑戰我們對於資料安全的傳統方式。讓我們一起探討這項技術的應用，和其對於航空安全調查的影響。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "002",
+    "title": "Google 的 AI 搜尋功能竟然會「忽略」你要找的東西",
+    "summary": "Google 的 AI 搜尋功能出現了奇怪的問題，當你搜尋某些詞彙時，AI 總結會出現與正常結果不同的回應，甚至會「忽略」你的搜尋內容，進而挑戰搜尋引擎的基本功能",
+    "content": "<p>你有沒有遇過這種情況：你在 Google 上搜尋某些詞彙，結果 AI 搜尋功能卻給你一個完全無關的回應？最近，Google 的 AI 搜尋功能出現了一個有趣的問題。當你搜尋某些詞彙，如「disregard」（忽略）、「ignore」（忽略）或「skip」（跳過）時，AI 搜尋功能會出現一個與正常結果不同的回應。</p><h2>AI 搜尋功能的怪異行為</h2><p>例如，當你搜尋「disregard」時，AI 搜尋功能可能會出現一個類似傳統 AI 聊天機器人的回應，例如「Got it. If you need anything else or have a new question later, just let me know!」（好的，如果你需要其他東西或稍後有新的問題，請告訴我！）</p><p>而當你搜尋「ignore」時，AI 搜尋功能可能會出現一個類似的回應，例如「Message received! I’m here and ready to help. What would you like to focus on today? Just let me know if there’s a specific topic, task, or question you’d like to explore.」（收到訊息！我在這裡，準備好幫助你。今天你想關注什麼？只要告訴我，如果你有特定的主題、任務或問題，你想探索什麼。）</p><h2>Google 對此的回應</h2><p>Google 已經知道這個問題，並發表了一份聲明，稱「我們知道 AI 搜尋功能正誤解某些動作相關的查詢，我們正在努力修復這個問題，該修復將很快推出。」</p><p>雖然這個問題看起來很有趣，但它可能只是某種 bug。Google 應該會盡快修復這個問題。但是，這個問題也提醒我們，AI 搜尋功能仍然有很多需要改進的地方。</p><h2>編輯悄悄話</h2><p>其實，AI 搜尋功能的怪異行為也反映了我們對 AI 的期望。我们希望 AI 能夠理解我們的需求，給我們最相關的結果。但是，AI 還不是完美的，它需要不斷的改進和修復。所以，當我們遇到這種問題時，不要太生氣，畢竟 AI 還是在學習和成長中。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-22-at-8.44.28AM.png?quality=90&strip=all&crop=0%2C13.100144814526%2C100%2C73.799710370948&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "003",
+    "title": "俄羅斯四顆軍事衛星悄悄接近芬美合資公司ICEYE的雷達監視衛星",
+    "summary": "俄羅斯四顆軍事衛星近期調整軌道，與ICEYE的雷達監視衛星ICEYE-X36的距離大幅縮短，引發人們對俄羅斯意圖的質疑，將對國際空間安全產生重大衝擊",
+    "content": "<p>近期，俄羅斯四顆軍事衛星的軌道發生變化，與芬美合資公司ICEYE的雷達監視衛星ICEYE-X36的距離大幅縮短，引發人們對俄羅斯意圖的質疑。這四顆俄羅斯衛星，編號為Kosmos 2610至2613，於4月16日搭乘Soyuz-2.1b火箭從俄羅斯北部發射升空。近期，這四顆衛星調整了其軌道傾角，與ICEYE-X36的距離現在只剩下500米至22公里之間。</p>  <h2>俄羅斯衛星的軌道變化</h2>  <p>這四顆俄羅斯衛星的軌道變化，被退役的美國空軍太空情報官Greg Gillinger透過開源軌道追蹤數據發現。這種軌道變化需要大量燃料，相當於提高軌道高度100多英里的能量。這種變化使得俄羅斯衛星可以經常接近ICEYE-X36，引發人們對俄羅斯意圖的質疑。 <strong>俄羅斯的行動可能是為了收集ICEYE-X36的情報，甚至可能是為了干擾其運作</strong>。</p>  <h2>ICEYE-X36的重要性</h2>  <p>ICEYE-X36是ICEYE公司的一部分，為美國軍方和歐洲政府提供全天候的雷達監視圖像。ICEYE公司還為烏克蘭軍方提供圖像，幫助其對抗俄羅斯。 <strong>ICEYE-X36的能力對於國際空間安全具有重要意義</strong>，其圖像可以幫助各國_monitor_和預防空間威脅。</p>  <h2>編輯悄悄話</h2>  <p>俄羅斯四顆軍事衛星的軌道變化，引發人們對俄羅斯意圖的質疑。這種變化可能是為了收集情報，甚至可能是為了干擾ICEYE-X36的運作。 <strong>國際空間安全面臨著新的挑戰</strong>，各國需要加強合作，防止空間威脅的出現。同時，ICEYE-X36的能力對於國際空間安全具有重要意義，各國需要加強保護其運作的安全性。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ICEYE_anechoic_chamber_01_5x4-2560x1440.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "004",
+    "title": "美國五一假期大促銷！Sony、Apple、Beats 等品牌耳機、電池、配件降價",
+    "summary": "美國五一假期即將到來，各大品牌也推出了大促銷活動。耳機、電池、配件等數位產品也在降價之列。這次的促銷活動中，許多我們高度推薦的耳機、電池、配件都在降價。無論你是購買耳機、電池還是其他配件，現在都是購買的好時機。",
+    "content": "<h2>五一假期大促銷！耳機、電池、配件降價</h2><p>美國五一假期即將到來，各大品牌也推出了大促銷活動。耳機、電池、配件等數位產品也在降價之列。這次的促銷活動中，許多我們高度推薦的耳機、電池、配件都在降價。無論你是購買耳機、電池還是其他配件，現在都是購買的好時機。</p><h2>耳機降價！Sony、Apple、Beats 等品牌耳機促銷</h2><p>Sony 的 WH-1000XM5 耳機是今年的熱門產品之一，現在也在降價。這款耳機的售價為 248 美元，折扣為 152 美元。另外，Apple 的 AirPods 也在降價，售價為 129 美元，折扣為 50 美元。Beats 的 Solo Pro 耳機也在降價，售價為 149 美元，折扣為 100 美元。</p><p>HigherDose 的紅光療法帽子現在也在降價，售價為 359 美元，折扣為 90 美元。Eufy 的 C28 機器人吸塵器和拖地機現在也在降價，售價為 500 美元，折扣為 300 美元。</p><h2>電池和配件降價！</h2><p>許多電池和配件也在降價。例如，Anker 的電池現在也在降價，售價為 25 美元，折扣為 10 美元。另外，SanDisk 的移動硬碟現在也在降價，售價為 50 美元，折扣為 20 美元。</p><h2>編輯悄悄話</h2><p>五一假期大促銷是購買耳機、電池和配件的好時機。許多品牌都推出了大促銷活動，讓你可以以更低的價格購買到你需要的產品。所以，現在是購買的好時機！</p>",
+    "image": "https://media.wired.com/photos/6a06188db84b146a9eec38c1/191:100/w_1280,c_limit/Memorial%20Day%20Deals%20Tech%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "005",
+    "title": "谷歌搜索功能出現異常：無法定義「忽略」、「停止」等詞彙",
+    "summary": "谷歌的搜索結果被 AI 概覽取代，引發用戶不滿，公司承諾將盡快修復此問題，推動搜索體驗的變革",
+    "content": "<p>谷歌搜索功能近期出現了一個奇怪的問題，當用戶搜索「忽略」、「停止」或「忽視」等詞彙時，搜索結果頁面並不會顯示定義，而是提供一個 AI 概覽和大量空白空間。這個問題引發了用戶的不滿和關注，甚至連線上辭典也被埋藏在搜索結果頁面的下方。</p>  <h2>谷歌的 AI 搜索體驗</h2>  <p>谷歌在 I/O 2026 大會上推出了更新的、更加以 AI 為中心的搜索體驗，但是這個更新似乎也帶來了一些意外的問題。用戶在搜索某些詞彙時，會遇到 AI 概覽而不是定義，讓人感到困惑。雖然這個問題看起來並不嚴重，但是它仍然反映了谷歌在過渡到全方位 AI 助手的途中所遇到的挑戰。</p>  <h2>修復工作正在進行</h2>  <p>谷歌已經承認了這個問題，並表示正在努力修復。公司發言人表示，AI 概覽功能會誤解某些與動作相關的查詢，但是修復方案將很快推出。雖然這個問題可能不會對谷歌的搜索體驗產生太大的影響，但是它仍然反映了公司在發展 AI 功能的過程中所面臨的挑戰和困難。</p>  <h2>編輯悄悄話</h2>  <p>這個事件其實讓我們看到，谷歌在發展 AI 功能的過程中，仍然需要不斷地努力和改進。雖然 AI 功能可以帶來便利和效率，但是也需要考慮到用戶的需求和體驗。因此，我們可以看到，谷歌在搜索功能上的改進和修復工作，將會是公司未來發展的重點。同時，這也讓我們反思，技術的發展應該如何與人們的需求和價值觀相結合，才能真正地帶來正面的影響和改變。</p>",
+    "image": "https://www.engadget.com/img/gallery/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/l-intro-1779486439.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2179762/google-is-currently-struggling-to-define-words-like-disregard-stop-and-ignore/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "006",
+    "title": "科技前沿：編碼的未來、增強運動會和 AI 驅動的科學",
+    "summary": "科技世界正在經歷一場革命，編碼的未來、增強運動會和 AI 驅動的科學正在顛覆我們的認知，推進科技的發展",
+    "content": "<p>在 Anthropic 的開發者活動中，Code with Claude 展示了編碼的未來，無論你是否喜歡。出席者被問及是否已經發布由 Claude 寫的代碼，幾乎有一半的參與者舉起了手，許多人承認自己甚至沒有讀過代碼就發布了它。</p>    <h2>編碼的未來</h2>    <p>隨著工具如 Claude Code 的不斷改進，更多的開發者們樂於將工作交給 AI 處理。Anthropic 表示，希望推動自動化到極限，但並不是每個人都認為這是正確的方法。這個趨勢可能會 <strong>重塑編碼的未來</strong>，使開發者們需要重新思考自己的角色和職責。</p>    <h2>增強運動會</h2>    <p>今年的第一屆增強運動會將在拉斯維加斯舉行，42 名運動員將參加這項爭議性的體育競賽，允許使用增強體能的藥物。這項活動反映了當前對 <strong>增強人體表現</strong> 的熱潮，消費者被鼓勵盡可能地瘦身、優化長壽和生育「最佳嬰兒」。</p>    <p>Google I/O 關鍵詞演講中，Google DeepMind 的 CEO Demis Hassabis 宣稱，我們正「站在奇點的山腳下」。但我聽到這些話的時候，所感受到的語境是，AI 在科學領域的發展方向正在轉變，從專門的系統到更為 <strong>自主的 LLM 系統</strong>，這可能會使科學研究的方式發生根本性的變化。</p>    <h2>編輯悄悄話</h2>    <p>科技的發展總是讓人感到驚奇和好奇，編碼的未來、增強運動會和 AI 驅動的科學正在 <strong>挑戰我們的認知</strong>，這些趨勢可能會帶來新的機會和挑戰，讓我們期待著科技的未來會如何發展。同時，也讓我們反思，科技的進步是否總是正面的，還是會帶來一些負面的影響呢？這些都是值得我們思考和探討的問題。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Katelyn-Lesse-Anthropic-Head-of-Engineering-Claude-Platform-1.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "007",
+    "title": "npm 安全信號受攻擊：有效證書如何助長惡意軟體",
+    "summary": "近期，633 個惡意 npm 軟體套件版本通過了 Sigstore 驗證，原因是攻擊者從維護帳戶中竊取了有效的簽署證書，從而衝擊了 npm 的安全機制",
+    "content": "<p>近期，npm 的安全信號受到了攻擊，導致 633 個惡意軟體套件版本通過了 Sigstore 驗證。這些套件版本之所以能夠通過驗證，是因為攻擊者從維護帳戶中竊取了有效的簽署證書。這個事件引發了對 npm 安全機制的質疑，尤其是 <strong>Sigstore</strong> 驗證機制的局限性。</p>  <h2>什麼是 Sigstore 驗證機制？</h2>  <p>Sigstore 是一個用於驗證軟體套件真實性的機制，它可以確保軟體套件是在 CI 環境中構建的，並且具有有效的簽署證書。這個機制可以讓用戶相信軟體套件的來源和完整性。然而，<strong>Sigstore</strong> 並不能確保軟體套件的安全性，因為它無法判斷是否有人竊取了簽署證書並將其用於發佈惡意軟體。</p>  <h2>攻擊者如何竊取簽署證書？</h2>  <p>攻擊者可以通過竊取維護帳戶的密碼或私鑰來獲得有效的簽署證書。一旦攻擊者獲得了簽署證書，就可以使用它來發佈惡意軟體套件。這個過程非常簡單，<strong>只要攻擊者有了有效的簽署證書</strong>，就可以輕易地通過 Sigstore 驗證機制。</p>  <h2>編輯悄悄話</h2>  <p>這個事件告訴我們，<strong>安全機制並不是萬無一失的</strong>，尤其是在面對人為竊取證書的攻擊時。因此，我們需要更加警惕地保護自己的帳戶和私鑰，並且需要不斷地更新和強化安全機制，以防止類似的事件發生。最後，<strong>讓我們共同努力，打造一個更加安全的軟體生態環境</strong>，以保護我們的數據和隱私。</p>",
+    "image": "",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "008",
+    "title": "爆品優惠：Best Buy 2TB Corsair SSD 現折超過 60%",
+    "summary": "擴增 Mac 和 iOS 的儲存空間，適用於大型程式下載、照片等，2TB Corsair EX400U SSD 現在在 Best Buy 折扣超過 60%，帶來重大價格衝擊",
+    "content": "<p>如果你是一位遊戲玩家、創意專業人士或行動使用者，你可能知道儲存空間的重要性。尤其是當你需要儲存大型程式下載、原始視頻檔、照片等檔案時，儲存空間的大小就變得非常關鍵。現在，Best Buy 正在提供一款 <strong>2TB Corsair EX400U SSD</strong>，這是一款優秀的、緊湊和便攜的外部 SSD。</p>  <h2>什麼是 Corsair EX400U SSD？</h2>  <p>Corsair EX400U SSD 是一款高性能的外部 SSD，具有 <strong>2TB 的儲存空間</strong>，足以儲存大量的檔案，包括大型程式下載、原始視頻檔、照片等。它的設計很緊湊和便攜，非常適合遊戲玩家、創意專業人士和行動使用者。現在，Best Buy 正在提供這款 SSD，折扣超過 <strong>60%</strong>。</p>  <h2>為什麼這款 SSD 很重要？</h2>  <p>這款 SSD 很重要，因為它可以 <strong>擴增 Mac 和 iOS 的儲存空間</strong>，適用於大型程式下載、照片等。它的高性能和大儲存空間，可以滿足遊戲玩家、創意專業人士和行動使用者的需求。現在，Best Buy 的折扣優惠，使得這款 SSD 成為了一個很划算的選擇。</p>  <h2>編輯悄悄話</h2>  <p>如果你正在尋找一款高性能和大儲存空間的外部 SSD，現在可能是最佳的購買時機。Best Buy 的折扣優惠，使得 <strong>2TB Corsair EX400U SSD</strong> 成為了一個很划算的選擇。不要錯過這個機會，趕快去 Best Buy 購買這款 SSD，擴增你的 Mac 和 iOS 的儲存空間，適用於大型程式下載、照片等。</p>",
+    "image": "https://www.zdnet.com/a/img/resize/5f144041bbfcaffdd211a39e15606952fbf4d797/2026/05/22/7916a4be-85b3-4ae0-8dba-a9805dcfd03d/corsair-ex400u.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/best-buy-corsair-ssd-deal-memorial-day-2026/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "009",
+    "title": "五月末不容錯過的科技大促銷：讓你省到翻的GPU、遊戲筆電、OLED螢幕等",
+    "summary": "美國的陣亡將士紀念日促銷即將登場，將會衝擊科技市場，帶來多項優惠，包括GPU、遊戲筆電、OLED螢幕等熱門科技產品，讓你輕鬆享受夏季科技購物的樂趣",
+    "content": "<p>美國的陣亡將士紀念日促銷是夏季的第一個大型促銷活動，今年這個活動將於五月的最後一個星期一舉行。這個活動不僅是購買新床墊或BBQ的好時機，也是購買科技產品的最佳機會。許多科技零售商都在這個活動中提供了多項優惠，包括GPU、遊戲筆電、OLED螢幕等熱門科技產品。</p>  <h2>科技促銷的重點</h2>  <p>這個活動中，有許多科技零售商都在提供優惠，包括預建電腦、CPU、螢幕等。其中，<strong>HP Omen Max 16</strong> 遊戲筆電是其中一個重點產品，它配備了強大的Intel Core Ultra 9 275HX CPU和Nvidia GeForce RTX 5080筆電GPU，讓你可以暢快地玩最新的遊戲。另外，<strong>Gigabyte Aero X16</strong> 也是一個很好的選擇，它配備了Nvidia RTX 5070和AMD Ryzen AI 7 350處理器，讓你可以享受高效能的遊戲體驗。</p>  <h2>購買指南</h2>  <p>如果你想要在這個活動中購買到優惠的科技產品，以下是一些購買指南：首先，<strong>Lenovo</strong> 的筆電在這個活動中有多達59%的折扣，讓你可以以低於原價的價格購買到高質量的筆電。其次，<strong>HP Omen</strong> 和 <strong>HyperX</strong> 也在這個活動中提供了多項優惠，包括超過100美元的折扣。最後，<strong>Alienware 16 Aurora</strong> 遊戲筆電也是一个很好的選擇，它配備了強大的硬件和高效能的螢幕，讓你可以享受最佳的遊戲體驗。</p>  <h2>編輯悄悄話</h2>  <p>這個活動中，有許多科技產品都在提供優惠，但是你需要快速地做出決定，因為這些優惠只會在五月的最後一個星期一結束。所以，<strong>不要錯過這個機會</strong>，趕快去購買你想要的科技產品吧！這個活動不僅可以讓你省到翻的金錢，也可以讓你享受最新的科技產品和服務。所以，趕快去看看吧，你一定會找到你想要的東西！</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/v6gSx2aid4sgJ8Q2wf58XR-1920-80.jpg",
+    "source": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-on-your-favorite-tech-over-the-2026-memorial-day-weekend-grab-deals-on-gpus-gaming-laptops-oled-monitors-and-more",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "010",
+    "title": "FreeBSD 15.1-RC1登場：AI 驗證的安全漏洞修復",
+    "summary": "FreeBSD 15.1-RC1 正式推出，帶來一系列安全漏洞修復，包括 AI 驗證的安全漏洞。這些漏洞是由 Calif.io 和其他安全研究團隊使用 AI 驗證工具發現的，包括內核用後自由、ptrace(PT_SC_REMOTE) 的缺失驗證和 WiFi 訪問點掃描的遠程代碼執行漏洞。這些修復將有助於提高 FreeBSD 的安全性。",
+    "content": "<p>近期，Linux 的安全漏洞頻發，FreeBSD 也開始受到安全漏洞的影響。FreeBSD 15.1-RC1 正式推出，帶來一系列安全漏洞修復，包括 AI 驗證的安全漏洞。</p><h2>AI 驗證的安全漏洞</h2><p>FreeBSD 15.1-RC1 修復了多個安全漏洞，包括內核用後自由、ptrace(PT_SC_REMOTE) 的缺失驗證和 WiFi 訪問點掃描的遠程代碼執行漏洞。這些漏洞是由 Calif.io 和其他安全研究團隊使用 AI 驗證工具發現的。</p><p><strong>Calif.io</strong> 和其他安全研究團隊使用 AI 驗證工具發現了多個 FreeBSD 的安全漏洞，包括內核用後自由、ptrace(PT_SC_REMOTE) 的缺失驗證和 WiFi 訪問點掃描的遠程代碼執行漏洞。這些漏洞將有助於提高 FreeBSD 的安全性。</p><h2>其他修復和改進</h2><p>除了安全漏洞修復，FreeBSD 15.1-RC1 還帶來其他修復和改進，包括 fwget firmware 工具的改進和多個小的內核 bug 修復和 man page 更新。</p><p><strong>fwget</strong> firmware 工具的改進將有助於提高 FreeBSD 的硬件兼容性。多個小的內核 bug 修復和 man page 更新將有助於提高 FreeBSD 的穩定性和易用性。</p><h2>編輯悄悄話</h2><p>FreeBSD 15.1-RC1 的推出是 FreeBSD 社區的一個重要里程碑。這個版本的安全漏洞修復和其他改進將有助於提高 FreeBSD 的安全性和穩定性。作為一個開源操作系統，FreeBSD 的安全性和穩定性是非常重要的。希望 FreeBSD 15.1-RELEASE 能夠順利推出，並且能夠為用戶提供更好的使用體驗。</p>",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=freebsd_151beta_1",
+    "source": "Phoronix",
+    "url": "https://www.phoronix.com/news/FreeBSD-15.1-RC1",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "011",
+    "title": "OpenAI 榮登企業編碼代理領導者寶座，Gartner 對其 Codex 予以高度評價",
+    "summary": "OpenAI 被評為 2026 年 Gartner 魔法象限企業 AI 編碼代理領導者，Codex 因其創新和企業級部署能力而受到肯定，從而推進了軟件開發的變革",
+    "content": "<p>近日，OpenAI 被 Gartner 評為 2026 年魔法象限企業 AI 編碼代理領導者。這一評價反映了 OpenAI 在支持企業級別的 Codex 部署方面的進展。Codex 是一種強大的編碼工具，目前已被超過 400 萬人每周使用，同時也被包括 <strong>Cisco</strong> 在內的多家公司采用。</p><h2>企業級別的編碼代理</h2><p>隨著軟件開發的變革，開發人員開始超越自動完成，將複雜任務委託給 Codex。Codex 能夠理解大型代碼庫，使用工具，進行修改，運行測試，同時為人類審核做好準備。對於企業而言，機會在於速度和控制：幫助團隊更快地建設軟件，同時保持所需的治理、安全和審計能力。</p><p>在 Gartner 的報告中，Codex 的優勢在於其 <strong>執行能力</strong> 和 <strong>願景完整性</strong>。Gartner 肯定了 Codex 在代理軟件開發、企業治理、沙盒和靈活的部署選項方面的優勢。同時，Gartner 也強調了 Codex 廣泛的開發者接口，包括 Codex 應用、IDE 擴展、CLI、SDK 和基於雲的編排，以及企業控制，如批准門、RBAC、可定制的策略、OS 級別沙盒和可審計的工作空間治理。</p><h2>推動企業創新</h2><p>我們認為，這些優勢使得 OpenAI 成為 <strong>Cisco</strong> 的合適合作夥伴，Cisco 使用 Codex 開發了其 AI 防禦安全平台的絕大部分，從而將交付時間從數個季度縮短到幾周。Cisco 的產品高級副總裁 DJ Sampath 分享了 Codex 如何改變 Cisco 建設軟件的方式。</p><h2>編輯悄悄話</h2><p>生活在快速變革的軟件開發時代，編碼代理工具的出現讓我們看到了新的可能性。OpenAI 的 Codex 以其強大的功能和企業級別的部署能力，成為了軟件開發的新引擎。因此，我們可以預見，未來的軟件開發將會更加快速和高效，同時保證了企業所需的安全和審計能力。讓我們拭目以待這一變革的到來，並探索編碼代理工具在軟件開發中的無限可能。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/hr58rtMzlkB728iDsV145/66097583e92664b8009d3f9f9d106c05/Gartner-MQ-SEO.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "012",
+    "title": "谷歌DeepMind加速器計畫登陸亞太：用AI解決環境挑戰",
+    "summary": "亞太地區是全球經濟增長的引擎，但也面臨著嚴重的環境風險。谷歌DeepMind加速器計畫將推進亞太地區的環境創新，挑戰傳統思維，重塑未來",
+    "content": "<p>亞太地區是全球經濟增長的引擎，但也面臨著嚴重的環境風險。為了解決這些挑戰，谷歌DeepMind宣布在亞太地區推出首個加速器計畫，專注於「AI for the Planet」。</p>  <h2>什麼是AI for the Planet？</h2>  <p>AI for the Planet是谷歌DeepMind的一個計畫，旨在利用人工智慧技術解決環境挑戰。這個計畫將為亞太地區的創新者提供一個平台，讓他們可以利用前沿的AI技術來解決自然、氣候、農業、能源等領域的問題。</p>  <p><strong>這個計畫的目標是幫助亞太地區的創新者們利用AI技術來解決環境挑戰</strong>，並推進該地區的環境創新。通過這個計畫，谷歌DeepMind希望能夠幫助亞太地區的創新者們將他們的環境解決方案擴大規模，從而對環境挑戰產生更大的影響。</p>  <h2>如何參與計畫？</h2>  <p>如果您是一個創新者，正在解決氣候挑戰，那麼您可以參與這個計畫。這個計畫將為您提供專業的指導、定制化的支持和幫助您將谷歌AI專家的前沿AI技術和科學AI模型整合到您的項目或產品中。</p>  <p><strong>您可以在新加坡參加一個為期三個月的計畫</strong>，並且可以在網上了解更多關於這個計畫的信息並註冊您的興趣。</p>  <h2>編輯悄悄話</h2>  <p>環境挑戰是全球性的問題，需要全球性的解決方案。通過谷歌DeepMind加速器計畫，亞太地區的創新者們可以利用AI技術來解決環境挑戰。這個計畫將推進亞太地區的環境創新，挑戰傳統思維，重塑未來。讓我們一起關注這個計畫的進展，共同努力解決環境挑戰，創造一個更美好的未來。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "013",
+    "title": "突破文字生成速度極限：Nemotron-Labs 導入擴散語言模型",
+    "summary": "新一代的擴散語言模型將顛覆傳統的文字生成方式，藉由並行生成多個令牌並迭代精煉，從而提升性能和準確度",
+    "content": "<p>在人工智慧領域，語言模型已經成為了一種基本工具，廣泛應用於代碼生成、數學問題解決、摘要、文件理解等方面。然而，傳統的語言模型仍然採用著一種稱為自回歸（autoregressive）的方法，即每個令牌的生成都依賴於之前的令牌。這種方法雖然取得了巨大的成功，但也存在著一些限制，例如每個新令牌的生成都需要整個模型的運算，且每個權重都需要從記憶體中加載，這對於開發者來說是一個很大的挑戰。</p><h2>傳統語言模型的限制</h2><p>自回歸模型的限制在於，每個令牌的生成都需要依賴於之前的令牌，這使得模型的運算速度相對較慢。另外，當模型生成一個令牌之後，就不能再修改之前的令牌，這使得錯誤很容易在生成過程中傳播。這些限制使得開發者在建構延遲敏感的應用程序時，或者嘗試更好地利用現代GPU的計算能力時，會遇到一些瓶頸。</p><h2>擴散語言模型的新思路</h2><p>Nemotron-Labs 的擴散語言模型（DLM）提供了一種新的方法，即生成多個令牌之後，再通過多個步驟迭代精煉生成的令牌。這種模型不僅可以更好地利用現代GPU的計算能力，提供顯著的運算性能提升，而且可以修正生成的令牌，從而更適合於修改現有的文本和實現填充中間目標。這種生成和精煉的特性還提供了一種內建的方式來控制推理預算，通過減少精煉步驟的數量，可以在運行時減少模型的計算需求。</p><h2>編輯悄悄話</h2><p>這種新的語言模型思路，將會對傳統的文字生成方式產生重大影響。開發者可以利用這種模型來提高應用程序的性能和準確度，從而提供更好的用戶體驗。因此，無論您是開發者還是語言模型的使用者，都需要關注這種新的發展趨勢，以便在未來的項目中充分利用它們的優勢。</p>",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-labs-diffusion.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "014",
+    "title": "NVIDIA GTC 臺北：人工智慧的未來就在眼前",
+    "summary": "NVIDIA GTC 臺北於 COMPUTEX 展會中，全球的開發者、研究人員和業界領袖匯聚在一起，探討最新的人工智慧技術，推進各行各業的發展，帶來重大的變革和挑戰。",
+    "content": "<p>人工智慧的未來正逐漸成形。在 NVIDIA GTC 臺北於 COMPUTEX 展會中，全球的開發者、研究人員和業界領袖匯聚在一起，探討最新的人工智慧技術，涵蓋了 <strong>AI 工廠、基礎設施擴展、智能物理 AI</strong> 等多個領域。這些技術將對各行各業產生深遠的影響，推進各個領域的發展，帶來重大的變革和挑戰。</p>  <h2> Jensen Huang 的演講：人工智慧的未來</h2>  <p>NVIDIA 的創始人和 CEO Jensen Huang 將於 6 月 1 日 11 點在臺北音樂中心發表演講。這次演講將聚焦於人工智慧的最新發展和趨勢，包括 <strong>AI 加速計算、智能物理 AI</strong> 等。同時，GTC Live at Taipei 2026 的預演節目也將帶來業界領袖之間的熱烈討論，探討人工智慧和加速計算的最新創新。</p>  <h2> NVIDIA 的創新成就</h2>  <p>NVIDIA 在 COMPUTEX 2026 最佳選擇獎中獲得了多個獎項，包括 <strong>NVIDIA Vera Rubin NVL72</strong>、<strong>NVIDIA Jetson Thor</strong> 和 <strong>NVIDIA Alpamayo</strong>。這些獎項表彰了 NVIDIA 在 AI 計算、集成電路和自主車輛發展方面的創新成就。其中，<strong>NVIDIA Vera Rubin NVL72</strong> 獲得了金獎和可持續科技特別獎，表彰其在 AI 伺服器和資料處理方面的卓越成就。</p>  <h2>編輯悄悄話</h2>  <p>人工智慧的未來正逐漸成形，NVIDIA 的創新成就為我們帶來了新的啟發和思考。隨著人工智慧技術的不斷發展，我們可以期待各行各業的重大變革和挑戰。因此，我們需要關注人工智慧的發展趨勢，思考如何將其應用於實際生活中，創造更美好的未來。同時，<strong>安全性和隱私保護</strong> 也成為了人工智慧發展中的一個重要課題，我們需要在享受人工智慧帶來的便利的同時，也要關注其可能帶來的風險和挑戰。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/computex-rolling-blog-kickoff.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/nvidia-gtc-taipei-computex-2026-news/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "015",
+    "title": "編程代理效能大比拼：Together Inference Engine 成為新王者",
+    "summary": "一起推進編程代理的效能，Together Inference Engine 在實際應用中展現出 31% 的 TPS 提升和 76% 的成本降低，挑戰傳統的 TensorRT-LLM 和 Claude Opus 4.6",
+    "content": "<p>在編程代理的世界中，效能的提升一直是各大公司的首要目標。近日，Together Inference Engine 的實驗結果顯示，其在實際應用中可以達到 31% 的 TPS 提升和 76% 的成本降低，遠超過 TensorRT-LLM 和 Claude Opus 4.6。</p>    <h2>編程代理的挑戰</h2>    <p>編程代理的工作負載非常複雜，需要處理長輸入、同時請求和低延遲。傳統的基準測試方法往往無法準確反映實際應用的情況，因為它們通常只測試單用戶的情況，而忽略了多用戶的競爭和系統的負載。</p>    <p><strong>Together Inference Engine 的優勢在於其全棧優化的設計</strong>，包括 ThunderMLA、自定義核心重寫和端到端的性能分析。這使得它能夠在高併發請求的情況下保持 2 倍的 TTFT 和更低的成本。</p>    <h2>基準測試的設計</h2>    <p>Together Inference Engine 的基準測試是根據實際應用的工作負載設計的，模擬了真實的編程會話增長和生成長度。測試結果顯示，其在高流量的情況下可以保持穩定的效能和低延遲，遠超過其他引擎。</p>    <p><strong>這個基準測試的結果對於編程代理的開發有著重要的意義</strong>，因為它可以幫助開發者們更好地理解實際應用的工作負載和系統的性能瓶頸。同時，它也為 Together Inference Engine 的優勢提供了有力的證據。</p>    <h2>編輯悄悄話</h2>    <p>在編程代理的世界中，效能的提升並不是唯一的目標。開發者們需要考慮到成本、複雜性和維護性等因素。Together Inference Engine 的優勢在於其全棲優化的設計和低成本的運行，使得它成為了一個很有前途的選擇。同時，開發者們需要繼續努力，推動編程代理的技術進步和應用創新。</p>",
+    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/69f1a3b5587202cb099d02b4_OG-image_20260429_BLOG_Coding%20agent%20benchmark.png",
+    "source": "Together AI",
+    "url": "https://www.together.ai/blog/coding-agent-benchmarks",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "016",
+    "title": "蘋果 Silicon 搭配 MLX 框架，Ollama 現身最快的 AI 平台",
+    "summary": "蘋果 Silicon 搭配 MLX 框架，將會衝擊傳統的 AI 效能，推進個人助理、編碼代理等應用程式的發展",
+    "content": "<p>近日，Ollama 正式宣布搭配蘋果 Silicon 和 MLX 框架，推出最快的 AI 平台。這個平台將能夠加速您的工作效率，特別是在 macOS 上運行的個人助理、編碼代理等應用程式。</p><h2>什麼是 MLX 框架？</h2><p>MLX 框架是蘋果公司的機器學習框架，旨在提供統一的記憶體架構，讓開發人員能夠更容易地創建和部署 AI 模型。搭配蘋果 Silicon，Ollama 能夠充分利用 MLX 框架的優勢，提供更快的效能和更低的延遲。</p><h2>性能提升和應用場景</h2><p>Ollama 在蘋果 Silicon 上的性能提升非常顯著，特別是在個人助理和編碼代理等應用場景中。例如，OpenClaw 現在能夠更快速地響應用戶的請求，提供更好的用戶體驗。此外，Ollama 還能夠加速編碼代理的效能，讓開發人員能夠更快速地完成工作。</p><p>值得注意的是，Ollama 的性能提升不僅僅是在個人助理和編碼代理等應用場景中，還能夠應用於其他 AI 相關的工作，例如圖像和語音處理等。這將會為用戶提供更廣泛的 AI 解決方案，提高工作效率和生產力。</p><h2>編輯悄悄話</h2><p>總的來說，Ollama 搭配蘋果 Silicon 和 MLX 框架的登場，將會對 AI 行業產生深遠的影響。這個平台的性能提升和應用場景的擴展，將會為用戶提供更好的 AI 體驗和更高的工作效率。因此，我們可以預見，未來 AI 技術將會更加普及和深入人心，改變我們的生活和工作方式。</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/mlx",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "017",
+    "title": "GitHub 再度登上 Gartner 魔法象限，領導企業級 AI 編碼代理三年連冠",
+    "summary": "GitHub 的 AI 編碼代理技術再度受到肯定，推進軟體開發的未來",
+    "content": "<p>GitHub 的領導地位再次得到肯定，連續三年被評為 Gartner 魔法象限的領導者。這是因為 GitHub 致力於打造一個開放、安全、AI 驅動的平台，為軟體開發的未來定義了新的方向。這個平台不僅能夠幫助開發者提高效率，還能夠提供更好的安全性和合規性。</p>    <h2>領導者的使命</h2>    <p>Mario Rodriguez，是 GitHub 產品團隊的負責人，他的核心身份是一個學習者，他的熱情是創造開發者工具。他在過去的 20 年裡，致力於領導角色，推動 Microsoft 和 GitHub 的開發者工具發展。Mario 最近負責 GitHub 的 AI 策略和 GitHub Copilot 產品線，推動 Copilot 在數千個組織和數百萬用戶中實施和成長。</p>    <h2>創新與教育</h2>    <p>Mario 不僅是一個領導者，還是一個教育的推動者。他在美國農村地區創辦了一所特許學校，致力於推動教育的進步。這個學校的成立，讓更多的學生能夠接受優質的教育，為未來的科技發展做出貢獻。這種創新和教育的結合，讓 GitHub 的領導地位更加鞏固。</p>    <h2>編輯悄悄話</h2>    <p>GitHub 的領導地位，不僅是因為它的技術實力，還是因為它的創新精神和教育理念。這種精神和理念，讓開發者能夠更好地創造和實施新的技術，推動軟體開發的未來。因此，GitHub 的領導地位，值得我們的關注和學習。這個領導者的使命，不僅是技術上的領導，還是教育和創新的推動者。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/01/generic-mona-copilot-logo.png",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "018",
+    "title": "人工智慧開發的新紀元：探索代理工程學",
+    "summary": "隨著人工智慧技術的快速發展，軟體開發領域面臨著巨大的挑戰和變革，代理工程學的興起將重塑開發模式",
+    "content": "<p>近年來，人工智慧（AI）技術的進步如火如荼，軟體開發領域也隨之面臨著前所未有的變革。有人預言，AI 將使軟體工程師的工作成為過去式，而有人則認為，AI 只是工具箱中的一個新工具。但事實是，目前的狀況遠比這兩種說法複雜得多。</p>  <h2>代理工程學的誕生</h2>  <p>作為一名軟體開發專欄作家，我花了超過 20 年的時間，研究和撰寫軟體開發相關的文章，涵蓋了編碼、架構、項目管理和團隊動態等各個方面。近兩年來，我將重心轉移到 AI 領域，致力於研究開發人員如何有效地使用 AI 工具。然而，我發現了一個令人困惑的問題：缺乏一個明確的框架，來指導經驗豐富的開發人員如何與 AI 工具合作。雖然有許多小技巧和炒作，但卻缺乏系統性的方法和實踐指南。</p>  <h2>代理工程學的實踐</h2>  <p>觀察開發人員使用 AI 的經驗，我們需要開始將其視為一個獨立的學科。Andrej Karpathy，前特斯拉 AI 部門負責人和 OpenAI 的創始成員，最近提出了「代理工程學」（agentic engineering）的概念，來描述使用 AI 代理的有紀律的開發方法。Addy Osmani 等人也開始關注這個領域。Osmani 的觀點是，AI 代理負責實現，但人類負責架構、審查每個差異和不斷測試。這種方法強調了人機之間的合作，讓開發人員可以更有效地使用 AI 工具，同時保持對項目的控制權。</p>  <h2>編輯悄悄話</h2>  <p>代理工程學的興起，代表著軟體開發領域的一個重要轉變。開發人員需要學習如何與 AI 代理合作，才能在這個快速變化的環境中保持競爭力。這不僅需要新的技術技能，還需要新的思維方式和合作方法。隨著 AI 技術的不斷進步，代理工程學將成為軟體開發領域的一個重要組成部分。因此，開發人員需要關注這個領域的發展，學習如何使用 AI 代理，來提高開發效率和項目質量。</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/f67d094b96bec257c2011a99f351211c369ba0b2-12000x6300.jpg?w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/05/22/dispatches-from-o-reilly-the-accidental-orchestrator/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "019",
+    "title": "優步外賣推出實時餐廳推薦系統，讓用戶找到最符合口味的餐廳",
+    "summary": "優步外賣更新其餐廳推薦系統，使用實時用戶信號和列表式排名，顛覆傳統的餐廳推介方式，為用戶提供更個性化的用餐體驗",
+    "content": "<p>優步外賣最近推出了一個全新的餐廳推薦系統，旨在為用戶提供更好的用餐體驗。這個系統使用實時用戶信號和列表式排名，讓用戶可以找到最符合自己口味的餐廳。 <strong>優步外賣的推薦系統已經從傳統的批量處理模式轉變為實時信號處理模式</strong>，可以更快速地反應用戶的需求。</p>  <h2>實時信號處理的重要性</h2>  <p>優步外賣的新系統可以實時處理用戶的互動，包括點擊、搜索和訂單歷史等。這樣可以讓系統更好地了解用戶的需求，為他們提供更個性化的餐廳推薦。 <strong>實時信號處理可以減少用戶行動和個人化結果之間的延遲</strong>，讓用戶可以更快速地找到自己喜歡的餐廳。</p>  <h2>列表式排名的優勢</h2>  <p>優步外賣的推薦系統還使用了列表式排名，這種方法可以讓系統在同一時間內評估多個餐廳候選者，而不是單獨評估每個餐廳。 <strong>這種方法可以提高計算效率和排名質量</strong>，讓用戶可以更快速地找到最符合自己需求的餐廳。</p>  <h2>編輯悄悄話</h2>  <p>優步外賣的新餐廳推薦系統是一個很有趣的例子，展示了如何使用技術來改善用戶體驗。 <strong>通過使用實時信號處理和列表式排名</strong>，優步外賣可以為用戶提供更個性化的餐廳推薦，讓他們可以更快速地找到自己喜歡的餐廳。這個系統的更新也反映了優步外賣對於用戶體驗的重視和不斷創新的精神。",
+    "image": "https://res.infoq.com/news/2026/05/uber-eats-ranking-system/en/headerimage/generatedHeaderImage-1779039533128.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/news/2026/05/uber-eats-ranking-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "020",
+    "title": "打造隱私至上的履歷編輯器：Typst WASM 和 React 的強力結合",
+    "summary": "SmartResume 對傳統履歷編輯工具提出挑戰，提供專業的排版質量和瀏覽器內編輯功能，顛覆了傳統的履歷編輯模式，讓用戶無需將個人資料上傳到伺服器即可享受高品質的履歷編輯",
+    "content": "<h2>傳統履歷編輯工具的困境</h2><p>大多數在線履歷編輯工具可以分為兩類：一類是 SaaS 工具，需要將您的履歷上傳到伺服器進行 PDF 生成，這意味著您的敏感個人資料會離開您的機器；另一類是 LaTeX/Typst 模板，能夠產生高品質的輸出，但需要本地工具鏈、套件管理器和 CLI熟練度。對於非技術用戶，第二種選擇是無法接觸的；對於隱私意識強的用戶，第一種選擇是不可接受的。</p><p><strong>SmartResume</strong> 嘗試解決這兩個問題：提供專業的排版質量，並且完全在瀏覽器內編輯。這意味著用戶可以在瀏覽器內編輯履歷，而不需要將個人資料上傳到伺服器。</p><h2>Typst WASM 和 React 的強力結合</h2><p>SmartResume 使用 <strong>Typst WASM</strong> 和 <strong>React</strong> 來實現這一功能。Typst 是一種現代的排版語言，具有比 LaTeX 更乾淨的語法和更快的編譯速度。Typst 的編譯器和渲染器可以被編譯成 WebAssembly，從而在瀏覽器內運行。</p><p>應用程序使用 <strong>React 18</strong>、<strong>Vite 5</strong> 和 <strong>TypeScript</strong> 來實現單頁應用。有一個無伺服器函數用於選擇性的反饋——其他所有功能都在客戶端運行。這意味著用戶可以在瀏覽器內編輯履歷，而不需要將個人資料上傳到伺服器。</p><h2>編輯悄悄話</h2><p>在這個時代，隱私和安全是非常重要的。SmartResume 的出現，讓我們可以在瀏覽器內編輯履歷，而不需要將個人資料上傳到伺服器。這是一種非常便捷和安全的方式，讓我們可以輕鬆地創建和分享履歷。同時，<strong>Typst WASM</strong> 和 <strong>React</strong> 的強力結合，也讓我們可以享受高品質的排版質量和瀏覽器內編輯功能。因此，SmartResume 是一個非常有用的工具，值得我們試用和推薦。</p>",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F33viohmfcrxbwjp485j2.png",
+    "source": "DEV Community",
+    "url": "https://dev.to/kakutixyz/building-a-privacy-first-resume-editor-with-typst-wasm-and-react-1d13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "021",
+    "title": "認識 Gordon：Docker 的 AI 代理，讓容器工作流程更高效",
+    "summary": "Gordon 這個 AI 代理將顛覆傳統的容器工作流程，讓開發者們能夠更快速地解決問題，推進開發效率",
+    "content": "<p>開發者們現在比以往任何時候都更高效，AI 編碼助手可以幫助撰寫程式碼、合併 PR 和縮短審核週期。但是，一旦容器出現問題或團隊成員交給你一個服務並說「發佈它」，你就只能自己解決了。</p>  <h2>容器工作流程的痛點</h2>  <p>容器的問題往往不是按照預期出現的。建置快取無故失效、Postgres無法看到Redis、圖像在本地工作但在CI中崩潰，或者錯誤訊息連結到2017年的Stack Overflow討論串。現代軟體開發是一個層層疊疊的摩擦，而現有的AI工具無法幫助你。Cursor不知道什麼正在運行、Copilot無法閱讀你的日誌、Claude Code無法檢視你的Compose檔案。它們在應用邏輯方面很出色，但它們不是為所有在程式碼撰寫後發生的事情而設計的。</p>  <h2>Gordon：Docker 的 AI 代理</h2>  <p>Gordon是Docker的AI代理，內建於Desktop 4.74+和CLI中。它已經可以看到你的環境，所以你可以在幾分鐘內從問題轉移到解決方案，而不是花時間搜尋背景知識。每個動作都需要你的明確批准，權限在會話關閉時重置。你可以免費開始使用任何Docker帳戶，然後根據需要將Gordon納入你的日常工作流程中，擴大20倍的容量。</p>  <p><strong>Gordon是為開發者實際工作而設計的AI代理</strong>，而不是一個解釋你該做什麼的聊天機器人。它是一個代理，可以在你的整個Docker工作流程中採取行動，經過你的批准。Gordon可以閱讀你的運行容器日誌、圖像、Compose檔案和工作目錄。它已經知道你的環境在你詢問之前。</p>  <h2>編輯悄悄話</h2>  <p>這個世界正在快速變化，科技也在不斷進步。作為開發者們的幫手，Gordon這個AI代理將會讓容器工作流程更高效、更智能。讓我們拭目以待，Gordon將會帶來什麼樣的革命性變化！<strong>開發者們的生產力將會大幅提升</strong>，而Gordon就是這個變革的催化劑。</p>",
+    "image": "https://www.docker.com/app/uploads/2025/03/image.png",
+    "source": "Docker Blog",
+    "url": "https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "022",
+    "title": "Vercel CLI 推出異常警報功能，讓你輕鬆掌握異常狀況",
+    "summary": "Vercel CLI 的最新功能讓你可以直接存取異常警報和其細節，推進了觀察和應對異常事件的效率，讓你可以在終端機內直接查看和處理異常警報",
+    "content": "<p>你是否曾經想過，有沒有辦法可以更快速、更方便地掌握異常警報和其細節？現在，Vercel CLI 的最新功能讓你可以直接存取異常警報和其細節，<strong>大大提高了觀察和應對異常事件的效率</strong>。只要使用 vercel alerts 命令，你就可以列出所有的警報，包括團隊或特定項目的警報。每個警報都會顯示開始時間、警報類型和是否仍然活躍。</p>    <h2>什麼是 Vercel CLI ？</h2>    <p>Vercel CLI 是 Vercel 平台的一部分，讓你可以在終端機內直接與 Vercel 互動。現在，<strong>Vercel CLI 的最新功能</strong> 讓你可以直接存取異常警報和其細節，<strong>讓你可以在終端機內直接查看和處理異常警報</strong>。這個功能可以大大提高你的工作效率，<strong>讓你可以更快速地應對異常事件</strong>。</p>    <h2>如何使用 Vercel CLI 的異常警報功能</h2>    <p>使用 Vercel CLI 的異常警報功能非常簡單。只要使用 vercel alerts 命令，你就可以列出所有的警報。然後，你可以使用 --ai 選項，<strong>AI 調查結果會出現在每個警報旁邊</strong>。這樣，你就可以在終端機內直接查看和處理異常警報，<strong>不需要離開終端機</strong>。這個功能可以大大提高你的工作效率，<strong>讓你可以更快速地應對異常事件</strong>。</p>    <h2>編輯悄悄話</h2>    <p>其實，<strong>Vercel CLI 的異常警報功能</strong> 不只是提高了觀察和應對異常事件的效率，<strong>還讓你可以更快速地學習和改進</strong>。因為你可以在終端機內直接查看和處理異常警報，<strong>你就可以更快速地了解什麼是導致異常事件的原因</strong>。這樣，你就可以更快速地改進你的系統和應用，<strong>讓你可以更好地提供服務給用戶</strong>。所以，<strong>Vercel CLI 的異常警報功能</strong> 不只是提高了效率，<strong>還讓你可以更快速地學習和改進</strong>。",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/2mPDgWqC1iXbnf7okCxh2N/5c6dbc9bdd4c7a55e1c85ce91170146a/pull_anomaly_alert_details_with_vercel_cli_og_card.jpg",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/pull-anomaly-alert-details-using-the-vercel-cli",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "023",
+    "title": "程式設計師們的反饋：AI內容在程式討論區的未來",
+    "summary": "程式設計師們的社群正在挑戰現有的AI內容政策，推進新的討論和改變",
+    "content": "<p>近期，程式設計師們的社群進行了一次大膽的實驗：全面禁止LLM相關內容。這次實驗的結果如何？今天，我們邀請大家提供反饋，讓我們一起討論這種內容的未來。</p><h2>什麼是LLM相關內容？</h2><p><strong>LLM是Large Language Model的縮寫</strong)，是一種可以生成人工智能內容的技術。然而，這種內容是否真的是由人工智慧創造的？還是只是複製和粘貼的結果？這個問題一直是程式設計師們的爭論點。為了避免這種爭論，我們決定對LLM相關內容進行全面禁令。</p><h2>實驗結果和未來方向</h2><p><strong>實驗結果顯示</strong），這種禁令對社群的影響很大。有些人認為這種內容是無用的和浪費時間的，而其他人則認為這種內容可以提供新的想法和視角。因此，我們需要大家的反饋來決定這種內容的未來。請在下方留言您的意見，但請務必閱讀以下的細節。</p><h2>編輯悄悄話</h2><p>生活中的趣味在於嘗試和學習。這次實驗雖然結束了，但它給我們帶來了新的思考和方向。讓我們一起討論和探索這種內容的未來，讓程式設計師們的社群變得更加活躍和有趣。畢竟，<strong>技術的進步需要大家的參與和貢獻</strong>。</p>",
+    "image": "",
+    "source": "Reddit Programming",
+    "url": "https://www.reddit.com/r/programming/comments/1t4odyl/looking_for_feedback_on_ai_content_in/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "024",
+    "title": "創意人生：個人項目自我推廣平台",
+    "summary": "推進個人品牌，重塑創業格局，挑戰傳統行銷模式",
+    "content": "<p>你是否有一個創意的個人項目想要推廣？或者是一個正在發展中的創業計劃？現在，有一個平台可以讓你自我推廣，讓你的項目被更多人看到。這個平台叫做「自我推廣平台」，是一個讓創意人們可以分享自己的項目、合作需求、博客等的場所。</p>    <h2>什麼是自我推廣平台</h2>    <p>自我推廣平台是一個讓創意人們可以分享自己的項目、合作需求、博客等的場所。這裡，你可以找到各種不同的項目，從個人創業計劃到合作需求，都可以在這裡找到。同時，這個平台也鼓勵創意人們之間的合作和交流，讓更多的人可以看到你的項目，讓你的項目被更多人關注。</p>    <p><strong>在這個平台上，你可以找到各種不同的項目，從個人創業計劃到合作需求，都可以在這裡找到</strong>。同時，這個平台也提供了一個讓創意人們可以交流和合作的場所，讓更多的人可以看到你的項目，讓你的項目被更多人關注。</p>    <h2>如何使用自我推廣平台</h2>    <p>使用自我推廣平台非常簡單。你只需要創建一個帳戶，然後就可以開始分享你的項目、合作需求、博客等了。同時，你也可以瀏覽其他人的項目，找到你感興趣的合作機會。這個平台也提供了一個讓創意人們可以交流和合作的場所，讓更多的人可以看到你的項目，讓你的項目被更多人關注。</p>    <p><strong>在這個平台上，你可以找到各種不同的項目，從個人創業計劃到合作需求，都可以在這裡找到</strong>。同時，這個平台也提供了一個讓創意人們可以交流和合作的場所，讓更多的人可以看到你的項目，讓你的項目被更多人關注。</p>    <h2>編輯悄悄話</h2>    <p>生活趣味口語結論！自我推廣平台是一個非常好的創意人生平台，讓你可以找到各種不同的項目，從個人創業計劃到合作需求，都可以在這裡找到。同時，這個平台也提供了一個讓創意人們可以交流和合作的場所，讓更多的人可以看到你的項目，讓你的項目被更多人關注。所以，如果你有一個創意的個人項目想要推廣，或者是一個正在發展中的創業計劃，現在就來自我推廣平台吧！</p>",
+    "image": "",
+    "source": "Reddit Machine Learning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1t1d2m0/d_selfpromotion_thread/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "025",
+    "title": "NVIDIA 將不再公布遊戲收入數據，對未來發展有何影響？",
+    "summary": "NVIDIA 將不再在財報中公布遊戲收入數據，這一舉動將會重塑我們對其業務的理解，並衝擊市場的預期。",
+    "content": "<h2>什麼原因導致 NVIDIA 這一決策？</h2><p>NVIDIA 近期宣布，將不再在財報中公布遊戲收入數據，這一決定引起了市場的關注和討論。這一變化可能是由於 <strong>NVIDIA 的業務結構正在發生轉變</strong>，公司正在將更多的重心放在其他領域，如 AI 和資料中心等。</p><p>此外，<strong>遊戲收入數據的披露可能會對公司的股價產生一定的影響</strong>，因此 NVIDIA 可能希望避免由此帶來的市場波動。然而，這一決策也可能會使投資者和分析師難以評估公司的業務表現和未來發展前景。</p><h2>對市場和投資者的影響</h2><p>NVIDIA 的這一決策可能會對市場和投資者產生一定的影響。由於 <strong>缺乏遊戲收入數據的透明度</strong>，投資者可能會難以評估公司的業務表現和未來發展前景，這可能會導致市場的預期和股價出現波動。</p><p>此外，<strong>NVIDIA 的業務轉型也可能會帶來新的機會和挑戰</strong>。公司在 AI 和資料中心等領域的發展可能會為其帶來新的增長點，但也需要公司進行相應的調整和投資。</p><h2>編輯悄悄話</h2><p>生活中，我們總是會面臨著各種的變化和挑戰。就像 NVIDIA 的這一決策，可能會對市場和投資者產生一定的影響，但也可能會帶來新的機會和挑戰。因此，<strong>我們需要保持清醒的頭腦和敏捷的思維</strong>，才能夠在變化的環境中找到自己的位置和發展方向。通過對 NVIDIA 的這一決策進行分析，我們可以看到，<strong>業務的轉型和調整是企業發展的必然過程</strong>，而我們需要做的就是保持警惕和適應，才能夠在未來的發展中找到自己的機會和成功。</p>",
+    "image": "",
+    "source": "Reddit LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tkw5ri/nvidia_removes_gaming_revenue_category_from/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "026",
+    "title": "美國網路安全機構遭資料外洩風暴，國會議員要求交代",
+    "summary": "美國網路安全機構CISA遭遇資料外洩事件，國會議員正要求機構交代事件詳細，事件將衝擊網路安全工作的推進",
+    "content": "<p>近日，美國網路安全機構CISA遭遇了一起嚴重的資料外洩事件，一名承包商在GitHub上公開了AWS GovCloud密鑰和其他機密資料。這起事件引發了國會議員的關注，他們要求CISA交代事件詳細和對應措施。</p>    <h2>資料外洩事件的嚴重性</h2>    <p>這起事件的嚴重性在於，承包商在GitHub上公開的資料包括了CISA內部系統的密鑰和其他機密資料，可能會被惡意攻擊者利用，對網路安全工作造成衝擊。CISA已經確認了這起事件，但尚未公佈事件的詳細信息和對應措施。</p>    <p><strong>事件的影響將是深遠的</strong>，因為CISA是美國網路安全工作的重要機構，負責協助防止網路攻擊和資料外洩事件。這起事件將對CISA的工作和信譽造成影響，也將引發對美國網路安全工作的重新評估。</p>    <h2>國會議員的質疑和要求</h2>    <p>國會議員正在質疑CISA的內部政策和程序，要求機構交代事件詳細和對應措施。Senator Margaret Hassan發表了一份聲明，指出這起事件引發了對CISA內部政策和程序的嚴重關注，要求CISA交代事件的原因和對應措施。</p>    <p><strong>事件的調查和處理將是緊張的</strong>，因為國會議員和公眾都在關注這起事件的發展和對應措施。CISA需要盡快公佈事件的詳細信息和對應措施，以恢復公眾的信任和信心。</p>    <h2>編輯悄悄話</h2>    <p>這起事件是網路安全工作中的一個警示，提醒我們網路安全工作的重要性和挑戰性。事件的影響將是深遠的，需要CISA和其他相關機構共同努力，以恢復公眾的信任和信心。讓我們關注這起事件的發展，和思考如何加強網路安全工作，防止類似事件的發生。<strong>網路安全工作需要我們的共同努力和關注</strong>，讓我們一起努力，創建一個更安全的網路環境。</p>",
+    "image": "https://krebsonsecurity.com/wp-content/uploads/2026/05/CISA-logo.png",
+    "source": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "027",
+    "title": "荷蘭查獲800台伺服器，打擊網路攻擊和假訊息活動",
+    "summary": "荷蘭金融犯罪調查機構查獲一間網路託管公司的800台伺服器，該公司涉嫌提供網路攻擊、干擾和假訊息活動的服務，對民主和安全造成威脅，並推進了國際刑事調查的進展",
+    "content": "<p>荷蘭金融犯罪調查機構（FIOD）近日查獲一間網路註管公司的800台伺服器，該公司涉嫌提供網路攻擊、干擾和假訊息活動的服務。這次行動是荷蘭政府打擊網路犯罪和保護國家安全的一部分。</p>  <h2>網路攻擊和假訊息的溫床</h2>  <p>據調查，該網路註管公司名為Stark Industries，成立於2022年2月10日，剛好是在俄羅斯入侵烏克蘭之前。該公司提供的服務包括網路註管、網路連接和其他網路服務。調查顯示，該公司的服務被用於進行網路攻擊、干擾和假訊息活動，對民主和安全造成威脅。</p>  <p><strong>荷蘭政府的打擊行動</strong> 是對網路犯罪和假訊息活動的一次重大打擊。荷蘭政府已將Stark Industries列入制裁名單，同時查獲了該公司的800台伺服器和其他相關設備。</p>  <h2>網路安全的挑戰</h2>  <p>這次事件凸顯了網路安全的挑戰。網路攻擊和假訊息活動已成為當前的一個重大安全威脅。荷蘭政府的打擊行動是對這些威脅的一次重大反擊。同時，也提醒我們需要加強網路安全的防護和監控，以防止類似的事件再次發生。</p>  <p><strong>國際合作的重要性</strong> 在打擊網路犯罪和假訊息活動中至關重要。荷蘭政府的打擊行動得到了其他國家的支持和配合，體現了國際合作在打擊網路犯罪中的重要性。</p>  <h2>編輯悄悄話</h2>  <p>這次事件讓我們看到網路安全的挑戰和打擊網路犯罪的重要性。荷蘭政府的打擊行動是對網路犯罪和假訊息活動的一次重大打擊，也提醒我們需要加強網路安全的防護和監控。讓我們一起關注網路安全的動態，共同維護網路的安全和穩定。</p>",
+    "image": "https://www.bleepstatic.com/content/hl-images/2026/05/22/FIOD.jpg",
+    "source": "BleepingComputer",
+    "url": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "028",
+    "title": "全球首次瓦解暗網VPN服務，25組勒索軟體集團受影響",
+    "summary": "歐洲和北美的當局聯合瓦解了一個為數據竊取、勒索軟體攻擊和服務拒絕攻擊提供掩護的VPN服務，將對網路安全產生重大衝擊和推進",
+    "content": "<p>近期，歐洲和北美的當局宣布瓦解了一個全球性的VPN服務，這個服務被多達25組勒索軟體集團使用，來隱瞞其攻擊的起源。這個VPN服務的瓦解是由法國和荷蘭領導的，自去年12月起，多個國家就開始支持這項調查。</p>  <h2>什麼是VPN，和勒索軟體有什麼關係？</h2>  <p>VPN（虛擬私人網路）是一種可以讓用戶隱瞞其真實IP地址和位置的技術，通常用於保護用戶的網路安全和隱私。但是，當壞人使用VPN時，就成了另一回事。勒索軟體集團可以使用VPN來隱瞞其攻擊的起源，使得受害者很難追蹤和阻止這些攻擊。這個VPN服務的瓦解對於網路安全的影響非常重大，因為它將會<strong>重塑</strong>網路安全的格局。</p>  <h2>全球合作瓦解VPN服務</h2>  <p>這個VPN服務的瓦解是全球合作的結果，多個國家和機構都參與了這項調查和行動。這個成功的瓦解顯示了全球合作對於打擊網路犯罪的重要性。同時，這也<strong>推進</strong>了網路安全的發展，因為它使得我們更了解了網路犯罪的模式和手法。</p>  <h2>編輯悄悄話</h2>  <p>這個VPN服務的瓦解對於我們的網路安全意識是一個<strong>警醒</strong>。我們需要更加重視網路安全，使用更加安全的技術和方法來保護我們的網路安全。同時，這也是一個對於網路犯罪的<strong>挑戰</strong>，我們需要更加努力地打擊網路犯罪，保護我們的網路安全。最終，這個VPN服務的瓦解對於我們的網路安全產生了重大影響和推進，我們需要<strong>顛覆</strong>舊有的思維方式，迎接新的網路安全挑戰。</p>",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8yN-yeHodasj_piRqdUbE1MGyOfiyAzo-x6KZ_V9oilxP_v_kFNoyLVU7oNmG05F5g49pLeMY_jgJtU0mFk9ft_0qi4oLFgTxm0KWBncWw9lq0lVJFdkzshBzjul-2ODkaGNoLbgFUqKXbwKJJiF8nm0E6u7q6hnK_Vzb07XT-iygxE6Ct3bxW7A6s6f8/s1600/firstvpn.jpg",
+    "source": "The Hacker News",
+    "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "029",
+    "title": "《堡壘之夜》第7季第3章即將來臨，卻為何情報渠道突然乾涸?",
+    "summary": "距離《堡壘之夜》第7季第3章發布僅剩兩週，然而相關情報卻出奇地少，挑戰了玩家的好奇心和期待，重塑了我們對遊戲更新的認知",
+    "content": "<p>距離《堡壘之夜》第7季第3章發布僅剩兩週，然而相關情報卻出奇地少。作為一名專業編輯，我幾乎沒注意到這個事實，直到最近才發現。這次的更新預計於6月6日發布，但我們對它知之甚少。原因是什麼呢？就是因為沒有任何關於它的情報洩露。沒有任何隱藏在檔案中的文字或圖標，沒有任何關於新合作或遊戲變化的傳聞，簡直就是一片空白。</p>  <h2>情報渠道的突然乾涸</h2>  <p>通常情況下，距離遊戲更新發布還有兩週的時間，各種情報和傳聞應該已经開始出現了。但這次卻不同，似乎《堡壘之夜》的開發團隊採取了更加嚴格的保密措施，讓玩家們無法得知任何關於新季的情報。這種情況下，玩家們只能繼續猜測和等待，等待6月6日的正式發布。</p>  <p><strong>這次的更新預計會帶來哪些變化呢？</strong> 這是所有玩家都很關心的問題。雖然沒有任何情報可以參考，但我們可以根據過往的經驗來做一些猜測。例如，新的季節可能會帶來新的遊戲模式、地圖變化或角色更新等。無論如何，這次的更新都將為玩家帶來新的體驗和挑戰。</p>  <h2>玩家們的反應</h2>  <p>距離更新發布還有兩週的時間，玩家們的反應卻已經開始出現。有些玩家表示，沒有情報的時候反而更讓人期待，能夠帶來更多的驚喜和刺激。其他玩家則表示，缺乏情報讓他們感到不安和好奇，想要盡快知道新季的內容。無論如何，玩家們都在等待6月6日的到來，期待著《堡壘之夜》第7季第3章的正式發布。</p>  <h2>編輯悄悄話</h2>  <p>其實，情報的突然乾涸也許是一種故意為之的行為，目的是為了讓玩家們更加期待和好奇。無論如何，這次的更新都將為玩家帶來新的體驗和挑戰。所以，讓我們繼續等待和猜測，直到6月6日的正式發布。屆時，我們將會看到《堡壘之夜》第7季第3章的全部內容，體驗到更新帶來的所有變化和驚喜。 <strong>這次的更新預計會帶來哪些變化呢？</strong> 這是所有玩家都很關心的問題，也是我們最期待的答案。</p>",
+    "image": "",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/where-did-all-the-fortnite-leaks-go/",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "030",
+    "title": "Destiny 2 的最終章：遊戲內容創作者如何面對這個消息",
+    "summary": "Destiny 2 的內容更新即將結束，這個消息對於遊戲內容創作者來說是個重大的衝擊，將會顛覆他們的創作生涯和社群",
+    "content": "<h2>遊戲內容創作者的反應</h2><p>當 Bungie 宣布 Destiny 2 將不再接收內容更新時，遊戲內容創作者們的反應是 <strong>震驚</strong> 和 <strong>難過</strong>。其中一位知名的直播主 Datto，在直播中表達了他的情緒，說他雖然知道這個消息可能會來，但還是感到 <strong>措手不及</strong>。</p><p>「我以為我已經準備好了，但我猜我還是沒有」，Datto 說。這個消息對於他來說是個 <strong>重大的打擊</strong>，因為 Destiny 2 已經成為他 <strong>整個成年生活</strong> 的一部分。他建議他的直播頻道是在 2014 年開始的，從那時起就一直在做與 Destiny 2 相關的內容。</p><h2>未來的計畫</h2><p>其他直播主和評論家也在思考未來的計畫。其中一位直播主問道：「<strong>這對我個人來說意味著什麼</strong>？」他提到，他已經開始擴展到其他遊戲的內容創作，並且感謝自己有這個機會。這個消息對於他來說是個 <strong>警鐘</strong>，讓他意識到需要 <strong>適應變化</strong>。</p><p>Destiny 2 的最終更新將在 2026 年 6 月 9 日推出。遊戲內容創作者們現在需要思考如何 <strong>重塑</strong> 自己的創作生涯和社群。這個消息對於他們來說是個 <strong>挑戰</strong>，但也可能是個 <strong>機會</strong>，讓他們去探索新的可能性。</p><h2>編輯悄悄話</h2><p>這個消息對於遊戲內容創作者來說是個 <strong>重大的轉折點</strong>。它讓我們思考 <strong>創作生涯的不確定性</strong>，以及如何 <strong>適應變化</strong>。對於 Datto 和其他直播主來說，Destiny 2 已經成為他們生活的一部分。現在，他們需要找到新的 <strong>方向</strong>，並繼續 <strong>創造</strong>。這個消息對於我們所有人來說都是個 <strong>警鐘</strong>，讓我們意識到需要 <strong>重視自己的創作生涯</strong>，並且 <strong>永遠保持創造力</strong>。</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/oQHLqWvr6d4DZRg47CUcpF-1920-80.jpg",
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/fps/shock-tears-and-relief-how-destiny-2s-most-popular-creators-reacted-to-the-end-of-the-legendary-shooter/",
+    "date": "2026-05-23"
+  }
+]
