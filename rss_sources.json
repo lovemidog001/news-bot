@@ -1,7 +1,4 @@
 [
-  // =========================
-  // 全球科技新聞
-  // =========================
   {
     "name": "TechCrunch",
     "url": "https://techcrunch.com/feed/"
@@ -46,10 +43,6 @@
     "name": "Phoronix",
     "url": "https://www.phoronix.com/rss.php"
   },
-
-  // =========================
-  // AI / LLM / Agent
-  // =========================
   {
     "name": "OpenAI Blog",
     "url": "https://openai.com/news/rss.xml"
@@ -106,10 +99,6 @@
     "name": "Perplexity Blog",
     "url": "https://www.perplexity.ai/blog/rss.xml"
   },
-
-  // =========================
-  // 開發者 / 軟體工程
-  // =========================
   {
     "name": "Hacker News",
     "url": "https://hnrss.org/frontpage"
@@ -162,10 +151,6 @@
     "name": "Reddit LocalLLaMA",
     "url": "https://www.reddit.com/r/LocalLLaMA/.rss"
   },
-
-  // =========================
-  // 資安
-  // =========================
   {
     "name": "Krebs on Security",
     "url": "https://krebsonsecurity.com/feed/"
@@ -178,10 +163,6 @@
     "name": "The Hacker News",
     "url": "https://feeds.feedburner.com/TheHackersNews"
   },
-
-  // =========================
-  // 遊戲媒體
-  // =========================
   {
     "name": "IGN",
     "url": "https://feeds.ign.com/ign/all"
@@ -219,9 +200,6 @@
     "url": "https://www.vg247.com/feed"
   },
 
-  // =========================
-  // Steam / PC / Indie
-  // =========================
   {
     "name": "SteamDB",
     "url": "https://steamdb.info/rss/free/"
@@ -234,10 +212,6 @@
     "name": "itch.io Blog",
     "url": "https://itch.io/feed"
   },
-
-  // =========================
-  // GameDev / 引擎
-  // =========================
   {
     "name": "Unity Blog",
     "url": "https://blog.unity.com/feed"
@@ -254,10 +228,6 @@
     "name": "Gamasutra / Game Developer",
     "url": "https://www.gamedeveloper.com/rss.xml"
   },
-
-  // =========================
-  // 中文科技圈
-  // =========================
   {
     "name": "iThome",
     "url": "https://www.ithome.com.tw/rss"
@@ -294,10 +264,6 @@
     "name": "癮科技",
     "url": "https://www.cool3c.com/rss"
   },
-
-  // =========================
-  // 日本 / 亞洲遊戲資訊
-  // =========================
   {
     "name": "Famitsu",
     "url": "https://www.famitsu.com/rss/famitsu/rss.xml"
@@ -306,10 +272,6 @@
     "name": "4Gamer Japan",
     "url": "https://www.4gamer.net/rss/index.xml"
   },
-
-  // =========================
-  // Open Source / Linux
-  // =========================
   {
     "name": "Linux Foundation",
     "url": "https://www.linuxfoundation.org/blog/rss.xml"
