@@ -7,7 +7,7 @@ import feedparser
 def fetch_aihot(max_items=5):
     """
     抓取 aihot.virxact.com 精選 AI 新聞
-    已有中文摘要，直接當作額外來源
+    失敗時回傳空列表，不影響主流程
     """
     try:
         headers = {"User-Agent": "Mozilla/5.0"}
@@ -16,15 +16,10 @@ def fetch_aihot(max_items=5):
         soup = BeautifulSoup(resp.text, "html.parser")
 
         articles = []
-
-        # 抓取每則新聞區塊
-        # aihot 的結構：每則新聞有標題連結和摘要
-        items = soup.find_all("a", href=True)
         seen = set()
 
-        for a in items:
+        for a in soup.find_all("a", href=True):
             href = a.get("href", "")
-            # 過濾外部新聞連結（非站內連結）
             if not href.startswith("http") or "aihot.virxact.com" in href:
                 continue
             if href in seen:
@@ -35,12 +30,10 @@ def fetch_aihot(max_items=5):
             if len(title) < 10:
                 continue
 
-            # 找同層的摘要文字
             parent = a.find_parent()
             summary = ""
             if parent:
-                text = parent.get_text(separator=" ", strip=True)
-                summary = text[:300]
+                summary = parent.get_text(separator=" ", strip=True)[:300]
 
             articles.append({
                 "title":   title,
@@ -53,11 +46,7 @@ def fetch_aihot(max_items=5):
                 break
 
         print(f"[AIHOT] 抓取 {len(articles)} 篇")
-        # ★ 加入 aihot 精選（最多 5 篇）
-    aihot_articles = fetch_aihot(5)
-    articles = aihot_articles + articles
-
-    return articles
+        return articles
 
     except Exception as e:
         print(f"[AIHOT] 抓取失敗: {e}")
@@ -66,37 +55,31 @@ def fetch_aihot(max_items=5):
 
 def fetch_rss():
 
-    with open(
-        "rss_sources.json",
-        "r",
-        encoding="utf-8"
-    ) as f:
-
+    with open("rss_sources.json", "r", encoding="utf-8") as f:
         sources = json.load(f)
 
     articles = []
 
+    # ★ 優先加入 aihot 精選
+    aihot_articles = fetch_aihot(5)
+    articles.extend(aihot_articles)
+
     for src in sources:
-
         try:
-
-            feed = feedparser.parse(
-                src["url"]
-            )
+            feed = feedparser.parse(src["url"])
 
             for entry in feed.entries[:1]:
-
                 articles.append({
-                    "title": entry.get("title", ""),
-                    "link": entry.get("link", ""),
+                    "title":   entry.get("title", ""),
+                    "link":    entry.get("link", ""),
                     "summary": entry.get("summary", ""),
-                    "source": src["name"]
+                    "source":  src["name"]
                 })
-            if len(articles) >= 15:
-                return articles
-                
-        except Exception as e:
 
+            if len(articles) >= 40:
+                break
+
+        except Exception as e:
             print(f"RSS Error: {e}")
 
     return articles
