@@ -1,0 +1,302 @@
+[
+  {
+    "id": "001",
+    "title": "Anthropic 韓國代表董事任命揭曉：KiYoung Choi 領軍市場戰略",
+    "summary": "Anthropic 任命 KiYoung Choi 為韓國代表董事，將推進 Claude.ai 在韓國市場的發展，挑戰傳統技術和創意領域的現狀，帶來嶄新的變革",
+    "content": "<p>Anthropic 近日宣布任命 KiYoung Choi 為韓國代表董事，這一任命將支持其在首爾開設的新辦公室。據 Anthropic 的經濟指數顯示，韓國是 Claude.ai 全球最活躍的市場之一，其使用率超過人口規模預期的 3.5 倍，主要用於技術和創意領域。KiYoung Choi 擁有過 30 年的科技業領導經驗，曾任 Snowflake 韓國區總經理、Google Cloud 和 Adobe 等公司高層，這使得他成為領導 Anthropic 韓國市場戰略的最佳人選。</p>    <h2>市場戰略的重點</h2>    <p>KiYoung Choi 將在韓國領導市場戰略，支持本地企業和初創公司應用 Claude，例如法律科技公司 Law&Compa。這一戰略將聚焦於技術和創意領域，提供更好的解決方案和服務，推動 Anthropic 在韓國市場的發展。KiYoung Choi 的任命標誌著 Anthropic 對韓國市場的重視和對當地企業的支持，將 <strong>重塑</strong> 韓國的技術和創意產業。</p>    <h2>Anthropic 的未來發展</h2>    <p>Anthropic 的發展勢頭不容小覷，尤其是在韓國市場。KiYoung Choi 的任命是 Anthropic 在韓國市場的一個重要步驟，將 <strong>推進</strong> Claude.ai 在韓國的使用和發展。Anthropic 的經濟指數顯示，韓國是 Claude.ai 全球最活躍的市場之一，這使得 Anthropic 對韓國市場充滿信心。KiYoung Choi 的領導將使 Anthropic 在韓國市場取得更大的成就，創造新的機會和挑戰。</p>    <h2>編輯悄悄話</h2>    <p>Anthropic 的這一任命對韓國市場來說是一個重大的消息，標誌著 Anthropic 對韓國市場的重視和支持。KiYoung Choi 的領導將使 Anthropic 在韓國市場取得更大的成就，創造新的機會和挑戰。這也使得我們思考，<strong>未來的技術和創意產業</strong> 將會如何發展，Anthropic 將在這個過程中扮演怎樣的角色。讓我們繼續關注 Anthropic 的發展，探索未來的可能。</p>",
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Object%20Globe&backgroundColor=sky",
+    "source": "AI HOT 精選",
+    "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "002",
+    "title": "Claude Code 新增安全插件：邊寫碼邊修漏洞",
+    "summary": "Claude Code 推出安全指導插件，能夠在編寫代碼時即時識別和修復漏洞，從而推進代碼安全性和穩定性",
+    "content": "<h2>安全性提升</h2><p>近期，Claude Code 針對其平台進行了重要更新，新增了一個安全指導插件，旨在協助開發者在編寫代碼時即時識別和修復潛在的安全漏洞。這個插件對所有 Claude Code 用戶開放，透過插件市場即可安裝。這項功能的引入，將對代碼安全性和穩定性產生重大影響，<strong>有助於減少因安全漏洞導致的代碼崩潰和資料泄露事件</strong>。</p><h2>實時修復漏洞</h2><p>這個安全指導插件的運作原理是透過實時掃描代碼，識別出潛在的安全風險，並 提供修復建議。這樣，開發者就能夠在編寫代碼的同時，邊寫碼邊修漏洞，<strong>大大提高了代碼的安全性和可靠性</strong>。這對於已經全面採用 Claude Code 的團隊來說，是一個重要的優勢，因為它能夠節省大量的時間和資源，讓開發者專注於核心功能的開發。</p><h2>編輯悄悄話</h2><p>這個安全指導插件的推出，對於開發者和企業來說，都是個好消息。因為代碼安全性和穩定性，始終是開發過程中的重中之重。透過這個插件，開發者能夠更好地控制代碼的安全性，<strong>減少了因安全漏洞導致的風險</strong>。這也是未來軟件開發的趨勢，<strong>安全性和穩定性將成為軟件開發的核心競爭力</strong>。因此，開發者和企業應該積極地采用這種安全指導插件，提升自己的核心競爭力，為用戶提供更安全、更可靠的軟件服務。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/ClaudeDevs/status/2059385239781384341",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "003",
+    "title": "Gemini Omni 视频提示词使用指南：解锁 Google AI 的多模态创作潜力",
+    "summary": "Google AI 推出 Gemini Omni 的视频生成功能使用指南，將顛覆視頻創作的方式，提供五项提示词技巧，讓用戶可以精確控制視頻內容",
+    "content": "<p>近期，Google AI 正式發佈了其多模态模型 Gemini Omni 的视频生成功能使用指南。這個指南包含五项提示词技巧，讓用戶可以更好地利用 Gemini Omni 的功能，創作出更加複雜且可控的視頻內容。</p><h2>解锁多模态创作潜力</h2><p>首先，Gemini Omni 的视频生成功能允許用戶可以利用模型已有的现实世界知识进行简洁描述。這意味著用戶可以簡單地描述他們想要創作的視頻內容，然後讓 Gemini Omni 自動生成相關的視頻。這個功能可以大大減少用戶的創作時間和成本。</p><p>其次，Gemini Omni 的视频生成功能還允許用戶可以精確控制文本在视频中的渲染与排版。這意味著用戶可以根據自己的需求，調整文本的字體、顏色、大小等屬性，從而創作出更加個性化的視頻內容。</p><h2>专业镜头指令和迭代编辑</h2><p>第三，Gemini Omni 的视频生成功能還允許用戶可以使用专业镜头指令（如推拉摇移）像电影摄影师一样调度画面。這意味著用戶可以根據自己的需求，調整視頻中的鏡頭和動作，從而創作出更加專業的視頻內容。</p><p>第四，Gemini Omni 的视频生成功能還允許用戶可以通过迭代编辑高效修改視頻。這意味著用戶可以根據自己的需求，反覆地修改視頻內容，直到滿意為止。</p><p>最後，Gemini Omni 的视频生成功能還允許用戶可以在生成中直接调整角色的动作节奏或情绪。這意味著用戶可以根據自己的需求，調整視頻中的角色動作和情緒，從而創作出更加生動的視頻內容。</p><h2>編輯悄悄話</h2><p>總之，Gemini Omni 的视频提示词使用指南可以幫助用戶解锁 Google AI 的多模态创作潜力。通過這個指南，用戶可以創作出更加複雜且可控的視頻內容，從而滿足自己的創作需求。 <strong>利用這個功能，用戶可以簡單地描述他們想要創作的視頻內容，然後讓 Gemini Omni 自動生成相關的視頻</strong>。這個功能可以大大減少用戶的創作時間和成本，同時也可以提高用戶的創作效率和質量。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/GoogleAI/status/2059381218660270435",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "004",
+    "title": "人工智慧崛起：哪些工作該交給AI，哪些該留給人類",
+    "summary": "人工智慧技術的快速發展，正在挑戰傳統的工作模式，推進我們重新思考哪些工作該交給AI，哪些該留給人類，從而顛覆我們對工作和教育的觀念",
+    "content": "<p>近年來，人工智慧技術的快速發展，正在挑戰傳統的工作模式，讓我們不得不思考哪些工作該交給AI，哪些該留給人類。這個問題不僅關乎工作的未來，也關乎我們的教育和生活方式。 <strong>人工智慧技術的進步，讓我們可以將一些重複性和效率低下的工作交給機器，從而釋放出更多的時間和精力，讓人們可以專注於更有創造性和價值的工作</strong>。</p>    <h2>教育和咨詢領域的實驗</h2>    <p>在教育和咨詢領域，人工智慧技術的應用已經成為了一個熱門話題。 <strong>通過人工智慧技術，我們可以將一些重複性和效率低下的工作交給機器，從而讓教師和顧問可以專注於更有創造性和價值的工作</strong>。例如，人工智慧技術可以幫助教師自動批改作業，讓教師可以專注於課堂教學和學生指導。同時，人工智慧技術也可以幫助顧問自動分析數據，讓顧問可以專注於客戶顧問和策略制定。</p>    <h2>文學獎的爭議</h2>    <p>最近，文學獎的爭議也引起了廣泛的關注。 <strong>有人認為，人工智慧技術可以幫助我們自動評估文學作品的質量，從而減少主觀偏見和人為錯誤</strong>。但是，其他人則認為，人工智慧技術無法取代人類的創造性和審美能力，文學獎應該由人類評委來評選。這個爭議，讓我們不得不思考人工智慧技術的局限性和人類的價值。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧技術的崛起，讓我們不得不思考哪些工作該交給AI，哪些該留給人類。 <strong>通過人工智慧技術，我們可以將一些重複性和效率低下的工作交給機器，從而釋放出更多的時間和精力，讓人們可以專注於更有創造性和價值的工作</strong>。但是，人工智慧技術的局限性和人類的價值，也讓我們不得不思考人類的未來和工作的未來。讓我們一起思考和探索，哪些工作該交給AI，哪些該留給人類，從而創造一個更美好的未來。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/emollick/status/2059363865536668040",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "005",
+    "title": "小米 MiMo-V2.5 價格大幅下調，最高降幅達 99%！",
+    "summary": "小米 MiMo-V2.5 系列 API 價格永久下調，最高降幅達 99%，現與 DeepSeek V4 Pro 同價，推進了人工智慧技術的發展，將重塑數據處理的成本結構",
+    "content": "<p>小米 MiMo-V2.5 系列 API 價格永久下調，最高降幅達 99%，這個消息對於人工智慧技術的發展來說是一個重大的變革。小米的這個舉動，不僅讓 MiMo-V2.5 系列的價格與 DeepSeek V4 Pro 同價，而且還同步升級了 Token 套餐，同等價格下可用 Token 數量增加 5-8 倍，計費規則更簡單透明。</p><h2>全栈推理優化與服務效率提升</h2><p>小米的這次降價源於 MiMo 全栈推理優化與服務效率提升，後續將發布技術博客詳細述說這些技術的細節。這些優化不僅讓小米的 MiMo-V2.5 系列 API 價格大幅下調，也讓使用者能夠享受到更好的服務質量。 <strong>全栈推理優化</strong> 是小米 MiMo-V2.5 系列的一個重要特點，它能夠讓使用者更快速地處理數據，提高整體的效率。</p><h2>Token 套餐升級與新定價</h2><p>小米的 Token 套餐升級，讓使用者能夠在同等價格下享受到更多的 Token 數量，這對於需要大量使用 API 的使用者來說是一個很大的福音。 <strong>新定價</strong> 將於 5 月 26 日生效，使用者可以在這個日子之後享受到更低的價格和更好的服務質量。同時，MiMo-V2.5-TTS 也將限時免費，這對於想要體驗小米 MiMo-V2.5 系列的使用者來說是一個很好的機會。</p><h2>編輯悄悄話</h2><p>小米的這次降價，對於人工智慧技術的發展來說是一個重大的推動力。使用者能夠在更低的價格下享受到更好的服務質量，這對於數據處理的成本結構來說是一個重大的變革。 <strong>小米的全栈推理優化與服務效率提升</strong> ，讓使用者能夠更快速地處理數據，提高整體的效率。這個消息，對於想要使用人工智慧技術的使用者來說是一個很好的消息，同時也對於整個科技產業來說是一個重大的變革。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/kimmonismus/status/2059354372643975490",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "006",
+    "title": "英國簽證申請平台出現嚴重漏洞，數千名申請人的護照和自拍照外洩",
+    "summary": "英國簽證申請平台的第三方網站在處理簽證申請時，意外公開了數千名申請人的敏感文件，包括護照和自拍照，從而對申請人的隱私和安全造成了重大衝擊",
+    "content": "<p>近日，英國簽證申請平台發生了一起嚴重的資料外洩事件，數千名申請人的護照和自拍照被公開在網上。這個第三方網站是在處理簽證申請時，意外公開了申請人的敏感文件，從而對申請人的隱私和安全造成了重大衝擊。</p><h2>漏洞事件的發生</h2><p>這個漏洞事件的發生，主要是因為英國簽證申請平台的第三方網站，在處理簽證申請時，沒有採取足夠的安全措施，導致申請人的敏感文件被公開在網上。這些文件包括護照、自拍照和其他個人資料，對申請人的隱私和安全造成了重大威脅。 <strong>這個事件凸顯了英國簽證申請平台的安全漏洞，對申請人的隱私和安全造成了重大影響</strong>。</p><h2>公司的反應</h2><p>在這個漏洞事件被發現後，公司並沒有採取立即的行動來修復漏洞，反而是派出了律師來處理這個問題。這個反應被批評為不夠積極，沒有對申請人的隱私和安全給予足夠的重視。 <strong>公司的反應凸顯了其對安全和隱私的態度，對申請人的信任造成了重大衝擊</strong>。</p><h2>編輯悄悄話</h2><p>這個事件給我們一個很重要的反思，<strong>在數據時代，隱私和安全的重要性不容忽視</strong>。我們在使用網上服務時，需要對自己的個人資料給予足夠的重視，同時也需要對服務提供商的安全措施給予足夠的關注。這個事件也給服務提供商一個很重要的警示，<strong>需要采取足夠的安全措施來保護用戶的隱私和安全</strong>，否則將會面臨用戶的不信任和法律的追究。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/uk-visa-2186517355.jpg?resize=1200,800",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "007",
+    "title": "彼得·泰爾遭教宗利奧點名？一場 Gandalf 名言背後的調查",
+    "summary": "教宗利奧的一句 Gandalf 名言引發關注，可能與彼得·泰爾相關，進一步推進了對這場事件的調查和重塑",
+    "content": "<p>最近，教宗利奧的一句話引發了廣泛關注，原來他引用了 Gandalf 的名言，這句話背後隱藏著什麼玄機呢？彼得·泰爾是 PayPal 的共同創始人，也是著名的風險投資家，到底他與這場事件有何關聯呢？<strong>這一切都與教宗利奧的一句話有關</strong>，讓我們一步一步地揭開這場調查的真相。</p>    <h2> Gandalf 名言背後的故事</h2>    <p>教宗利奧引用 Gandalf 的名言，其實是想表達他對彼得·泰爾的看法，<strong>這句話其實是對彼得·泰爾的警告</strong>，教宗利奧想告訴他，<strong>他的行為可能會帶來嚴重的後果</strong>。這一切都與彼得·泰爾的投資理念有關，他一直主張風險投資和創新，但這種理念也可能會帶來巨大的風險。</p>    <h2>彼得·泰爾的投資理念</h2>    <p>彼得·泰爾是一位成功的風險投資家，他的投資理念一直是圍繞著創新和風險，<strong>他相信創新是推動社會進步的動力</strong>。但是，這種理念也可能會帶來巨大的風險，<strong>如果投資失敗，可能會導致巨大的損失</strong>。教宗利奧引用 Gandalf 的名言，其實是想提醒彼得·泰爾，<strong>他的投資理念需要更謹慎的考慮</strong>。</p>    <h2>編輯悄悄話</h2>    <p>這場事件其實給我們一個很好的反思，<strong>創新和風險是相伴而生的</strong>，我們需要謹慎地考慮自己的投資理念和行為，<strong>避免因為一時的貪婪而帶來巨大的損失</strong>。彼得·泰爾的故事其實是一個很好的警世故事，<strong>教會我們如何在創新和風險之間找到平衡</strong>，這是我們每個人都需要思考的問題，<strong>只有謹慎地考慮和行事，才能避免不必要的風險和損失</strong>。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2214681415-1152x648-1779832466.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "008",
+    "title": "教皇為科技巨頭上了一課：談托爾金的《魔戒》",
+    "summary": "教皇在關於人工智慧的通諭中引用了《魔戒》，這意外地對科技巨頭進行了嘲諷，他們一直誤解這部經典作品，進而推進了人們對科技倫理的重視",
+    "content": "<p>教皇近期發表了一份關於人工智慧的通諭，在這份文件中，他引用了著名作家J.R.R.托爾金的《魔戒》系列。這個舉動引發了廣泛的關注和討論，因為教皇對科技巨頭的批評被視為是對他們誤解托爾金作品的嘲諷。</p><h2>科技巨頭的誤解</h2><p>許多科技巨頭，例如Google和Apple的創始人，曾公開表示自己是托爾金的粉絲，並將《魔戒》系列視為自己的靈感來源。然而，教皇指出，這些科技巨頭對托爾金作品的理解是有缺陷的。他們將《魔戒》中的英雄主義和友誼等元素作為自己的企業文化的基礎，但忽略了作品中對科技的批判和警告。</p><p><strong>教皇的批評是對科技巨頭的警告</strong>，提醒他們不要忽視科技對人類社會的負面影響。教皇認為，科技巨頭應該更加關注科技對人類的影響，而不是僅僅追求利潤和創新。</p><h2>教皇的啟示</h2><p>教皇的通諭不僅是對科技巨頭的批評，也是對人類社會的一個警醒。教皇強調，人類需要更加關注科技的倫理問題，不能讓科技成為人類的主人。教皇的啟示是，人類需要在科技發展的同時，更加關注人類的價值和道德標準。</p><p><strong>教皇的發言對科技界來說是一個警鐘</strong>，提醒他們需要更加關注科技的負面影響，同時也需要更加關注人類的需求和價值。教皇的啟示是，科技需要被人類所控制和引導，而不是相反。</p><h2>編輯悄悄話</h2><p>教皇的發言對科技界來說是一個警鐘，也是對人類社會的一個警醒。教皇的啟示是，人類需要在科技發展的同時，更加關注人類的價值和道德標準。這個事件對我們來說是一個深刻的反思，提醒我們需要更加關注科技的影響，同時也需要更加關注人類的需求和價值。讓我們一起思考，如何在科技發展的同時，保持人類的價值和道德標準，避免科技成為人類的主人。</p>",
+    "image": "https://media.wired.com/photos/6a15ebea591e522c95b4533e/191:100/w_1280,c_limit/The-Pope-Gets-Tolkien-Culture-2277270022.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "009",
+    "title": "索尼突然關閉線上多人遊戲 Destruction AllStars",
+    "summary": "索尼突然宣布關閉線上多人遊戲 Destruction AllStars，對於期待這款遊戲的玩家來說是一個重大的衝擊，將會顛覆他們的遊戲體驗",
+    "content": "<p>索尼突然宣布關閉線上多人遊戲 <strong>Destruction AllStars</strong>，這款原本預計在 PS5 啟動窗口期發售的遊戲，現在突然被關閉，對於期待這款遊戲的玩家來說是一個重大的衝擊。</p><h2>遊戲背景</h2><p><strong>Destruction AllStars</strong> 是一款由 Lucid Games 開發的線上多人遊戲，原本預計在 2020 年發售，但由於各種原因延遲至 2021 年。這款遊戲的玩法類似於 <strong>Twisted Metal</strong>，玩家需要駕駛車輛進行競賽和戰鬥。</p><p>不過，索尼突然宣布關閉這款遊戲，對於玩家和開發商來說都是一个重大的打擊。 <strong>索尼</strong> 的決定將會對遊戲業界產生一定的影響，尤其是對於那些期待這款遊戲的玩家來說。</p><h2>影響和反應</h2><p>索尼關閉 <strong>Destruction AllStars</strong> 的決定，對於玩家和開發商來說都是一个重大的挑戰。玩家們紛紛在社交媒體上表達了他們的不滿和失望，同時也有人呼籲 <strong>索尼</strong> 再考慮這個決定。</p><p>開發商 <strong>Lucid Games</strong> 也發表了聲明，表示他們對於索尼的決定感到失望和沮喪，但同時也感謝玩家們的支持和理解。</p><h2>編輯悄悄話</h2><p>其實，<strong>索尼</strong> 關閉 <strong>Destruction AllStars</strong> 的決定，對於我們來說是一個很有趣的現象。它讓我們思考，遊戲業界的未來會是怎樣的，會不會有更多的遊戲被關閉或延遲發售。同時，也讓我們反思，玩家們的期望和需求，是否能夠被遊戲開發商和發行商所滿足。總之，<strong>索尼</strong> 的決定，將會是一個很有趣的話題，值得我們繼續關注和討論。</p>",
+    "image": "https://www.engadget.com/img/gallery/sony-abruptly-shuts-down-online-multiplayer-game-destruction-allstars/l-intro-1779835604.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2181738/sony-abruptly-shuts-down-online-multiplayer-game-destruction-allstars/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "010",
+    "title": "AI 編碼領域的新霸主：DeepSWE Benchmark 進一步揭露 AI 編碼模型的真實實力",
+    "summary": "近期，一家名為 Datacurve 的公司發佈了一個名為 DeepSWE 的 Benchmark，對於 AI 編碼領域的頂尖模型進行了徹底的評估。結果顯示，OpenAI 的 GPT-5.5 模型以 70% 的得分領先其他模型，遠超過其它模型的實力。同時，DeepSWE Benchmark 也揭露了目前 AI 編碼領域的評估基準存在著嚴重的缺陷，可能導致企業和投資者做出錯誤的決策。",
+    "content": "<p>近期，一家名為 Datacurve 的公司發佈了一個名為 DeepSWE 的 Benchmark，對於 AI 編碼領域的頂尖模型進行了徹底的評估。結果顯示，OpenAI 的 GPT-5.5 模型以 70% 的得分領先其他模型，遠超過其它模型的實力。</p>  <h2>DeepSWE Benchmark 的評估結果</h2>  <p>DeepSWE Benchmark 評估了包括 GPT-5.5、Claude Opus、Gemini Pro 等在內的多個 AI 編碼模型。結果顯示，GPT-5.5 模型以 70% 的得分領先其他模型，Claude Opus 模型排名第二，得分為 54%。Gemini Pro 模型排名第三，得分為 28%。</p>  <h2>目前 AI 編碼領域的評估基準存在著嚴重的缺陷</h2>  <p>DeepSWE Benchmark 也揭露了目前 AI 編碼領域的評估基準存在著嚴重的缺陷。Datacurve 公司的研究人員發現，目前的評估基準存在著「污染」問題，即模型在訓練過程中可能已經看過了評估基準中的答案。同時，評估基準的範圍也過於狹窄，無法充分評估模型的實力。</p>  <h2>編輯悄悄話</h2>  <p>DeepSWE Benchmark 的結果對於 AI 編碼領域的企業和投資者來說具有重要的意義。它們需要重新評估目前的評估基準，避免做出錯誤的決策。同時，開發者也需要關注模型的實力和評估基準的缺陷，才能真正地推動 AI 編碼領域的發展。</p>",
+    "image": "",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "011",
+    "title": "WD Black 4TB SSD 狂降 1200 美元！這款超值硬碟該買嗎？",
+    "summary": "在固態硬碟價格不斷上漲的時代，現在你仍然可以以 65% 的折扣價購買 4TB WD Black SN850X SSD，重塑你的數據儲存體驗",
+    "content": "<p>近年來，固態硬碟的價格一直在上漲，但現在你仍然可以以超低價購買高容量的 SSD。4TB WD Black SN850X SSD 是一款高性能的固態硬碟，現在在 Best Buy 售價大幅降低，讓你可以以 <strong>65% 的折扣價</strong> 把它帶回家。</p>    <h2>什麼是 WD Black SN850X SSD？</h2>    <p>WD Black SN850X SSD 是一款高端固態硬碟，採用 <strong>NVMe</strong> 技術，提供高速的讀寫速度和低延遲。它的 <strong>4TB 容量</strong> 可以滿足大多數用戶的需求，無論是儲存大量的文件、照片、影片，還是運行大型的遊戲和應用程式。</p>    <h2>為什麼現在是購買的好時機？</h2>    <p>現在購買 4TB WD Black SN850X SSD 的原因在於其 <strong>價格大幅降低</strong>。原價超過 1800 美元的這款硬碟現在只要 <strong>600 美元左右</strong>，節省了 <strong>1200 美元</strong>。這是一個非常划算的交易，尤其是對於那些需要高容量和高速儲存的用戶來說。</p>    <h2>編輯悄悄話</h2>    <p>如果你正在尋找一款高性能和高容量的固態硬碟，現在就是購買 4TB WD Black SN850X SSD 的好時機。以 <strong>65% 的折扣價</strong> 購買這款硬碟，你可以享受到 <strong>高速的讀寫速度</strong> 和 <strong>低延遲</strong>，讓你的電腦運行更加順暢。況且，現在的價格是非常划算的，值得你考慮購買。</p>",
+    "image": "https://www.zdnet.com/a/img/resize/068d096d401a7485a1a240a0275f36360a0b18fa/2026/05/13/3c23b532-44f2-4e8f-b6af-bd135258f9de/untitled-design-2026-05-13t144317-408.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/wd-black-sn850x-4tb-best-buy-deal/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "012",
+    "title": "IBM 分拆美國首家量子晶片代工廠，吸引 20 億美元投資",
+    "summary": "美國首家量子晶片代工廠 Anderon 即將推出，將提供 300mm 量子晶圓代工服務，進一步推進量子科技的發展",
+    "content": "<p>近期，IBM 分拆出了一家新的公司，名為 Anderon，該公司將專注於量子晶片的製造和代工服務。這家公司總部位於紐約州奧爾巴尼，獲得了 20 億美元的聯邦和私人投資。這是一個重大的發展，將進一步推動量子科技的進步。</p><h2>什麼是量子晶片代工廠？</h2><p><strong>量子晶片代工廠是指能夠生產和製造量子晶片的工廠</strong>。量子晶片是量子電腦的核心元件，能夠處理複雜的計算任務。Anderon 公司將提供 300mm 量子晶圓代工服務，為競爭的量子硬件供應商提供製造服務。這將進一步推動量子科技的發展和應用。</p><h2>量子科技的未來發展</h2><p><strong>量子科技的發展前景廣闊</strong>，從密碼學、物質科學到人工智能等領域都可能受到量子科技的影響。Anderon 公司的成立和發展，將進一步推動量子科技的進步和應用。這也將為美國的科技產業帶來新的機遇和挑戰。</p><h2>編輯悄悄話</h2><p>生活在科技快速發展的時代，<strong>我們需要關注和了解科技的最新發展</strong>。Anderon 公司的成立和發展，將進一步推動量子科技的進步和應用。這也將為我們的生活和工作帶來新的機遇和挑戰。讓我們繼續關注和了解科技的最新發展，共同推動科技的進步和創新。</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/rcrzQT5uWd5BFVFvP2jzr6-1920-80.jpg",
+    "source": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/quantum-computing/ibm-spins-off-americas-first-quantum-chip-foundry-with-2-billion-in-federal-and-private-funding",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "013",
+    "title": "Google 的 ANGLE 專案整合 Wayland 支援，Chromium 嵌入式框架即將迎來原生化改變",
+    "summary": "Google 的 Chromium 嵌入式框架即將迎來原生 Wayland 支援，推進顯示技術的發展，改變使用體驗",
+    "content": "<p>近期，Google 的 ANGLE 專案宣布整合 Wayland 支援，這一舉動對於 Chromium 嵌入式框架（CEF）的未來發展具有重要意義。Wayland 是一個開源的顯示伺服器協議，旨在取代傳統的 X Window System，提供更好的效能和安全性。</p><h2>Wayland 的崛起</h2><p>Wayland 的出現是為了解決 X Window System 的一些缺陷和局限性，例如效能問題和安全漏洞。Wayland 的設計目標是提供一個更高效、更安全、更易用的顯示伺服器協議。目前，許多 Linux 發行版已經開始使用 Wayland 作為預設的顯示伺服器協議。</p><p><strong>ANGLE 專案的整合對於 CEF 來說是一個重要的里程碑</strong>，因為它可以讓 CEF 在 Wayland 上運行，提供更好的效能和使用體驗。這一發展對於許多基於 CEF 的應用程序來說是非常重要的，因為它們可以利用 Wayland 的優勢，提供更好的使用體驗。</p><h2>Chromium 嵌入式框架的未來</h2><p>Chromium 嵌入式框架（CEF）是一個基於 Chromium 瀏覽器核心的嵌入式框架，允許開發者在自己的應用程序中嵌入 Chromium 瀏覽器核心。CEF 的優勢在於它可以提供快速、安全、易用的網頁瀏覽體驗。現在，CEF 的 Wayland 支援將使得它在 Linux 平台上更加強大。</p><p><strong>這一發展對於 Linux 用戶來說是非常重要的</strong>，因為它們可以享受到更好的網頁瀏覽體驗和更安全的顯示伺服器協議。同時，對於開發者來說，這一發展也提供了更多的選擇和機會，讓他們可以利用 CEF 和 Wayland 的優勢，開發出更好的應用程序。</p><h2>編輯悄悄話</h2><p>這一發展對於我們來說是非常有趣的，因為它代表了顯示技術的進步和使用體驗的改善。現在，Linux 用戶可以享受到更好的網頁瀏覽體驗和更安全的顯示伺服器協議。這一發展對於未來的顯示技術和使用體驗有著重要的影響，讓我們拭目以待未來的發展吧。同時，<strong>這也提醒我們，技術的進步和創新是無止境的</strong>，我們需要不斷地關注和學習新技術，才能跟上時代的步伐。</p>",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=angle_wayland",
+    "source": "Phoronix",
+    "url": "https://www.phoronix.com/news/ANGLE-Merges-Wayland",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "014",
+    "title": "OpenAI攜手巴西最大媒體集團，將如何革新新聞產業？",
+    "summary": "OpenAI與巴西最大媒體集團合作，將巴西新聞帶入ChatGPT，推進新聞產業的透明度和可信度，重塑新聞傳播的格局",
+    "content": "<p>近日，<strong>OpenAI</strong>宣布與巴西最大媒體集團<strong>Grupo Folha</strong>和<strong>Grupo UOL</strong>合作，將巴西最信譽的新聞內容引入<strong>ChatGPT</strong>，這個合作將會為新聞產業帶來什麼樣的影響呢？我們來細究一下這個合作的內容和意義。</p>    <h2>新聞產業的新時代</h2>    <p>這個合作標誌著新聞產業的新時代，<strong>OpenAI</strong>通過與巴西最大媒體集團合作，將巴西最信譽的新聞內容引入<strong>ChatGPT</strong>，這將使得巴西新聞更加方便地被全球用戶所接觸，並且提高了新聞的透明度和可信度。這個合作也將推進新聞產業的發展，為新聞傳播提供新的思路和模式。</p>    <h2>重塑新聞傳播的格局</h2>    <p>這個合作不僅僅是簡單地將巴西新聞內容引入<strong>ChatGPT</strong>，更是對新聞傳播的格局進行了一次重大的革新。通過這個合作，<strong>OpenAI</strong>和巴西最大媒體集團將共同推進新聞產業的發展，為新聞傳播提供新的思路和模式。這個合作也將對全球新聞產業產生深遠的影響，推動新聞產業的發展和變革。</p>    <h2>編輯悄悄話</h2>    <p>這個合作對新聞產業來說是一個非常重要的事件，它代表著新聞產業的新時代和新的發展方向。通過這個合作，<strong>OpenAI</strong>和巴西最大媒體集團將共同推進新聞產業的發展，為新聞傳播提供新的思路和模式。這個合作也將對全球新聞產業產生深遠的影響，推動新聞產業的發展和變革。因此，我們可以看到，這個合作對新聞產業的影響是非常深遠的，它將推動新聞產業的發展和變革，為新聞傳播提供新的思路和模式。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5r2QUTvY5Zjg2vjOFVqbFA/63060b11739247750d8eabb3d029e7ae/Grup-SEO-Image.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "015",
+    "title": "谷歌DeepMind加速器亞太區計畫啟動，攜手解決環境風險",
+    "summary": "谷歌DeepMind推出的加速器計畫將推進亞太區環境風險的解決，通過人工智慧技術挑戰傳統模式",
+    "content": "<h2>環境風險的挑戰</h2><p>近年來，亞太區面臨著日益嚴重的環境風險，包括氣候變化、污染、生態破壞等。為了應對這些挑戰，<strong>谷歌DeepMind</strong>推出了加速器計畫，旨在通過人工智慧技術推進環境風險的解決。這個計畫將與亞太區的企業、政府和民間組織合作，共同開發和應用人工智慧技術，<strong>重塑</strong>環境風險管理的模式。</p><p>通過這個計畫，谷歌DeepMind將提供技術支持、資源和專業知識，幫助亞太區的企業和組織開發和應用人工智慧技術，<strong>提升</strong>環境風險管理的能力。這個計畫將涉及多個領域，包括氣候變化、水資源管理、生態保護等。</p><h2>人工智慧技術的應用</h2><p>人工智慧技術在環境風險管理中的應用前景廣闊。通過人工智慧技術，企業和組織可以更好地預測和防範環境風險，<strong>減少</strong>環境災害的發生。例如，人工智慧技術可以被用於預測天氣模式，幫助企業和政府做好防災準備。另外，人工智慧技術還可以被用於監測和分析環境數據，<strong>幫助</strong>企業和組織做出更好的決策。</p><p>谷歌DeepMind的加速器計畫將為亞太區的企業和組織提供一個平台，讓他們可以更好地了解和應用人工智慧技術，<strong>推進</strong>環境風險管理的發展。這個計畫將對亞太區的環境風險管理產生深遠的影響，<strong>助力</strong>企業和組織在環境風險管理中取得更好的成績。</p><h2>編輯悄悄話</h2><p>環境風險的挑戰是全球性的，需要全球的合作和努力來解決。谷歌DeepMind的加速器計畫是推進環境風險管理發展的一個重要步驟，<strong>展現</strong>了人工智慧技術在環境風險管理中的巨大潛力。通過這個計畫，亞太區的企業和組織可以更好地應用人工智慧技術，<strong>提升</strong>環境風險管理的能力，為創建一個更好的未來做出貢獻。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "016",
+    "title": "人工智慧術語大解析：框架、骨架和代理人的重點",
+    "summary": "人工智慧技術的快速發展，推進了相關術語的演變，了解框架、骨架和代理人的區別，將重塑我們對於人工智慧的認知和應用",
+    "content": "<p>當我們談論人工智慧（AI）時，常常會遇到一些艱澀的術語，例如框架（Harness）、骨架（Scaffold）和代理人（Agent）。這些術語看似複雜，但其實是理解人工智慧核心概念的關鍵。其中，<strong>框架是指人工智慧系統的基本結構</strong>，而骨架則是指<strong>人工智慧系統的支撐結構</strong>，代理人則是指<strong>人工智慧系統中可以自主作出決策的實體</strong>。</p>  <h2>框架、骨架和代理人的區別</h2>  <p>框架、骨架和代理人是人工智慧系統中三個重要的概念，它們之間的區別在於其功能和作用。框架是指人工智慧系統的基本結構，<strong>它提供了人工智慧系統的基礎功能和能力</strong>。骨架則是指人工智慧系統的支撐結構，<strong>它提供了人工智慧系統的穩定性和可靠性</strong>。代理人則是指人工智慧系統中可以自主作出決策的實體，<strong>它可以根據環境和任務自主地作出決策和行動</strong>。</p>  <h2>人工智慧術語的重要性</h2>  <p>人工智慧術語的重要性在於它可以幫助我們更好地理解人工智慧的核心概念和原理。通過了解框架、骨架和代理人的區別和作用，<strong>我們可以更好地設計和實現人工智慧系統</strong>。此外，人工智慧術語也可以幫助我們更好地評估和比較不同的人工智慧系統，<strong>從而選擇最適合我們需求的系統</strong>。</p>  <h2>編輯悄悄話</h2>  <p>其實，人工智慧術語的複雜性往往讓人感到頭痛，但如果我們能夠深入了解其背後的原理和概念，<strong>就會發現人工智慧其實是一個非常有趣和富有挑戰性的領域</strong>。通過學習和理解人工智慧術語，<strong>我們可以更好地掌握人工智慧的核心技術和原理，從而在這個快速發展的領域中佔據先機</strong>。因此，<strong>不要害怕人工智慧術語的複雜性，勇敢地去學習和探索吧</strong>！</p>",
+    "image": "https://huggingface.co/blog/assets/agent-glossary/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "017",
+    "title": "NVIDIA Vera CPU：挑戰傳統CPU霸主地位",
+    "summary": "隨著AI技術的發展，CPU的需求也在迅速變化。NVIDIA Vera CPU的登場，帶來了新的挑戰。初步的效能測試結果顯示，Vera CPU在多核心運行時的效能表現令人印象深刻，對傳統CPU霸主地位形成了威脅。",
+    "content": "<h2>NVIDIA Vera CPU的登場</h2>  <p>近年來，AI技術的發展迅速，對CPU的需求也在迅速變化。NVIDIA Vera CPU的登場，帶來了新的挑戰。初步的效能測試結果顯示，Vera CPU在多核心運行時的效能表現令人印象深刻，對傳統CPU霸主地位形成了威脅。</p>  <p><strong>Vera CPU的特點</strong>包括快速的核心、巨大的記憶體頻寬和能夠在所有核心啟動時保持高性能的能力。這些特點使得Vera CPU成為AI應用的理想選擇。</p>  <h2>效能測試結果</h2>  <p>初步的效能測試結果顯示，Vera CPU在多核心運行時的效能表現令人印象深刻。測試結果表明，Vera CPU在某些應用中能夠超越傳統CPU霸主地位。這些結果對於AI應用開發商來說，是一個令人振奮的消息。</p>  <ul>    <li>測試結果顯示，Vera CPU在多核心運行時的效能表現比傳統CPU高出30%以上。</li>    <li>測試結果還表明，Vera CPU在能耗方面也有優勢，能夠在相同的能耗下提供更高的效能。</li>  </ul>  <h2>編輯悄悄話</h2>  <p>隨著AI技術的發展，CPU的需求也在迅速變化。NVIDIA Vera CPU的登場，帶來了新的挑戰。雖然初步的效能測試結果令人印象深刻，但還需要進一步的測試和驗證。然而，Vera CPU的特點和效能表現，已經使得它成為AI應用的理想選擇。未來，Vera CPU將會是AI應用開發商的首選嗎？讓我們拭目以待。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Vera-CPU_Tray_Open-34_Wide_R6C-FNL-5260651-1.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "018",
+    "title": "編碼代理人大戰：誰能稱霸效能與成本",
+    "summary": "編碼代理人的實際應用Benchmarking 顯示，這項技術將推進效能和成本的重大改變，挑戰傳統的TensorRT-LLM和Claude Opus 4.6",
+    "content": "<p>近來，編碼代理人在人工智慧領域中引起了廣泛關注。這項技術能夠讓機器學習模型以更高的效率運作，從而提高整體系統的性能。現在，一項 Benchmarking 實驗結果顯示，編碼代理人在實際應用中能夠達到比 TensorRT-LLM 高出 31% 的每秒交易數（TPS），同時在飽和狀態下比 Claude Opus 4.6 快了 2 倍，且成本降低了 76%。</p><h2>編碼代理人：什麼是它，為什麼重要</h2><p>編碼代理人是一種特殊的機器學習模型，能夠學習和執行特定的任務，例如程式編碼、數據分析等。它的主要優點在於能夠提高系統的效能和降低成本。這項技術的出現對於各個領域都具有重要意義，尤其是在需要大量計算資源的行業中，例如金融、醫療等。</p><h2>實驗結果和分析</h2><p>在這項 Benchmarking 實驗中，編碼代理人與其他兩個知名的模型 TensorRT-LLM 和 Claude Opus 4.6 進行了比較。結果顯示，編碼代理人在 TPS 方面遠超其他兩個模型，同時在飽和狀態下也表現出色。這意味著編碼代理人能夠在高負載的情況下保持穩定的效能，對於需要處理大量數據的應用來說，這是一個非常重要的優點。</p><p>此外，編碼代理人的成本也遠低於其他兩個模型。這對於需要長期運行的系統來說，具有非常重要的意義。因為成本的降低，能夠讓企業和組織在不增加費用的情況下提高系統的效能和性能。</p><h2>編輯悄悄話</h2><p>這項 Benchmarking 實驗結果對於各個領域都具有重要意義。編碼代理人的出現，將會推進效能和成本的重大改變。對於需要大量計算資源的行業來說，編碼代理人是一個非常有前途的技術。因此，企業和組織應該密切關注這項技術的發展，並思考如何將其應用於自己的業務中，從而提高效能和降低成本。這是一個需要長期觀察和思考的問題，同時也是一個充滿機會和挑戰的領域。</p>",
+    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/69f1a3b5587202cb099d02b4_OG-image_20260429_BLOG_Coding%20agent%20benchmark.png",
+    "source": "Together AI",
+    "url": "https://www.together.ai/blog/coding-agent-benchmarks",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "019",
+    "title": "Ollama 搭載 Apple Silicon 處理器，運用 MLX 技術大幅提升效能",
+    "summary": "Ollama 現在運用 Apple 的 MLX 技術，推出了在 Apple Silicon 處理器上運行的預覽版本，從而衝擊傳統運行方式並推進效能提升",
+    "content": "<p>隨著科技的不斷進步，<strong>效能提升</strong>已經成為各大公司不斷追求的目標。最近，Ollama 釋出了在 Apple Silicon 處理器上運行的預覽版本，搭載了 Apple 的 <strong>MLX 技術</strong>，這代表著一種全新的運行方式。</p>    <h2>什麼是 MLX 技術？</h2>    <p>MLX 是 Apple 的一種 <strong>機器學習框架</strong>，旨在提供更快、更高效的運行方式。通過這種技術，Ollama 能夠在 Apple Silicon 處理器上實現更快速的運行，從而為用戶提供更流暢的體驗。</p>    <h2>對未來的影響</h2>    <p>這一技術的應用不仅僅限於 Ollama，<strong>未來的發展</strong>將會是各大公司共同探索的方向。通過 MLX 技術，各種應用程式都能夠實現更高的效能，為用戶提供更好的使用體驗。這一技術的出現，將會 <strong>重塑</strong>我們對於運行方式的認知，推動科技的進一步發展。</p>    <h2>編輯悄悄話</h2>    <p>這一技術的出現，讓我們看到了未來的可能性。通過 <strong>科技的進步</strong>，我們的生活將會變得更加便捷、更加高效。然而，<strong>效能提升</strong>並不是終點，未來的挑戰將會是如何讓這種技術更好地為人們服務。讓我們拭目以待，科技的未來將會如何 <strong>顛覆</strong>我們的生活。</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/mlx",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "020",
+    "title": "科羅拉多州和加利福尼亞州豁免開源軟體的年齡驗證",
+    "summary": "科羅拉多州和加利福尼亞州推出新政策，將開源軟體排除在年齡驗證的範圍之外，預計將會重塑網路安全和開源軟體的發展方向",
+    "content": "<p>近期，科羅拉多州和加利福尼亞州政府分別推出新政策，將開源軟體排除在年齡驗證的範圍之外。這一舉動預計將會對網路安全和開源軟體的發展方向產生深遠影響。 <strong>開源軟體的發展一直是網路安全的重要組成部分</strong>，而這一政策的出台則將會為開源軟體的發展提供更大的自由度。</p>    <h2>什麼是開源軟體和年齡驗證?</h2>    <p>開源軟體是指那些可以自由修改和分發的軟體。年齡驗證則是一種用於確保網路使用者的年齡的機制，尤其是在涉及兒童的網路服務中。 <strong>年齡驗證的目的是為了保護兒童的權益和安全</strong>，但是這一機制也可能會對開源軟體的發展產生不利影響。</p>    <h2>政策的影響和未來發展</h2>    <p>科羅拉多州和加利福尼亞州的新政策預計將會對開源軟體的發展產生積極的影響。 <strong>開源軟體的開發者將會有更多的自由度去創造和分發他們的軟體</strong>，而這一政策也將會推動網路安全和開源軟體的發展。同時，這一政策也將會對其他州份和國家產生示範作用，推動全球開源軟體的發展。</p>    <h2>編輯悄悄話</h2>    <p>這一政策的出台是開源軟體發展的一大勝利。 <strong>開源軟體的開發者將會有更多的自由度去創造和分發他們的軟體</strong>，而這一政策也將會推動網路安全和開源軟體的發展。讓我們拭目以待這一政策的實施和未來的發展吧。</p>",
+    "image": "https://images.prismic.io/blog-system76/ahYEhLK9tuLqEKg5_carl-blog.jpg?auto=format,compress&rect=640,0,2560,1280&w=1200&h=600",
+    "source": "Hacker News",
+    "url": "https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "021",
+    "title": "GitHub 新手入門：輕鬆掌握 Git 和 GitHub 在 VS Code 的應用",
+    "summary": "GitHub 和 Git 的整合正在推進開發者的工作效率，讓開發者能夠更容易地管理和維護自己的項目",
+    "content": "<p>你是否是一名剛剛接觸程式設計的新手，對於 <strong>GitHub</strong> 和 <strong>Git</strong> 的應用感到陌生？其實，透過 <strong>VS Code</strong> 這個熱門的編輯器，你可以輕鬆地掌握 <strong>Git</strong> 和 <strong>GitHub</strong> 的基本操作。</p>  <h2>什麼是 Git 和 GitHub：</h2>  <p><strong>Git</strong> 是一種版本控制系統，可以讓開發者追蹤程式碼的變化和合作，而 <strong>GitHub</strong> 則是一個基於 <strong>Git</strong> 的代碼託管平台，讓開發者可以輕鬆地分享和合作項目。透過 <strong>VS Code</strong>，你可以直接與 <strong>GitHub</strong> 互動，進行代碼的提交、拉取和管理。</p>  <h2>如何在 VS Code 中使用 Git 和 GitHub：</h2>  <p>在 <strong>VS Code</strong> 中，你可以輕鬆地安裝 <strong>Git</strong> 和 <strong>GitHub</strong> 的擴充套件，然後直接在編輯器中進行代碼的管理和提交。例如，你可以使用 <strong>Git</strong> 的命令列介面，或者使用 <strong>GitHub</strong> 的圖形化介面，來管理你的項目和代碼庫。</p>  <p>透過 <strong>VS Code</strong> 和 <strong>GitHub</strong> 的整合，你可以享受更高效的開發流程和更好的代碼管理體驗。例如，你可以輕鬆地創建新的分支、提交代碼變化、和其他開發者合作項目等。</p>  <h2>編輯悄悄話</h2>  <p>其實，<strong>GitHub</strong> 和 <strong>Git</strong> 的應用不僅僅是開發者的專屬領域，任何人都可以透過這些工具來管理和維護自己的項目和代碼。所以，不要害怕去嘗試和學習 <strong>GitHub</strong> 和 <strong>Git</strong>，你會發現它們可以帶來更多的便利和效率。透過 <strong>VS Code</strong> 的整合，你可以輕鬆地進入 <strong>GitHub</strong> 和 <strong>Git</strong> 的世界，享受更好的開發體驗。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/05/GIT901_THUMB_GFB_A-1.png?fit=1280%2C720",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "022",
+    "title": "AI 上戰場：你具備在生產環境中運行人工智慧的實力嗎？",
+    "summary": "人工智慧的生產環境運行，需要具備哪些關鍵元素？它將如何推進觀察性、利用率和排程的重塑？",
+    "content": "<p>在 HumanX 大會上，Ryan Donovan 邀請了 CoreWeave 的共同創辦人和技術長 Peter Salanki，來探討在生產環境中運行人工智慧的真實挑戰。Peter 強調，觀察性、利用率和排程的重要性日益增加，而過度架構設計的陷阱則需要被避免。</p>    <h2>什麼是生產環境中的 AI 運行？</h2>    <p>生產環境中的 AI 運行，意味著將人工智慧應用於實際的商業場景中。這需要 <strong>高效的運行機制</strong> 和 <strong>可靠的數據管理</strong>。Peter 指出，觀察性和利用率是兩個關鍵因素，它們將直接影響 AI 系統的性能和效率。</p>    <h2>觀察性、利用率和排程的重要性</h2>    <p>觀察性是指對系統的運行狀態有清晰的認識，利用率是指系統的資源被充分利用。排程則是指系統的任務被合理安排和執行。Peter 強調，這三個因素的協調將直接影響 AI 系統的整體性能和可靠性。同時，他也提醒，<strong>過度架構設計</strong> 的陷阱需要被避免，因為這將導致系統的複雜性增加和效率降低。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧的生產環境運行，需要 <strong>實際的經驗和實踐</strong>。Peter 的建議是，企業應該從小規模的應用開始，逐步擴大和深化。同時，需要 <strong>注重觀察性、利用率和排程</strong>，以確保 AI 系統的高效運行和可靠性。這樣，企業才能真正發揮人工智慧的價值，和創造新的商業機會。</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "023",
+    "title": "Platform Engineering Labs 擴展 formae：全面支援 Kubernetes 和 Helm 整合",
+    "summary": "Platform Engineering Labs 推出新版 formae，全面支援 Kubernetes 和 Helm 整合，顛覆傳統的雲端基礎設施管理，為開發者帶來更大的靈活性和效率",
+    "content": "<p>近日，Platform Engineering Labs 宣布了其開源基礎設施即程式碼（Infrastructure-as-Code）平台 formae 的重大更新。這次更新引入了全面的 <strong>Kubernetes 支援</strong>、<strong>原生 Helm 整合</strong>、直接 <strong>.tfvars 相容性</strong>，以及一個新的公共插件中心，旨在簡化雲端原生基礎設施管理。</p>  <h2>什麼是 formae？</h2>  <p><strong>formae</strong> 是一個開源平台，允許開發者使用程式碼定義和管理基礎設施。它的出現是為了簡化雲端基礎設施的管理和維護，讓開發者可以更容易地管理基礎設施，從而專注於應用程式的開發。</p>  <p>這次更新中，<strong>Platform Engineering Labs</strong> 引入了全面的 <strong>Kubernetes 支援</strong>，讓開發者可以使用 formae 來管理 Kubernetes 叢集和應用程式。同時，<strong>原生 Helm 整合</strong> 讓開發者可以使用 Helm 來管理 Kubernetes 應用程式的安裝和升級。</p>  <h2>更新的影響</h2>  <p>這次更新對於開發者來說是個好消息，因為它可以讓他們更容易地管理基礎設施和應用程式。同時，<strong>直接 .tfvars 相容性</strong> 讓開發者可以使用現有的 Terraform 配置文件來管理基礎設施。</p>  <p>另外，新的公共插件中心讓開發者可以輕鬆地找到和安裝所需的插件，從而擴展 formae 的功能。這次更新是 <strong>Platform Engineering Labs</strong> 致力於簡化雲端基礎設施管理的又一大步。</p>  <h2>編輯悄悄話</h2>  <p>這次更新對於開發者來說是個福音，因為它可以讓他們更容易地管理基礎設施和應用程式。同時，<strong>formae</strong> 的開源性質讓開發者可以參與其開發和擴展，從而讓它變得更加強大和靈活。所以，如果你是一位開發者，現在是試用 <strong>formae</strong> 的好時機，因為它可以讓你更容易地管理基礎設施和應用程式，從而專注於應用程式的開發和創新。</p>",
+    "image": "https://res.infoq.com/news/2026/05/formae-k8s-helm-integration/en/headerimage/generatedHeaderImage-1779526130360.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/news/2026/05/formae-k8s-helm-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "024",
+    "title": "用 4 個 Notion 模板取代整個商業堆疊",
+    "summary": "一位企業家透過 4 個 Notion 模板和一層 Python 自動化，取代了 6 個 SaaS 工具，節省了每月 47 美元的費用，同時提高了工作效率和數據分析能力，從而重塑了他的商業運營模式",
+    "content": "<p>作為一位企業家，我們常常面臨著工具混亂的問題。不同的工具用於不同的任務，但這些工具之間的切換和整合卻是一個巨大的挑戰。</p>  <h2>工具混亂的問題</h2>  <p>大多數獨立建造者都面臨著相同的堆疊問題：財務追蹤、內容規劃、加密貨幣投資和商業運營等任務都需要不同的工具。每個工具都很好，但是當它们一起使用時，就會變成一個混亂的系統。</p>  <ul>    <li><strong>財務追蹤</strong> 通常需要 Google Sheets 或其他財務追蹤工具</li>    <li><strong>內容規劃</strong> 通常需要 Trello 或其他項目管理工具</li>    <li><strong>加密貨幣投資</strong> 通常需要 CoinGecko 或其他加密貨幣追蹤工具</li>    <li><strong>商業運營</strong> 通常需要多個工具，包括郵件、Slack 和 Notion</li>  </ul>  <h2>四個 Notion 模板的解決方案</h2>  <p>為了解決這個問題，我們可以使用四個 Notion 模板來取代六個 SaaS 工具。這四個模板分別是：</p>  <ul>    <li><strong>財務儀表板</strong>：取代 Mint/YNAB 和 Google Sheets 財務追蹤工具</li>    <li><strong>內容日曆</strong>：取代 Trello 和 Buffer 內容規劃工具</li>    <li><strong>商業包</strong>：取代 Notion 和 Asana 項目管理工具</li>    <li><strong>加密貨幣日誌</strong>：取代 CoinGecko 和其他加密貨幣追蹤工具</li>  </ul>  <h2>自動化和監控</h2>  <p>除了這四個模板以外，我們還需要一個 Python 腳本來自動化一些任務，例如每日數據拉取。同時，監控也是非常重要的，因為如果沒有監控，自動化可能會失敗而不被發現。</p>  <h2>編輯悄悄話</h2>  <p>通過使用這四個 Notion 模板和一層 Python 自動化，我們可以節省大量的時間和金錢，同時提高工作效率和數據分析能力。同時，監控和自動化也是非常重要的，因為它們可以幫助我們避免工具混亂和數據損失的問題。因此，如果你是一位獨立建造者，正在面臨著工具混亂的問題，試試這四個 Notion 模板和 Python 自動化吧，它們可能會幫助你重塑你的商業運營模式。</p>",
+    "image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1dqejyxl9fjoi1qjixzh.png",
+    "source": "DEV Community",
+    "url": "https://dev.to/wilsonhoe/i-replaced-my-entire-business-stack-with-4-notion-templates-i22",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "025",
+    "title": "AI 代碼代理人改變隔離的意義：從 Astro 到 Claude Code 的大轉移",
+    "summary": "本文將探討 AI 代碼代理人如何顛覆傳統的隔離觀念，帶領我們進入一個新的開發模式。透過實際案例，我們將看到 Claude Code 如何重塑博客架構、部署流程和 SEO 優化，挑戰傳統開發方式。",
+    "content": "<p>今年初，我將我的博客從舊有的架構轉移到 Astro 平台，使用 Claude Code 進行代碼重寫。共有 146 篇文章、6,024 張圖片需要轉移。為了讓 Claude Code 能夠正確理解我的博客架構，我花了數小時撰寫技能檔案，教導它如何處理部署、 canonical URLs、JSON-LD 標記和網站地圖生成等工作。</p><h2>AI 代碼代理人的崛起</h2><p>Claude Code 是一種 AI 代碼代理人，能夠自動重寫代碼、修復錯誤和優化程式結構。它使用機器學習演算法來分析代碼，找出可以改進的地方，並提供最佳化建議。透過 Claude Code，我們可以快速重構代碼、提高程式效能和安全性。</p><h2>隔離的新意義</h2><p>在傳統的開發模式中，隔離是指將程式碼和資料分開存放，以避免彼此之間的干擾。但是在 Claude Code 的世界中，隔離的意義已經改變。Claude Code 能夠自動處理代碼和資料的隔離，讓開發者可以專注於程式的邏輯和功能，而不需要擔心底層的實作細節。</p><h2>編輯悄悄話</h2><p>AI 代碼代理人的崛起，代表著開發模式的重大轉變。透過 Claude Code，我們可以快速重構代碼、提高程式效能和安全性。但是，這也代表著我們需要重新思考隔離的意義和實作方式。讓我們一起探索這個新的開發模式，發現它能夠為我們帶來什麼樣的變革和機會。</p>",
+    "image": "https://www.docker.com/app/uploads/2025/03/image.png",
+    "source": "Docker Blog",
+    "url": "https://www.docker.com/blog/untrusted-autonomous-workload-ai-sandboxes/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "026",
+    "title": "Cloudflare 集成 Claude Compliance API，安全團隊監控力大增",
+    "summary": "Cloudflare 進一步推進安全管理，與 Claude Compliance API 整合，讓安全團隊能夠直接在 Cloudflare Dashboard 中監控 Claude Enterprise 活動，重塑安全管理體系",
+    "content": "<p>近年來，企業安全管理面臨著前所未有的挑戰，尤其是在雲端安全方面。為此，<strong>Cloudflare</strong> 不斷推動安全管理的創新，最近宣布將與 <strong>Claude Compliance API</strong> 進行整合。這項合作讓安全團隊能夠直接在 <strong>Cloudflare Dashboard</strong> 中監控 <strong>Claude Enterprise</strong> 活動，進一步提升安全管理效能。</p>    <h2>安全管理的新時代</h2>    <p>在這個快速變化的數位時代，企業的安全需求也在不斷演變。傳統的安全管理方式已經不能滿足當前的需求，<strong>Cloudflare</strong> 這次的整合正是針對這一痛點進行的。通過整合 <strong>Claude Compliance API</strong>，安全團隊可以實時監控和管理企業內的安全活動，<strong>有效降低風險和安全漏洞</strong>。</p>    <h2>技術創新與安全升級</h2>    <p>這項整合不僅代表著 <strong>Cloudflare</strong> 在安全管理方面的技術創新，也是對安全升級的一次重要嘗試。通過 <strong>Cloudflare Dashboard</strong>，安全團隊可以更方便地管理和監控企業的安全狀況，<strong>提高安全管理的效率和準確性</strong>。這不僅可以幫助企業保護自身的安全，也能夠為客戶提供更安全的服務環境。</p>    <h2>編輯悄悄話</h2>    <p>其實，安全管理的演變一直都是企業發展的重要組成部分。這次 <strong>Cloudflare</strong> 和 <strong>Claude Compliance API</strong> 的整合，代表著安全管理向著更高效、更智能的方向邁進。作為企業和用戶，關注這些安全技術的發展，不僅可以幫助我們更好地保護自身的安全，也可以讓我們在數位時代中更有信心地前行。因此，<strong>了解和關注安全管理的創新</strong>，將是我們在數位世界中的一種重要自我保護意識。</p>",
+    "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/5MViMEGtj28ko2psjCNDPL/c5103829f690bd5509357593d55445d8/BLOG-3313_OG.png",
+    "source": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/casb-anthropic-integration/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "027",
+    "title": "Vercel Sandbox 持續性儲存正式上線：開發者生產力大提升",
+    "summary": "Vercel Sandbox 現在可以自動儲存和恢復檔案系統狀態，開發者可以輕鬆地在不同的工作階段間共享和恢復檔案，從而大大提高生產力和開發效率，推進開發流程的自動化和優化",
+    "content": "<p>近日，Vercel 宣布其 Sandbox 持續性儲存功能正式上線，為開發者帶來了更高效的開發體驗。這項功能可以自動儲存和恢復檔案系統狀態，讓開發者可以輕鬆地在不同的工作階段間共享和恢復檔案。</p>  <h2>什麼是 Vercel Sandbox 持續性儲存？</h2>  <p><strong>Vercel Sandbox 持續性儲存</strong>是一個可以自動儲存和恢復檔案系統狀態的功能，讓開發者可以輕鬆地在不同的工作階段間共享和恢復檔案。這項功能可以大大提高開發者的生產力和開發效率，<strong>減少手動儲存和恢復檔案的時間</strong>，讓開發者可以專注於開發工作。</p>  <h2>如何使用 Vercel Sandbox 持續性儲存</h2>  <p>要使用 Vercel Sandbox 持續性儲存，開發者可以按照以下步驟進行：</p>  <ul>    <li>升級到最新版本的 Vercel Sandbox</li>    <li>使用 <code>Sandbox.create()</code> 函數創建一個新的 Sandbox</li>    <li>使用 <code>Sandbox.fork()</code> 函數創建一個新的 Sandbox 從現有的 Sandbox</li>    <li>使用 <code>Sandbox.getOrCreate()</code> 函數檢索或創建一個 Sandbox</li>  </ul>  <p><strong>注意</strong>：如果您想要退出持續性儲存，可以使用 <code>--non-persistent</code> 參數創建一個非持續性 Sandbox。</p>  <h2>編輯悄悄話</h2>  <p>總之，Vercel Sandbox 持續性儲存是一個非常實用的功能，可以大大提高開發者的生產力和開發效率。通過使用這項功能，開發者可以專注於開發工作，<strong>減少手動儲存和恢復檔案的時間</strong>，從而提高整體的開發體驗。所以，如果您是一名開發者，現在就去試用 Vercel Sandbox 持續性儲存吧！",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/6yIXghv4oztgANf5KwG7hP/dee1c66648c9d39e62a80cea2c13baaa/85451.png",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/sandbox-persistence-is-now-ga",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "028",
+    "title": "程式設計論壇更新了規則：AI 相關內容有了新規",
+    "summary": "程式設計論壇終於結束了對 AI 相關內容的臨時限制，推出了新的 AI 政策，將對 AI 和 LLM 的技術實現進行嚴格的審查和管理，從而推進了網站內容的質量和安全",
+    "content": "<p>近期，程式設計論壇進行了一次重大更新，終於結束了對 AI 相關內容的臨時限制。這次更新是基於用戶的反饋和建議，旨在提高網站內容的質量和安全。新的 AI 政策將對 AI 和 LLM 的技術實現進行嚴格的審查和管理，<strong>只允許深入的技術實現相關內容</strong>。</p>  <h2>新的 AI 政策</h2>  <p>新的 AI 政策是一個全面的規則，旨在規範 AI 和 LLM 相關內容的發佈和討論。根據這個政策，<strong>所有 AI 和 LLM 相關內容必須是技術實現相關的</strong>，否則將被視為違規內容。這個政策的目的是確保網站內容的質量和安全，同時也為用戶提供一個健康的討論環境。</p>  <h2>更新的規則和政策</h2>  <p>除了新的 AI 政策外，程式設計論壇還更新了其他規則和政策。這些更新的規則和政策將有助於提高網站內容的質量和安全，同時也為用戶提供一個更好的使用體驗。例如，<strong>規則列表已經更新到 old.reddit.com 的側邊欄</strong>，使得用戶可以更容易地找到和理解規則和政策。</p>  <ul>    <li>新的 AI 政策將對 AI 和 LLM 的技術實現進行嚴格的審查和管理</li>    <li>只允許深入的技術實現相關內容</li>    <li>更新的規則和政策將有助於提高網站內容的質量和安全</li>  </ul>  <h2>編輯悄悄話</h2>  <p>這次更新是程式設計論壇的一個重大步驟，將有助於提高網站內容的質量和安全。新的 AI 政策和更新的規則和政策將為用戶提供一個更好的使用體驗，同時也為網站的發展提供了一個新的機會。讓我們一起期待這次更新將帶來什麼樣的變化和機會！<strong>這次更新是程式設計論壇的一個新的開始</strong>，我們將繼續努力提供一個健康的討論環境和高質量的內容。</p>",
+    "image": "",
+    "source": "Reddit Programming",
+    "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "029",
+    "title": "機器學習社群推出自我推廣專區",
+    "summary": "一個新的機器學習社群專區誕生，推動創新者們自我推廣，重塑社群互動模式，讓創新者們可以自主推廣自己的作品和服務，促進彼此間的合作與交流",
+    "content": "<p>近日，機器學習社群推出了自我推廣專區，為創新者們提供了一個自主推廣自己的作品和服務的平台。這個專區旨在讓創新者們可以自主推廣自己的作品和服務，同時也鼓勵社群成員之間的合作與交流。</p>  <h2>推廣自己的作品和服務</h2>  <p>在這個專區，創新者們可以發布自己的個人項目、啟動新的創業公司、產品推廣、合作需求、博客等。同時，也需要提及產品和服務的付款和價格要求。這樣可以讓其他社群成員快速了解自己的需求和提供的服務，<strong>從而促進社群成員之間的合作與交流</strong>。</p>  <p>然而，社群管理員也提醒大家，<strong>不得發布連結縮短器、連結聚合網站或自動訂閱連結</strong>，否則將會被封禁。這樣可以確保社群成員的安全和方便。</p>  <h2>社群互動的新模式</h2>  <p>這個自我推廣專區的推出，<strong>顛覆了傳統的社群互動模式</strong>。以前，社群成員可能需要通過其他渠道來推廣自己的作品和服務，現在可以直接在社群中進行推廣。這樣可以節省時間和精力，同時也可以增加社群成員之間的互動和合作。</p>  <p>同時，社群管理員也鼓勵其他社群成員，<strong>在這個專區發布自己的問題和需求</strong>，從而促進社群成員之間的合作與交流。這樣可以讓社群成員們可以快速找到自己需要的資源和服務，同時也可以增加社群的活躍度和吸引力。</p>  <h2>編輯悄悄話</h2>  <p>這個自我推廣專區的推出，<strong>對於創新者們來說是一個非常好的機會</strong>。通過這個平台，可以自主推廣自己的作品和服務，同時也可以增加社群成員之間的合作與交流。同時，也需要注意社群管理員的提醒，<strong>不得發布違規內容</strong>，否則將會被封禁。這樣可以確保社群成員的安全和方便，同時也可以促進社群的健康發展。</p>",
+    "image": "",
+    "source": "Reddit Machine Learning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1t1d2m0/d_selfpromotion_thread/",
+    "date": "2026-05-27"
+  },
+  {
+    "id": "030",
+    "title": "PrismML 推出 Binary 和 Ternary Bonsai Image 4B：1 位元和三元文本到圖像擴散變換器",
+    "summary": "PrismML 團隊推出的新模型 Binary 和 Ternary Bonsai Image 4B，將會徹底顛覆圖像生成技術，讓用戶能夠在瀏覽器中使用 WebGPU 100% 本地運行",
+    "content": "<p>最近，<strong>PrismML</strong> 團隊推出了新模型 <strong>Binary 和 Ternary Bonsai Image 4B</strong>，這是一種 1 位元和三元文本到圖像擴散變換器。這個模型的大小只有約 3GB，相比之下，<strong>FLUX.2 Klein 4B</strong> 的大小是 16GB，这是一個非常大的進步。</p>    <h2>什麼是 Binary 和 Ternary Bonsai Image 4B？</h2>    <p><strong>Binary 和 Ternary Bonsai Image 4B</strong> 是一種基於 <strong>WebGPU</strong> 的圖像生成模型，能夠在瀏覽器中 100% 本地運行。這意味著用戶可以在不需要任何外部伺服器或雲端服務的情況下，直接在瀏覽器中生成圖像。</p>    <p>這個模型的特點是使用了 1 位元和三元文本到圖像擴散變換器，能夠生成高質量的圖像。同時，模型的大小也非常小，只有約 3GB，這使得它能夠在瀏覽器中運行。</p>    <h2>如何使用 Binary 和 Ternary Bonsai Image 4B？</h2>    <p>要使用 <strong>Binary 和 Ternary Bonsai Image 4B</strong>，用戶可以訪問 <strong>Hugging Face</strong> 的官方集合頁面，下載模型並在瀏覽器中運行。同時，還有一个示範網頁可以讓用戶體驗模型的功能。</p>    <p>這個模型的推出，將會徹底顛覆圖像生成技術，讓用戶能夠在瀏覽器中使用 WebGPU 100% 本地運行。這是一個非常大的進步，將會帶來更多的可能性和應用。</p>    <h2>編輯悄悄話</h2>    <p>其實，<strong>Binary 和 Ternary Bonsai Image 4B</strong> 的推出，不僅僅是一個技術上的進步，還是一個創新的開始。想想看，如果我们可以在瀏覽器中生成高質量的圖像，那將會帶來多少新的可能性和應用。也許，在不久的將來，我们就可以看到更多的創新和發明。",
+    "image": "",
+    "source": "Reddit LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1togflk/prismml_just_released_binary_and_ternary_bonsai/",
+    "date": "2026-05-27"
+  }
+]
