@@ -508,5 +508,95 @@
     "source": "IGN",
     "url": "https://www.ign.com/articles/best-shrek-merch-to-buy-today",
     "date": "2026-05-29"
+  },
+  {
+    "id": "052",
+    "title": "PyTorch 性能分析大揭秘：torch.profiler 教你找出模型瓶頸",
+    "summary": "torch.profiler 推進 PyTorch 模型性能分析，重塑模型訓練與推理過程，挑戰傳統的效能優化方法",
+    "content": "<p>你是否曾經為了提升模型的訓練速度而苦惱？<strong>torch.profiler</strong> 是 PyTorch 中的一個強大工具，能夠幫助你找出模型的性能瓶頸。這篇文章是系列教程的第一部分，專門為初學者設計，講解如何使用 <strong>torch.profiler</strong> 來分析模型訓練與推理過程的性能。</p>  <h2>什麼是 torch.profiler？</h2>  <p><strong>torch.profiler</strong>是一個 PyTorch 中的性能分析工具，能夠幫助你找出模型的性能瓶頸。它可以分析模型的訓練與推理過程，提供詳細的性能數據，讓你能夠優化模型的性能。</p>  <p>使用 <strong>torch.profiler</strong> 的優點在於它可以提供非常詳細的性能數據，包括模型的執行時間、記憶體使用量等。這些數據可以幫助你找出模型的性能瓶頸，從而優化模型的性能。</p>  <h2>如何使用 torch.profiler</h2>  <p>使用 <strong>torch.profiler</strong> 非常簡單。首先，你需要安裝 PyTorch 和 <strong>torch.profiler</strong>。然後，你可以使用 <strong>torch.profiler</strong> 來分析你的模型的性能。</p>  <p>你可以使用以下代碼來啟動 <strong>torch.profiler</strong>：<code>with torch.profiler.profile() as prof:</code>。然後，你可以使用 <strong>prof.key_averages()</strong> 來查看模型的性能數據。</p>  <h2>編輯悄悄話</h2>  <p>使用 <strong>torch.profiler</strong> 可以幫助你找出模型的性能瓶頸，從而優化模型的性能。這是一個非常實用的工具，能夠幫助你提升模型的訓練速度和效能。所以，如果你正在使用 PyTorch 進行模型訓練，<strong>torch.profiler</strong> 是一個非常值得使用的工具。 </p>",
+    "image": "https://huggingface.co/blog/assets/torch-profiler/thumbnail.png",
+    "source": "AI HOT 精選",
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "053",
+    "title": "中國大力推動人工智慧普及，四部門聯合發布提升全民數字素養行動方案",
+    "summary": "中國政府推出提升全民人工智慧素養的行動方案，將推進人工智慧教育、人才培育和普及應用，從而重塑數字時代的技能和知識結構",
+    "content": "<p>中國政府近日發布了《2026年提升全民數字素養與技能工作要點》，由中央網信辦等四部門聯合發布。這份文件明確提出要<strong>提升全民人工智慧素養</strong>，並將這項任務列為六項重點任務之一。這是中國政府在政策層面上對人工智慧普及的最明確信號，為相關教育、培訓和應用提供了方向。</p>  <h2>人工智慧教育的重點任務</h2>  <p>文件中提到，要<strong>強化人工智慧赋能教育</strong>，這意味著中國政府將在教育領域上大力推動人工智慧的應用和普及。同時，也將<strong>加快人工智慧人才培育</strong>，為未來的人工智慧產業提供充足的人才支持。這兩項任務的實施，將對中國的教育和人才培養產生深遠影響。</p>  <h2>推動人工智慧的普及應用</h2>  <p>文件中還提到，要<strong>深化人工智慧普及應用</strong>，這意味著中國政府將在各個領域推動人工智慧的應用，讓更多的人能夠享受到人工智慧帶來的便利和效率提升。同時，文件中也強調了數字資源供給、應用場景建設、普惠包容發展、安全有序網絡空間以及協同聯動機制等其他重點任務的重要性。</p>  <h2>編輯悄悄話</h2>  <p>中國政府大力推動人工智慧普及，對於中國的教育、科技和經濟發展都將產生深遠影響。這項政策不僅能夠提升全民的數字素養，也能夠推動中國的人工智慧產業發展。同時，對於相關的教育、培訓和應用提供了方向，對於中國的未來發展具有重要的指導意義。因此，相關的企業和個人可以把這份文件當作導航，共同推動中國的人工智慧普及和產業發展。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://www.ithome.com/0/957/319.htm",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "054",
+    "title": "Claude Code 的秘密配置：解鎖隱藏功能",
+    "summary": "Claude Code 的可配置選項被發掘出來，顛覆了我們對其功能的認知，為使用者帶來了新的可能",
+    "content": "<p>如果你是一位 <strong>Claude Code</strong> 的使用者，可能會對其功能感到滿意，但你知道嗎？還有很多隱藏的配置選項可以讓你更好地使用這個工具。最近，一篇文章揭露了 <strong>Claude Code</strong> 的源碼中未被提及的所有可配置選項，讓使用者們感到驚喜。</p><h2>什麼是 Claude Code？</h2><p><strong>Claude Code</strong> 是一個由 <strong>Anthropic</strong> 開發的 AI 工具，旨在幫助使用者創建和管理代碼。但是，官方文檔中並沒有提及到所有的配置選項，讓使用者們感到困惑。最近的發現，讓我們可以更好地了解 <strong>Claude Code</strong> 的功能和潛力。</p><h2>隱藏的配置選項</h2><p>從源碼中扒出的隱藏配置清單，讓使用者們可以擺脫默認模式，發現更多的可能性。這些選項包括 <strong>模型版本</strong>、<strong>參數</strong>、<strong>性能</strong>、<strong>價格</strong> 和 <strong>功能</strong> 等。這些選項可以讓使用者們更好地控制 <strong>Claude Code</strong> 的行為，提高工作效率。</p><h2>編輯悄悄話</h2><p>如果你是一位 <strong>Claude Code</strong> 的使用者，現在是時候來探索這些隱藏的配置選項了。不要再被默認模式限制住，發現更多的可能性，讓你的工作更加高效。這個發現，讓我們看到 <strong>Claude Code</strong> 的潛力，同時也提醒我們，還有很多東西需要被探索和發現。所以，現在就開始你的探索之旅吧，發現 <strong>Claude Code</strong> 的秘密配置，解鎖你的工作效率。</p>",
+    "image": "https://substackcdn.com/image/fetch/$s_!uQxS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fde864c42-7eee-46ec-af2d-c111064bc767_1920x1035.png",
+    "source": "AI HOT 精選",
+    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "055",
+    "title": "OpenAI 推出 Rosalind Biodefense，增强社会韧性",
+    "summary": "OpenAI 推出 Rosalind Biodefense，將前沿 AI 技術應用於生物防御、公共卫生和大流行病准备，推動社會韧性重塑",
+    "content": "<p>近期，<strong>OpenAI</strong> 推出了一款名為 <strong>Rosalind Biodefense</strong> 的新產品，旨在為通過審核的開發者和美國政府夥伴提供 <strong>GPT-Rosalind</strong> 的可信訪問。這款產品的推出，標誌著前沿 AI 技術在生物防御、公共卫生和大流行病准备方面的應用邁出了重要的一步。</p>  <h2>什麼是 Rosalind Biodefense？</h2>  <p><strong>Rosalind Biodefense</strong> 是一款基於 <strong>OpenAI</strong> 的 <strong>GPT</strong> 技術的生物防御平台。該平台旨在為開發者和研究人員提供一個安全、可靠的環境，讓他們可以使用 <strong>AI</strong> 技術來開發新的生物防御解決方案。通過 <strong>Rosalind Biodefense</strong>，開發者可以訪問 <strong>GPT-Rosalind</strong> 的能力，從而可以更快地開發出有效的生物防御策略。</p>  <h2> Rosalind Biodefense 的意義</h2>  <p><strong>Rosalind Biodefense</strong> 的推出，對於增強社會韧性具有重要意義。通過應用 <strong>AI</strong> 技術，該平台可以幫助開發者和研究人員更快速地開發出新的生物防御解決方案，從而可以更好地應對公共卫生和大流行病的挑戰。同時，<strong>Rosalind Biodefense</strong> 也可以幫助減少生物防御的成本和風險，從而可以讓更多的資源用於其他重要的公共卫生領域。</p>  <h2>編輯悄悄話</h2>  <p>生活在當今世界，公共卫生和大流行病的挑戰是不可避免的。然而，通過 <strong>OpenAI</strong> 的 <strong>Rosalind Biodefense</strong>，我們可以看到 <strong>AI</strong> 技術在生物防御方面的巨大潛力。雖然 <strong>Rosalind Biodefense</strong> 目前只對通過審核的開發者和美國政府夥伴開放，但其推出的意義是不可低估的。未來，<strong>AI</strong> 技術將會在生物防御和公共卫生領域中發揮更加重要的作用，讓我們一起期待這個美好的未來吧。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4G9yT6eLqfff8i0BP7GP3m/f6fd8c7e07934e3815a0c83239233f3f/16x9.png?w=1600&h=900&fit=fill",
+    "source": "AI HOT 精選",
+    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "056",
+    "title": "小米開源 ControlFoley：讓聲音「按你想要的來」",
+    "summary": "小米大模型應用團隊推出開源可控視頻音效生成模型 ControlFoley，統一支持文本引導視頻配音、文本控制視頻配音和參考音頻控制視頻配音三類任務，將音效生成從「看畫面配聲音」推進到「按意圖來」",
+    "content": "<p>你是否曾經想過，如何讓視頻中的聲音「按你想要的來」？小米大模型應用團隊最近發佈的開源可控視頻音效生成模型 <strong>ControlFoley</strong> 正是為了解決這個難題。這個模型可以統一支持文本引導視頻配音、文本控制視頻配音和參考音頻控制視頻配音三類任務，讓聲音生成從「看畫面配聲音」推進到「按意圖來」。</p><h2>ControlFoley 的工作原理</h2><p><strong>ControlFoley</strong> 的工作原理是基於深度學習技術，使用多模態融合的方法來生成視頻音效。這個模型可以接收文本、圖像和音頻等多種輸入，然後生成相應的視頻音效。這樣，使用者可以根據自己的需求，生成出符合自己意圖的視頻音效。</p><p>例如，你可以輸入一段文字，然後 <strong>ControlFoley</strong> 就會生成出相應的視頻音效。如果你想要生成一段特定的音效，例如雨聲或海浪聲，你可以輸入相關的文字描述，然後 <strong>ControlFoley</strong> 就會生成出相應的音效。</p><h2>ControlFoley 的優勢</h2><p><strong>ControlFoley</strong> 的優勢在於其高效、靈活和可控性。使用這個模型，使用者可以快速生成出高品質的視頻音效，無需大量的音效資料庫和複雜的音效編輯軟件。另外，<strong>ControlFoley</strong> 的開源性質，也使得開發者可以根據自己的需求，修改和擴展這個模型。</p><p>小米開源 <strong>ControlFoley</strong> 的目的是為了推進多模態開源生態的發展，讓更多的開發者和使用者可以享受到這個模型的優勢。同時，<strong>ControlFoley</strong> 的發佈，也對於視頻音效生成技術的發展具有重要的意義。</p><h2>編輯悄悄話</h2><p>其實，<strong>ControlFoley</strong> 的出現，不僅僅是視頻音效生成技術的一個進步，也是人工智慧技術在多模態領域的一個重要應用。隨著人工智慧技術的不斷發展，我們可以預見，未來會有更多的創新技術和應用出現。所以，讓我們拭目以待，看到 <strong>ControlFoley</strong> 和其他創新技術為我們帶來的驚喜吧。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://www.ithome.com/0/957/282.htm",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "057",
+    "title": "最後24小時！搶救TechCrunch Disrupt 2026門票，最高可省410美元！",
+    "summary": "TechCrunch Disrupt 2026門票即將調漲！你還有最後24小時可以搶救早鳥優惠，最高可省410美元！這場全球科技盛會將於10月舉行，吸引超過10,000名科技領袖參與。趕快註冊，別錯過這個機會！",
+    "content": "<h2>搶救最後機會！TechCrunch Disrupt 2026門票即將調漲</h2><p>如果你還沒有註冊TechCrunch Disrupt 2026，那麼你現在還有最後24小時可以搶救早鳥優惠！這場全球科技盛會將於10月舉行，吸引超過10,000名科技領袖參與。註冊門票現在可以享受最高410美元的優惠，但這個優惠只剩下最後24小時了！</p><p><strong>什麼是TechCrunch Disrupt 2026？</strong> 這是一場全球性的科技盛會，將於10月舉行，吸引超過10,000名科技領袖參與。這場盛會將聚焦於最新的科技趨勢和創新，包括人工智能、區塊鏈、5G網絡等。</p><h2>為什麼你不能錯過這個機會？</h2><p>如果你是科技業的從業人員，或者你對科技趨勢感興趣，那麼你絕不能錯過這個機會！TechCrunch Disrupt 2026將為你提供一個與全球科技領袖交流和學習的機會。同時，你還可以享受早鳥優惠，最高可省410美元！</p><p><strong>如何註冊？</strong> 註冊門票非常簡單，你只需要點擊TechCrunch Disrupt 2026官方網站的註冊鏈接，填寫註冊表格，然後支付門票費用即可。別忘了，早鳥優惠只剩下最後24小時了！</p><h2>編輯悄悄話</h2><p>如果你還沒有註冊TechCrunch Disrupt 2026，那麼你現在還有最後24小時可以搶救早鳥優惠！這是一個不容錯過的機會，趕快註冊吧！</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "058",
+    "title": "法拉利首款電動車設計大失敗",
+    "summary": "法拉利的首款電動車設計大失敗，將會顛覆其在豪華車市場的領導地位，並推進電動車技術的發展",
+    "content": "<p>法拉利是一個充滿神話的品牌，幾乎80年來，它的車輛一直是人們心目中的夢想，無論是對於那些買得起的人，還是那些買不起的人。然而，法拉利的首款電動車設計大失敗，讓人們開始質疑其在豪華車市場的領導地位。</p>    <h2>電動車設計的挑戰</h2>    <p>電動車的設計是一個充滿挑戰的領域，需要考慮到許多因素，包括 <strong>電池壽命</strong>、<strong>動力系統</strong>、<strong>安全性</strong> 等。法拉利的首款電動車設計大失敗，可能是因為其沒有充分考慮到這些因素，從而導致了車輛的性能和安全性不佳。</p>    <p>法拉利的首款電動車設計大失敗，也可能是因為其沒有充分了解電動車市場的需求和趨勢。電動車市場是一個快速發展的領域，需要車輛製造商能夠快速適應和創新。法拉利的首款電動車設計大失敗，可能是因為其沒有充分了解電動車市場的需求和趨勢，從而導致了車輛的設計不符合市場的需求。</p>    <h2>豪華車市場的變化</h2>    <p>豪華車市場是一個競爭激烈的領域，需要車輛製造商能夠提供高質量的車輛和服務。法拉利的首款電動車設計大失敗，可能會導致其在豪華車市場的領導地位受到挑戰。其他豪華車製造商，例如 <strong>保時捷</strong> 和 <strong>賓利</strong>，可能會趁機推出自己的電動車設計，從而挑戰法拉利的領導地位。</p>    <p>豪華車市場的變化，也可能會推動電動車技術的發展。電動車是一種環保和節能的車輛，需要車輛製造商能夠提供高質量的電動車設計和技術。法拉利的首款電動車設計大失敗，可能會推動電動車技術的發展，從而帶來更好的電動車設計和技術。</p>    <h2>編輯悄悄話</h2>    <p>法拉利的首款電動車設計大失敗，讓人們開始質疑其在豪華車市場的領導地位。然而，這也可能是法拉利的一個機會，讓它們能夠重新思考和設計自己的電動車，從而帶來更好的電動車設計和技術。無論如何，電動車市場的發展將會繼續推進，法拉利的首款電動車設計大失敗，可能只是電動車市場發展的開始。讓我們拭目以待，觀看電動車市場的未來發展。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/FERRARI_LUCE_FRONT_3Q_V2_1X1_RGB_WEB_SOCIALS_198d4f59-b20a-454e-87de-59a8184b24fa.jpg?quality=90&strip=all&crop=0%2C23.821989528796%2C100%2C52.356020942408&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "059",
+    "title": "太空競賽再起波瀾：Blue Origin 遭遇黑暗日，五角大廈覓新發射基地",
+    "summary": "中國天宮太空站迎來新一批太空人，期間有人長期駐留，美國太空界則面臨新一輪挑戰和變革",
+    "content": "<p>近期，中國天宮太空站接收了一批新太空人，為該站的長期任務提供了人力支持。其中，一名太空人將會在太空站停留長達一年，為中國太空探索計畫增添了新的篇章。</p>    <h2>太空競賽加劇</h2>    <p>與此同時，美國太空界則面臨著新的挑戰。Blue Origin，一家由亞馬遜創始人傑夫·貝佐斯（Jeff Bezos）創立的私人太空公司，近期遭遇了一系列挫折。這些挫折不僅對Blue Origin的業務造成了影響，也引發了人們對美國太空業未來發展的擔憂。其中，<strong>五角大廈的新發射基地計畫</strong>成為了焦點，美國政府正積極尋找新的太空發射基地，以提升國家的太空競爭力。</p>    <h2>中國太空站的長期任務</h2>    <p>中國天宮太空站的長期任務是中國太空探索計畫的一個重要組成部分。該站的設計目的是為太空人提供一個長期居住和工作的環境，讓他們能夠進行更長期的科學研究和太空探索。這個計畫不僅體現了中國在太空技術方面的進步，也反映了中國在太空探索方面的雄心壯志。其中，<strong>太空站的安全性和可靠性</strong>是關鍵因素，中國科學家和工程師們正在不斷地努力改進和完善太空站的各個系統。</p>    <h2>編輯悄悄話</h2>    <p>太空競賽的加劇和中國太空站的長期任務，讓我們看到太空探索的未來將會更加激動人心。同時，<strong>太空安全和可靠性</strong>的問題也將成為一個重要的挑戰。作為太空探索的參與者和觀察者，我們應該關注這些挑戰和機遇，共同推進太空探索的發展。這不僅需要科學家和工程師的努力，也需要政府和民間的支持。讓我們一起關注太空探索的最新動態，共同見證這個領域的未來發展。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2278083598-2560x1440-1780040982.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
+    "date": "2026-05-29"
+  },
+  {
+    "id": "060",
+    "title": "藍色起源火箭在佛羅里達爆炸，未來計畫受挫",
+    "summary": "新葛倫火箭的爆炸引發巨大火球，可能對公司的長期雄心壯志造成重大的衝擊和挑戰",
+    "content": "<p>最近在佛羅里達發生的藍色起源火箭爆炸事件，已經引起了廣泛的關注和討論。這次爆炸不僅對公司的短期計畫造成了影響，還可能對其長期雄心壯志造成重大的衝擊和挑戰。尤其是，<strong>新葛倫火箭的爆炸</strong>，已經成為了大家關注的焦點。</p>    <h2>火箭爆炸的原因和影響</h2>    <p>根據相關消息，火箭爆炸的原因可能與其結構設計和安全檢查有關。這次爆炸不僅對公司的聲譽造成了影響，還可能對其未來的業務發展造成一定的阻礙。尤其是，<strong>公司的長期雄心壯志</strong>，可能會受到這次爆炸的影響。</p>    <h2>公司的未來展望和挑戰</h2>    <p>面對這次爆炸的挑戰，公司需要進行深入的調查和分析，以找出爆炸的原因和解決方案。同時，公司還需要重建其聲譽和信任，才能夠恢復其業務發展的勢頭。尤其是，<strong>公司的技術團隊</strong>，需要進行更加嚴格的安全檢查和結構設計，以避免類似的爆炸事件發生。</p>    <h2>編輯悄悄話</h2>    <p>這次藍色起源火箭的爆炸事件，讓我們看到科技公司在追求創新的同時，還需要注重安全和可靠性。尤其是，<strong>公司的長期雄心壯志</strong>，需要以安全和可靠性為基礎，才能夠實現其目標。因此，公司需要從這次爆炸事件中吸取教訓，繼續努力和改進，以實現其未來的發展目標。</p>",
+    "image": "https://media.wired.com/photos/6a198bcf19d7dd93413aa792/191:100/w_1280,c_limit/2193560373",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/blue-origin-rocket-explodes-in-major-setback/",
+    "date": "2026-05-29"
   }
 ]
