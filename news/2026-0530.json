@@ -1,0 +1,322 @@
+[
+  {
+    "id": "001",
+    "title": "ComfyUI 工作流中新增 OpenRouter 支持，開啟多模型應用時代",
+    "summary": "ComfyUI 的最新更新將顛覆傳統工作流程，現在用戶可以直接在 ComfyUI 中使用 OpenRouter 模型，進一步推進工作流的靈活性和多樣性",
+    "content": "<p>ComfyUI 最近宣佈了對 OpenRouter 的支持，這代表著用戶不再局限於單一的大語言模型，可以直接在 ComfyUI 中訪問 20 多個模型。這項更新將為用戶帶來更多的靈活性和多樣性，讓工作流程更加高效和便捷。</p>  <h2>多模型應用的新時代</h2>  <p>ComfyUI 的這項更新是對傳統工作流程的一個重大挑戰，讓用戶可以根據不同的需求和任務選擇最合適的模型。這不僅可以提高工作效率，也可以讓用戶更好地掌握不同的模型和技術。同時，ComfyUI 的工作流鏈接也更加方便和直觀，用戶可以輕鬆地在不同的模型之間切換和運用。</p>  <h2>開啟工作流的新可能性</h2>  <p>ComfyUI 對 OpenRouter 的支持不僅僅是一個技術更新，更是對工作流的重新定義。這項更新讓用戶可以更加自由地定制自己的工作流，根據不同的需求和任務選擇最合適的模型和工具。這不僅可以提高工作效率，也可以讓用戶更好地發揮自己的創造力和潛能。同時，ComfyUI 的工作流鏈接也更加安全和可靠，用戶可以放心地使用和分享自己的工作流。</p>  <h2>編輯悄悄話</h2>  <p>ComfyUI 對 OpenRouter 的支持是一個重大的里程碑，標誌著工作流的新時代的到來。這項更新不僅可以提高工作效率，也可以讓用戶更好地掌握不同的模型和技術。同時，ComfyUI 的工作流鏈接也更加方便和直觀，用戶可以輕鬆地在不同的模型之間切換和運用。所以，如果你還沒有嘗試過 ComfyUI 的最新更新，那就趕快去體驗吧，你一定會發現工作流的新可能性和樂趣！</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/OpenRouter/status/2060511136932315259",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "002",
+    "title": "智能體安全新標桿：Guardrails 保護你的數據與成本",
+    "summary": "Guardrails 推出一套可配置的安全與治理工具，預算執行、零數據保留、模型與提供商限制等功能，將顛覆智能體、數據安全的現狀",
+    "content": "<p>隨著人工智慧技術的發展，智能體（Agents）已經成為我們生活中不可或缺的一部分。但是，智能體的安全問題也逐漸浮現，尤其是在數據保護和成本控制方面。為了解決這個問題，OpenRouter 推出了 Guardrails，一套可配置的安全與治理工具，旨在保護智能體、數據與控制成本。</p>    <h2>智能體安全的新標準</h2>    <p>Guardrails 提供了多種功能，包括預算執行、零數據保留、模型與提供商限制、提示詞注入防御及數據丢失預防等。這些功能可以幫助開發者和使用者保護智能體和數據，避免不必要的風險和成本。 <strong>預算限制</strong> 是其中一個重要功能，允許使用者設置智能體的預算上限，避免過度支出。</p>    <h2>開發者的福音</h2>    <p>Guardrails 的推出對於開發者來說是一個福音。開發者可以使用 Guardrails 的功能，減少智能體安全方面的工作量，專注於開發更好的智能體。 <strong>開箱即用</strong> 的功能，讓開發者可以快速地將 Guardrails 整合到自己的項目中，無需額外的開發工作。</p>    <h2>編輯悄悄話</h2>    <p>智能體安全是一個非常重要的議題，Guardrails 的推出是對於這個問題的一個很好的解決方案。通過使用 Guardrails，開發者和使用者可以保護智能體和數據，避免不必要的風險和成本。 <strong>這是一個值得注意的進展</strong>，也是一個對於智能體安全的新標準。讓我們一起關注智能體安全的發展，和創造一個更安全的智能體世界。</p>",
+    "image": "https://openrouter.ai/dynamic-og?title=Guardrails%3A+Protect+your+Agents%2C+Data%2C+and+Costs&description=Configurable+security+and+governance+tools+for+budget+enforcement%2C+zero+data+retention%2C+model+and+provider+restrictions%2C+prompt+injection+defense%2C+and+data+loss",
+    "source": "AI HOT 精選",
+    "url": "https://openrouter.ai/announcements/guardrails",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "003",
+    "title": "Codex 自我管理革命：讓 AI 自己管理對話線程",
+    "summary": "Codex 現在可以自行創建對話線程、搜索、整理和固定重要線程，從而顛覆傳統的管理方式",
+    "content": "<p>你是否曾經感到過管理 <strong>Codex</strong> 對話線程的煩惱？現在，你可以讓 <strong>Codex</strong> 自己管理自己了！這項新功能讓 <strong>Codex</strong> 能夠創建對話線程、搜索它們、整理它們、固定重要的線程，並為並行任務啟動工作樹。</p>    <h2>什麼是 Codex 自我管理？</h2>    <p><strong>Codex</strong> 自我管理是一項革命性的功能，讓 <strong>Codex</strong> 能夠自行管理自己的對話線程。這意味著你不再需要手動管理線程，<strong>Codex</strong> 會自動幫你完成這些工作。這項功能不僅可以節省你的時間，也可以提高你的工作效率。</p>    <h2>如何使用 Codex 自我管理？</h2>    <p>使用 <strong>Codex</strong> 自我管理非常簡單。你只需要讓 <strong>Codex</strong> 自己管理自己，然後它就會自動創建對話線程、搜索它們、整理它們、固定重要的線程，並為並行任務啟動工作樹。這項功能非常適合需要管理多個線程的用戶，可以幫助他們更好地管理自己的工作流程。</p>    <h2>編輯悄悄話</h2>    <p>生活中，我們常常會遇到很多煩惱的事情，但是有時候，只需要讓事情自己發展，就可以找到解決的方法。就像 <strong>Codex</strong> 自我管理一樣，讓 AI 自己管理自己，從而提高工作效率和簡化管理流程。這也提醒我們，在生活中，要學會放手和相信自己，才能找到真正的解決方案和幸福感。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/gdb/status/2060486309886443787",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "004",
+    "title": "claude-design-card：革命性視覺卡創作工具登場",
+    "summary": "claude-design-card 將顛覆傳統的內容創作流程，自動化生成視覺卡片，推進中文創作者的工作效率",
+    "content": "<p>你是否厭煩手動設計視覺卡片的繁瑣流程？ claude-design-card 是一款專為中文內容創作者設計的 Skill，能夠將文字、URL 或文章直接轉化為可發布的視覺卡片，如公眾號首圖、小紅書圖文卡、教程步驟卡等，支持 28 種布局與 10 種主題。其核心價值在於自動化了「寫完文章」後最繁瑣的流程：自動提煉重點、選擇版式、生成 HTML 並截圖成 PNG，替代了以往手動使用 Figma 或 Canva 等工具的步驟。</p>    <h2>什麼是 claude-design-card？</h2>    <p>claude-design-card 是一款開源工具，適合經常撰寫相關內容的創作者嘗試。它能夠幫助創作者節省時間和精力，專注於內容創作。該工具支持多種布局和主題，讓創作者可以輕鬆地設計出美觀的視覺卡片。</p>    <h2>claude-design-card 的優點</h2>    <p>claude-design-card 的優點在於其自動化功能，能夠自動提煉重點、選擇版式、生成 HTML 並截圖成 PNG。這意味著創作者可以節省大量的時間和精力，專注於內容創作。另外，該工具還支持多種布局和主題，讓創作者可以輕鬆地設計出美觀的視覺卡片。</p>    <h2>編輯悄悄話</h2>    <p>生活趣味口語結論！claude-design-card 的出現，將會徹底顛覆傳統的內容創作流程。創作者可以輕鬆地設計出美觀的視覺卡片，節省時間和精力，專注於內容創作。這是一個非常實用的工具，適合所有中文內容創作者嘗試。 <strong>claude-design-card</strong> 的出現，將會帶來一個新的內容創作時代。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/hongming731/status/2060487110906527820",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "005",
+    "title": "ChatGPT 的長篇對話終於有了救星！新推出的目錄功能讓你不再迷失",
+    "summary": "ChatGPT 推出了新功能，讓用戶可以在長篇對話中快速跳轉到關鍵節點。這個功能適用於包含 5 條以上回覆的對話，讓你不再需要滾動屏幕來尋找關鍵信息。",
+    "content": "<h2>ChatGPT 的長篇對話問題</h2><p>你是否曾經與 ChatGPT 進行長篇對話，只是想問一個簡單的問題，卻被拉進了一個漫長的對話中？你可能會覺得，自己被迫滾動屏幕來尋找關鍵信息，浪費了不少時間。</p><p>但現在，ChatGPT 終於給長篇對話加了目錄功能！這個功能適用於包含 5 條以上回覆的對話，讓你可以快速跳轉到關鍵節點。</p><h2>目錄功能是如何工作的</h2><p>當你與 ChatGPT 進行長篇對話時，系統會自動生成一個目錄，列出每個回覆的標題。你可以點擊任何一個標題，直接跳轉到相應的節點。</p><p>這個功能讓你可以快速找到關鍵信息，不再需要滾動屏幕來尋找。同時，也讓你可以更好地管理長篇對話，避免迷失在其中。</p><h2>編輯悄悄話</h2><p>ChatGPT 的目錄功能是一個實用的更新，讓用戶可以更好地利用這個 AI 工具。現在，你可以更快速地找到答案，不再需要浪費時間滾動屏幕。這個功能是 ChatGPT 的一大進步，讓我們期待更多的更新！</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/ChatGPTapp/status/2060467129066070182",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "006",
+    "title": "太空爭霸：SpaceX 獲得 645 億美元太空軍合約",
+    "summary": "SpaceX 的政府合約業務正在迅速增長，公司已透露其 2025 年收入的五分之一來自政府合約，推進公司的業務發展",
+    "content": "<p>近日，SpaceX 獲得了太空軍的 645 億美元合約，這是一個令人震驚的消息，讓人們開始關注這家太空科技公司的未來發展。 <strong>SpaceX 的政府合約業務正在迅速增長</strong>，公司已透露其 2025 年收入的五分之一來自政府合約，推進公司的業務發展。</p>  <h2>太空軍合約的重要性</h2>  <p>太空軍的合約對於 SpaceX 來說是一個重要的機遇，<strong>可以幫助公司發展其太空技術</strong>，如衛星發射和太空站建設等。這些合約也可以幫助 SpaceX 擴大其市場份額，增加其在太空產業中的競爭力。</p>  <p>SpaceX 的 CEO 伊隆·馬斯克（Elon Musk）一直強調公司的太空技術將對未來的人類生活產生深遠影響，<strong>如太空旅游和太空資源開發等</strong>。這些合約的獲得，將有助於 SpaceX 實現其雄心壯志。</p>  <h2>對未來的影響</h2>  <p>SpaceX 獲得太空軍的合約，對於太空產業的未來發展將產生重大影響。 <strong>這將推動太空技術的進步</strong>，如衛星技術和太空站建設等。同時，也將增加太空產業的競爭力，推動更多的公司投入太空技術的研究和開發。</p>  <p>然而，<strong>太空產業的發展也面臨著挑戰</strong>，如太空垃圾問題和太空安全問題等。因此，SpaceX 和其他太空公司需要共同努力，解決這些問題，推動太空產業的健康發展。</p>  <h2>編輯悄悄話</h2>  <p>太空爭霸的時代已經來臨，SpaceX 的成功是太空產業的一個重要里程碑。 <strong>然而，太空產業的發展需要更多的公司和政府的支持</strong>，才能真正實現其雄心壯志。讓我們拭目以待，太空產業的未來將會如何發展，同時也需要我們共同努力，推動太空產業的健康發展，創造一個更美好的未來。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/crs-28.jpeg?resize=1200,800",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "007",
+    "title": "Nvidia、Microsoft 和 Arm 聯合發力：N1X 筆電處理器即將問世",
+    "summary": "Nvidia 即將在 Computex 宣布其自身的 Arm 處理器筆電晶片，Microsoft、Nvidia 和 Arm 都在公開預告這一消息，預計將會推動筆電產業的重大變革",
+    "content": "<p>近日，Nvidia、Microsoft 和 Arm 三大科技巨頭都在公開預告一項重要消息：Nvidia 即將推出其自身的 Arm 處理器筆電晶片。這一消息被譽為是科技界的「公開秘密」，因為各方都已經開始預告這一產品的登場。</p><h2>新時代的筆電處理器</h2><p>Microsoft 和 Nvidia 的官方帳戶都在 X 平台上發布了「A new era of PC」的預告消息，隨後 Arm 也加入了預告的行列。這一系列的預告消息都在暗示，Nvidia 的新款筆電處理器將會是 Arm 處理器的首秀。這一產品的推出預計將會給筆電產業帶來重大變革，<strong>顛覆傳統的筆電設計</strong>，並推動整個產業的發展。</p><h2>推動筆電產業的發展</h2><p>Nvidia 的 N1X 筆電處理器預計將會結合 Arm 處理器的優點，<strong>提供更高的性能和更低的功耗</strong>。這一產品的推出將會給筆電製造商帶來新的機遇，讓他們可以設計出更薄、更輕、更強大的筆電。同時，Nvidia 的新款處理器也將會為用戶提供更好的使用體驗，<strong>提升筆電的整體性能</strong>。</p><h2>編輯悄悄話</h2><p>雖然 Nvidia 的 N1X 筆電處理器尚未正式推出，但已經引起了廣泛的關注。這一產品的推出預計將會給筆電產業帶來重大變革，<strong>挑戰傳統的筆電設計</strong>。作為用戶，我們可以期待更好的使用體驗和更高的性能。同時，作為科技界的觀察者，我們也可以看到，Nvidia、Microsoft 和 Arm 的合作將會推動整個產業的發展，<strong>創造新的機遇和挑戰</strong>。讓我們拭目以待，Nvidia 的 N1X 筆電處理器將會帶來怎樣的變革和驚喜。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2192219004.jpg?quality=90&strip=all&crop=0%2C10.703832833872%2C100%2C78.592334332257&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "008",
+    "title": "美國提案新資助規則：政府可隨時取消任何研究補助",
+    "summary": "美國政府推出新資助規則，將顛覆傳統的研究補助機制，讓政治因素影響研究補助的核准",
+    "content": "<p>美國政府最近提出了新的資助規則，讓科學家和研究人員感到震驚。根據提案，政府可以隨時取消任何研究補助，並且政治_staff將會審查補助申請，確保不包含被禁的主題。這個規則將會對科學研究產生重大影響，尤其是那些涉及敏感或爭議的主題的研究。</p><h2>研究補助的新規則</h2><p><strong>美國政府的新規則</strong>將會讓研究人員面臨新的挑戰。根據提案，研究補助的審查將不再僅僅依靠同行評審（peer review），而是由政治_staff進行審查，以確保補助申請不包含被禁的主題。這個規則將會讓研究人員感到不確定性和不穩定性，尤其是那些涉及敏感或爭議的主題的研究。</p><h2>科學研究的自由度</h2><p><strong>科學研究的自由度</strong>是科學進步的關鍵。然而，美國政府的新規則將會限制科學研究的自由度，讓研究人員感到恐懼和不願意涉足敏感或爭議的主題。這個規則將會對科學研究產生長期的影響，尤其是那些涉及環境、健康和社會公正的研究。研究人員將會面臨新的挑戰，包括如何在政治壓力下進行研究，以及如何維護科學研究的獨立性和客觀性。</p><h2>編輯悄悄話</h2><p>生活在科學研究的世界中，總是會面臨新的挑戰和不確定性。美國政府的新規則將會讓研究人員感到不確定性和不穩定性，尤其是那些涉及敏感或爭議的主題的研究。然而，<strong>科學研究的自由度</strong>是不可動搖的，研究人員應該繼續努力維護科學研究的獨立性和客觀性。讓我們一起關注這個事件的發展，和思考如何維護科學研究的自由度和獨立性。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2223415789-1152x648.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "009",
+    "title": "爸爸節送禮攻略：24 個讓爸爸們心動的禮物選擇",
+    "summary": "爸爸們通常很難找到適合的禮物，但這些精心挑選的禮物一定能讓他們感到高興，帶來意外的驚喜，顛覆傳統的送禮方式",
+    "content": "<p>每年的 <strong>爸爸節</strong> 都是個難題，尤其是要找到適合爸爸的禮物。這次，我們為你準備了 24 個讓爸爸們心動的禮物選擇，從科技產品到體驗活動，讓你能找到最適合爸爸的禮物。</p>    <h2>科技爸爸的選擇</h2>    <p>如果你的爸爸是一個科技迷，那麼這些禮物一定會讓他感到高興。從最新的 <strong>智能手錶</strong> 到高科技的 <strong>無線耳機</strong>，這些禮物都能讓爸爸的生活更方便、更愉快。</p>    <ul>      <li>智能手錶：讓爸爸能夠隨時掌握時間和健康狀況</li>      <li>無線耳機：讓爸爸能夠享受音樂和電話通話的便利</li>      <li>高科技的 <strong>行動電源</strong>：讓爸爸的裝置隨時都能保持充電</li>    </ul>    <h2>體驗爸爸的選擇</h2>    <p>如果你的爸爸是一個愛好體驗的人，那麼這些禮物一定會讓他感到興奮。從 <strong>戶外活動</strong> 到 <strong>美食體驗</strong>，這些禮物都能讓爸爸創造美好的回憶。</p>    <ul>      <li>戶外活動：讓爸爸能夠享受大自然的美景和挑戰</li>      <li>美食體驗：讓爸爸能夠享受不同的美食和飲料</li>      <li>高爾夫球體驗：讓爸爸能夠享受這項運動的樂趣</li>    </ul>    <h2>編輯悄悄話</h2>    <p>其實，選擇適合爸爸的禮物並不難，只要你能夠了解他的興趣和需求。這些禮物都能讓爸爸感到高興和感動，帶來意外的驚喜和美好的回憶。所以，這次 <strong>爸爸節</strong>，你會選擇哪個禮物讓爸爸感到心動呢？</p>",
+    "image": "https://media.wired.com/photos/6a19f2067b6d6b1cd5a42704/191:100/w_1280,c_limit/Gifts%20for%20dads%20top%20art%20052026%20SOURCE%20Amazon.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/the-best-gifts-for-dads-2026/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "010",
+    "title": "Fable 遭遇再度延期，躲過了 GTA VI 的強大競爭",
+    "summary": "Fable 的延期讓它成功地避開了 GTA VI 的強大影響力，顛覆了原有的遊戲市場預期",
+    "content": "<p>近日，遊戲界傳出一個消息：<strong>Fable 遊戲系列的最新作</strong>遭遇了再度延期。這個消息對於遊戲粉絲來說可能是一個令人失望的消息，但是對於遊戲開發商來說，可能是為了避開另一款強大的競爭對手——<strong>GTA VI</strong>。</p><h2>延期背後的原因</h2><p>雖然遊戲開發商並沒有公開延期的原因，但是根據業內人士的分析，<strong>避免與 GTA VI 同期發售</strong>可能是其中一個原因。GTA VI 是一款備受期待的遊戲，預計會在不久的將來發售。由於兩款遊戲的類型和目標受眾相似，開發商可能希望避免與 GTA VI 的強大競爭力。</p><h2>對遊戲市場的影響</h2><p><strong>Fable 的延期</strong>可能會對遊戲市場產生一定的影響。由於 Fable 是一款備受期待的遊戲，延期可能會讓一些遊戲粉絲感到失望。然而，開發商可能會利用這段時間來進一步完善遊戲，為玩家提供更好的遊戲體驗。同時，<strong>其他遊戲開發商</strong>也可能會注意到 Fable 的延期，重新評估自己的遊戲發售時間，以避免與強大的競爭對手同期發售。</p><h2>編輯悄悄話</h2><p>其實，<strong>遊戲延期</strong>並不是什麼稀奇的事情。很多遊戲都曾經遭遇過延期，但是最終還是獲得了玩家的好評。所以，<strong>不要過度擔心 Fable 的延期</strong>，因為開發商可能正利用這段時間來打造一款更好的遊戲。同時，<strong>我們也應該學會等待</strong>，因為好的遊戲是值得等待的。讓我們一起期待 Fable 的發售，體驗一款更加完善的遊戲作品吧。</p>",
+    "image": "https://www.engadget.com/img/gallery/fable-dodges-gta-vi-with-another-delay/l-intro-1780084008.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2183963/fable-dodges-gta-vi-with-another-delay/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "011",
+    "title": "鎂動能量：新技術解鎖鋰資源，電動車產業將迎來革命",
+    "summary": "一種新型的鋰提取技術即將顛覆電動車產業，通過降低成本和減少排放，推進鋰資源的有效利用",
+    "content": "<p>近年來，電動車的普及率不斷提高，然而，鋰資源的開採和提取成本卻成為了電動車產業的瓶頸。現在，一種新型的鋰提取技術即將解鎖這個瓶頸，讓電動車產業迎來新的革命。</p>    <h2>鋰資源的重要性</h2>    <p>鋰是電動車電池的核心材料，然而，傳統的鋰提取方法不僅成本高昂，還會產生大量的污染。這種新型的鋰提取技術可以有效降低成本和減少排放，讓電動車產業更加環保和經濟。</p>    <p><strong>這種新技術的出現，將會對電動車產業產生深遠的影響</strong>，不僅會提高電動車的競爭力，還會推動整個產業的發展。同時，隨著鋰資源的有效利用，電動車的普及率也會不斷提高，為環境保護和能源節約做出貢獻。</p>    <h2>新技術的應用前景</h2>    <p>這種新型的鋰提取技術不僅可以應用於電動車產業，還可以拓展到其他領域，例如能源儲存和電子產品。通過這種技術，鋰資源的有效利用將會帶來更多的商業機會和創新可能性。</p>    <p><strong>鋰資源的解鎖，將會為全球能源結構帶來深刻的變革</strong>，讓我們更加接近一個清潔和可持續的能源未來。同時，隨著新技術的不斷發展和應用，電動車產業也會不斷推進和創新，為消費者提供更加優質和環保的產品。</p>    <h2>編輯悄悄話</h2>    <p>鋰資源的解鎖，將會為電動車產業帶來新的機遇和挑戰。作為消費者，我們可以期待更加優質和環保的電動車產品。同時，作為社會的一員，我們也應該關注和支持鋰資源的有效利用和新技術的發展，為環境保護和能源節約做出貢獻。通過這種新型的鋰提取技術，我們可以看到一個更加美好的能源未來，讓我們共同努力，推動這個未來的到來。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AdobeStock_1948655467.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "012",
+    "title": "企業AI代理人發展的關鍵瓶頸：授權管理",
+    "summary": "企業AI代理人正面臨著新的挑戰，不是模型表現的問題，而是授權管理的難題。這種情況下，Workday的Sana系統提供了一種解決方案，通過將現有的系統作為代理人的治理層，確保代理人的安全性和合規性，推進了AI代理人的發展和應用",
+    "content": "<p>近年來，企業AI代理人發展迅速，但是許多企業在實施AI代理人時，卻面臨著新的挑戰。這種情況下，Workday的Sana系統提供了一種解決方案，通過將現有的系統作為代理人的治理層，確保代理人的安全性和合規性。</p><h2>授權管理的重要性</h2><p>Workday的Sana系統的核心思想是將授權管理作為代理人的第一要務。通過這種方式，代理人可以確保其行為的安全性和合規性，同時也可以防止代理人超越授權範圍的行為。這種方法也是企業AI代理人發展的關鍵瓶頸，因為如果代理人的授權管理不夠嚴格，可能會導致安全性和合規性的問題。</p><p>Workday的Gerrit Kazmaier表示，許多企業在實施AI代理人時，往往忽略了授權管理的重要性，導致代理人的安全性和合規性受到影響。因此，Workday的Sana系統提供了一種解決方案，通過將現有的系統作為代理人的治理層，確保代理人的安全性和合規性。</p><h2>實施Sana系統的效果</h2><p>Workday的Sana系統已經被許多企業實施，效果顯著。通過這種方式，企業可以確保其AI代理人的安全性和合規性，同時也可以提高代理人的效率和生產力。同時，Sana系統也可以幫助企業減少安全性和合規性的風險，保護企業的數據和資產。</p><p>Workday的Sana系統也已經與Google的Gemini Enterprise合作，提供了一種完整的AI代理人解決方案。通過這種方式，企業可以輕鬆實施AI代理人，同時也可以享受Sana系統的安全性和合規性保障。</p><h2>編輯悄悄話</h2><p>實施AI代理人是一個複雜的過程，需要企業考慮許多因素，包括安全性、合規性和效率。Workday的Sana系統提供了一種解決方案，通過將現有的系統作為代理人的治理層，確保代理人的安全性和合規性。通過這種方式，企業可以輕鬆實施AI代理人，同時也可以享受Sana系統的安全性和合規性保障。因此，企業在實施AI代理人時，應該重視授權管理的重要性，選擇合適的解決方案，以確保AI代理人的安全性和合規性。</p>",
+    "image": "",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "013",
+    "title": "史上最強 75 吋電視優惠！Hisense U6 Pro 再降價超過 5 千元",
+    "summary": "Hisense U6 Pro 是一款中階 Mini LED 電視，現在以超低價出售，將顛覆您的視聽體驗",
+    "content": "<p>如果您正在尋找一款高品質的電視來提升您的家居娛樂體驗，那麼現在正是最佳時機！Amazon 正在出售 75 吋的 Hisense U6 Pro 電視，折扣超過 5 千元。這款電視不僅具有出色的畫質和音效，還具有多種智能功能，讓您可以輕鬆享受各種娛樂內容。</p>    <h2>什麼是 Mini LED 電視？</h2>    <p>Mini LED 電視是一種新型的顯示技術，利用微小的 LED 燈來照亮液晶屏幕。這種技術可以提供更好的對比度、更高的亮度和更廣的色域，讓您可以享受更真實的視聽體驗。Hisense U6 Pro 就是一款採用 Mini LED 技術的電視，它的畫質和音效都非常出色。</p>    <h2>為什麼 Hisense U6 Pro 是一個好選擇？</h2>    <p>Hisense U6 Pro 是一款中階電視，但它的性能卻超出了預期。它的 Mini LED 技術可以提供更好的對比度和色域，讓您可以享受更真實的視聽體驗。此外，它還具有多種智能功能，例如 <strong>支持 4K 解析度</strong>、<strong> HDR10+</strong> 和 <strong>Wi-Fi 連接</strong>，讓您可以輕鬆享受各種娛樂內容。</p>    <h2>編輯悄悄話</h2>    <p>如果您正在尋找一款高品質的電視來提升您的家居娛樂體驗，那麼 Hisense U6 Pro 是一個不錯的選擇。現在以超低價出售，真是太划算了！您可以輕鬆享受各種娛樂內容，同時也可以體驗到 <strong>最新的 Mini LED 技術</strong>。所以，不要錯過這個機會，趕快去購買吧！</p>",
+    "image": "https://www.zdnet.com/a/img/resize/d12ebaa49dbf1adf8773434e782e5349837d91e3/2026/05/29/7e0bcf6b-ecbf-4661-8549-9975c27fce47/hisense-u6-pro-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/hisense-u6-pro-amazon-deal/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "014",
+    "title": "Nvidia 和 Microsoft 聯手打造「新一代 PC」，Windows on Arm 系統即將來臨",
+    "summary": "Nvidia 和 Microsoft 的合作將會推進 PC 技術的重大改變，可能會重塑當地 AI 體驗，帶來更多創新的應用",
+    "content": "<p>近日，Nvidia 和 Microsoft 在社交媒體上發布了一系列協調的帖子，暗示著「新一代 PC」的到來。這些帖子引發了外界的廣泛關注和猜測，尤其是關於傳聞中的 N1X 筆記本電腦。據悉，這些電腦可能會採用 Windows on Arm 系統，結合 Nvidia 的強大圖形處理能力，為用戶帶來更流暢的使用體驗。</p>    <h2>啟動新時代的 PC</h2>    <p><strong>Nvidia 和 Microsoft 的合作</strong>有可能會顛覆傳統的 PC 市場，尤其是在 AI 技術的應用方面。隨著 AI 技術的不斷發展，PC 的需求也不斷增加。Nvidia 和 Microsoft 的合作可能會帶來新的、創新的 AI 解決方案，讓用戶能夠更好地體驗 AI 的魅力。</p>    <p>例如，<strong>Windows on Arm 系統</strong>可以提供更低的功耗和更高的效率，讓用戶能夠更長時間地使用 PC。同時，Nvidia 的圖形處理能力可以提供更流暢的視覺體驗，讓用戶能夠更好地享受遊戲、視頻等娛樂內容。</p>    <h2>挑戰和機會</h2>    <p><strong>N1X 筆記本電腦</strong>的傳聞引發了外界的廣泛關注和猜測。這些電腦可能會採用 Windows on Arm 系統，結合 Nvidia 的強大圖形處理能力，為用戶帶來更流暢的使用體驗。同時，這也可能會帶來新的挑戰和機會，尤其是在軟件開發和硬件設計方面。</p>    <p>例如，<strong>Windows on Arm 系統</strong>需要軟件開發者重新設計和優化軟件，以確保軟件能夠在 Arm 平台上正常運行。同時，硬件設計者也需要重新設計和優化硬件，以確保硬件能夠提供更好的效率和性能。</p>    <h2>編輯悄悄話</h2>    <p>生活中，我們總是會面臨新的挑戰和機會。Nvidia 和 Microsoft 的合作就是其中的一個例子。通過這次合作，可能會帶來新的、創新的 AI 解決方案，讓用戶能夠更好地體驗 AI 的魅力。同時，這也可能會帶來新的挑戰和機會，尤其是在軟件開發和硬件設計方面。讓我們拭目以待，看看這次合作會帶來什麼樣的驚喜和挑戰。</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/Cp3pwQj6c3BuvJ3XzYaXQV-970-80.webp",
+    "source": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/laptops/nvidia-and-microsoft-tease-a-new-era-of-pc-ahead-of-computex-2026-coordinated-social-media-posts-could-indicate-that-rumored-n1x-laptops-will-be-windows-on-arm-systems",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "015",
+    "title": "Wine 11.10 釋出：搭載 VKD3D 2.0，提升 VBScript 相容性",
+    "summary": "Wine 11.10 推出，將為 Linux、macOS 等平台上的 Windows 遊戲和應用程式帶來更好的相容性和效能，進一步挑戰跨平台運行的極限",
+    "content": "<p>Wine 11.10 的釋出，代表著開源軟體界的一個重要里程碑。這個版本不僅搭載了最新的 <strong>VKD3D 2.0</strong>，還大幅提升了 <strong>VBScript</strong> 的相容性，讓使用者可以更順暢地運行 Windows 應用程式和遊戲於 Linux、macOS 等平台上。</p>  <h2>跨平台運行的新突破</h2>  <p>Wine 的發展一直是開源軟體界的一個重要議題。通過不斷的更新和改進，Wine 讓使用者可以在非 Windows 平台上運行 Windows 應用程式和遊戲，對於那些需要使用特定 Windows 軟體的用戶來說，這是一個福音。這次的 <strong>Wine 11.10</strong> 釋出，特別是 <strong>VKD3D 2.0</strong> 的集成，將為 Direct3D 12 的支持帶來更好的效能和相容性。</p>  <h2>技術進步與挑戰</h2>  <p>技術的進步總是伴隨著挑戰。Wine 的開發者們不斷地努力，以確保 Wine 的相容性和效能。這次的 <strong>VBScript</strong> 相容性提升，是對於那些依賴 VBScript 的應用程式的一個好消息。這意味著使用者可以更輕鬆地運行這些應用程式，無需擔心相容性問題。然而，Wine 的開發者們仍然面臨著許多挑戰，例如如何進一步改善效能和相容性，以滿足使用者的需求。</p>  <h2>編輯悄悄話</h2>  <p>Wine 11.10 的釋出，讓我們看到開源軟體界的活力和創造力。通過不斷的更新和改進，Wine 讓我們可以在不同的平台上運行 Windows 應用程式和遊戲，對於使用者來說，這是一個非常實用的工具。讓我們繼續關注 Wine 的發展，和它一起挑戰跨平台運行的極限，體驗更好的使用者體驗。</p>",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=vkd3d_20",
+    "source": "Phoronix",
+    "url": "https://www.phoronix.com/news/Wine-11.10-Released",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "016",
+    "title": "波士頓兒童醫院結合人工智慧技術解開罕見疾病診斷新契機",
+    "summary": "波士頓兒童醫院利用OpenAI技術推進醫療服務，減輕運營負擔，並成功診斷出40多種罕見疾病，對醫學界產生重大衝擊",
+    "content": "<p>波士頓兒童醫院是一所全球知名的兒童醫療機構，為了提供更好的患者服務，該院結合了<strong>人工智慧技術</strong>，特別是OpenAI，來改善診斷和治療過程。這一舉措不僅提高了醫療效率，也為罕見疾病的診斷提供了新的思路。</p>    <h2>人工智慧在醫學領域的應用</h2>    <p>在醫學領域，<strong>人工智慧</strong>的應用已經成為了一個熱門話題。波士頓兒童醫院通過使用OpenAI技術，成功診斷出40多種罕見疾病，這些疾病往往難以被傳統的診斷方法發現。這一成果表明，<strong>人工智慧</strong>在醫學領域有著巨大的潛力，可以幫助醫生們更快速、更準確地診斷和治療疾病。</p>    <h2>挑戰和機遇</h2>    <p>雖然人工智慧技術在醫學領域的應用前景廣闊，但也存在著一些挑戰。例如，<strong>數據安全</strong>和<strong>隱私保護</strong>成為了重要的問題。同時，人工智慧技術的發展也需要大量的數據和計算資源，如何平衡這些需求和挑戰將是未來的一個重要任務。然而，波士頓兒童醫院的成功案例表明，<strong>人工智慧</strong>在醫學領域的應用是完全可行的，並且有著巨大的潛力。</p>    <h2>編輯悄悄話</h2>    <p>其實，人工智慧技術在醫學領域的應用不僅僅是一種技術革新，也是對傳統醫學觀念的一種挑戰。通過結合<strong>人工智慧</strong>，醫生們可以更好地了解患者的需求，提供更個性化的服務。波士頓兒童醫院的成功案例告訴我們，<strong>人工智慧</strong>在醫學領域的應用是值得期待的，同時也需要我們更加關注數據安全和隱私保護等問題。讓我們拭目以待，人工智慧技術在醫學領域的未來發展將會帶來怎樣的驚喜和挑戰。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/30rCYJwrLmxJa0mwAW1suo/af215de4b370e0310026dadd6085431c/boston-childrens-seo.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "017",
+    "title": "Google DeepMind 加速器計畫登陸亞太！用 AI 力量挑戰環境風險",
+    "summary": "Google DeepMind 正式推出加速器計畫，聚焦亞太地區，利用 AI 技術挑戰環境風險。這項計畫將推進環境保護，重塑未來的可持續發展藍圖。",
+    "content": "<h2>Google DeepMind 加速器計畫：用 AI 力量挑戰環境風險</h2><p>Google DeepMind 正式推出加速器計畫，聚焦亞太地區，利用 AI 技術挑戰環境風險。這項計畫將推進環境保護，重塑未來的可持續發展藍圖。</p><p><strong>Google DeepMind 加速器計畫</strong> 是一個旨在推動環境保護和可持續發展的計畫。通過聚焦亞太地區，Google DeepMind 將利用 AI 技術挑戰環境風險，推進環境保護，重塑未來的可持續發展藍圖。</p><h2>環境風險挑戰：氣候變化、污染、生態破壞</h2><p>亞太地區面臨著許多環境風險挑戰，包括氣候變化、污染、生態破壞等。這些挑戰不僅影響環境，也影響著人類的健康和經濟發展。Google DeepMind 加速器計畫將聚焦這些挑戰，利用 AI 技術提供創新的解決方案。</p><p><strong>氣候變化</strong> 是一個全球性的挑戰，亞太地區也深受其害。Google DeepMind 加速器計畫將利用 AI 技術分析氣候變化的影響，提供創新的解決方案，例如：氣候變化預測模型、可持續能源解決方案等。</p><h2>AI 技術應用：預測模型、可持續能源、生態保護</h2><p>Google DeepMind 加速器計畫將利用 AI 技術應用，提供創新的解決方案，例如：預測模型、可持續能源、生態保護等。這些應用將有助於推進環境保護，重塑未來的可持續發展藍圖。</p><p><strong>預測模型</strong> 是 AI 技術的一個重要應用。Google DeepMind 加速器計畫將利用預測模型分析環境風險，提供創新的解決方案。例如：氣候變化預測模型、污染預測模型等。</p><h2>編輯悄悄話</h2><p>Google DeepMind 加速器計畫的推出，標誌著 AI 技術在環境保護領域的重要突破。通過聚焦亞太地區，Google DeepMind 將利用 AI 技術挑戰環境風險，推進環境保護，重塑未來的可持續發展藍圖。這項計畫不僅對環境保護有重要意義，也對未來的可持續發展提供了新的希望。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "018",
+    "title": "PyTorch 入門必備：剖析 torch.profiler 的強大功能",
+    "summary": "PyTorch 的 torch.profiler 功能即將顛覆傳統的深度學習開發流程，為開發人員帶來更高效的模型優化和推進",
+    "content": "<p>PyTorch 是目前最受歡迎的深度學習框架之一，其 <strong>torch.profiler</strong> 功能讓開發人員可以更好地了解模型的性能和瓶頸。這篇文章將帶您了解 torch.profiler 的基礎知識和使用方法，讓您能夠輕鬆地優化您的深度學習模型。</p>    <h2>什麼是 torch.profiler？</h2>    <p>torch.profiler 是 PyTorch 中的一個 <strong>性能分析工具</strong>，它可以讓您了解模型的執行時間、記憶體使用量和其他重要的性能指標。通過使用 torch.profiler，開發人員可以快速地找到模型的瓶頸和性能優化的機會。</p>    <p>torch.profiler 的 <strong>核心功能</strong> 包括：模型執行時間的分析、記憶體使用量的分析和 GPU 使用量的分析等。這些功能可以讓開發人員全面地了解模型的性能和瓶頸，從而進行有針對性的優化。</p>    <h2>如何使用 torch.profiler</h2>    <p>使用 torch.profiler 非常簡單，只需要幾行代碼就可以開始分析您的模型。首先，您需要 <strong>導入 torch.profiler</strong> 模組，然後創建一個 <strong>Profiler</strong> 物件。接下來，您可以使用 <strong>record()</strong> 方法開始錄製模型的執行時間和記憶體使用量。</p>    <p>torch.profiler 的 <strong>優點</strong> 在於它可以提供非常詳細的性能分析報告，包括模型的執行時間、記憶體使用量和 GPU 使用量等。這些報告可以讓開發人員快速地找到模型的瓶頸和性能優化的機會。</p>    <h2>編輯悄悄話</h2>    <p>torch.profiler 是 PyTorch 中的一個非常強大的工具，通過使用它，開發人員可以輕鬆地優化自己的深度學習模型。記住，<strong>性能優化</strong> 是深度學習開發中的一個非常重要的環節，通過使用 torch.profiler，您可以快速地找到模型的瓶頸和性能優化的機會。因此，不要猶豫，立即開始使用 torch.profiler，優化您的深度學習模型吧！</p>",
+    "image": "https://huggingface.co/blog/assets/torch-profiler/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "019",
+    "title": "NVIDIA 研究院推動機器人技術從模擬到真實世界",
+    "summary": "機器人技術即將邁入新階段，從受控的示範和腳本化的自動化轉向真實世界中的普遍性和可靠性，NVIDIA 研究院的新成果正推動這一變革，讓機器人能夠感知、推理、計劃和執行任務",
+    "content": "<p>近年來，機器人技術的發展迅速，從工業自動化到服務機器人，各種應用場景層出不窮。但是，機器人技術仍然面臨著許多挑戰，例如如何讓機器人在真實世界中感知和反應環境的變化。為了解決這一問題，<strong>NVIDIA 研究院</strong>致力於推動機器人技術從模擬到真實世界的轉變。</p>    <h2>模擬到真實的轉變</h2>    <p>在真實世界中，機器人需要能夠感知和反應環境的變化，這需要機器人具有強大的學習和適應能力。為了實現這一目標，NVIDIA 研究院的科學家們提出了一種新的方法，即使用模擬技術來訓練機器人。這種方法可以讓機器人在模擬環境中學習和訓練，然後將其應用到真實世界中。這種模擬到真實的轉變可以讓機器人更好地感知和反應環境的變化，從而提高其可靠性和普遍性。</p>    <h2>八項研究成果</h2>    <p>在國際機器人和自動化會議（ICRA）上，NVIDIA 研究院的八項研究成果展示了其在機器人技術方面的成就。這些研究成果包括了機器人感知、推理、計劃和執行等方面的突破。例如，<strong>機器人感知</strong>方面的研究成果可以讓機器人更好地感知環境的變化，從而提高其可靠性和安全性。同時，<strong>機器人推理</strong>方面的研究成果可以讓機器人更好地理解環境的變化，從而提高其智能性和適應能力。</p>    <h2>編輯悄悄話</h2>    <p>機器人技術的發展正在迅速推進，從工業自動化到服務機器人，各種應用場景層出不窮。但是，機器人技術仍然面臨著許多挑戰，例如如何讓機器人在真實世界中感知和反應環境的變化。NVIDIA 研究院的新成果正推動這一變革，讓機器人能夠感知、推理、計劃和執行任務。這種技術的發展對於未來的機器人技術具有重要意義，讓我們拭目以待其未來的發展吧。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/ICRA2026Blog-scaled.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "020",
+    "title": "破解語音辨識的極限：Together AI 的超高速語音轉文字技術",
+    "summary": "Together AI 推出了世上最快的語音轉文字技術，透過將語音辨識視為一個完整的系統問題，而非僅僅是 GPU 推理問題，從而顛覆了傳統的語音辨識方法",
+    "content": "<p>語音辨識技術近年來取得了長足的進步，各大科技公司都在努力提升語音辨識的準確度和速度。但是，Together AI 的最新成就卻讓業界為之震驚，他們成功打造出了世上最快的語音轉文字技術。</p>    <h2>語音辨識的挑戰</h2>    <p>語音辨識是一個複雜的問題，涉及到語音信號的處理、模式識別和語言模型等多個方面。傳統的語音辨識方法往往將語音辨識視為一個 GPU 推理問題，然而，這種方法卻忽略了語音辨識的其他重要方面，例如語音信號的質量、語言模型的複雜度等。Together AI 的團隊認為，語音辨識應該被視為一個完整的系統問題，而非僅僅是 GPU 推理問題。</p>    <h2>Together AI 的創新方法</h2>    <p>Together AI 的團隊透過將語音辨識視為一個完整的系統問題，從而開發出了新的語音辨識技術。這種技術不僅能夠提升語音辨識的準確度，同時也能夠大幅提高語音辨識的速度。根據 Together AI 的測試結果，Their 的語音轉文字技術已經達到了世上最快的水平，遠超過其他同類技術。</p>    <p><strong>Together AI 的成就不僅在於技術上的突破，也在於他們對語音辨識的新視角</strong>，他們的創新方法為語音辨識技術的發展開闢了新的途徑。這種技術的應用前景廣泛，從語音助手到自動字幕生成，甚至可以用於語音翻譯等領域。</p>    <h2>編輯悄悄話</h2>    <p>Together AI 的超高速語音轉文字技術，讓我們看到了語音辨識技術的無限可能。語音辨識技術的發展，不僅能夠提升我們的生活品質，也能夠推動科技的進步。當我們在享受科技帶來的便利時，<strong>也應該關注技術背後的創新和突破</strong>，因為這些創新和突破，才是推動科技進步的根本動力。",
+    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6a19c7173dd9ce6d2660f358_OG-image_20260508_Pearl%20(1).png",
+    "source": "Together AI",
+    "url": "https://www.together.ai/blog/how-together-ai-built-the-worlds-fastest-speech-to-text-stack",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "021",
+    "title": "OpenJarvis登場：本地優先的個人AI助手，與Ollama完美結合",
+    "summary": "OpenJarvis v1.0正式推出，提供開源框架，讓使用者能夠在自己的硬體上建造個人AI助手，並內建Ollama支持，從此顛覆傳統的AI應用模式",
+    "content": "<p>近年來，人工智慧（AI）技術的發展日趨成熟，各大科技公司紛紛推出自己的AI產品。但是，這些產品往往需要依賴於雲端服務，讓使用者擔心自己的隱私和數據安全。現在，OpenJarvis出現了，提供了一種本地優先的個人AI助手，讓使用者能夠在自己的硬體上建造和運行AI應用。</p><h2>什麼是OpenJarvis？</h2><p>OpenJarvis是一個開源框架，允許使用者在自己的硬體上建造個人AI助手。它支持多種硬體平台，包括樹莓派、英特爾NUC等。使用者可以通過OpenJarvis建立自己的AI模型，並在本地運行，無需依賴於雲端服務。這意味著使用者可以完全控制自己的數據和AI應用，無需擔心隱私和安全問題。</p><h2>OpenJarvis與Ollama的結合</h2><p>OpenJarvis v1.0正式推出，內建Ollama支持。Ollama是一種開源的AI框架，允許使用者建立自己的AI模型。通過OpenJarvis和Ollama的結合，使用者可以在本地建立和運行自己的AI應用，同時享受Ollama的強大功能。這種結合讓使用者可以更容易地建立和運行自己的AI應用，同時保持數據和隱私的安全。</p><p><strong>OpenJarvis的出現，將會推動個人AI助手的發展</strong>，讓使用者能夠在自己的硬體上建造和運行AI應用。這種趨勢將會挑戰傳統的AI應用模式，讓使用者有更多的選擇和控制權。</p><h2>編輯悄悄話</h2><p>其實，OpenJarvis的出現，也讓我們反思一下自己的數據和隱私問題。當我們使用雲端服務時，自己的數據和隱私是否受到保護？通過OpenJarvis和Ollama的結合，使用者可以更好地控制自己的數據和AI應用。這種趨勢，也讓我們看到，未來的AI應用將會更加注重使用者的隱私和安全問題。所以，<strong>使用者需要更加關注自己的數據和隱私問題</strong>，並選擇合適的AI應用和硬體平台，以確保自己的數據和隱私受到保護。</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/openjarvis",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "022",
+    "title": "開源智慧家庭安全攝影機系統登場：Secluso 領導端到端加密革命",
+    "summary": "Secluso 專案顛覆傳統家庭安全攝影機的隱私問題，推進端到端加密技術，挑戰傳統的安全攝影機產業",
+    "content": "<p>近年來，智慧家庭安全攝影機的需求越來越高，但隱私問題一直是使用者關心的重點。為了解決這個問題，開源專案 Secluso登場了。Secluso 是一個開源的私人家庭安全攝影機系統，使用 OpenMLS 進行端到端加密，確保使用者的隱私安全。</p><h2>什麼是 Secluso？</h2><p>Secluso 是一個開源專案，最初在 2024 年以 Privastead 的名稱登場。該專案的創始人與 John Kaczman 合作了一年半，對軟件進行了許多改進。現在，Secluso 可以在 Raspberry Pi 上快速安裝，無需技術專長，使用者可以輕鬆設置自己的安全攝影機系統。</p><p><strong>Secluso 的特色包括：</strong> 使用自訂的、最小化的作業系統，基於 Yocto 專案；除 iOS 應用程式外，所有元件都具有可重建的版本，包括 Android 應用程式、攝影機/伺服器二進制檔、部署工具和作業系統；重新設計的行動應用程式，現在可在 iOS App Store 和 Google Play 商店下載；支援 UnifiedPush，提供更私密的推送通知。</p><h2>Secluso 對安全攝影機產業的影響</h2><p>Secluso 的出現，對傳統的安全攝影機產業提出了一個挑戰。以往，安全攝影機的隱私問題一直是使用者關心的重點。Secluso 的端到端加密技術，為使用者提供了一個更安全的選擇。同時，Secluso 的開源性質，也使得開發者可以自由修改和擴展該專案，推進安全攝影機技術的發展。</p><p><strong>Secluso 的未來發展，值得關注</strong>。隨著 IoT 技術的發展，智慧家庭安全攝影機的需求將會越來越高。Secluso 的出現，為使用者提供了一個更安全、更私密的選擇。同時，也為開發者提供了一個開源的平台，推進安全攝影機技術的發展。</p><h2>編輯悄悄話</h2><p>Secluso 的出現，讓我們重新思考智慧家庭安全攝影機的隱私問題。端到端加密技術，為使用者提供了一個更安全的選擇。同時，開源的性質，也使得開發者可以自由修改和擴展該專案。讓我們拭目以待 Secluso 的未來發展，和它對安全攝影機產業的影響。</p>",
+    "image": "https://repository-images.githubusercontent.com/894270616/599f4d48-21dd-4b24-954d-b1a21c690579",
+    "source": "Hacker News",
+    "url": "https://github.com/secluso/core",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "023",
+    "title": "GitHub 推出最新 ESC 系列商品，讓開發者走出戶外，發揮創意",
+    "summary": "GitHub 的最新 ESC 系列商品將挑戰傳統的開發模式，推進開發者走出戶外，發揮創意，顛覆傳統的工作方式",
+    "content": "<p>GitHub 正在努力打破傳統的開發模式，讓開發者走出戶外，發揮創意。最近，GitHub 推出了一系列新的 ESC 商品，包括 T 恤、馬克杯和其他配飾。這些商品的設計理念是讓開發者可以在任何地方工作和發揮創意，而不僅僅是在辦公室的桌子旁。</p>  <h2>走出戶外，發揮創意</h2>  <p><strong>GitHub 的 ESC 系列商品</strong> 是為了讓開發者走出戶外，發揮創意而設計的。這些商品的設計理念是讓開發者可以在任何地方工作和發揮創意，而不僅僅是在辦公室的桌子旁。例如，GitHub 的 T 恤上印有「Still a developer. Just outside.」的標語，鼓勵開發者走出戶外，發揮創意。</p>  <h2>挑戰傳統，推進創新</h2>  <p><strong>GitHub 的 ESC 系列商品</strong> 不僅僅是一些普通的商品，它們代表著對傳統開發模式的挑戰。GitHub 希望通過這些商品，鼓勵開發者走出戶外，發揮創意，挑戰傳統的工作方式。這些商品的設計理念是讓開發者可以在任何地方工作和發揮創意，而不僅僅是在辦公室的桌子旁。</p>  <h2>編輯悄悄話</h2>  <p>其實，開發者走出戶外，發揮創意是很有必要的。因為，創意往往來自於生活中的點滴，而不是僅僅坐在辦公室的桌子旁。所以，GitHub 的 ESC 系列商品其實是在鼓勵開發者走出戶外，發揮創意，挑戰傳統的工作方式。這是一個很有趣的想法，也是一個值得開發者思考的問題。所以，開發者們，走出戶外吧，發揮創意，挑戰傳統的工作方式，讓我們一起創造出更加美好的未來！</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/05/Blog-Header.png",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "024",
+    "title": "科技巨頭的新挑戰：如何平衡創新與安全",
+    "summary": "近年來，科技業的快速發展引發了許多挑戰，尤其是在創新與安全之間的平衡問題，究竟如何找到最佳的解決方案，成為業界的重點關注",
+    "content": "<h2>科技業的快速發展</h2><p>科技業的快速發展為我們帶來了許多便利，從 <strong>手機</strong> 到 <strong>電腦</strong>，從 <strong>網路</strong> 到 <strong>雲端運算</strong>，科技業的進步不斷改變著我們的生活方式。但是，科技業的快速發展也引發了許多挑戰，尤其是在 <strong>安全</strong> 與 <strong>創新</strong> 之間的平衡問題。</p><p>例如，<strong>人工智慧</strong> 的發展為我們帶來了許多便利，但也引發了 <strong>隱私</strong> 和 <strong>安全</strong> 的問題。如何平衡創新與安全，成為業界的重點關注。</p><h2>業界的解決方案</h2><p>為了解決這個問題，業界正在努力尋找最佳的解決方案。例如，<strong>Google</strong> 和 <strong>Apple</strong> 等科技巨頭正在投入大量資源來發展 <strong>安全</strong> 的技術，例如 <strong>加密</strong> 和 <strong>防火牆</strong> 等。</p><p>同時，業界也在鼓勵 <strong>開源</strong> 的發展，讓更多的開發者可以參與到安全的開發中，共同解決安全的問題。這樣不僅可以提高安全的水準，也可以促進創新的發展。</p><h2>編輯悄悄話</h2><p>科技業的快速發展為我們帶來了許多便利，但也引發了許多挑戰。如何平衡創新與安全，成為業界的重點關注。作為一個消費者，我們也應該關注這個問題，選擇安全可靠的產品和服務。同時，我們也應該支持業界的努力，鼓勵開源的發展，共同解決安全的問題。這樣，我們才能真正享受科技業的便利，同時也能確保我們的安全。</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e55d47625324d162a35b4d0b08e23c1e65ad5634-12000x6300.jpg?w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "025",
+    "title": "AI 助力工具讓團隊在數分鐘內從 ingress-nginx 轉換到 Higress",
+    "summary": "雲原生計算基金會推出了一種新的 AI 助力遷移方法，讓工程師能夠在大約 30 分鐘內將 60 個 ingress-nginx 資源遷移至 Higress，展現了人工智慧在現代化 Kubernetes 網路和閘道器基礎設施中的應用",
+    "content": "<p>近期，雲原生計算基金會推出了一種新的 AI 助力遷移方法，讓工程師能夠快速將 ingress-nginx 資源遷移至 Higress。這種方法使用人工智慧來自動化遷移過程，讓團隊能夠在數分鐘內完成遷移工作。</p>    <h2>什麼是 ingress-nginx 和 Higress？</h2>    <p>ingress-nginx 是一個 Kubernetes 的入口控制器，負責管理進入集群的流量。Higress 是一個新的入口控制器，提供了更好的性能和擴展性。然而，將 ingress-nginx 遷移至 Higress 的過程可能很複雜，需要手動編輯 YAML 文件和重啟服務。</p>    <p><strong>AI 助力工具的出現，讓這個過程變得簡單許多</strong>。這種工具使用機器學習演算法來分析 ingress-nginx 的配置文件，然後自動生成相應的 Higress 配置文件。這樣，工程師就可以輕鬆地將 ingress-nginx 資源遷移至 Higress。</p>    <h2>AI 助力工具的優點</h2>    <p>使用 AI 助力工具來遷移 ingress-nginx 資源有許多優點。首先，<strong>速度快</strong>，可以在數分鐘內完成遷移工作。其次，<strong>減少人工錯誤</strong>，因為工具會自動生成配置文件，減少了人工編輯的錯誤風險。最後，<strong>提高效率</strong>，工程師可以專注於其他重要工作，而不是花費時間在遷移過程上。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧的應用正在改變我們的工作方式，讓我們能夠更快速、更有效地完成工作。在這個例子中，AI 助力工具讓團隊能夠在數分鐘內完成 ingress-nginx 到 Higress 的遷移工作，真是令人驚讚。這個工具的出現，讓我們看到人工智慧在現代化 Kubernetes 網路和閘道器基礎設施中的巨大潛力。讓我們拭目以待，未來會有更多這樣的創新應用出現。</p>",
+    "image": "https://res.infoq.com/news/2026/05/ai-nginx-higress/en/headerimage/generatedHeaderImage-1779528783880.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/news/2026/05/ai-nginx-higress/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "026",
+    "title": "Docker 引擎安全漏洞CVE-2026-31431：「複製失敗」隱患",
+    "summary": "近期發現的Linux核心漏洞CVE-2026-31431引發關注，雖不直接影響Docker基礎設施，但早期Docker引擎版本的預設設定存在風險，可能允許容器創建AF_ALG套接字，推進了漏洞的利用",
+    "content": "<p>近期，Linux核心漏洞CVE-2026-31431被披露，該漏洞被稱為「複製失敗」（Copy Fail），引發了廣泛關注。雖然這個漏洞不直接影響Docker的基礎設施，但早期Docker引擎版本的預設設定存在風險，可能允許容器創建AF_ALG套接字，這是漏洞利用的關鍵點。 <strong>如果你正在運行Docker引擎v29.4.3或更高版本，你就不需要擔心這個問題</strong>。</p>  <h2>什麼是CVE-2026-31431？</h2>  <p>CVE-2026-31431是一個Linux核心漏洞，最近被公開披露。這個漏洞可以讓攻擊者通過創建AF_ALG套接字來實現任意代碼執行，從而控制系統。 <strong>這個漏洞的風險級別相當高</strong>，因此需要盡快修復。</p>  <h2>如何保護你的Docker引擎？</h2>  <p>如果你正在運行Docker引擎早期版本，需要盡快升級到v29.4.3或更高版本，以防止漏洞被利用。 <strong>升級Docker引擎是最有效的保護措施</strong>。此外，你也可以手動設定Docker引擎的預設設定，禁止容器創建AF_ALG套接字，但這需要一定的技術專長。</p>  <h2>編輯悄悄話</h2>  <p>這個事件告訴我們， <strong>安全漏洞可以在任何時候出現</strong>，因此需要時刻保持警惕。升級Docker引擎是最有效的保護措施，但同時也需要注意其他安全設定和最佳實踐。通過這個事件，我們可以學習到如何更好地保護自己的系統和數據，避免類似的安全風險。 <strong>安全是個長期的工作</strong>，需要我們一直保持著高度的警惕和關注。</p>",
+    "image": "https://www.docker.com/app/uploads/2025/03/image.png",
+    "source": "Docker Blog",
+    "url": "https://www.docker.com/blog/mitigating-cve-2026-31431-copy-fail-in-docker-engine/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "027",
+    "title": "雲端安全巨頭 Cloudflare 打造資料平台和 AI 智慧代理",
+    "summary": "雲端安全領導者 Cloudflare 推出 Town Lake 整合分析平台，並搭載 Skipper 內部 AI 智慧代理，將資料分析和 AI 技術結合，推進企業數據安全和智慧決策的發展",
+    "content": "<p>近年來，企業數據安全和智慧決策的需求不斷增加，雲端安全巨頭 <strong>Cloudflare</strong> 也在積極應對這個趨勢。最近，Cloudflare 推出了 <strong>Town Lake</strong> 整合分析平台，並搭載 <strong>Skipper</strong> 內部 AI 智慧代理，旨在提供更強大的數據分析和智慧決策能力。</p>  <h2>打造統一分析平台</h2>  <p>Cloudflare 的 <strong>Town Lake</strong> 平台是為了整合企業內部各種數據源，提供統一的分析和洞察能力。這個平台可以收集和處理各種數據，包括用戶行為、系統性能、安全事件等，然後提供實時的分析和報告。這樣，企業可以更好地了解自己的數據，做出更明智的決策。</p>  <p>而 <strong>Skipper</strong> 內部 AI 智慧代理則是運行在 <strong>Town Lake</strong> 平台上的，負責分析和學習企業的數據，提供預測和建議。這個 AI 智慧代理可以幫助企業自動化數據分析，發現潛在的安全風險和效率問題，從而提高企業的安全性和效率。</p>  <h2>智慧決策的未來</h2>  <p>Cloudflare 的 <strong>Town Lake</strong> 和 <strong>Skipper</strong> 的推出，代表著企業數據安全和智慧決策的未來。隨著 <strong>AI</strong> 技術的發展，企業可以更好地利用數據，做出更明智的決策。這將是企業在未來競爭中取得優勢的關鍵因素。</p>  <p>而 <strong>Cloudflare</strong> 的這個舉動，也將推動整個雲端安全產業的發展，其他企業也將會跟進，投資於數據分析和 AI 技術。這將是企業數據安全和智慧決策的新時代。</p>  <h2>編輯悄悄話</h2>  <p>其實，企業數據安全和智慧決策的需求早已存在，但隨著 <strong>AI</strong> 技術的發展，企業現在可以更好地利用數據，做出更明智的決策。這個趨勢將會持續下去，企業需要投資於數據分析和 AI 技術，才能在未來競爭中取得優勢。所以，現在是企業開始思考自己的數據安全和智慧決策策略的時候了，否則就會被時代所拋棄。</p>",
+    "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/6TH1tmcxAA3gDCsdXcnqSl/8c8b1ca2b9b83459d6f54025f5f8c1eb/OG_Share_2024-2025-2026__36_.png",
+    "source": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/our-unified-data-platform/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "028",
+    "title": "Vercel Functions 改採單位計費，讓你的雲端應用更具彈性",
+    "summary": "Vercel Functions 正式推出單位計費，顛覆傳統的套餐式計費方式，讓使用者能更精確地控制成本，並且能更好地適應不同團隊大小和使用模式",
+    "content": "<p>近日，Vercel 宣布其 Functions 服務將從套餐式計費改為單位計費，對於 Pro 和新企業客戶來說，這意味著他們將能更精確地控制成本。這項變革將從下一個計費周期開始生效，使用者將根據實際使用情況進行付費，而非依據套餐內容。</p>    <h2>單位計費的優勢</h2>    <p><strong>單位計費的引入</strong>，可以讓使用者更好地掌握自己的成本支出，特別是對於團隊大小和使用模式不同的使用者來說。以往的套餐式計費，可能會導致使用者在使用 Function invocations 時，立即消耗大量的月度使用額度。現在，使用者可以更自由地使用 Function invocations，而不需要擔心會超出套餐內容。</p>    <p>另外，<strong>單位計費</strong> 的費率相當合理，Pro 客戶的費率為每次調用 $0.0000006，相比以前的 $0.60 per 1M 次調用，具有更高的性價比。</p>    <h2>使用 Vercel Functions 的好處</h2>    <p><strong>Vercel Functions</strong> 的使用，可以讓開發人員更快速地創建和部署雲端應用，同時也能提供更好的性能和安全性。使用 Vercel Functions，可以讓開發人員專注於自己的業務邏輯，無需擔心基礎設施的管理和維護。</p>    <p>如果你對 Vercel Functions 感興趣，可以點擊 <a href='https://vercel.com/docs/functions/quickstart'>Get started</a> 或 <a href='https://vercel.com/docs/functions/usage-and-pricing'>Learn more</a> 了解更多資訊。</p>    <h2>編輯悄悄話</h2>    <p>這次 Vercel Functions 的單位計費變革，對於使用者來說是一個很大的福音，能讓他們更好地控制成本和使用模式。同時，也體現了 Vercel 對於使用者體驗的重視和不斷改進的精神。作為一名開發人員，能夠使用這樣一個方便和彈性的服務，真的很幸運。所以，如果你還沒有使用 Vercel Functions 的話，不要猶豫，趕快去試用吧！</p>",
+    "image": "https://vercel.com/api/dynamic-og?title=Function%20invocations%20now%20billed%20per%20unit&format=changelog",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/function-invocations-now-billed-per-unit",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "029",
+    "title": "程式設計論壇更新規則：AI 相關內容有了新規範",
+    "summary": "程式設計論壇結束了對 AI 相關內容的臨時禁令，推出新的 AI 政策，將深入技術實現的內容納入允許範圍，對於程式設計師來說是一個重大的轉變，將挑戰現有的開發模式",
+    "content": "<p>近期，程式設計論壇對 AI 相關內容進行了臨時禁令，引起了廣泛關注。現在，這個禁令終於結束了，取而代之的是一套新的 AI 政策。這個政策的核心是：<strong>只有深入技術實現的 AI 相關內容才被允許發布</strong>。這對於程式設計師來說是一個重大的轉變，將衝擊現有的開發模式。</p>  <h2>什麼是新的 AI 政策？</h2>  <p>新的 AI 政策明確指出，AI 和 LLMs 相關的內容被視為非主題內容，除非它們涉及到<strong>深入技術實現</strong>。這意味著，如果你想在論壇上發布 AI 相關的內容，你需要確保它們是技術性質的，並且能夠為其他開發者提供有價值的信息。這個政策的目的是為了維持論壇的技術性質，避免過多的非技術性質的討論。</p>  <h2>如何理解新的規則？</h2>  <p>如果你對新的規則感到疑惑，可以先去閱讀完整的 AI 政策文件。文件中詳細地闡述了新的規則和相關的解釋。另外，論壇的舊版網站也更新了規則列表，方便用戶查詢。這些規則雖然是新的，但其實我們一直在按照這些原則進行管理，只是現在正式將它們寫下來了。</p>  <h2>編輯悄悄話</h2>  <p>新的 AI 政策對於程式設計師來說是一個挑戰，但同時也是一個機會。它要求我們更深入地思考技術實現，提供更有價值的內容。讓我們一起迎接這個挑戰，創造出更加技術性質的討論，推動開發模式的進一步發展。這個轉變可能會帶來一些暫時的不適應，但最終將會使我們的開發能力更上一層樓。所以，讓我們開始這個新的旅程，創造出更加精彩的開發世界。</p>",
+    "image": "",
+    "source": "Reddit Programming",
+    "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "030",
+    "title": "玩具總動員5：湯姆漢克斯揭秘系列史上最催淚場景",
+    "summary": "長期擔任伍迪的湯姆漢克斯表示，《玩具總動員5》將會呈現系列史上最令人心碎的場景之一，對粉絲來說將是一次情感的衝擊",
+    "content": "<p>近日，長期擔任伍迪的湯姆漢克斯在接受採訪時，揭秘了《玩具總動員5》的最新消息。他表示，這部電影將會呈現系列史上最令人心碎的場景之一。這個消息對於《玩具總動員》的粉絲來說，是一個重大的衝擊。湯姆漢克斯的話語中，透露了這部電影的內容將會非常感人。</p>    <h2>玩具總動員的演變</h2>    <p>《玩具總動員》系列電影，自1995年首部作品問世以來，已經成為全球最受歡迎的動畫電影之一。這個系列的成功，來自於其對於兒童和成人都具有吸引力的故事情節和角色設定。從伍迪到巴茲光年，再到傑西和布爾的等角色，每一個角色都有其獨特的個性和魅力。這些角色們的故事，讓觀眾們在過去的幾十年中，經歷了無數次的笑和淚。</p>    <h2>湯姆漢克斯的評價</h2>    <p>湯姆漢克斯的評價，對於《玩具總動員5》的期待值來說，非常重要。他作為伍迪的配音演員，對於這個角色有著深刻的理解和感受。他的話語中，透露了這部電影的內容將會非常感人和催淚。這個消息，讓粉絲們對於這部電影的期待值，更加提高了。同時，也讓人們更加好奇，到底什麼樣的場景，能夠被湯姆漢克斯評為系列史上最令人心碎的場景之一。</p>    <h2>編輯悄悄話</h2>    <p>生活中的每一個瞬間，都可能成為一部電影的素材。《玩具總動員5》的這個消息，讓人們不禁思考，自己的生活中，哪些瞬間是最難忘和最催淚的。這個思考的過程，可能會讓人們更加珍惜現在的每一刻，和身邊的每一個人。所以，當我們期待著《玩具總動員5》的上映時，也不要忘記，生活中的每一個瞬間，都可能成為一部電影的素材，都可能成為我們自己生命中的最難忘和最催淚的場景。</p>",
+    "image": "https://assets-prd.ignimgs.com/2026/05/29/toy-story-3-so-long-partner-1780093477356.png?width=1280&format=jpg&auto=webp&quality=80",
+    "source": "IGN",
+    "url": "https://www.ign.com/articles/toy-story-5-heartbreaking-scene-tom-hanks",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "031",
+    "title": "《決勝時刻》開發團隊Infinity Ward的獨家訪談：友好的競爭、SBMM系統和現實世界的啟發",
+    "summary": "《決勝時刻》系列的開發團隊Infinity Ward在最新的訪談中，談到了友好的競爭、SBMM系統和現實世界的啟發。這些變革將如何衝擊遊戲業界？",
+    "content": "<h2>友好的競爭和SBMM系統</h2><p>在最近的訪談中，Infinity Ward的兩位資深開發人員談到了《決勝時刻》系列的開發過程。其中一位開發人員提到，友好的競爭是團隊的核心價值觀。他們認為，競爭可以促進創新和進步，但是也需要保持友好的態度，以避免過度的壓力和緊張。</p><p>另外，SBMM（技能基於匹配）系統也被提及。這個系統旨在讓玩家們能夠與其他玩家進行匹配，從而提高遊戲的競爭性和挑戰性。開發人員表示，SBMM系統是《決勝時刻》系列的一個重要特點，將繼續改進和優化。</p><h2>現實世界的啟發</h2><p>Infinity Ward的開發人員還談到了現實世界的啟發。他們表示，團隊的創作靈感來自於現實世界的事件和新聞。例如，最近的《決勝時刻》遊戲中，有一系列關於恐怖主義和反恐戰爭的任務。開發人員表示，這些任務的設計是基於現實世界的事件和新聞，並旨在讓玩家們能夠體驗到真實的戰爭氛圍。</p><p>此外，開發人員還提到，團隊也會關注玩家的反饋和意見。例如，最近的一些玩家表示，遊戲中的一些任務過於困難或不公平。開發人員表示，團隊會仔細聆聽玩家的意見，並進行相應的調整和改進。</p><h2>編輯悄悄話</h2><p>《決勝時刻》系列的開發團隊Infinity Ward的訪談，給我們帶來了很多有趣的信息和啟發。友好的競爭、SBMM系統和現實世界的啟發，這些元素將如何衝擊遊戲業界？讓我們繼續關注和期待《決勝時刻》系列的未來發展吧！</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/C2U3WKuJ8R9Z74h4Vwi8vE-1920-80.jpg",
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/fps/a-conversation-with-infinity-ward-about-call-of-duty/",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "032",
+    "title": "抓到那些囤積神奇寶貝卡片的囤貨高手！",
+    "summary": "你是否曾經被那些囤積神奇寶貝卡片的囤貨高手氣到發瘋？這款新的管理模擬遊戲《你是囤貨高手嗎？》就是為了懲罰那些囤積卡片並以高價出售的不良分子。這款遊戲的玩法類似於《請出示你的文件》，但你將不再是檢查文件，而是要抓到那些囤貨高手並讓他們付出代價。",
+    "content": "<h2>神奇寶貝卡片的囤貨高手們，該是被懲罰的時候了</h2><p>你是否曾經被那些囤積神奇寶貝卡片的囤貨高手氣到發瘋？他們總是能夠找到那些稀有或熱門的卡片，並以高價出售給其他玩家。這款新的管理模擬遊戲《你是囤貨高手嗎？》就是為了懲罰那些囤積卡片並以高價出售的不良分子。</p><p>在這款遊戲中，你將扮演一家卡片店的老闆，你的任務是要抓到那些囤貨高手並讓他們付出代價。你需要管理你的店鋪，購買和出售卡片，並盡量抓到那些囤貨高手。這款遊戲的玩法類似於《請出示你的文件》，但你將不再是檢查文件，而是要抓到那些囤貨高手並讓他們付出代價。</p><h2>抓到囤貨高手的方法有很多</h2><p>在這款遊戲中，抓到囤貨高手的方法有很多。你可以通過購買和出售卡片來抓到那些囤貨高手。你也可以通過管理你的店鋪來抓到那些囤貨高手。例如，你可以提高你的店鋪的安全性，或者聘用更多的員工來幫助你抓到囤貨高手。</p><p><strong>抓到囤貨高手的關鍵在於你需要有良好的管理能力和商業頭腦</strong>。你需要知道如何購買和出售卡片，如何管理你的店鋪，如何抓到那些囤貨高手。這款遊戲對於那些喜歡管理模擬遊戲的玩家來說，是一個非常好的選擇。</p><h2>編輯悄悄話</h2><p>這款遊戲對於那些喜歡神奇寶貝卡片的玩家來說，是一個非常好的選擇。你可以在這款遊戲中體驗到抓到囤貨高手的樂趣，並且可以學習到如何管理你的店鋪和卡片。所以，如果你是神奇寶貝卡片的粉絲，那麼這款遊戲絕對是你不能錯過的！</p>",
+    "image": "https://assetsio.gnwcdn.com/yourascalperarentyou.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/catch-the-scalpers-who-get-rich-flipping-pokemon-tcg-cards-in-this-very-vindictive-shop-management-game",
+    "date": "2026-05-30"
+  }
+]
