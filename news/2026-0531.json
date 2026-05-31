@@ -1,0 +1,222 @@
+[
+  {
+    "id": "001",
+    "title": "在瀏覽器中運行 Python ASGI 應用：Pyodide 和 Service Worker 的強大結合",
+    "summary": "Simon Willison 的最新發現，即通過 Pyodide 和 Service Worker 在瀏覽器中運行 Python ASGI 應用，將會推進網頁開發的新技術，顛覆傳統的瀏覽器限制",
+    "content": "<p>近期，Simon Willison 的博客發表了一篇關於在瀏覽器中運行 Python ASGI 應用的文章，引起了廣泛的關注。這個創新的方法結合了 <strong>Pyodide</strong> 和 <strong>Service Worker</strong>，使得開發人員可以在瀏覽器中直接運行 Python 應用，從而擴大了網頁開發的可能性。</p>    <h2>什麼是 Pyodide 和 Service Worker？</h2>    <p><strong>Pyodide</strong> 是一個可以在瀏覽器中運行 Python 代碼的工具，它使得開發人員可以在瀏覽器中使用 Python 進行開發，而 <strong>Service Worker</strong> 是一個可以在瀏覽器中運行的背景腳本，負責處理網頁的請求和回應。通過結合這兩個技術，開發人員可以在瀏覽器中創建更加複雜和強大的應用。</p>    <h2>運行 Python ASGI 應用的實際應用</h2>    <p>Simon Willison 的團隊通過這個方法創建了多個示範項目，包括 <strong>ASGI FastCGI</strong> 和 <strong>Datasette 1.0a31</strong>。這些示範項目展示了在瀏覽器中運行 Python ASGI 應用的強大可能性，開發人員可以使用 Python 進行網頁開發，從而更好地利用瀏覽器的功能。</p>    <ul>      <li>基於 <strong>Claude Opus 4.8</strong> 的開發環境</li>      <li>在瀏覽器中運行 Python 代碼</li>      <li>使用 Service Worker 處理網頁請求和回應</li>    </ul>    <h2>編輯悄悄話</h2>    <p>這個創新的方法將會對網頁開發產生深遠的影響，開發人員可以使用 Python 進行網頁開發，從而創造更加複雜和強大的應用。這個技術的出現將會推動網頁開發的新技術，讓我們拭目以待未來的發展。通過這個技術，開發人員可以更好地利用瀏覽器的功能，創造更加豐富和強大的網頁應用，<strong>這是一個值得期待的未來</strong>。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "002",
+    "title": "軟銀巨資750億歐元打造法國AI資料中心",
+    "summary": "軟銀集團計劃在法國投資750億歐元，打造人工智能資料中心，將重塑歐洲AI基建的核心，對算力格局造成深遠影響，推進AI技術的發展",
+    "content": "<p>軟銀集團的投資計畫將為法國帶來龐大的AI基建，<strong>使法國成為歐洲AI發展的核心</strong>。這項投資將包括建設人工智能資料中心、研發人工智能技術等，預計將為法國創造大量就業機會，<strong>推動法國經濟的發展</strong>。</p>    <h2>法國成為AI發展的核心</h2>    <p>軟銀集團的投資計畫將使法國成為歐洲AI發展的核心，<strong>吸引更多的AI企業和人才</strong>。法國政府也將為這項投資提供支持，<strong>創造有利的商業環境</strong>。這項投資將對法國的經濟和社會產生深遠的影響，<strong>促進法國的科技發展</strong>。</p>    <h2>算力格局的變化</h2>    <p>軟銀集團的投資計畫也將對算力格局產生深遠的影響，<strong>使法國成為歐洲算力的核心</strong>。這項投資將包括建設大量的資料中心和超級計算機，<strong>提高法國的算力能力</strong>。這將對AI企業和研究機構產生重大影響，<strong>促進AI技術的發展</strong>。</p>    <h2>編輯悄悄話</h2>    <p>軟銀集團的投資計畫將對法國和歐洲的AI發展產生深遠的影響，<strong>使法國成為AI發展的核心</strong>。這項投資將推動法國的經濟和科技發展，<strong>創造更多的就業機會</strong>。同時，<strong>法國的AI基建也將成為歐洲的核心</strong>，對算力格局產生深遠的影響。因此，<strong>我們可以預期法國的AI發展將迎來一個新的時代</strong>，並對歐洲的AI發展產生重大影響。</p>",
+    "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMLw_LydbkSQ/v0/1200x800.jpg",
+    "source": "AI HOT 精選",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-30/softbank-to-invest-some-75-billion-in-ai-in-france-reports-say",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "003",
+    "title": "NVIDIA 將於六月推出革命性 ARM 筆記本芯片 N1X：整合 Blackwell GPU 與 AI 單元",
+    "summary": "NVIDIA 即將推出整合 Blackwell GPU 與 AI 單元的 ARM 筆記本芯片 N1X，將顛覆傳統筆記本電腦的性能，帶來接近 RTX 4070 的圖形能力，挑戰 Intel、AMD 和高通在 PC 市場的霸主地位",
+    "content": "<p>近期，NVIDIA、微軟與 Arm 同步發佈指向台北音樂中心的坐標，暗示 6 月 1 日發佈會將有重大動作。這一舉動被認為是 NVIDIA 將於六月推出整合 Blackwell GPU 與 AI 單元的 ARM 筆記本芯片 N1X 的預告。這款芯片整合了 CPU、基於 Blackwell 架構的 GPU 及 AI 單元，目標是使輕薄本具備接近 RTX 4070 的圖形性能。</p>  <h2>什麼是 Blackwell 架構？</h2>  <p>Blackwell 架構是一種由 NVIDIA 研發的新型 GPU 架構，具有更高的運算效率和更低的功耗。這種架構可以提供更好的圖形性能和更長的電池壽命，非常適合於輕薄本和行動裝置。NVIDIA 將這種架構整合到 ARM 筆記本芯片 N1X 中，將為用戶帶來前所未有的圖形體驗。</p>  <h2>NVIDIA 的戰略轉變</h2>  <p>NVIDIA 推出 ARM 筆記本芯片 N1X 標誌著其戰略轉變：從顯卡供應商轉型為定義整機核心方案的提供商。這意味著 NVIDIA 將直接衝擊 Intel、AMD 和高通在 PC 市場的霸主地位。NVIDIA 的這一舉動將為 PC 市場帶來新的競爭和機遇，同時也將為用戶帶來更好的圖形性能和更長的電池壽命。</p>  <h2>編輯悄悄話</h2>  <p>NVIDIA 將於六月推出 ARM 筆記本芯片 N1X，必將引起 PC 市場的震撼。這一新型芯片將為用戶帶來前所未有的圖形體驗和更長的電池壽命。同時，也將為 PC 市場帶來新的競爭和機遇。作為用戶，我們可以期待更好的圖形性能和更長的電池壽命。作為業界人士，我們可以期待 NVIDIA 的這一舉動將帶來什麼樣的影響和機遇。總之，這是一個值得關注的事件，讓我們拭目以待吧。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/AYi_AInotes/status/2060779431648547016",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "004",
+    "title": "GitHub Copilot 新計費模式惹怒開發者：Token 化計費是變相漲價嗎？",
+    "summary": "GitHub Copilot 推出新的基於 Token 的計費模式，引發開發者們的不滿與擔憂，開發者們擔心這將會衝擊他們的開發成本，推動開發者們尋找替代方案",
+    "content": "<p>近日，微軟旗下的 GitHub Copilot 推出了一個新的基於 Token 的計費模式，引發了開發者們的不滿與擔憂。這個計費模式的變化，讓開發者們感覺像是變相漲價，尤其是對於重度使用者來說。</p>    <h2>什麼是 Token 化計費模式？</h2>    <p>Token 化計費模式是指 GitHub Copilot 將其服務的費用計算方式改為基於 Token 的使用量。這意味著開發者們需要根據自己使用的 Token 數量來支付費用。這個模式的變化，讓開發者們需要更加注意自己的 Token 使用量，以避免不必要的費用支出。</p>    <p><strong>這個計費模式的變化，對於開發者們來說是個挑戰</strong>，因為他們需要重新計算自己的開發成本，避免不必要的費用支出。同時，這個計費模式的變化，也可能會推動開發者們尋找替代方案，例如其他的 AI 编碼工具。</p>    <h2>開發者們的反應</h2>    <p>對於 GitHub Copilot 的新計費模式，開發者們的反應非常強烈。許多開發者們表示，這個計費模式的變化，讓他們感覺像是變相漲價，尤其是對於重度使用者來說。開發者們擔心，這個計費模式的變化，將會衝擊他們的開發成本，甚至可能會影響到他們的生計。</p>    <p><strong>開發者們的不滿與擔憂，是可以理解的</strong>，因為 GitHub Copilot 的服務，對於開發者們來說是非常重要的。GitHub Copilot 的 AI 编碼工具，可以幫助開發者們提高開發效率，同時也可以幫助開發者們解決一些複雜的编碼問題。</p>    <h2>編輯悄悄話</h2>    <p>GitHub Copilot 的新計費模式，讓開發者們感覺像是變相漲價，尤其是對於重度使用者來說。這個計費模式的變化，將會衝擊開發者們的開發成本，甚至可能會影響到他們的生計。因此，開發者們需要更加注意自己的 Token 使用量，以避免不必要的費用支出。同時，開發者們也需要尋找替代方案，例如其他的 AI 编碼工具，以避免被 GitHub Copilot 的新計費模式所影響。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200",
+    "source": "AI HOT 精選",
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "005",
+    "title": "美國企業面臨人工智能成本飆升，開始實施使用配給",
+    "summary": "美國企業為應對人工智能費用增長過快的問題，開始對人工智能的使用實施配給制，轉向精細化管理，注重成本效益",
+    "content": "<p>近年來，<strong>人工智能技術</strong>的發展迅速，美國企業紛紛將其應用於各個領域。然而，隨著時間的推移，<strong>人工智能的運行和使用成本</strong>開始飆升，對企業造成了沉重的負擔。為此，美國企業開始對人工智能的使用實施配給制，通過限制使用量、設定分層級審批流程等方式控制開支。</p>    <h2>從廣泛採用到精細化管理</h2>    <p>這種從廣泛採用轉向精細化管理的策略，標誌著企業在人工智能應用上從追求速度轉向注重成本效益。企業開始認識到，<strong>人工智能的價值</strong>不僅在於其帶來的效率提升和創新能力，也在於其帶來的成本節約和投資回報率。因此，企業需要更加精細地管理人工智能的使用，確保每一分錢的投資都能帶來最大化的回報。</p>    <h2>面向企業的AI產品必須回答的ROI考題</h2>    <p>面向企業的AI產品必須回答的ROI考題是，如何為企業帶來明顯的成本節約和投資回報率。企業在採用AI產品時，需要考慮其帶來的成本效益，包括硬件和軟件的成本、維護和更新的成本、以及人工智能模型的訓練和優化的成本等。只有當AI產品能夠為企業帶來明顯的成本節約和投資回報率時，企業才會願意採用和投資AI技術。</p>    <h2>編輯悄悄話</h2>    <p>其實，<strong>人工智能的發展</strong>就像一場馬拉松賽，企業需要有耐心和策略地去跑這場賽。企業需要認識到人工智能的價值和潛力，但也需要更加精細地管理其使用，確保每一分錢的投資都能帶來最大化的回報。通過這樣的方式，企業才能真正地從人工智能中獲益，並在未來的競爭中佔據優勢。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "006",
+    "title": "《後室》開幕日賺了3,800萬美元，創下驚人紀錄",
+    "summary": "電影《後室》在開幕日就賺了3,800萬美元，預計開幕週末將達9,000萬美元，推進了A24公司的票房紀錄，並對娛樂圈產生了重大衝擊",
+    "content": "<p>電影《後室》由Kane Parsons執導，開幕日就賺了3,800萬美元，創下了驚人紀錄。這部電影預計在開幕週末將達9,000萬美元，遠遠超出了原先的預期。這不僅是A24公司的最佳開幕週末，也是該公司有史以來最好的開幕日。</p><h2>票房紀錄的挑戰者</h2><p>《後室》在開幕日的票房收入甚至超出了《曼達洛人》的開幕日票房，這是一個值得注意的成就。這部電影的成功也對娛樂圈產生了重大影響，尤其是對於獨立電影公司來說。A24公司的前任最佳開幕週末記錄是由Alex Garland的《內戰》保持的，達到了2,550萬美元。但《後室》卻輕鬆地打破了這個記錄，證明了這部電影的商業潛力。</p><h2>商業潛力的重塑</h2><p>《後室》的成功也重塑了我們對於電影商業潛力的看法。這部電影的預算並不高，但它卻能夠在開幕日就賺了3,800萬美元，預計開幕週末將達9,000萬美元。這個成就證明了，電影的成功不僅僅取決於預算的大小，還取決於創意的水平和市場的需求。因此，電影公司需要重新評估自己的商業策略，找到新的方法來吸引觀眾和增加收入。</p><h2>編輯悄悄話</h2><p>生活中的每一天都充滿了驚喜和挑戰，電影《後室》的成功就是其中之一。它提醒我們，創意和努力可以帶來意想不到的成就。因此，我們需要保持好奇心和開放心態，去發現和創造新的可能性。這部電影的成功也讓我們思考，什麼樣的電影才能夠吸引觀眾和創造商業成功。答案可能就在於創意的水平和市場的需求，讓我們一起去探索和發現新的電影商業模式。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/RENATE_CHIWETEL_SM.jpg?quality=90&strip=all&crop=0%2C11.167565783852%2C100%2C77.664868432295&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "007",
+    "title": "疫苗反對者的家族樹：懷疑論者、偽君子和真正的信徒",
+    "summary": "一本新書揭露了疫苗反對者的悠久歷史，推進了我們對此議題的理解，挑戰了傳統觀念",
+    "content": "<p>當我們談論疫苗時，總會有一些人出現，對其安全性和有效性提出質疑。這些人到底是誰？他們的動機又是什麼？一本新書《疫苗反對者的家族樹》為我們揭露了疫苗反對者的歷史，從早期的懷疑論者到現在的偽君子和真正的信徒。</p>    <h2>疫苗反對者的起源</h2>    <p>早期的疫苗反對者主要是基於宗教和哲學上的理由，認為疫苗是對自然和上帝的干預。然而，隨著時間的推移，反對理由變得更加複雜和多樣化。有些人出於對政府和醫學界的不信任，認為疫苗是用來控制和操縱民眾的工具。還有一些人則基於個人自由和自主權的理由，反對強制接種疫苗。</p>    <h2>現代疫苗反對者的特徵</h2>    <p>現在，疫苗反對者已經成為一個龐大和多元化的群體。有些人是出於對疫苗成分的擔憂，認為某些成分可能對健康有害。還有一些人則基於對疫苗有效性的質疑，認為疫苗不能提供足夠的保護。這些人通常會在網路上搜尋和分享資訊，形成了一個自我確認的回音室。<strong>疫苗反對者的聲音已經變得更加強大和有影響力</strong>，甚至影響了政府的公共衛生政策。</p>    <h2>編輯悄悄話</h2>    <p>生活在這個資訊爆炸的時代，很容易被各種意見和資訊所左右。然而，當談到疫苗時，我們必須<strong>保持冷靜和理性的頭腦</strong>。疫苗的科學證據已經充分證明了其安全性和有效性。因此，作為一個負責任的公民，我們應該<strong>支持和推廣疫苗接種</strong>，為公共衛生和社會的福祉做出貢獻。讓我們一起努力，打破迷思和誤解，為子孫後代創造一個更健康和安全的世界。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/9798217155002-1-1152x648-1780075269.jpeg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "008",
+    "title": "Keychron K2 HE Concrete Edition 評測：堅實的打字體驗",
+    "summary": "Keychron K2 HE Concrete Edition 的混凝土外殼看似奇特，但其實這款鍵盤擁有超越材料選擇的實力，將顛覆傳統鍵盤的使用體驗",
+    "content": "<p>近年來，鍵盤的設計越來越注重個性化和創新，Keychron K2 HE Concrete Edition 就是一個典型的例子。這款鍵盤採用混凝土外殼，聽起來像是一個奇特的噱頭，但事實上，它的打字體驗卻出乎意料地好。</p>    <h2>堅實的打字體驗</h2>    <p>Keychron K2 HE Concrete Edition 的鍵盤按鍵採用了高品質的 Cherry MX Switches，提供了非常好的打字感受。同時，鍵盤的設計也非常人性化，按鍵間距合理，讓使用者可以舒適地打字。這款鍵盤的 <strong>打字體驗</strong> 是非常出色的，讓人感受到它的實力。</p>    <h2>創新的設計</h2>    <p>Keychron K2 HE Concrete Edition 的混凝土外殼是它的一大特色，同時也是一個挑戰。因為混凝土的重量和堅硬性，鍵盤的設計需要非常小心。幸好，Keychron 的設計師們做到了，鍵盤的 <strong>結構設計</strong> 非常牢固，讓人感受到它的品質。同時，鍵盤的 <strong>外觀設計</strong> 也非常美觀，讓人愛不釋手。</p>    <h2>編輯悄悄話</h2>    <p>Keychron K2 HE Concrete Edition 的鍵盤體驗讓我感到驚喜，同時也讓我反思了鍵盤的設計。其實，鍵盤不僅僅是一個工具，還是一種藝術品。通過創新的設計和高品質的材料，鍵盤可以成為一件 <strong>生活中的美物</strong>。如果你正在尋找一款高品質的鍵盤，Keychron K2 HE Concrete Edition 絕對是一個值得考慮的選擇。</p>",
+    "image": "https://media.wired.com/photos/6a1a020425a5da05d3b76d35/191:100/w_1280,c_limit/review%20keychron%20k2%20concrete%20edition%20top%20art%20052026%20SOURCE%20Keychron.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/review/keychron-k2-he-concrete-edition/",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "009",
+    "title": "足球明星揭秘：Beats 新耳機即將登場",
+    "summary": "西班牙足球明星 Lamine Yamal 分享了一系列神秘的新耳機照片，預示著 Beats 的新產品即將推出，將顛覆耳機市場",
+    "content": "<p>近日，西班牙足球明星 Lamine Yamal 在社交媒體上分享了一系列照片，令人意外的是，這些照片並不是他在場上的精彩表現，而是他手持的神秘耳機。從照片中可以看到，這款耳機的設計非常時尚，充滿了未來感，讓人們無法不對它感到好奇。</p>    <h2>Beats 新耳機的神秘面紗</h2>    <p>這款耳機的照片讓人們開始猜測，它會是 Beats 的新產品嗎？從 Lamine Yamal 的分享中，可以看到這款耳機的設計非常獨特，采用了全新的材料和色彩，讓人們感受到它的高品質。同時，耳機的功能也引起了人們的關注，會不會有更好的音質、更長的電池壽命等。</p>    <h2>推動耳機市場的新風潮</h2>    <p>如果這款耳機真的是 Beats 的新產品，那麼它將會對耳機市場產生重大影響。Beats 作為一家領先的音頻品牌，總是能夠推出創新的產品，讓人們對音質和設計有新的體驗。這款新耳機的推出，將會挑戰現有的耳機市場，讓人們重新思考什麼是好的音質和設計。</p>    <h2>編輯悄悄話</h2>    <p>其實，對於這款新耳機的猜測，已經讓人們感到非常興奮。作為一名資深編輯，我們也對這款耳機的推出感到好奇，畢竟它會不會是耳機市場的新革命呢？讓我們繼續關注這款耳機的消息，同時，也要思考一下，什麼是真正的好音質和設計。畢竟，<strong>好的音質和設計</strong>，才是讓人們真正享受音樂的關鍵。</p>",
+    "image": "https://www.engadget.com/img/gallery/lamine-yamal-shares-pictures-teasing-new-the-beats-headphones-on-the-way/l-intro-1780176851.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2184302/lamine-yamal-shares-pictures-teasing-the-new-beats-headphones-on-the-way/",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "010",
+    "title": "鋰資源新突破：電動車革命的關鍵技術",
+    "summary": "一種新的鋰提取工藝可能會顛覆電動車產業，減少成本和排放，進一步推動電動車的發展",
+    "content": "<p>近年來，電動車的發展日益迅速，<strong>鋰資源</strong>的需求也隨之增加。但是，傳統的鋰提取工藝存在著高成本和高排放的問題。現在，一種新的鋰提取工藝可能會改變這種局面。</p>    <h2>鋰資源的重要性</h2>    <p>鋰是電動車電池的關鍵材料，<strong>其供應量直接影響電動車的生產和銷售</strong>。但是，傳統的鋰提取工藝需要大量的能量和水資源，導致高成本和高排放。這種工藝不僅對環境造成了影響，也限制了電動車的發展。</p>    <h2>新工藝的優勢</h2>    <p>新的鋰提取工藝采用了一種更高效和更環保的方法，<strong>可以大幅減少鋰提取的成本和排放</strong>。這種工藝使用了一種特殊的溶劑，可以更有效地提取鋰，同時也可以減少水資源的使用。這種工藝的出現可能會推動電動車產業的發展，<strong>使得電動車更加親民和環保</strong>。</p>    <h2>編輯悄悄話</h2>    <p>鋰資源的新突破可能會帶來電動車革命的新機遇。隨著電動車產業的發展，<strong>我們可以預期未來的交通工具會更加環保和高效</strong>。但是，<strong>我們也需要關注鋰資源的可持續性和安全性</strong>，以確保電動車的發展不會對環境和人類造成負面影響。通過這種新的鋰提取工藝，<strong>我們可以更好地享受電動車帶來的便利和環保</strong>，同時也需要繼續關注和推動電動車產業的可持續發展。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AdobeStock_1948655467.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "011",
+    "title": "AI 智能代理人發展的瓶頸：權限管理是關鍵",
+    "summary": "企業AI代理人發展受阻，不是因為模型性能，而是因為權限管理問題，Workday的Sana系統提供了一個解決方案，將現有的系統作為治理層，確保代理人的行為合法和安全",
+    "content": "<p>近年來，企業AI代理人的發展迅速，但是其實際應用卻受到了一個重大瓶頸：權限管理。每個代理人都需要明確的權限設定，才能夠在企業內部正常運作。</p>  <h2>代理人權限的挑戰</h2>  <p>Workday的總裁Gerrit Kazmaier表示，客戶在建立代理人時，往往會遇到權限設定的困難。尤其是在處理敏感數據時，代理人的行為需要受到嚴格的控制和監管。Sana系統的出現，正是為了解決這個問題，通過將現有的系統作為治理層，確保代理人的行為合法和安全。</p>  <p>Workday的Sana系統已經與Google的Gemini Enterprise合作，將Sana代理人系統引入Gemini平台，從而使得代理人可以在Gemini上運作。這個合作將使得企業可以更好地管理代理人的權限和行為。</p>  <h2>代理人準確性的重要性</h2>  <p>Kazmaier強調，代理人的準確性是非常重要的，尤其是在人力資源和財務領域。代理人的錯誤可能會導致嚴重的後果，例如付款錯誤或會議安排錯誤。Workday的Sana系統通過建立Gemini作為基礎推理層，然後添加上下文引擎和商業邏輯，從而確保代理人的準確性和安全性。</p>  <p>Workday的優勢在於，它可以從客戶提供的數據中推斷出組織結構，從而使得代理人可以更好地理解和執行任務。Sana代理人只會在用戶的授權下行動，從而確保代理人的行為合法和安全。</p>  <h2>編輯悄悄話</h2>  <p>其實，AI代理人的發展並不僅僅是一個技術問題，更是一個管理和治理的問題。企業需要明確的權限設定和監管機制，才能夠使得代理人在企業內部正常運作。Workday的Sana系統為我們提供了一個解決方案，讓我們可以更好地管理和控制代理人的行為，從而使得企業可以更好地應用AI技術，提高效率和安全性。</p>",
+    "image": "",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "012",
+    "title": "加州議會通過打印槍械法案 3D 列印技術面臨安全挑戰",
+    "summary": "加州議會通過了一項法案，將對 3D 列印技術進行安全監管，推進槍械安全的發展，並對違反規定的行為進行懲罰，衝擊 3D 列印業的未來",
+    "content": "<p>近日，加州議會通過了一項名為 <strong>加州槍械列印防止法案</strong> 的法案，該法案旨在規管 3D 列印技術對槍械的影響。這項法案將對 3D 列印業產生重大影響，特別是在槍械安全方面。</p>    <h2>3D 列印技術的安全挑戰</h2>    <p>隨著 3D 列印技術的發展，安全問題也逐漸浮現。過去，槍械的生產需要嚴格的監管和審查，但 3D 列印技術的出現使得槍械的生產變得更加容易和便捷。然而，這也帶來了安全隱患，因為 <strong>3D 列印槍械</strong> 可能會被用於非法目的。因此，加州議會通過這項法案，旨在規管 3D 列印技術對槍械的影響，確保槍械的安全和合法性。</p>    <h2>法案的影響和挑戰</h2>    <p>這項法案將對 3D 列印業產生重大影響，特別是在槍械安全方面。過去，3D 列印技術主要被用於生產模型、器具和其他非軍事用途的產品，但現在，該技術也被用於生產槍械。這項法案將規管 3D 列印槍械的生產和銷售，要求生產者和銷售者遵守嚴格的安全標準和監管。這將對 3D 列印業的發展產生重大挑戰，特別是在 <strong>安全性</strong> 和 <strong>合法性</strong> 方面。</p>    <h2>編輯悄悄話</h2>    <p>這項法案的通過，對於 3D 列印業來說，是一個重大的挑戰和轉機。過去，3D 列印技術主要被用於非軍事用途，但現在，該技術也被用於生產槍械。這項法案將規管 3D 列印槍械的生產和銷售，確保槍械的安全和合法性。同時，也對 3D 列印業的發展產生重大影響，特別是在安全性和合法性方面。因此，對於 3D 列印業來說，需要更加重視安全性和合法性，才能在未來的發展中取得成功。</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/wjLjoYzc7zwep9AkKMyz7G-2048-80.jpg",
+    "source": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/3d-printing/california-assembly-passes-3d-printer-bill-that-would-criminalize-bypassing-mandated-gun-blocking-software",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "013",
+    "title": "Rust Coreutils 0.9登場：安全性大幅提升，零拷貝I/O效能大躍進",
+    "summary": "Rust Coreutils 0.9 的推出，給傳統的 GNU Coreutils 帶來了巨大的挑戰和衝擊，推進了安全性和效能的重大改變",
+    "content": "<p>近日，<strong>Rust Coreutils 0.9</strong>正式發布，這是一個基於Rust編程語言的GNU Coreutils實現。這個版本的更新內容非常豐富，包括了安全性的大幅提升和零拷貝I/O的效能大躍進。</p><h2>安全性提升</h2><p>在安全性方面，<strong>Rust Coreutils 0.9</strong>採用了多項安全性強化措施，包括了記憶體安全的改善和錯誤處理的優化。這些改善使得Rust Coreutils 0.9的安全性大幅提升，有效地防止了記憶體漏洞和其他安全性問題。</p><p>同時，<strong>Rust Coreutils 0.9</strong>也通過了大量的測試，包括了GNU測試套件，達到了90.4%的通過率。這個成績表明了Rust Coreutils 0.9的穩定性和可靠性。</p><h2>效能提升</h2><p>在效能方面，<strong>Rust Coreutils 0.9</strong>採用了零拷貝I/O技術，大幅提升了資料傳輸的效能。這個技術可以有效地減少資料拷貝的次數，從而提高了整體的效能。</p><p>此外，<strong>Rust Coreutils 0.9</strong>也優化了其他方面的效能，包括了多線程支持和異步I/O的改善。這些改善使得Rust Coreutils 0.9的效能大幅提升，能夠更好地支持高性能的應用程式。</p><h2>編輯悄悄話</h2><p>生活中，我們經常會遇到一些安全性和效能的問題，<strong>Rust Coreutils 0.9</strong>的推出，給我們帶來了新的解決方案和思路。通過這個版本的更新，我們可以看到安全性和效能的重要性，同時也可以學習到如何優化和改善自己的程式和系統。因此，<strong>Rust Coreutils 0.9</strong>的推出，是一個值得關注和學習的事件。</p>",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=rust_coreutils_09",
+    "source": "Phoronix",
+    "url": "https://www.phoronix.com/news/Rust-Coreutils-0.9",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "014",
+    "title": "波士頓兒童醫院運用 AI 技術解開罕見疾病的新診斷",
+    "summary": "波士頓兒童醫院透過 OpenAI 技術推進醫療服務，減少運營負擔，並成功診斷超過 40 種罕見疾病，從而重塑醫療體系",
+    "content": "<p>波士頓兒童醫院是一所以兒童健康為主的醫院，近年來積極運用 <strong>AI 技術</strong> 進行醫療研究和診斷。透過 OpenAI 的技術支持，醫院成功診斷了超過 40 種罕見疾病，為這些患者帶來了新的希望。</p><h2>AI 技術在醫療領域的應用</h2><p>AI 技術的應用在醫療領域已經成為了一個熱門話題。透過 <strong>機器學習</strong> 和 <strong>深度學習</strong> 等技術，醫院可以更快速、更準確地診斷疾病。波士頓兒童醫院的成功案例證明了 AI 技術在醫療領域的巨大潛力。</p><p>波士頓兒童醫院的醫療團隊透過 OpenAI 的技術支持，成功地診斷了許多罕見疾病。這些疾病往往很難被診斷出來，需要經過長時間的檢查和觀察。透過 AI 技術，醫院可以更快速地分析病人的資料，從而更快速地做出診斷。</p><h2>挑戰和未來展望</h2><p>雖然 AI 技術在醫療領域取得了巨大的進步，但仍然存在著許多挑戰。例如，<strong>資料的質量</strong> 和 <strong>安全性</strong> 仍然是需要關注的問題。波士頓兒童醫院的成功案例證明了 AI 技術在醫療領域的潛力，但同時也需要繼續進行研究和改進。</p><p>未來，AI 技術在醫療領域的應用將會更加廣泛。透過 <strong>雲端計算</strong> 和 <strong>大數據</strong> 等技術，醫院可以更快速地分析病人的資料，從而更快速地做出診斷。同時，AI 技術也可以幫助醫院減少運營負擔，提高醫療服務的質量。</p><h2>編輯悄悄話</h2><p>波士頓兒童醫院的成功案例證明了 AI 技術在醫療領域的巨大潛力。透過 AI 技術，醫院可以更快速地診斷疾病，從而更快速地治療病人。這是一個非常有趣的發展，讓我們看到科技如何改變我們的生活。同時，也需要我們繼續進行研究和改進，讓 AI 技術在醫療領域的應用更加廣泛和有效。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/30rCYJwrLmxJa0mwAW1suo/af215de4b370e0310026dadd6085431c/boston-childrens-seo.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "015",
+    "title": "谷歌深度智慧加速器計畫登陸亞太，共同應對環境挑戰",
+    "summary": "谷歌深度智慧加速器計畫的推出，將推進亞太地區的環境風險管理，重塑我們對於環境挑戰的應對策略",
+    "content": "<p>近年來，環境挑戰成為全球關注的焦點，尤其是在亞太地區。為了應對這些挑戰，<strong>谷歌深度智慧</strong>推出加速器計畫，旨在幫助亞太地區的企業和組織發展可持續的解決方案。</p>    <h2>環境風險管理的新時代</h2>    <p>亞太地區面臨著許多環境挑戰，包括氣候變化、污染和資源管理等。為了有效地管理這些風險，<strong>谷歌深度智慧加速器計畫</strong>將提供技術支持和資源，幫助企業和組織發展創新的解決方案。</p>    <ul>      <li>氣候變化：加速器計畫將幫助企業和組織發展低碳經濟的解決方案，減少溫室氣體排放。</li>      <li>污染：計畫將提供技術支持，幫助企業和組織發展污染控制和資源回收的解決方案。</li>      <li>資源管理：加速器計畫將幫助企業和組織發展可持續的資源管理解決方案，確保資源的合理利用。</li>    </ul>    <h2>合作與創新</h2>    <p>谷歌深度智慧加速器計畫將與亞太地區的企業和組織合作，共同發展可持續的解決方案。通過這個計畫，<strong>谷歌深度智慧</strong>將提供技術支持和資源，幫助企業和組織發展創新的解決方案，推進亞太地區的環境風險管理。</p>    <p>這個計畫的推出，將對亞太地區的環境挑戰產生深遠的影響。通過合作與創新，<strong>谷歌深度智慧加速器計畫</strong>將幫助亞太地區的企業和組織發展可持續的解決方案，推進環境風險管理的新時代。</p>    <h2>編輯悄悄話</h2>    <p>這個計畫的推出，對於亞太地區的環境挑戰來說，是一個非常重要的機會。通過合作與創新，<strong>谷歌深度智慧加速器計畫</strong>將幫助企業和組織發展可持續的解決方案，推進環境風險管理的新時代。讓我們一起關注這個計畫的進展，共同推進亞太地區的環境可持續發展。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "016",
+    "title": "PyTorch 入門必學：torch.profiler 輕鬆優化你的 AI 模型",
+    "summary": "PyTorch 的 torch.profiler 功能將重塑開發者們對於 AI 模型優化的思考方式，推進模型的效能和安全性",
+    "content": "<p>如果你是一名 AI 開發者，想必你對於 PyTorch 這個框架不會陌生。PyTorch 是一個強大的開源框架，能夠幫助開發者們快速地建立和訓練 AI 模型。然而，當我們在建立和訓練模型的時候，往往會遇到一些效能和安全性的問題。這就是 <strong>torch.profiler</strong> 的用武之地。</p>    <h2>什麼是 torch.profiler？</h2>    <p>torch.profiler 是 PyTorch 中的一個功能，能夠幫助開發者們分析和優化 THEIR AI 模型的效能。它可以提供詳細的模型執行時間、記憶體使用量等資訊，讓開發者們能夠快速地找出模型中的瓶頸和優化點。</p>    <p>使用 torch.profiler 的好處是可以 <strong>大幅度地提升模型的效能</strong>，減少模型的執行時間和記憶體使用量。這對於需要處理大量數據的 AI 模型來說，是一個非常重要的優化點。</p>    <h2>如何使用 torch.profiler</h2>    <p>使用 torch.profiler 其實非常簡單。開發者們只需要在 THEIR 模型中加入幾行代碼，就可以開始使用 torch.profiler 的功能。以下是基本的使用步驟：</p>    <ul>      <li>導入 torch.profiler 的模組</li>      <li>建立一個 profiler 物件</li>      <li>開始和停止 profiler 的執行</li>      <li>分析 profiler 的輸出結果</li>    </ul>    <p>通過這些步驟，開發者們就可以使用 torch.profiler 來分析和優化 THEIR AI 模型的效能，<strong>提升模型的安全性和穩定性</strong>。</p>    <h2>編輯悄悄話</h2>    <p>其實，torch.profiler 不只是個優化工具，還是個幫助你 <strong>更好地了解你的 AI 模型</strong> 的工具。通過使用 torch.profiler，你可以更好地了解你的模型的執行時間、記憶體使用量等資訊，從而更好地優化和調整你的模型。所以，如果你是一名 AI 開發者，千萬不要錯過 torch.profiler 這個強大的工具。</p>",
+    "image": "https://huggingface.co/blog/assets/torch-profiler/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "017",
+    "title": "一起打造全球最快語音轉文字系統：Together AI 的突破之路",
+    "summary": "語音轉文字技術（ASR）一直是人工智慧領域的熱門話題。近日，Together AI 宣布成功打造全球最快的語音轉文字系統，挑戰傳統的語音處理方法。這項突破將對語音助手、語音控制等應用帶來重大的影響。",
+    "content": "<p>語音轉文字技術（ASR）一直是人工智慧領域的熱門話題。近日，Together AI 宣布成功打造全球最快的語音轉文字系統，挑戰傳統的語音處理方法。</p><h2>語音轉文字的挑戰</h2><p>語音轉文字是一個複雜的問題，涉及語音信號的處理、語言模型的訓練等多個步驟。傳統的方法通常將語音轉文字視為一個 GPU 推理問題，但是這種方法存在著效率低下、延遲大的問題。</p><h2>Together AI 的突破</h2><p>Together AI 的團隊採取了一種全新的方法，將語音轉文字視為一個完整的系統問題，而不是單純的 GPU 推理問題。他們通過優化語音信號的處理、語言模型的訓練等多個步驟，成功打造了全球最快的語音轉文字系統。</p><p><strong>這項突破將對語音助手、語音控制等應用帶來重大的影響</strong>，讓用戶可以更快速、更準確地使用語音命令來控制設備。</p><h2>編輯悄悄話</h2><p>語音轉文字技術的進步，讓我們不禁想起科幻電影中的人工智慧助手。雖然我們還沒有達到那種程度，但是 Together AI 的突破讓我們看到了未來的可能性。也許有一天，我們可以用語音命令來控制整個世界。</p>",
+    "image": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6a19c7173dd9ce6d2660f358_OG-image_20260508_Pearl%20(1).png",
+    "source": "Together AI",
+    "url": "https://www.together.ai/blog/how-together-ai-built-the-worlds-fastest-speech-to-text-stack",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "018",
+    "title": "GitHub最新商店系列：讓開發者們走出辦公室，享受陽光",
+    "summary": "GitHub推出全新商店系列「ESC」，鼓勵開發者們走出辦公室，享受陽光，讓創意在戶外綻放。這個系列將挑戰傳統的辦公室文化，推進開發者們的工作方式。",
+    "content": "<h2>GitHub商店系列：走出辦公室，享受陽光</h2><p>GitHub最近推出了全新的商店系列「ESC」，這個系列的設計宗旨是鼓勵開發者們走出辦公室，享受陽光，讓創意在戶外綻放。這個系列包括了各種戶外裝備和配件，例如背包、水瓶和太陽鏡等。</p><p><strong>GitHub商店系列的設計理念是什麼？</strong></p><p>GitHub商店系列的設計理念是希望開發者們能夠走出辦公室，享受陽光和戶外的美麗景色。這個系列的設計師希望通過這些產品來鼓勵開發者們走出自己的舒適圈，探索新的地方和體驗新的事物。</p><h2>挑戰傳統的辦公室文化</h2><p>GitHub商店系列的推出也挑戰了傳統的辦公室文化。傳統上，開發者們往往被困在辦公室裡，整天面對著螢幕和鍵盤。GitHub商店系列的設計師希望通過這個系列來鼓勵開發者們走出辦公室，享受陽光和戶外的美麗景色。</p><p><strong>這個系列將如何推進開發者們的工作方式？</strong></p><p>GitHub商店系列的推出將推進開發者們的工作方式。這個系列的設計師希望通過這些產品來鼓勵開發者們走出自己的舒適圈，探索新的地方和體驗新的事物。這將有助於開發者們的創意和工作效率。</p><h2>編輯悄悄話</h2><p>GitHub商店系列的推出是個不錯的嘗試，鼓勵開發者們走出辦公室，享受陽光和戶外的美麗景色。這個系列的設計理念是希望開發者們能夠走出自己的舒適圈，探索新的地方和體驗新的事物。讓我們一起期待這個系列的發展，和開發者們一起走出辦公室，享受陽光和戶外的美麗景色吧！</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/05/Blog-Header.png",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "019",
+    "title": "數據爆炸：全球數據量將在 2025 年之前超過 180 澤塔字節",
+    "summary": "全球數據量的增長速度令人驚訝，預計在 2025 年之前將超過 180 澤塔字節。這意味著數據儲存和處理的需求將大幅增加，企業和組織需要找到有效的方法來管理和利用這些數據。",
+    "content": "<h2>數據爆炸的原因</h2><p>數據爆炸的原因有很多，包括互聯網的普及、社交媒體的興起、物聯網的發展等。這些因素導致了數據的快速增長，企業和組織需要找到有效的方法來管理和利用這些數據。</p><h2>數據儲存和處理的挑戰</h2><p>數據儲存和處理是數據爆炸的核心挑戰。企業和組織需要找到有效的方法來儲存和處理大量數據，才能夠有效地利用這些數據。這包括選擇合適的數據儲存技術、設計有效的數據處理架構等。</p><p><strong>數據儲存技術的選擇</strong></p><p>數據儲存技術的選擇是數據儲存和處理的關鍵步驟。企業和組織需要根據自己的需求選擇合適的數據儲存技術，例如雲端儲存、硬碟儲存等。</p><p><strong>數據處理架構的設計</strong></p><p>數據處理架構的設計是數據儲存和處理的另一關鍵步驟。企業和組織需要設計有效的數據處理架構，才能夠有效地利用這些數據。這包括選擇合適的數據處理技術、設計有效的數據處理流程等。</p><h2>編輯悄悄話</h2><p>數據爆炸是當前企業和組織面臨的一個重大挑戰。如何有效地管理和利用這些數據是企業和組織的關鍵任務。通過選擇合適的數據儲存技術和設計有效的數據處理架構，企業和組織可以有效地利用這些數據，從而提高自己的競爭力和效率。</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e55d47625324d162a35b4d0b08e23c1e65ad5634-12000x6300.jpg?w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "020",
+    "title": "Arm 公佈 Metis：AI 安全框架挑戰傳統 SAST 工具",
+    "summary": "Arm 公佈了 Metis， 一個基於 AI 的安全框架，可以自動發現複雜的軟體漏洞。與傳統的基於模式的工具不同，Metis 應用語義推理來分析跨組件依賴，並提供清晰的自然語言解釋。這將會推進軟體安全領域的重大變革。",
+    "content": "<p>Arm 近日公佈了 Metis， 一個基於 AI 的安全框架，可以自動發現複雜的軟體漏洞。與傳統的基於模式的工具不同，Metis 應用語義推理來分析跨組件依賴，並提供清晰的自然語言解釋。這將會推進軟體安全領域的重大變革。</p><h2>Metis 的核心技術</h2><p>Metis 的核心技術是基於 AI 的語義推理。它可以分析軟體代碼中的語義關係，從而發現複雜的漏洞。這種技術與傳統的基於模式的工具有著根本性的不同。傳統工具通常依靠預先定義的模式來識別漏洞，而 Metis 則可以根據軟體代碼的語義結構來自動發現漏洞。</p><h2>挑戰傳統 SAST 工具</h2><p>Metis 的出現將會挑戰傳統的 SAST 工具。傳統工具通常需要大量的人工干預和配置，而 Metis 則可以自動執行。這意味著軟體開發人員可以更加快速和高效地發現和修復漏洞。同時，Metis 的自然語言解釋也可以幫助開發人員更好地理解漏洞的原因和影響。</p><h2>編輯悄悄話</h2><p>軟體安全是一個永遠的話題。隨著軟體的複雜性和規模的增大，安全漏洞也變得更加複雜和隱蔽。Metis 的出現是一個重要的里程碑，它將會推進軟體安全領域的重大變革。讓我們拭目以待 Metis 的未來發展和影響吧！</p>",
+    "image": "https://res.infoq.com/news/2026/05/arm-metis-agentic-security/en/headerimage/arm-metis-1780165811953.jpeg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/news/2026/05/arm-metis-agentic-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "021",
+    "title": "Vercel_Functions 新價格計費方式：單位計費來了！",
+    "summary": "Vercel_Functions 即將推出新的價格計費方式，從套餐式計費轉變為單位計費。這意味著使用者將根據實際使用量支付費用，而不是按照套餐來計算。這項變革將在下一個計費週期開始生效。",
+    "content": "<p>如果你是 Vercel_Functions 的使用者，現在是時候了解一下新的價格計費方式了！從現在開始，Vercel_Functions 將不再按照套餐來計費，而是根據實際使用量來計算費用。</p><h2>什麼是單位計費？</h2><p>單位計費是指根據使用者的實際使用量來計算費用的方式。這意味著使用者將支付與其使用量相對應的費用，而不是按照套餐來計算。在 Vercel_Functions 的案例中，單位計費的費率為每次呼叫（invocation）0.0000006 美元。</p><h2>為什麼需要單位計費？</h2><p>單位計費的出現是為了更好地反映使用者的實際使用量。之前的套餐式計費方式可能會導致使用者在使用量較少的情況下仍然需要支付較高的費用。單位計費可以更好地與使用者的實際使用量相匹配，從而降低費用。</p><p>另外，單位計費還可以幫助團隊更好地管理其使用量和費用。使用者可以根據其實際使用量來預測和控制其費用，這可以更好地幫助團隊進行財務管理。</p><h2>編輯悄悄話</h2><p>單位計費的出現是 Vercel_Functions 的一個重要變革。這項變革可以更好地反映使用者的實際使用量，並且可以幫助團隊更好地管理其使用量和費用。如果你是 Vercel_Functions 的使用者，現在是時候了解一下新的價格計費方式了！</p>",
+    "image": "https://vercel.com/api/dynamic-og?title=Function%20invocations%20now%20billed%20per%20unit&format=changelog",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/function-invocations-now-billed-per-unit",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "022",
+    "title": "網路安全警報：Palo Alto Networks PAN-OS 驗證繞過漏洞遭活躍攻擊",
+    "summary": "Palo Alto Networks 警告，一個中等嚴重性的安全漏洞影響 PAN-OS 和 Prisma Access，已經遭到活躍攻擊。這個漏洞被追蹤為 CVE-2026-0257，可能被惡意攻擊者用來設定 VPN 連接，對網路安全構成重大挑戰。",
+    "content": "<h2>什麼是 PAN-OS 驗證繞過漏洞？</h2><p>PAN-OS 是一種網路安全系統，負責保護企業網路免受惡意攻擊。然而，最近發現了一個安全漏洞，可能被惡意攻擊者用來繞過驗證，設定 VPN 連接。這個漏洞被追蹤為 CVE-2026-0257，CVSS 評分為 7.8。</p><p><strong>這個漏洞的嚴重性在於，它可能被用來攻擊企業網路，竊取敏感資料或執行惡意程式碼</strong>。因此，Palo Alto Networks 已經發布了安全更新，建議所有使用 PAN-OS 的客戶盡快更新系統。</p><h2>如何保護網路安全？</h2><p>要保護網路安全，企業需要採取多層防禦策略。首先，需要確保所有網路設備和系統都更新到最新版本，包括 PAN-OS。其次，需要設定強大的密碼和驗證機制，防止惡意攻擊者入侵網路。</p><p><strong>另外，企業也需要定期進行網路安全檢查和測試，確保網路安全措施的有效性</strong>。最後，需要教育員工網路安全知識，防止人為錯誤導致網路安全漏洞。</p><h2>編輯悄悄話</h2><p>網路安全是一個持續的挑戰，企業需要不斷更新和改進網路安全措施，才能有效保護網路安全。這個漏洞的發現，是一個警訊，提醒企業需要更加重視網路安全。因此，企業需要採取積極的態度，更新系統，設定強大的密碼和驗證機制，定期進行網路安全檢查和測試，教育員工網路安全知識，才能有效保護網路安全。</p>",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg",
+    "source": "The Hacker News",
+    "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+    "date": "2026-05-31"
+  }
+]
