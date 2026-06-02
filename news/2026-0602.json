@@ -328,5 +328,105 @@
     "source": "Polygon",
     "url": "https://www.polygon.com/zack-snyder-escape-from-new-york-remake-john-carpenter/",
     "date": "2026-06-02"
+  },
+  {
+    "id": "034",
+    "title": "台湾产业巨头攜手NVIDIA，推動全球AI基礎設施建設",
+    "summary": "台湾超过500家NVIDIA生态系统合作伙伴參與NVIDIA Vera Rubin NVL72基礎設施製造，預計將大幅提升全球AI基礎設施建設，推進產業的智能化和自動化",
+    "content": "<p>近年來，<strong>人工智慧（AI）</strong>技術的發展迅速，全球各大企業都在搶佔這塊市場。台湾的产业巨头也不例外，現在他們正借力<strong>NVIDIA</strong>的技術，加速全球AI基礎設施建設。</p>    <h2>台湾產業巨頭的AI戰略</h2>    <p>台湾的產業巨頭，如<strong>TSMC</strong>、<strong>Foxconn</strong>、<strong>Pegatron</strong>等，都在積極應用<strong>NVIDIA</strong>的技術，以提升自己的競爭力。例如，<strong>TSMC</strong>使用<strong>NVIDIA cuLitho</strong>庫，可以將計算光刻的成本效益或周期時間提升20%-50%，<strong>cuEST</strong>庫可以將半導體材料模擬速度平均提升50倍。</p>    <h2>AI技術在製造業的應用</h2>    <p>在製造業中，<strong>AI</strong>技術可以幫助企業提高生產效率和質量。例如，<strong>Foxconn</strong>應用<strong>NVIDIA</strong>技術後，根因分析時間加快80%，勞動力生產率提高15%，機器故障率降低10%。而<strong>Pegatron</strong>採用<strong>AI</strong>視覺檢測，部署時間減少67%。這些數據充分展示了<strong>AI</strong>技術在製造業中的價值。</p>    <h2>編輯悄悄話</h2>    <p>從這些數據中，我們可以看到，<strong>AI</strong>技術正以迅速的速度改變著製造業的面貌。台湾的產業巨頭們通過與<strong>NVIDIA</strong>的合作，能夠更好地應對未來的挑戰。這也提醒我們，<strong>AI</strong>技術的發展不僅僅是一個技術問題，也是一個戰略問題。只有那些能夠快速適應和應用<strong>AI</strong>技術的企業，才能在未來的市場中佔據領先地位。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/Taiwan-AI-Infra-blog-KV-still.jpg",
+    "source": "AI HOT 精選",
+    "url": "https://blogs.nvidia.com/blog/taiwan-ecosystem-ai-infrastructure",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "035",
+    "title": "NVIDIA 工廠運營藍圖：讓工廠擁有 AI 大腦",
+    "summary": "NVIDIA 公佈工廠運營藍圖，將顛覆傳統工廠管理模式，讓工廠擁有 AI 智能體，推進產業自動化和效率提升",
+    "content": "<p>近年來，人工智慧（AI）技術在各個領域都有著廣泛的應用，而在工廠管理方面，NVIDIA 也推出了自己的解決方案。NVIDIA 公佈了工廠運營藍圖（FOX），這是一項用于構建自主工廠管理 AI 智能體的參考設計。該藍圖基於 <strong>NVIDIA NemoClaw、AI-Q Blueprint 及 Nemotron 開源模型</strong> 架構，並針對 DGX Station 工作站進行了優化，可在配備 GB300 Grace Blackwell Ultra 芯片的本地環境運行。</p>    <h2>工廠運營藍圖的優勢</h2>    <p>這個工廠運營藍圖的出現，將會讓工廠管理更加高效和智能化。通過這個藍圖，工廠可以根據實際需求，構建自己的 AI 智能體，實現 <strong>自動化生產和質量控制</strong>。同時，該藍圖也能夠幫助工廠減少浪費，提高生產效率和產品質量。</p>    <h2>台灣製造商的部署</h2>    <p>目前，台灣的製造商如富士康、和硕、研華和纬創等已經開始部署這個工廠運營藍圖。其中，富士康基於這個藍圖構建了 <strong>MoMClaw 多智能體系統</strong>，預計將根因分析時間縮短 80%，勞動生產率提高 20%。這些數據表明，工廠運營藍圖將會對工廠管理產生深遠的影響。</p>    <h2>編輯悄悄話</h2>    <p>這個工廠運營藍圖的出現，讓我們看到了 AI 技術在工廠管理方面的廣泛應用。通過這個藍圖，工廠可以實現智能化管理，提高生產效率和產品質量。同時，也讓我們看到，台灣的製造商在這個領域的發展也非常迅速。因此，對於工廠管理來說，未來將會是更加高效和智能化的。這個藍圖的出現，將會讓我們重新思考工廠管理的模式，和如何利用 AI 技術來提高生產效率和產品質量。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/robotics-factory-ai-computer-1280x680-5259650.jpg",
+    "source": "AI HOT 精選",
+    "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "036",
+    "title": "NVIDIA AI Cloud生態系統全球擴張，滿足AI算力需求",
+    "summary": "NVIDIA AI Cloud生態系統正推進在六大洲建設AI工廠基礎設施，滿足前沿模型開發、企業AI、電信及國家AI計劃的需求，重塑全球AI產業",
+    "content": "<p>近年來，人工智慧（AI）的發展日益迅速，各大企業和國家都在爭相佈局AI產業。為了滿足這一需求，<strong>NVIDIA</strong> 近期宣布其AI Cloud生態系統將全球擴張，與多家合作伙伴合作建設AI工廠基礎設施。</p>    <h2>全球AI生態系統的擴張</h2>    <p>NVIDIA AI Cloud生態系統的全球擴張，旨在為合作伙伴提供一站式的AI解決方案，包括模型訓練、微調、推理以及智能體AI（agentic AI）應用。這一舉措不僅能夠滿足前沿模型開發、企業AI、電信及國家AI計劃的需求，也將支持亞太、美洲和非洲等地區的區域性與主權AI產能發展。</p>    <p>值得注意的是，<strong>NVIDIA</strong> 的加速計算、網絡和AI軟件將是這一生態系統的核心組成部分。這些技術將幫助合作伙伴提高AI模型的訓練速度和準確度，同時也能夠降低成本和複雜度。</p>    <h2>智能體AI的應用前景</h2>    <p>智能體AI（agentic AI）是目前AI研究的一個熱點領域。它涉及到AI模型具備自主學習、決策和行動的能力。這一技術的應用前景非常廣泛，包括智能機器人、自動駕駛、智能醫療等領域。</p>    <p>隨著NVIDIA AI Cloud生態系統的全球擴張，<strong>CoreWeave</strong>、<strong>Firmus</strong>、<strong>IREN</strong>、<strong>Nscale</strong> 等合作伙伴將共同推進AI產業的發展，為全球用戶提供更加優質的AI服務。</p>    <h2>編輯悄悄話</h2>    <p>隨著AI技術的不斷發展，全球AI產業的競爭將越來越激烈。NVIDIA AI Cloud生態系統的全球擴張，無疑是這一領域的一個重要事件。這不僅將推動AI產業的發展，也將為全球用戶帶來更加便捷和高效的AI服務。因此，<strong>我們可以預見，未來AI將更加深入地融入我們的生活和工作中</strong>，為我們帶來更多的便利和機遇。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/05/partner-social-ncp-ai-factory-announcement-1920x1080-1.jpg",
+    "source": "AI HOT 精選",
+    "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "037",
+    "title": "OpenWebRL 框架：革命性網頁智能體的多輪強化學習",
+    "summary": "OpenWebRL 框架推進了網頁智能體的發展，通過線上多輪強化學習，實現了視覺網頁智能體的訓練，衝擊了傳統的智能體設計",
+    "content": "<p>近期，人工智慧領域的一項重大突破是 OpenWebRL 框架的推出，這是一個面向視覺網頁智能體的線上多輪強化學習開源框架。這個框架的出現，將會顛覆傳統的網頁智能體設計，帶來一個全新的發展方向。</p><h2>什麼是 OpenWebRL 框架？</h2><p>OpenWebRL 框架是一個用於在真實網站上通過線上多輪強化學習訓練視覺網頁智能體的開源框架。它覆蓋了完整的訓練流程，為構建更強、可靠的網頁智能體提供了新的途徑。這個框架的出現，將會推動網頁智能體的發展，讓它們能夠更好地處理複雜的網頁任務。</p><h2>OpenWebRL 框架的優勢</h2><p>基於 OpenWebRL 框架訓練的 OpenWebRL-4B 模型，在僅使用 0.4K 條監督初始化軌跡和 2.2K 個開放式 RL 訓練任務的情況下，在 Online-Mind2Web 基準上達到 67.0% 成功率，在 DeepShop 基準上達到 64.0%。這些成績超越了同規模或更大規模的先前開源智能體，性能可與 OpenAI CUA 和 Gemini CUA 等閉源系統競爭。這充分展示了 OpenWebRL 框架的優勢和潛力。</p><p>這個框架的出現，不僅會衝擊傳統的智能體設計，也會為網頁智能體的發展帶來新的機遇。它將會讓網頁智能體更好地理解和處理網頁內容，從而提高它們的性能和可靠性。</p><h2>編輯悄悄話</h2><p>OpenWebRL 框架的出現，讓我們看到網頁智能體的未來將會更加美好。這個框架的優勢和潛力，將會讓網頁智能體更好地服務於人類，提高我們的生活質量和工作效率。讓我們一起期待這個框架的發展和應用，共同推動網頁智能體的進步和創新。</p>",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "source": "AI HOT 精選",
+    "url": "https://arxiv.org/abs/2606.02031",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "038",
+    "title": "開源革命：不願花120美元，他把電腦清理軟體變成開源技能",
+    "summary": "一位開發者受推文啟發，使用Codex分析MacBook存儲，發現大量可清理空間，隨後開源了一個跨平台的AI清理技能，挑戰收費軟體CleanMyMac，推進了電腦空間的清理和安全",
+    "content": "<p>你是否曾經為電腦存儲空間不足而煩惱？一位開發者 <strong>數字生命卡兹克 @ Khazix0918</strong> 就是這樣，他受一條推文啟發，決定使用 <strong>Codex</strong> 對自己的 MacBook 進行存儲分析，結果發現了大量可清理空間，包括 <strong>B 站緩存視頻</strong> 等，總共超過 <strong>140G</strong> 的空間。</p><h2>開源革命的開始</h2><p>為了替代收費軟體 <strong>CleanMyMac</strong>，開發者決定製作並開源了一個跨平台（支持 Mac/Windows）的 <strong>AI 清理技能</strong>。該技能會掃描文件並生成可交互的 <strong>HTML 報告</strong>，通過三色分級（綠燈可放心清理、黃燈需人工判斷、紅燈禁止動）直觀展示，並提供安全執行按鈕。</p><h2>實際測試和結果</h2><p>實測清理後，開發者發現該技能釋放了近 <strong>120G</strong> 的空間，相比 <strong>CleanMyMac</strong> 僅掃描出的 <strong>15.8G</strong>，其信息更透明、建議更詳細。這項開源技能不僅節省了開發者的金錢，也為電腦用戶提供了一個安全、可靠的清理工具。</p><h2>編輯悄悄話</h2><p>生活中，我們常常會遇到這樣的情況：為了一個小小的功能，就要花費大量的金錢。開發者的這個舉動，讓我們看到開源的力量和價值。通過 <strong>開源技能</strong>，我們可以更好地控制自己的電腦和數據，同時也能夠節省金錢和時間。這是一個值得關注和思考的問題，讓我們一起探討和推動開源革命的發展吧。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/Khazix0918/status/2061669881725309048",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "039",
+    "title": "OpenAI 模型登陸 Amazon Web Services，智慧服務再升級",
+    "summary": "OpenAI 的 GPT-5.5、GPT-5.4 和 Codex 模型現在可透過 Amazon Bedrock 使用，推進智慧服務的發展，對現有的 AWS 合約有所助益，並挑戰傳統的 AI 解決方案",
+    "content": "<p>近期，OpenAI 宣布其 <strong>GPT-5.5、GPT-5.4 和 Codex</strong> 模型將可透過 Amazon Bedrock 使用，同樣的價格在 OpenAI 自有的平台上也能享受到。這些模型將在商業和政府的 AWS 區域中運行，初期僅限於美國地區使用，且使用量將計入現有的 AWS 合約中。</p>  <h2>什麼是 Amazon Bedrock？</h2>  <p>Amazon Bedrock 是 Amazon Web Services 提供的一項服務，旨在讓開發者能夠更容易地使用和部署 AI 模型。透過 Amazon Bedrock，開發者可以直接在 AWS 上使用 OpenAI 的模型，無需自己建置和維護複雜的 AI 基礎設施。這項服務的推出，將大大推進智慧服務的發展，讓更多的企業和開發者能夠使用到 AI 的力量。</p>  <h2>OpenAI 模型的優勢</h2>  <p><strong>OpenAI 的 GPT-5.5、GPT-5.4 和 Codex</strong> 模型是目前最先進的 AI 模型之一，它們能夠進行複雜的自然語言處理和代碼生成。這些模型的優勢在於，它們能夠學習和理解大量的文本和代碼資料，從而能夠生成高質量的文本和代碼。這項能力將大大提高開發者的生產力，讓他們能夠更快速地開發和部署 AI 應用程式。</p>  <h2>編輯悄悄話</h2>  <p>OpenAI 模型登陸 Amazon Web Services，代表著 AI 技術的又一大突破。這項合作不僅會推進智慧服務的發展，也會讓更多的企業和開發者能夠使用到 AI 的力量。未來，AI 將會更加深入地融入到我們的生活中，讓我們能夠享受到更多的便利和效率。因此，企業和開發者需要緊跟這項趨勢，積極地探索和應用 AI 技術，才能在未來的市場中佔據先機。</p>",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/06/aws-open-ai-amazon-news-jp-042426.jpeg",
+    "source": "The Decoder",
+    "url": "https://the-decoder.com/openai-models-now-available-on-amazon-web-services/",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "040",
+    "title": "谷歌重塑搜尋引擎：25年來首次改版，為什麼這次改變如此重要",
+    "summary": "谷歌宣佈推出全新的搜尋引擎設計，結合AI技術，徹底顛覆傳統的關鍵字搜尋方式，將搜尋體驗提升至全新的層次，預計對搜尋行為和整個網路生態產生深遠影響",
+    "content": "<p>谷歌的搜尋引擎設計在25年來首次進行大幅度改版，標誌著搜尋技術和使用者體驗的重大轉變。新的搜尋引擎不再只是簡單的關鍵字輸入框，現在它可以接受文字、圖片、PDF、視頻等多種格式的輸入，甚至可以直接從Chrome標籤頁中拖入內容。這次改版的核心是將人工智慧（AI）技術融入搜尋引擎中，讓使用者可以進行更自然、更具對話性的搜尋體驗。</p>    <h2>搜尋引擎的革命：從關鍵字到對話式搜尋</h2>    <p>谷歌的這次改版不僅僅是界面的改變，更是對搜尋引擎的根本性革新。新的搜尋引擎可以理解使用者的自然語言輸入，提供更精確、更相關的搜尋結果。使用者可以通過對話式的方式進行搜尋，系統會根據使用者的輸入提供實時的反饋和建議。這種對話式搜尋的方式將徹底改變使用者與搜尋引擎之間的互動方式。</p>    <h2>AI技術的核心作用</h2>    <p>在新的搜尋引擎中，AI技術發揮著核心作用。谷歌的AI模型可以快速、準確地處理大量的資料，提供實時的搜尋結果。AI技術還可以幫助使用者形成更精確的搜尋請求，減少了使用者需要輸入關鍵字的需要。這種AI驅動的搜尋體驗將使搜尋引擎更智能、更人性化。</p>    <h2>編輯悄悄話</h2>    <p>谷歌的這次改版不僅僅是搜尋引擎的革新，更是對整個網路生態的挑戰。新的搜尋引擎將要求網站開發者和內容提供者進行調整，以適應新的搜尋體驗。同時，使用者也需要適應新的搜尋方式，學習如何更有效地使用這種對話式搜尋工具。總的來說，谷歌的這次改版是搜尋技術和網路生態的一個重要里程碑，預計將對未來的搜尋和互動體驗產生深遠的影響。</p>",
+    "image": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "041",
+    "title": "金融機構為何傾向於採用交易基礎模型打造自己的智慧系統",
+    "summary": "金融機構多年來建置了各種人工智慧模型，但卻受限於孤立的系統，無法發展出統一的消費者財務行為理解，現在正推進整合式的交易基礎模型",
+    "content": "<p>金融機構在建置人工智慧系統的過程中，多年來已經發展出各種不同的模型，包括 [<strong>欺詐模型</strong>、<strong>信用模型</strong>、<strong>推薦引擎</strong>和<strong>風險系統</strong>]。雖然這些模型在各自的任務中非常有效，但也因為受到孤立的系統限制，無法發展出統一的消費者財務行為理解。</p>    <h2>交易基礎模型的崛起</h2>    <p>隨著企業數據集的不斷增長，金融機構開始意識到需要一個更統一、更完整的智慧系統。這就是<strong>交易基礎模型</strong>的崛起，它能夠整合各種不同的模型和數據，提供一個更加全面和統一的消費者財務行為理解。這種模型的出現，不僅能夠幫助金融機構更好地管理風險和欺詐，也能夠提供更個性化和有效的服務給消費者。</p>    <h2>整合式智慧系統的未來</h2>    <p>未來，金融機構將會更加重視整合式智慧系統的發展，通過<strong>大數據</strong>和<strong>人工智慧</strong>的結合，建立一個更加智能和高效的金融服務系統。這將會對金融業的未來產生深遠的影響，同時也會為消費者帶來更加便捷和安全的金融服務。金融機構需要<strong>推進技術創新</strong>和<strong>數據整合</strong>，以保持在金融科技競爭中的領先地位。</p>    <h2>編輯悄悄話</h2>    <p>金融機構的智慧系統發展是一個非常有趣的話題，通過整合式的交易基礎模型，金融機構能夠更好地服務消費者和管理風險。這不僅需要先進的技術，也需要金融機構有<strong>創新的思維</strong>和<strong>長期的戰略</strong>。未來，金融業的發展將會更加快速和複雜，金融機構需要保持警覺和創新，才能在這個變化迅速的環境中保持競爭力。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/fsi-press-new-payments-kv-1920x1080-5150250-1.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "042",
+    "title": "機器學習社群推出自我推廣專區",
+    "summary": "社群網站推出自我推廣專區，讓使用者可以分享自己的個人專案、創業公司、產品和服務，促進社群內的創新和合作，挑戰傳統的社交媒體模式",
+    "content": "<p>近日，機器學習社群網站推出了一個自我推廣專區，讓使用者可以分享自己的個人專案、創業公司、產品和服務。這個專區的目的是讓使用者可以在不被視為垃圾郵件的情況下分享自己的作品，同時也可以促進社群內的創新和合作。</p>  <h2>什麼是自我推廣專區？</h2>  <p>自我推廣專區是一個讓使用者可以分享自己的個人專案、創業公司、產品和服務的平台。使用者可以在這個專區分享自己的作品，包括個人專案、創業公司、產品和服務等。同時，也可以提及相關的付款和定價要求，以便其他使用者可以了解相關的資訊。</p>  <p><strong>這個專區的推出，將會讓社群內的使用者可以更容易地分享自己的作品和想法</strong>，同時也可以促進社群內的創新和合作。使用者可以在這個專區找到自己感興趣的專案和產品，同時也可以與其他使用者進行合作和交流。</p>  <h2>如何使用自我推廣專區？</h2>  <p>使用自我推廣專區非常簡單。使用者只需要在社群網站上發表自己的帖子，分享自己的個人專案、創業公司、產品和服務等。同時，也需要提及相關的付款和定價要求，以便其他使用者可以了解相關的資訊。</p>  <p><strong>使用者需要注意的是，不可以在自我推廣專區發表垃圾郵件或自動訂閱連結</strong>，同時也需要尊重其他使用者的權利和利益。使用者可以在這個專區找到自己感興趣的專案和產品，同時也可以與其他使用者進行合作和交流。</p>  <h2>編輯悄悄話</h2>  <p>自我推廣專區的推出，將會讓社群內的使用者可以更容易地分享自己的作品和想法，同時也可以促進社群內的創新和合作。使用者可以在這個專區找到自己感興趣的專案和產品，同時也可以與其他使用者進行合作和交流。這個專區的推出，<strong>將會對社群內的創新和合作產生深遠的影響</strong>，同時也會讓使用者可以更容易地找到自己感興趣的專案和產品。</p>",
+    "image": "",
+    "source": "Reddit Machine Learning",
+    "url": "https://www.reddit.com/r/MachineLearning/comments/1tudeio/d_selfpromotion_thread/",
+    "date": "2026-06-02"
+  },
+  {
+    "id": "043",
+    "title": "英特爾CEO譚力普登台演講： Computex 2026 將揭曉新世代科技",
+    "summary": "英特爾CEO譚力普即將在 Computex 2026 演講，推進科技業的創新與發展，將顛覆現有的技術局限",
+    "content": "<p>這幾天，科技業的重心都放在台北，因為 Computex 2026 即將登場，而英特爾CEO譚力普也即將在會議中發表演講。這次演講預計於 6 月 1 日晚上 10 點 30 分舉行，大家都迫不及待地想要知道，英特爾將會帶來什麼樣的新科技和創新。</p>    <h2>英特爾的新世代科技</h2>    <p>英特爾一直都是科技業的領導者之一，從 <strong>中央處理器</strong> 到 <strong>人工智慧</strong>，英特爾都在不斷地推動技術的發展和創新。這次的 Computex 2026，英特爾將會展示其最新的技術成果，包括 <strong>新一代處理器</strong> 和 <strong>智慧型解決方案</strong> 等。</p>    <p>英特爾的新一代科技將會給我們的生活帶來什麼樣的改變？我們可以預期的是，新的技術將會讓我們的 <strong>智能手機</strong> 和 <strong>電腦</strong> 更加強大，讓我們可以更好地享受科技帶來的便利和樂趣。</p>    <h2>科技業的未來發展</h2>    <p>英特爾的演講不僅僅是展示其新的技術成果，更重要的是，英特爾將會為我們指出科技業的未來發展方向。隨著 <strong>5G</strong> 和 <strong>人工智慧</strong> 的快速發展，科技業正面臨著前所未有的機遇和挑戰。</p>    <p>英特爾將會如何應對這些挑戰和機遇？我們可以預期的是，英特爾將會繼續推動技術的創新和發展，讓我們的生活更加便捷和高效。</p>    <h2>編輯悄悄話</h2>    <p>科技的發展總是讓我們感到驚奇和興奮，英特爾的演講將會給我們帶來更多的期待和想象。隨著科技的不斷發展，我們的生活將會更加便捷和高效，讓我們可以更好地享受科技帶來的便利和樂趣。這次的 Computex 2026，英特爾將會為我們帶來什麼樣的驚喜呢？讓我們一起期待和關注吧！</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/h7TMYHpYJx2BNkQdCpHViE-2560-80.jpg",
+    "source": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/tech-industry/watch-intels-computex-2026-keynote-here-ceo-lip-bu-tan-takes-the-stage-in-taipei-at-10-30pm-pt-on-june-1",
+    "date": "2026-06-02"
   }
 ]
