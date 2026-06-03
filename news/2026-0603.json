@@ -258,5 +258,175 @@
     "source": "Ubuntu Blog",
     "url": "https://ubuntu.com//blog/ubuntu-azure-cobalt-200-vms",
     "date": "2026-06-03"
+  },
+  {
+    "id": "027",
+    "title": "讓大語言模型構建維基：@karpathy 的 llm-wiki 獲得 5,000+ 顆星",
+    "summary": "一款大語言模型能夠構建和維護一個維基，每次使用時都會變得更智能，推進知識管理的革命",
+    "content": "<p>近期，一個名為 @karpathy 的開源項目 llm-wiki 引起了廣泛關注，僅僅幾周內就獲得了 5,000+ 顆星。其理念是 <strong>停止在每個會話中重新發現知識</strong>，而是讓一個大語言模型構建並維護一個維基，每次使用時它都會變得更智能。</p>  <h2>什麼是 llm-wiki？</h2>  <p>llm-wiki 是一個基於大語言模型的知識庫，它可以 <strong>自動學習和更新知識</strong>，讓用戶可以輕鬆地存取和共享知識。這個項目的目的是 <strong>解決知識管理的痛點</strong>，讓用戶可以更有效地管理和共享知識。</p>  <h2>如何使用 @opencode + @justsisyphus OMO + SiliconFlow 构建你自己的版本</h2>  <p>要構建你自己的 llm-wiki 版本，你可以使用 @opencode + @justsisyphus OMO + SiliconFlow 這些工具。這些工具提供了 <strong>開源生態和教程</strong>，讓你可以輕鬆地搭建一個自進化的知識庫。按照教程，你可以 <strong>拆解 karpathy 的 llm-wiki 創意</strong>，並使用 SiliconFlow + opencode + OMO 進行實踐。</p>  <h2>編輯悄悄話</h2>  <p>這個項目 <strong>顛覆了傳統的知識管理方式</strong>，讓用戶可以更有效地管理和共享知識。通過使用大語言模型構建和維護一個維基，你可以 <strong>節省時間和精力</strong>，並讓你的知識庫變得更智能。這個項目的出現，將會 <strong>推進知識管理的革命</strong>，讓用戶可以更輕鬆地存取和共享知識。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/SiliconFlowAI/status/2062054848762450324",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "028",
+    "title": "Hermes Agent 桌面應用震撼登場：開啟智能體新世代",
+    "summary": "Hermes Agent 桌面應用推出，將顛覆傳統智能體體驗，開發者可以直接在本地體驗最新功能，無需環境設定，智能體生態圈將被重塑",
+    "content": "<p>近日，<strong>Hermes Agent</strong> 桌面應用正式推出，開啟了智能體新世代。這款桌面應用把 Agent 能力直接裝進本地，不用折騰環境，開發者可以立刻體驗在 <strong>GTC</strong> 上演示的體驗，公測階段值得嘗鮮。</p>  <h2>什麼是 Hermes Agent？</h2>  <p><strong>Hermes Agent</strong> 是一款智能體應用，旨在提供更好的使用者體驗。它可以直接在本地運行，不需要依賴於雲端服務，讓使用者可以更快速地體驗最新功能。這款應用是由 <strong>SiliconFlow</strong> 開發的，目的是為了提供更好的智能體解決方案。</p>  <h2>桌面應用的優勢</h2>  <p>桌面應用的推出，將為開發者帶來更多便利。它可以讓開發者直接在本地體驗最新功能，不需要依賴於雲端服務，讓開發過程更快速、更高效。同時，桌面應用也可以提供更好的安全性，讓使用者可以更安全地使用智能體應用。以下是桌面應用的幾個優勢：</p>  <ul>    <li><strong>本地運行</strong>：桌面應用可以直接在本地運行，不需要依賴於雲端服務。</li>    <li><strong>快速體驗</strong>：桌面應用可以讓開發者直接在本地體驗最新功能，不需要依賴於雲端服務。</li>    <li><strong>更好的安全性</strong>：桌面應用可以提供更好的安全性，讓使用者可以更安全地使用智能體應用。</li>  </ul>  <h2>編輯悄悄話</h2>  <p>生活趣味口語結論！<strong>Hermes Agent</strong> 桌面應用的推出，將開啟智能體新世代。它可以讓開發者直接在本地體驗最新功能，不需要依賴於雲端服務，讓開發過程更快速、更高效。同時，桌面應用也可以提供更好的安全性，讓使用者可以更安全地使用智能體應用。這款桌面應用是一個值得嘗鮮的產品，讓我們一起體驗智能體新世代的魅力吧！</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/SiliconFlowAI/status/2062042813852995899",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "029",
+    "title": "DeepSeek 首輪融資驚人：500億元投入，將重塑AI產業?",
+    "summary": "DeepSeek計畫在首輪融資中籌集約500億元人民幣，推進中國AI產業的發展，將顛覆傳統的AI技術，帶來新的革命。",
+    "content": "<h2>DeepSeek 的雄心壯志</h2><p>DeepSeek是一家中國的AI公司，去年憑藉V3大模型和R1推理模型獲得了廣泛的認可。現在，DeepSeek正在進行首輪融資，目標籌集約500億元人民幣。這次融資不僅凸顯了DeepSeek的雄心壯志，也標誌著中國AI產業的新時代。 <strong>中國的AI產業正在快速發展</strong>，DeepSeek的融資將為這個產業帶來新的動力。</p><p>創始人梁文峰將出資200億元，騰訊和寧德時代分別擬投資100億元和50億元，成為最大外部投資者。這次融資不僅為DeepSeek帶來了大量的資金，也為中國的AI產業帶來了新的機遇。 <strong>AI技術的發展將對各個產業帶來深遠的影響</strong>，DeepSeek的融資是這個產業發展的重要一步。</p><h2>AI產業的新時代</h2><p>DeepSeek的融資凸顯了中國正打造從大模型到算力能源基建的全鏈條AI產業。這個產業的發展將對各個領域帶來深遠的影響，從醫療、金融到交通等各個產業都將受到AI技術的影響。 <strong>AI技術的發展將為各個產業帶來新的機遇和挑戰</strong>，企業需要快速適應這個產業的變化。</p><p>DeepSeek的融資是這個產業發展的重要一步，將為中國的AI產業帶來新的動力和機遇。 <strong>中國的AI產業正在快速發展</strong>，DeepSeek的融資將為這個產業帶來新的未來。</p><h2>編輯悄悄話</h2><p>DeepSeek的融資是這個產業發展的重要一步，將為中國的AI產業帶來新的動力和機遇。這次融資不僅凸顯了DeepSeek的雄心壯志，也標誌著中國AI產業的新時代。 <strong>AI技術的發展將對各個產業帶來深遠的影響</strong>，企業需要快速適應這個產業的變化。讓我們拭目以待，見證中國AI產業的新未來!</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://www.ithome.com/0/959/249.htm",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "030",
+    "title": "AI 模型大比拼：世界模型與語言模型誰能勝出？",
+    "summary": "近期研究發現，世界模型與多模態大語言模型在預測未來狀態時存在互補性。世界模型能生成具體的視覺未來軌跡，但可能視覺合理卻任務錯誤；多模態大語言模型則擅長抽象推理。這項研究將對AI模型的發展產生重大影響，推進AI技術的進步。",
+    "content": "<h2>世界模型與語言模型：兩種不同的思考方式</h2><p>世界模型與多模態大語言模型是兩種不同的AI模型，它們在思考和處理信息的方式上存在著根本的差異。世界模型能生成具體的視覺未來軌跡，但可能視覺合理卻任務錯誤；多模態大語言模型則擅長抽象推理。</p><p><strong>世界模型的優勢在於其能夠生成具體的視覺未來軌跡，這使得它在某些任務中表現出色。但是，它也可能視覺合理卻任務錯誤，這是因為世界模型缺乏抽象推理的能力。</strong></p><p>另一方面，多模態大語言模型則擅長抽象推理。它能夠處理複雜的語言信息，並生成合理的未來狀態預測。但是，它也可能缺乏世界模型的具體視覺能力，這使得它在某些任務中表現不佳。</p><h2>受控的具體推理框架：PF-OPSD方法</h2><p>為了克服世界模型和多模態大語言模型的缺陷，研究提出了“受控的具體推理”框架，並構建了VRQABench和OpenWorldQA兩個基準。同時，提出了Privileged-Future On-Policy Self-Distillation（PF-OPSD）方法。</p><p><strong>PF-OPSD方法是一種新的訓練方法，它利用真實未來視頻作為特權上下文評估推理軌跡，但部署時無需真實未來視頻。</strong></p><p>實驗結果顯示，PF-OPSD方法能夠有效地改善世界模型和多模態大語言模型的表現，並達到最佳的預測效果。</p><h2>編輯悄悄話</h2><p>AI模型的發展一直是人工智能領域的熱點話題。世界模型和多模態大語言模型是兩種不同的AI模型，它們在思考和處理信息的方式上存在著根本的差異。通過這項研究，我們可以看到，兩種模型的互補性可以被有效地利用，從而達到最佳的預測效果。這項研究將對AI模型的發展產生重大影響，推進AI技術的進步。</p><p><strong>在未來，AI模型的發展將更加多樣化和複雜。通過研究和開發新的AI模型和訓練方法，我們可以期待看到更加智能和高效的AI系統。</strong></p>",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "source": "AI HOT 精選",
+    "url": "https://arxiv.org/abs/2606.03603",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "031",
+    "title": "微軟 Build 大會：Satya Nadella 主旨演講揭示前沿智能生態系統",
+    "summary": "微軟 CEO Satya Nadella 在 Microsoft Build 大會上的主旨演講，將會推進雲端計算和人工智慧的整合，對依賴 Azure 和 Copilot 的團隊來說，這是一個重要的路線圖，將會重塑整個產業的生態系統",
+    "content": "<p>近日，微軟 CEO Satya Nadella 在 Microsoft Build 大會上的主旨演講，為我們帶來了關於前沿智能生態系統的最新情報。這次演講不僅僅是對微軟戰略的更新，更是對未來智能生態系統的深入解析。 <strong>微軟的雲端計算和人工智慧技術</strong>，將會如何整合和發展，成為了業界人士關注的焦點。</p>  <h2>什麼是前沿智能生態系統？</h2>  <p>前沿智能生態系統是一個將雲端計算、人工智慧和物聯網等技術整合在一起的平台。這個平台可以讓不同應用和服務之間進行無縫的整合和通信，從而創造出更多的價值和機會。 <strong>微軟的 Azure 和 Copilot</strong> ，就是這個平台的重要組成部分。通過這些技術，開發者可以更容易地創建出智能應用和服務，從而推動整個產業的發展。</p>  <h2>微軟的戰略更新</h2>  <p>在這次演講中，Satya Nadella 也對微軟的戰略更新進行了解析。 <strong>微軟將會繼續投資於雲端計算和人工智慧</strong> ，並且將會加強對 Azure 和 Copilot 的支持。這意味著，未來微軟將會更加注重於智能生態系統的發展，從而為用戶和開發者提供更多的價值和機會。</p>  <h2>編輯悄悄話</h2>  <p>通過這次演講，我們可以看到微軟對於前沿智能生態系統的重視。 <strong>這個系統將會顛覆整個產業的生態</strong> ，並且將會為用戶和開發者帶來更多的機會。作為一名科技愛好者，我們可以看到未來科技將會如何改變我們的生活。讓我們共同期待和關注這個領域的發展，從而可以更好地把握未來的機會和挑戰。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/satyanadella/status/2062022060176801826",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "032",
+    "title": "AI 人才方舟計畫：中小學智慧教育新時代",
+    "summary": "行政院推動「中小學數位學習精進方案」，積極培育 AI 人才，重塑教育生態",
+    "content": "<p>近年來，<strong>AI 科技的快速發展</strong>讓各國政府積極推動相關教育與人才培育。我國也全力以赴，推動「中小學數位學習精進方案」（111至114年），旨在充實師生學習載具、升級學校網路，並提供完整的數位學習資源。這項計畫的目標是培養出能夠應對未來挑戰的 <strong>AI 人才</strong>。</p>    <h2>智慧教育新生態</h2>    <p>「中小學數位學習精進方案」不僅僅是提升學校的硬體設備，也著重於提供師生們豐富的 <strong>數位學習內容</strong>。透過這項計畫，學生可以更容易地接觸到 <strong>AI 相關的知識</strong>，培養出創新思維和解決問題的能力。同時，老師們也能藉由這些資源，提升自己的教學品質，創造出更有效的教學模式。</p>    <h2>人才培育的重點</h2>    <p>在這項計畫中，<strong>AI 人才的培育</strong>是重中之重。通過提供完善的數位學習環境和資源，讓學生從小就能接觸到 <strong>AI 的基礎知識</strong>，並逐步深入到更高級的應用層面。這樣不僅能夠滿足未來社會對 <strong>AI 人才</strong>的需求，也能讓我國在全球 <strong>AI 發展</strong>的競爭中佔有一席之地。</p>    <h2>編輯悄悄話</h2>    <p>這項「中小學數位學習精進方案」對於我國的教育和未來發展有著深遠的影響。通過這項計畫，我們不僅能夠培養出更多的 <strong>AI 人才</strong>，也能夠讓學生們更早地接觸到 <strong>AI 的世界</strong>，從而為未來的挑戰做好準備。讓我們拭目以待這項計畫的成果，為我國的 <strong>智慧教育</strong>新時代打下堅實的基礎。</p>",
+    "image": "",
+    "source": "AI NEWS",
+    "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/ae453210-3923-4d44-8fea-8d340af1ffe1&ct=ga&cd=CAIyHWFlMGQ0MjQyNmJkYzAyNmI6Y29tOnpoLVRXOlVT&usg=AOvVaw1Q6VoaOxMQjn3wE0IqV-vE",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "033",
+    "title": "個人化 AI 新時代：OpenJarvis 搭配 Ollama 讓你擁有自己的智能助理",
+    "summary": "OpenJarvis 的登場將會重塑個人化 AI 的發展，推進用戶對於數據安全和隱私的關注，為我們帶來新的智能生活體驗",
+    "content": "<p>你是否曾想過擁有自己的智能助理，能夠根據你的生活習慣和需求提供個性化的服務？現在，<strong>OpenJarvis</strong> 的登場讓這個夢想變成了現實。這是一個開源的框架，讓你可以建立自己的個人化 AI 代理，運行在自己的硬體上，並且內建了 <strong>Ollama</strong> 的支持。</p>    <h2>什麼是 OpenJarvis？</h2>    <p><strong>OpenJarvis</strong> 是一個開源的框架，允許用戶建立和運行自己的個人化 AI 代理。這意味著你可以根據自己的需求定制你的智能助理，讓它學習你的生活習慣和偏好，提供更加個性化的服務。另外，<strong>OpenJarvis</strong> 還支持 <strong>Ollama</strong>，這是一個強大的 AI 平台，能夠幫助你建立更加智能和自動化的生活體驗。</p>    <h2>OpenJarvis 的優點</h2>    <p>使用 <strong>OpenJarvis</strong> 的優點是多方面的。首先，它能夠讓你擁有自己的數據和隱私，避免了將個人數據上傳到雲端的風險。其次，<strong>OpenJarvis</strong> 能夠根據你的需求定制，提供更加個性化的服務。最後，<strong>OpenJarvis</strong> 還是一個開源的框架，這意味著它能夠得到開發者社區的支持和更新，讓你的智能助理變得更加強大和智能。</p>    <h2>編輯悄悄話</h2>    <p>生活在科技的時代，擁有自己的智能助理其實是一件很酷的事情。使用 <strong>OpenJarvis</strong> 和 <strong>Ollama</strong>，你可以建立自己的智能生活體驗，讓你的生活變得更加方便和自動化。雖然，<strong>OpenJarvis</strong> 還是一個新的技術，可能還存在一些 BUG 和不足。但是，隨著時間的推移和開發者社區的支持，我們可以預見，<strong>OpenJarvis</strong> 將會成為未來智能生活的重要組成部分。所以，現在就來試試看吧，體驗一下擁有自己的智能助理的樂趣吧！</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/openjarvis",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "034",
+    "title": "微軟的陰謀：接管Unsloth和Llama.cpp",
+    "summary": "微軟與Unsloth的合作引發了質疑，微軟過去曾試圖扼殺開源軟體，現在的合作可能只是為了控制模型在本地運行，進而迫使用戶使用付費的雲端服務，從而挑戰開源軟體的自由性",
+    "content": "<p>微軟與Unsloth的合作讓人們感到意外，但也引發了許多疑問。微軟過去曾經是開源軟體的死對頭，現在突然與Unsloth合作，到底是什麼原因呢？有些人可能會認為，這是微軟轉變的跡象，但事實真的如此嗎？<strong>微軟的真正目的可能是控制模型在本地運行，進而迫使用戶使用付費的雲端服務</strong>。</p>  <h2>微軟的過去和現狀</h2>  <p>微軟在過去幾十年中，曾經試圖扼殺開源軟體，現在似乎改變了立場。但是，<strong>企業的DNA不容易改變</strong>，微軟的真正目的可能仍然是控制市場和用戶。現在的合作可能只是為了達到這個目的的一個手段而已。</p>  <p>微軟可能會先通過更新和維護Unsloth，贏得用戶的信任，但最終的目標可能是將其納入自己的生態系統中。這樣，微軟就可以控制模型在本地運行，進而迫使用戶使用付費的雲端服務。這對於開源軟體的自由性和開發者來說，是一個巨大的挑戰。</p>  <h2>對開源軟體的影響</h2>  <p>如果微軟真的接管了Unsloth和Llama.cpp，對開源軟體的影響將會非常大。開源軟體的自由性和開發者的創造力可能會受到限制，<strong>開源軟體的未來將會變得更加不確定</strong>。開發者和用戶需要密切關注這個事件的發展，保護開源軟體的自由性和創造力。</p>  <h2>編輯悄悄話</h2>  <p>微軟與Unsloth的合作可能看起來很美好，但事實可能並非如此。開源軟體的自由性和創造力是需要被保護的，<strong>開發者和用戶需要保持警惕和行動</strong>。讓我們一起關注這個事件的發展，保護開源軟體的未來。</p>",
+    "image": "",
+    "source": "Reddit LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tvhv4b/calling_it_now_microsoft_is_buying_unsloth/",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "035",
+    "title": "Peacock 會員優惠碼大放送：最高 40% Off 折扣等你拿",
+    "summary": "這個月，你可以享受高達 80 美元的折扣，並透過 WIRED 最新提供的 Peacock TV 折扣碼，節省會員方案的費用，完全顛覆你目前的娛樂方式",
+    "content": "<p>你是否正在尋找一個優質的線上娛樂平台？現在，Peacock 正在提供高達 <strong>40% Off</strong> 的折扣碼，讓你可以以更低的價格享受你最愛的節目和電影。這個優惠活動只限本月，最高可享受 <strong>80 美元</strong> 的折扣。</p>    <h2>什麼是 Peacock 會員方案？</h2>    <p>Peacock 是一款線上娛樂平台，提供各種電視節目、電影和原創內容。透過 Peacock 會員方案，你可以享受無廣告的觀看體驗、獨家內容和多種附加功能。現在，透過 WIRED 提供的最新折扣碼，你可以節省會員方案的費用，享受更多的娛樂內容。</p>    <h2>如何使用 Peacock 折扣碼？</h2>    <p>使用 Peacock 折扣碼非常簡單。你只需要在 Peacock 官網上輸入折扣碼，即可享受相應的折扣。目前，WIRED 提供了最新的 Peacock TV 折扣碼，讓你可以享受高達 <strong>40% Off</strong> 的折扣。別錯過這個機會，趕快前往 Peacock 官網，輸入折扣碼，開始享受你的娛樂之旅。</p>    <h2>編輯悄悄話</h2>    <p>其實，線上娛樂平台的選擇很多，但是 Peacock 的優惠碼讓它們與眾不同。透過這個優惠，你可以享受高質量的娛樂內容，同時節省你的錢包。所以，別再猶豫，趕快前往 Peacock 官網，輸入折扣碼，開始享受你的娛樂之旅。這個優惠活動只限本月，別錯過這個機會，讓你可以享受更多的娛樂內容。</p>",
+    "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/191:100/w_1280,c_limit/WIRED-Coupons-1.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/peacock-promo-code/",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "036",
+    "title": "阿里巴巴推出 Qwen3.7-Plus：低成本、高性能的多模態 AI 模型",
+    "summary": "阿里巴巴最近推出了 Qwen3.7-Plus，最新的多模態 AI 模型，具有更高的性能和更低的成本。該模型支持文本、視頻和圖像輸入，成本僅為 0.4 美元/1M token，遠低於其他同類模型。雖然該模型僅提供商業授權，但其高性能和低成本使其成為企業和開發者的理想選擇。",
+    "content": "<h2><b>阿里巴巴 Qwen3.7-Plus 模型簡介</b></h2><p>阿里巴巴最近推出了 Qwen3.7-Plus，最新的多模態 AI 模型，具有更高的性能和更低的成本。該模型支持文本、視頻和圖像輸入，成本僅為 0.4 美元/1M token，遠低於其他同類模型。</p><h2><b>模型特點</b></h2><ul><li><p>多模態支持：文本、視頻和圖像輸入</p></li><li><p>高性能：在多個基準測試中表現優異</p></li><li><p>低成本：僅為 0.4 美元/1M token</p></li><li><p>商業授權：僅提供商業授權，不提供開源授權</p></li></ul><h2><b>模型應用場景</b></h2><p>Qwen3.7-Plus 模型適合企業和開發者使用，特別是那些需要高性能和低成本的多模態 AI 解決方案的企業。該模型可以應用於以下場景：</p><ul><li><p>企業自動化：自動化企業流程和任務</p></li><li><p>開發者工具：提供開發者工具和服務</p></li><li><p>數據工程：數據工程和科學研究</p></li></ul><h2><b>編輯悄悄話</b></h2><p>阿里巴巴 Qwen3.7-Plus 模型的推出標誌著企業和開發者可以使用高性能和低成本的多模態 AI 解決方案。雖然該模型僅提供商業授權，但其高性能和低成本使其成為企業和開發者的理想選擇。未來，阿里巴巴可能會繼續推出更多高性能和低成本的 AI 模型，進一步推動企業和開發者的創新和發展。</p>",
+    "image": "",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "037",
+    "title": "Google 公佈 Fitbit Air 蓝圖，讓你自製 3D 列印配件",
+    "summary": "Google 釋出 Fitbit Air 的 2D CAD 圖，將會推進 DIY 配件的發展，顛覆傳統配件生產模式",
+    "content": "<p>近日，Google 釋出了一個令人意外的消息，公開了 Fitbit Air 的 2D CAD 圖，這意味著使用者可以自行 3D 列印出自己的配件。這個舉動將會對配件生產產業帶來重大影響，<strong>讓使用者擁有更多的自主權和創造力</strong>。</p><h2>自製配件的時代來臨</h2><p>Google 這個舉動的背後，可能是希望能夠讓使用者更深入地參與到 Fitbit Air 的生態系統中，<strong>增強使用者的依賴度和忠誠度</strong>。同時，這也會促進 DIY 配件的發展，讓更多的創客和發明家參與到這個領域中。使用者可以根據自己的需求和喜好，設計和列印出自己想要的配件，<strong>打破傳統配件生產的限制</strong>。</p><h2>對配件生產業的影響</h2><p>這個消息對配件生產業來說，可能會帶來一定的衝擊，<strong>傳統配件生產商可能需要重新思考自己的商業模式</strong>。但是，同時也會帶來新的機會，<strong>讓更多的創新和創業者參與到這個領域中</strong>。Google 的這個舉動，將會推進整個配件生產業的發展，讓使用者擁有更多的選擇和創造力。</p><h2>編輯悄悄話</h2><p>這個消息讓我想到，<strong>科技的發展總是會帶來意想不到的變化</strong>。作為使用者，我們應該如何看待這個變化呢？其實，<strong>自製配件的時代來臨</strong>，也意味著我們可以更深入地參與到科技的發展中，<strong>發揮自己的創造力和想象力</strong>。所以，<strong>不要害怕變化，反而要樂於接受和創造</strong>，因為這才是科技發展的真諦。</p>",
+    "image": "https://www.engadget.com/img/gallery/google-shares-fitbit-air-blueprints-so-you-can-3d-print-your-own-accessories/l-intro-1780474581.jpg",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2186347/google-fitbit-air-blueprint-measurements-accessories/",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "038",
+    "title": "解鎖 Zorin OS 最強效能：老牌 Linux 用戶的 8 大秘技",
+    "summary": "Zorin OS 推出後，迅速吸引眾多 Linux 用戶的目光。這款作業系統在自訂化方面有著卓越的表現，讓用戶可以自由地調整設定以達到最佳效能。這些調整不僅能夠提升系統的速度，還能夠增強用戶體驗，挑戰傳統的 Linux 使用方式。",
+    "content": "<p>作為一名資深的 Linux 用戶，我們始終在尋找方法來優化系統的效能。Zorin OS 作為一款相對較新的 Linux 發行版，已經展現出其卓越的潛力。接下來，我將分享我的 8 大秘技，讓你能夠解鎖 Zorin OS 的最強效能。</p>  <h2>系統優化的基礎</h2>  <p>在開始優化 Zorin OS 之前，首先要確保你的系統是最新的。這不僅能夠修復已知的 Bug，還能夠提供最新的安全補丁。同時，<strong>更新你的 Linux 核心</strong>也是非常重要的，因為這將會影響到你的系統的整體效能。</p>  <p>另外，<strong>清理無用的軟體包</strong>也是非常重要的。這不僅能夠節省你的硬碟空間，還能夠減少系統的負擔，從而提升效能。</p>  <h2>自訂化是關鍵</h2>  <p>Zorin OS 的自訂化能力是其一大亮點。通過 <strong>自訂桌面環境</strong>，你可以根據自己的需求來調整系統的外觀和行為。例如，你可以更改主題、圖標，甚至是鼠標指針的樣式。</p>  <p>此外，<strong>安裝第三方軟體</strong>也是非常重要的。這不僅能夠提供更多的功能，還能夠豐富你的系統體驗。例如，你可以安裝不同的瀏覽器、音樂播放器等軟體。</p>  <h2>編輯悄悄話</h2>  <p>最後，通過上述的優化和自訂化，你將能夠體驗到 Zorin OS 的最強效能。這不僅能夠提升你的工作效率，還能夠增強你的使用體驗。因此，<strong>不要害怕去嘗試和自訂你的系統</strong>，因為這將會是你體驗 Zorin OS 的一大樂趣。</p>",
+    "image": "https://www.zdnet.com/a/img/resize/194e4ee4ae779258c50b37a08313d7ad80ac30c2/2026/05/27/8fe00200-3111-4071-81e2-0a17a471b65a/zorincubeherolaptop.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/my-favorite-zorin-os-settings/",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "039",
+    "title": "Canonical 宣布 Steam Snap 套件在 ARM64 平台穩定發揮",
+    "summary": "Canonical 的 Steam Snap 套件在 ARM64 平台上經過數月的測試和改進，現在被認為是穩定的，將會顛覆傳統的遊戲平台限制",
+    "content": "<p>Canonical 最近宣布，他們的 Steam Snap 套件在 ARM64 平台上已經穩定發揮。這個套件可以讓 ARM64 用戶在 Ubuntu 上玩到 x86/x86_64 的遊戲，<strong>這對於 ARM64 平台的用戶來說是一個重大突破</strong>。</p><h2>ARM64 平台的挑戰</h2><p>ARM64 平台一直面臨著軟體相容性的問題，很多遊戲和應用程式都是為 x86/x86_64 平台而設計的。因此，<strong>Canonical 的 Steam Snap 套件是一個重要的解決方案</strong>，可以讓 ARM64 用戶享受到更多的軟體資源。</p><p>Steam Snap 套件使用 FEX emulator 來模擬 x86/x86_64 的環境，讓 ARM64 用戶可以玩到 x86/x86_64 的遊戲。這個技術可以讓 ARM64 平台的用戶享受到更多的遊戲選擇，<strong>不再受限於 ARM64 平台的軟體資源</strong>。</p><h2>未來的展望</h2><p>Canonical 的 Steam Snap 套件在 ARM64 平台上的穩定發揮，<strong>意味著 ARM64 平台的用戶可以享受到更多的軟體資源和遊戲選擇</strong>。這個技術也可以讓更多的開發者為 ARM64 平台開發軟體和遊戲，<strong>推動 ARM64 平台的生態圈發展</strong>。</p><p>隨著 ARM64 平台的發展，<strong>我們可以預期到更多的創新和突破</strong>。Canonical 的 Steam Snap 套件只是其中的一個例子，<strong>它將會重塑我們對於 ARM64 平台的認知</strong>。</p><h2>編輯悄悄話</h2><p>生活在科技的時代，<strong>我們總是期待著新的突破和創新</strong>。Canonical 的 Steam Snap 套件在 ARM64 平台上的穩定發揮，<strong>讓我們看到 ARM64 平台的未來是光明的</strong>。讓我們一起關注這個領域的發展，<strong>看看到底會有什麼樣的創新和突破</strong>。</p>",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=steam_snap_arm64_1",
+    "source": "Phoronix",
+    "url": "https://www.phoronix.com/news/Steam-Snap-ARM64-Build-Stable",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "040",
+    "title": "微軟加碼量子電腦爭議理念，推進科技革命",
+    "summary": "微軟的量子電腦計畫正挑戰傳統科技思維，推進量子電腦的發展，可能顛覆現有的計算模式，帶來重大改變",
+    "content": "<p>近年來，微軟在量子電腦領域的努力逐漸受到關注，尤其是其在量子電腦硬體和軟體上的投資。這些努力正推進著微軟在量子電腦領域的雄心壯志，並引發了業界的廣泛討論。微軟的量子電腦計畫正挑戰傳統的科技思維，嘗試開創新的計算模式和應用領域。</p>  <h2>量子電腦的未來</h2>  <p>量子電腦的發展有可能帶來突破性的變革，尤其是在材料科學、化學和人工智慧等領域。微軟的量子電腦計畫正著眼於這些領域，嘗試利用量子電腦的能力來解決一些傳統電腦難以解決的問題。例如，微軟的量子電腦可以用來模擬複雜的化學反應，或者優化材料的性能。這些應用有可能帶來巨大的經濟和社會效益。</p>  <h2>挑戰和爭議</h2>  <p>然而，微軟的量子電腦計畫也面臨著許多挑戰和爭議。其中一個主要的挑戰是量子電腦的穩定性和可靠性問題。由於量子電腦的運算原理與傳統電腦不同，容易受到噪音和干擾的影響，導致運算結果的不穩定性。另外，微軟的量子電腦計畫也引發了業界的爭議，尤其是對於量子電腦的安全性和私密性的疑慮。有些人擔心量子電腦的出現可能會威脅到現有的加密技術和資料安全。</p>  <h2>編輯悄悄話</h2>  <p>微軟的量子電腦計畫正如一場科技革命，既帶來了巨大的機會，也引發了許多挑戰和爭議。作為一名科技觀察者，我們需要關注微軟的量子電腦計畫，並思考其可能帶來的影響。微軟的量子電腦計畫可能會帶來新的技術突破和應用領域，但也需要我們對其安全性和私密性進行嚴格的評估和監控。只有這樣，才能確保量子電腦的發展能夠真正造福人類，推進科技的進步。</p>",
+    "image": "",
+    "source": "Hacker News",
+    "url": "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "041",
+    "title": "GitHub Copilot 桌面應用登場：為開發人員帶來原生桌面體驗",
+    "summary": "GitHub 推出新工具和更新，讓開發人員可以更順暢地工作，衝擊傳統的開發模式",
+    "content": "<p>近日，在 Microsoft Build 2026 大會上，GitHub 宣布推出了一系列新工具和更新，包括 GitHub Copilot 桌面應用。這個新應用旨在為開發人員提供一個原生桌面體驗，讓他們可以更高效地工作。</p><h2>什麼是 GitHub Copilot？</h2><p><strong>GitHub Copilot</strong> 是一個基於 AI 的開發工具，旨在幫助開發人員更快速地完成開發任務。它可以自動完成代碼、提供代碼建議，甚至可以幫助開發人員調試代碼。這個工具已經在開發人員中引起了很大的關注，因為它可以大大提高開發效率。</p><h2>GitHub Copilot 桌面應用的優點</h2><p>GitHub Copilot 桌面應用提供了一個原生桌面體驗，讓開發人員可以更方便地使用這個工具。它支持多個平台，包括 Windows、macOS 和 Linux。另外，桌面應用還提供了更好的性能和更低的延遲，讓開發人員可以更順暢地工作。</p><p>此外，GitHub Copilot 桌面應用還提供了一些新的功能，例如 <strong>代碼審查</strong> 和 <strong>代碼分析</strong>。這些功能可以幫助開發人員更好地理解自己的代碼，甚至可以幫助他們發現潛在的錯誤。</p><h2>編輯悄悄話</h2><p>GitHub Copilot 桌面應用的推出，將會對開發人員的工作模式產生很大的影響。它可以幫助開發人員更快速地完成開發任務，甚至可以幫助他們提高代碼質量。因此，開發人員可以更專注於自己的創作，讓自己的想法變成現實。這是一個很有趣的發展趨勢，值得我們關注和學習。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/06/MSFTBuild_Blog_Header_01.jpg",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "042",
+    "title": "Node.js 採用一年一大版本，Node 27 成為首發",
+    "summary": "Node.js 將從 27 版開始，每年只發布一大版本，所有版本皆為 Long-Term Support，取消奇數和偶數版本的區別，並引入 Alpha 渠道進行早期測試，顛覆傳統的版本更新模式",
+    "content": "<p>近日，Node.js 社群宣佈了一項重大變革，從 27 版開始，每年只發布一大版本，取代原本的兩大版本更新模式。這項變革不僅簡化了版本更新過程，還讓所有版本都成為 Long-Term Support（LTS），取消了奇數和偶數版本的區別。</p>    <h2>版本更新的新時代</h2>    <p>這項變革的主要目的是為了解決維護挑戰，同時更好地滿足用戶的需求。透過一年一大版本的模式，Node.js 社群可以更專注地維護和更新版本，提供更穩定和安全的使用體驗。同時，引入 Alpha 渠道的早期測試機制，可以讓開發人員更早地參與測試和反饋，進一步提升版本的品質。</p>    <p>這項變革對於 Node.js 社群和開發人員來說，都是一个重大的轉變。透過這項變革，Node.js 社群可以更好地滿足用戶的需求，提供更穩定和安全的使用體驗。同時，開發人員也可以更早地參與測試和反饋，進一步提升版本的品質。</p>    <h2>開發人員的新機會</h2>    <p>引入 Alpha 渠道的早期測試機制，可以讓開發人員更早地參與測試和反饋，進一步提升版本的品質。這項機制可以讓開發人員更早地發現版本的問題，同時也可以讓 Node.js 社群更早地收到反饋，進一步提升版本的品質。同時，開發人員也可以更早地開始使用新版本的功能和特性，進一步提升自己的開發效率和品質。</p>    <p>這項變革不僅對於 Node.js 社群和開發人員來說是個重大的轉變，也是個機會。透過這項變革，Node.js 社群可以更好地滿足用戶的需求，提供更穩定和安全的使用體驗。同時，開發人員也可以更早地參與測試和反饋，進一步提升版本的品質。</p>    <h2>編輯悄悄話</h2>    <p>這項變革對於 Node.js 社群和開發人員來說，都是一个重大的轉變。透過這項變革，Node.js 社群可以更好地滿足用戶的需求，提供更穩定和安全的使用體驗。同時，開發人員也可以更早地參與測試和反饋，進一步提升版本的品質。讓我們一起期待這項變革帶來的新機會和挑戰，共同推動 Node.js 社群的發展和成長。</p>",
+    "image": "https://res.infoq.com/news/2026/06/nodejs-release-changes/en/headerimage/generatedHeaderImage-1780400494858.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/news/2026/06/nodejs-release-changes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "043",
+    "title": "Red Hat OpenShift Virtualization 4.21登場：虛擬機器網路管理大簡化",
+    "summary": "Red Hat OpenShift Virtualization 4.21 引入全新的網路設計流程，為虛擬機器網路管理帶來重大改變。這個全新的工作流程讓您可以更高效地創建網路、配置節點和提供可靠的虛擬機器訪問。新的工作流程通過將複雜的配置分解為更小、更簡單的步驟，同時仍然提供相同的功能，從而簡化網路管理。",
+    "content": "<h2>虛擬機器網路管理的挑戰</h2><p>在虛擬化環境中，網路管理是個複雜的任務。虛擬機器需要與實體網路設備相連，才能提供可靠的訪問。但是，這個過程往往涉及多個步驟，包括創建網路、配置節點和設定虛擬機器的網路訪問權限。這些步驟不僅耗時，而且容易出錯。</p><h2>Red Hat OpenShift Virtualization 4.21的解決方案</h2><p>Red Hat OpenShift Virtualization 4.21引入了一個全新的網路設計流程，旨在簡化虛擬機器網路管理。新的工作流程包括:</p><ul>  <li><strong>中央化的物理網路頁面</strong>：提供一個統一的界面來管理物理網路和虛擬網路。</li>  <li><strong>網路配置的簡化</strong>：允許用戶以簡單的步驟配置網路和虛擬機器的訪問權限。</li>  <li><strong>可靠的虛擬機器訪問</strong>：確保虛擬機器可以可靠地訪問實體網路設備。</li></ul><p>新的工作流程通過將複雜的配置分解為更小、更簡單的步驟，同時仍然提供相同的功能，從而簡化網路管理。這個解決方案不僅可以提高工作效率，還可以降低錯誤的風險。</p><h2>編輯悄悄話</h2><p>Red Hat OpenShift Virtualization 4.21的全新網路設計流程是虛擬機器網路管理的福音。通過簡化網路管理，企業可以更高效地運營虛擬化環境，提高工作效率和可靠性。同時，新的工作流程也可以降低錯誤的風險，讓企業更安心地運營虛擬化環境。</p>",
+    "image": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg",
+    "source": "Red Hat Blog",
+    "url": "https://www.redhat.com/en/blog/openshift-virtualization-421-removing-complexity-your-virtual-machine-networking-workflow",
+    "date": "2026-06-03"
   }
 ]
