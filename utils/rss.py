@@ -1,3 +1,4 @@
+import re
 import json
 import requests
 from bs4 import BeautifulSoup
@@ -51,6 +52,59 @@ def fetch_aihot(max_items=5):
     except Exception as e:
         print(f"[AIHOT] 抓取失敗: {e}")
         return []
+
+
+def extract_full_content(url):
+    """
+    抓取網頁全文內容 (FeedFuse 核心功能模擬)
+    嘗試從網頁中提取最有可能是正文的部分
+    """
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+        resp = requests.get(url, headers=headers, timeout=15)
+        resp.raise_for_status()
+        
+        # 處理編碼問題
+        resp.encoding = resp.apparent_encoding
+        
+        soup = BeautifulSoup(resp.text, "lxml")
+        
+        # 移除干擾元素
+        for tag in soup(["script", "style", "nav", "footer", "header", "aside", "iframe", "ad"]):
+            tag.decompose()
+
+        # 1. 嘗試常見的正文標籤
+        content_tags = [
+            soup.find("article"),
+            soup.find("div", class_=re.compile(r"article|content|post|entry|main-body", re.I)),
+            soup.find("main")
+        ]
+        
+        best_tag = next((tag for tag in content_tags if tag), None)
+        
+        if best_tag:
+            paragraphs = best_tag.find_all("p")
+            if not paragraphs:
+                # 如果有標籤但沒 <p>，直接拿文字
+                text = best_tag.get_text(separator="\n", strip=True)
+            else:
+                text = "\n".join([p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 20])
+        else:
+            # 2. 如果找不到明確標籤，則抓取所有的 <p>
+            paragraphs = soup.find_all("p")
+            if not paragraphs:
+                text = soup.get_text(separator="\n", strip=True)
+            else:
+                text = "\n".join([p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 20])
+        
+        # 限制長度，避免 token 爆炸，但提供足夠資訊
+        return text[:4000]
+
+    except Exception as e:
+        print(f"[Scraper] 抓取全文失敗 ({url}): {e}")
+        return ""
 
 
 def fetch_rss():
