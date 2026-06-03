@@ -4,7 +4,7 @@ from datetime import datetime
 
 from utils.ai import call_ai_with_fallback
 from utils.image import fetch_image
-from utils.rss import fetch_rss
+from utils.rss import fetch_rss, extract_full_content
 
 
 # ===== 讀取設定 =====
@@ -76,8 +76,11 @@ for art in articles:
             print(f"Skip Duplicate: {art['link']}")
             continue
 
+        # ===== 抓取全文 (V8.0 核心強化) =====
+        print(f"[*] 正在抓取全文: {art['title'][:20]}...")
+        full_text = extract_full_content(art["link"])
+        
         # ===== 原始新聞（含原文，讓 AI 生成更豐富的內容）=====
-        full = art.get('full_content', '').strip()
         raw_text = f"""
 標題：
 {art['title']}
@@ -86,11 +89,13 @@ for art in articles:
 {art['summary']}
 """
         # 有原文才附上，避免 token 浪費
-        if full:
+        if full_text:
             raw_text += f"""
 原文內容（參考用，請用自己的語氣重新詮釋）：
-{full[:2000]}
+{full_text}
 """
+        else:
+            print("    [!] 無法抓取全文，將使用摘要生成。")
 
         # ===== AI 生成 =====
         data, used_provider = call_ai_with_fallback(
