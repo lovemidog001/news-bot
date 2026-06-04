@@ -198,5 +198,105 @@
     "source": "Reddit Programming",
     "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
     "date": "2026-06-04"
+  },
+  {
+    "id": "021",
+    "title": "MapAgent智慧體框架：革新城市級車道級地圖生成",
+    "summary": "MapAgent智慧體框架通過視覺語言模型診斷錯誤、生成最小修正編輯，推進車道級地圖生成的自動化率，衝擊傳統地圖製作流程",
+    "content": "<p>近年來，智慧體技術在各個領域都有著廣泛的應用，而地圖生成也是其中之一。MapAgent是一種工業級智慧體架構，用于生成符合規範的車道級地圖。它在矢量化骨干網絡基礎上，通過Judge-Planner-Worker循環，利用視覺語言模型診斷錯誤、生成最小修正編輯並重新驗證。這種技術可以大大提高地圖生成的效率和準確性。</p>  <h2>MapAgent的工作原理</h2>  <p>MapAgent的工作原理是基於矢量化骨干網絡，通過視覺語言模型診斷錯誤、生成最小修正編輯並重新驗證。這種技術可以大大提高地圖生成的效率和準確性。系統僅在骨干網絡置信度低的瓦片区域選擇性觸發，保持高吞吐量。這意味著MapAgent可以在保持高效率的同時，也能夠確保地圖的準確性。</p>  <h2>MapAgent在百度地圖的應用</h2>  <p>MapAgent已經集成至百度地圖，支撐全國360多個城市的車道級地圖生成，整體生產自動化率超95%。這意味著MapAgent已經成為百度地圖地圖生成的重要工具。通過MapAgent，百度地圖可以更快速、更準確地生成車道級地圖，為用戶提供更好的地圖服務。</p>  <h2>編輯悄悄話</h2>  <p>MapAgent的出現，對於地圖生成 industry 來說是一個革命性的變革。它不僅提高了地圖生成的效率和準確性，也為用戶提供了更好的地圖服務。通過MapAgent，百度地圖可以更快速、更準確地生成車道級地圖，為用戶提供更好的地圖服務。這種技術的出現，也意味著地圖生成 industry 將會迎來一個新的時代。讓我們一起關注MapAgent的發展，看到它如何改變地圖生成 industry 的未來。</p>",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "source": "AI HOT 精選",
+    "url": "https://arxiv.org/abs/2606.04513",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "022",
+    "title": "Echo-Infinity：學習演化記憶實現實時無限視頻生成",
+    "summary": "Echo-Infinity 是一個自回歸框架，能夠實現實時無限視頻生成。它通過學習演化記憶和注意力機制，與視頻擴散 Transformer 進行端到端優化，支持任意壓縮比且計算量不隨視頻長度增加。這項技術將挑戰現有的視頻生成方法，推進視頻處理技術的發展。",
+    "content": "<h2>什麼是 Echo-Infinity？</h2><p>Echo-Infinity 是一個自回歸（AR）框架，用于實時無限視頻生成。它的主要目的是解決現有的視頻生成方法中存在的限制，例如有限的視頻長度和計算量的增加。通過學習演化記憶和注意力機制，Echo-Infinity 能夠實現任意壓縮比且計算量不隨視頻長度增加的視頻生成。</p><h2>如何實現實時無限視頻生成？</h2><p>Echo-Infinity 的關鍵在於其學習演化記憶的方法。它通過注意力機制和門控更新 Memory Query，與視頻擴散 Transformer 進行端到端優化。這使得 Echo-Infinity 能夠實現任意壓縮比且計算量不隨視頻長度增加的視頻生成。同時，Echo-Infinity 還引入了 Unified Relative RoPE Recipe，錨定 sink 帧從 id 0 開始、最新帧 id 不超過預訓練最大時間 RoPE id，解除有限 RoPE 約束並縮小外推差距。</p><h2>什麼是視頻擴散 Transformer？</h2><p>視頻擴散 Transformer 是一個深度學習模型，用于視頻處理和生成。它的主要目的是將視頻序列轉換為更高維度的空間，從而實現視頻的壓縮和生成。Echo-Infinity 通过與視頻擴散 Transformer 進行端到端優化，實現了任意壓縮比且計算量不隨視頻長度增加的視頻生成。</p><h2>編輯悄悄話</h2><p>Echo-Infinity 的出現，將挑戰現有的視頻生成方法，推進視頻處理技術的發展。它的學習演化記憶的方法和注意力機制，使得它能夠實現任意壓縮比且計算量不隨視頻長度增加的視頻生成。這項技術的出現，將帶來更多的創新和應用，值得我們關注和期待。</p>",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "source": "AI HOT 精選",
+    "url": "https://arxiv.org/abs/2606.04527",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "023",
+    "title": "遠距辦公阻礙在職培訓，對青年就業衝擊更大",
+    "summary": "美國紐約聯邦儲備銀行的最新研究指出，近年來年輕大學畢業生的失業率攀升，主要原因並非人工智能（AI）的普及，而是遠距辦公模式增加在職培訓的難度，導致企業減少聘用青年員工。這個發現挑戰了許多人的常識，讓我們來深入探討這個問題。",
+    "content": "<h2>遠距辦公時代，青年員工的培訓機會減少</h2><p>遠距辦公模式在疫情期間迅速普及，許多企業也開始接受這種新的工作模式。然而，美國紐約聯邦儲備銀行的研究指出，這種模式可能對青年員工的培訓機會產生負面影響。研究人員發現，遠距辦公模式增加了在職培訓的難度，導致企業減少聘用青年員工。</p><p><strong>遠距辦公模式下，青年員工缺乏實際工作經驗</strong>，這使得他們在職業生涯的早期階段面臨更大的挑戰。研究人員指出，這種現象可能是因為遠距辦公模式下，青年員工缺乏與老員工的直接互動和指導，這對於他們的職業生涯發展非常重要。</p><h2>人工智能（AI）的普及不是青年失業的主要原因</h2><p>許多人認為，人工智能（AI）的普及是青年失業的主要原因。然而，美國紐約聯邦儲備銀行的研究指出，這種觀點是錯誤的。研究人員發現，AI的普及對青年失業的影響相對較小，主要原因仍然是遠距辦公模式下的培訓機會減少。</p><p><strong>AI的普及可能會取代一些工作職位</strong>，但它也創造了新的工作機會。研究人員指出，企業應該關注如何為青年員工提供更多的培訓機會和工作經驗，而不是僅僅關注AI的普及。</p><h2>編輯悄悄話</h2><p>遠距辦公模式下，青年員工的培訓機會減少，對於他們的職業生涯發展產生了負面影響。企業應該關注如何為青年員工提供更多的培訓機會和工作經驗，而不是僅僅關注AI的普及。這是一個需要我們關注和思考的問題，如何讓青年員工在遠距辦公時代中獲得更多的培訓機會和工作經驗呢？</p>",
+    "image": "",
+    "source": "Google Alerts - AI News",
+    "url": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/6813/9544820&ct=ga&cd=CAIyHWFlMGQ0MjQyNmJkYzAyNmI6Y29tOnpoLVRXOlVT&usg=AOvVaw1H1jMZ0Wl5ayD6j9hIns4r",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "024",
+    "title": "GPT-Rosalind推出新能力，助力生命科學研究的重大突破",
+    "summary": "GPT-Rosalind結合了GPT-5.5的編碼和工具使用能力，與強大的生物學和藥物化學專業知識，推進了基因組學分析和實驗工作流程的能力，將對生命科學研究產生重大影響。",
+    "content": "<p>近日，GPT-Rosalind推出了新能力，結合了GPT-5.5的編碼和工具使用能力，與強大的生物學和藥物化學專業知識，推進了基因組學分析和實驗工作流程的能力。這將對生命科學研究產生重大影響，特別是在藥物發現、基因組學分析和實驗工作流程等領域。</p><h2>推進生命科學研究的新能力</h2><p>GPT-Rosalind的新能力包括了強大的生物學和藥物化學專業知識，基因組學分析和實驗工作流程的能力。這些能力將有助於推進生命科學研究，特別是在藥物發現、基因組學分析和實驗工作流程等領域。</p><p>例如，GPT-Rosalind可以幫助研究人員分析大量的生物學數據，識別新的藥物目標，設計新的藥物結構，並優化實驗工作流程。這些能力將有助於加速藥物發現和開發，改善人類健康。</p><h2>評估GPT-Rosalind的性能</h2><p>為了評估GPT-Rosalind的性能，研究人員設計了一個基準測試，稱為LifeSciBench。這個基準測試評估了GPT-Rosalind在六個生命科學研究領域的性能，包括證據處理、分析、設計和優化、科學推理、驗證和操作、以及翻譯和溝通。</p><p>結果顯示，GPT-Rosalind在所有六個領域都表現出色，特別是在證據處理和分析領域。這表明GPT-Rosalind有能力處理和分析大量的生物學數據，識別新的藥物目標，設計新的藥物結構，並優化實驗工作流程。</p><h2>編輯悄悄話</h2><p>總的來說，GPT-Rosalind的新能力將對生命科學研究產生重大影響，特別是在藥物發現、基因組學分析和實驗工作流程等領域。研究人員可以使用GPT-Rosalind來分析大量的生物學數據，識別新的藥物目標，設計新的藥物結構，並優化實驗工作流程。這將有助於加速藥物發現和開發，改善人類健康。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3fieJVeKCR31cbZa1xIuNt/adbb14a236da2942035f43ef7b392ca3/GPT-Rosalind_SEO_Card.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "025",
+    "title": "AI 美術大師登場！xAI 推出「Grok Imagine Video 1.5」",
+    "summary": "xAI 創始人伊隆·馬斯克（Elon Musk）推出最新 AI 美術工具「Grok Imagine Video 1.5」，可將靜態圖片轉換為 720p 解析度的影片。這項技術將顛覆傳統的視頻製作方式，讓用戶可以輕鬆創作專業級別的視頻內容。",
+    "content": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"876\" src=\"https://the-decoder.com/wp-content/uploads/2026/06/grok_xai_video15.png\" style=\"height: auto; margin-bottom: 10px;\" width=\"1576\" /></p><h2>AI 美術大師登場</h2><p>xAI 創始人伊隆·馬斯克（Elon Musk）推出最新 AI 美術工具「Grok Imagine Video 1.5」，可將靜態圖片轉換為 720p 解析度的影片。這項技術將顛覆傳統的視頻製作方式，讓用戶可以輕鬆創作專業級別的視頻內容。</p><p>根據 xAI 的介紹，「Grok Imagine Video 1.5」可以根據用戶的文字提示，將靜態圖片轉換為短片，並保持原圖的細節和燈光效果。多個短片還可以拼接成更長的場景，保持一致的風格。</p><h2>競爭激烈的視頻 AI 市場</h2><p>xAI 的「Grok Imagine Video 1.5」目前以預覽版本推出，通過 xAI API 可以輕鬆設定。這項技術將與其他視頻 AI 提供商如 Seedance 和 Google 的 Veo 進行競爭。OpenAI 近期撤回了其 Sora 視頻模型，原因是資源限制和缺乏商業模式。</p><h2>編輯悄悄話</h2><p>「Grok Imagine Video 1.5」的推出，標誌著 AI 美術技術的又一次突破。這項技術將給視頻製作帶來革命性的變革，讓更多人能夠創作出高質量的視頻內容。然而，隨著競爭的加劇，xAI 和其他視頻 AI 提供商將如何保持領先地位，仍需拭目以待。</p>",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/06/grok_xai_video15.png",
+    "source": "The Decoder",
+    "url": "https://the-decoder.com/xai-updates-grok-imagine-to-1-5-with-image-to-video-generation-at-720p-resolution/",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "026",
+    "title": "Nomad Goods 限時優惠：6 月份享受最高 25% 折扣",
+    "summary": "Nomad Goods 正在推出限時優惠，讓你在 6 月份享受最高 25% 折扣！從 iPhone 手機殼到 iPad 保護套，甚至是 Apple Watch 的配件，都可以享受優惠。這次的促銷活動，將會為你的電子產品提供更多的選擇和保護。",
+    "content": "<h2> Nomad Goods 的限時優惠活動</h2><p>如果你一直在等待 Nomad Goods 的優惠活動，那麼現在是你購買的最佳時機！Nomad Goods 正在推出限時優惠，讓你在 6 月份享受最高 25% 折扣！從 iPhone 手機殼到 iPad 保護套，甚至是 Apple Watch 的配件，都可以享受優惠。</p><h2> Nomad Goods 的產品系列</h2><p> Nomad Goods 提供了多種電子產品的配件，包括 iPhone 手機殼、iPad 保護套、Apple Watch 的配件等。這些產品不僅具有時尚的設計，還具有高品質的材料和工藝。 Nomad Goods 的產品系列，將會為你的電子產品提供更多的選擇和保護。</p><p><strong> Nomad Goods 的 iPhone 手機殼系列</strong>，包括 Rugged Case、Modern Leather Case 等多種款式。這些手機殼不僅具有時尚的設計，還具有高品質的材料和工藝，能夠為你的 iPhone 提供最佳的保護。</p><p><strong> Nomad Goods 的 iPad 保護套系列</strong>，包括 Modern Leather Case 等多種款式。這些保護套不僅具有時尚的設計，還具有高品質的材料和工藝，能夠為你的 iPad 提供最佳的保護。</p><h2> Nomad Goods 的會員計畫</h2><p>如果你想享受更多的優惠和獎勵，那麼你可以加入 Nomad Goods 的會員計畫。作為會員，你將會享受免費的運費、獨家優惠和獎勵等福利。</p><p><strong> Nomad Goods 的會員計畫</strong>，將會為你提供更多的優惠和獎勵。加入會員計畫，你將會享受免費的運費、獨家優惠和獎勵等福利。</p><h2>編輯悄悄話</h2><p> Nomad Goods 的限時優惠活動，將會為你的電子產品提供更多的選擇和保護。加入會員計畫，你將會享受更多的優惠和獎勵。所以，不要錯過這次的優惠活動，趕快加入 Nomad Goods 的會員計畫，享受更多的優惠和獎勵吧！</p>",
+    "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/191:100/w_1280,c_limit/WIRED-Coupons-2.jpg",
+    "source": "Wired",
+    "url": "https://www.wired.com/story/nomad-discount-code/",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "027",
+    "title": "虛擬發電廠如何幫助數據中心節能？",
+    "summary": "谷歌最近與虛擬發電廠平台公司 Voltus 簽署了一項協議，旨在為美國東海岸地區的數據中心提供電力。這項協議將利用虛擬發電廠技術，將分散式能源資源聚合在一起，以減少電網負荷。這種創新的方法可能會對未來的能源管理產生重大影響。",
+    "content": "<p>你會接受一筆付款來降低你的電力使用嗎？如果你知道這樣做可以幫助當地數據中心節能，你會改變你的想法嗎？谷歌最近與虛擬發電廠平台公司 Voltus 簽署了一項協議，旨在為美國東海岸地區的數據中心提供電力。</p><h2>虛擬發電廠是什麼？</h2><p>虛擬發電廠是一種創新的能源管理技術，將分散式能源資源聚合在一起，以減少電網負荷。這種技術可以將電動車、智能恒溫器等設備連接起來，形成一個虛擬的發電廠。通過這種方式，電力公司可以更好地管理電網，減少峰值負荷，提高能源效率。</p><h2>谷歌的虛擬發電廠計畫</h2><p>谷歌的虛擬發電廠計畫將利用 Voltus 的技術，將分散式能源資源聚合在一起，以減少電網負荷。這項計畫將為美國東海岸地區的數據中心提供電力，預計將在 2027 年開始運作。谷歌將為這項計畫提供資金，Voltus 將負責建設和運營虛擬發電廠。</p><h2>編輯悄悄話</h2><p>谷歌的虛擬發電廠計畫是一個創新的能源管理方法，將為未來的能源管理產生重大影響。通過這種方式，電力公司可以更好地管理電網，減少峰值負荷，提高能源效率。同時，虛擬發電廠也可以為數據中心提供電力，減少對傳統能源的依賴。這是一個值得關注的發展趨勢，可能會對未來的能源管理產生重大影響。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/GettyImages-1330540704.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "028",
+    "title": "我花了1500美元，測試LLM是否能駭入我建立的漏洞應用程式",
+    "summary": "一位安全研究人員建立了一個漏洞應用程式，測試大型語言模型(LLM)是否能駭入系統。他花了1500美元，使用多個LLM模型進行測試，結果令人驚訝。這個實驗挑戰了我們對LLM的安全性和可靠性的看法。",
+    "content": "<h2>建立漏洞應用程式</h2><p>作為一位安全研究人員，我經常為各種應用程式和網站進行安全測試。這次，我想測試大型語言模型(LLM)是否能駭入我建立的漏洞應用程式。於是我建立了一個虛假的React Native應用程式，並使用Python建立了一個後端伺服器。這個應用程式是一個書評應用程式，目的是要找到用戶私人評論中的旗幟。</p><h2>測試LLM模型</h2><p>我使用了多個LLM模型進行測試，包括一些知名的模型。每個模型都進行了10次完整的測試，我觀察了它們的表現。結果令人驚訝，有些模型能夠輕鬆駭入系統，而有些模型則完全沒有成功。</p><p>我也嘗試了其他模型，但由於成本太高，我沒有進行完整的10次測試。這些模型包括了一些小型的LLM模型和一些自定義的模型。</p><h2>結果和結論</h2><p>我的實驗結果表明，大型語言模型(LLM)在安全性方面存在著一定的風險。有些模型能夠輕鬆駭入系統，而有些模型則完全沒有成功。這個結果挑戰了我們對LLM的安全性和可靠性的看法。</p><h2>編輯悄悄話</h2><p>這個實驗結果令人驚訝，也讓我們重新思考LLM的安全性和可靠性。如果你是一位開發人員，請務必注意你使用的LLM模型的安全性。如果你是一位用戶，請務必注意你使用的應用程式的安全性。記住，安全性是每個人的責任！</p>",
+    "image": "https://kasra.blog/favicon-512.png",
+    "source": "Hacker News",
+    "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "029",
+    "title": "Next.js 16.2登場！開發速度提升400%，渲染速度提高60%，AI工具全面升級",
+    "summary": "Vercel最近推出了Next.js 16.2版本，為開發人員帶來了顯著的性能提升和工具升級。開發啟動速度提升400%，渲染速度提高60%，並新增了AI工具和錯誤報告功能。這將對React開發人員的工作效率產生重大影響，尤其是在大型項目中。",
+    "content": "<h2>Next.js 16.2版本亮點</h2><p>Next.js 16.2版本是Vercel最近推出的開源React框架，該版本包含了多項性能提升和工具升級。開發啟動速度提升400%，渲染速度提高60%，並新增了AI工具和錯誤報告功能。</p><p>這些提升主要來自於React框架的改進，例如Server Components的payload反序列化速度提高了350%，並且新增了Subresource Integrity和tree shaking等功能。</p><h2>Ai工具全面升級</h2><p>Next.js 16.2版本還新增了AI工具，包括create-next-app和next包的版本匹配文檔。這些工具將有助於開發人員更好地使用AI技術來提高開發效率。</p><p>此外，Vercel還推出了experimental@vercel/next-browser CLI工具，允許開發人員從終端檢查正在運行的應用程序。</p><h2>升級和兼容性</h2><p>Next.js 16.2版本需要Node.js 20.9或更新版本，TypeScript 5.1或更新版本。升級指南文件提供了從Next.js 15版本升級的步驟和注意事項。</p><p>總之，Next.js 16.2版本是React開發人員的重要更新，為開發效率和工具提供了顯著的提升。</p><h2>編輯悄悄話</h2><p>Next.js 16.2版本的推出，標誌著React開發的又一重要里程碑。開發人員可以期待更快的開發速度、更好的工具和更強大的AI支持。這將是一個值得期待的更新，尤其是對於那些正在從事大型項目的開發人員。因此，如果你是一名React開發人員，請不要錯過這個機會，趕快升級到Next.js 16.2版本吧！</p>",
+    "image": "https://res.infoq.com/news/2026/06/nextjs-6-2/en/card_header_image/generatedCard-1780409718508.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/news/2026/06/nextjs-6-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "030",
+    "title": "惡意軟體WeedHack：青少年的網路霸凌工具",
+    "summary": "資安公司McAfee揭露了一種針對Minecraft玩家的惡意軟體WeedHack，該軟體採用租用模式經營，任何人只要有Discord帳號與網路連線，就能免費使用，竊取玩家的帳密資料及挾持帳號，甚至進一步霸凌同儕。",
+    "content": "<p>近日，資安公司McAfee揭露了一種針對Minecraft玩家的惡意軟體WeedHack，該軟體採用租用模式經營，不過有別於其他提供惡意軟體租用的服務，每個月費用需要數百美元，McAfee指出，任何人只要有Discord帳號與網路連線，就能免費使用WeedHack，竊取玩家的帳密資料及挾持帳號，若是一個月支付5美元（24.99美元可取得進階功能的終身使用權）的買家，還能進一步即時存取受害者的電腦螢幕畫面、視訊鏡頭，以及檔案。</p><h2> WeedHack的功能和影響 </h2><p>從功能上來看，免費版本的WeedHack偏向竊資軟體（Infostealer），而付費版本具備後門程式的能力。McAfee監控駭客經營的Telegram頻道發現，該頻道有超過850名成員，且大部分是青少年或是剛成年的年輕人，值得留意的是，其中有不少人的目的並非經濟利益，而是為了騷擾和恐嚇其他Minecraft玩家。</p><h2> 霸凌和恐嚇的現象 </h2><p>該公司看到攻擊者透過電腦的網路攝影機錄製受害者的影片，並在Telegram頻道分享，也有人利用受害者的IP位址與系統存取權限，威脅受害者。這種極低的門檻，吸引年輕族群上門，McAfee發現，買家不僅利用WeedHack獲得經濟利益，還進一步騷擾和霸凌同儕。</p><h2> 編輯悄悄話 </h2><p>這種惡意軟體的出現，讓我們再次意識到網路安全的重要性。作為家長和玩家，我們必須提高警惕，保護自己和孩子免受網路霸凌和恐嚇的影響。讓我們共同努力，創造一個安全和友善的網路環境。</p>",
+    "image": "https://www.ithome.com.tw/sites/default/files/field/image/screenshot-2026-05-28-at-8.43.12_am-156.jpg",
+    "source": "iThome",
+    "url": "https://www.ithome.com.tw/news/176370",
+    "date": "2026-06-04"
   }
 ]
