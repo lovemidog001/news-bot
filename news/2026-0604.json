@@ -298,5 +298,125 @@
     "source": "iThome",
     "url": "https://www.ithome.com.tw/news/176370",
     "date": "2026-06-04"
+  },
+  {
+    "id": "031",
+    "title": "Nemotron 3.5 ASR 模型微調：讓語音應用更接地氣",
+    "summary": "NVIDIA 在 Hugging Face 發布博客，介绍如何针对特定语言、领域或口音微调 Nemotron 3.5 ASR 模型，從而顛覆傳統的語音應用開發",
+    "content": "<p>近年來，語音應用越來越普遍，但是很多時候我們會感受到語音應用的「塑料感」，也就是說，無論是語音助手還是語音識別，似乎都缺乏人性的-touch。這主要是因為，大多數的語音模型都是基於通用數據集訓練的，很難滿足特定語言、領域或口音的需求。最近，NVIDIA 在 Hugging Face 發布了一篇博客，介绍如何在 Nemotron 3.5 ASR 上针对你的語言、領域或口音進行微調。</p>    <h2>什麼是 Nemotron 3.5 ASR?</h2>    <p>Nemotron 3.5 ASR 是一個強大的語音識別模型，能夠識別多種語言和口音。這個模型是基於深度學習技術開發的，能夠學習語音的模式和結構。通過微調這個模型，我们可以讓它更好地適應特定的語言、領域或口音，從而提高語音識別的準確度。</p>    <h2>如何微調 Nemotron 3.5 ASR?</h2>    <p>要微調 Nemotron 3.5 ASR，需要有一個特定的數據集，包含了你想要識別的語言、領域或口音的語音數據。然後，你需要使用 Hugging Face 的 Transformers 庫，來載入 Nemotron 3.5 ASR 模型，並對其進行微調。這個過程需要一些技術知識和計算資源，但是最終的結果是值得的。你可以讓你的語音應用更好地理解和識別用戶的語音，從而提供更好的用戶體驗。</p>    <h2>編輯悄悄話</h2>    <p>微調 Nemotron 3.5 ASR 模型是一個很有趣的過程，能夠讓你的語音應用更接地氣。通過這個過程，你可以讓你的語音應用更好地理解和識別用戶的語音，從而提供更好的用戶體驗。所以，如果你想要讓你的語音應用更上一層樓，現在就來試試微調 Nemotron 3.5 ASR 模型吧！這將會是你語音應用的一個 <strong>革命性的改變</strong>。</p>",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/fine-tuning-nemotron-35-asr.png",
+    "source": "AI HOT 精選",
+    "url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "032",
+    "title": "NVIDIA Nemotron 3 Ultra：長時間運行的AI智能體新引擎",
+    "summary": "NVIDIA發布Nemotron 3 Ultra模型，為長時間運行的AI智能體帶來更快、更高效的推理能力，顛覆傳統的AI智能體設計",
+    "content": "<p>近年來，AI智能體的發展迅速，許多公司都在投入資源開發自己的AI智能體。但是，長時間運行的AI智能體一直是一個挑戰。NVIDIA最近發布的Nemotron 3 Ultra模型，可能是解決這個問題的關鍵。</p><h2>什麼是Nemotron 3 Ultra？</h2><p>Nemotron 3 Ultra是一個為長時間運行的AI智能體設計的模型。它可以在多輪對話中保持上下文、呼叫工具、呼叫子智能體，並高效處理複雜工作流。這意味著，Nemotron 3 Ultra可以讓AI智能體更好地理解使用者的需求，提供更準確的答案和建議。</p><p><strong> Nemotron 3 Ultra的優點</strong> 在於其優化的推理流程。通過這種優化，Nemotron 3 Ultra可以顯著提升速度和降低計算成本。這使得長期運行的AI智能體任務更加可行。</p><h2>Nemotron 3 Ultra的潛在應用</h2><p>Nemotron 3 Ultra的潛在應用非常廣泛。例如，在客服領域，Nemotron 3 Ultra可以讓AI智能體更好地理解客戶的需求，提供更準確的答案和建議。在醫療領域，Nemotron 3 Ultra可以幫助AI智能體更好地診斷和治療疾病。</p><p><strong> Nemotron 3 Ultra的發布</strong> 將會對AI智能體的發展產生重大影響。它可能會推動AI智能體的應用更加廣泛，讓AI智能體更好地融入我們的日常生活中。</p><h2>編輯悄悄話</h2><p>所以，Nemotron 3 Ultra的發布對我們的日常生活會產生什麼影響呢？可能會讓我們在使用AI智能體的時候，感受到更快速、更高效的服務。同時，也可能會讓我們更加依賴AI智能體，減少人與人之間的互動。無論如何，Nemotron 3 Ultra的發布是一個重要的里程碑，標誌著AI智能體的發展又邁出了一步。</p>",
+    "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/Nemotron-3-Ultra.webp",
+    "source": "AI HOT 精選",
+    "url": "https://developer.nvidia.com/blog/nvidia-nemotron-3-ultra-powers-faster-more-efficient-reasoning-for-long-running-agents",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "033",
+    "title": "OpenAI 領導層揭露 AI 自我改進的黑暗面",
+    "summary": "OpenAI 領導層觀察到 AI 開發正被 AI 自身加速，預計將加劇開發者與國家之間的競爭壓力，並帶來現有機構無法應對的治理挑戰，社會需要找到方法確保 AI 發展為人類利益服務",
+    "content": "<p>OpenAI 的領導層最近發表了一份令人震撼的聲明，揭露了 AI 自我改進的黑暗面。根據他們的觀察，AI 開發正被 AI 自身加速，這意味著 AI 的發展速度將遠超過人類的預期。這將導致開發者與國家之間的競爭壓力大幅增加，並帶來現有機構無法應對的治理挑戰。</p><h2>AI 自我改進的挑戰</h2><p>OpenAI 領導層的聲明揭示了 AI 自我改進的早期跡象，這意味著 AI 的發展將不再受人類控制。這將對社會帶來巨大的挑戰，因為我們需要找到方法確保 AI 的發展為人類利益服務。否則，AI 的發展可能會變成一種失控的力量，對人類社會造成不可預測的影響。</p><p>對於 AI 的安全性和對齊性，OpenAI 領導層的聲明是一個警示信號。它意味著我們需要重新評估 AI 的發展方向，確保它們符合人類的價值觀和利益。這是一個複雜的挑戰，需要來自各個領域的專家共同努力來解決。</p><h2>社會的反應和挑戰</h2><p>OpenAI 領導層的聲明引發了社會的廣泛關注和討論。許多人認為，這是 AI 發展的一個重要轉折點，我們需要重新評估 AI 的發展方向和目標。然而，也有人擔心，這將導致 AI 的發展速度放緩，對經濟和社會的發展造成不利影響。</p><p>無論如何，OpenAI 領導層的聲明是一個重要的警示信號，提醒我們需要更加關注 AI 的發展和安全性。隨著 AI 的發展速度不斷加快，我們需要找到方法確保它們的發展為人類利益服務。</p><h2>編輯悄悄話</h2><p>OpenAI 領導層的聲明是一個重要的提醒，讓我們重新評估 AI 的發展方向和目標。隨著 AI 的發展速度不斷加快，我們需要找到方法確保它們的發展為人類利益服務。這是一個複雜的挑戰，需要來自各個領域的專家共同努力來解決。讓我們共同關注 AI 的發展和安全性，確保它們的發展為人類利益服務。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/kimmonismus/status/2062517474277675102",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "034",
+    "title": "EVA-Bench Data 2.0登場：AI智能體評估再升級",
+    "summary": "ServiceNow-AI發布的EVA-Bench Data 2.0資料集，將挑戰現有的AI智能體評估方式，推進AI研究和發展的新里程碑",
+    "content": "<p>近日，ServiceNow-AI發布了EVA-Bench Data 2.0資料集，這是一個全面性的AI智能體評估工具，涵蓋了3大領域、121個工具和213個場景。這個資料集的發布，將對AI研究和發展產生深遠的影響。</p>    <h2>什麼是EVA-Bench Data 2.0？</h2>    <p>EVA-Bench Data 2.0是一個用於評估AI智能體的工具使用能力的資料集。它提供了一個全面的評估框架，涵蓋了多個領域和工具，讓研究人員和開發者可以更好地評估AI智能體的能力。這個資料集的發布，將有助於推動AI研究和發展的進步。</p>    <p><strong>ServiceNow-AI的目標是提供一個更加全面性的AI智能體評估工具</strong>，以滿足研究人員和開發者的需求。EVA-Bench Data 2.0的發布，正是實現這個目標的一個重要步驟。</p>    <h2>如何使用EVA-Bench Data 2.0？</h2>    <p>研究人員和開發者可以使用EVA-Bench Data 2.0來評估AI智能體的工具使用能力。這個資料集提供了一個簡單易用的評估框架，讓用戶可以快速地評估AI智能體的能力。同時，EVA-Bench Data 2.0也提供了一個基準測試，讓用戶可以比較不同的AI智能體的性能。</p>    <p><strong>EVA-Bench Data 2.0的發布，將對AI研究和發展產生深遠的影響</strong>。它將有助於推動AI研究和發展的進步，同時也將促進AI智能體的應用和普及。</p>    <h2>編輯悄悄話</h2>    <p>生活中，我們經常會遇到一些需要使用AI智能體的場景。例如，當我們需要查找一些信息時，我們可能會使用搜尋引擎。當我們需要進行一些複雜的計算時，我們可能會使用計算機。EVA-Bench Data 2.0的發布，將有助於改善這些場景中的AI智能體的性能，讓我們可以更好地使用AI智能體。因此，<strong>EVA-Bench Data 2.0的發布，是一個值得關注的事件</strong>，它將對AI研究和發展產生深遠的影響。</p>",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/ServiceNow-AI/eva-bench-data.png",
+    "source": "AI HOT 精選",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "035",
+    "title": "Nemotron 預訓練模型的突破：任務種子合成問答生成",
+    "summary": "Nemotron 預訓練模型通過任務種子合成問答生成，推進了 MMLU-Pro、平均代碼、常識理解和 GPQA 的提升，重塑了 AI 領域的發展",
+    "content": "<p>近期，Nemotron 預訓練模型的研究團隊進行了一項創新的實驗，利用任務種子合成問答生成（Task-Seeded SDG）技術來提升模型的性能。這項技術是通過利用約 70 個公開任務的訓練集作為種子，生成新示例並補充推理和上下文，然後進行格式校驗、去重和答案驗證，以得到精選合成數據集。</p>    <h2>任務種子合成問答生成的原理</h2>    <p>任務種子合成問答生成是一種創新的方法，通過利用現有的任務和數據來生成新的問答對。這種方法可以有效地提高模型的性能，尤其是在處理複雜任務和數據時。通過這種方法，Nemotron 預訓練模型的性能得到了顯著提升，尤其是在 MMLU-Pro、平均代碼、常識理解和 GPQA 等方面。</p>    <h2>Nemotron 預訓練模型的突破</h2>    <p>Nemotron 預訓練模型的這項突破對 AI 領域的發展具有重要意義。這項技術可以被應用於各種領域，例如自然語言處理、計算機視覺等。通過這種技術，AI 模型可以更好地學習和理解人類的語言和行為，從而提高 AI 系統的智能度和適用性。 <strong>這項突破也意味著 AI 領域的發展將更加迅速和深入</strong>，為各種應用提供更加強大的支持。</p>    <h2>編輯悄悄話</h2>    <p>這項新聞讓我們看到 AI 領域的發展是如此迅速和驚人。通過這種創新的技術，AI 模型可以更好地學習和理解人類的語言和行為，從而提高 AI 系統的智能度和適用性。 <strong>這也意味著我們需要更加關注 AI 領域的發展和安全</strong>，以確保 AI 技術的應用是安全和負責任的。讓我們繼續關注這個領域的發展，為 AI 技術的應用提供更加深入的分析和解析。</p>",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/task-seeded-sdg.png",
+    "source": "AI HOT 精選",
+    "url": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "036",
+    "title": "AI樂觀情緒催生200萬新富豪，全球百萬富豪人數大幅增加",
+    "summary": "人工智能樂觀情緒推動的股市上漲，正在重塑全球財富格局，促使近200萬人加入百萬富豪行列，對全球經濟產生深遠影響",
+    "content": "<p>近年來，人工智能(<strong>AI</strong>)的發展正如火如荼，除了在各個產業中發揮著重要作用以外，還對全球財富格局產生了深遠的影響。根據法國IT和顧問公司凱捷(<strong>Capgemini</strong>)的報告，<strong>AI</strong>樂觀情緒推動的股市上漲，是財富增加的主要引擎，幫助全球百萬富豪人數增加近200萬人。</p><h2>財富增加的主要引擎</h2><p>報告顯示，全球百萬富豪人數的增加主要歸功於股市的上漲，而這種上漲正是由於<strong>AI</strong>樂觀情緒的推動。這意味著，投資者對於<strong>AI</strong>的發展前景持樂觀態度，進而推高了相關企業的股票價格，從而增加了投資者的財富。這種情況也反映出，<strong>AI</strong>的發展正在對全球經濟產生深遠的影響。</p><h2>全球財富格局的變化</h2><p>全球百萬富豪人數的增加，也意味著全球財富格局的變化。隨著更多人加入百萬富豪的行列，全球財富的分配也將發生變化。這種變化可能會對全球經濟、政治和社會產生深遠的影響。因此，了解<strong>AI</strong>對全球財富格局的影響，對於預測未來的經濟走勢和社會變化具有重要的意義。</p><h2>編輯悄悄話</h2><p>從這個事件中，我們可以看到，<strong>AI</strong>的發展不僅僅是一個技術問題，還是一個對全球財富格局和社會變化產生深遠影響的重要因素。因此，了解和關注<strong>AI</strong>的發展，對於每個人都具有重要的意義。這不僅僅是一個投資的機會，也是一個需要我們去思考和應對的挑戰。讓我們一起關注和思考這個問題，共同迎接未來的挑戰和機會。</p>",
+    "image": "",
+    "source": "Google Alerts - AI News",
+    "url": "https://www.google.com/url?rct=j&sa=t&url=https://www.hkej.com/instantnews/international/article/4422634/%25E5%25A0%25B1%25E5%2591%258A%253AAI%25E6%25A8%2582%25E8%25A7%2580%25E6%2583%2585%25E7%25B7%2592%25E6%258E%25A8%25E9%25AB%2598%25E8%2582%25A1%25E5%25B8%2582%2B200%25E8%2590%25AC%25E4%25BA%25BA%25E6%2599%2589%25E8%25BA%25AB%25E7%2599%25BE%25E8%2590%25AC%25E5%25AF%258C%25E8%25B1%25AA&ct=ga&cd=CAIyHWFlMGQ0MjQyNmJkYzAyNmI6Y29tOnpoLVRXOlVT&usg=AOvVaw2Sw4eI_koFPmMpeb3hR7p8",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "037",
+    "title": "深度學習新突破：FPN演算法如何幫助模型偵測小物體",
+    "summary": "FPN演算法的出現，推進了深度學習模型在小物體偵測的能力，將會重塑人工智慧的發展",
+    "content": "<p>你是否曾經想過，如何讓深度學習模型能夠準確地偵測小物體？答案就在於<strong>FPN演算法</strong>。這是一種能夠讓模型更好地理解和處理小物體的技術，目前已經被廣泛應用於各個領域。</p>    <h2>什麼是FPN演算法</h2>    <p>FPN，全稱為Feature Pyramid Network，顧名思義，就是一種以金字塔為結構的特徵提取網路。它的出現，正是為了解決小物體偵測的問題。通過<strong>多尺度特徵提取</strong>，FPN能夠更好地捕捉小物體的特徵，從而提高模型的偵測準確率。</p>    <h2>如何實現FPN從零開始</h2>    <p>要實現FPN從零開始，需要<strong>深入理解其原理</strong>。首先，需要了解FPN的結構，包括其金字塔形的特徵提取層和上采樣層。然後，需要學會如何使用<strong>卷積神經網路</strong>來實現FPN的各個部分。最後，需要進行<strong>模型訓練和優化</strong>，以獲得最佳的偵測結果。</p>    <h2>編輯悄悄話</h2>    <p>FPN演算法的出現，對於深度學習模型的發展是一個重大的突破。它不僅能夠幫助模型更好地偵測小物體，還能夠應用於各個領域，例如<strong>物體偵測</strong>、<strong>圖像分割</strong>等。因此，對於有志於深度學習的朋友來說，了解FPN演算法是非常重要的。通過學習和實踐，相信你也能夠成為FPN演算法的高手，為人工智慧的發展做出自己的貢獻。</p>",
+    "image": "https://towardsdatascience.com/wp-content/uploads/2026/06/0_FE3IgUisiKV5ZlqW.jpg",
+    "source": "Towards Data Science",
+    "url": "https://towardsdatascience.com/fpn-paper-walkthrough-leveraging-the-internal-pyramid/",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "038",
+    "title": "蘋果App Store年營收破1.4兆美元！90%的交易免抽成",
+    "summary": "蘋果App Store的年營收達到1.4兆美元，較去年的1.3兆美元有所增加。其中，數位商品的銷售額達到149億美元。這個數字不僅創下新高，還證明了蘋果在應用程式市場上的強大影響力。這將會推進整個科技業的發展，並對其他公司提出新的挑戰。",
+    "content": "<p>蘋果公司日前宣布，App Store的年營收已達到1.4兆美元，較去年的1.3兆美元有所增加。其中，數位商品的銷售額達到149億美元。這個數字不僅創下新高，還證明了蘋果在應用程式市場上的強大影響力。</p><h2>App Store的成功秘訣</h2><p>蘋果的App Store之所以能夠取得如此成功，主要歸功於其嚴格的審查機制和優秀的用戶體驗。蘋果對應用程式的審查非常嚴格，確保所有上架的應用程式都符合其高標準。同時，蘋果還提供了優秀的用戶體驗，讓用戶可以輕鬆地找到和下載他們需要的應用程式。</p><h2>對整個科技業的影響</h2><p>蘋果App Store的成功將會對整個科技業產生重大影響。其他公司將會被迫提高自己的應用程式質量和用戶體驗，以競爭蘋果的市場份額。同時，蘋果的成功也會吸引更多的開發者和企業進入應用程式市場，推進整個科技業的發展。</p><h2>編輯悄悄話</h2><p>蘋果App Store的成功證明了優秀的產品和服務是取得成功的關鍵。同時，也提醒了我們，科技業的競爭日益激烈，企業必須不斷提高自己的產品和服務質量，以競爭市場份額。作為消費者，我們也應該關注自己所使用的應用程式的質量和安全性，避免被低質量的應用程式所傷害。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "039",
+    "title": "AMD GAIA 專案推出多裝置體驗，AI agent 的新境界",
+    "summary": "AMD 的開源專案 GAIA，旨在於打造能夠在 PC 上運行的 AI agent，現在推出了對於 Windows 和 Linux 系統的重大更新。這次的更新將會推動 AI agent 的發展，為用戶帶來更好的體驗。",
+    "content": "<p>AMD 的 GAIA 專案是一個開源的平台，旨在於打造能夠在 PC 上運行的 AI agent。這個專案的目的是為了讓用戶能夠在自己的 PC 上運行 AI 應用程式，而不需要依賴於雲端服務。</p>  <h2>多裝置體驗的新境界</h2>  <p>在最新的更新中，GAIA 專案推出了多裝置體驗的功能。這意味著用戶現在可以在不同的裝置上運行同一個 AI agent，例如在 PC 上運行一個 AI 應用程式，同時也可以在手機或平板上運行相同的應用程式。</p>  <p>這個功能是透過 GAIA 的新架構實現的，該架構允許 AI agent 在不同的裝置上運行，並且能夠與其他裝置上的 AI agent 通信。</p>  <h2>對於 AI agent 的影響</h2>  <p>GAIA 專案的更新將會對於 AI agent 的發展產生重大影響。首先，多裝置體驗的功能將會讓 AI agent 能夠在不同的環境中運行，例如在家裡、辦公室或是在路上。</p>  <p>其次，GAIA 專案的更新將會推動 AI agent 的發展，為用戶帶來更好的體驗。例如，用戶現在可以在不同的裝置上運行同一個 AI 應用程式，同時也可以與其他裝置上的 AI agent 通信。</p>  <h2>編輯悄悄話</h2>  <p>AMD 的 GAIA 專案是一個非常有趣的項目，它將會對於 AI agent 的發展產生重大影響。多裝置體驗的功能將會讓 AI agent 能夠在不同的環境中運行，同時也會推動 AI agent 的發展，為用戶帶來更好的體驗。讓我們拭目以待，看看 GAIA 專案的未來發展吧！</p>",
+    "image": "https://www.phoronix.net/image.php?id=2026&image=amd_gaia_0175_2",
+    "source": "Phoronix",
+    "url": "https://www.phoronix.com/news/AMD-GAIA-0.20",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "040",
+    "title": "全球AI大戰：誰能成為國際舞台上的玩家？",
+    "summary": "在全球AI大戰中，美國不是唯一的玩家。Principal Venture Partners（PVP）的管理合夥人Songyee Yoon表示，國際AI公司正在挑戰傳統的美國主導地位。從語言和文化適應到全球供應鏈挑戰，國際AI公司需要克服許多障礙。這場戰爭將如何影響未來的工作和生活？",
+    "content": "<h2>全球AI大戰：誰能成為國際舞台上的玩家？</h2> <p>在全球AI大戰中，美國不是唯一的玩家。Principal Venture Partners（PVP）的管理合夥人Songyee Yoon表示，國際AI公司正在挑戰傳統的美國主導地位。</p> <p>從語言和文化適應到全球供應鏈挑戰，國際AI公司需要克服許多障礙。例如，AI模型需要適應不同的語言和文化，以便在不同地區有效地運作。此外，全球供應鏈挑戰也使得國際AI公司難以取得必要的零件和技術。</p> <h2>國際AI公司的挑戰</h2> <p>國際AI公司面臨著許多挑戰。首先，語言和文化適應是非常重要的。AI模型需要能夠理解和處理不同語言和文化的資料，以便在不同地區有效地運作。</p> <p>其次，全球供應鏈挑戰也使得國際AI公司難以取得必要的零件和技術。例如，半導體和其他電子零件的短缺使得AI公司難以生產和維護其產品。</p> <p>最後，國際AI公司也需要面臨競爭。美國的AI公司已經在市場上占據了重要地位，國際AI公司需要找到新的市場和客戶以便生存。</p> <h2>國際AI公司的機會</h2> <p>雖然國際AI公司面臨著許多挑戰，但也存在著許多機會。首先，國際AI公司可以利用其在地的優勢，例如語言和文化適應，以便在當地市場取得成功。</p> <p>其次，國際AI公司也可以利用其創新的技術和產品，以便在全球市場取得成功。例如，中國的AI公司已經在全球市場上取得了重要地位，例如在AI芯片和智能機器人領域。</p> <p>最後，國際AI公司也可以利用其合作夥伴關係，以便在全球市場取得成功。例如，PVP已經與許多國際AI公司合作，包括中國、印度和韓國的公司。</p> <h2>編輯悄悄話</h2> <p>全球AI大戰是一場激烈的競爭，但也是一場機會。國際AI公司需要克服許多挑戰，但也可以利用其在地的優勢和創新的技術和產品，以便在全球市場取得成功。讓我們期待這場戰爭的結果，誰能成為國際舞台上的玩家？</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "041",
+    "title": "Ubuntu Core 26 將 AI 帶入 Renesas RZ/V 系列：生產環境下的智慧應用",
+    "summary": "Canonical 的工程師展示了如何在 Renesas RZ/V 系列硬體上部署優化的 AI 模型，結合 Ubuntu Core 的安全和模組化部署架構，為開發人員提供了高性能和低功耗的解決方案。",
+    "content": "<h2>Ubuntu Core 26 和 Renesas RZ/V 系列的結合</h2><p>在這篇文章中，我們將探討如何在 Renesas RZ/V 系列硬體上部署優化的 AI 模型，結合 Ubuntu Core 的安全和模組化部署架構。這個結合為開發人員提供了高性能和低功耗的解決方案，特別是在邊緣計算和物聯網應用中。</p><p>Renesas RZ/V 系列微處理器配備了專用的 AI 加速器 DRP-AI，能夠動態重新配置其內部數據流以匹配神經網絡架構，從而實現高效能和低功耗的 AI 推理。</p><h2>部署 AI 模型的步驟</h2><p>部署 AI 模型的步驟包括：模型編譯、模型封裝、模型部署和模型運行。以下將詳細介紹每個步驟。</p><p>模型編譯：使用 DRP-AI TVM 編譯模型，生成 Runtime Model Data。模型封裝：將模型封裝成 snap，包含 runtime 二進制文件和編譯模型。模型部署：將 snap 部署到目標設備上。模型運行：運行模型推理。</p><p>Canonical 提供了一個示例存儲庫，rzv_drp-ai_tvm_snap，包含 Renesas 的示例應用程序，可以輕鬆安裝和管理 snapd。</p><h2>編輯悄悄話</h2><p>Ubuntu Core 26 和 Renesas RZ/V 系列的結合為開發人員提供了高性能和低功耗的解決方案，特別是在邊緣計算和物聯網應用中。這個結合為 AI 模型的部署提供了安全和模組化的架構，讓開發人員可以輕鬆地部署和管理 AI 模型。</p>",
+    "image": "https://ubuntu.com/wp-content/uploads/7539/A-look-into-Ubuntu-Core-26-Renesas.png",
+    "source": "Ubuntu Blog",
+    "url": "https://ubuntu.com//blog/ubuntu-core-26-ai-renesas",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "042",
+    "title": "駭客入侵證券交易所高層郵件帳號，竊取商業情報長達5個月",
+    "summary": "近日，Broadcom旗下Symantec與Carbon Black團隊揭露了一起鎖定全球大型證券交易所的網路間諜活動，攻擊者成功入侵高階主管電子郵件帳號，並持續竊取郵件資料長達5個月，挑戰了企業的安全防線。",
+    "content": "<p>對駭客來說，比起在企業中橫向移動、大規模擴散，若有辦法控制單一高階主管的郵件帳號，或許能藉此獲取更高的價值。這次攻擊的初始入侵途徑仍然不明，相關跡象最早可追溯至2025年10月，此時攻擊者已取得SYSTEM權限，並部署偽裝成Adobe Acrobat Reader與OneDrive元件的惡意程式，用於展開後續攻擊活動。</p><h2>攻擊者如何竊取郵件資料</h2><p>攻擊者利用合法.NET函式庫Aspose，將Outlook OST郵件資料轉換為PST格式後，分割為小型增量檔案，透過Dropbox與OneDrive持續分批外傳，每次僅傳輸少量資料，資安軟體並未因此察覺異狀。而在整個網路間諜活動期間，攻擊者每隔數週就會透過重新建立與執行排程工作，維持惡意程式的運作不間斷。</p><h2>攻擊者的目標</h2><p>研究團隊表示，在5個月的時間中，攻擊者始終專注於逐步竊取單一Outlook信箱的內容，但證券交易所高階主管的郵件帳號本身就是極高價值的目標，其中內容足以讓攻擊者建構出組織發展方向等重要商業資訊，而無須進一步橫向移動。</p><h2>編輯悄悄話</h2><p>這次攻擊事件提醒我們，企業安全防線的漏洞不僅在於技術層面，還在於人為因素。高階主管的郵件帳號是一個極高價值的目標，攻擊者可以通過竊取郵件資料來獲得重要的商業資訊。因此，企業必須加強安全防線，提高員工的安全意識，避免類似的攻擊事件發生。</p>",
+    "image": "https://www.ithome.com.tw/sites/default/files/field/image/targeted_stock_exchange_executive-main.jpg",
+    "source": "iThome",
+    "url": "https://www.ithome.com.tw/news/176375",
+    "date": "2026-06-04"
   }
 ]
