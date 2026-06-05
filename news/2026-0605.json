@@ -278,5 +278,205 @@
     "source": "iThome",
     "url": "https://www.ithome.com.tw/news/176375",
     "date": "2026-06-05"
+  },
+  {
+    "id": "029",
+    "title": "阿里云 SkillClaw 與 Nacos 結合：AI 智能體技能進化的新里程碑",
+    "summary": "阿里云推出 SkillClaw 與 Nacos 結合，推動 AI 智能體技能進化流水線的發展，將顛覆傳統的 AI 技能開發模式",
+    "content": "<p>近日，阿里云推出 SkillClaw 與 Nacos 結合，構建 AI 智能體技能進化流水線。這項技術的關鍵特性在於可以自動從真實對話中提取經驗並封裝為可復用技能（Skill），並由 Nacos 負責集中化版本管理、審核與審計。這意味著企業可以打破本地孤島，實現團隊安全共享與分發，形成完整的「生成-治理-分發」持續進化閉環。</p>  <h2>AI 智能體技能進化的新時代</h2>  <p>阿里云的這項技術結合，對於企業 AI 落地具有重要意義。通過 SkillClaw 與 Nacos 的結合，企業可以將個人洞察轉化為團隊的 AI 資產，從而提高 AI 技能的開發效率和共享性。這項技術的出現，將推動 AI 智能體技能進化流水線的發展，帶來新的商業機會和挑戰。</p>  <h2>實現 AI 技能共享與分發</h2>  <p>阿里云的 SkillClaw 與 Nacos 結合，實現了 AI 技能的共享與分發。這意味著企業可以將 AI 技能封裝為可復用技能，實現跨部門和跨組織的共享和分發。這項技術的出現，將帶來新的合作和創新機會，推動企業 AI 技能的發展和應用。</p>  <h2>編輯悄悄話</h2>  <p>阿里云的 SkillClaw 與 Nacos 結合，為企業 AI 落地帶來了新的機會和挑戰。通過這項技術的應用，企業可以提高 AI 技能的開發效率和共享性，推動 AI 智能體技能進化流水線的發展。這項技術的出現，將帶來新的商業機會和挑戰，企業需要重視和應對這項技術的發展和應用。因此，企業需要關注這項技術的發展和應用，積極探索和應用這項技術，推動自身的發展和創新。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/alibaba_cloud/status/2062777684120244656",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "030",
+    "title": "全新 PolarDB-X Zero登場：30秒內輕鬆打造全分布式數據庫",
+    "summary": "阿里雲新推出的PolarDB-X Zero，將顛覆傳統數據庫的配置方式，讓開發者只需一次API呼叫，即可在30秒內獲得一個全分布式數據庫，從而大幅提升開發效率和數據處理能力",
+    "content": "<p>近日，阿里雲正式推出了全新的PolarDB-X Zero，無需註冊、無需配置，只需一次API呼叫，即可在30秒內獲得一個全分布式數據庫。這項技術的突破，將為開發者帶來前所未有的便捷和高效，<strong>大幅提升開發效率和數據處理能力</strong>。</p>  <h2>什麼是PolarDB-X Zero?</h2>  <p>PolarDB-X Zero是一種全新的數據庫解決方案，<strong>內置兼容MySQL的引擎</strong>，可以支持關係型和語義搜索，讓開發者可以使用一條SQL語句即可完成複雜的數據查詢和分析。同時，PolarDB-X Zero還支持AI智能體，<strong>兼容MCP協議和AI IDE</strong>，讓開發者可以輕鬆地將AI能力整合到自己的應用中。</p>  <h2>如何使用PolarDB-X Zero?</h2>  <p>使用PolarDB-X Zero非常簡單，只需訪問阿里雲的官網，<strong>點擊一次API呼叫</strong>，即可在30秒內獲得一個全分布式數據庫。開發者可以使用自己的API金鑰，即可開始使用PolarDB-X Zero，<strong>無需註冊、無需配置</strong>。同時，PolarDB-X Zero還提供了豐富的API文檔和示例代碼，讓開發者可以快速地上手和使用。</p>  <h2>編輯悄悄話</h2>  <p>在當前的技術發展中，<strong>數據庫的配置和管理</strong>一直是一個很大的挑戰，特別是在大數據和雲計算時代。PolarDB-X Zero的登場，將為開發者帶來新的便捷和高效，<strong>大幅提升開發效率和數據處理能力</strong>。但是，<strong>數據安全和隱私保護</strong>仍然是開發者需要關注的重要問題。在使用PolarDB-X Zero的時候，開發者需要注意自己的數據安全和隱私保護，<strong>確保自己的數據不會被泄露或竊取</strong>。因此，開發者需要在使用PolarDB-X Zero的時候，<strong>嚴格遵守相關的安全和隱私規範</strong>，以確保自己的數據安全和隱私保護。</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/alibaba_cloud/status/2062781182417490310",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "031",
+    "title": "告別中文垃圾信息：375個高品質微信公眾號RSS源讓你的Agent變得更強大",
+    "summary": "這項發現將會顛覆傳統的中文信息搜尋方式，375個高品質微信公眾號RSS源讓你的Agent能夠更有效地搜尋和篩選出高質量的內容",
+    "content": "<p>你是否還在為你的Agent捞中文垃圾信息而頭痛？現在，有一個更好的解決方案。一個整理了375個高品質微信公眾號RSS源的列表，可以讓你的Agent變得更強大。這個列表直接命中了Agent在中文垃圾信息里捞內容的痛點，讓你可以直接導入比全網亂爬更靠譜的內容。</p><h2>什麼是RSS源？</h2><p>RSS（Really Simple Syndication）是一種讓你可以訂閱網站更新的方式。通過RSS源，你可以讓你的Agent自動收集和篩選出最新的內容。這個列表中的375個高品質微信公眾號RSS源，涵蓋了各種領域的內容，從新聞、科技到娛樂等等。你的Agent可以通過這些RSS源，自動收集和篩選出高質量的內容，讓你可以更有效地跟蹤中文信息的最新動態。</p><h2>如何使用這個列表？</h2><p>使用這個列表非常簡單。你可以直接將這些RSS源導入到你的Agent中，讓它自動收集和篩選出高質量的內容。這個列表還可以幫助你節省時間和精力，讓你可以更專注於其他重要的任務。另外，這個列表還可以幫助你發現新的內容和資源，讓你可以更廣泛地跟蹤中文信息的最新動態。</p><h2>編輯悄悄話</h2><p>這個列表真的是一個很棒的發現。通過這個列表，你可以讓你的Agent變得更強大，讓你可以更有效地跟蹤中文信息的最新動態。同時，這個列表還可以幫助你節省時間和精力，讓你可以更專注於其他重要的任務。所以，如果你還在為你的Agent捞中文垃圾信息而頭痛，不要猶豫了，直接使用這個列表吧！</p>",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/hongming731/status/2062764845494317493",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "032",
+    "title": "NVIDIA CEO 黃仁勳訪韓：與韓國共建 AI 未來",
+    "summary": "NVIDIA CEO 黃仁勳本周訪問首爾，會見韓國的 AI 建造者和合作伙伴，強調下半年 AI 基礎設施建設將推進，需對齊 AI 供應鏈，同時預測機器人技術將成為韓國的下一個重要產業",
+    "content": "<p>這個星期，NVIDIA 的 CEO 黃仁勳來到了首爾，會見了韓國的 AI 建造者、主權基礎設施合作伙伴及遊戲社群。黃仁勳表示，為了應對下半年的繁忙的 AI 基礎設施建設，需要對齊 AI 供應鏈。他指出，<strong>Grace Blackwell</strong> 系統表現良好，<strong>Vera Rubin</strong> 已經全面投產。他還強調，機器人技術將成為韓國的下一個重要產業，並呼吁韓國投資 AI。</p>    <h2>AI 基礎設施建設的推進</h2>    <p>黃仁勳的訪問韓國，關注的是下半年的 AI 基礎設施建設。這項建設需要大量的資源和投資，同時也需要對齊 AI 供應鏈。黃仁勳表示，<strong>NVIDIA</strong> 已經準備好了相關的解決方案和技術，包括 <strong>Grace Blackwell</strong> 和 <strong>Vera Rubin</strong>。這些技術將幫助韓國加速 AI 的發展和應用。</p>    <h2>機器人技術的機會</h2>    <p>黃仁勳同時預測，機器人技術將成為韓國的下一個重要產業。這項技術將幫助韓國提高生產力和競爭力，同時也將創造新的就業機會。黃仁勳呼吁韓國政府和企業投資 AI 和機器人技術，以推動韓國的經濟發展和社會進步。</p>    <h2>編輯悄悄話</h2>    <p>黃仁勳的訪問韓國，給我們帶來了一個思考的機會。AI 和機器人技術的發展，將會深刻地影響我們的生活和工作。作為一個國家和社會，我們需要關注這些技術的發展，同時也需要投資和培養相關的人才和技術。只有這樣，我們才能夠在這個快速變化的世界中保持競爭力和活力。黃仁勳的訪問韓國，給我們帶來了一個啟示：<strong>AI</strong> 和機器人技術的發展，需要我們的關注和投資。讓我們一起關注這些技術的發展，和黃仁勳一起推動 AI 和機器人技術的進步和應用。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/IMG_1519-1-scaled.jpg",
+    "source": "AI HOT 精選",
+    "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "033",
+    "title": "開源 AI 代碼審查工具 Open Code Review登場",
+    "summary": "開源 AI 代碼審查工具 Open Code Review 的出現，將會顛覆傳統的代碼審查方式。該工具利用人工智能技術，自動化地審查代碼，提高開發效率。開發者可以通過配置模型端點來使用該工具，實現代碼審查的自動化。",
+    "content": "<h2>什麼是 Open Code Review？</h2><p>Open Code Review 是一個基於人工智能的代碼審查命令行工具，旨在幫助開發者通過自動化的方式提升代碼審查效率。該工具最初是阿里巴巴集團的內部官方 AI 代碼審查助手，已經服務了數萬名開發者，識別了數百萬個代碼缺陷。</p><h2>如何使用 Open Code Review？</h2><p>要使用 Open Code Review，開發者需要配置模型端點。該工具可以讀取 Git 差異，發送更改的檔案到可配置的 LLM（大型語言模型）中，然後生成結構化的代碼審查評論。該工具還可以讀取完整的檔案內容，搜索代碼庫，檢查其他更改的檔案以獲得上下文，生成深度的代碼審查評論。</p><p>開發者可以通過 NPM 安裝 Open Code Review，然後配置 LLM 來使用該工具。該工具還可以與其他工具整合，例如 Claude Code，實現代碼審查的自動化。</p><h2>Open Code Review 的優勢</h2><p>Open Code Review 的核心理念是結合確定性工程與人工智能技術，實現代碼審查的自動化。該工具的優勢在於它可以提供更精確的代碼審查評論，提高開發效率。另外，該工具還可以與其他工具整合，實現代碼審查的自動化。</p><h2>編輯悄悄話</h2><p>Open Code Review 的出現，標誌著代碼審查的自動化時代的到來。該工具的優勢在於它可以提供更精確的代碼審查評論，提高開發效率。開發者可以通過配置模型端點來使用該工具，實現代碼審查的自動化。該工具還可以與其他工具整合，實現代碼審查的自動化。因此，Open Code Review 是一個值得關注的工具，尤其是對於那些需要提高開發效率的開發者來說。</p>",
+    "image": "https://opengraph.githubassets.com/e7579bc40185d70e69a7deece2e0806affec4cb295889fcd053380c42f61e012/alibaba/open-code-review",
+    "source": "AI HOT 精選",
+    "url": "https://github.com/alibaba/open-code-review",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "034",
+    "title": "Perplexity 執行長揭秘：AI 的勝負關鍵不在模型大小，而在每瓦 token 的價值",
+    "summary": "Perplexity 執行長亞拉文·斯里尼瓦斯指出，AI 競賽的最終贏家將會是能以最低功耗為每名用戶創造最高token 價值的公司，從而顛覆傳統的AI 發展模式",
+    "content": "<p>近期，人工智慧（<strong>AI</strong>）的發展正如火如荼，各大公司都在努力推動自己的 <strong>AI</strong> 技術。然而，Perplexity 執行長亞拉文·斯里尼瓦斯卻有著不同的看法。他認為，<strong>AI</strong> 的勝負關鍵不在於模型的大小或收費的高低，而在於能否以最低的功耗為每名用戶創造最高的 token 價值。</p>  <h2>挑戰傳統的 AI 發展模式</h2>  <p>傳統上，<strong>AI</strong> 的發展模式主要集中在提升模型的複雜度和收費的高低上。然而，亞拉文·斯里尼瓦斯認為，這種模式已經不能滿足現今的需求。隨著 <strong>AI</strong> 技術的不斷進步，功耗和 token 價值的問題已經成為了一個重要的瓶頸。因此，能否以最低的功耗為每名用戶創造最高的 token 價值，將成為 <strong>AI</strong> 公司的勝負關鍵。</p>  <h2>Perplexity 的發展戰略</h2>  <p>Perplexity 作為一家領先的 <strong>AI</strong> 公司，已經開始著手研究和開發能夠以最低功耗為每名用戶創造最高 token 價值的技術。亞拉文·斯里尼瓦斯表示，Perplexity 將會繼續投入大量資源於 <strong>AI</strong> 研究和開發，從而推動公司的發展和創新。同時，Perplexity 也將會與其他公司合作，共同推進 <strong>AI</strong> 技術的發展和應用。</p>  <h2>編輯悄悄話</h2>  <p>其實，<strong>AI</strong> 的發展不僅僅是一個技術問題，也是一個經濟和社會問題。能否以最低的功耗為每名用戶創造最高的 token 價值，將會對 <strong>AI</strong> 公司的經濟模式和社會影響產生深遠的影響。因此，<strong>AI</strong> 公司需要從多個角度思考和解決這個問題，從而推動 <strong>AI</strong> 技術的健康和可持續發展。同時，作為消費者，我們也需要關注和理解 <strong>AI</strong> 的發展趨勢和影響，從而做出更好的選擇和決策。</p>",
+    "image": "",
+    "source": "Google Alerts - AI News",
+    "url": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/06/05/perplexity-ceo-says-token-value-per-watt-is-the-key-to-winning-ai/&ct=ga&cd=CAIyHWFlMGQ0MjQyNmJkYzAyNmI6Y29tOnpoLVRXOlVT&usg=AOvVaw0L5tysWsRM-NkLu0qNHW-0",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "035",
+    "title": "全球企業AI安全新標準：Nemotron 3.5內容安全技術",
+    "summary": "Nemotron 3.5內容安全技術的推出，將顛覆傳統的AI安全模式，為全球企業提供更高的數據安全保障，挑戰現有的安全挑戰",
+    "content": "<p>在當前AI技術不斷發展的時代，全球企業面臨著更多的數據安全挑戰。為了應對這些挑戰，Nemotron公司推出了3.5內容安全技術，該技術提供了可自訂的多模態安全解決方案，能夠更好地保護企業的數據安全。</p>  <h2>什麼是Nemotron 3.5內容安全技術</h2>  <p>Nemotron 3.5內容安全技術是一種基於AI的安全技術，能夠自動化地檢測和過濾企業內容中的敏感信息，從而保護企業的數據安全。這種技術的特點是可以根據企業的具體需求進行自訂，能夠提供更高的數據安全保障。</p>  <p><strong>該技術的核心是使用機器學習算法來分析企業內容中的敏感信息</strong>，並且能夠自動化地更新和改進安全規則，從而確保企業的數據安全。另外，Nemotron 3.5內容安全技術還能夠與其他安全技術進行整合，提供更全面的安全解決方案。</p>  <h2>Nemotron 3.5內容安全技術的優點</h2>  <p>Nemotron 3.5內容安全技術的優點在於其能夠提供更高的數據安全保障，同時也能夠提高企業的安全效率。該技術的自訂功能能夠根據企業的具體需求進行設定，從而提供更好的安全解決方案。另外，該技術的自動化更新和改進功能能夠確保企業的數據安全始終處於最佳狀態。</p>  <p><strong>該技術的推出將對全球企業的安全挑戰產生重大影響</strong>，因為它能夠提供更高的數據安全保障和更好的安全效率。同時，該技術的自訂功能也能夠根據企業的具體需求進行設定，從而提供更好的安全解決方案。</p>  <h2>編輯悄悄話</h2>  <p>在當前AI技術不斷發展的時代，全球企業面臨著更多的數據安全挑戰。Nemotron 3.5內容安全技術的推出，將為全球企業提供更高的數據安全保障和更好的安全效率。這種技術的自訂功能和自動化更新和改進功能，將使企業的數據安全始終處於最佳狀態。因此，企業應該重視數據安全挑戰，選擇合適的安全技術來保護自己的數據安全。",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/nvidia/nemotron-3-5-content-safety.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "036",
+    "title": "韓國崛起：NVIDIA 和南韓如何共同打造 AI 的未來",
+    "summary": "南韓是全球 AI 的中心之一，擁有最先進的 AI 基礎設施和機器人創新者，NVIDIA 創始人和 CEO 黃仁勳本週抵達首爾會見合作夥伴，推進 AI 供應鏈的發展，預計將對未來產生重大影響",
+    "content": "<p>南韓是全球 AI 的中心之一，擁有最先進的 AI 基礎設施和機器人創新者，同時也是全球最熱情的遊戲社群之一。NVIDIA 創始人和 CEO 黃仁勳本週抵達首爾，會見合作夥伴和建構者，共同推進 AI 的發展。</p>  <h2>AI 供應鏈的重塑</h2>  <p>黃仁勳表示，南韓是全球 AI 供應鏈的重要組成部分，NVIDIA 正在與南韓合作夥伴共同推進 AI 供應鏈的發展。黃仁勳說：「我們已經建立了非常成功的 AI 基礎設施，現在正是推進 AI 供應鏈的最佳時機。」</p>  <p>南韓的機器人產業也是黃仁勳關注的重點。他表示，機器人將是南韓未來的主要產業之一，這是南韓投資 AI 的絕佳機會。</p>  <h2>機器人和物理 AI 的巨大潛力</h2>  <p>黃仁勳強調，南韓的機器人產業具有巨大的潛力，NVIDIA 正在與南韓合作夥伴共同開發新的機器人技術。他說：「機器人將是南韓未來的主要產業之一，我們將共同努力推進機器人的發展。」</p>  <p>除了機器人產業，黃仁勳還會見了南韓的遊戲開發商和發行商，討論如何利用 AI 技術提高遊戲的質量和玩家體驗。</p>  <h2>編輯悄悄話</h2>  <p>南韓的 AI 產業正在迅速發展，NVIDIA 和南韓的合作將對全球 AI 產業產生重大影響。黃仁勳的訪問不僅是對南韓 AI 產業的肯定，也是對未來 AI 發展的展望。讓我們拭目以待，南韓和 NVIDIA 將如何共同打造 AI 的未來。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/IMG_1519-1-scaled.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "037",
+    "title": "終於等到了！Local LLaMA 社群終於有了自己的成果",
+    "summary": "Local LLaMA 社群的成員們通過不斷的努力和創新，終於推出了自己的成果，重塑了社群的未來，並對整個科技界產生了深遠的影響，挑戰了傳統的思維模式",
+    "content": "<p>終於等到了！Local LLaMA 社群的成員們經過長時間的努力和創新，終於推出了自己的成果。這個成果不僅是社群成員們的驕傲，也是整個科技界的一個重要里程碑。通過這個成果，Local LLaMA 社群的成員們證明了自己的實力和創造力，為整個科技界帶來了新的啟發和思考。</p>  <h2>什麼是 Local LLaMA 社群?</h2>  <p>Local LLaMA 社群是一個由科技愛好者和開發者組成的社群，目的是推動 Local LLaMA 技術的發展和應用。Local LLaMA 是一種新的 AI 技術，能夠實現更加智能和高效的數據處理和分析。通過這種技術，Local LLaMA 社群的成員們可以開發出更加先進和創新的應用程序和服務。</p>  <p><strong>Local LLaMA 社群的成員們來自不同的背景和領域</strong>，但是他們都有一個共同的目標，那就是推動 Local LLaMA 技術的發展和應用。通過合作和交流，Local LLaMA 社群的成員們可以相互學習和借鑒，共同推動整個科技界的發展。</p>  <h2>Local LLaMA 社群的成果</h2>  <p>Local LLaMA 社群的成果包括了一系列的應用程序和服務，例如 <strong>智能數據分析平台</strong>、<strong>AI 驅動的客戶服務系統</strong> 等。這些應用程序和服務可以幫助企業和個人更加高效和智能地處理和分析數據，從而提高生產力和競爭力。</p>  <p><strong>Local LLaMA 社群的成果不僅限於技術方面</strong>，也包括了社群成員們的個人成長和發展。通過參與 Local LLaMA 社群，成員們可以學習和掌握新的技能和知識，從而提高自己的競爭力和就業前景。</p>  <h2>編輯悄悄話</h2>  <p>Local LLaMA 社群的成果是個令人振奮的故事，告訴我們只要有堅持和團隊合作，就可以推動科技界的發展和創新。通過這個故事，我們可以看到 <strong>科技的力量</strong> 和 <strong>人們的智慧</strong>，也可以學習到如何將自己的想法和創造力轉化為實際的成果。最後，讓我們一起期待 Local LLaMA 社群的未來發展和成果吧!</p>",
+    "image": "",
+    "source": "Reddit LocalLLaMA",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1tx4yjo/finally/",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "038",
+    "title": "AI時代的低調崛起：Mira Murati 的戰略性重返",
+    "summary": "在當前的環境下，保持低調已經不再是最佳策略，Mira Murati 的重返舞台將會對市場產生重大影響，推進人工智慧技術的發展",
+    "content": "<p>在人工智慧技術的快速發展中，<strong>低調是一種戰略</strong>，但在當前的環境下，保持低調已經不再是最佳策略。Mira Murati 的重返舞台將會對市場產生重大影響，<strong>推進人工智慧技術的發展</strong>。她是一位具有豐富經驗的技術專家，曾經在多家著名公司工作過，包括 <strong>Apple</strong> 和 <strong>Google</strong>。</p>  <h2>低調的崛起</h2>  <p>Mira Murati 的重返舞台是一種戰略性的舉動，<strong>她希望通過自己的經驗和知識</strong>，來推動人工智慧技術的發展。她是一位具有強大背景的技術專家，曾經在多家著名公司工作過，包括 <strong>Costco</strong> 和 <strong>AI</strong> 公司。她的經驗和知識使她成為了一位領導者，<strong>她將會對市場產生重大影響</strong>。</p>  <h2>市場的反應</h2>  <p>市場對 Mira Murati 的重返舞台有著不同的反應，<strong>一些人認為這是一種戰略性的舉動</strong>，而其他人則認為這是一種 <strong>挑戰</strong>。但是，<strong>有一點是肯定的</strong>，Mira Murati 的重返舞台將會對市場產生重大影響，<strong>推進人工智慧技術的發展</strong>。她是一位具有豐富經驗的技術專家，<strong>她的經驗和知識</strong> 將會使她成為了一位領導者。</p>  <h2>編輯悄悄話</h2>  <p>生活在快速發展的時代，<strong>我們需要的是戰略性的思考</strong> 和 <strong>創新的精神</strong>。Mira Murati 的重返舞台是一種戰略性的舉動，<strong>她希望通過自己的經驗和知識</strong>，來推動人工智慧技術的發展。這是一種 <strong>挑戰</strong>，但也是一種 <strong>機會</strong>。我們需要的是 <strong>創新的思考</strong> 和 <strong>戰略性的行動</strong>，來推動人工智慧技術的發展，<strong>創造一個更好的未來</strong>。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "039",
+    "title": "夏天即將來臨：Valve 宣布 Steam Machine 和 Steam Frame 將於今年夏天推出",
+    "summary": "Valve 宣布推遲的 Steam Machine PC 和 Steam Frame VR 頭戴式將於今年夏天推出，預計將顛覆現有的遊戲體驗，並為玩家帶來新的選擇",
+    "content": "<p>夏天即將來臨，Valve 也準備好要推出其久候的 Steam Machine 和 Steam Frame VR 頭戴式。根據最近的博客文章，Valve 表示這兩款產品將於今年夏天推出，讓玩家可以體驗新的遊戲世界。</p>  <h2>Steam Machine 和 Steam Frame 的特點</h2>  <p>Steam Machine 是一款強大的 PC，具有 <strong>六倍於 Steam Deck 的性能</strong>，使其成為一款理想的遊戲平台。另一方面，Steam Frame VR 頭戴式是一款高科技的頭戴式，具有 <strong>原生播放和串流功能</strong>，讓玩家可以享受更身臨其境的遊戲體驗。</p>  <p>Valve 也正在重新設計 Steam 商店，並分享有關硬件的驗證程序，讓開發者可以為其遊戲做好準備。這意味著玩家可以享受 <strong>無需調整的遊戲體驗</strong>，只需下載和玩就可以了。</p>  <h2>驗證程序和性能要求</h2>  <p>對於 Steam Machine 來說，驗證程序的要求與 Steam Deck 相似，意味著 <strong>許多遊戲都可以在 Machine 上順暢運行</strong>。Valve 也正在測試每一款在 Steam Deck 上表現不佳的遊戲，以確保它們在 Machine 上可以順暢運行。</p>  <p>對於 Steam Frame 來說，驗證徽章將表明遊戲可以在頭戴式上 <strong>原生播放</strong>，而不需要串流。這意味著玩家可以享受更流暢的遊戲體驗，無需額外的設定。</p>  <h2>編輯悄悄話</h2>  <p>現在，我們只需要 Valve 分享 Steam Machine 和 Steam Frame 的確切發布日期和價格就可以了。雖然這兩款產品的發布日期還未確定，但有一點是肯定的：它們將 <strong>顛覆現有的遊戲體驗</strong>，並為玩家帶來新的選擇。因此，夏天即將來臨，讓我們拭目以待這兩款產品的發布吧！</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258049_Valve_2025_EverythingTimeStudio_0058.jpg?quality=90&strip=all&crop=0%2C10.805700988947%2C100%2C78.388598022106&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "040",
+    "title": "人工智慧訴訟潮來襲：法官如何應對AI生成的法律文書",
+    "summary": "人工智慧技術的快速發展，正在挑戰傳統的法律體系，法官們正努力應對AI生成的法律文書，數據顯示這種訴訟的數量正在迅速增加，對法律體系的衝擊將會是重大的",
+    "content": "<p>近期，美國科羅拉多州的一名聯邦法官Maritza Braswell表示，她的法庭每天都在處理大量由人工智慧生成的法律文書，這些文書的數量比2023年之前增加了兩倍多。這種趨勢正在挑戰傳統的法律體系，法官們正努力應對AI生成的法律文書。</p>    <h2>人工智慧與法律的碰撞</h2>    <p>人工智慧技術的快速發展，正在改變各個領域的運作方式，法律體系也不例外。人工智慧可以生成法律文書、協助法律研究等，但也帶來了一些新的問題，例如誰應該為AI生成的法律文書負責、如何確保AI生成的法律文書的質量等。</p>    <h2>虛擬電廠與數據中心的未來</h2>    <p>與此同時，Google公司正在推動一個新的項目，旨在創建虛擬電廠，通過綜合各種設備，如電動車和智能恒溫器，來優化能源使用，減少數據中心的能耗。這個項目可能會為Google的數據中心提供更多的能源，但是也存在一些挑戰，例如如何確保用戶的參與和配合等。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧技術的發展，正在挑戰各個領域的傳統運作方式，法律體系也不例外。作為一名編輯，我認為人工智慧技術的發展，將會對法律體系產生深遠的影響，同時也會帶來一些新的機會和挑戰。因此，我們需要關注人工智慧技術的發展，思考如何將其應用於法律體系中，同時也需要注意其可能帶來的風險和挑戰。</p>",
+    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/06/court-room.jpg?resize=1200,600",
+    "source": "MIT Technology Review",
+    "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "041",
+    "title": "懷舊風格的 Mac Mini、Mac Studio 專用底座登場！Wokyis 將帶你重返過去",
+    "summary": "Wokyis 正在推出一系列懷舊風格的 Mac Mini 和 Mac Studio 專用底座，包括 M5 和 G7 兩款 NES 主題設計的底座。這些底座不僅帶來了懷舊的風格，也提供了更高的功能和性能，包括更大的螢幕和更多的接口。這些產品將在 Kickstarter 平台上進行眾籌，預計在今年 7 月中旬登場。",
+    "content": "<h2>懷舊風格的 Mac Mini、Mac Studio 專用底座登場！</h2><p>如果你是一位 80 年代和 90 年代的電子遊戲迷，你一定會對 NES 的懷舊風格感到熟悉。現在，Wokyis 正在推出一系列懷舊風格的 Mac Mini 和 Mac Studio 專用底座，包括 M5 和 G7 兩款 NES 主題設計的底座。</p><h2>M5 和 G7 底座的功能和性能</h2><p>M5 底座已經在 Amazon 上架，提供了 10 Gbps 和 80 Gbps 兩種版本，配備了 1280 x 720 的螢幕和 M.2 SSD 的插槽。G7 底座預計在今年 7 月中旬在 Kickstarter 平台上進行眾籌，提供了更大的 7 英寸螢幕和 NES 主題設計的控制按鈕。</p><p>除了懷舊的風格，M5 和 G7 底座還提供了更高的功能和性能，包括:</p><ul><li>更大的螢幕：G7 底座的螢幕尺寸達到 7 英寸，提供了更好的視覺效果。</li><li>更多的接口：M5 和 G7 底座都提供了多個 USB 端口、HDMI 端口和 DisplayPort 端口，方便你連接更多的設備。</li><li>更快的傳輸速度：M5 和 G7 底座都支持 10 Gbps 和 80 Gbps 的傳輸速度，提供了更快的數據傳輸。</li></ul><h2>編輯悄悄話</h2><p>如果你是一位懷舊的電子遊戲迷，或者你只是想要一個有趣的 Mac Mini 或 Mac Studio 專用底座，Wokyis 的 M5 和 G7 底座絕對是值得考慮的選擇。雖然這些底座的價格可能會比較高，但它們提供的功能和性能是值得的。所以，如果你對這些底座感興趣，不要忘記在 Kickstarter 平台上進行眾籌吧！</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/gyiqjESLi9tJFhgubAx2p8-2560-80.jpg",
+    "source": "Tom's Hardware",
+    "url": "https://www.tomshardware.com/peripherals/docking-stations-hubs/take-your-openclaw-box-back-to-the-future-with-retro-mac-mini-mac-studio-docks-wokyis-tempts-nintendo-and-apple-lawyers-while-adding-a-screen-ports-and-style-to-your-modern-mini-mac",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "042",
+    "title": "Anthropic 的 AI 代碼生成技術再進一步：企業如何跟上這波潮流？",
+    "summary": "Anthropic 的 CEO Dario Amodei 預測，未來 90% 的代碼將由 AI 生成。如今，這個預測正在成為現實。Anthropic 的最新報告顯示，該公司 80% 的新代碼現在由其 AI 模型 Claude 生成。這個變革不僅推動了 Anthropic 的技術進步，也對企業提出了新的挑戰。企業如何跟上這波潮流，利用 AI 代碼生成技術提高效率和競爭力？",
+    "content": "<h2>Anthropic 的 AI 代碼生成技術再進一步</h2> <p>Anthropic 的 CEO Dario Amodei 預測，未來 90% 的代碼將由 AI 生成。如今，這個預測正在成為現實。Anthropic 的最新報告顯示，該公司 80% 的新代碼現在由其 AI 模型 Claude 生成。這個變革不僅推動了 Anthropic 的技術進步，也對企業提出了新的挑戰。</p> <p>Anthropic 的技術進步是如此迅速，以至於該公司的工程師現在可以在短時間內生成大量的代碼。這個變革對企業提出了新的挑戰，企業需要重新思考自己的技術戰略，才能跟上這波潮流。</p> <h2>企業如何跟上這波潮流</h2> <p>企業如何跟上這波潮流，利用 AI 代碼生成技術提高效率和競爭力？以下是 Anthropic 的建議：</p> <h3>1. 轉變思維方式</h3> <p>企業需要轉變思維方式，從傳統的代碼生成方式轉變為 AI 代碼生成技術。這需要企業重新思考自己的技術戰略，才能跟上這波潮流。</p> <h3>2. 投資 AI 研發</h3> <p>企業需要投資 AI 研發，才能跟上這波潮流。這包括投資 AI 人才、AI 研發工具和 AI 研發平台。</p> <h3>3. 建立 AI 代碼生成流程</h3> <p>企業需要建立 AI 代碼生成流程，才能有效地利用 AI 代碼生成技術。這包括建立 AI 代碼生成工具、AI 代碼生成流程和 AI 代碼生成標準。</p> <h2>編輯悄悄話</h2> <p>Anthropic 的 AI 代碼生成技術再進一步，對企業提出了新的挑戰。企業需要重新思考自己的技術戰略，才能跟上這波潮流。投資 AI 研發、建立 AI 代碼生成流程是企業跟上這波潮流的關鍵。企業需要轉變思維方式，才能有效地利用 AI 代碼生成技術提高效率和競爭力。</p>",
+    "image": "",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "043",
+    "title": "Oura Ring 5登場：這款智慧戒指如何顛覆傳統設計",
+    "summary": "Oura Ring 5 的升級不僅僅是外觀的改變，還包括了內部結構的調整，為用戶提供了更好的使用體驗，這個改變將會如何衝擊智慧戒指市場",
+    "content": "<p>最近，我有機會使用了Oura Ring 5，這款智慧戒指的升級確實令人驚艷。首先，最明顯的改變是其外觀設計，Oura Ring 5 的厚度比前一代減少了 40%，這使得它更加輕薄便捷。另外，Oura 也增加了電池壽命，現在用戶可以享受到多一天的使用時間。</p>    <h2>什麼使得Oura Ring 5如此特別</h2>    <p>這款智慧戒指的升級不僅僅是外觀的改變，還包括了內部結構的調整。Oura 對其智能算法進行了優化，並增加了更強大的 LED 照明，以提供更準確的健康追蹤數據。這些改變使得 Oura Ring 5 成為了一款更加完善的智慧戒指。</p>    <h2>使用體驗的改善</h2>    <p>我使用了 Oura Ring 5 一天，發現其小巧的設計使得它更加舒適。使用 Oura Ring 4 時，我經常會感受到戒指的厚度，尤其是在做一些需要手指靈活性的動作時。但是，Oura Ring 5 的設計使得這些問題基本消失了。我可以輕易地將手指緊密地攏在一起，而不會感到戒指的厚度。這使得我在使用戒指時感到更加自然和舒適。</p>    <h2>編輯悄悄話</h2>    <p>總的來說，Oura Ring 5 的升級是非常成功的。它不僅改善了使用體驗，也提供了更好的健康追蹤功能。如果你正在尋找一款智慧戒指，Oura Ring 5 絕對是值得考慮的選擇。它的小巧設計和強大的功能使得它成為了一款非常完善的產品。所以，如果你想體驗一款真正的智慧戒指，Oura Ring 5 是你的最佳選擇。</p>",
+    "image": "https://www.zdnet.com/a/img/resize/0fa7b10557b198fa36a986755f029e6340ffa262/2026/06/04/73d8079b-2da5-4f73-9951-bcff5301b9be/image-20260603-224120-439.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "source": "ZDNet",
+    "url": "https://www.zdnet.com/article/oura-ring-5-hands-on-review/",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "044",
+    "title": "用 AI 写出 90 年代風格的技術文件？這位工程師的實驗成功了！",
+    "summary": "一位工程師成功地使用 AI 技術，將語言模型調整為能夠寫出 90 年代風格的技術文件。這項實驗使用了大量的技術文檔資料，並運用了 QLoRA 這種調整方法。結果表明，這種方法可以有效地使語言模型產生出具有特定風格的文檔。這項技術有可能對未來的技術寫作產生重大影響。",
+    "content": "<p>最近，一位工程師進行了一項有趣的實驗：使用 AI 技術，將語言模型調整為能夠寫出 90 年代風格的技術文件。這項實驗使用了大量的技術文檔資料，並運用了 QLoRA 這種調整方法。</p><h2>調整語言模型的方法</h2><p>工程師使用了 QLoRA 這種調整方法，來調整語言模型的參數。QLoRA 是一種 Quantized Low-Rank Adaptation 的縮寫，意思是使用量化的低秩適應來調整模型的參數。這種方法可以有效地使語言模型產生出具有特定風格的文檔。</p><h2>實驗結果</h2><p>實驗結果表明，這種方法可以有效地使語言模型產生出具有 90 年代風格的技術文件。工程師使用了大量的技術文檔資料，並運用了 QLoRA 這種調整方法。結果表明，這種方法可以有效地使語言模型產生出具有特定風格的文檔。</p><h2>編輯悄悄話</h2><p>這項技術有可能對未來的技術寫作產生重大影響。隨著 AI 技術的發展，技術寫作也會變得更加智能化。這項實驗證明了 AI 技術可以用來調整語言模型的參數，使其產生出具有特定風格的文檔。這項技術有可能被廣泛應用於技術寫作、文檔生成等領域。</p>",
+    "image": "https://passo.uno/uploads/finetuned.png",
+    "source": "Hacker News",
+    "url": "https://passo.uno/fine-tuning-docs-llm/",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "045",
+    "title": "TypeORM 1.0登場！終結近十年的預發布期，迎接全新維護時代",
+    "summary": "TypeORM 1.0正式登場，結束了近十年的預發布期，標誌著這款熱門的TypeScript和JavaScript ORM框架的新篇章。這次更新帶來了許多重大變化，包括升級平台要求、移除過時的API、修復數十個錯誤和新增新功能。TypeORM現在支持ECMAScript 2023，並且對安全性和遷移過程進行了增強。",
+    "content": "<p>近十年的預發布期終於結束，TypeORM 1.0正式登場！這次更新是TypeORM團隊近年來努力的成果，標誌著這款熱門的TypeScript和JavaScript ORM框架的新篇章。</p><h2>升級平台要求，移除過時的API</h2><p>TypeORM 1.0升級了平台要求，現在支持ECMAScript 2023。這意味著Node.js 20是最低支持版本，Node 16和18不再支持。另外，TypeORM還移除了過時的API，包括mysql客戶端、sqlite3客戶端等。</p><h2>新增新功能，增強安全性和遷移過程</h2><p>TypeORM 1.0新增了許多新功能，包括InsertQueryBuilder的valuesFromSelect()方法、update()和upsert()方法的returning選項等。另外，TypeORM還增強了安全性，包括參數化查詢、逃逸識別符等。遷移過程也得到了增強，包括自動代碼更新、預覽變更等。</p><h2>編輯悄悄話</h2><p>TypeORM 1.0的登場，標誌著這款熱門的TypeScript和JavaScript ORM框架的新篇章。這次更新帶來了許多重大變化，包括升級平台要求、移除過時的API、修復數十個錯誤和新增新功能。TypeORM現在支持ECMAScript 2023，並且對安全性和遷移過程進行了增強。如果你是一名TypeORM的使用者，現在是升級到1.0版本的好時機！</p>",
+    "image": "https://res.infoq.com/news/2026/06/typeorm-1-released/en/headerimage/generatedHeaderImage-1780570519122.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/news/2026/06/typeorm-1-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "046",
+    "title": "程式設計社群更新規則：人工智慧內容不再被禁",
+    "summary": "程式設計社群Reddit的程式設計板塊（r/programming）更新了其規則，允許使用者分享深度技術內容的AI和LLM相關文章。這個更新的規則取代了之前暫時禁止AI相關內容的規則，旨在促進程式設計社群內的技術討論和分享。",
+    "content": "<h2>程式設計社群更新規則</h2><p>程式設計社群Reddit的程式設計板塊（r/programming）在4月份曾暫時禁止使用者分享AI相關內容，但現在該規則已經更新。新的規則允許使用者分享深度技術內容的AI和LLM相關文章，旨在促進程式設計社群內的技術討論和分享。</p><h2>新規則的內容</h2><p>新的規則明確指出，AI和LLM相關的內容被視為非技術內容，但深度技術內容的分享除外。這意味著使用者可以分享有關AI和LLM的技術實現、架構和演算法等內容，但不得分享非技術性的內容，例如AI的應用案例或市場趨勢。</p><p>新的規則還強調了程式設計社群的目標是促進技術討論和分享，鼓勵使用者分享自己的技術經驗和知識。同時，規則也提醒使用者要尊重他人的意見和觀點，避免發表不當的評論或評價。</p><h2>編輯悄悄話</h2><p>程式設計社群的更新規則反映了社群對技術討論和分享的重視。通過允許使用者分享深度技術內容的AI和LLM相關文章，社群希望促進技術交流和創新。作為程式設計師，我們應該積極參與社群的討論和分享，共同推動技術的進步和發展。</p>",
+    "image": "",
+    "source": "Reddit Programming",
+    "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "047",
+    "title": "歐洲網路安全法案（CRA）與開源生態圈的緊急警訊：重塑開源軟體安全的未來",
+    "summary": "歐洲網路安全法案（CRA）即將實施，開源生態圈必須做好準備。開源軟體安全已經成為全球關注的焦點，歐洲的新法案將對開源生態圈產生重大影響。開源軟體的安全性將受到嚴格審查，開源開發者必須重塑其安全策略，以確保軟體的安全性和可靠性。",
+    "content": "<p>歐洲網路安全法案（CRA）即將實施，開源生態圈必須做好準備。開源軟體安全已經成為全球關注的焦點，歐洲的新法案將對開源生態圈產生重大影響。開源軟體的安全性將受到嚴格審查，開源開發者必須重塑其安全策略，以確保軟體的安全性和可靠性。</p><h2>開源軟體安全的挑戰</h2><p>開源軟體的安全性一直是全球關注的焦點。開源軟體的開發過程通常是公開的，任何人都可以參與開發和審查。然而，這也意味著開源軟體的安全性可能會受到威脅。開源軟體的安全性問題可能會導致數據泄露、系統崩潰等嚴重後果。</p><p>歐洲網路安全法案（CRA）將對開源生態圈產生重大影響。法案要求開源軟體必須符合嚴格的安全標準，開源開發者必須重塑其安全策略，以確保軟體的安全性和可靠性。開源軟體的安全性將受到嚴格審查，開源開發者必須做好準備，以避免法律責任。</p><h2>重塑開源軟體安全的未來</h2><p>開源軟體的安全性是開源生態圈的核心問題。開源軟體的安全性問題可能會導致數據泄露、系統崩潰等嚴重後果。開源開發者必須重塑其安全策略，以確保軟體的安全性和可靠性。</p><p>開源軟體的安全性重塑需要開源開發者的共同努力。開源開發者必須合作，分享安全知識和最佳實踐，以確保開源軟體的安全性和可靠性。開源軟體的安全性重塑也需要政府和企業的支持，提供資源和工具，以幫助開源開發者實現安全目標。</p><h2>編輯悄悄話</h2><p>開源軟體的安全性是開源生態圈的核心問題。開源軟體的安全性問題可能會導致數據泄露、系統崩潰等嚴重後果。開源開發者必須重塑其安全策略，以確保軟體的安全性和可靠性。開源軟體的安全性重塑需要開源開發者的共同努力，政府和企業的支持，以及資源和工具的提供。讓我們共同努力，重塑開源軟體的安全未來。</p>",
+    "image": "https://www.linuxfoundation.org/hubfs/OpenSSF%20CRA%20blog.png",
+    "source": "Linux Foundation",
+    "url": "https://www.linuxfoundation.org/blog/taking-stock-of-the-state-of-european-cyber-resilience-act-cra-compliance-an-urgent-wake-up-call-for-the-open-source-ecosystem",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "048",
+    "title": "IBM 和 Red Hat 的 50 億美元安全計畫：企業開源軟體的未來",
+    "summary": "IBM 和 Red Hat 正在推動一項 50 億美元的安全計畫，目標是成為企業開源軟體的安全中心。這項計畫將利用 AI 技術來加速漏洞的發現和修復，並提供一個安全的環境來部署軟體更新。這將對企業的安全策略產生重大影響，改變企業如何管理和保護自己的軟體資產。",
+    "content": "<p>IBM 和 Red Hat 正在合作推動一項名為 Project Lightwell 的安全計畫，目標是成為企業開源軟體的安全中心。這項計畫將利用 AI 技術來加速漏洞的發現和修復，並提供一個安全的環境來部署軟體更新。</p><h2>企業開源軟體的安全挑戰</h2><p>企業開源軟體的安全挑戰一直是個熱門話題。由於開源軟體的普遍使用，企業面臨著越來越多的安全風險。IBM 和 Red Hat 的計畫旨在解決這個問題，提供一個安全的環境來部署軟體更新，並減少企業的安全風險。</p><h2>Project Lightwell 的細節</h2><p>Project Lightwell 是一項 50 億美元的安全計畫，將利用 AI 技術來加速漏洞的發現和修復。這項計畫將提供一個安全的環境來部署軟體更新，並減少企業的安全風險。計畫的細節包括：</p><ul>  <li>利用 AI 技術來加速漏洞的發現和修復</li>  <li>提供一個安全的環境來部署軟體更新</li>  <li>減少企業的安全風險</li></ul><h2>企業的反應</h2><p>企業對於 Project Lightwell 的反應是積極的。許多企業認為，這項計畫將有助於解決企業開源軟體的安全挑戰，並提供一個安全的環境來部署軟體更新。</p><h2>編輯悄悄話</h2><p>IBM 和 Red Hat 的 Project Lightwell 計畫是企業開源軟體的未來。這項計畫將利用 AI 技術來加速漏洞的發現和修復，並提供一個安全的環境來部署軟體更新。企業應該密切關注這項計畫，並準備好迎接企業開源軟體的安全挑戰。</p>",
+    "image": "https://www.redhat.com/themes/custom/rhdc/img/red-hat-social-share.jpg",
+    "source": "Red Hat Blog",
+    "url": "https://www.redhat.com/en/blog/friday-five-june-5-2026",
+    "date": "2026-06-05"
   }
 ]
