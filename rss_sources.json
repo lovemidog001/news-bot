@@ -1,8 +1,93 @@
 [
   {
-    "name": "Google Alerts - AI News",
-    "url": "https://www.google.com/alerts/feeds/03998509435199435821/17885894832116094222",
-    "category": "news-trends"
+    "name": "量子位",
+    "url": "https://www.qbitai.com/feed",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "name": "LangChain Blog",
+    "url": "https://blog.langchain.dev/rss/",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "name": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/amazon-ai/feed/",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "name": "Engineering at Meta",
+    "url": "https://engineering.fb.com/feed/",
+    "category": "General Tech"
+  },
+  {
+    "name": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/feed/",
+    "category": "General Tech"
+  },
+  {
+    "name": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/feed",
+    "category": "General Tech"
+  },
+  {
+    "name": "Grafana Labs",
+    "url": "https://grafana.com/categories/engineering/index.xml",
+    "category": "General Tech"
+  },
+  {
+    "name": "宝玉的分享",
+    "url": "https://baoyu.io/feed.xml",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "name": "掘金本周最热",
+    "url": "https://rsshub.bestblogs.dev/juejin/trending/all/weekly",
+    "category": "Development & DevOps"
+  },
+  {
+    "name": "deeplearning.ai",
+    "url": "https://rsshub.bestblogs.dev/deeplearning/the-batch",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "name": "腾讯技术工程",
+    "url": "https://wechat2rss.bestblogs.dev/feed/1e0ac39f8952b2e7f0807313cf2633d25078a171.xml",
+    "category": "General Tech"
+  },
+  {
+    "name": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/feed",
+    "category": "Development & DevOps"
+  },
+  {
+    "name": "Google Cloud Blog",
+    "url": "https://cloudblog.withgoogle.com/rss/",
+    "category": "General Tech"
+  },
+  {
+    "name": "Last Week in AI",
+    "url": "https://lastweekin.ai/feed/",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "name": "Next.js Blog",
+    "url": "https://nextjs.org/feed.xml",
+    "category": "Development & DevOps"
+  },
+  {
+    "name": "Google DeepMind Blog",
+    "url": "https://deepmind.com/blog/feed/basic/",
+    "category": "AI & Machine Learning"
+  },
+  {
+    "name": "Martin Fowler",
+    "url": "https://martinfowler.com/feed.atom",
+    "category": "Development & DevOps"
   },
   {
     "name": "OpenAI Blog",
@@ -13,375 +98,5 @@
     "name": "Anthropic News",
     "url": "https://www.anthropic.com/news/rss",
     "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Google DeepMind",
-    "url": "https://deepmind.google/blog/rss.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "The Decoder",
-    "url": "https://the-decoder.com/feed/",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Mistral AI News",
-    "url": "https://mistral.ai/news/rss.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "LangChain Blog",
-    "url": "https://blog.langchain.dev/rss/",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "LlamaIndex Blog",
-    "url": "https://www.llamaindex.ai/blog/rss.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Hugging Face Blog",
-    "url": "https://huggingface.co/blog/feed.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "FutureTools",
-    "url": "https://www.futuretools.io/feed.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "VentureBeat AI",
-    "url": "https://venturebeat.com/category/ai/feed/",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Towards Data Science",
-    "url": "https://towardsdatascience.com/feed",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "PyTorch Blog",
-    "url": "https://pytorch.org/feed.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Meta AI",
-    "url": "https://ai.meta.com/blog/rss/",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "NVIDIA Blog",
-    "url": "https://blogs.nvidia.com/feed/",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Stability AI",
-    "url": "https://stability.ai/news/rss.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Together AI",
-    "url": "https://www.together.ai/blog/rss.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Weights & Biases",
-    "url": "https://wandb.ai/site/rss.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Ollama Blog",
-    "url": "https://ollama.com/blog/rss.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Perplexity Blog",
-    "url": "https://www.perplexity.ai/blog/rss.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Reddit Machine Learning",
-    "url": "https://www.reddit.com/r/MachineLearning/.rss",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "Reddit LocalLLaMA",
-    "url": "https://www.reddit.com/r/LocalLLaMA/.rss",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "TechCrunch",
-    "url": "https://techcrunch.com/feed/",
-    "category": "General Tech"
-  },
-  {
-    "name": "The Verge",
-    "url": "https://www.theverge.com/rss/index.xml",
-    "category": "General Tech"
-  },
-  {
-    "name": "Ars Technica",
-    "url": "https://feeds.arstechnica.com/arstechnica/index",
-    "category": "General Tech"
-  },
-  {
-    "name": "Wired",
-    "url": "https://www.wired.com/feed/rss",
-    "category": "General Tech"
-  },
-  {
-    "name": "MIT Technology Review",
-    "url": "https://www.technologyreview.com/feed/",
-    "category": "General Tech"
-  },
-  {
-    "name": "Tom's Hardware",
-    "url": "https://www.tomshardware.com/feeds/all",
-    "category": "General Tech"
-  },
-  {
-    "name": "VentureBeat",
-    "url": "https://venturebeat.com/feed/",
-    "category": "General Tech"
-  },
-  {
-    "name": "Engadget",
-    "url": "https://www.engadget.com/rss.xml",
-    "category": "General Tech"
-  },
-  {
-    "name": "ZDNet",
-    "url": "https://www.zdnet.com/news/rss.xml",
-    "category": "General Tech"
-  },
-  {
-    "name": "AnandTech",
-    "url": "https://www.anandtech.com/rss/",
-    "category": "General Tech"
-  },
-  {
-    "name": "Phoronix",
-    "url": "https://www.phoronix.com/rss.php",
-    "category": "General Tech"
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://hnrss.org/frontpage",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "GitHub Blog",
-    "url": "https://github.blog/feed/",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "Stack Overflow Blog",
-    "url": "https://stackoverflow.blog/feed/",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "InfoQ",
-    "url": "https://feed.infoq.com/",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "DEV Community",
-    "url": "https://dev.to/feed",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "Docker Blog",
-    "url": "https://www.docker.com/blog/feed/",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "Cloudflare Blog",
-    "url": "https://blog.cloudflare.com/rss/",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "Vercel Blog",
-    "url": "https://vercel.com/blog/rss.xml",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "Netlify Blog",
-    "url": "https://www.netlify.com/feed.xml",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "Planet Kubernetes",
-    "url": "https://planetkubernetes.com/rss20.xml",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "Reddit Programming",
-    "url": "https://www.reddit.com/r/programming/.rss",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "Linux Foundation",
-    "url": "https://www.linuxfoundation.org/blog/rss.xml",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "Red Hat Blog",
-    "url": "https://www.redhat.com/en/rss/blog",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "Ubuntu Blog",
-    "url": "https://ubuntu.com/blog/feed",
-    "category": "Development & DevOps"
-  },
-  {
-    "name": "iThome",
-    "url": "https://www.ithome.com.tw/rss",
-    "category": "Taiwan Tech"
-  },
-  {
-    "name": "INSIDE",
-    "url": "https://www.inside.com.tw/feed",
-    "category": "Taiwan Tech"
-  },
-  {
-    "name": "TechOrange",
-    "url": "https://buzzorange.com/techorange/feed/",
-    "category": "Taiwan Tech"
-  },
-  {
-    "name": "T客邦",
-    "url": "https://www.techbang.com/posts.rss",
-    "category": "Taiwan Tech"
-  },
-  {
-    "name": "電腦王阿達",
-    "url": "https://www.koc.com.tw/feed",
-    "category": "Taiwan Tech"
-  },
-  {
-    "name": "癮科技",
-    "url": "https://www.cool3c.com/rss",
-    "category": "Taiwan Tech"
-  },
-  {
-    "name": "Krebs on Security",
-    "url": "https://krebsonsecurity.com/feed/",
-    "category": "Cybersecurity"
-  },
-  {
-    "name": "BleepingComputer",
-    "url": "https://www.bleepingcomputer.com/feed/",
-    "category": "Cybersecurity"
-  },
-  {
-    "name": "The Hacker News",
-    "url": "https://feeds.feedburner.com/TheHackersNews",
-    "category": "Cybersecurity"
-  },
-  {
-    "name": "IGN",
-    "url": "https://feeds.ign.com/ign/all",
-    "category": "Gaming"
-  },
-  {
-    "name": "GameSpot",
-    "url": "https://www.gamespot.com/feeds/news/",
-    "category": "Gaming"
-  },
-  {
-    "name": "PC Gamer",
-    "url": "https://www.pcgamer.com/rss/",
-    "category": "Gaming"
-  },
-  {
-    "name": "Rock Paper Shotgun",
-    "url": "https://www.rockpapershotgun.com/feed",
-    "category": "Gaming"
-  },
-  {
-    "name": "Polygon",
-    "url": "https://www.polygon.com/rss/index.xml",
-    "category": "Gaming"
-  },
-  {
-    "name": "Eurogamer",
-    "url": "https://www.eurogamer.net/feed",
-    "category": "Gaming"
-  },
-  {
-    "name": "GamesIndustry.biz",
-    "url": "https://www.gamesindustry.biz/rss/gamesindustry_news.rss",
-    "category": "Gaming"
-  },
-  {
-    "name": "Gematsu",
-    "url": "https://www.gematsu.com/feed",
-    "category": "Gaming"
-  },
-  {
-    "name": "VG247",
-    "url": "https://www.vg247.com/feed",
-    "category": "Gaming"
-  },
-  {
-    "name": "SteamDB",
-    "url": "https://steamdb.info/rss/free/",
-    "category": "Gaming"
-  },
-  {
-    "name": "SteamDB Patch Notes",
-    "url": "https://steamdb.info/patchnotes/feed/",
-    "category": "Gaming"
-  },
-  {
-    "name": "itch.io Blog",
-    "url": "https://itch.io/feed",
-    "category": "Gaming"
-  },
-  {
-    "name": "Unity Blog",
-    "url": "https://blog.unity.com/feed",
-    "category": "Gaming"
-  },
-  {
-    "name": "Unreal Engine",
-    "url": "https://www.unrealengine.com/en-US/feed",
-    "category": "Gaming"
-  },
-  {
-    "name": "Godot Engine",
-    "url": "https://godotengine.org/rss.xml",
-    "category": "Gaming"
-  },
-  {
-    "name": "Gamasutra / Game Developer",
-    "url": "https://www.gamedeveloper.com/rss.xml",
-    "category": "Gaming"
-  },
-  {
-    "name": "4Gamers",
-    "url": "https://www.4gamers.com.tw/rss",
-    "category": "Gaming (Local)"
-  },
-  {
-    "name": "巴哈姆特 GNN",
-    "url": "https://gnn.gamer.com.tw/rss.xml",
-    "category": "Gaming (Local)"
-  },
-  {
-    "name": "QooApp 遊戲新聞",
-    "url": "https://news.qoo-app.com/feed",
-    "category": "Gaming (Local)"
-  },
-  {
-    "name": "Famitsu",
-    "url": "https://www.famitsu.com/rss/famitsu/rss.xml",
-    "category": "Gaming (JP)"
-  },
-  {
-    "name": "4Gamer Japan",
-    "url": "https://www.4gamer.net/rss/index.xml",
-    "category": "Gaming (JP)"
   }
 ]
