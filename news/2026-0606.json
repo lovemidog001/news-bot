@@ -430,21 +430,106 @@
     "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
     "date": "2026-06-06"
   },
-{
-  "id": "042",
-  "title": "寫好 Skill 的終極實戰經驗手冊",
-  "summary": "鵝廠團隊分享寫好 Skill 的經驗，幫助大家提升職業競爭力",
-  "content": "<p>你是否曾經為寫好 Skill 而苦惱？鵝廠團隊經過多年的實戰經驗，總結出了一套寫好 Skill 的終極實戰經驗手冊。今天，我們就來分享一下這份手冊的內容。</p><h2>什麼是 Skill？</h2><p>Skill 是個人職業能力的體現，是個人職業競爭力的重要組成部分。寫好 Skill，可以幫助你提升職業競爭力，獲得更好的職業機會。</p><p>但是，寫好 Skill 並不是一件容易的事情。需要結合自身優勢和職業目標來設計 Skill，才能寫出真正有用的 Skill。</p><h2>如何寫好 Skill？</h2><p>鵝廠團隊經過多年的實戰經驗，總結出以下幾點寫好 Skill 的經驗：</p><ul><li>結合自身優勢和職業目標來設計 Skill</li><li>實戰經驗是寫好 Skill 的重要參考</li><li>需要不斷更新和完善 Skill</li></ul><p>這些經驗可以幫助你寫出真正有用的 Skill，提升職業競爭力。</p><h2>編輯悄悄話</h2><p>寫好 Skill 需要花費時間和精力，但是如果你想提升職業競爭力，寫好 Skill 是必須的。鵝廠團隊的經驗可以幫助你寫出真正有用的 Skill，少走彎路。所以，不要猶豫，開始寫好你的 Skill 吧！</p>",
-  "score": 95,
-  "takeaways": [
-    "寫好 Skill 是提升個人職業競爭力的關鍵",
-    "需要結合自身優勢和職業目標來設計 Skill",
-    "實戰經驗是寫好 Skill 的重要參考"
-  ],
-  "punchline": "寫好 Skill，少走彎路",
-  "image": "",
-  "source": "腾讯技术工程",
-  "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801836&idx=1&sn=f01a69e0c012eafde5f8bc76804bc5fb",
-  "date": "2026-06-06"
-}
+  {
+    "id": "042",
+    "title": "寫好 Skill 的終極實戰經驗手冊",
+    "summary": "鵝廠團隊分享寫好 Skill 的經驗，幫助大家提升職業競爭力",
+    "content": "<p>你是否曾經為寫好 Skill 而苦惱？鵝廠團隊經過多年的實戰經驗，總結出了一套寫好 Skill 的終極實戰經驗手冊。今天，我們就來分享一下這份手冊的內容。</p><h2>什麼是 Skill？</h2><p>Skill 是個人職業能力的體現，是個人職業競爭力的重要組成部分。寫好 Skill，可以幫助你提升職業競爭力，獲得更好的職業機會。</p><p>但是，寫好 Skill 並不是一件容易的事情。需要結合自身優勢和職業目標來設計 Skill，才能寫出真正有用的 Skill。</p><h2>如何寫好 Skill？</h2><p>鵝廠團隊經過多年的實戰經驗，總結出以下幾點寫好 Skill 的經驗：</p><ul><li>結合自身優勢和職業目標來設計 Skill</li><li>實戰經驗是寫好 Skill 的重要參考</li><li>需要不斷更新和完善 Skill</li></ul><p>這些經驗可以幫助你寫出真正有用的 Skill，提升職業競爭力。</p><h2>編輯悄悄話</h2><p>寫好 Skill 需要花費時間和精力，但是如果你想提升職業競爭力，寫好 Skill 是必須的。鵝廠團隊的經驗可以幫助你寫出真正有用的 Skill，少走彎路。所以，不要猶豫，開始寫好你的 Skill 吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "寫好 Skill 是提升個人職業競爭力的關鍵",
+      "需要結合自身優勢和職業目標來設計 Skill",
+      "實戰經驗是寫好 Skill 的重要參考"
+    ],
+    "punchline": "寫好 Skill，少走彎路",
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801836&idx=1&sn=f01a69e0c012eafde5f8bc76804bc5fb",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "043",
+    "title": "AI 求職革命：Hugging Face 推出 Job Searcher",
+    "summary": "Hugging Face 發布 Job Searcher，一個基於 AI 的求職搜索工具，讓求職者更容易找到合適的工作",
+    "content": "<p>近年來，人工智能（AI）技術在各個領域都有著廣泛的應用，而求職市場也不例外。Hugging Face最近發布了一個基於 AI 的求職搜索工具，名為 Job Searcher。這個工具可以幫助求職者更容易地找到合適的工作。</p>    <h2>Job Searcher 的工作原理</h2>    <p>Job Searcher 的工作原理是，讓求職者上傳自己的簡歷和設定偏好，然後系統使用教師模型 DeepSeek V4 Pro 生成 LinkedIn 搜索查詢。接著，系統使用 JobSpy 抓取職位，並對學生模型 Qwen3-8B（8B 參數）進行 LoRA 微調。最後，系統對每個職位從技能匹配、經驗相關性、教育背景、行業領域契合度和資歷對齊五個維度給出評分和推理。</p>    <h2>訓練和部署</h2>    <p>Job Searcher 的訓練是在 Modal 平台單張 A100 上完成的，訓練的結果可以在 Hugging Face ZeroGPU Space 中看到。這個工具使用 llam 部署，讓使用者可以快速地找到合適的工作。</p>    <h2>編輯悄悄話</h2>    <p>現在，求職者可以使用 AI 技術來幫助自己找到工作。這個工具可以幫助求職者節省時間和精力，讓他們更容易地找到合適的工作。所以，如果你正在找工作，不要錯過 Job Searcher 這個工具，讓 AI 幫助你找到夢想中的工作吧！",
+    "score": 95,
+    "takeaways": [
+      "Hugging Face 发布基于 AI 的求职搜索工具 Job Searcher",
+      "用户可上传简历和设定偏好，系统生成 LinkedIn 搜索查询",
+      "系统使用多维度评分，包括技能匹配、经验相关性等"
+    ],
+    "punchline": "AI 找工作，簡單又便捷",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/build-small-hackathon/job-search-blog.png",
+    "source": "AI HOT 精選",
+    "url": "https://huggingface.co/blog/build-small-hackathon/job-search-blog",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "044",
+    "title": "SpaceX的秘密武器：格温·肖特韦尔",
+    "summary": "SpaceX即將上市，格温·肖特韦尔的貢獻將被更多人關注，她是SpaceX的幕後功臣",
+    "content": "<p>SpaceX即將上市，格温·肖特韦尔的貢獻將被更多人關注。她是SpaceX的第11号员工，現在持有約0.11%的股份，估計價值近20億美元。格温的領導才能和商業頭腦，讓SpaceX成為太空產業的領導者。</p>    <h2>格温的成長之路</h2>    <p>格温在2002年加入SpaceX，當時公司正面臨著嚴重的財務危機。格温利用她的銷售經驗，幫助公司爭取到NASA的合約，挽救了公司的命運。之後，格温又幫助SpaceX開發了商業衛星發射業務，現在SpaceX已經成為全球衛星發射市場的領導者。</p>    <h2>格温的領導才能</h2>    <p>格温的領導才能和商業頭腦，讓SpaceX成為太空產業的領導者。她不僅能夠幫助公司爭取到合約和投資，也能夠領導公司的技術開發和創新。格温的領導才能得到了馬斯克的高度評價，馬斯克曾經說過，沒有格温，SpaceX可能早就破產了。</p>    <h2>編輯悄悄話</h2>    <p>格温·肖特韦尔的故事，真是令人鼓舞。她從一名銷售經理，到成為SpaceX的總裁，她的成長之路充滿了挑戰和機遇。她的領導才能和商業頭腦，讓SpaceX成為太空產業的領導者。讓我們一起關注格温的未來，和SpaceX的發展吧！",
+    "score": 95,
+    "takeaways": [
+      "格温·肖特韦尔是SpaceX的幕後功臣，幫助公司躲過多次危機",
+      "她是SpaceX的第11号员工，現在持有約0.11%的股份，估計價值近20億美元",
+      "格温的領導才能和商業頭腦，讓SpaceX成為太空產業的領導者"
+    ],
+    "punchline": "造火箭的正在批量造巨富",
+    "image": "https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png",
+    "source": "量子位",
+    "url": "https://www.qbitai.com/2026/06/431371.html",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "045",
+    "title": "網絡性能的三大秘密：延遲、吞吐量和頻寬",
+    "summary": "延遲、吞吐量和頻寬是衡量網絡性能的三個不同指標，但它們經常被誤用。了解這三個指標的區別，可以幫助你更好地優化網絡性能。",
+    "content": "<p>你曾經想過為什麼你的網絡很慢，即使頻寬看起來很大嗎？延遲、吞吐量和頻寬是衡量網絡性能的三個不同指標，但它們經常被誤用。</p>  <h2>延遲、吞吐量和頻寬的區別</h2>  <p>延遲是指資料從發送端到接收端的延遲時間。例如，如果你的ping延遲時間是40毫秒，那就是延遲。</p>  <p>吞吐量是指資料在單位時間內成功傳輸的速率。例如，如果你的下載速率是62Mbps，那就是吞吐量。</p>  <p>頻寬是指網絡連接的最大容量。例如，100Mbps的連接是理想條件下的最大容量。</p>  <h2>為什麼延遲、吞吐量和頻寬很重要</h2>  <p>延遲、吞吐量和頻寬都是網絡性能的重要指標。了解這三個指標的區別，可以幫助你更好地優化網絡性能。</p>  <p>例如，如果你想提高網絡的吞吐量，你可以嘗試增加頻寬或減少延遲。但是，如果你只關注延遲，你可能會忽略吞吐量的重要性。</p>  <h2>編輯悄悄話</h2>  <p>網絡性能的三大秘密：延遲、吞吐量和頻寬。你以為你的網絡很快嗎？可能只是延遲很低而已！</p>  <p>了解這三個指標的區別，可以幫助你更好地優化網絡性能。下次你遇到網絡問題時，記得檢查延遲、吞吐量和頻寬吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "延遲、吞吐量和頻寬是衡量網絡性能的三個不同指標",
+      "延遲是指資料從發送端到接收端的延遲時間",
+      "吞吐量是指資料在單位時間內成功傳輸的速率"
+    ],
+    "punchline": "你以為你的網絡很快嗎？可能只是延遲很低而已！",
+    "image": "https://substackcdn.com/image/fetch/$s_!7PuH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff822afe9-5c16-4d2d-8fa1-f32d03b9743e_1280x1643.jpeg",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "046",
+    "title": "Google Cloud 最新動態：Gemini、Apigee 和 AI 的進展",
+    "summary": "Google Cloud 正在不斷推進其 AI 和機器學習技術，包括 Gemini 和 Apigee。Gemini 3.1 Flash-Lite 是一款新推出的 Gemini 3 系列模型，具有更快和更具成本效益的特點。Apigee API Hub 現在支持 OpenAPI v3，允許用戶定義 API 合約和實施關鍵政策。",
+    "content": "<p>Google Cloud 正在不斷推進其 AI 和機器學習技術，為企業提供更好的解決方案。最近，Google Cloud 推出了 Gemini 3.1 Flash-Lite，一款新推出的 Gemini 3 系列模型，具有更快和更具成本效益的特點。</p><h2>Gemini 3.1 Flash-Lite</h2><p>Gemini 3.1 Flash-Lite 是一款新推出的 Gemini 3 系列模型，具有更快和更具成本效益的特點。它可以處理大規模的開發工作負載，提供高質量的結果。Gemini 3.1 Flash-Lite 還可以處理更複雜的工作負載，需要更深入的推理能力，例如生成用戶界面和儀表板，創建模擬和跟隨指令。</p><h2>Apigee API Hub</h2><p>Apigee API Hub 現在支持 OpenAPI v3，允許用戶定義 API 合約和實施關鍵政策。這包括定義 API 合約，實施關鍵政策，例如安全性和流量控制。Apigee API Hub 還提供了新的整合功能，允許用戶自動將 API 合約轉換為 OpenAPI v3 格式。</p><h2>編輯悄悄話</h2><p>Google Cloud 正在不斷推進其 AI 和機器學習技術，為企業提供更好的解決方案。Gemini 3.1 Flash-Lite 和 Apigee API Hub 的推出是 Google Cloud 在 AI 和機器學習領域的又一重大進展。這些技術可以幫助企業提高效率，降低成本，改善用戶體驗。",
+    "score": 95,
+    "takeaways": [
+      "Google Cloud 正在不斷推進其 AI 和機器學習技術，包括 Gemini 和 Apigee",
+      "Gemini 3.1 Flash-Lite 是一款新推出的 Gemini 3 系列模型，具有更快和更具成本效益的特點",
+      "Apigee API Hub 現在支持 OpenAPI v3，允許用戶定義 API 合約和實施關鍵政策"
+    ],
+    "punchline": "Google Cloud 正在不斷推進其 AI 和機器學習技術，為企業提供更好的解決方案",
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "047",
+    "title": "Next.js 跨平台大躍進：Adapter API、OpenNext 和我們的承諾",
+    "summary": "Next.js 16.2 引入了穩定的 Adapter API，讓開發者可以更輕鬆地部署應用程式到各個平台。這是 Next.js 團隊與各大平台提供商合作的成果，讓開發者可以更容易地使用 Next.js。",
+    "content": "<p>你是否曾經想過，如何讓你的 Next.js 應用程式在各個平台上都能夠順暢地運行？這個問題一直是開發者的痛點，直到最近 Next.js 16.2 的發布。新的版本引入了穩定的 Adapter API，讓開發者可以更輕鬆地部署應用程式到各個平台。</p><h2>什麼是 Adapter API？</h2><p>Adapter API 是一個公共的 API，讓開發者可以定義自己的應用程式如何與各個平台交互。它提供了一個標準的介面，讓開發者可以使用相同的代碼在不同的平台上部署應用程式。</p><h2>OpenNext 的角色</h2><p>OpenNext 是一個開源專案，旨在提供一個兼容 Next.js 的平台。它填補了 Next.js 與平台提供商之間的鴻溝，讓開發者可以更容易地使用 Next.js。</p><p>OpenNext 專案由 Next.js 團隊和各大平台提供商合作開發，旨在提供一個標準的介面，讓開發者可以使用相同的代碼在不同的平台上部署應用程式。</p><h2>Next.js 團隊的承諾</h2><p>Next.js 團隊承諾會繼續與各大平台提供商合作，確保 Next.js 的跨平台兼容性。新的 Adapter API 是這個承諾的第一步，讓開發者可以更輕鬆地部署應用程式到各個平台。</p><h2>編輯悄悄話</h2><p>Next.js 的跨平台大躍進是個好消息！新的 Adapter API 和 OpenNext 專案讓開發者可以更容易地使用 Next.js，部署應用程式到各個平台。這是個值得慶祝的里程碑，代表著 Next.js 的未來是跨平台的未來！</p>",
+    "score": 95,
+    "takeaways": [
+      "Next.js 16.2 引入了穩定的 Adapter API，讓開發者可以更輕鬆地部署應用程式到各個平台。",
+      "OpenNext 專案填補了 Next.js 與平台提供商之間的鴻溝，讓開發者可以更容易地使用 Next.js。",
+      "Next.js 團隊與各大平台提供商合作，設計、測試和驗證了 Adapter API，確保了 Next.js 的跨平台兼容性。"
+    ],
+    "punchline": "Next.js 的未來是跨平台的未來！",
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-06-06"
+  }
 ]
