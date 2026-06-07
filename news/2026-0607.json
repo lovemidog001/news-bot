@@ -270,5 +270,124 @@
     "source": "Google DeepMind Blog",
     "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
     "date": "2026-06-07"
+  },
+  {
+    "id": "017",
+    "title": "Harness-1：強化學習訓練的20B參數檢索子智能體登場",
+    "summary": "UIUC和Chroma聯合推出的Harness-1，通過強化學習在一個有狀態搜索框架中訓練，達到0.730平均curated recall",
+    "content": "<p>近年來，搜尋技術的發展迅速，各種搜尋引擎和智能體不斷涌現。但是，如何在海量的資料中快速找到相關的資訊，仍然是一個挑戰。為此，UIUC和Chroma聯合推出了Harness-1，一個基於強化學習訓練的20B參數檢索子智能體。</p>    <h2>什麼是Harness-1？</h2>    <p>Harness-1是一個通過強化學習在一個有狀態搜索框架中訓練的智能體。它可以在一個狀態搜索框架中維護候選池、重要性標注集、證據圖和驗證記錄，從而決定搜索、篩選、驗證及停止的時機。這個框架使得Harness-1可以在搜尋過程中不斷學習和改進，達到更好的搜尋結果。</p>    <h2>Harness-1的優勢</h2>    <p>Harness-1在8個基準測試上達到0.730平均curated recall，比下一個最佳開源子智能體高出11.4個百分點。這表明Harness-1在搜尋技術方面具有明顯的優勢。此外，模型權重和框架代碼均已公開，供開發者使用和研究。</p>    <p>值得注意的是，Harness-1的訓練過程中使用了強化學習和監督式微調，從而使得模型可以在搜尋過程中不斷學習和改進。另外，模型還使用了多種工具和技術，例如句子-BM25和兩級去重，來提高搜尋效率和準確性。</p>    <h2>編輯悄悄話</h2>    <p>Harness-1的出現標誌著搜尋技術的又一次突破。通過強化學習和狀態搜索框架，Harness-1可以在搜尋過程中不斷學習和改進，達到更好的搜尋結果。未來， Harness-1可能會被廣泛應用於各種搜尋引擎和智能體中，從而改善我們的搜尋體驗。同時，開發者也可以利用公開的模型權重和框架代碼，開發出更多的搜尋技術和應用。",
+    "score": 95,
+    "takeaways": [
+      "Harness-1是一個基於強化學習訓練的20B參數檢索子智能體",
+      "它在8個基準測試上達到0.730平均curated recall，比下一個最佳開源子智能體高出11.4個百分點",
+      "模型權重和框架代碼均已公開，供開發者使用"
+    ],
+    "punchline": "這是目前最強的檢索子智能體之一",
+    "image": "https://www.marktechpost.com/wp-content/uploads/2026/06/blog15.png",
+    "source": "AI HOT 精選",
+    "url": "https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "018",
+    "title": "開發者們的救星來了：OpenRouter新增實時緩存命中率視圖",
+    "summary": "OpenRouter新增實時緩存命中率視圖，讓開發者可以快速查看緩存效率，減少token成本",
+    "content": "<p>開發者們常常面臨token成本的挑戰，尤其是在使用不同的模型提供商時。現在，OpenRouter推出了實時緩存命中率視圖，讓開發者可以快速查看緩存效率，減少token成本。</p><h2>什麼是緩存命中率?</h2><p>緩存命中率是指緩存中存儲的資料被成功請求的比例。它是評估緩存效率的重要指標。開發者可以透過Pricing標籤查看實時緩存命中率，從而優化緩存設定，減少token成本。</p><h2>OpenRouter的實時緩存命中率視圖</h2><p>OpenRouter的實時緩存命中率視圖是對開發者們的救星。這項功能可以讓開發者快速查看緩存效率，減少token成本。開發者可以透過Pricing標籤查看實時緩存命中率，從而優化緩存設定，提高應用程式的效率。</p><h2>編輯悄悄話</h2><p>開發者們的生活終於有了改善！OpenRouter的實時緩存命中率視圖是對開發者們的恩惠。現在，開發者可以快速查看緩存效率，減少token成本。這項功能是開發者們的必備工具，讓開發者們可以專注於開發應用程式，而不用擔心token成本。",
+    "score": 85,
+    "takeaways": [
+      "開發者可以透過Pricing標籤查看實時緩存命中率",
+      "OpenRouter新增實時緩存命中率視圖",
+      "這項功能對於關注token成本的開發者來說非常有用"
+    ],
+    "punchline": "token成本，讓開發者們頭痛不已",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/OpenRouter/status/2063504950429147376",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "019",
+    "title": "設計大對決：GPT-5.5 VS Opus 4.8，誰是真正的冠軍",
+    "summary": "寶玉對比了 GPT-5.5 和 Opus 4.8 的設計能力，發現 Opus 4.8 的效果遠優於 GPT-5.5",
+    "content": "<p>設計是創造力和技術的結合，好的設計工具可以讓我們的工作更加高效和便捷。最近，寶玉對比了 GPT-5.5 和 Opus 4.8 的設計能力，發現 Opus 4.8 的效果遠優於 GPT-5.5。</p>  <h2>設計工具的選擇</h2>  <p>在設計工具的選擇上，寶玉使用了基于Cursor瀏覽器和元素標注的baoyu-design Skill，该Skill通过npx skills add JimLiu/baoyu-design安裝，可在本地運行：描述屏幕需求即可生成精良HTML，點擊預覽中任意元素即可發出修改指令。官方推薦搭配Opus 4.8以獲得最佳效果。</p>  <h2>設計效果的比較</h2>  <p>寶玉對比了 GPT-5.5 和 Opus 4.8 的設計效果，發現 Opus 4.8 的效果遠優於 GPT-5.5。Opus 4.8 的設計效果更加精良和細膩，讓人感覺到設計的美感和實用性。另一方面，GPT-5.5 的設計效果則稍遜一些，缺乏細膩和美感。</p>  <h2>編輯悄悄話</h2>  <p>設計就像魔法，一切皆有可能。好的設計工具可以讓我們的工作更加高效和便捷，讓我們的創造力得以發揮。所以，選擇適合自己的設計工具是非常重要的。寶玉的對比讓我們看到 Opus 4.8 的設計效果遠優於 GPT-5.5，讓我們對設計工具的選擇有了新的思考。",
+    "score": 85,
+    "takeaways": [
+      "GPT-5.5 和 Opus 4.8 是兩種不同的設計工具",
+      "Opus 4.8 的設計效果遠優於 GPT-5.5",
+      "baoyu-design Skill 可以生成精良的 HTML 代碼"
+    ],
+    "punchline": "設計就像魔法，一切皆有可能",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/dotey/status/2063464057647075379",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "020",
+    "title": "AI 寫程式的時代：Harness 工程團隊的 Codex 實驗",
+    "summary": "Harness 工程團隊利用 OpenAI Codex 開發了一個軟體產品，無需手動撰寫任何程式碼，團隊的工作重心從撰寫程式碼轉移到設計環境、指定意圖和建立反饋迴路",
+    "content": "<p>在智能體優先的世界中，工程師的工作方式正在發生根本性的變化。Harness 工程團隊最近進行了一個實驗，利用 OpenAI Codex 開發了一個軟體產品，無需手動撰寫任何程式碼。這個實驗的結果令人震驚，團隊在 5 個月內完成了約 100 萬行程式碼的開發。</p>    <h2>從撰寫程式碼到設計環境</h2>    <p>在這個實驗中，團隊的工作重心從撰寫程式碼轉移到設計環境、指定意圖和建立反饋迴路。工程師不再需要撰寫程式碼，而是需要設計一個讓 AI 可以有效工作的環境。這個環境包括了一系列的工具、抽象和內部結構，讓 AI 可以完成高級別的任務。</p>    <p>團隊使用了一種叫做「Ralph Wiggum Loop」的方法，讓 AI 可以反覆迭代和完善自己的程式碼。這種方法可以大幅增加工程速度，讓團隊可以在短時間內完成大量的工作。</p>    <h2>未來的工程師</h2>    <p>這個實驗的結果對於未來的工程師來說有着重要的意義。隨著 AI 技術的發展，工程師的工作方式將會發生根本性的變化。未來的工程師需要具有設計環境、指定意圖和建立反饋迴路的能力，而不是單純地撰寫程式碼。</p>    <h2>編輯悄悄話</h2>    <p>這個實驗的結果讓我們看到了 AI 技術的強大潛力。未來，工程師將會與 AI 共同工作，設計和建立智能體優先的世界。這個世界將會是更加高效、更加智能和更加美好的。所以，讓我們一起期待這個未來的到來吧！",
+    "score": 95,
+    "takeaways": [
+      "Harness 工程團隊利用 OpenAI Codex 開發了一個軟體產品，無需手動撰寫任何程式碼",
+      "團隊的工作重心從撰寫程式碼轉移到設計環境、指定意圖和建立反饋迴路",
+      "這種方法可以大幅增加工程速度，團隊在 5 個月內完成了約 100 萬行程式碼的開發"
+    ],
+    "punchline": "讓程式碼自己寫自己",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2TjayW57xam6dBbbV28sae/887861e21b8d205c2c392ec5315d3681/SEO.png?w=1600&h=900&fit=fill",
+    "source": "AI HOT 精選",
+    "url": "https://openai.com/index/harness-engineering",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "021",
+    "title": "AI戰爭最新進展：馬斯克失敗、Google發力、OpenAI崛起",
+    "summary": "埃隆·馬斯克對OpenAI的訴訟失敗，Google在IO 2026會議上推出AI更新，OpenAI準備進行IPO",
+    "content": "<p>近期，AI界發生了重大變化。埃隆·馬斯克對OpenAI的訴訟失敗，意味著OpenAI可以順利進行IPO。同時，Google在IO 2026會議上推出了一系列AI更新，包括Gemini Spark和Antigravity 2.0，目的是要與OpenAI和Anthropic競爭。</p>    <h2>馬斯克訴訟失敗</h2>    <p>埃隆·馬斯克對OpenAI的訴訟失敗，主要是因為他遲遲未能提出訴訟。馬斯克指控OpenAI的創始人Sam Altman和Greg Brockman「竊取」了一個非營利組織，並要求賠償1500億美元。然而，法院最終判決馬斯克的訴訟失敗，理由是他已經知道OpenAI的商業化轉型，但遲遲未能提出訴訟。</p>    <h2>Google發力AI</h2>    <p>Google在IO 2026會議上推出了一系列AI更新，包括Gemini Spark和Antigravity 2.0。Gemini Spark是一個基於Gemini底層模型的24/7雲端個人AI代理，能夠與Gmail、Google Docs和Workspace等應用程序無縫整合。Antigravity 2.0是一個更新的桌面應用程序和CLI工具，能夠幫助用戶更好地使用Google的AI功能。</p>    <h2>編輯悄悄話</h2>    <p>AI時代來臨，誰是贏家？馬斯克的失敗和Google的發力，意味著AI界的競爭將更加激烈。OpenAI的IPO潛在估值高達1萬億美元，可能成為史上最大IPO之一。未來，AI將如何發展，誰將是贏家？這些問題將在未來的發展中逐漸明朗。",
+    "score": 95,
+    "takeaways": [
+      "埃隆·馬斯克對OpenAI的訴訟失敗，意味著OpenAI可以順利進行IPO",
+      "Google在IO 2026會議上推出了一系列AI更新，包括Gemini Spark和Antigravity 2.0",
+      "OpenAI的IPO潛在估值高達1萬億美元，可能成為史上最大IPO之一"
+    ],
+    "punchline": "AI時代來臨，誰是贏家？",
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "022",
+    "title": "AI 將如何改變我們的工作和生活？",
+    "summary": "本文探討了 AI 對工作和生活的影響，包括評估指標的缺陷、自動化的影響、AI 模型的發展等",
+    "content": "<p>人工智慧（AI）工具的評估指標往往存在缺陷，Greg Wilson 就指出這一點。他認為，無論是使用行代碼生成、票務關閉還是開發者感受到的生產力，都存在各自的缺陷。</p>    <h2>自動化的影響</h2>    <p>Benedict Evans 觀察到，自動化不一定會導致職業的消失，反而可能會增加需求。他以會計業為例，過去一世紀以來，會計業的自動化程度不斷提高，但會計師的數量卻不斷增加。</p>    <p>Stephen O’Grady 研究了封閉和開放模型在基準測試中的表現，他發現封閉模型正在設定創新步伐，開放模型正在趕上。然而，無論是哪種模型，其能力都在不斷提高，什麼是最好的評估指標仍然是一個問題。</p>    <h2>AI 模型的發展</h2>    <p>AI 模型的發展速度快，但其應用仍需要人們的關注和評估。 Jamie Hurst 就指出，使用 LLMs 可以提高生產力，但也可能導致可持續性問題。他認為，組織需要重新評估其目標和優先事項，以便更好地利用 AI 技術。</p>    <p>Andy Osmani 指出，使用 AI 代理需要設計合理的工作流程，否則可能會導致混亂。他認為，人們需要關注自己的注意力和時間，才能更好地利用 AI 技術。</p>    <h2>編輯悄悄話</h2>    <p>AI 將如何改變我們的工作和生活？這是一個值得思考的問題。雖然 AI 技術已經取得了巨大的進步，但其應用仍需要人們的關注和評估。無論是評估指標的缺陷、自動化的影響還是 AI 模型的發展，都需要人們的關注和思考。只有這樣，才能真正發揮 AI 技術的潛力，改善我們的工作和生活。",
+    "score": 95,
+    "takeaways": [
+      "人工智慧（AI）工具的評估指標往往存在缺陷",
+      "自動化不一定會導致職業的消失，反而可能會增加需求",
+      "AI 模型的發展速度快，但其應用仍需要人們的關注和評估"
+    ],
+    "punchline": "AI 是雙刃劍，能帶來便利，也可能造成混亂",
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-06-02.html",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "023",
+    "title": "Endava 如何利用 AI 重新定義軟體交付和工作流程",
+    "summary": "Endava，一家全球科技服務公司，透過將 AI 融入日常工作，重新定義軟體交付和工作流程，創造了一個 AI 原生的文化，推動企業的創新和成長",
+    "content": "<p>在當今快速變化的科技世界中，企業需要不斷地創新和改變，以保持競爭力。Endava，一家全球科技服務公司，正透過將 AI 融入日常工作，重新定義軟體交付和工作流程，創造了一個 AI 原生的文化，推動企業的創新和成長。</p><h2>Endava 的 AI 轉型之路</h2><p>Endava 的 CTO Matthew Cloke 表示，AI 對公司的影響非常深遠，需要重新思考工作流程、領導行為和團隊合作的方式。因此，Endava 選擇將 OpenAI 作為其企業 AI 平台，讓員工可以使用 ChatGPT Enterprise 和 Codex 等工具，將 AI 融入日常工作中。</p><p>透過這個轉型，Endava 創造了一個名為 DavaFlow 的 AI 原生交付方法論，讓員工可以更快速地開發軟體和解決問題。同時，AI 也被應用於各個部門，例如法律、項目管理和商業規劃等，提高了工作效率和創新能力。</p><h2>Endava 的未來展望</h2><p>Endava 相信，AI 將成為未來企業的運營模式，而不僅僅是一層生產力工具。因此，公司正在努力將 AI 融入各個方面，包括工作流程、模型、代理和人工專長等，創造一個完整的 AI 生態系統。</p><p>對於仍然處於 AI 旅程初期的企業，Cloke 的建議是直接開始使用 AI 技術，讓員工親身體驗 AI 的力量和潛力。因為，未來已經來臨，你只需要勇敢邁出第一步。</p><h2>編輯悄悄話</h2><p>在這個快速變化的世界中，企業需要不斷地創新和改變，以保持競爭力。Endava 的 AI 轉型之路，為我們提供了一個很好的範例，讓我們看到 AI 如何融入日常工作，重新定義軟體交付和工作流程，創造一個 AI 原生的文化，推動企業的創新和成長。因此，讓我們一起勇敢邁出第一步，開始使用 AI 技術，創造一個更美好的未來吧！",
+    "score": 95,
+    "takeaways": [
+      "Endava 將 AI 融入日常工作，重新定義軟體交付和工作流程",
+      "透過 AI 的力量，Endava 創造了一個 AI 原生的文化，推動企業的創新和成長",
+      "Endava 的轉型過程中，重視員工的實驗和創新精神，讓 AI 成為解決問題的首選工具"
+    ],
+    "punchline": "未來已經來臨，你只需要勇敢邁出第一步",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4gxDAOkxUXKVkAcM8eGhNj/03482b84b74c225d36ad173865b67b14/oai_Endava_SEO.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/endava-frontiers",
+    "date": "2026-06-07"
   }
 ]
