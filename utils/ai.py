@@ -64,140 +64,94 @@ def build_prompt(text):
 
 # ── NVIDIA ──
 def call_nvidia(text, model="meta/llama-3.1-70b-instruct"):
-
     api_key = os.getenv("NVIDIA_API_KEY")
-
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"
     }
-
     payload = {
         "model": model,
-        "messages": [
-            {
-                "role": "user",
-                "content": build_prompt(text)
-            }
-        ],
+        "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
         "top_p": 0.9,
         "max_tokens": 2000
     }
-
     response = requests.post(
         "https://integrate.api.nvidia.com/v1/chat/completions",
         headers=headers,
         json=payload,
         timeout=60
     )
-
     response.raise_for_status()
-
     return response.json()["choices"][0]["message"]["content"]
-
 
 # ── Gemini ──
 def call_gemini(text, model="gemini-1.5-flash"):
-
     api_key = os.getenv("GEMINI_API_KEY")
-
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
-
+    if not api_key:
+        raise Exception("缺少 GEMINI_API_KEY 環境變數")
+    
+    # 採用 params 方式傳遞 key 最為穩健
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     payload = {
-        "contents": [
-            {
-                "parts": [
-                    {
-                        "text": build_prompt(text)
-                    }
-                ]
-            }
-        ],
+        "contents": [{"parts": [{"text": build_prompt(text)}]}],
         "generationConfig": {
             "temperature": 0.6,
             "maxOutputTokens": 2000
         }
     }
-
     response = requests.post(
         url,
+        params={'key': api_key},
         json=payload,
         timeout=60
     )
-
     response.raise_for_status()
-
     return response.json()["candidates"][0]["content"]["parts"][0]["text"]
-
 
 # ── DeepSeek ──
 def call_deepseek(text, model="deepseek-chat"):
-
     api_key = os.getenv("DEEPSEEK_API_KEY")
-
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"
     }
-
     payload = {
         "model": model,
-        "messages": [
-            {
-                "role": "user",
-                "content": build_prompt(text)
-            }
-        ],
+        "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
         "max_tokens": 2000
     }
-
     response = requests.post(
         "https://api.deepseek.com/chat/completions",
         headers=headers,
         json=payload,
         timeout=60
     )
-
     response.raise_for_status()
-
     return response.json()["choices"][0]["message"]["content"]
-
 
 # ── Groq ──
 def call_groq(text, model="llama-3.3-70b-versatile"):
-
     api_key = os.getenv("GROQ_API_KEY")
-
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json"
     }
-
     payload = {
         "model": model,
-        "messages": [
-            {
-                "role": "user",
-                "content": build_prompt(text)
-            }
-        ],
+        "messages": [{"role": "user", "content": build_prompt(text)}],
         "temperature": 0.6,
         "max_tokens": 2000
     }
-
     response = requests.post(
         "https://api.groq.com/openai/v1/chat/completions",
         headers=headers,
         json=payload,
         timeout=60
     )
-
     response.raise_for_status()
-
     return response.json()["choices"][0]["message"]["content"]
-
 
 # ── Provider 對應表 ──
 PROVIDER_MAP = {
@@ -207,69 +161,38 @@ PROVIDER_MAP = {
     "nvidia": call_nvidia,
 }
 
-
 # ── JSON 安全解析 ──
 def safe_json_parse(output: str):
-
     cleaned = re.sub(r'[\x00-\x1F\x7F]', '', output)
-
     try:
         return json.loads(cleaned)
-
     except Exception:
-
         match = re.search(r'\{.*\}', cleaned, re.DOTALL)
-
         if match:
-
             try:
                 return json.loads(match.group())
-
             except Exception:
                 return None
-
     return None
 
-
 # ── Fallback ──
-def call_ai_with_fallback(
-    text,
-    fallback_chain=["deepseek", "gemini", "groq", "nvidia"]
-):
-
+def call_ai_with_fallback(text, fallback_chain=["deepseek", "gemini", "groq", "nvidia"]):
     last_error = None
-
     for provider in fallback_chain:
-
         fn = PROVIDER_MAP.get(provider)
-
         if not fn:
             continue
-
         try:
-
             print(f"[Fallback] 嘗試 {provider}...")
-
             result = fn(text)
-
             parsed = safe_json_parse(result)
-
             if not parsed:
                 print(f"[Fallback] {provider} JSON 解析失敗")
                 continue
-
             print(f"[Fallback] {provider} 成功")
-
             return parsed, provider
-
         except Exception as e:
-
             print(f"[Fallback] {provider} 失敗：{e}")
-
             last_error = e
-
             continue
-
     raise Exception(f"所有 AI Provider 均失敗：{last_error}")
-
-  
