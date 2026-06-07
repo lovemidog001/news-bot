@@ -389,5 +389,107 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/endava-frontiers",
     "date": "2026-06-07"
+  },
+  {
+    "id": "024",
+    "title": "農場也能有『超級工程師』？北海道農民的8大AI應用秘訣",
+    "summary": "北海道農民富安弘毅透過ChatGPT和Codex解決農場實際問題，包括西蘭花病害識別、衛星監測等",
+    "content": "<p>你是否曾想過，農場也可以有『超級工程師』？日本北海道農民富安弘毅就透過AI技術，實現了農場管理的智慧化。他利用ChatGPT和Codex，解決了農場中的實際問題，包括西蘭花病害識別、衛星監測等。</p><h2>西蘭花病害識別</h2><p>富安弘毅利用ChatGPT拍照識別西蘭花病害，無需親自檢查就能快速判斷病害的嚴重程度。這項技術不僅節省了時間，也提高了病害的準確率。</p><p>此外，富安弘毅還利用衛星監測技術，獲取NDVI數據，從而監測農作物的生長情況。這項技術可以幫助農民調整農作物的施肥、澆水等管理措施，從而提高農作物的產量和質量。</p><h2>農場管理的智慧化</h2><p>富安弘毅透過AI技術，實現了農場管理的智慧化。他利用ESP32和LINE機器人遠程控制溫室卷帘，為農場群聊開發機器人管理溫度與排期。這項技術可以幫助農民實現遠程管理，節省時間和成本。</p><p>此外，富安弘毅還利用Airtable設計了農場管理數據庫，從而實現了農場管理的數據化和智慧化。這項技術可以幫助農民快速查詢和分析農場的管理數據，從而做出更好的管理決策。</p><h2>編輯悄悄話</h2><p>農民富安弘毅的故事，讓我們看到AI技術在農場管理中的巨大潛力。透過AI技術，農民可以實現農場管理的智慧化，提高農作物的產量和質量，節省時間和成本。這項技術的應用，不僅對農民有益，也對整個農業產業有著深遠的影響。所以，農場也可以有『超級工程師』？答案是肯定的，只要你願意嘗試和創新，AI技術就會成為你的『超級工程師』，幫助你實現農場管理的智慧化和高效化。</p>",
+    "score": 95,
+    "takeaways": [
+      "北海道農民富安弘毅利用AI解決農場實際問題",
+      "AI技術讓傳統昂貴的自動化變得低成本可及",
+      "農場管理可以透過AI實現智慧化"
+    ],
+    "punchline": "AI是我的超級工程師",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/AYi_AInotes/status/2063573709672104286",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "025",
+    "title": "會話分析新時代：Her工具讓開發者更輕鬆",
+    "summary": "Her是一款專為Claude Code設計的會話分析工具，能夠重建會話、標記高風險操作並給出改进建議",
+    "content": "<p>隨著人工智慧技術的發展，會話分析工具也越來越重要。近日，Hugging Face推出了Her，一款專為Claude Code設計的會話分析工具。Her能夠重建會話、標記高風險操作並給出改进建議，讓開發者更輕鬆地進行會話分析。</p>  <h2>Her的功能</h2>  <p>Her的功能非常強大，包括會話重建、標記高風險操作、改进建議等。使用者可以上傳.jsonl文件，Her就會使用自然語言重建每輪交互，標記部署、配置變更、秘密等高風險操作並定位到具體輪次。另外，Her還可以展示token消耗、所用工具、子智能體、技能和MCP伺服器等信息。</p>  <h2>Ask Her問答功能</h2>  <p>Her內置了Ask Her問答功能，支持單會話與跨會話項目分析。使用者可以通過Ask Her問答功能，快速地獲得會話分析的結果。同時，Her還結合了Anthropic與社群最佳實踐，給出改进建議（僅在有明確可修復模式時）。這讓開發者可以更快速地進行會話分析和優化。</p>  <h2>編輯悄悄話</h2>  <p>Her的推出，讓會話分析變得更簡單。開發者可以使用Her快速地進行會話分析，找出高風險操作並給出改进建議。同時，Her的Ask Her問答功能，也讓使用者可以快速地獲得會話分析的結果。讓我們一起體驗Her的強大功能，讓會話分析變得更輕鬆!",
+    "score": 95,
+    "takeaways": [
+      "Her是一款會話分析工具，適用於Claude Code",
+      "Her可以重建會話、標記高風險操作並給出改进建議",
+      "Her內置Ask Her問答功能，支持單會話與跨會話項目分析"
+    ],
+    "punchline": "讓會話分析變得更簡單",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/67b09a0bbac2756ce900a8fa/ozXSsTQid-4zpTQm1JgAZ.png",
+    "source": "AI HOT 精選",
+    "url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "026",
+    "title": "NVIDIA RTX Spark 來襲：將革新 Windows PC 的遊戲體驗",
+    "summary": "NVIDIA 推出 RTX Spark 超芯片，將革新 Windows PC 的遊戲體驗，支援全天續航和高效能運算",
+    "content": "<p>NVIDIA 創辦人兼 CEO Jensen Huang 前往韓國，正式介绍 RTX Spark 超芯片。這個芯片集合 30 年 NVIDIA 技術，將革新 Windows PC 的遊戲體驗。</p>    <h2>RTX Spark 的強大功能</h2>    <p>RTX Spark 支援全天續航和高效能運算，讓遊戲變得更流暢和真實。它還支援包括 DLSS 4.5 Ray Reconstruction 在內的全套 RTX 技術，讓遊戲變得更強大和逼真。</p>    <ul>      <li>支援 1440p 分辨率和超過 100fps 的運算</li>      <li>支援 NVIDIA ray tracing、DLSS 和 Reflex 技術</li>      <li>支援全套 RTX 技術，包括 DLSS 4.5 Ray Reconstruction</li>    </ul>    <h2>遊戲開發商的合作</h2>    <p>多家遊戲開發商合作，將帶來更多高品質遊戲內容。KRAFTON、NC 和 Riot Games 等公司已經開始合作，將他們的遊戲帶到 RTX Spark 平台上。</p>    <p>在韓國，NVIDIA 和遊戲開發商合作，帶來更多高品質遊戲內容。T1 Base Camp 和 Optimum Zone PC 等 PC 房，也參與了這次活動，讓玩家體驗 RTX Spark 的強大功能。</p>    <h2>編輯悄悄話</h2>    <p>RTX Spark 的推出，標誌著 Windows PC 的遊戲體驗將會有所改變。它強大的功能和高效能運算，將讓遊戲變得更流暢和真實。作為玩家，我們可以期待更多高品質遊戲內容的推出。讓我們一起期待 RTX Spark 的未來發展吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "NVIDIA 推出 RTX Spark 超芯片，將革新 Windows PC 的遊戲體驗",
+      "RTX Spark 集合 30 年 NVIDIA 技術，支援全天續航和高效能運算",
+      "多家遊戲開發商合作，將帶來更多高品質遊戲內容"
+    ],
+    "punchline": "RTX Spark 讓遊戲變得更強大",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/jhh-t1-group-photo-1920x1080-1.jpg",
+    "source": "AI HOT 精選",
+    "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "027",
+    "title": "程式碼變得更容易編寫！OpenAI 推出代碼生成工具 Codex",
+    "summary": "開放式人工智慧公司 OpenAI 推出代碼生成工具 Codex，讓開發人員更容易編寫程式碼。Codex 可以根據自然語言的描述生成程式碼，讓開發人員更快地完成開發任務。",
+    "content": "<p>近年來，人工智慧技術在程式開發領域的應用越來越廣泛。開放式人工智慧公司 OpenAI 近日推出了一款代碼生成工具 Codex，讓開發人員更容易編寫程式碼。</p><h2>什麼是 Codex？</h2><p>Codex 是一款基於人工智慧的代碼生成工具，可以根據自然語言的描述生成程式碼。開發人員只需要輸入程式碼的描述，Codex 就可以生成相應的程式碼。這樣可以讓開發人員更快地完成開發任務，提高開發效率。</p><h2>OpenAI 的 Codex 挑戰賽</h2><p>為了鼓勵開發人員使用 Codex 生成程式碼，OpenAI 推出了 Codex 挑戰賽。參賽者需要使用 Codex 生成程式碼，然後提交自己的作品。評審團將根據作品的質量和創新性進行評選，選出優勝者。</p><p>開發人員可以通過參加 Codex 挑戰賽來提升自己的開發技能，同時也可以獲得豐厚的獎勵。OpenAI 希望通過這次挑戰賽來激發開發人員的創造力，推動程式開發領域的進步。</p><h2>編輯悄悄話</h2><p>你想成為一名高效的開發人員嗎？那麼你一定要試試 OpenAI 的 Codex！這款工具可以讓你更容易編寫程式碼，提高開發效率。參加 Codex 挑戰賽吧，你可能會獲得意想不到的驚喜！</p>",
+    "score": 85,
+    "takeaways": [
+      "開放式人工智慧公司 OpenAI 推出代碼生成工具 Codex，讓開發人員更容易編寫程式碼。",
+      "Codex 可以根據自然語言的描述生成程式碼，讓開發人員更快地完成開發任務。",
+      "OpenAI 的 Codex 挑戰賽鼓勵開發人員使用 Codex 生成程式碼，提升開發效率。"
+    ],
+    "punchline": "讓程式碼變得更容易編寫！",
+    "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/build-small-hackathon/sponsors-vouchers.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "028",
+    "title": "人工智慧的最新發展：挑戰谷歌、保護鯨魚、版權風波",
+    "summary": "阿里巴巴的Qwen3.7-Max模型挑戰谷歌的第三名位置，人工智慧技術被應用於保護鯨魚，同時人工智慧模型的微調可能會導致版權問題",
+    "content": "<p>近期，人工智慧技術取得了多項突破性的進展。阿里巴巴的Qwen3.7-Max模型挑戰谷歌的第三名位置，展現出人工智慧在語言模型上的進步。</p>    <h2>人工智慧保護鯨魚</h2>    <p>人工智慧技術被應用於保護鯨魚，透過熱感攝影技術偵測鯨魚並提醒船隻。這項技術可以有效地減少鯨魚被船隻撞擊的風險，保護這些海洋生物的安全。</p>    <h2>人工智慧模型的微調與版權問題</h2>    <p>人工智慧模型的微調可能會導致版權問題，需要謹慎評估其對知識產權的影響。研究人員發現，微調人工智慧模型可能會導致它們產生大量的抄襲內容，侵犯原作者的權益。</p>    <p>因此，開發人員需要謹慎評估人工智慧模型的微調對知識產權的影響，確保其不會侵犯原作者的權益。同時，政府和相關機構也需要制定相關的法律和規範，規範人工智慧模型的微調和應用，保護原作者的權益。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧技術的進步為我們帶來了許多便利和效率的提高，但是也需要我們謹慎評估其對社會和個人的影響。作為科技工作者和使用者，我們需要共同努力，確保人工智慧技術的發展和應用是合理的、安全的和有益的。</p>",
+    "score": 95,
+    "takeaways": [
+      "阿里巴巴的Qwen3.7-Max模型挑戰谷歌的第三名位置，展現出人工智慧在語言模型上的進步",
+      "人工智慧技術被應用於保護鯨魚，透過熱感攝影技術偵測鯨魚並提醒船隻",
+      "人工智慧模型的微調可能會導致版權問題，需要謹慎評估其對知識產權的影響"
+    ],
+    "punchline": "人工智慧正在改變世界",
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-356",
+    "date": "2026-06-07"
+  },
+  {
+    "id": "029",
+    "title": "Google Cloud 新功能大盤點：BigQuery Graph、Apigee X 和 Gemini",
+    "summary": "Google Cloud 正在不斷推出新的功能和工具，例如 BigQuery Graph、Apigee X 和 Gemini，來幫助企業更好地使用 AI 和機器學習。這些功能和工具可以幫助企業解決 API 管理、事件處理和安全性等挑戰。",
+    "content": "<p>Google Cloud 正在不斷推出新的功能和工具，例如 BigQuery Graph、Apigee X 和 Gemini，來幫助企業更好地使用 AI 和機器學習。</p>  <h2>BigQuery Graph</h2>  <p>BigQuery Graph 是一個新的功能，允許企業建立數據圖譜，實現數據之間的關聯性分析。這個功能可以幫助企業更好地理解數據之間的關係，實現更精確的預測和決策。</p>  <h2>Apigee X</h2>  <p>Apigee X 是一個新的 API 管理平台，允許企業建立、管理和安全地部署 API。這個平台可以幫助企業實現 API 的企業級部署，提高 API 的安全性和可靠性。</p>  <h2>Gemini</h2>  <p>Gemini 是一個新的 AI 平台，允許企業建立和部署 AI 模型。這個平台可以幫助企業實現 AI 的企業級部署，提高 AI 的安全性和可靠性。</p>  <h2>編輯悄悄話</h2>  <p>Google Cloud 的新功能和工具可以幫助企業解決 API 管理、事件處理和安全性等挑戰。企業可以使用 Apigee X 和 Gemini 來建立安全的 AI 管理層，並實現 AI 的企業級部署。同時，BigQuery Graph 可以幫助企業更好地理解數據之間的關係，實現更精確的預測和決策。</p>",
+    "score": 92,
+    "takeaways": [
+      "Google Cloud 正在不斷推出新的功能和工具，例如 BigQuery Graph、Apigee X 和 Gemini，來幫助企業更好地使用 AI 和機器學習。",
+      "企業可以使用 Apigee X 和 Gemini 來建立安全的 AI 管理層，並實現 AI 的企業級部署。",
+      "Google Cloud 的新功能和工具可以幫助企業解決 API 管理、事件處理和安全性等挑戰。"
+    ],
+    "punchline": "Google Cloud 正在不斷推動 AI 和機器學習的發展，幫助企業更好地使用這些技術。",
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+    "date": "2026-06-07"
   }
 ]
