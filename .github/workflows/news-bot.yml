@@ -2,10 +2,10 @@ name: AI News Bot
 
 on:
   schedule:
-     # UTC 03:00 → 台灣 11:00 → 美國東部 23:00
-     # UTC 11:00 → 台灣 19:00 → 美國東部 07:00
-     # UTC 15:00 → 台灣 23:00 → 美國東部 11:00
-     # UTC 23:00 → 台灣 07:00（隔天） → 美國東部 19:00  
+    # UTC 03:00 → 台灣 11:00 → 美國東部 23:00
+    # UTC 11:00 → 台灣 19:00 → 美國東部 07:00
+    # UTC 15:00 → 台灣 23:00 → 美國東部 11:00
+    # UTC 23:00 → 台灣 07:00（隔天） → 美國東部 19:00  
     - cron: '5 03,11,15,23 * * *'
   workflow_dispatch:
 
@@ -37,11 +37,17 @@ jobs:
 
       - name: Commit JSON Files
         run: |
+          # 1. 配置 Git 用戶資訊
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
+          
+          # 2. 核心修正：推檔前先同步遠端變更，避免 rejected 錯誤
+          git pull --rebase origin main
+          
+          # 3. 提交變更並推送回主分支
           git add news/
           git commit -m "Auto update news $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
-          git push
+          git push origin main
 
       - name: Clear Serv00 Cache
         run: |
