@@ -1,10 +1,5 @@
 [
   {
-    "name": "量子位",
-    "url": "https://www.qbitai.com/feed",
-    "category": "AI & Machine Learning"
-  },
-  {
     "name": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "category": "AI & Machine Learning"
@@ -40,24 +35,9 @@
     "category": "General Tech"
   },
   {
-    "name": "宝玉的分享",
-    "url": "https://baoyu.io/feed.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "掘金本周最热",
-    "url": "https://rsshub.bestblogs.dev/juejin/trending/all/weekly",
-    "category": "Development & DevOps"
-  },
-  {
     "name": "deeplearning.ai",
     "url": "https://rsshub.bestblogs.dev/deeplearning/the-batch",
     "category": "AI & Machine Learning"
-  },
-  {
-    "name": "腾讯技术工程",
-    "url": "https://wechat2rss.bestblogs.dev/feed/1e0ac39f8952b2e7f0807313cf2633d25078a171.xml",
-    "category": "General Tech"
   },
   {
     "name": "ByteByteGo Newsletter",
