@@ -91,8 +91,8 @@ def call_gemini(text, model="gemini-1.5-flash"):
     if not api_key:
         raise Exception("缺少 GEMINI_API_KEY 環境變數")
     
-    # 採用 params 方式傳遞 key 最為穩健
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+    # 採用官方推薦的 v1beta 格式
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
     payload = {
         "contents": [{"parts": [{"text": build_prompt(text)}]}],
         "generationConfig": {
@@ -102,7 +102,6 @@ def call_gemini(text, model="gemini-1.5-flash"):
     }
     response = requests.post(
         url,
-        params={'key': api_key},
         json=payload,
         timeout=60
     )
