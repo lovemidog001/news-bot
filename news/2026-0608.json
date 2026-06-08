@@ -202,5 +202,192 @@
     "source": "Google DeepMind Blog",
     "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
     "date": "2026-06-08"
+  },
+  {
+    "id": "013",
+    "title": "CoreWeave 的計算市場觀：看見真實的需求",
+    "summary": "CoreWeave 分析了計算市場的增長和限制因素，提供了對市場的獨特見解",
+    "content": "<p>近期，CoreWeave 進行了一項對計算市場的分析，揭示了推動市場增長的因素和限制市場增長的因素。作為 AI 算力的重要供應商，CoreWeave 的市場看法對於理解計算市場的真實需求具有重要意義。</p>    <h2>計算市場的推動因素</h2>    <p>CoreWeave 的分析指出，計算市場的增長主要由以下幾個因素推動：首先，AI 和機器學習的應用越來越廣泛，對計算能力的需求不斷增加；其次，雲計算和邊緣計算的發展使得計算資源更加便捷和可擴展；最後，5G 和物联网的應用使得計算能力的需求更加多樣化。</p>    <h2>計算市場的限制因素</h2>    <p>同時，CoreWeave 的分析也指出，計算市場的增長受到以下幾個因素的限制：首先，計算能力的成本和能耗仍然是重要的限制因素；其次，計算資源的安全性和隱私保護仍然是重要的挑戰；最後，計算市場的標準化和互操作性仍然需要進一步改善。</p>    <h2>編輯悄悄話</h2>    <p>CoreWeave 的市場看法對於我們理解計算市場的真實需求具有重要意義。作為 AI 算力的重要供應商，CoreWeave 的分析為我們提供了對計算市場的獨特見解。同時，計算市場的增長和限制因素也提醒我們，計算能力的成本、安全性和標準化仍然是重要的挑戰。讓我們繼續關注計算市場的發展，共同推動計算能力的進步和應用！",
+    "score": 85,
+    "takeaways": [
+      "CoreWeave 分析了計算市場的推動因素",
+      "該公司的市場看法圍繞著增長和限制展開",
+      "CoreWeave 是 AI 算力的重要供應商"
+    ],
+    "punchline": "摸到真實供需的脈搏",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/how-coreweave-sees-the-market-for-compute-right-now",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "014",
+    "title": "PixVerse CPP 2.0 啟動：AI 视频创作者的夢想之旅",
+    "summary": "PixVerse 宣布 Creative Partner Program 2.0 正式上线，面向 AI 视频创作者，提供真实创作、发布、测试、教学、故事片及公开推广新想法的平台",
+    "content": "<p>PixVerse 宣布 CPP 2.0 面向 AI 视频创作者，這是一個為創作者提供豐富獎勵和資源的平台。該計劃圍繞真實創作，包括發布、測試、教學、故事片及公開推廣新想法，讓創作者可以發揮自己的想象力和創造力。</p>  <h2>核心福利</h2>  <p>CPP 2.0 的核心福利包括每周最高可獲得 150,000 credits 和每周 $2,500 現金獎池，單個創作者單周最高可獲得 $850。此外，對大項目、教程、測試內容和電影節投稿提供特別支持，讓創作者可以獲得更多曝光、項目機會及與 PixVerse 共創的可能。</p>  <h2>參與機會</h2>  <p>創作者可以通過 PixVerse 官網申請參與 CPP 2.0，獲得豐富的獎勵和資源。同時， PixVerse 也提供了更多的項目機會和與創作者共創的可能，讓創作者可以發揮自己的才能和創造力。這是一個為創作者提供無限可能的平台，讓創造力無限，獎勵不斷。</p>  <h2>編輯悄悄話</h2>  <p>這個消息對於 AI 视频创作者來說是一個夢想之旅，豐富的獎勵和資源讓創作者可以發揮自己的想象力和創造力。同時， PixVerse 也提供了更多的項目機會和與創作者共創的可能，讓創作者可以獲得更多曝光和認可。這是一個為創作者提供無限可能的平台，讓創造力無限，獎勵不斷。所以，創作者們快來參與 CPP 2.0，發揮自己的才能和創造力，獲得豐富的獎勵和資源吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "PixVerse 宣布 CPP 2.0 面向 AI 视频创作者",
+      "核心福利包括每周最高 150,000 credits 和 $2,500 现金奖池",
+      "参与者可获得更多曝光、项目机会及与 PixVerse 共创的可能"
+    ],
+    "punchline": "創造力無限，獎勵不斷",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/PixVerse_/status/2063890444413706442",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "015",
+    "title": "高德推出全球首个3D原生城市世界模型：ABot-Earth0.5",
+    "summary": "高德发布全球首个3D原生城市世界模型ABot-Earth0.5，覆盖190多个国家和地区的3D地图，用户可在10分钟内生成公里级3D城市",
+    "content": "<p>近日，高德发布全球首个3D原生城市世界模型ABot-Earth0.5，这一成就不仅让我们看到技术的进步，也让我们思考未来的城市将会如何演变。用户只需输入一张卫星图像或一段文字描述，系统便可在10分钟内生成公里级3D城市，这一速度和效率令人惊叹。</p>  <h2>什么是ABot-Earth0.5?</h2>  <p>ABot-Earth0.5是一种自动化的3D城市生成工具，用户无需复杂的操作便可生成高精度的3D城市模型。该模型输出的是可编辑的3DGS格式的素材，能够直接导入Unity、UnrealEngine等主流引擎进行交互开发。这一特性让开发者能够快速地创建和编辑3D城市场景，从而大大提高了开发效率。</p>  <h2>ABot-Earth0.5的应用前景</h2>  <p>ABot-Earth0.5的应用前景非常广阔，不仅可以用于城市规划、建筑设计等传统领域，也可以用于新兴的产业如具身智能、低空经济等。在应急救援场景中，ABot-Earth0.5的分钟级3D制图能力可以快速还原灾祸现场三维环境，为指挥调度提供科学依据，为救援力量部署抢得宝贵时间。</p>  <h2>編輯悄悄話</h2>  <p>随着技术的进步，我们可以看到未来的城市将会变得更加智能和高效。高德的ABot-Earth0.5是这一趋势的重要组成部分，它让我们看到3D城市生成从『重资产』转变为『轻工具』的可能性。我们可以期待未来的城市将会如何演变，以及ABot-Earth0.5将会如何推动这一进程。</p>",
+    "score": 95,
+    "takeaways": [
+      "高德发布全球首个3D原生城市世界模型ABot-Earth0.5",
+      "该模型可在10分钟内生成公里级3D城市",
+      "制图成本仅为传统方式的百分之一，效率提升约千倍"
+    ],
+    "punchline": "3D城市生成從『重资产』转变为『轻工具』",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://www.ithome.com/0/961/378.htm",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "016",
+    "title": "腾讯混元聯合多家機構发布首個音頻編輯基準MMAE",
+    "summary": "腾讯混元聯合多家機構推出首個全面評估AI語音/音頻編輯能力的基準MMAE",
+    "content": "<p>近日，腾讯混元聯合上海交大、南洋理工等機構推出MMAE（Massive Multitask Audio Editing Benchmark），这是首個全面評估AI語音/音頻編輯能力的基準。MMAE要求模型理解現有音頻並按自然語言指令精確修改，而非簡單生成。</p><h2>什么是MMAE?</h2><p>MMAE是一個基於大規模多任務音頻編輯的Benchmark，包含2000個真實場景高保真樣本、17741條細粒度評估項，覆蓋聲音/音樂/語音及混合共7種模態、6種任務複雜度（基礎修改到多跳推理及多輪編輯）、8種音頻編輯任務。這個基準可以幫助評估AI模型在音頻編輯方面的能力，包括語音識別、音頻分離、音樂編輯等。</p><h2>挑戰與機會</h2><p>雖然MMAE是一個重要的里程碑，但目前的AI模型在該基準上的精確匹配率低於5%，暴露了可靠音頻編輯的短板。這意味著AI模型仍然需要進一步的改進和優化，以滿足實際應用的需求。然而，這也為研究人員和開發者提供了機會，去開發和改進AI音頻編輯技術，推動該領域的發展。</p><h2>編輯悄悄話</h2><p>AI音頻編輯的未來將會非常廣闊，隨著MMAE的誕生，未來我們可以期待看到更多創新的音頻編輯技術和應用。同時，也希望更多的研究人員和開發者能夠加入這個領域，推動AI音頻編輯的發展，讓我們的生活更加豐富和便捷。所以，讓我們一起期待這個領域的未來發展吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "首個音頻編輯基準MMAE誕生",
+      "評估AI語音/音頻編輯能力",
+      "精確匹配率低於5%"
+    ],
+    "punchline": "AI音頻編輯的新里程碑",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/TencentHunyuan/status/2063862263434613237",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "017",
+    "title": "英國如何成為AI製造者的領頭羊？",
+    "summary": "英國通過NVIDIA技術和主權AI基金，推動AI雲提供商數量翻倍，實現AI雄心",
+    "content": "<p>英國政府去年宣布要成為「AI製造者」，而不是「AI使用者」。現在，英國通過NVIDIA技術和主權AI基金，正在將這個雄心轉化為行動。</p>    <h2>AI雲提供商數量翻倍</h2>    <p>過去一年，英國的AI雲提供商數量翻倍。Nebius宣布計劃部署三套NVIDIA AI基礎設施，預計2027年滿負荷達65兆瓦。CoreWeave和BT也宣布計劃在英國建立AI資料中心。</p>    <p>英國政府的主權AI基金正在支持這些初創公司，為他們提供所需的基礎設施和資源。其中四家NVIDIA Inception初創公司獲得資助，包括Cosine、Cursive、Doubleword和Ineffable Intelligence。</p>    <h2>初創公司的創新</h2>    <ul>      <li>Cosine正在建立一個主權AI編碼平台，使用Isambard-AI訓練大型多模態模型。</li>      <li>Cursive正在建立自我改進的AI系統，使用NVIDIA Megatron-LM框架進行分佈式訓練。</li>      <li>Doubleword正在優化推理，使用NVIDIA Nemotron 3 Super 120B和Dynamo框架。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>英國的AI雄心正在變成現實，NVIDIA技術和主權AI基金正在發揮關鍵作用。這些初創公司的創新將推動AI的未來，讓我們拭目以待他們的成就。同時，英國政府的支持也表明了對AI的重視，讓我們期待更多的AI創新從英國誕生。</p>",
+    "score": 95,
+    "takeaways": [
+      "英國通過NVIDIA技術實現主權AI雄心",
+      "AI雲提供商數量翻倍，Nebius部署三套NVIDIA AI基礎設施",
+      "四家NVIDIA Inception初創公司獲得主權AI基金資助"
+    ],
+    "punchline": "AI的未來從英國開始",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/london-tech-week-2026-key-visual.jpeg",
+    "source": "AI HOT 精選",
+    "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "018",
+    "title": "NVIDIA Nemotron 3 Ultra 登場：AI 工作負載的遊戲規則改變者",
+    "summary": "NVIDIA Nemotron 3 Ultra 現已在 Amazon SageMaker JumpStart 上線，提供 5 倍更快的推理和 30% 更低的成本，適用於需要長期多步驟推理的工作負載",
+    "content": "<p>NVIDIA Nemotron 3 Ultra 是一款開源的前沿推理模型，旨在為長期自主代理提供高效的推理和協調能力。該模型具有 550 億個參數和 55 億個活躍參數，採用混合 Transformer-Mamba Mixture-of-Experts (MoE) 架構，提供 5 倍更快的推理和 30% 更低的成本。</p><h2>什麼是 Nemotron 3 Ultra？</h2><p>Nemotron 3 Ultra 是一款開源的大語言模型，旨在為長期自主代理提供高效的推理和協調能力。該模型具有 550 億個參數和 55 億個活躍參數，採用混合 Transformer-Mamba Mixture-of-Experts (MoE) 架構，提供 5 倍更快的推理和 30% 更低的成本。</p><h2>如何部署 Nemotron 3 Ultra</h2><p>您可以通過 Amazon SageMaker JumpStart 以一鍵式部署方式部署 Nemotron 3 Ultra，無需管理基礎設施或配置服務框架。只需在 Amazon SageMaker JumpStart 中搜索 Nemotron 3 Ultra，即可開始使用。</p><h2>編輯悄悄話</h2><p>AI 的發展日新月異，NVIDIA Nemotron 3 Ultra 的登場將為 AI 工作負載帶來新的機遇和挑戰。該模型的高效推理和協調能力將使得長期自主代理的開發更加容易和高效。因此，如果您正在尋找一款強大的 AI 工作負載解決方案，NVIDIA Nemotron 3 Ultra 絕對是值得考慮的選擇。</p>",
+    "score": 95,
+    "takeaways": [
+      "NVIDIA Nemotron 3 Ultra 現已在 Amazon SageMaker JumpStart 上線",
+      "該模型提供 5 倍更快的推理和 30% 更低的成本",
+      "適用於需要長期多步驟推理的工作負載"
+    ],
+    "punchline": "讓 AI 更聰明、更快、更省錢",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/03/21170.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-ultra-now-available-on-amazon-sagemaker-jumpstart/",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "019",
+    "title": "斷電不再是災難：Meta 的數據中心即時斷電準備度",
+    "summary": "Meta 開發了 Instantaneous PowerLoss Storm 測試範式，來驗證其數據中心的即時斷電準備度。該測試範式旨在確保數據中心在斷電的情況下仍能保持運作，同時確保數據的安全。Meta 通過對其基礎設施進行全面測試，確保了其數據中心的斷電準備度。",
+    "content": "<p>數據中心的斷電準備度是 Meta 的關鍵。為了確保其數據中心在斷電的情況下仍能保持運作，Meta 開發了 Instantaneous PowerLoss Storm 測試範式。</p><h2>斷電準備度的挑戰</h2><p>斷電準備度是指數據中心在斷電的情況下仍能保持運作的能力。這是一個非常重要的挑戰，因為斷電可能會導致數據丟失和服務中斷。Meta 的數據中心需要能夠在斷電的情況下仍能保持運作，同時確保數據的安全。</p><h2>Instantaneous PowerLoss Storm 測試範式</h2><p>Instantaneous PowerLoss Storm 測試範式是 Meta 開發的一個新的測試範式，旨在驗證其數據中心的即時斷電準備度。該測試範式模擬斷電的情況下，測試數據中心的運作能力和數據安全性。</p><p>該測試範式包括多個階段，包括測試數據中心的斷電準備度、測試數據中心的運作能力和測試數據安全性。Meta 的工程師們使用了多種工具和技術來進行測試，包括模擬斷電、測試數據中心的運作能力和測試數據安全性。</p><h2>測試結果</h2><p>經過多次測試，Meta 的工程師們發現其數據中心的斷電準備度非常高。數據中心在斷電的情況下仍能保持運作，同時確保數據的安全。這是 Meta 的一個重要成就，表明其數據中心的斷電準備度達到了非常高的水平。</p><h2>編輯悄悄話</h2><p>斷電準備度是數據中心的關鍵。Meta 的 Instantaneous PowerLoss Storm 測試範式是驗證其數據中心的斷電準備度的有效工具。通過該測試範式，Meta 的工程師們可以確保其數據中心的斷電準備度達到了非常高的水平。這是 Meta 的一個重要成就，表明其數據中心的斷電準備度達到了非常高的水平。</p>",
+    "score": 95,
+    "takeaways": [
+      "Meta 開發了 Instantaneous PowerLoss Storm 測試範式，來驗證其數據中心的即時斷電準備度",
+      "該測試範式旨在確保數據中心在斷電的情況下仍能保持運作，同時確保數據的安全",
+      "Meta 通過對其基礎設施進行全面測試，確保了其數據中心的斷電準備度"
+    ],
+    "punchline": "斷電不再是災難，數據中心的即時斷電準備度是 Meta 的關鍵",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Validating-PowerLoss-Readiness-Meta-hero.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "020",
+    "title": "AI 不會改變你的業務，但系統會",
+    "summary": "微軟正在建造一個全面的 AI 平台，支持多種模型，開放和提供彈性，以幫助企業將 AI 技術應用於真實的工作負載中",
+    "content": "<p>AI 技術已經進入企業，並且正在迅速改變每個角落。然而，AI 技術本身並不能改變你的業務，真正重要的是運行 AI 的系統。微軟正在建造一個全面的 AI 平台，支持多種模型，開放和提供彈性，以幫助企業將 AI 技術應用於真實的工作負載中。</p><h2>什麼是好的 AI 平台?</h2><p>一個好的 AI 平台應該具備單一整合系統、安全管理和持續改進的能力。它需要能夠運行真實的工作負載，映射真實的組織複雜性，和管理真實的商業責任。微軟的 AI 平台正是根據這些原則而建造的。</p><h2>微軟的 AI 平台</h2><p>微軟的 AI 平台是基於三個關鍵原則而建造的：單一整合系統、安全管理和持續改進。它支援多種模型，包括微軟模型、合作夥伴模型和開放模型。它還提供了彈性和安全性，讓企業能夠將 AI 技術應用於真實的工作負載中。</p><h2>編輯悄悄話</h2><p>AI 技術不是神話，它需要一個好的系統來支持。微軟的 AI 平台是企業將 AI 技術應用於真實的工作負載中的最佳選擇。它提供了單一整合系統、安全管理和持續改進的能力，讓企業能夠將 AI 技術應用於真實的工作負載中，並且能夠獲得更好的效果。所以，企業不要再猶豫，趕快選擇微軟的 AI 平台，讓你的業務更上一層樓吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "AI 技術需要一個完整的系統來支持其發展",
+      "企業需要一個可靠、安全的 AI 平台來運行真實的工作負載",
+      "一個好的 AI 平台應該具備單一整合系統、安全管理和持續改進的能力"
+    ],
+    "punchline": "AI 不是神話，需要一個好的系統來支持",
+    "image": "https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Hero-2-1024x576.png",
+    "source": "Microsoft Azure Blog",
+    "url": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "021",
+    "title": "網絡性能的三大奧秘：延遲、吞吐量和頻寬",
+    "summary": "延遲、吞吐量和頻寬是網絡性能的三個重要指標，但是它們之間的關係和區別是什麼？",
+    "content": "<p>您是否曾經遇到網絡速度很慢的情況，即使頻寬看起來很大？這可能是由於延遲、吞吐量和頻寬這三個不同的性能指標所造成的。</p><h2>延遲、吞吐量和頻寬的區別</h2><p>延遲是指單個數據包從發送到接收的時間延遲，通常以毫秒為單位。吞吐量是指單位時間內成功傳輸的數據量，通常以每秒兆位元組（Mbps）為單位。頻寬是指網絡連接的最大容量，通常以每秒兆位元組（Mbps）為單位。</p><p>這三個指標之間的關係是：吞吐量始終小於頻寬，因為網絡擁塞、數據包丟失和協議開銷都會影響吞吐量。低延遲也不一定意味著高吞吐量，因為小型數據包、單個連接和緊湊的窗口大小都會限制吞吐量。</p><h2>理解延遲、吞吐量和頻寬的重要性</h2><p>理解這三個概念可以幫助您優化網絡性能。例如，您可以使用延遲來優化網絡連接的速度，使用吞吐量來優化數據傳輸的效率，使用頻寬來優化網絡連接的容量。</p><p>另外，Google 的 Tensor Processing Unit（TPU）是一種自定義的 AI 晶片，設計用於加速巨大的矩陣乘法運算。TPU 的 8 代版本已經發布，包括兩種不同的版本：TPU 8t 和 TPU 8i。TPU 8t 是為訓練而設計的，TPU 8i 是為推理而設計的。</p><h2>編輯悄悄話</h2><p>延遲、吞吐量和頻寬是網絡性能的三大奧秘，但是了解這三個概念可以幫助您優化網絡性能。所以，下次您遇到網絡速度很慢的情況時，不要只看頻寬，還要考慮延遲和吞吐量哦！</p>",
+    "score": 95,
+    "takeaways": [
+      "延遲、吞吐量和頻寬是三個不同的性能指標",
+      "低延遲不一定意味著高吞吐量",
+      "理解這三個概念可以幫助您優化網絡性能"
+    ],
+    "punchline": "延遲是惡魔",
+    "image": "https://substackcdn.com/image/fetch/$s_!7PuH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff822afe9-5c16-4d2d-8fa1-f32d03b9743e_1280x1643.jpeg",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "022",
+    "title": "AI時代的工作挑戰：如何評估效益、預測影響和平衡創新？",
+    "summary": "本文討論了AI工具的評估、技術變革對工作的影響預測和AI模型的開發與應用。通過分析不同觀點，指出需要謹慎評估AI工具的效益、考慮多種因素預測技術變革的影響和平衡創新與可靠性。",
+    "content": "<p>Greg Wilson指出，許多人在使用AI工具時，會使用不準確的指標來評估其效益。例如，使用代碼行數、票據關閉數或開發人員的主觀感受等指標。這些指標都存在著缺陷，需要謹慎評估。</p><h2>技術變革對工作的影響預測困難</h2><p>Benedict Evans觀察到，技術變革對工作的影響預測困難。例如，會計業在過去的一個世紀中經歷了大量的自動化，但會計師的數量卻一直在增加。這是因為技術變革往往會改變工作的性質，甚至會創造新的工作機會。</p><p>Stephen O’Grady分析了閉源和開源模型在基準測試中的表現。他指出，閉源模型在創新和能力方面領先於開源模型，但開源模型在追趕閉源模型的過程中取得了進步。</p><h2>AI模型的開發和應用需要平衡創新和可靠性</h2><p>AI模型的開發和應用需要平衡創新和可靠性。例如，GPTZero是一家公司，提供了AI寫作檢測工具。該公司發表了一系列文章，揭露了AI生成的報告中的錯誤引用。這些錯誤引用不僅會誤導人們，也會對知識庫造成傷害。</p><p>Andy Osmani指出，AI模型的開發和應用需要考慮多種因素，包括創新、可靠性和可解釋性。他提出了幾個原則，包括設計系統、分配任務和評估結果。</p><p>Jamie Hurst是一位資深工程師，他分享了自己在使用AI工具時的經驗。他指出，AI工具可以提高工作效率，但也需要考慮可靠性和可解釋性。</p><h2>編輯悄悄話</h2><p>AI時代，人們需要重新思考工作的意義和價值。技術變革對工作的影響預測困難，需要考慮多種因素。AI模型的開發和應用需要平衡創新和可靠性。通過分析不同觀點，指出需要謹慎評估AI工具的效益、考慮多種因素預測技術變革的影響和平衡創新與可靠性。</p>",
+    "score": 92,
+    "takeaways": [
+      "使用AI工具時，需要謹慎評估其效益，避免使用不準確的指標。",
+      "技術變革對工作的影響預測困難，需要考慮多種因素。",
+      "AI模型的開發和應用需要平衡創新和可靠性。"
+    ],
+    "punchline": "AI時代，人們需要重新思考工作的意義和價值。",
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-06-02.html",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "023",
+    "title": "Endava如何運用AI代理人重新定義軟體交付",
+    "summary": "Endava全球科技服務公司透過採用AI代理人、ChatGPT Enterprise和Codex，重新定義軟體交付和工作流程，建立AI本土文化",
+    "content": "<p>Endava是一家全球科技服務公司，已經有25年以上的歷史，幫助企業解決複雜的商業問題。近年來，公司的使命更加集中在AI的應用上。</p>    <h2>Endava的AI轉型之路</h2>    <p>Endava的CTO Matthew Cloke表示，AI對公司的影響非常深遠，公司需要重新思考工作流程、領導行為和團隊合作方式。公司採用OpenAI作為企業AI平臺，讓員工可以使用ChatGPT Enterprise和Codex。</p>    <p>Endava的AI轉型從軟體交付團隊開始，開發人員開始使用AI輔助編碼和代理人工作流程，團隊很快就發現瓶頸不再是工程輸出，需求收集、商業分析、規劃和利益相關者協調都需要加快速度。</p>    <h2>Endava的AI本土文化</h2>    <p>Endava建立了DavaFlow，公司的AI本土交付方法論，該方法論將OpenAI技術嵌入整個生命周期。公司的法律團隊使用AI簡化研究和文件工作流程，項目經理使用Codex生成治理報告和總結工程進度。商業團隊使用AI生成應用程序取代電子表格。</p>    <p>Endava的領導團隊使用代理人總結項目、自動化溝通、管理收件箱和協調工作。公司的AI轉型已經擴展到整個公司，員工可以使用AI代理人、ChatGPT Enterprise和Codex，加速軟體交付和自動化工作流程。</p>    <h2>編輯悄悄話</h2>    <p>Endava的AI轉型之路是一個非常有趣的案例，公司透過採用AI代理人、ChatGPT Enterprise和Codex，重新定義軟體交付和工作流程，建立AI本土文化。這個案例告訴我們，AI不再是一個陌生的概念，而是一個可以幫助我們解決商業問題的工具。未來已經到來，你只需要勇敢邁出一步，探索AI的無限可能。",
+    "score": 95,
+    "takeaways": [
+      "Endava透過AI代理人、ChatGPT Enterprise和Codex加速軟體交付、自動化工作流程",
+      "公司建立AI本土文化，鼓勵員工在日常工作中使用AI",
+      "Endava的AI轉型從軟體交付團隊開始，現在已經擴展到整個公司"
+    ],
+    "punchline": "未來已經到來，你只需要勇敢邁出一步",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4gxDAOkxUXKVkAcM8eGhNj/03482b84b74c225d36ad173865b67b14/oai_Endava_SEO.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/endava-frontiers",
+    "date": "2026-06-08"
   }
 ]
