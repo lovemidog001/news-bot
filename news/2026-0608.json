@@ -49,5 +49,158 @@
     "source": "Hugging Face Blog",
     "url": "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
     "date": "2026-06-08"
+  },
+  {
+    "id": "004",
+    "title": "英伟达与斗山集团携手推进物理AI和AI工厂革命",
+    "summary": "英伟达与斗山集团扩大合作，推进物理AI、机器人和AI工厂基础设施，旨在打造更智能、更高效的工业自动化和能源系统",
+    "content": "<p>英伟达与斗山集团扩大合作，推进物理AI、机器人和AI工厂基础设施，旨在打造更智能、更高效的工业自动化和能源系统。</p><h2>合作涵盖四大板块</h2><p>合作涵盖斗山机器人、斗山山猫、斗山能源和斗山电子材料四大板块。双方将共同探索物理AI技术在工业自动化、能源和电子材料领域的应用。</p><p>斗山机器人将集成英伟达Isaac Sim、Isaac Lab、Cosmos世界基础模型、Newton物理引擎及Jetson Thor，推进Agentic Robot OS，探索卸垛、打磨等参考用例及双臂/人形机器人。</p><h2>物理AI技术应用</h2><p>斗山山猫计划将物理AI技术用于建筑、园林、农业设备，加速开发专用世界模型。斗山能源评估通过燃气轮机、汽轮机、小型模块化反应堆及氢燃料电池为AI工厂供电。</p><p>斗山电子材料为英伟达MGX生态系统供应高性能铜箔基板，用于打造高性能的AI服务器和网络设备。</p><h2>编辑悄悄话</h2><p>物理AI时代，机器人和工厂如何变得更聪明？英伟达与斗山集团的合作为我们提供了答案。通过集成物理AI技术，工业自动化和能源系统将变得更智能、更高效。未来，我们将看到更多的物理AI应用，推动工业自动化和能源系统的革新。</p>",
+    "score": 95,
+    "takeaways": [
+      "英伟达与斗山集团扩大合作，推进物理AI、机器人和AI工厂基础设施",
+      "合作涵盖斗山机器人、斗山山猫、斗山能源和斗山电子材料四大板块",
+      "双方将共同探索物理AI技术在工业自动化、能源和电子材料领域的应用"
+    ],
+    "punchline": "物理AI时代，机器人和工厂如何变得更聪明？",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/06/kr-visit-blog-doosan-robotics-1920x1080-noncredit.jpg",
+    "source": "AI HOT 精選",
+    "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "005",
+    "title": "ChatGPT 大改版！從聊天機器人到超級應用",
+    "summary": "ChatGPT 即將推出最大規模改版，轉型為超級應用/Agent 平台，整合編程工具 Codex、圖像生成及第三方應用，目標成為跨平台個人 AI 助手",
+    "content": "<p>你還記得 ChatGPT 嗎？自 2022 年上線以來，它就一直是人工智慧界的明星。但是，OpenAI 的高管們認為，聊天已經不夠了，現在是時候轉型為超級應用/Agent 平台了！</p><h2>什麼是 Agent 平台？</h2><p>Agent 平台是一種跨平台的個人 AI 助手，能夠整合各種應用和工具，提供用戶更好的使用體驗。ChatGPT 的改版將包括編程工具 Codex、圖像生成及第三方應用，如 Canva、Booking 等。</p><p>這意味著用戶將能夠使用 ChatGPT 完成更多的事情，而不僅僅是聊天。例如，用戶可以使用 ChatGPT 編程、創作圖像、預訂機票等。</p><h2>商業壓力</h2><p>雖然 ChatGPT 有 9 億周活用戶、5000 萬付費用戶、月收入 20 億美元，但仍未盈利。企業客戶貢獻約 40% 收入，目標年底達 50%。Codex 桌面版周活超 500 萬。</p><p>在這樣的商業壓力下，ChatGPT 的改版是必要的。通過轉型為超級應用/Agent 平台，ChatGPT 將能夠提供更好的使用體驗，吸引更多的用戶和企業客戶。</p><h2>編輯悄悄話</h2><p>聊天已死，Agent 時代來臨！ChatGPT 的改版是人工智慧界的一個重要里程碑，標誌著聊天機器人時代的結束和超級應用/Agent 平台時代的開始。未來，ChatGPT 將能夠提供更好的使用體驗，成為跨平台個人 AI 助手。",
+    "score": 95,
+    "takeaways": [
+      "ChatGPT 即將推出最大規模改版，轉型為超級應用/Agent 平台",
+      "整合編程工具 Codex、圖像生成及第三方應用，目標成為跨平台個人 AI 助手",
+      "未來甚至可能省去用戶輸入提示詞，提高使用體驗"
+    ],
+    "punchline": "聊天已死，Agent 時代來臨！",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/dotey/status/2063686036895478162",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "006",
+    "title": "OpenAI 超級應用計畫：聊天已死？新的 AI 交互形態即將誕生",
+    "summary": "OpenAI 正在推進超級應用計畫，將 GPT-5.2 和 ChatGPT 合並成一個超級 app，目標是成為更具競爭力的商業客戶，並在 IPO 前趨近於盈利。這可能是 AI 交互形態的一次重大轉向。",
+    "content": "<p>OpenAI 正在推進超級應用計畫，將 GPT-5.2 和 ChatGPT 合並成一個超級 app。這個計畫可能是 AI 交互形態的一次重大轉向。根據《金融時報》的報導，OpenAI 的目標是成為更具競爭力的商業客戶，並在 IPO 前趨近於盈利。</p>  <h2>聊天已死？新的 AI 交互形態即將誕生</h2>  <p>OpenAI 的高級員工表示，「聊天已死」。這不是說聊天功能會被取消，而是說聊天功能將被整合到一個更大的應用中。這個應用將提供更多的功能，例如編碼工具和 AI 代碼生成器。</p>  <p>OpenAI 的核心產品和平台負責人 Thibault Sottiaux 表示，公司正在努力創造一個「個人助手」，可以幫助用戶在生活和工作中完成各種任務。這個助手將可以提供各種服務，例如編碼、寫作和設計。</p>  <h2>超級應用計畫的影響</h2>  <p>OpenAI 的超級應用計畫可能會對 AI 交互形態產生重大影響。它將提供一個更統一的平台，讓用戶可以更方便地使用 AI 功能。同時，它也將為開發者提供一個更好的平台，讓他們可以創造更多的 AI 應用。</p>  <p>但是，超級應用計畫也會面臨一些挑戰。例如，如何確保用戶的隱私和安全？如何避免 AI 功能被濫用？這些問題都需要 OpenAI 和其他公司共同解決。</p>  <h2>編輯悄悄話</h2>  <p>OpenAI 的超級應用計畫是一個令人興奮的發展。它將提供一個更統一的平台，讓用戶可以更方便地使用 AI 功能。同時，它也將為開發者提供一個更好的平台，讓他們可以創造更多的 AI 應用。讓我們拭目以待，看看這個計畫將如何改變 AI 交互形態！</p>",
+    "score": 95,
+    "takeaways": [
+      "OpenAI 正在推進超級應用計畫，將 GPT-5.2 和 ChatGPT 合並成一個超級 app",
+      "公司目標是成為更具競爭力的商業客戶，並在 IPO 前趨近於盈利",
+      "超級應用計畫可能是 AI 交互形態的一次重大轉向"
+    ],
+    "punchline": "聊天已死？OpenAI 正在創造新的 AI 交互形態",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "source": "AI HOT 精選",
+    "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "007",
+    "title": "公部門組織的新AI網絡安全防禦：Agentic SOC",
+    "summary": "公部門組織面臨著前所未有的網絡安全挑戰，需要借助AI技術來應對。Agentic SOC是公部門組織應對AI網絡安全威脅的新工具，通過自動化和人工智能技術來加速網絡安全威脅的檢測和應對。",
+    "content": "<p>公部門組織面臨著前所未有的網絡安全挑戰。黑客們使用AI技術來發動網絡攻擊，速度快到令人咋舌。根據調查，使用大型語言模型（LLM）構建的網絡釣魚攻擊，點擊率是傳統方法的4.5倍。</p>  <h2>Agentic SOC：公部門組織的新AI網絡安全防禦</h2>  <p>為了應對這些挑戰，公部門組織需要借助AI技術來應對。Agentic SOC是公部門組織應對AI網絡安全威脅的新工具。它通過自動化和人工智能技術來加速網絡安全威脅的檢測和應對。</p>  <h2>Agentic SOC的優勢</h2>  <p>Agentic SOC有以下優勢：</p>  <ul>    <li>自動化和人工智能技術加速網絡安全威脅的檢測和應對</li>    <li>減少了人工安全分析員的工作負擔</li>    <li>提高了網絡安全威脅的檢測和應對速度</li>  </ul>  <h2>編輯悄悄話</h2>  <p>公部門組織面臨著前所未有的網絡安全挑戰，需要借助AI技術來應對。Agentic SOC是公部門組織應對AI網絡安全威脅的新工具。通過自動化和人工智能技術，Agentic SOC可以加速網絡安全威脅的檢測和應對，減少了人工安全分析員的工作負擔，提高了網絡安全威脅的檢測和應對速度。公部門組織需要借助Agentic SOC來應對AI網絡安全威脅，保護自己的網絡安全。</p>",
+    "score": 95,
+    "takeaways": [
+      "公部門組織面臨著前所未有的網絡安全挑戰，需要借助AI技術來應對",
+      "Agentic SOC是公部門組織應對AI網絡安全威脅的新工具",
+      "Agentic SOC通過自動化和人工智能技術來加速網絡安全威脅的檢測和應對"
+    ],
+    "punchline": "AI網絡安全威脅來臨，公部門組織需要借助AI技術來應對",
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt0e4cdea50aeeb029/6a22cbb6e1738ddf67d936d9/Public_sector_and_government_-_Image_2.1.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/agentic-socs-public-sector-cybersecurity",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "008",
+    "title": "寫好Skill：終極實戰指南大公開！",
+    "summary": "從零開始，輕松掌握技能的關鍵",
+    "content": "<p>在現代社會，技能是個人競爭力的重要體現。然而，如何才能寫好Skill，成為眾人矚目的焦點？答案就在於實踐和經驗累積。只有通過實際的操作和應用，才能真正掌握技能的精髓。</p>  <h2>實戰經驗的重要性</h2>  <p>實戰經驗是提升技能的最有效途徑。通過實際的操作和應用，才能真正掌握技能的精髓。這不僅能夠幫助你了解技能的實際應用場景，也能夠讓你更好地理解技能的核心價值。</p>  <ul>    <li>明確的目標和方向：有效的技能學習需要明確的目標和方向，只有這樣才能夠確保你正在走正確的道路。</li>    <li>實踐和經驗累積：實踐和經驗累積是技能學習的關鍵，只有通過實際的操作和應用，才能真正掌握技能的精髓。</li>    <li>不斷的學習和改進：技能學習是一個不斷的過程，需要不斷的學習和改進，只有這樣才能夠保持競爭力。</li>  </ul>  <h2>編輯悄悄話</h2>  <p>寫好Skill，不只是會做事，而是要學會做事的藝術。只有通過實踐和經驗累積，才能真正掌握技能的精髓。所以，不要害怕實踐和嘗試，勇敢地去挑戰自己，才能真正成長和提升。記住，學會做事，不只是會做事，而是要學會做事的藝術。",
+    "score": 95,
+    "takeaways": [
+      "掌握技能的關鍵在於實踐和經驗累積",
+      "有效的技能學習需要明確的目標和方向",
+      "實戰經驗是提升技能的最有效途徑"
+    ],
+    "punchline": "學會做事，不只是會做事",
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801836&idx=1&sn=f01a69e0c012eafde5f8bc76804bc5fb",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "009",
+    "title": "Google Cloud AI 新聞：企業級 AI 的未來已經到來",
+    "summary": "Google Cloud 正在推動企業級 AI 的發展，提供各種工具和技術來支援企業在 AI 領域的創新和應用。從 Anthropic 的 Claude Opus 4.8 模型到 Gemini Enterprise Agent Platform，Google Cloud 提供了各種資源和工具來支援企業在 AI 領域的學習和應用。",
+    "content": "<p>Google Cloud 正在推動企業級 AI 的發展，提供各種工具和技術來支援企業在 AI 領域的創新和應用。從 Anthropic 的 Claude Opus 4.8 模型到 Gemini Enterprise Agent Platform，Google Cloud 提供了各種資源和工具來支援企業在 AI 領域的學習和應用。</p>  <h2>企業級 AI 的未來已經到來</h2>  <p>Google Cloud 正在推動企業級 AI 的發展，提供各種工具和技術來支援企業在 AI 領域的創新和應用。從 Anthropic 的 Claude Opus 4.8 模型到 Gemini Enterprise Agent Platform，Google Cloud 提供了各種資源和工具來支援企業在 AI 領域的學習和應用。</p>  <h2>Anthropic 的 Claude Opus 4.8 模型</h2>  <p>Anthropic 的 Claude Opus 4.8 模型現在可以在 Gemini Enterprise Agent Platform 上使用，為企業提供了更強大的 AI 工具。這個模型可以處理複雜的企業工作流程，提供強大的 AI 能力。</p>  <h2>Google Cloud 的 AI 工具和技術</h2>  <p>Google Cloud 提供了各種工具和技術來支援企業在 AI 領域的學習和應用，包括 Webinar、Community TechTalk 和博客文章等。這些資源可以幫助企業更好地了解和應用 AI 技術，推動企業的創新和發展。</p>  <h2>編輯悄悄話</h2>  <p>Google Cloud 的 AI 工具和技術正在改變企業的未來。企業可以利用這些工具和技術來推動自己的創新和發展，提高自己的競爭力。因此，企業應該關注和學習 Google Cloud 的 AI 工具和技術，為自己的未來做好準備。</p>",
+    "score": 92,
+    "takeaways": [
+      "Google Cloud 正在推動企業級 AI 的發展，提供各種工具和技術來支援企業在 AI 領域的創新和應用。",
+      "Anthropic 的 Claude Opus 4.8 模型現在可以在 Gemini Enterprise Agent Platform 上使用，為企業提供了更強大的 AI 工具。",
+      "Google Cloud 提供了各種資源和工具來支援企業在 AI 領域的學習和應用，包括 Webinar、Community TechTalk 和博客文章等。"
+    ],
+    "punchline": "AI 正在改變企業的未來，Google Cloud 提供了各種工具和技術來支援企業在 AI 領域的創新和應用。",
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "010",
+    "title": "AI戰爭：馬斯克敗訴，OpenAI勝訴，Google發力新AI模型",
+    "summary": "伊隆·馬斯克（Elon Musk）敗訴，OpenAI勝訴，終結了對OpenAI的150億美元訴訟。OpenAI準備進行首次公開募股（IPO），估計市值達1萬億美元。Google推出新一代AI模型和個人AI助手，競爭OpenAI和Anthropic。",
+    "content": "<p>最近，AI界發生了幾件大事。伊隆·馬斯克（Elon Musk）敗訴，OpenAI勝訴，終結了對OpenAI的150億美元訴訟。OpenAI準備進行首次公開募股（IPO），估計市值達1萬億美元。Google推出新一代AI模型和個人AI助手，競爭OpenAI和Anthropic。</p>  <h2>馬斯克敗訴，OpenAI勝訴</h2>  <p>伊隆·馬斯克（Elon Musk）敗訴，OpenAI勝訴，終結了對OpenAI的150億美元訴訟。OpenAI的創始人Sam Altman和Greg Brockman被馬斯克指控為「竊取慈善機構」，但法院最終判決馬斯克敗訴。馬斯克的訴訟被認為是對OpenAI的商業模式的挑戰，但最終未能成功。</p>  <h2>OpenAI準備進行IPO</h2>  <p>OpenAI準備進行首次公開募股（IPO），估計市值達1萬億美元。OpenAI的創始人Sam Altman表示，公司將在今年秋季進行IPO。OpenAI的市值已經達到852億美元，成為世界上最大的AI公司之一。</p>  <h2>Google發力新AI模型</h2>  <p>Google推出新一代AI模型和個人AI助手，競爭OpenAI和Anthropic。Google的新AI模型名為Gemini，能夠處理圖像、音頻和文本等多種資料。Google還推出了一個名為Gemini Spark的個人AI助手，能夠幫助用戶管理電子郵件和文件等事務。</p>  <h2>編輯悄悄話</h2>  <p>AI時代，誰能掌控未來？馬斯克敗訴，OpenAI勝訴，Google發力新AI模型，這些事件都表明了AI界的競爭正在加劇。誰能成為AI界的領導者，還有待時間的考驗。但可以肯定的是，AI將繼續改變我們的生活和工作方式。",
+    "score": 95,
+    "takeaways": [
+      "伊隆·馬斯克（Elon Musk）敗訴，OpenAI勝訴，終結了對OpenAI的150億美元訴訟",
+      "OpenAI準備進行首次公開募股（IPO），估計市值達1萬億美元",
+      "Google推出新一代AI模型和個人AI助手，競爭OpenAI和Anthropic"
+    ],
+    "punchline": "AI時代，誰能掌控未來？",
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "011",
+    "title": "Next.js 跨平台部署大突破！",
+    "summary": "Next.js 16.2 引入了穩定的 Adapter API，為跨平台部署提供了更一致的體驗。OpenNext 專案填補了 Next.js 架構與提供商之間的空白，提供了穩定的公共合約。Next.js 團隊與合作夥伴共同設計、測試和驗證了 Adapter API，確保了跨平台部署的可靠性。",
+    "content": "<p>你是否曾經為了跨平台部署而煩惱？你是否曾經希望 Next.js 可以在任何平台上都能順暢運行？現在，這個夢想終於實現了！</p>  <h2>什麼是 Adapter API？</h2>  <p>Adapter API 是 Next.js 16.2 引入的一個新的 API，它提供了一個穩定的公共合約，讓提供商可以根據這個合約來開發自己的適配器。這個適配器可以讓 Next.js 在任何平台上都能順暢運行。</p>  <h2>OpenNext 的角色</h2>  <p>OpenNext 是一個填補了 Next.js 架構與提供商之間的空白的專案。它提供了一個穩定的公共合約，讓提供商可以根據這個合約來開發自己的適配器。OpenNext 的出現讓 Next.js 團隊與合作夥伴可以共同設計、測試和驗證 Adapter API，確保了跨平台部署的可靠性。</p>  <p>現在，Next.js 16.2 已經正式發布，你可以嘗試使用新的 Adapter API 來實現跨平台部署。同時，Next.js 團隊也提供了詳細的文檔和測試工具，來幫助你更好地使用這個新的 API。</p>  <h2>編輯悄悄話</h2>  <p>跨平台部署不再是夢想！Next.js 16.2 的發布讓我們更接近於實現這個夢想。雖然還有很多工作要做，但是現在我們已經有了一個穩定的公共合約和適配器來實現跨平台部署。讓我們一起期待 Next.js 的未來吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "Next.js 16.2 引入了穩定的 Adapter API，為跨平台部署提供了更一致的體驗。",
+      "OpenNext 專案填補了 Next.js 架構與提供商之間的空白，提供了穩定的公共合約。",
+      "Next.js 團隊與合作夥伴共同設計、測試和驗證了 Adapter API，確保了跨平台部署的可靠性。"
+    ],
+    "punchline": "跨平台部署不再是夢想！",
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-06-08"
+  },
+  {
+    "id": "012",
+    "title": "Google DeepMind 問世！亞太區環境風險加速器計畫登場",
+    "summary": "Google DeepMind 正式推出亞太區環境風險加速器計畫，聚焦於氣候變遷、水資源管理等環境挑戰，通過 AI 技術和合作夥伴的力量，共同解決環境問題",
+    "content": "<p>Google DeepMind 正式推出亞太區環境風險加速器計畫，這是一個重大新聞！該計畫將聚焦於氣候變遷、水資源管理等環境挑戰，通過 AI 技術和合作夥伴的力量，共同解決環境問題。</p><h2>什麼是 Google DeepMind 加速器計畫？</h2><p>Google DeepMind 加速器計畫是一個全球性的計畫，旨在通過 AI 技術和合作夥伴的力量，共同解決環境問題。該計畫將聚焦於氣候變遷、水資源管理等環境挑戰，提供資源和支持給合作夥伴，幫助他們解決環境問題。</p><h2>亞太區環境風險加速器計畫的重點</h2><p>亞太區環境風險加速器計畫將聚焦於以下幾個重點：</p><ul><li>氣候變遷：該計畫將通過 AI 技術和合作夥伴的力量，共同解決氣候變遷問題，例如預測氣候變遷、開發可持續能源等。</li><li>水資源管理：該計畫將通過 AI 技術和合作夥伴的力量，共同解決水資源管理問題，例如預測水資源短缺、開發水資源節約技術等。</li></ul><h2>編輯悄悄話</h2><p>這個新聞真是太棒了！Google DeepMind 加速器計畫的推出，將為我們的環境帶來新的希望。通過 AI 技術和合作夥伴的力量，我們可以共同解決環境問題，創造一個更美好的未來。讓我們一起關注這個計畫，共同為環境做出貢獻吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "Google DeepMind 正式推出亞太區環境風險加速器計畫",
+      "該計畫將聚焦於氣候變遷、水資源管理等環境挑戰",
+      "通過 AI 技術和合作夥伴的力量，共同解決環境問題"
+    ],
+    "punchline": "AI 力量，拯救地球",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Image_for_APAC_GDM_Accelerator.max-1440x810.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "date": "2026-06-08"
   }
 ]
