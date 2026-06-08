@@ -118,6 +118,12 @@ for art in articles:
 
             "content": data.get("content", "").strip(),
 
+            "score": data.get("score", 0),
+
+            "takeaways": data.get("takeaways", []),
+
+            "punchline": data.get("punchline", "").strip(),
+
             "image": fetch_image(art["link"]),
 
             "source": art.get("source", ""),
