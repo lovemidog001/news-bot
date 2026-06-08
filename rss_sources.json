@@ -1,10 +1,5 @@
 [
   {
-    "name": "量子位",
-    "url": "https://www.qbitai.com/feed",
-    "category": "AI & Machine Learning"
-  },
-  {
     "name": "LangChain Blog",
     "url": "https://blog.langchain.dev/rss/",
     "category": "AI & Machine Learning"
@@ -38,16 +33,6 @@
     "name": "Grafana Labs",
     "url": "https://grafana.com/categories/engineering/index.xml",
     "category": "General Tech"
-  },
-  {
-    "name": "宝玉的分享",
-    "url": "https://baoyu.io/feed.xml",
-    "category": "AI & Machine Learning"
-  },
-  {
-    "name": "掘金本周最热",
-    "url": "https://rsshub.bestblogs.dev/juejin/trending/all/weekly",
-    "category": "Development & DevOps"
   },
   {
     "name": "deeplearning.ai",
