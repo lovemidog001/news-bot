@@ -1,0 +1,291 @@
+[
+  {
+    "id": "001",
+    "title": "谷歌發布 Gemini 3.5 Live Translate：跨語言溝通變得更容易",
+    "summary": "谷歌 DeepMind 推出 Gemini 3.5 Live Translate，一款最新的音頻模型，可以實現快速的跨語言溝通",
+    "content": "<p>你是否曾經因為語言障礙而感到沮喪？現在，谷歌 DeepMind 推出了一款最新的音頻模型——Gemini 3.5 Live Translate，讓跨語言溝通變得更容易。</p><h2>什麼是 Gemini 3.5 Live Translate?</h2><p>Gemini 3.5 Live Translate 是一款由谷歌 DeepMind 開發的音頻模型，旨在實現快速的跨語言溝通。該模型可以讓用戶以不同的語言進行溝通，無需擔心語言障礙的問題。</p><p>根據谷歌 DeepMind 的介紹，Gemini 3.5 Live Translate 可以讓用戶以不同的語言進行溝通，包括英語、西班牙語、中文等。該模型使用了最新的 AI 技術，可以實現快速和準確的語言翻譯。</p><h2>如何使用 Gemini 3.5 Live Translate?</h2><p>使用 Gemini 3.5 Live Translate 非常簡單。用戶只需要下載並安裝該模型，然後就可以開始使用了。該模型可以在不同的設備上使用，包括手機、平板電腦和電腦。</p><p>如果你是一個經常與來自不同國家的人溝通的人，Gemini 3.5 Live Translate 將是你的最佳選擇。該模型可以讓你以不同的語言進行溝通，無需擔心語言障礙的問題。</p><h2>編輯悄悄話</h2><p>最終，我們可以得出一個結論：Gemini 3.5 Live Translate 是一款非常實用的工具，可以讓跨語言溝通變得更容易。該模型使用了最新的 AI 技術，可以實現快速和準確的語言翻譯。如果你是一個經常與來自不同國家的人溝通的人，Gemini 3.5 Live Translate 將是你的最佳選擇。所以，趕緊下載並安裝該模型吧，體驗跨語言溝通的新時代！",
+    "score": 95,
+    "takeaways": [
+      "Gemini 3.5 Live Translate 是一款最新的音頻模型",
+      "該模型可以實現快速的跨語言溝通",
+      "由 Google DeepMind 開發"
+    ],
+    "punchline": "說聲你好，世界變得更小了",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/GoogleDeepMind/status/2064366504745828689",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "002",
+    "title": "解放你的編碼智能體： AgentsView 自訂價格大揭秘",
+    "summary": "Simon Willison 分享如何使用 AgentsView 為 Claude Fable 5 設定自訂價格，讓用戶更好地控制成本",
+    "content": "<p>你是否曾經對編碼智能體的 token 使用情況感到困惑？ AgentsView 是一個可以幫助你追蹤本地編碼智能體 token 使用情況的工具。由 Wes McKinney 開發的 AgentsView，可以讓你輕鬆地探索不同編碼智能體的使用量和成本。</p><h2> AgentsView 的強大功能</h2><p> AgentsView 不僅可以追蹤 token 使用情況，還可以提供詳細的使用量統計和成本分析。這讓用戶可以更好地控制成本和優化編碼智能體的使用。然而，當 Claude Fable 5 發布時， AgentsView 的定價資料庫尚未包含這個新模型。這時，Simon Willison 就利用 Fable 逆向工程，找到了為 Claude Fable 5 設定自訂價格的方法。</p><p> 這個技巧可以讓用戶更好地控制成本和優化編碼智能體的使用。下面是 Simon 的 Claude Fable 5 使用量樹狀圖，展示了 Fable 5 當天在不同本地項目中的使用量。</p><h2> 編輯悄悄話</h2><p> 這個技巧不僅可以幫助你控制成本，還可以讓你更好地了解編碼智能體的使用情況。所以，如果你也在使用編碼智能體，千萬不要錯過這個自訂價格技巧。通過 AgentsView 和 Fable 逆向工程，你可以輕鬆地掌控你的編碼智能體，讓你的編碼工作更加高效和省錢。",
+    "score": 95,
+    "takeaways": [
+      " AgentsView 是追蹤本地編碼智能體 token 使用情況的工具",
+      " Claude Fable 5 可以透過逆向工程設定自訂價格",
+      " 自訂價格技巧可以幫助用戶控制成本"
+    ],
+    "punchline": "逆向工程讓我掌控成本",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "003",
+    "title": "IBMCEO爆料：AI 不是裁员的幫兇",
+    "summary": "IBM CEO Arvind Krishna 表示 AI 不会导致员工数量减少，IBM 投资 100 亿美元于量子计算，体现公私部门间的紧密合作",
+    "content": "<p>近日，IBM CEO Arvind Krishna 在接受采访时表示，AI 不一定会导致员工减少。他强调，AI 的发展可以带来新的工作机会和产业，这与传统的裁员论调不同。</p><h2>什么是量子计算？</h2><p>量子计算是一种更快、更强大的计算形式，IBM 已在此领域投资 100 亿美元。这种计算形式可以解决传统计算机无法解决的问题，例如复杂的数据分析和模拟。</p><p>IBM 的投资不仅体现了公司的战略布局，也反映了公私部门间的紧密合作。联邦政府承诺投入 10 亿美元在纽约 Albany 建设芯片制造设施，这将进一步推动美国的科技发展。</p><h2>AI 的未来发展</h2><p>Arvind Krishna 的言论也引发了人们对 AI 未来发展的思考。随着 AI 技术的不断进步，我们可以期待看到更多的创新应用和产业的诞生。然而，如何确保 AI 的发展能够惠及所有人，仍然是一个需要解决的问题。</p><h2>編輯悄悄話</h2><p>IBM CEO 的言论让我们看到了 AI 的另一个面，这不仅仅是一个技术问题，也是一个社会问题。随着 AI 的发展，我们需要更多的讨论和合作，才能确保其能够带来真正的价值和惠益。所以，下次当你听到 AI 的时候，不要只想到裁员，想想它可能带来的新机遇和挑战吧！",
+    "score": 95,
+    "takeaways": [
+      "AI 不一定导致员工减少",
+      "IBM 投资 100 亿美元于量子计算",
+      "公私部门合作推动科技发展"
+    ],
+    "punchline": "AI 不是裁员工具",
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-09/ibm-ceo-ai-won-t-necessarily-lead-to-smaller-headcount-video",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "004",
+    "title": "AI 模型的盲点：精确性不等于忠实度",
+    "summary": "最新研究发现，即使是最精确的 AI 模型，也可能忽略重要的事实，导致忠实度低下",
+    "content": "<p>你是否曾经想过，AI 模型的精确性是否真的代表了其忠实度？最近的一项研究揭示了一个令人惊讶的结论：精确性与忠实度是两个不同的概念。研究人员利用两个完整的 Oracle 领域，证明了即使是最精确的模型，也可能忽略重要的事实，导致忠实度低下。</p><h2>什么是覆盖度？</h2><p>覆盖度是指模型能够覆盖所有相关事实的能力。它是一个非常重要的指标，因为它可以帮助我们评估模型的全面性。在这项研究中，研究人员引入了覆盖度作为一个新的评估指标，并发现它可以改变模型的排序。原来，之前最精确的模型在覆盖度方面并不是最好的。</p><h2>如何提高模型的忠实度</h2><p>那么，如何提高模型的忠实度呢？研究人员提出了一种新的方法，即将忠实度与覆盖度合并为单一分数。这种方法可以帮助模型同时优化精确性和覆盖度，从而提高其忠实度。此外，研究人员还给出了无参考验证器引导生成方法，这可以帮助模型在没有参考答案的情况下生成高质量的文本。</p><h2>編輯悄悄話</h2><p>这项研究告诉我们，AI 模型的精确性并不是唯一的真理。我们需要考虑模型的覆盖度和忠实度，以确保其能够生成高质量的文本。同时，这项研究也提醒我们，模型的评估指标需要不断更新和完善，以适应新的挑战和需求。所以，下次你看到 AI 模型的精确性报告时，不要忘记问问：但它的覆盖度如何呢？</p>",
+    "score": 90,
+    "takeaways": [
+      "精确性与忠实度是两个不同的概念",
+      "覆盖度是评估模型的一个重要指标",
+      "引入覆盖度可以改变模型的排序"
+    ],
+    "punchline": "精确性不是唯一的真理",
+    "image": "https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png",
+    "source": "AI HOT 精選",
+    "url": "https://arxiv.org/abs/2606.09376",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "005",
+    "title": "GitHub CI 遷移指南：提升速度，解決 GPU 支持",
+    "summary": "Hugging Face 提供了一種方法，將 GitHub Actions 的 CI 作業遷移到 Hugging Face Jobs 上，解決速度慢和 GPU 支持等問題",
+    "content": "<p>近年來，GitHub Actions 已成為開發人員的首選 CI 工具。但是，許多用戶都遇到了 GitHub Actions 速度慢和缺乏 GPU 支持等問題。為了解決這些問題，Hugging Face 提供了一種方法，將 GitHub Actions 的 CI 作業遷移到 Hugging Face Jobs 上。</p><h2>什麼是 Hugging Face Jobs</h2><p>Hugging Face Jobs 是一種基於雲端的作業平台，允許用戶在多種硬件上運行作業，包括 CPU 和 GPU。它提供了一種靈活和可擴展的方式來運行 CI 作業，無需擔心硬件的限制。</p><p>使用 Hugging Face Jobs，可以解決 GitHub Actions 速度慢和缺乏 GPU 支持等問題。它提供了一種快速和可靠的方式來運行 CI 作業，無需擔心硬件的限制。</p><h2>如何遷移 GitHub CI 到 Hugging Face Jobs</h2><p>遷移 GitHub CI 到 Hugging Face Jobs 需要使用 huggingface/jobs-actions 桥接。這個橋接允許用戶將 GitHub Actions 的 job 轉為臨時自托管運行器。</p><p>使用 huggingface/jobs-actions 桥接，GitHub App 監聽 `workflow_job.queued` webhook，dispatcher Space 驗證後啟動對應硬件（CPU 或 GPU）。這個過程可以實現平滑遷移，無需修改現有的 GitHub Actions 配置。</p><h2>編輯悄悄話</h2><p>如果你正在使用 GitHub Actions 來運行 CI 作業，但遇到了速度慢和缺乏 GPU 支持等問題，現在是遷移的最佳時機。使用 Hugging Face Jobs，可以解決這些問題，提升你的 CI 運行速度和效率。並且，huggingface/jobs-actions 桥接可以實現平滑遷移，無需修改現有的 GitHub Actions 配置。所以，不要猶豫，趕緊遷移你的 GitHub CI 到 Hugging Face Jobs 吧！",
+    "score": 95,
+    "takeaways": [
+      "將 GitHub CI 遷移到 Hugging Face Jobs 以提升速度",
+      "解決 GitHub Actions 缺乏 GPU 支持的問題",
+      "使用 huggingface/jobs-actions 桥接實現平滑遷移"
+    ],
+    "punchline": "告別 GitHub Actions 的速度慢",
+    "image": "https://huggingface.co/blog/assets/github-ci-hf-jobs/thumbnail.gif",
+    "source": "AI HOT 精選",
+    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "006",
+    "title": "機器人學習的新時代：NVIDIA Isaac Lab 和 Amazon SageMaker AI 的合作",
+    "summary": "機器人學習從研究到實現的過程中，計算效能和可擴展性是兩個重要的挑戰。NVIDIA Isaac Lab 和 Amazon SageMaker AI 的合作，提供了一個解決方案，讓機器人學習更快、更好、更省",
+    "content": "<p>機器人學習是一個快速發展的領域，從研究到實現的過程中，計算效能和可擴展性是兩個重要的挑戰。NVIDIA Isaac Lab 和 Amazon SageMaker AI 的合作，提供了一個解決方案，讓機器人學習更快、更好、更省。</p>    <h2>機器人學習的挑戰</h2>    <p>機器人學習需要大量的計算資源和數據，尤其是在訓練複雜的行為，如人形機器人在地形上的移動。傳統的計算方法，需要大量的計算機和數據存儲，且需要人工維護和管理計算機集群，這是一個耗時和費力的過程。</p>    <p>NVIDIA Isaac Lab 和 Amazon SageMaker AI 的合作，提供了一個雲端計算的解決方案，讓機器人學習更快、更好、更省。Amazon SageMaker AI 提供了一個完全管理的計算環境，讓用戶可以專注於機器人學習的開發，而不需要關心計算機集群的維護和管理。</p>    <h2>NVIDIA Isaac Lab 和 Amazon SageMaker AI 的合作</h2>    <p>NVIDIA Isaac Lab 是一個基於 NVIDIA GPU 的機器人學習平台，提供了一個高效和可擴展的計算環境，讓機器人學習更快、更好。Amazon SageMaker AI 是一個完全管理的計算環境，提供了一個簡單和方便的方式，讓用戶可以使用 NVIDIA Isaac Lab 的計算資源和數據存儲。</p>    <p>兩者的合作，提供了一個解決方案，讓機器人學習更快、更好、更省。用戶可以使用 Amazon SageMaker AI 的計算環境，讓機器人學習更快、更好，同時也可以使用 NVIDIA Isaac Lab 的計算資源和數據存儲，讓機器人學習更好、更省。</p>    <h2>編輯悄悄話</h2>    <p>機器人學習是一個快速發展的領域，需要大量的計算資源和數據。NVIDIA Isaac Lab 和 Amazon SageMaker AI 的合作，提供了一個解決方案，讓機器人學習更快、更好、更省。用戶可以使用 Amazon SageMaker AI 的計算環境，讓機器人學習更快、更好，同時也可以使用 NVIDIA Isaac Lab 的計算資源和數據存儲，讓機器人學習更好、更省。如果你是一個機器人學習的開發者，現在是你嘗試這個解決方案的最佳時機。",
+    "score": 95,
+    "takeaways": [
+      "機器人學習從研究到實現的挑戰",
+      "NVIDIA Isaac Lab 和 Amazon SageMaker AI 的合作",
+      "計算效能和可擴展性的重要性"
+    ],
+    "punchline": "讓機器人學習更快、更好、更省",
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/09/ML-20813.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "007",
+    "title": "資料中心的生命線：Meta 即時電力喪失準備技術",
+    "summary": "Meta 推出 Instantaneous PowerLoss Storm 測試方案，確保資料中心即時電力喪失的準備，減少災難的影響",
+    "content": "<p>資料中心是現代科技的核心，而電力供應是資料中心運行的生命線。但是，電力供應並非永遠穩定，自然災害、人為錯誤等因素都可能導致電力喪失。因此，資料中心的電力喪失準備是災難預防的重要組成部分。</p>    <h2>Meta 的即時電力喪失準備技術</h2>    <p>Meta 推出 Instantaneous PowerLoss Storm 測試方案，旨在確保資料中心即時電力喪失的準備。這個方案是 Meta 的 Disaster Readiness (DR) 程序的一部分，旨在減少災難的影響。Meta 的 Twine 容器編排器和 Power Loss Siren 技術是實現即時電力喪失準備的關鍵。</p>    <p>Twine 容器編排器可以在電力喪失的情況下，自動啟動資料中心的服務。Power Loss Siren 技術可以在電力喪失時，立即通知資料中心的管理員，從而迅速啟動備援系統。這些技術可以確保資料中心在電力喪失的情況下，仍然可以正常運行。</p>    <h2>挑戰和解決方案</h2>    <p>在實現即時電力喪失準備的過程中，Meta 面臨了許多挑戰。其中一個挑戰是 circular dependency 的問題，也就是說，資料中心的服務之間存在相互依賴的關係。在電力喪失的情況下，服務之間的相互依賴可能會導致系統崩潰。Meta 解決這個問題的方法是使用 Belljar 測試和 Twrko 技術，從而確保資料中心的服務可以在電力喪失的情況下，正常啟動和運行。</p>    <h2>編輯悄悄話</h2>    <p>即時電力喪失準備是資料中心運行的重要組成部分。Meta 的 Instantaneous PowerLoss Storm 測試方案和 Twine 容器編排器、Power Loss Siren 技術是實現即時電力喪失準備的關鍵。這些技術可以確保資料中心在電力喪失的情況下，仍然可以正常運行。因此，資料中心的管理員應該重視即時電力喪失準備，從而確保資料中心的穩定運行和安全性。</p>",
+    "score": 95,
+    "takeaways": [
+      "Meta 推出 Instantaneous PowerLoss Storm 測試方案，確保資料中心即時電力喪失的準備",
+      "資料中心的電力喪失準備是災難預防的重要組成部分",
+      "Meta 的 Twine 容器編排器和 Power Loss Siren 技術是實現即時電力喪失準備的關鍵"
+    ],
+    "punchline": "即時電力喪失，系統依然運行",
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Validating-PowerLoss-Readiness-Meta-hero.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "008",
+    "title": "AI 不是企業變革的唯一關鍵：系統設計才是真正的關鍵",
+    "summary": "企業在採用 AI 時，往往關注於 AI 模型本身的強大功能，但真正的關鍵在於系統的設計和執行。一個綜合的代理平台，能夠支持多種模型、開放性和靈活性，是企業成功的關鍵因素。",
+    "content": "<p>企業在採用 AI 時，往往關注於 AI 模型本身的強大功能，但真正的關鍵在於系統的設計和執行。一個綜合的代理平台，能夠支持多種模型、開放性和靈活性，是企業成功的關鍵因素。</p><h2>企業需要一個綜合的代理平台</h2><p>企業需要一個綜合的代理平台，來支持多種模型、開放性和靈活性。這樣的平台，能夠讓企業輕鬆地部署和管理 AI 模型，同時也能夠提供安全性、治理和持續改進的功能。</p><h2>系統的安全性、治理和持續改進是關鍵因素</h2><p>系統的安全性、治理和持續改進是企業成功的關鍵因素。企業需要確保系統的安全性和治理，以避免 AI 模型的誤用和資料泄露。同時，系統也需要能夠持續改進，以保持競爭力和創新能力。</p><h2>編輯悄悄話</h2><p>企業在採用 AI 時，需要關注於系統的設計和執行，而不是僅僅關注於 AI 模型本身的強大功能。一個綜合的代理平台，能夠支持多種模型、開放性和靈活性，是企業成功的關鍵因素。企業需要確保系統的安全性、治理和持續改進，以保持競爭力和創新能力。</p>",
+    "score": 95,
+    "takeaways": [
+      "AI 不是企業變革的唯一關鍵，真正的關鍵在於系統的設計和執行",
+      "企業需要一個綜合的代理平台，來支持多種模型、開放性和靈活性",
+      "系統的安全性、治理和持續改進是企業成功的關鍵因素"
+    ],
+    "punchline": "AI 不是企業變革的唯一關鍵，真正的關鍵在於系統的設計和執行",
+    "image": "https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Hero-2-1024x576.png",
+    "source": "Microsoft Azure Blog",
+    "url": "https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "009",
+    "title": "三位工程師如何在 Elastic 公司晉升職位",
+    "summary": "三位工程師分享他們在 Elastic 公司晉升職位的經驗和心得，強調分享職業發展目標、不斷學習和成長、尋找導師和榜樣的重要性",
+    "content": "<p>職業發展是每個人的心中目標，尤其是在現在的職場環境中，員工們不僅要尋找新的工作機會，也要在職業生涯中不斷學習和成長。根據一份報告，只有 48% 的員工感到自己在公司內有晉升的機會，而 46% 的員工則表示公司不支持他們的職業發展。因此，如何在職業生涯中晉升和成長成為每個人的關注點。</p>    <h2>分享職業發展目標</h2>    <p>三位工程師分享了他們在 Elastic 公司晉升職位的經驗和心得，首先強調的是分享職業發展目標的重要性。Jen Huang，senior software engineering manager，分享了她從個體貢獻者到領導者的轉變經歷，她表示要讓主管知道自己的職業發展目標，然後共同制定實現計畫。Najwa Harif，product manager，也分享了她從支持工程師到產品經理的轉變經歷，她表示要明確自己的職業發展目標，然後與主管討論如何實現。</p>    <h2>不斷學習和成長</h2>    <p>除了分享職業發展目標外，三位工程師還強調了不斷學習和成長的重要性。Yuliia Naumenko，tech lead，principal software engineer II，分享了她從個體貢獻者到團隊領導者的轉變經歷，她表示要勇於嘗試新的挑戰，不要害怕變化。Najwa Harif 也分享了她如何通過參加內部項目、上網課、聽播客來學習新的技能和知識。</p>    <p>同時，三位工程師還強調了尋找導師和榜樣的重要性，Jen Huang 表示要找出自己想追求的職位，然後與該職位的人員進行交流，了解他們的日常工作和成功的經驗。Najwa Harif 也分享了她如何通過公司的同儕計畫來連接產品經理，學習他們的思維方式和工作方法。</p>    <h2>編輯悄悄話</h2>    <p>職業發展就是不斷學習和成長，分享職業發展目標、不斷學習和成長、尋找導師和榜樣是三位工程師分享的重要心得。通過這些經驗和心得，希望能夠幫助您在職業生涯中找到自己的方向和目標，不斷學習和成長，勇於嘗試新的挑戰，尋找導師和榜樣，最終實現自己的職業發展目標。",
+    "score": 95,
+    "takeaways": [
+      "分享職業發展目標給主管，共同制定實現計畫",
+      "不斷學習和成長，勇於嘗試新的挑戰",
+      "尋找導師和榜樣，學習他們的經驗和心得"
+    ],
+    "punchline": "職業發展就是不斷學習和成長",
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt1f49b9726ef1f68b/6a28630b197c4c026b2c7f59/3-engineers-blogs_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/culture-engineers-advance-careers",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "010",
+    "title": "人工智慧的雙面性：創造價值與保護生命",
+    "summary": "本文介紹了美國政府對人工智慧的最新發展，包括行政命令和阿里巴巴的旗艦大型語言模型 Qwen3.7-Max。此外，文章還介紹了人工智慧技術被用於保護鯨魚的案例，展示了人工智慧在創造價值和保護生命方面的雙面性。",
+    "content": "<h2>人工智慧的雙面性</h2><p>人工智慧是一種具有雙面性的技術，它既可以創造價值，也可以帶來風險。美國政府最近發布的行政命令，旨在促進先進人工智慧創新和安全，同時考慮其對安全的影響。</p><h2>阿里巴巴的旗艦大型語言模型</h2><p>阿里巴巴最近推出了旗艦大型語言模型 Qwen3.7-Max，具有更快的速度和更強大的功能。這款模型可以用於各種應用，包括自然語言處理、語言翻譯和文本生成。</p><h2>人工智慧保護鯨魚</h2><p>人工智慧技術也被用於保護鯨魚。熱感應攝像頭和人工智慧算法可以用於檢測和跟蹤鯨魚，從而避免鯨魚與船隻碰撞。</p><h2>編輯悄悄話</h2><p>人工智慧是一種具有雙面性的技術，它既可以創造價值，也可以帶來風險。美國政府的行政命令和阿里巴巴的旗艦大型語言模型 Qwen3.7-Max，都是人工智慧發展的重要里程碑。同時，人工智慧技術被用於保護鯨魚的案例，展示了人工智慧在創造價值和保護生命方面的雙面性。未來，人工智慧將繼續發展和應用，帶來更多的機會和挑戰。</p>",
+    "score": 95,
+    "takeaways": [
+      "美國政府發布行政命令，促進先進人工智慧創新和安全，同時考慮其對安全的影響",
+      "阿里巴巴推出旗艦大型語言模型 Qwen3.7-Max，具有更快的速度和更強大的功能",
+      "人工智慧技術被用於保護鯨魚，通過熱感應攝像頭和人工智慧算法來檢測和跟蹤鯨魚"
+    ],
+    "punchline": "人工智慧不僅可以創造價值，也可以保護生命",
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-356",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "011",
+    "title": "鹅厂员工高考期间的难忘经历",
+    "summary": "高考是一段难忘的时光，鹅厂员工在这期间经历过许多令人感动和啟发的事。让我们一起探索他们的故事，学习和成长",
+    "content": "<p>高考是一段难忘的时光，每个人都有自己的故事和经历。鹅厂员工也不例外，他们在高考期间经历过许多令人感动和啟发的事。</p><h2>鹅厂员工的故事</h2><p>在评论区，鹅厂员工分享了他们在高考期间的难忘经历。他们的故事令人感动和啟发，值得我们学习和分享。</p><ul><li>有的员工回忆起他们在高考期间的紧张和焦虑，但也感谢他们的家人和朋友的支持和鼓励。</li><li>有的员工分享了他们在高考期间的奇遇和趣事，比如他们在考场上遇到的有趣的事情。</li><li>有的员工也分享了他们在高考期间的感悟和反思，比如他们如何应对压力和挑战。</li></ul><h2>鹅厂员工的经历是我们学习和成长的宝贵资源</h2><p>鹅厂员工的经历是我们学习和成长的宝贵资源。通过他们的故事，我们可以学到如何应对挑战和压力，如何保持积极和乐观的态度。让我们一起学习和成长，成为更好的自己。</p><h2>編輯悄悄話</h2><p>鹅厂员工的故事不仅仅是他们个人的经历，也是我们共同的财富。让我们一起分享和学习，成为更好的自己。同时，也希望鹅厂员工的故事能够给我们带来启发和鼓励，帮助我们在人生的道路上勇往直前。</p>",
+    "score": 85,
+    "takeaways": [
+      "鹅厂员工在高考期间经历过许多难忘的事",
+      "他们的故事令人感动和啟发",
+      "鹅厂员工的经历是我们学习和成长的宝贵资源"
+    ],
+    "punchline": "鹅厂员工的故事，值得我们学习和分享",
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801918&idx=1&sn=02b1729b29e056bca66a3861ca724a34",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "012",
+    "title": "Salesforce 的 20,000 個企業客戶：AI 代理的成功秘訣",
+    "summary": "Salesforce 的 CPO John Kucera 分享了 AI 代理的成功秘訣，包括保持行為的一致性和可靠性，和提供一個層次化的架構",
+    "content": "<p>Salesforce 的 Agentforce 平台已經成為企業 AI 代理的領導者。通過提供一個層次化的架構，企業可以安全地部署 AI 代理，讓人們和機器之間的合作更加緊密。</p>    <h2>AI 代理的挑戰</h2>    <p>AI 代理的最大挑戰是保持行為的一致性和可靠性。由於 LLMs 的非確定性，相同的問題可以產生不同的結果。這是 Salesforce 的客戶最常遇到的挑戰之一，特別是在高風險的工作流程中。</p>    <p>傳統的軟件開發中，90% 的工作發生在上線之前。但是，AI 代理的開發中，90% 的工作發生在上線之後。這是因為 AI 代理需要不斷地學習和適應，才能保持其行為的一致性和可靠性。</p>    <h2>Agentforce 的解決方案</h2>    <p>Agentforce 提供了一個層次化的架構，讓企業可以安全地部署 AI 代理。這個架構包括四個層次：engagement 層、agent 層、system of work 層和 context 層。這些層次讓企業可以從 idea 到 working agent，不需要從頭開始建構基礎設施。</p>    <p>Agentforce 還提供了一個 robust 的工具集，讓企業可以管理 AI 代理的整個生命周期，包括建構、測試、部署、管理和編排 AI 代理。</p>    <h2>編輯悄悄話</h2>    <p>AI 代理的未來是讓人們和機器之間的合作更加緊密。通過提供一個層次化的架構和 robust 的工具集，Agentforce 讓企業可以安全地部署 AI 代理，提高生產力和效率。所以，如果你想知道 AI 代理的成功秘訣，請記住：保持行為的一致性和可靠性，和提供一個層次化的架構。這是 Salesforce 的 20,000 個企業客戶的成功秘訣，也是你企業的未來。</p>",
+    "score": 95,
+    "takeaways": [
+      "Salesforce 的 Agentforce 平台已經部署了 20,000 個企業客戶",
+      "AI 代理的最大挑戰是保持行為的一致性和可靠性",
+      "Agentforce 提供了一個層次化的架構，讓企業可以安全地部署 AI 代理"
+    ],
+    "punchline": "AI 代理的未來是讓人們和機器之間的合作更加緊密",
+    "image": "https://substackcdn.com/image/fetch/$s_!eobd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F184b7bf6-1c10-4645-9afe-72a5d68a7756_1508x850.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/what-salesforce-learned-from-20000",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "013",
+    "title": "Google Cloud 上的新力量：Claude Fable 5",
+    "summary": "Anthropic 的最新前沿模型 Claude Fable 5 現在已在 Google Cloud 上推出，帶來強大的安全防護措施和複雜的多步驟推理能力，適合高級軟件開發、長期代理、深度多模態文檔分析等任務",
+    "content": "<p>Google Cloud 上的新力量：Claude Fable 5</p><p>Anthropic 的最新前沿模型 Claude Fable 5 現在已在 Google Cloud 上推出，帶來強大的安全防護措施和複雜的多步驟推理能力。這是 Anthropic 的最新模型，旨在為客戶提供最佳的模型能力，並具有強大的安全防護措施，適合一般使用。</p><h2>什麼是 Claude Fable 5？</h2><p>Claude Fable 5 是 Anthropic 的最新前沿模型，設計用於複雜的多步驟推理任務。它具有強大的安全防護措施，適合高級軟件開發、長期代理、深度多模態文檔分析等任務。Claude Fable 5 可以幫助您解決複雜的問題，提高工作效率和準確性。</p><h2>如何使用 Claude Fable 5？</h2><p>您可以在 Google Cloud 上使用 Claude Fable 5 和其他 Anthropic 模型，包括 Claude Opus 4.8 和 Claude Sonnet 4.6。只需訪問 Anthropic 的博客，了解更多關於這個版本的信息。然後，您就可以在 Agent Platform 上使用 Claude Fable 5 和其他模型，開始您的工作。</p><h2>編輯悄悄話</h2><p>智慧模型的力量，讓您的工作更高效。Claude Fable 5 是 Anthropic 的最新前沿模型，帶來強大的安全防護措施和複雜的多步驟推理能力。它適合高級軟件開發、長期代理、深度多模態文檔分析等任務。現在，您可以在 Google Cloud 上使用 Claude Fable 5 和其他 Anthropic 模型，開始您的工作。",
+    "score": 85,
+    "takeaways": [
+      "Claude Fable 5 是 Anthropic 的最新前沿模型，現在已在 Google Cloud 上推出",
+      "該模型具有強大的安全防護措施，適合複雜的多步驟推理任務",
+      "Claude Fable 5 可用於高級軟件開發、長期代理、深度多模態文檔分析等任務"
+    ],
+    "punchline": "智慧模型的力量，讓您的工作更高效",
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/claude_fable_5.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/cloud-fable-5-on-google-cloud/",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "014",
+    "title": "AI 大戰：馬斯克敗訴、OpenAI IPO、Google AI 大更新",
+    "summary": "伊隆·馬斯克在對 OpenAI 的訴訟中敗訴，理由是他等待太久才提起訴訟。與此同時，OpenAI 正準備提交首次公開募股（IPO）申請，可能成為歷史上最大規模的 IPO。Google 也在 I/O 2026 大會上推出了多項 AI 更新，包括 Gemini Omni、Antigravity 2.0 和 Gemini Spark 等。AI 大戰即將爆發，誰將成為最後的贏家？",
+    "content": "<p>伊隆·馬斯克在對 OpenAI 的訴訟中敗訴，理由是他等待太久才提起訴訟。這場訴訟是因為馬斯克認為 OpenAI 的創始人 Sam Altman 和 Greg Brockman 將 OpenAI 轉變為一家盈利企業，違反了 OpenAI 的非營利性質。然而，法庭認為馬斯克的訴訟超出了訴訟時效，因此駁回了他的訴求。</p><h2>OpenAI 的 IPO 計劃</h2><p>OpenAI 正準備提交首次公開募股（IPO）申請，可能成為歷史上最大規模的 IPO。根據報導，OpenAI 的市值可能達到 1 萬億美元。這將是 AI 行業的一個重要里程碑，標誌著 AI 技術的成熟和應用。</p><h2>Google 的 AI 大更新</h2><p>Google 在 I/O 2026 大會上推出了多項 AI 更新，包括 Gemini Omni、Antigravity 2.0 和 Gemini Spark 等。Gemini Omni 是一款可以將圖像、音頻和文本轉換為視頻的 AI 模型。Antigravity 2.0 是一款可以模擬真實世界的 AI 模型。Gemini Spark 是一款可以提供 24 小時 AI 服務的 AI 模型。這些更新標誌著 Google 在 AI 領域的進步和投入。</p><h2>編輯悄悄話</h2><p>AI 大戰即將爆發，誰將成為最後的贏家？馬斯克的敗訴、OpenAI 的 IPO 計劃和 Google 的 AI 大更新都標誌著 AI 行業的進步和競爭。未來，AI 將如何改變我們的生活？我們將繼續關注和報導 AI 行業的最新動態。</p>",
+    "score": 95,
+    "takeaways": [
+      "伊隆·馬斯克（Elon Musk）在對 OpenAI 的訴訟中敗訴，理由是他等待太久才提起訴訟",
+      "OpenAI 正準備提交首次公開募股（IPO）申請，可能成為歷史上最大規模的 IPO",
+      "Google 在 I/O 2026 大會上推出了多項 AI 更新，包括 Gemini Omni、Antigravity 2.0 和 Gemini Spark 等"
+    ],
+    "punchline": "AI 大戰即將爆發，誰將成為最後的贏家？",
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "015",
+    "title": "Next.js 跨平台部署大躍進：穩定的 Adapter API 到來",
+    "summary": "Next.js 16.2 引入了穩定的 Adapter API，為跨平台部署提供了更好的支援。這個更新是 Next.js 團隊與平台提供者合作的成果，旨在提供更好的跨平台部署體驗。",
+    "content": "<p>你是否曾經想過，如何讓你的 Next.js 應用程序在不同的平台上順暢運行？如果你有這樣的需求，那麼你一定會對 Next.js 16.2 的更新感到興奮。這個版本引入了穩定的 Adapter API，為跨平台部署提供了更好的支援。</p><h2>什麼是 Adapter API？</h2><p>Adapter API 是 Next.js 團隊與平台提供者合作的成果，旨在提供更好的跨平台部署體驗。這個 API 提供了一個穩定的公共合約，讓平台提供者可以根據自己的需求進行定制化。</p><p>OpenNext 項目填補了 Next.js 架構與平台提供者之間的鴻溝，提供了穩定的公共合約。這個項目讓 Next.js 團隊與平台提供者可以更好地合作，提供更好的跨平台部署體驗。</p><h2>如何使用 Adapter API？</h2><p>使用 Adapter API 非常簡單。你只需要根據自己的需求進行定制化，就可以享受跨平台部署的便利性。Next.js 團隊提供了詳細的文檔和指南，幫助你快速上手。</p><p>另外，Next.js 團隊還提供了測試套件，幫助你驗證自己的應用程序是否符合跨平台部署的需求。這個套件涵蓋了多種測試案例，包括流媒體行為、緩存交互、客戶端導航等。</p><h2>編輯悄悄話</h2><p>跨平台部署一直是開發人員的痛點，但是 Next.js 16.2 的更新讓這個問題變得更容易解決。穩定的 Adapter API 提供了一個公共合約，讓平台提供者可以根據自己的需求進行定制化。這個更新是 Next.js 團隊與平台提供者合作的成果，旨在提供更好的跨平台部署體驗。如果你有跨平台部署的需求，那麼你一定會對這個更新感到興奮。</p>",
+    "score": 95,
+    "takeaways": [
+      "Next.js 16.2 引入了穩定的 Adapter API，為跨平台部署提供了更好的支援",
+      "OpenNext 項目填補了 Next.js 架構與平台提供者之間的鴻溝，提供了穩定的公共合約",
+      "Next.js 團隊與平台提供者合作，設計、測試和驗證了 Adapter API，為跨平台部署提供了更好的支援"
+    ],
+    "punchline": "Next.js 16.2 讓跨平台部署更容易了！",
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "016",
+    "title": "語音翻譯革命：Gemini 3.5 Live Translate 讓你與世界溝通無障礙",
+    "summary": "Google 推出 Gemini 3.5 Live Translate，能夠實現近乎即時的語音翻譯，讓你與世界溝通無障礙",
+    "content": "<p>你是否曾經遇到語言障礙，無法與他人溝通？Google 最新的語音翻譯模型 Gemini 3.5 Live Translate 可以幫助你實現即時的語音翻譯，讓你與世界溝通無障礙。</p><h2>什麼是 Gemini 3.5 Live Translate？</h2><p>Gemini 3.5 Live Translate 是 Google 最新的語音翻譯模型，能夠自動檢測 70 多種語言，並生成流暢、自然的翻譯語音。該模型可以應用於各種場景，包括會議、電話、教學等。</p><p>與傳統的語音翻譯模型不同，Gemini 3.5 Live Translate 可以實現近乎即時的語音翻譯，不需要等待講者完成講話後才開始翻譯。該模型可以連續生成翻譯語音，保持與講者的同步。</p><h2> Gemini 3.5 Live Translate 的應用場景</h2><p>Gemini 3.5 Live Translate 可以應用於各種場景，包括會議、電話、教學等。該模型可以幫助你與他人溝通無障礙，無論你們說的是什麼語言。</p><p>例如，在會議中，Gemini 3.5 Live Translate 可以幫助你與其他參與者溝通，即使你們說的是不同的語言。在電話中，Gemini 3.5 Live Translate 可以幫助你與客戶或朋友溝通，即使你們說的是不同的語言。</p><h2>編輯悄悄話</h2><p>Gemini 3.5 Live Translate 是一個革命性的語音翻譯模型，能夠實現近乎即時的語音翻譯，讓你與世界溝通無障礙。該模型的應用場景非常廣泛，包括會議、電話、教學等。如果你想與他人溝通無障礙，Gemini 3.5 Live Translate 是一個不錯的選擇。</p>",
+    "score": 95,
+    "takeaways": [
+      "Gemini 3.5 Live Translate 是 Google 最新的語音翻譯模型，能夠實現近乎即時的語音翻譯",
+      "該模型可以自動檢測 70 多種語言，並生成流暢、自然的翻譯語音",
+      "Gemini 3.5 Live Translate 可以應用於各種場景，包括會議、電話、教學等"
+    ],
+    "punchline": "語音翻譯不再是未來，Gemini 3.5 Live Translate 讓你隨時隨地溝通無障礙",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3-5_Live_Translate_hero.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "017",
+    "title": "人工智慧工具的評估陷阱：如何避免誤判",
+    "summary": "本文探討了人工智慧工具的評估指標問題，指出過去的自動化經驗告訴我們，新的技術不一定會取代傳統職業。同時，開源模型和封閉模型在性能上存在差距，但開源模型的進步速度加快。",
+    "content": "<p>人工智慧（AI）工具的評估指標是一個重要的問題。Greg Wilson 指出，許多人使用的評估指標存在問題，例如線代碼生成量、票務關閉數量等。這些指標都有其局限性，需要謹慎選擇。</p>  <h2>過去的自動化經驗</h2>  <p>Benedict Evans 觀察到，過去的自動化經驗告訴我們，新的技術不一定會取代傳統職業。例如，會計業在過去的一個世紀中經歷了大量的自動化，但會計師的數量仍然在增加。</p>  <p>Stephen O’Grady 探討了開源模型和封閉模型在性能上的差距。他指出，封閉模型在創新和性能上領先，但開源模型的進步速度加快。</p>  <h2>開源模型和封閉模型的差距</h2>  <p>開源模型和封閉模型在性能上存在差距，但開源模型的進步速度加快。這意味著開源模型可能會在未來的某個時候趕上封閉模型。</p>  <p>另外，人工智慧工具的評估指標需要謹慎選擇，否則會導致誤判。例如，Ernst & Young Canada 的報告中，超過一半的引用來源是虛假的。</p>  <h2>編輯悄悄話</h2>  <p>人工智慧工具的評估指標是一個複雜的問題，需要謹慎選擇。過去的自動化經驗告訴我們，新的技術不一定會取代傳統職業。同時，開源模型和封閉模型在性能上存在差距，但開源模型的進步速度加快。因此，需要對人工智慧工具的評估指標進行深入的思考和研究，以避免誤判和錯誤的決策。</p>",
+    "score": 95,
+    "takeaways": [
+      "人工智慧（AI）工具的評估指標往往存在問題，需要謹慎選擇",
+      "過去的自動化經驗告訴我們，新的技術不一定會取代傳統職業",
+      "開源模型和封閉模型在性能上存在差距，但開源模型的進步速度加快"
+    ],
+    "punchline": "AI 工具的評估指標需要謹慎選擇，否則會導致誤判",
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-06-02.html",
+    "date": "2026-06-10"
+  }
+]
