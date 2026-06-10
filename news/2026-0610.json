@@ -477,5 +477,137 @@
     "source": "腾讯技术工程",
     "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801924&idx=1&sn=319b28177b03a56e9d63b61285e5606b",
     "date": "2026-06-10"
+  },
+  {
+    "id": "028",
+    "title": "革命性文本生成技術：DiffusionGemma 速度提升4倍，開源讓你玩",
+    "summary": "谷歌推出DiffusionGemma，開源的文本生成模型，能夠在專用GPU上提升4倍的推理速度，讓開發者能夠建造更快速、更互動的AI應用",
+    "content": "<p>谷歌推出了一個革命性的文本生成技術：DiffusionGemma。這個開源模型能夠在專用GPU上提升4倍的推理速度，讓開發者能夠建造更快速、更互動的AI應用。</p>    <h2>什麼是DiffusionGemma？</h2>    <p>DiffusionGemma是一個基於Gemini Diffusion研究的26B Mixture of Experts (MoE)模型。它使用了一個novel diffusion head設計，能夠最大化生成速度。這個模型能夠生成整個段落的文字同時，而不是像傳統的autoregressive模型一樣，一個一個字元地生成。</p>    <h2>DiffusionGemma的優勢</h2>    <p>DiffusionGemma的優勢在於它能夠在專用GPU上提升4倍的推理速度。這意味著開發者可以建造更快速、更互動的AI應用，例如實時編輯、快速迭代和生成非線性文本結構。另外，DiffusionGemma還能夠通過fine-tuning來改善其性能。</p>    <h2>編輯悄悄話</h2>    <p>DiffusionGemma是AI研究界的一個重大突破。它能夠讓開發者建造更快速、更互動的AI應用，從而改善用戶體驗。雖然DiffusionGemma仍然是一個實驗性的模型，但它的潛力是巨大的。讓我們拭目以待，DiffusionGemma將如何改變AI研究界的未來。</p>",
+    "score": 90,
+    "takeaways": [
+      "DiffusionGemma能夠在專用GPU上提升4倍的推理速度",
+      "該模型使用了novel diffusion head設計，能夠最大化生成速度",
+      "開發者可以通過fine-tuning來改善DiffusionGemma的性能"
+    ],
+    "punchline": "DiffusionGemma：讓你的AI應用變得更快、更強",
+    "social_posts": {
+      "threads": "你知道嗎？谷歌推出了一個革命性的文本生成技術：DiffusionGemma！這個開源模型能夠在專用GPU上提升4倍的推理速度，讓開發者能夠建造更快速、更互動的AI應用。#DiffusionGemma #AI",
+      "facebook": "谷歌推出DiffusionGemma，開源的文本生成模型，能夠在專用GPU上提升4倍的推理速度。讓我們一起探討DiffusionGemma的優勢和應用場景！#DiffusionGemma #AI",
+      "viral_hook": "AI文本生成速度提升4倍！谷歌推出DiffusionGemma，開源讓你玩"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png",
+    "source": "AI HOT 精選",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "029",
+    "title": "谷歌AI模型幻覺引發法律責任，你該如何避免類似爭議？",
+    "summary": "谷歌因AI模型幻觉被判負有法律責任，讓我們重新思考AI的使用與責任",
+    "content": "<p>谷歌的AI模型幻觉引發了法律責任的爭議，讓我們重新思考AI的使用與責任。這個案例不僅是對谷歌的警示，也是對所有使用AI的企業和個人的一個提醒。</p>    <h2>AI模型幻觉的風險</h2>    <p>AI模型幻觉是指AI模型在訓練資料中學習到的模式和關係不一定能夠準確反映現實世界。這種風險可能導致AI模型做出錯誤的預測或建議，從而引發法律責任的爭議。</p>    <h2>谷歌的案例和教訓</h2>    <p>谷歌的案例是AI倫理的警示。它提醒我們需要謹慎評估AI的風險和益處，同時需要建立健全的AI倫理和監管機制，以確保AI的使用是負責任和合乎道德的。</p>    <h2>編輯悄悄話</h2>    <p>AI的力量需要與責任相匹配。讓我們一起努力，建立一個更加負責任和合乎道德的AI使用環境吧!</p>",
+    "score": 90,
+    "takeaways": [
+      "AI模型幻觉可能引發法律責任",
+      "谷歌的案例是AI倫理的警示",
+      "使用AI時需要謹慎評估其風險"
+    ],
+    "punchline": "AI的力量需要與責任相匹配",
+    "social_posts": {
+      "threads": "你有沒有想過AI的力量和風險？谷歌的案例是AI倫理的警示，讓我們重新思考AI的使用與責任。",
+      "facebook": "谷歌因AI模型幻觉被判負有法律責任，這個案例是對所有使用AI的企業和個人的一個提醒。讓我們一起努力，建立一個更加負責任和合乎道德的AI使用環境吧!",
+      "viral_hook": "AI的力量需要與責任相匹配，你準備好了嗎？"
+    },
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://garymarcus.substack.com/p/breaking-google-liable-for-hallucinations",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "030",
+    "title": "從此不再為 kernel 調校煩惱：Neuron Agentic Development 加速 AWS Trainium 優化",
+    "summary": "Neuron Agentic Development 可以幫助開發者加速 kernel 開發流程，讓每個機器學習工程師都能成為性能工程師",
+    "content": "<p>隨著 AI 模型的規模和複雜度不斷增長，開發者面臨著一個共同的挑戰：如何從硬體中提取出最大性能和效率。</p>    <h2>Neuron Agentic Development 的出現</h2>    <p>Neuron Agentic Development 是一組 AI 代理和技能，旨在幫助開發者加速 kernel 開發流程。它提供了一組五個專業技能，跟隨自然的 kernel 開發流程：寫入、除錯、分析、優化和部署。</p>    <h2>Neuron Agentic Development 的優勢</h2>    <p>Neuron Agentic Development 可以幫助開發者縮短從想法到硬體優化的時間，減少學習曲線，快速地適應新硬體架構。它還可以幫助開發者解決常見的問題，例如 kernel 編譯和執行錯誤，性能優化等。</p>    <h2>編輯悄悄話</h2>    <p>Neuron Agentic Development 是一個革命性的工具，讓每個機器學習工程師都能成為性能工程師。它可以幫助開發者加速 kernel 開發流程，減少時間和成本，提高性能和效率。所以，還等什麼？趕快試試 Neuron Agentic Development 吧！",
+    "score": 90,
+    "takeaways": [
+      "Neuron Agentic Development 提供了一組 AI 代理和技能，讓開發者可以更容易地優化 kernel",
+      "開發者可以使用 Neuron Agentic Development 加速 kernel 開發流程，減少從想法到硬體優化的時間",
+      "Neuron Agentic Development 可以幫助開發者縮短學習曲線，快速地適應新硬體架構"
+    ],
+    "punchline": "讓每個機器學習工程師都能成為性能工程師",
+    "social_posts": {
+      "threads": "大家好，我們今天要聊聊 Neuron Agentic Development 這個神奇的工具。它可以幫助開發者加速 kernel 開發流程，減少時間和成本，提高性能和效率。讓每個機器學習工程師都能成為性能工程師！",
+      "facebook": "Neuron Agentic Development 是一個革命性的工具，旨在幫助開發者加速 kernel 開發流程。它提供了一組五個專業技能，跟隨自然的 kernel 開發流程。讓每個機器學習工程師都能成為性能工程師！",
+      "viral_hook": "讓每個機器學習工程師都能成為性能工程師！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/10/ml-20937.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/stop-hand-tuning-kernels-how-neuron-agentic-development-accelerates-aws-trainium-optimizations/",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "031",
+    "title": "【爆款企業文化】Elastic 如何透過員工資源小組打造多元共融的工作環境？",
+    "summary": "Elastic 的員工資源小組（ERGs）自 2016 年起就已經成為公司文化的一部分，旨在為員工提供一個共融的空間，讓他們能夠分享自己的聲音，並推動公司的多元化、公平性和包容性（DEI）倡議。",
+    "content": "<p>Elastic 的員工資源小組（ERGs）自 2016 年起就已經成為公司文化的一部分，旨在為員工提供一個共融的空間，讓他們能夠分享自己的聲音，並推動公司的多元化、公平性和包容性（DEI）倡議。</p>  <h2>什麼是 ERGs？</h2>  <p>ERGs 是由員工自發成立的，目前已經有多個小組，為員工提供一個共融的空間。這些小組是基於員工的共同興趣、背景或經歷而成立的，旨在為員工提供一個可以分享自己的聲音和經歷的平台。</p>  <h2>Elastic 的「源碼」理念</h2>  <p>Elastic 的「源碼」（Source Code）理念強調員工的多元性和包容性，鼓勵員工「如你所是」（As YOU, Are），不需要改變自己來適應公司的文化。這個理念是基於 Elastic 的價值觀，旨在為員工提供一個共融的工作環境。</p>  <h2>ERGs 的作用</h2>  <p>ERGs 在推動公司的 DEI 倡議方面扮演了重要角色，同時也促進了員工的個人和專業成長。透過 ERGs，員工可以找到歸屬感和成長的空間，同時也可以為公司的 DEI 倡議做出貢獻。</p>  <h2>編輯悄悄話</h2>  <p>透過 ERGs，Elastic 打造了一個共融的工作環境，讓員工能夠找到歸屬感和成長的空間。這個理念值得我們學習和借鏡，如何在自己的工作環境中建立一個共融的空間，讓員工能夠找到歸屬感和成長的空間呢？</p>",
+    "score": 85,
+    "takeaways": [
+      "Elastic 的 ERGs 由員工自發成立，目前已經有多個小組，為員工提供一個共融的空間",
+      "ERGs 的成立是基於 Elastic 的「源碼」（Source Code）理念，強調員工的多元性和包容性",
+      "ERGs 在推動公司的 DEI 倡議方面扮演了重要角色，同時也促進了員工的個人和專業成長"
+    ],
+    "punchline": "透過 ERGs，Elastic 打造了一個共融的工作環境，讓員工能夠找到歸屬感和成長的空間。",
+    "social_posts": {
+      "threads": "Elastic 的 ERGs 是如何打造一個共融的工作環境的？\n透過 ERGs，員工可以找到歸屬感和成長的空間，同時也可以為公司的 DEI 倡議做出貢獻。\n#Elastic #ERGs #DEI",
+      "facebook": "Elastic 的 ERGs 是如何打造一個共融的工作環境的？透過 ERGs，員工可以找到歸屬感和成長的空間，同時也可以為公司的 DEI 倡議做出貢獻。點擊鏈接了解更多！#Elastic #ERGs #DEI",
+      "viral_hook": "你知道 Elastic 的 ERGs 是如何打造一個共融的工作環境的嗎？"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltb9d5e53fd0242d26/6a285bac431e1803bcc4b298/ERGs-blog_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/culture-meet-our-7-ergs-who-are-building-communities-at-elastic",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "032",
+    "title": "想教書還是想兼職？ ByteByteGo 正在徵求 AI 和工程課程的兼職教師！",
+    "summary": "如果你熱愛教學，想分享自己的知識，現在有個好機會！ByteByteGo 正在徵求兼職教師，教導 AI 和工程課程，工作時間靈活，收入穩定！",
+    "content": "<p>你是否熱愛教學，想分享自己的知識？現在有個好機會！ByteByteGo 正在徵求兼職教師，教導 AI 和工程課程，工作時間靈活，收入穩定！</p>    <h2>工作內容</h2>    <p>作為兼職教師，你將負責教導 AI 和工程課程，包括 Building Production-Grade AI Systems、AI Security & LLM Red-Teaming、AI Cost Optimization 等。工作時間靈活，平均每兩周工作 2-5 小時。</p>    <h2>徵求條件</h2>    <p>我們正在徵求具有教學經驗和相關知識的人才。如果你熱愛教學，享受分享知識的樂趣，現在就申請吧！請將你的背景、想教的課程和任何教學、寫作或演講樣本發送到 jobs@bytebytego.com。</p>    <h2>編輯悄悄話</h2>    <p>如果你想教書還是想兼職，這個機會絕對不容錯過！趕快申請吧，成為 ByteByteGo 的兼職教師，分享你的知識，獲得穩定的收入！</p>",
+    "score": 85,
+    "takeaways": [
+      "ByteByteGo 徵求兼職教師，教導 AI 和工程課程",
+      "工作時間靈活，收入穩定，適合想兼職的人",
+      "需要有教學經驗和相關的知識"
+    ],
+    "punchline": "教學是分享知識的最佳方式！",
+    "social_posts": {
+      "threads": "你想教書還是想兼職？現在有個好機會！ByteByteGo 徵求兼職教師，教導 AI 和工程課程，工作時間靈活，收入穩定！#ByteByteGo #兼職教師 #AI #工程",
+      "facebook": "ByteByteGo 徵求兼職教師，教導 AI 和工程課程！如果你熱愛教學，享受分享知識的樂趣，現在就申請吧！#ByteByteGo #兼職教師 #AI #工程",
+      "viral_hook": "想教書還是想兼職？現在有個好機會！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!Mcb6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86aa77cf-d704-453b-af2f-ca143b036b16_1492x1836.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/love-teaching-bytebytego-is-hiring",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "033",
+    "title": "揭開 DiffusionGemma 的秘密：4 倍速文字生成技術",
+    "summary": "DiffusionGemma 是一種新的文字生成模型，能夠實現 4 倍速的文字生成，讓開發者能夠更快速地創建交互式 AI 應用",
+    "content": "<p>DiffusionGemma 是一種新的文字生成模型，能夠實現 4 倍速的文字生成。這個模型是基於業界領先的智慧參數和最新的 Gemini Diffusion 研究開發的。</p>    <h2>DiffusionGemma 的工作原理</h2>    <p>DiffusionGemma 的工作原理是通過同時生成整個段落的文字，而不是像傳統的自回歸模型一樣，一個字一個字地生成。這樣可以充分利用硬件的能力，提高文字生成的速度。</p>    <h2>DiffusionGemma 的優點</h2>    <p>DiffusionGemma 的優點是可以用於需要快速文字生成的應用，例如實時編輯和生成非線性文本結構。另外，DiffusionGemma 的性能可以通過微調來提高。</p>    <h2>編輯悄悄話</h2>    <p>DiffusionGemma 是一種革命性的文字生成模型，讓開發者能夠更快速地創建交互式 AI 應用。雖然它仍然是一種實驗性的模型，但它的潛力是巨大的。所以，如果你是一名開發者，趕快來試試 DiffusionGemma 吧！",
+    "score": 90,
+    "takeaways": [
+      "DiffusionGemma 能夠實現 4 倍速的文字生成",
+      "該模型適合用於需要快速文字生成的應用，例如實時編輯和生成非線性文本結構",
+      "DiffusionGemma 的性能可以通過微調來提高"
+    ],
+    "punchline": "DiffusionGemma 讓文字生成更快、更強大",
+    "social_posts": {
+      "threads": "你知道嗎？DiffusionGemma 是一種新的文字生成模型，能夠實現 4 倍速的文字生成！\n這個模型是基於業界領先的智慧參數和最新的 Gemini Diffusion 研究開發的。\n讓開發者能夠更快速地創建交互式 AI 應用",
+      "facebook": " DiffusionGemma 是一種新的文字生成模型，能夠實現 4 倍速的文字生成！這個模型是基於業界領先的智慧參數和最新的 Gemini Diffusion 研究開發的。讓開發者能夠更快速地創建交互式 AI 應用。分享給你的朋友吧！",
+      "viral_hook": "文字生成速度提升 4 倍！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "date": "2026-06-10"
   }
 ]
