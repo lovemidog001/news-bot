@@ -411,5 +411,71 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/lseg",
     "date": "2026-06-10"
+  },
+  {
+    "id": "025",
+    "title": "Anthropic 巨頭的隱秘面紗：創業故事、安全挑戰與五角大樓的糾葛",
+    "summary": "Anthropic 的創始人 Dario 和 Daniela Amodei 首次公開對話，揭露公司創業過程、與五角大樓的摩擦，以及如何將安全置於 AI 開發的首位",
+    "content": "<p>近年來，人工智慧（AI）技術的發展日新月異， Anthropic 是其中一家領先的企業。該公司的創始人 Dario 和 Daniela Amodei 近期接受了罕見的深度對話，分享了公司的創業故事、與五角大樓的合作和糾葛，以及如何將安全置於 AI 開發的首位。</p>    <h2>創業故事和早期挑戰</h2>    <p>Anthropic 的創業故事始於 Dario 和 Daniela Amodei 兩兄弟姊妹的夢想。 họ希望利用 AI 技術來解決世界上一些最複雜的問題。然而，創業之路並不平坦，公司在早期面臨了許多挑戰，包括資金不足和技術困難。</p>    <h2>安全對齊的重要性</h2>    <p>Anthropic 的創始人強調安全對齊的重要性。他们認為，AI 技術的發展應該以安全為核心，否則可能會對社會造成嚴重的後果。因此，公司在 AI 開發的每個階段都著重於安全對齊，確保技術的安全性和可靠性。</p>    <h2>編輯悄悄話</h2>    <p>Anthropic 的故事告訴我們，創業需要勇氣和毅力，而安全對齊是 AI 技術發展的核心。讓我們一起關注 Anthropic 的未來發展，和探索 AI 技術的無限可能。</p>",
+    "score": 90,
+    "takeaways": [
+      "Anthropic 的創業故事和早期挑戰",
+      "公司與五角大樓的合作和糾葛",
+      "安全對齊的重要性和Anthropic 的實踐"
+    ],
+    "punchline": "安全是 AI 的核心",
+    "social_posts": {
+      "threads": "你知道 Anthropic 巨頭的隱秘面紗嗎？創業故事、安全挑戰與五角大樓的糾葛，讓我們一起探索 AI 技術的未來！",
+      "facebook": "Anthropic 的創業故事和安全對齊的重要性，值得我們深思。讓我們一起關注 Anthropic 的未來發展，和探索 AI 技術的無限可能！",
+      "viral_hook": " Anthropic 巨頭的隱秘面紗：創業故事、安全挑戰與五角大樓的糾葛"
+    },
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-10/inside-anthropic-the-965-billion-ai-juggernaut-video",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "026",
+    "title": "揭開 Elasticsearch 的秘密：如何達到 0.99 的查詢精度",
+    "summary": "Elasticsearch 如何使用 HNSW 和量化技術實現高效的向量搜索，達到 0.99 的查詢精度",
+    "content": "<p>你是否曾經想過，如何在海量的數據中快速找到最相似的向量？這個問題一直是搜索引擎和推薦系統的核心挑戰。近年來，Elasticsearch 的 HNSW 算法成為了解決這個問題的最佳方案。</p>    <h2>什麼是 HNSW</h2>    <p>HNSW 是一種近似最近鄰搜索算法，它通過建立多層的近鄰圖來快速找到最相似的向量。這種算法在 2016 年被提出，從此成為了向量搜索的標準。</p>    <p>與其他算法相比，HNSW 的優點在於它可以在高維度的空間中快速找到最相似的向量。這是因為 HNSW 使用了一種叫做「量化」的技術，將高維度的向量映射到低維度的空間中，從而大幅提高搜索效率。</p>    <h2>如何使用 HNSW</h2>    <p>要使用 HNSW，需要先建立一個索引，這個索引會包含所有的向量。然後，當你需要搜索最相似的向量時，HNSW 會快速找到最相似的向量，並返回給你。</p>    <p>在 Elasticsearch 中，HNSW 是默認的向量搜索算法。你可以通過配置文件來調整 HNSW 的參數，從而優化搜索效率和查詢精度。</p>    <h2>編輯悄悄話</h2>    <p>總之，Elasticsearch 的 HNSW 是向量搜索的未來。如果你想在海量的數據中快速找到最相似的向量，HNSW 是你的最佳選擇。不要猶豫，立即試用 Elasticsearch 的 HNSW吧！",
+    "score": 90,
+    "takeaways": [
+      "HNSW 是目前最主流的向量搜索算法",
+      "量化技術可以大幅提高搜索效率",
+      "Elasticsearch 的 HNSW 實現比 OpenSearch 更高的查詢精度"
+    ],
+    "punchline": "Elasticsearch 的 HNSW 是向量搜索的未來",
+    "social_posts": {
+      "threads": "你知道嗎？Elasticsearch 的 HNSW 算法可以在高維度的空間中快速找到最相似的向量！這是因為 HNSW 使用了一種叫做「量化」的技術，將高維度的向量映射到低維度的空間中。立即試用 Elasticsearch 的 HNSW吧！",
+      "facebook": "Elasticsearch 的 HNSW 算法是向量搜索的最佳方案！它可以在高維度的空間中快速找到最相似的向量，並且可以調整參數來優化搜索效率和查詢精度。立即試用 Elasticsearch 的 HNSW吧！",
+      "viral_hook": "你知道嗎？Elasticsearch 的 HNSW 算法可以在 15,000 次查詢每秒的情況下達到 0.99 的查詢精度！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltf202ef348d6c8c36/6a279867197c4c77122c792c/Image-understanding-aNN.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/understanding-approximate-nearest-neighbor-search",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "027",
+    "title": "秒開網頁的秘密：腾讯開源框架Kuikly的逆轉勝",
+    "summary": "想讓你的網頁秒開？腾讯的開源框架Kuikly有個秘密：TurboDisplay",
+    "content": "<p>你是否曾經遇到網頁打開很慢，讓你感到沮喪？這個問題不僅影響用戶體驗，也會導致轉換率下降。為了解決這個問題，腾讯開源了一個跨端頁面加速框架——Kuikly。</p>    <h2>什麼是Kuikly？</h2>    <p>Kuikly是一個開源框架，能夠實現跨端頁面的秒開。它的核心技術是TurboDisplay，能夠大幅提高首屏加速的效率。</p>    <h2>TurboDisplay的秘密</h2>    <p>TurboDisplay是Kuikly的首屏加速方案。它使用了一種特殊的加速技術，能夠在網頁打開的瞬間就顯示出首屏的內容。這樣不僅能夠提高用戶體驗，也能夠大幅提高轉換率。</p>    <h2>編輯悄悄話</h2>    <p>秒開網頁，不僅是用戶體驗的提升，也是商業成功的關鍵。所以，別再等待了，快來試試Kuikly和TurboDisplay吧！",
+    "score": 90,
+    "takeaways": [
+      "Kuikly是腾讯開源的跨端頁面加速框架",
+      "TurboDisplay是Kuikly的首屏加速方案",
+      "秒開網頁能大幅提高用戶體驗和轉換率"
+    ],
+    "punchline": "秒開網頁，贏得用戶",
+    "social_posts": {
+      "threads": "你是否曾經遇到網頁打開很慢？\n這個問題不僅影響用戶體驗，也會導致轉換率下降。\n為了解決這個問題，腾讯開源了一個跨端頁面加速框架——Kuikly。\n#Kuikly #TurboDisplay #秒開網頁",
+      "facebook": "想讓你的網頁秒開？腾讯的開源框架Kuikly有個秘密：TurboDisplay。點擊連結了解更多！",
+      "viral_hook": "秒開網頁，贏得用戶！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801924&idx=1&sn=319b28177b03a56e9d63b61285e5606b",
+    "date": "2026-06-10"
   }
 ]
