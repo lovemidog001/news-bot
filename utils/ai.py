@@ -42,7 +42,7 @@ def build_prompt(text):
 """
 
 # ── NVIDIA ──
-def call_nvidia(text, model="meta/llama-3.1-70b-instruct"):
+def call_nvidia(text, model):
     api_key = os.getenv("NVIDIA_API_KEY")
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -65,7 +65,7 @@ def call_nvidia(text, model="meta/llama-3.1-70b-instruct"):
     return response.json()["choices"][0]["message"]["content"]
 
 # ── Gemini ──
-def call_gemini(text, model="gemini-1.5-flash"):
+def call_gemini(text, model):
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         raise Exception("缺少 GEMINI_API_KEY 環境變數")
@@ -88,7 +88,7 @@ def call_gemini(text, model="gemini-1.5-flash"):
     return response.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 # ── DeepSeek ──
-def call_deepseek(text, model="deepseek-chat"):
+def call_deepseek(text, model):
     api_key = os.getenv("DEEPSEEK_API_KEY")
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -110,7 +110,7 @@ def call_deepseek(text, model="deepseek-chat"):
     return response.json()["choices"][0]["message"]["content"]
 
 # ── Groq ──
-def call_groq(text, model="llama-3.3-70b-versatile"):
+def call_groq(text, model):
     api_key = os.getenv("GROQ_API_KEY")
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -154,15 +154,29 @@ def safe_json_parse(output: str):
     return None
 
 # ── Fallback ──
-def call_ai_with_fallback(text, fallback_chain=["deepseek", "gemini", "groq", "nvidia"]):
+def call_ai_with_fallback(text, fallback_chain=["deepseek", "gemini", "groq", "nvidia"], model_map=None):
+    if model_map is None:
+        model_map = {
+            "deepseek": "deepseek-chat",
+            "gemini": "gemini-1.5-flash",
+            "groq": "llama-3.3-70b-versatile",
+            "nvidia": "meta/llama-3.1-70b-instruct"
+        }
+
     last_error = None
     for provider in fallback_chain:
         fn = PROVIDER_MAP.get(provider)
         if not fn:
             continue
+        
+        model = model_map.get(provider)
+        if not model:
+            print(f"[Fallback] Skip {provider}: No model configured")
+            continue
+
         try:
-            print(f"[Fallback] 嘗試 {provider}...")
-            result = fn(text)
+            print(f"[Fallback] 嘗試 {provider} (模型: {model})...")
+            result = fn(text, model)
             parsed = safe_json_parse(result)
             if not parsed:
                 print(f"[Fallback] {provider} JSON 解析失敗")
