@@ -1,12 +1,15 @@
 {
-  "ai_provider": 1,
-  "schedule": 1,
   "max_articles": 60,
-  "model": "gpt-4o-mini",
   "fallback_chain": [
     "deepseek",
     "gemini",
     "groq",
     "nvidia"
-  ]
+  ],
+  "models": {
+    "deepseek": "deepseek-chat",
+    "gemini": "gemini-1.5-flash",
+    "groq": "llama-3.3-70b-versatile",
+    "nvidia": "meta/llama-3.1-70b-instruct"
+  }
 }

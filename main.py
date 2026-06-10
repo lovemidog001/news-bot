@@ -100,7 +100,8 @@ for art in articles:
         # ===== AI 生成 =====
         data, used_provider = call_ai_with_fallback(
             raw_text,
-            fallback_chain
+            fallback_chain,
+            model_map=config.get("models")
         )
 
         # ===== 驗證 =====
