@@ -124,6 +124,8 @@ for art in articles:
 
             "punchline": data.get("punchline", "").strip(),
 
+            "social_posts": data.get("social_posts", {}),
+
             "image": fetch_image(art["link"]),
 
             "source": art.get("source", ""),
