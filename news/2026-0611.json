@@ -526,5 +526,137 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "date": "2026-06-11"
+  },
+  {
+    "id": "025",
+    "title": "AI 革命來臨！ Anthropic 與 DXC 聯手將 Claude 引入關鍵行業系統",
+    "summary": "Anthropic 與 DXC Technology 達成全球聯盟，將 Claude 引入關鍵行業系統，開啟 AI 革命新時代",
+    "content": "<p>Anthropic 與 DXC Technology 達成全球聯盟，將 Claude 引入關鍵行業系統，開啟 AI 革命新時代。</p>    <h2>什麼是 Claude？</h2>    <p>Claude 是 Anthropic 開發的一種 AI 技術，能夠幫助企業解決複雜的問題和提升效率。</p>    <p>DXC 將訓練數萬名 Claude 認證工程師，推動 AI 技術在行業中的應用，包括金融、航空、保險和政府等行業。</p>    <h2>DXC OASIS 平台</h2>    <p>Claude 已經成為 DXC OASIS 平台的默認基礎模型，提升開發速度 10 倍，服務超過 50 個客戶。</p>    <p>DXC OASIS 平台是一種 AI 原生管控平台，能夠幫助企業管理和優化其 IT 系統。</p>    <h2>編輯悄悄話</h2>    <p>AI 革命來臨， Anthropic 與 DXC 聯手改變行業，讓我們拭目以待這個新時代的到來吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Anthropic 與 DXC 聯手將 Claude 引入關鍵行業系統",
+      "DXC 將訓練數萬名 Claude 認證工程師，推動 AI 技術在行業中的應用",
+      "Claude 已經成為 DXC OASIS 平台的默認基礎模型，提升開發速度 10 倍"
+    ],
+    "punchline": "AI 革命來臨， Anthropic 與 DXC 聯手改變行業",
+    "social_posts": {
+      "threads": "AI 革命來臨！ Anthropic 與 DXC 聯手將 Claude 引入關鍵行業系統，你們準備好了嗎？",
+      "facebook": "Anthropic 與 DXC Technology 達成全球聯盟，將 Claude 引入關鍵行業系統，開啟 AI 革命新時代。點擊鏈接了解更多：https://www.anthropic.com/",
+      "viral_hook": "AI 革命來臨， Anthropic 與 DXC 聯手改變行業！"
+    },
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Megaphone&backgroundColor=coral",
+    "source": "AI HOT 精選",
+    "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "026",
+    "title": "PyTorch 神秘面紗：從 nn.Linear 到 Fused MLP 的探索之旅",
+    "summary": "PyTorch 的神經網路模組到底是怎麼運作的？讓我們一起揭開 nn.Linear 到 Fused MLP 的秘密",
+    "content": "<p>PyTorch 是目前最流行的深度學習框架之一，其神經網路模組是核心功能之一。但是，很多人對於 PyTorch 的神經網路模組的實現細節並不清楚。本文將從 nn.Linear 到 Fused MLP 進行深入探索，讓你了解 PyTorch 的神秘面紗。</p>    <h2>nn.Linear 的實現</h2>    <p>nn.Linear 是 PyTorch 中的一個基本神經網路模組，它實現了線性變換的功能。其實現細節如下：</p>    <ul>      <li>初始化權重和偏置</li>      <li>前向傳播</li>      <li>後向傳播</li>    </ul>    <h2>Fused MLP 的優點和應用場景</h2>    <p>Fused MLP 是 PyTorch 中的一個高級神經網路模組，它結合了多個線性變換和激活函數的功能。其優點和應用場景如下：</p>    <ul>      <li>提高神經網路的性能</li>      <li>減少計算成本</li>      <li>適用於大型神經網路模型</li>    </ul>    <h2>編輯悄悄話</h2>    <p>PyTorch 的力量就在你手中，學會使用它，你將能夠創造出更加強大的神經網路模型。不要害怕探索和學習， 因為這是你成長的關鍵。</p>",
+    "score": 85,
+    "takeaways": [
+      "PyTorch 的 nn.Linear 是如何實現的",
+      "Fused MLP 的優點和應用場景",
+      "如何使用 PyTorch 來優化神經網路的性能"
+    ],
+    "punchline": "PyTorch 的力量就在你手中",
+    "social_posts": {
+      "threads": "你有沒有想過 PyTorch 的神秘面紗？\n讓我們一起探索 nn.Linear 到 Fused MLP 的秘密\n#PyTorch #神經網路",
+      "facebook": "PyTorch 的神經網路模組是如何運作的？\n讓我們一起學習和探索\n分享你的想法和經驗，讓我們共同成長",
+      "viral_hook": "PyTorch 的力量就在你手中！"
+    },
+    "image": "https://huggingface.co/blog/assets/torch-mlp-fusion/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "027",
+    "title": "AI 代理評估的新時代：Agent-EvalKit 讓你輕鬆評估 AI 代理",
+    "summary": "Agent-EvalKit 是一款開源工具包，讓你可以輕鬆評估 AI 代理的表現，避免表面上的正確答案下隱藏的錯誤",
+    "content": "<p>在 AI 代理的開發中，評估是非常重要的一個環節。但是，傳統的評估方法往往不足以發現 AI 代理的潛在問題。Agent-EvalKit 是一款開源工具包，可以幫助你輕鬆評估 AI 代理的表現。</p>    <h2>Agent-EvalKit 的工作原理</h2>    <p>Agent-EvalKit 可以評估 AI 代理的表現，包括工具呼叫、資料返回和最終輸出。它可以與 AI 編碼助手整合，讓評估工作更容易。你可以使用自然語言描述你的評估目標，Agent-EvalKit 會自動處理每個階段的評估工作。</p>    <h2>優點和應用</h2>    <p>Agent-EvalKit 提供具體的改善建議，讓你可以快速優化 AI 代理。它可以幫助你避免表面上的正確答案下隱藏的錯誤，讓你的 AI 代理更可靠、更安全。</p>    <h2>編輯悄悄話</h2>    <p>Agent-EvalKit 是一款非常有用的工具包，讓 AI 代理評估變得簡單。如果你正在開發 AI 代理，千萬不要錯過這款工具包！</p>",
+    "score": 90,
+    "takeaways": [
+      "Agent-EvalKit 可以評估 AI 代理的表現，包括工具呼叫、資料返回和最終輸出",
+      "Agent-EvalKit 可以與 AI 編碼助手整合，讓評估工作更容易",
+      "Agent-EvalKit 提供具體的改善建議，讓你可以快速優化 AI 代理"
+    ],
+    "punchline": "讓 AI 代理評估變得簡單",
+    "social_posts": {
+      "threads": "你知道嗎？AI 代理評估可以這麼簡單！Agent-EvalKit 是一款開源工具包，可以幫助你評估 AI 代理的表現。讓你的 AI 代理更可靠、更安全！",
+      "facebook": "Agent-EvalKit 是一款開源工具包，可以幫助你評估 AI 代理的表現。它可以與 AI 編碼助手整合，讓評估工作更容易。點擊連結了解更多！",
+      "viral_hook": "讓 AI 代理評估變得簡單！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/11/ml-20590.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-ai-agents-systematically-with-agent-evalkit/",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "028",
+    "title": "爆炸性揭密：Elastic 如何用「分布式設計」打造全球成功",
+    "summary": "了解 Elastic 的分布式設計背後的故事，和它如何影響我們的商業實踐和思維模式",
+    "content": "<p>當你瀏覽 Elastic 的網站或與 Elasticians （員工）聊天時，你可能會聽到「分布式設計」這個詞彙。對我們來說，這是最大的優勢之一。</p>    <h2>什麼是分布式設計？</h2>    <p>對 Elastic 來說，「分布式」意味著兩個方面：產品和員工。我们的產品從一開始就被設計為分布式的，因為 Elasticsearch 可以快速地在多個節點之間分佈數據和工作負載。</p>    <p>我們的員工也分布在全世界各地，而不是集中在一個總部。有超過 40 個國家的員工，其中一些人遠程工作，而其他人則在我們的 25 個全球辦公室工作。</p>    <h2>分布式設計的優勢</h2>    <p>分布式設計給我們帶來了在招聘和創新方面的獨特優勢。首先，「分布式」是我们產品的 DNA。Elasticsearch 是一個分布式的開源搜索和分析引擎。</p>    <p>其次，分布式設計使得我們可以快速擴展和創新。因為我們的產品可以快速地在多個節點之間分佈數據和工作負載，所以我們可以快速地處理大量的數據。</p>    <h2>編輯悄悄話</h2>    <p>所以，下次你聽到「分布式設計」這個詞彙時，不要只想到軟體的特徵，也要想到它對公司的影響。因為，分布式設計不是只有軟體的特徵，也是我們公司的基石。",
+    "score": 90,
+    "takeaways": [
+      "Elastic 的分布式設計是其產品和員工的核心特徵",
+      "這種設計使得公司可以快速擴展和創新",
+      "全球員工和客戶的多樣性是 Elastic 成功的關鍵因素"
+    ],
+    "punchline": "分布式設計不是只有軟體的特徵，也是我們公司的基石",
+    "social_posts": {
+      "threads": "你知道嗎？Elastic 的分布式設計是其成功的關鍵因素之一！\n分布式設計使得公司可以快速擴展和創新\n全球員工和客戶的多樣性是 Elastic 成功的關鍵因素\n#Elastic #分布式設計",
+      "facebook": "了解 Elastic 的分布式設計背後的故事，和它如何影響我們的商業實踐和思維模式\n點擊連結了解更多：[連結]\n#Elastic #分布式設計",
+      "viral_hook": "你知道嗎？Elastic 的分布式設計是其成功的關鍵因素之一！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt2fdc93519979d295/6a286d504579fd815e9449a4/distributed-blog_(1)_(1)_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/culture-elastic-distributed-by-design",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "029",
+    "title": "看板大革命：Looker 導入智慧對話代理，讓數據分析更簡單、更有趣",
+    "summary": "Looker 推出智慧對話代理，讓用戶可以使用自然語言與看板進行互動，探索商業智慧數據，獲得更深入的洞察",
+    "content": "<p>看板一直是組織從數據中提取洞察的主要方式，但它們在敏捷環境中可能會有所不足：看板不是互動的，不能讓用戶問後續問題。這迫使用戶離開工作流程或轉向數據分析師以獲得所需的答案。今天，我們推出 Looker 看板代理，嵌入智慧對話數據代理直接於看板中，讓用戶可以使用自然語言探索商業智慧數據。</p>    <h2>什麼是 Looker 看板代理？</h2>    <p>Looker 看板代理是一種智慧對話代理，可以幫助用戶探索數據，獲得更深入的洞察。用戶可以通過點擊 Gemini 圖標並提出自然語言問題來啟動對話，代理會根據用戶的問題，提供相關的數據和圖表。</p>    <h2>Looker 看板代理的優點</h2>    <p>Looker 看板代理可以幫助用戶探索數據，獲得更深入的洞察。代理可以根據用戶的問題，提供相關的數據和圖表，並且可以存取底層的 Explores 以獲得更多的信息。此外，Looker 的治理模型可以確保用戶只可以存取授權的數據和洞察。</p>    <h2>編輯悄悄話</h2>    <p>看板不再只是靜態的數據展示，Looker 看板代理讓數據分析變得更簡單、更有趣。如果你想體驗 Looker 看板代理的強大功能，現在就可以啟動它，並開始與你的看板數據進行對話吧！",
+    "score": 90,
+    "takeaways": [
+      "Looker 智慧對話代理可以幫助用戶探索數據，獲得更深入的洞察",
+      "代理可以根據用戶的問題，提供相關的數據和圖表",
+      "Looker 的治理模型可以確保用戶只可以存取授權的數據和洞察"
+    ],
+    "punchline": "看板不再只是靜態的數據展示",
+    "social_posts": {
+      "threads": "看板大革命：Looker 導入智慧對話代理，讓數據分析更簡單、更有趣\n\n Looker 看板代理可以幫助用戶探索數據，獲得更深入的洞察\n\n 代理可以根據用戶的問題，提供相關的數據和圖表\n\n Looker 的治理模型可以確保用戶只可以存取授權的數據和洞察",
+      "facebook": "看板大革命：Looker 導入智慧對話代理，讓數據分析更簡單、更有趣！ Looker 看板代理可以幫助用戶探索數據，獲得更深入的洞察。點擊連結了解更多：",
+      "viral_hook": "看板不再只是靜態的數據展示，Looker 看板代理讓數據分析變得更簡單、更有趣！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/50_-_Business_Intelligence_lw8zsjF.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/business-intelligence/dashboard-agents-in-looker/",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "030",
+    "title": "OpenAI 收購 Ona！這對你的 AI 未來意味著什麼？",
+    "summary": "OpenAI 收購 Ona，擴展 Codex 的安全、持久的雲端環境，讓 AI代理可以在企業工作流中長時間運行，為你的工作帶來革命性的變化",
+    "content": "<p>OpenAI 收購 Ona，這對你的 AI 未來意味著什麼？讓我們來探討一下這個重大的消息。</p>    <h2>什麼是 Ona？</h2>    <p>Ona是一家提供安全、持久的雲端環境的公司，讓開發者可以在雲端中工作，無需擔心安全性和資料存儲的问题。</p>    <p>OpenAI 收購 Ona，意味著 Codex 將擁有更強大的安全、持久的雲端環境，讓 AI 代理可以在企業工作流中長時間運行，提高工作效率和安全性。</p>    <h2>對你的工作意味著什麼？</h2>    <p>這對你的工作意味著什麼？簡單來說，就是你的工作將變得更加高效和安全。AI 代理可以在企業工作流中長時間運行，為你的工作帶來革命性的變化。</p>    <p>例如，你可以使用 AI 代理來自動化重複的工作，讓你有更多時間專注於創造性和高價值的工作。或者，你可以使用 AI 代理來分析大數據，為你的商業決策提供更準確的數據支持。</p>    <h2>編輯悄悄話</h2>    <p>這個消息對於 AI 的未來發展具有重要意義。OpenAI 收購 Ona，意味著 AI 代理將更加安全、持久和高效，為你的工作和生活帶來更加多樣化和豐富的體驗。所以，讓我們拭目以待，AI 代理將如何改變你的工作和生活吧！",
+    "score": 90,
+    "takeaways": [
+      "OpenAI 收購 Ona，擴展 Codex 的安全、持久的雲端環境",
+      "AI 代理可以在企業工作流中長時間運行，提高工作效率",
+      "Ona 的技術提供安全、持久的環境，讓 AI 代理可以存取工具、系統和上下文"
+    ],
+    "punchline": "AI 代理可以在企業工作流中長時間運行，為你的工作帶來革命性的變化",
+    "social_posts": {
+      "threads": "OpenAI 收購 Ona！這對你的 AI 未來意味著什麼？讓我們來探討一下這個重大的消息。 #AI #OpenAI #Ona",
+      "facebook": "OpenAI 收購 Ona，擴展 Codex 的安全、持久的雲端環境，讓 AI 代理可以在企業工作流中長時間運行，提高工作效率和安全性。了解更多：https://example.com",
+      "viral_hook": "AI 代理將革命性地改變你的工作和生活！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3vpY0M1x6mrbhiFVcfTF4Y/99dae42f0ed1030d045f56249385ac3a/OAI-Ona-SEO.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "date": "2026-06-11"
   }
 ]
