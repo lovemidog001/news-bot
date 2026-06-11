@@ -460,5 +460,71 @@
     "source": "Microsoft Azure Blog",
     "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
     "date": "2026-06-11"
+  },
+  {
+    "id": "022",
+    "title": "爆！國外公司的聖誕派對竟這麼瘋狂？",
+    "summary": "想知道國外公司如何度過聖誕節？一起來看看Elastic公司的Decemberfest吧！",
+    "content": "<p>你是否曾想過國外公司如何度過聖誕節？現在，我們就來看看Elastic公司的Decemberfest吧！</p>    <h2>什麼是Decemberfest？</h2>    <p>Decemberfest是Elastic公司的年度假日慶祝活動，從十一月底到十二月中旬舉行。這個活動是Elastic公司的一個傳統，旨在促進員工之間的連結和回饋。</p>    <h2>如何參與Decemberfest？</h2>    <p>由於Elastic公司是一家分散式公司，因此提供多種方式讓員工參與Decemberfest，無論他們工作在哪裡。員工可以透過實體聚會、虛擬聚會或其他方式參與活動。</p>    <p>在2025年，Decemberfest活動吸引了超過1,000名員工參與，共計26個實體聚會、31個集群和22個虛擬聚會。</p>    <h2>編輯悄悄話</h2>    <p>聖誕節不只是個節日，還是一個連結大家的機會。無論你在哪裡，Decemberfest都是一個讓你感受到團隊精神和連結的活動。所以，下次聖誕節來臨時，別忘了參與Decemberfest吧！",
+    "score": 90,
+    "takeaways": [
+      "Decemberfest是Elastic公司的年度假日慶祝活動",
+      "活動期間，員工可以透過多種方式參與，包括實體和虛擬聚會",
+      "活動旨在促進員工之間的連結和回饋"
+    ],
+    "punchline": "聖誕節不只是個節日，還是一個連結大家的機會",
+    "social_posts": {
+      "threads": "你是否曾想過國外公司如何度過聖誕節？\n現在，我們就來看看Elastic公司的Decemberfest吧！\n活動期間，員工可以透過多種方式參與，包括實體和虛擬聚會\n這個活動是Elastic公司的一個傳統，旨在促進員工之間的連結和回饋",
+      "facebook": "想知道國外公司如何度過聖誕節？一起來看看Elastic公司的Decemberfest吧！活動期間，員工可以透過多種方式參與，包括實體和虛擬聚會。這個活動是Elastic公司的一個傳統，旨在促進員工之間的連結和回饋。現在，就來看看Decemberfest的精彩內容吧！",
+      "viral_hook": "國外公司的聖誕派對竟這麼瘋狂？"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltca17a604a905f931/6a285f96c50d522d478d8dc6/decemberfest-blog-image_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/culture-decemberfest-elastic-holiday-celebration",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "023",
+    "title": "腾讯混元AI Infra大升級！HPC-Ops推理核心算子全面升級，你該知道的幾件事",
+    "summary": "腾讯混元AI Infra進化了！HPC-Ops推理核心算子全面升級，讓AI運算更快更強",
+    "content": "<p>腾讯混元AI Infra進化了！近日，腾讯正式推出了全新的HPC-Ops推理核心算子，全面升級了AI Infra的運算效率。</p>    <h2>什麼是HPC-Ops推理核心算子？</h2>    <p>HPC-Ops推理核心算子是一種高性能的AI運算引擎，能夠大幅提高AI模型的推理速度和準確度。這意味著，未來的AI應用將能夠更加快速和準確地處理各種任務。</p>    <h2>這次升級的影響</h2>    <p>這次升級對於AI應用和開發者有著重要影響。開發者將能夠使用更快速和更強大的AI運算引擎，開發出更加先進的AI應用。而對於用戶來說，未來的AI服務將能夠更加快速和準確地為他們提供服務。</p>    <h2>編輯悄悄話</h2>    <p>AI運算速度的提升，意味著未來的AI應用將更加強大和便捷。讓我們一起期待這個未來吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "腾讯混元AI Infra進行了全新更新升級",
+      "HPC-Ops推理核心算子全面升級，提高了AI運算效率",
+      "這次升級對於AI應用和開發者有著重要影響"
+    ],
+    "punchline": "AI運算速度提升，未來可期！",
+    "social_posts": {
+      "threads": "腾讯混元AI Infra大升級！\nHPC-Ops推理核心算子全面升級\n讓AI運算更快更強\n你該知道的幾件事...\n#AI #腾讯 #混元AIInfra",
+      "facebook": "腾讯混元AI Infra進化了！全新更新升級，HPC-Ops推理核心算子全面升級。讓我們一起探討這次升級的影響和未來的AI應用。",
+      "viral_hook": "AI運算速度提升，未來可期！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649801982&idx=1&sn=25fb653637a2fbac015d46c265f8266e",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "024",
+    "title": "AI 内容透明度大突破！OpenAI 支持歐盟新規，讓你不再被 AI 生成的內容欺騙",
+    "summary": "OpenAI 支持歐盟的 AI 內容透明度規範，讓你能夠輕鬆辨別 AI 生成的內容，保護你的數位安全",
+    "content": "<p>近年來，AI 生成的內容越來越普遍，但這也帶來了一個問題：如何辨別哪些內容是由 AI 生成的？為了解決這個問題，歐盟推出了 AI 內容透明度規範，OpenAI 也宣布支持這項規範。</p>    <h2>什麼是 AI 內容透明度規範？</h2>    <p>AI 內容透明度規範是一套規則，要求 AI 生成的內容必須被標記，以便使用者辨別。這項規範旨在保護數位安全，防止假訊息的傳播。</p>    <h2>OpenAI 如何支持這項規範？</h2>    <p>OpenAI 將會在其產品中實施 AI 內容透明度規範，讓使用者能夠輕鬆辨別 AI 生成的內容。同時，OpenAI 也將會與其他公司和組織合作，推動這項規範的實施。</p>    <h2>編輯悄悄話</h2>    <p>AI 生成的內容，不再是隱藏的真相。透過這項規範，使用者將會更容易辨別真偽，保護自己的數位安全。讓我們一起迎接這個新的時代，讓 AI 生成的內容不再是隱藏的真相，而是透明的真相。</p>",
+    "score": 90,
+    "takeaways": [
+      "OpenAI 支持歐盟的 AI 內容透明度規範",
+      "AI 生成的內容將會被標記，以便使用者辨別",
+      "這項規範將有助於保護數位安全，防止假訊息的傳播"
+    ],
+    "punchline": "AI 生成的內容，不再是隱藏的真相",
+    "social_posts": {
+      "threads": "你知道嗎？AI 生成的內容越來越普遍，但這也帶來了一個問題：如何辨別哪些內容是由 AI 生成的？\n為了解決這個問題，歐盟推出了 AI 內容透明度規範，OpenAI 也宣布支持這項規範。\n讓我們一起討論這個問題，讓 AI 生成的內容不再是隱藏的真相。",
+      "facebook": "OpenAI 支持歐盟的 AI 內容透明度規範，讓你能夠輕鬆辨別 AI 生成的內容，保護你的數位安全。點擊連結了解更多：[連結]",
+      "viral_hook": "AI 生成的內容，不再是隱藏的真相！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2nHP3xnASZcBNZlIiE1QsM/c7de0b335c1c6a7c5c6bad6813fcf355/Frame.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "date": "2026-06-11"
   }
 ]
