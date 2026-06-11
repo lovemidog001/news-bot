@@ -394,5 +394,71 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "date": "2026-06-11"
+  },
+  {
+    "id": "019",
+    "title": "小米開源AI編程助手！你將不再是程式碼的奴隸！",
+    "summary": "小米發布MiMo Code V0.1.0，讓程式設計變得更簡單、更快捷",
+    "content": "<p>小米近日發布並開源了終端AI編程助手MiMo Code V0.1.0，採用MIT協議，供開發者免費使用。這個消息引起了廣泛關注，因為它有望革新程式設計領域，提高開發效率。</p>    <h2>什麼是MiMo Code V0.1.0？</h2>    <p>MiMo Code V0.1.0是一個基於AI的編程助手，旨在幫助開發者更快速、更簡單地完成程式設計任務。它採用了MIT協議，意味著開發者可以免費使用和修改它。</p>    <h2>它的影響是什麼？</h2>    <p>小米開源MiMo Code V0.1.0的消息引起了廣泛關注，因為它有望革新程式設計領域，提高開發效率。開發者可以使用這個工具來加速程式設計過程，減少錯誤，提高程式的質量。</p>    <h2>編輯悄悄話</h2>    <p>小米開源MiMo Code V0.1.0，是一個非常有意義的舉動。它不僅可以幫助開發者，更可以推動程式設計領域的發展。讓我們拭目以待，看到這個工具如何改變程式設計的未來！</p>",
+    "score": 85,
+    "takeaways": [
+      "小米開源AI編程助手MiMo Code V0.1.0",
+      "採用MIT協議，供開發者免費使用",
+      "有望革新程式設計領域，提高開發效率"
+    ],
+    "punchline": "程式設計變得更簡單、更快捷！",
+    "social_posts": {
+      "threads": "大家好！小米發布並開源了終端AI編程助手MiMo Code V0.1.0！這個工具可以幫助開發者更快速、更簡單地完成程式設計任務。讓我們一起探討它的影響和潛力！",
+      "facebook": "小米發布並開源了終端AI編程助手MiMo Code V0.1.0！採用MIT協議，供開發者免費使用。大家可以使用這個工具來加速程式設計過程，減少錯誤，提高程式的質量。分享給你的朋友和同事吧！",
+      "viral_hook": "程式設計變得更簡單、更快捷！小米開源AI編程助手MiMo Code V0.1.0！"
+    },
+    "image": "https://mmbiz.qpic.cn/mmbiz_jpg/YOnaicY5K4UpWdTVQs1Ub5JZ4Nibhytz1PGXehCVjhqp2HSl13h0XGLNutDiasgkZG2HbEYpzdBibduJe6tNoIW1t4r0ic7J30p3FIcetcUcB4Hk/0?wx_fmt=jpeg",
+    "source": "AI HOT 精選",
+    "url": "https://mp.weixin.qq.com/s/WkMPz-eBK2Hz0ZTQEwtx6w",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "020",
+    "title": "AI 原生開發革命： Frontier 團隊如何重新定義軟體開發",
+    "summary": "Frontier 團隊不僅使用 AI 加速開發，還重新設計了軟體開發流程，實現了 4.5 倍的生產力提升",
+    "content": "<p>近年來，軟體開發領域正在經歷一場革命。Frontier 團隊不僅使用 AI 加速開發，還重新設計了軟體開發流程，實現了 4.5 倍的生產力提升。</p>    <h2>什麼是 Frontier 團隊？</h2>    <p>Frontier 團隊是指那些成功採用 AI 原生開發方法的團隊。這些團隊不僅使用 AI 技術加速開發，還重新設計了軟體開發流程，實現了生產力的大幅提升。</p>    <h2>如何成為 Frontier 團隊</h2>    <p>任何工程團隊都可以通過學習和實踐成為 Frontier 團隊。這需要團隊重新思考軟體開發流程，採用 AI 技術，並重新設計工作流程。</p>    <p>例如，Amazon 的 Bedrock 團隊通過採用 AI 原生開發方法，實現了 20 倍的生產力提升。該團隊重新設計了工作流程，採用了 AI 技術，並實現了自動化和加速開發。</p>    <h2>編輯悄悄話</h2>    <p>AI 原生開發是軟體開發的未來。通過採用這種方法，團隊可以實現生產力的大幅提升，提高軟體質量和降低開發成本。因此，企業應該積極學習和實踐 AI 原生開發方法，成為 Frontier 團隊，領導軟體開發的未來。",
+    "score": 90,
+    "takeaways": [
+      "AI 原生開發可以實現生產力的大幅提升",
+      "Frontier 團隊通過重新設計工作流程和採用 AI 技術實現了革命性的變革",
+      "任何工程團隊都可以通過學習和實踐成為 Frontier 團隊"
+    ],
+    "punchline": "AI 原生開發是軟體開發的未來",
+    "social_posts": {
+      "threads": "你知道嗎？Frontier 團隊通過採用 AI 原生開發方法，實現了 4.5 倍的生產力提升！\n這是什麼意思？\n這意味著團隊可以更快速地開發軟體，提高軟體質量和降低開發成本。\n那麼，你的團隊是否準備好採用 AI 原生開發方法，成為 Frontier 團隊呢？",
+      "facebook": "AI 原生開發是軟體開發的未來。通過採用這種方法，團隊可以實現生產力的大幅提升，提高軟體質量和降低開發成本。分享這篇文章，讓你的朋友們了解 AI 原生開發的力量！",
+      "viral_hook": "AI 原生開發可以實現 4.5 倍的生產力提升！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/10/Frontierteams.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-frontier-teams-are-reinventing-ai-native-development/",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "021",
+    "title": "AI新時代來臨！Claude Fable 5登場，讓人工智慧變得更強大、更安全",
+    "summary": "Claude Fable 5是一款最新的AI模型，能夠處理複雜的代碼重構、深度研究合成和文件密集的工作流程，讓企業能夠委託給AI更多的工作",
+    "content": "<p>Claude Fable 5是一款最新的AI模型，能夠處理複雜的代碼重構、深度研究合成和文件密集的工作流程，讓企業能夠委託給AI更多的工作</p>    <h2>什麼是Claude Fable 5？</h2>    <p>Claude Fable 5是一款由Anthropic開發的AI模型，具有強大的自主能力，能夠處理複雜的工作流程和任務</p>    <p>它能夠計劃、執行和評估自己的工作，讓企業能夠委託給AI更多的工作</p>    <h2>如何使用Claude Fable 5？</h2>    <p>Claude Fable 5可以通過Microsoft Foundry平台使用，讓企業能夠輕鬆地整合AI模型到自己的系統和應用中</p>    <p>它也具有強大的安全保障，能夠保護企業的資料和系統</p>    <h2>編輯悄悄話</h2>    <p>AI新時代來臨，Claude Fable 5讓人工智慧變得更強大、更安全，讓企業能夠委託給AI更多的工作，提高生產力和效率</p>",
+    "score": 90,
+    "takeaways": [
+      "Claude Fable 5是一款具有強大自主能力的AI模型",
+      "能夠處理複雜的代碼重構、深度研究合成和文件密集的工作流程",
+      "具有強大的安全保障，能夠保護企業的資料和系統"
+    ],
+    "punchline": "AI新時代來臨，Claude Fable 5讓人工智慧變得更強大、更安全",
+    "social_posts": {
+      "threads": "AI新時代來臨！Claude Fable 5登場，讓人工智慧變得更強大、更安全\n能夠處理複雜的代碼重構、深度研究合成和文件密集的工作流程\n讓企業能夠委託給AI更多的工作",
+      "facebook": "發現最新的AI模型Claude Fable 5！它能夠處理複雜的代碼重構、深度研究合成和文件密集的工作流程，讓企業能夠委託給AI更多的工作",
+      "viral_hook": "AI新時代來臨，Claude Fable 5登場！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Azure_6-9_v3-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+    "date": "2026-06-11"
   }
 ]
