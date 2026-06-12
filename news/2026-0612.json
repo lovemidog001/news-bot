@@ -548,5 +548,115 @@
     "source": "Google Cloud Blog",
     "url": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/",
     "date": "2026-06-12"
+  },
+  {
+    "id": "026",
+    "title": "OpenAI Academy登場！掌握AI實用技能，提升工作效率",
+    "summary": "OpenAI推出新課程，教你如何應用AI在工作中，提高效率和生產力",
+    "content": "<p>OpenAI推出新課程，教你如何應用AI在工作中，提高效率和生產力。這三門課程分別為AI基礎、應用AI基礎和代理人與工作流，將幫助用戶掌握AI實用技能，創建可重覆的工作流。</p>    <h2>什麼是OpenAI Academy？</h2>    <p>OpenAI Academy是OpenAI推出的學習平台，旨在提供實用AI技能和知識，幫助用戶應用AI在工作中。課程由OpenAI團隊和合作夥伴共同開發，確保學習內容實用且有效。</p>    <h2>課程內容</h2>    <ul>      <li>AI基礎：介紹AI的核心概念和實用技能</li>      <li>應用AI基礎：教你如何將AI應用在工作中，提高效率和生產力</li>      <li>代理人與工作流：教你如何創建可重覆的工作流，提高工作效率</li>    </ul>    <h2>編輯悄悄話</h2>    <p>AI不是未來，是現在！OpenAI Academy的課程將幫助你掌握AI實用技能，提升工作效率。不要錯過這個機會，現在就註冊課程，開始你的AI之旅吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "OpenAI Academy提供三門新課程：AI基礎、應用AI基礎和代理人與工作流",
+      "課程旨在幫助用戶掌握AI實用技能，創建可重覆的工作流",
+      "OpenAI Academy課程由OpenAI團隊和合作夥伴共同開發，確保學習內容實用且有效"
+    ],
+    "punchline": "AI不是未來，是現在！",
+    "social_posts": {
+      "threads": "大家好！今天我要介紹OpenAI Academy的新課程！這三門課程將幫助你掌握AI實用技能，創建可重覆的工作流。不要錯過這個機會，現在就註冊課程，開始你的AI之旅吧！ #OpenAI #AI #工作流",
+      "facebook": "OpenAI Academy推出新課程！教你如何應用AI在工作中，提高效率和生產力。註冊課程，開始你的AI之旅吧！ https://www.openai.com/academy",
+      "viral_hook": "AI不是未來，是現在！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3uhZVST93Uain15J19fqjF/544b8b12c44fb2035c96b419c5196013/Frame.png?w=1600&h=900&fit=fill",
+    "source": "AI HOT 精選",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "027",
+    "title": "AI 模型開發的終極秘密：olmo-eval 讓你輕鬆評估模型",
+    "summary": "想知道如何快速評估 AI 模型的表現？olmo-eval 是你的最佳助手！",
+    "content": "<p>你是否曾經為了開發 AI 模型而苦惱？你是否曾經想知道如何快速評估模型的表現？現在，有了一個叫做 olmo-eval 的工具，可以讓你輕鬆評估模型的表現。</p>    <h2>什麼是 olmo-eval？</h2>    <p>olmo-eval 是一個評估 AI 模型的工作平台。它可以讓你快速評估模型的表現，讓你知道哪些地方需要改進。這個工具可以讓你節省很多時間和精力，讓你可以專注於模型的開發。</p>    <h2>如何使用 olmo-eval？</h2>    <p>使用 olmo-eval 非常簡單。你只需要上傳你的模型和數據，然後 olmo-eval 就會自動評估模型的表現。它會給你一個詳細的報告，讓你知道模型的優缺點。</p>    <p>olmo-eval 不僅可以評估模型的表現，也可以幫助你改進模型。它可以給你建議，讓你知道哪些地方需要改進。</p>    <h2>編輯悄悄話</h2>    <p>olmo-eval 是一個非常有用的工具。如果你是 AI 模型開發者，千萬不要錯過它！</p>",
+    "score": 90,
+    "takeaways": [
+      "olmo-eval 是一個評估 AI 模型的工作平台",
+      "可以快速評估模型的表現",
+      "讓模型開發變得更容易"
+    ],
+    "punchline": "AI 模型開發，不再是黑魔法！",
+    "social_posts": {
+      "threads": "你們有沒有想過，如何快速評估 AI 模型的表現？\n現在，有了一個叫做 olmo-eval 的工具，可以讓你輕鬆評估模型的表現。\n它可以讓你節省很多時間和精力，讓你可以專注於模型的開發。",
+      "facebook": "AI 模型開發，不再是黑魔法！ olmo-eval 是一個評估 AI 模型的工作平台。它可以讓你快速評估模型的表現，讓你知道哪些地方需要改進。分享給你的朋友吧！",
+      "viral_hook": "AI 模型開發的終極秘密：olmo-eval 讓你輕鬆評估模型！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/gacAOFYwPkpxu7cC4eeey.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "028",
+    "title": "會議準備和跟進助手：用 Amazon Quick 和 Cisco Webex MCP 伺服器提升工作效率",
+    "summary": "透過 Amazon Quick 和 Cisco Webex MCP 伺服器，打造一個會議準備和跟進助手，讓您輕鬆掌握會議內容和跟進事項",
+    "content": "<p>會議準備和跟進是工作中非常重要的兩個環節，然而，傳統的會議準備和跟進方式往往耗時耗力，且容易出錯。透過 Amazon Quick 和 Cisco Webex MCP 伺服器，打造一個會議準備和跟進助手，可以幫助您輕鬆掌握會議內容和跟進事項，提升工作效率和會議質量。</p>    <h2>會議準備助手</h2>    <p>會議準備助手可以幫助您準備會議內容，包括會議議程、會議資料、會議紀錄等。透過 Amazon Quick 和 Cisco Webex MCP 伺服器，會議準備助手可以整合各種工具和資料源，提供全面性的會議準備功能。</p>    <h2>會議跟進助手</h2>    <p>會議跟進助手可以幫助您跟進會議後的工作，包括會議紀錄、會議跟進事項等。透過 Amazon Quick 和 Cisco Webex MCP 伺服器，會議跟進助手可以整合各種工具和資料源，提供全面性的會議跟進功能。</p>    <h2>編輯悄悄話</h2>    <p>會議準備和跟進助手是您的工作效率提升的關鍵，透過 Amazon Quick 和 Cisco Webex MCP 伺服器，打造一個會議準備和跟進助手，可以幫助您輕鬆掌握會議內容和跟進事項，提升工作效率和會議質量。別再猶豫，現在就打造您的會議準備和跟進助手吧！",
+    "score": 90,
+    "takeaways": [
+      "會議準備和跟進助手可以幫助您節省時間和提高工作效率",
+      "Amazon Quick 和 Cisco Webex MCP 伺服器可以整合各種工具和資料源，提供全面性的會議準備和跟進功能",
+      "會議準備和跟進助手可以幫助您提高會議的質量和成果"
+    ],
+    "punchline": "會議準備和跟進助手：您的工作效率提升的關鍵",
+    "social_posts": {
+      "threads": "會議準備和跟進助手：您的工作效率提升的關鍵\n透過 Amazon Quick 和 Cisco Webex MCP 伺服器，打造一個會議準備和跟進助手，可以幫助您輕鬆掌握會議內容和跟進事項，提升工作效率和會議質量。",
+      "facebook": "會議準備和跟進助手：提升工作效率和會議質量的關鍵\n透過 Amazon Quick 和 Cisco Webex MCP 伺服器，打造一個會議準備和跟進助手，可以幫助您輕鬆掌握會議內容和跟進事項，提升工作效率和會議質量。分享給您的朋友和同事吧！",
+      "viral_hook": "會議準備和跟進助手：您的工作效率提升的關鍵，現在就打造吧！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/12/ml-21199.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-meeting-prep-and-follow-up-assistant-with-amazon-quick-and-cisco-webex-mcp-servers/",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "029",
+    "title": "金融犯罪調查的新思維：AI助力打擊詐欺",
+    "summary": "金融服務業每年防止數十億美元的詐欺，但仍有數百萬個案件需要調查，Elastic的AI助力調查技術可以幫助優化調查流程",
+    "content": "<p>金融服務業每年防止數十億美元的詐欺，但仍有數百萬個案件需要調查。Elastic的AI助力調查技術可以幫助優化調查流程，減少調查時間。</p>    <h2>什麼是AI助力調查？</h2>    <p>AI助力調查是指使用人工智能技術來協助調查人員進行調查工作。Elastic的AI助力調查技術可以幫助調查人員快速搜索和分析多個資料來源，例如交易紀錄、客戶資料、應用程式遙測資料等。</p>    <h2>如何實現AI助力調查？</h2>    <p>Elastic的AI助力調查技術可以通過以下幾種方式實現：</p>    <ul>      <li>使用Elasticsearch Query Language (ES|QL)查詢工具來搜索和分析資料</li>      <li>使用Elastic Agent Builder來創建自定義的調查代理</li>      <li>使用跨叢集搜索功能來搜索和分析多個資料來源</li>    </ul>    <h2>編輯悄悄話</h2>    <p>金融服務業每年防止數十億美元的詐欺，但仍有數百萬個案件需要調查。Elastic的AI助力調查技術可以幫助優化調查流程，減少調查時間。讓我們一起使用AI助力調查技術，打擊詐欺，保護金融安全！",
+    "score": 85,
+    "takeaways": [
+      "金融服務業每年防止數十億美元的詐欺，但仍有數百萬個案件需要調查",
+      "Elastic的AI助力調查技術可以幫助優化調查流程，減少調查時間",
+      "跨叢集搜索功能可以幫助調查人員快速搜索和分析多個資料來源"
+    ],
+    "punchline": "AI助力調查，讓詐欺無所遁逃",
+    "social_posts": {
+      "threads": "金融服務業每年防止數十億美元的詐欺，但仍有數百萬個案件需要調查...\nElastic的AI助力調查技術可以幫助優化調查流程，減少調查時間...\n讓我們一起使用AI助力調查技術，打擊詐欺，保護金融安全！",
+      "facebook": "金融服務業每年防止數十億美元的詐欺，但仍有數百萬個案件需要調查。Elastic的AI助力調查技術可以幫助優化調查流程，減少調查時間。點擊鏈接了解更多！",
+      "viral_hook": "AI助力調查，讓詐欺無所遁逃！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt71703bfda78bf369/69dfa5eb33376af3c7d729fc/getty-images-Hc0WpCVG4YU-unsplash.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/rethinking-financial-crime-investigation",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "030",
+    "title": "AI界的新霸主：Claude Mythos 5登场，Cursor Composer 2.5强势挑战",
+    "summary": "Anthropic推出Claude Mythos 5和Claude Fable 5，Cursor则发布Composer 2.5，两者都展现出强大的AI能力。同时，研究人员发现LLM在处理国家媒体信息时存在偏见，Anthropic的报告引发了关于递归自我改进（RSI）的讨论。",
+    "content": "<h2>AI界的新霸主：Claude Mythos 5登场</h2><p>Anthropic最近推出了两款新AI模型：Claude Mythos 5和Claude Fable 5。Claude Mythos 5是一款具有更高能力的模型，但Anthropic也强调了安全性问题。Claude Fable 5则是针对安全性问题而设计的，具有更强的安全保障措施。</p><h2>Cursor Composer 2.5强势挑战</h2><p>Cursor最近发布了Composer 2.5，这是一款专门为软件工程设计的AI模型。Composer 2.5表现出强大的编码能力，能够快速高效地完成编码任务。它也是Cursor的最新产品，旨在挑战市场上的其他AI模型。</p><h2>LLM存在偏见</h2><p>研究人员最近发现，LLM在处理国家媒体信息时存在偏见。这可能会影响它们的输出，导致不准确的信息传播。这个发现引发了人们对LLM的安全性和可靠性的担忧。</p><h2>递归自我改进（RSI）的讨论</h2><p>Anthropic的报告引发了关于递归自我改进（RSI）的讨论。RSI是指AI系统能够自我改进和升级，这可能会带来巨大的潜力，但也存在风险。这个讨论引发了人们对AI未来的思考和担忧。</p><h2>编辑悄悄话</h2><p>AI界的新霸主已经到来，Claude Mythos 5和Cursor Composer 2.5是两大强劲的AI模型。它们的出现带来了新的机遇和挑战，我们需要继续关注和讨论AI的发展和安全性问题。</p>",
+    "score": 95,
+    "takeaways": [
+      "Claude Mythos 5和Claude Fable 5是Anthropic最新推出的两款AI模型，前者具有更高的能力，但后者更注重安全性",
+      "Cursor Composer 2.5是一款专门为软件工程设计的AI模型，表现出强大的编码能力",
+      "研究人员发现LLM在处理国家媒体信息时存在偏见，这可能会影响它们的输出"
+    ],
+    "punchline": "AI界的新霸主已经到来，Claude Mythos 5和Cursor Composer 2.5是两大强劲的AI模型",
+    "social_posts": {
+      "threads": "AI界的新霸主已经到来！Claude Mythos 5和Cursor Composer 2.5是两大强劲的AI模型。它们的出现带来了新的机遇和挑战，我们需要继续关注和讨论AI的发展和安全性问题。",
+      "facebook": "AI界的新霸主已经到来！Claude Mythos 5和Cursor Composer 2.5是两大强劲的AI模型。它们的出现带来了新的机遇和挑战，我们需要继续关注和讨论AI的发展和安全性问题。",
+      "viral_hook": "AI界的新霸主已经到来！"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-357",
+    "date": "2026-06-12"
   }
 ]
