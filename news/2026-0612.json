@@ -482,5 +482,71 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/bbva",
     "date": "2026-06-12"
+  },
+  {
+    "id": "023",
+    "title": "AWS Professional Services 如何從內到外重建：成為前沿團隊的秘訣",
+    "summary": "AWS Professional Services 通過從內到外重建，將項目交付時間從數月縮短到數天。這是如何做到的？",
+    "content": "<p>AWS Professional Services 通過從內到外重建，將項目交付時間從數月縮短到數天。這是如何做到的？</p>    <h2>從內到外重建</h2>    <p>AWS Professional Services 通過重新設計交付流程，將人工智能（AI）整合到每個階段，從而實現了項目交付時間的縮短。</p>    <p>這種從內到外重建的方法，並非僅僅是添加 AI 工具到現有的流程中，而是對整個交付流程進行了根本性的改造。</p>    <h2>實踐與結果</h2>    <p>通過這種從內到外重建的方法，AWS Professional Services 實現了項目交付時間的縮短，並提高了交付質量。</p>    <p>這種方法的關鍵在於投資於智能代理，將 AI 視為基礎而非助手，並將交付流程重新設計為連續流動的流程。</p>    <h2>編輯悄悄話</h2>    <p>如果你想提高你的項目交付效率，從內到外重建交付流程是個不錯的選擇。通過投資於智能代理，將 AI 視為基礎而非助手，你可以實現項目交付時間的縮短和交付質量的提高。</p>",
+    "score": 90,
+    "takeaways": [
+      "從內到外重建交付流程",
+      "投資於智能代理",
+      "將 AI 視為基礎而非助手"
+    ],
+    "punchline": "AI-native development 是關鍵",
+    "social_posts": {
+      "threads": "你知道嗎？AWS Professional Services 通過從內到外重建，將項目交付時間從數月縮短到數天！\n這是如何做到的？\n投資於智能代理，將 AI 視為基礎而非助手，重新設計交付流程...\n#AWS #AI #ProjectManagement",
+      "facebook": "AWS Professional Services 如何從內到外重建：成為前沿團隊的秘訣\n通過從內到外重建交付流程，AWS Professional Services 實現了項目交付時間的縮短和交付質量的提高。\n點擊鏈接了解更多...\n#AWS #AI #ProjectManagement",
+      "viral_hook": "AWS Professional Services 的秘訣：從內到外重建交付流程，實現項目交付時間的縮短和交付質量的提高！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/11/21052.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/built-from-the-inside-out-how-aws-professional-services-became-a-frontier-team-first/",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "024",
+    "title": "微信測試團隊大获全胜！CVPR 2026 NTIRE RAIM挑戰賽冠軍是怎麼回事？",
+    "summary": "微信測試團隊在 CVPR 2026 NTIRE RAIM 挑戰賽中奪得冠軍，智能 Agent 迭代技術成果顯著，讓我們一窺未來的科技發展趨勢",
+    "content": "<p>近日，微信測試團隊在 CVPR 2026 NTIRE RAIM 挑戰賽中奪得冠軍，引起廣泛關注。這個挑戰賽是全球頂級的計算機視覺和圖像處理技術競賽，微信測試團隊的優異表現讓我們看到未來科技發展的趨勢。</p>    <h2>智能 Agent 迭代技術的發展</h2>    <p>微信測試團隊在這次挑戰賽中的優異表現，主要歸功於其智能 Agent 迭代技術的發展。這種技術可以讓機器學習模型更好地理解和處理圖像和視頻，從而實現更高精度的圖像識別和分類。</p>    <ul>      <li>智能 Agent 迭代技術的優點：提高圖像識別和分類的精度，降低計算成本</li>      <li>智能 Agent 迭代技術的應用：圖像識別、物體檢測、語音識別等</li>    </ul>    <h2>未來科技發展的趨勢和挑戰</h2>    <p>微信測試團隊在 CVPR 2026 NTIRE RAIM 挑戰賽中的優異表現，讓我們看到未來科技發展的趨勢。隨著人工智慧、機器學習和計算機視覺技術的發展，未來的科技將更加智能化和自動化。然而，同時也帶來了新的挑戰，例如數據安全、隱私保護等問題。</p>    <h2>編輯悄悄話</h2>    <p>科技的未來就在眼前！微信測試團隊在 CVPR 2026 NTIRE RAIM 挑戰賽中的優異表現，讓我們看到未來科技發展的趨勢和挑戰。讓我們一起關注和探索未來的科技發展，為更好的未來做出貢獻！</p>",
+    "score": 90,
+    "takeaways": [
+      "微信測試團隊在 CVPR 2026 NTIRE RAIM 挑戰賽中的優異表現",
+      "智能 Agent 迭代技術的發展前景",
+      "未來科技發展的趨勢和挑戰"
+    ],
+    "punchline": "科技的未來就在眼前！",
+    "social_posts": {
+      "threads": "微信測試團隊大获全胜！\nCVPR 2026 NTIRE RAIM 挑戰賽冠軍是怎麼回事？\n智能 Agent 迭代技術成果顯著，讓我們一窺未來的科技發展趨勢",
+      "facebook": "微信測試團隊在 CVPR 2026 NTIRE RAIM 挑戰賽中奪得冠軍！智能 Agent 迭代技術的發展前景和未來科技發展的趨勢和挑戰，讓我們一起關注和探索未來的科技發展！",
+      "viral_hook": "科技的未來就在眼前！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802000&idx=1&sn=e98b528060a2ae5d34b6f9eeb6e517ce",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "025",
+    "title": "揭開 AI 的黑盒：Open Knowledge Format 讓人工智慧更懂你",
+    "summary": "Open Knowledge Format 是一個開放標準，讓人工智慧系統可以更好地理解和使用知識，讓開發者可以更容易地建立 AI 系統",
+    "content": "<h2>什麼是 Open Knowledge Format？</h2>    <p>Open Knowledge Format 是一個開放標準，讓人工智慧系統可以更好地理解和使用知識。它是一個 vendor-neutral、agent- and human-friendly 的標準，讓開發者可以更容易地建立 AI 系統，並讓 AI 系統可以更好地理解和使用知識。</p>    <h2>如何使用 Open Knowledge Format？</h2>    <p>使用 Open Knowledge Format 很簡單。開發者可以使用 markdown 文件和 YAML frontmatter 來建立知識庫。然後，AI 系統可以使用這個知識庫來更好地理解和使用知識。</p>    <ul>      <li>建立知識庫</li>      <li>使用 markdown 文件和 YAML frontmatter</li>      <li>AI 系統可以使用知識庫</li>    </ul>    <h2>編輯悄悄話</h2>    <p>Open Knowledge Format 是一個非常強大的工具，讓人工智慧系統可以更好地理解和使用知識。它可以讓開發者可以更容易地建立 AI 系統，並讓 AI 系統可以更好地理解和使用知識。所以，現在就來試試 Open Knowledge Format 吧！",
+    "score": 90,
+    "takeaways": [
+      "Open Knowledge Format 是一個開放標準，讓人工智慧系統可以更好地理解和使用知識",
+      "它讓開發者可以更容易地建立 AI 系統，並讓 AI 系統可以更好地理解和使用知識",
+      "Open Knowledge Format 是一個 vendor-neutral、agent- and human-friendly 的標準"
+    ],
+    "punchline": "讓 AI 更懂你",
+    "social_posts": {
+      "threads": "讓 AI 更懂你！Open Knowledge Format 是一個開放標準，讓人工智慧系統可以更好地理解和使用知識。它可以讓開發者可以更容易地建立 AI 系統，並讓 AI 系統可以更好地理解和使用知識。",
+      "facebook": "Open Knowledge Format 是一個開放標準，讓人工智慧系統可以更好地理解和使用知識。它可以讓開發者可以更容易地建立 AI 系統，並讓 AI 系統可以更好地理解和使用知識。來試試吧！",
+      "viral_hook": "讓 AI 更懂你！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/",
+    "date": "2026-06-12"
   }
 ]
