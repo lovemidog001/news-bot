@@ -1,0 +1,398 @@
+[
+  {
+    "id": "001",
+    "title": "OpenAI 要降價了？Gary Marcus：這是示弱的信號！",
+    "summary": "OpenAI 即將大幅降價，Gary Marcus 視其為示弱信號，這對 AI 領域有何影響？",
+    "content": "<p>近日，OpenAI 正在酝酿大幅降價的計畫，Gary Marcus 對此表示，這是示弱的信號。這對 AI 領域有何影響呢？</p>    <h2>什麼是 OpenAI 的降價計畫？</h2>    <p>根據報導，OpenAI 的降價計畫是為了應對市場的競爭，尤其是來自其他 AI 公司的競爭。這個計畫預計會大幅降低 OpenAI 的價格，讓用戶可以享受更低的成本。</p>    <h2>對 AI 領域的影響</h2>    <p>OpenAI 的降價計畫對 AI 領域有著深遠的影響。首先，其他 AI 公司可能會跟進降價，導致市場競爭加劇。其次，用戶可以期待更低的成本，享受更好的 AI 服務。最後，OpenAI 的示弱信號可能會影響其在市場上的地位。</p>    <h2>編輯悄悄話</h2>    <p>OpenAI 的降價計畫，是一個聰明的商業策略，還是示弱的信號？只有時間能告訴我們。但有一點是肯定的，用戶將是最大贏家！",
+    "score": 80,
+    "takeaways": [
+      "OpenAI 的降價可能是示弱的信號",
+      "AI 領域的競爭加劇",
+      "用戶可以期待更低的成本"
+    ],
+    "punchline": "OpenAI 降價，誰是贏家？",
+    "social_posts": {
+      "threads": "你知道 OpenAI 要降價了嗎？Gary Marcus 視其為示弱信號... 這對 AI 領域有何影響呢？",
+      "facebook": "OpenAI 即將大幅降價，Gary Marcus 視其為示弱信號！這對 AI 領域有何影響呢？分享你的想法！",
+      "viral_hook": "OpenAI 降價了！誰是贏家？"
+    },
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://garymarcus.substack.com/p/breaking-openai-is-pondering-drastic",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "002",
+    "title": "AI 写作缺人味？Oran Ge 开源《人味儿写作心法.skill》來拯救",
+    "summary": "Oran Ge 發現 AI 写作缺人味，于是開源了一個新的技能，讓你的文字變得有人味",
+    "content": "<p>你是否曾經覺得 AI 写作的內容雖然完美，但卻缺少了一些東西？Oran Ge 也曾經這樣想，他發現 AI 写作缺人味是因為背後缺少存在感。</p>    <h2>什麼是存在感？</h2>    <p>人写的文字背後有作者的付出和代价，讓文字變得有人味。而 AI 写作則缺少這種存在感，讓內容變得枯燥無味。</p>    <h2>《人味儿写作心法.skill》</h2>    <p>Oran Ge 開源了一個新的技能，名為《人味儿写作心法.skill》，旨在讓你的文字變得有人味。這個技能特別適合自己写文章或口述後，让 AI 改稿的場景。</p>    <h2>編輯悄悄話</h2>    <p>如果你也想讓你的文字變得有人味，快點下載《人味儿写作心法.skill》吧！讓你的文字變得有人味，讓你的讀者感受到你的存在感。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 写作缺人味是因為背後缺少存在感",
+      "人写的文字背後有作者的付出和代价",
+      "《人味儿写作心法.skill》可以讓你的文字變得有人味"
+    ],
+    "punchline": "讓 AI 写作有人味",
+    "social_posts": {
+      "threads": "你是否曾經覺得 AI 写作的內容雖然完美，但卻缺少了一些東西？\n讓 AI 写作有人味的方法是什麼？\n下面我會分享一個開源的技能，讓你的文字變得有人味",
+      "facebook": "Oran Ge 開源了一個新的技能，名為《人味儿写作心法.skill》，旨在讓你的文字變得有人味。點擊下載，讓你的文字變得有人味吧！",
+      "viral_hook": "AI 写作缺人味？"
+    },
+    "image": "https://pbs.twimg.com/media/HKpeHXAbwAAwjGO.jpg:large",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/oran_ge/status/2065566882774868125",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "003",
+    "title": "OpenRouter 最低成本大揭秘：讓你省錢又省事的 LLM 推理術",
+    "summary": "想在 OpenRouter 上獲得最低成本的 LLM 推理？只要追加 `:floor` 就能獲取最便宜的提供商，並設定 `max_price` 上限，還能免費使用 20 多個零成本模型",
+    "content": "<h2>OpenRouter 最低成本大揭秘</h2>    <p>在 OpenRouter 上追加 `:floor` 可以獲取最便宜的提供商，並設定 `max_price` 上限，可以避免意外的費用。同時，還可以免費使用 20 多個零成本模型，讓你省錢又省事。</p>    <p>但是，需要注意的是，追加 `:floor` 會禁用負載均衡，可能會導致服務不穩定。因此，需要根據實際情況進行設定。</p>    <h2>如何設定 OpenRouter</h2>    <p>設定 OpenRouter 的步驟非常簡單，只需要追加 `:floor` 到模型名稱後面，就可以獲取最便宜的提供商。同時，還可以設定 `max_price` 上限，避免意外的費用。</p>    <ul>      <li>追加 `:floor` 到模型名稱後面</li>      <li>設定 `max_price` 上限</li>      <li>免費使用 20 多個零成本模型</li>    </ul>    <h2>編輯悄悄話</h2>    <p>讓你省錢又省事的 LLM 推理術，不是夢想，而是現實。只要按照上述步驟設定 OpenRouter，就可以享受最低成本的 LLM 推理服務。不要猶豫，現在就試試吧！",
+    "score": 85,
+    "takeaways": [
+      "追加 `:floor` 可以獲取最便宜的提供商",
+      "設定 `max_price` 上限可以避免意外的費用",
+      "免費使用 20 多個零成本模型可以節省成本"
+    ],
+    "punchline": "讓你省錢又省事的 LLM 推理術",
+    "social_posts": {
+      "threads": "讓你省錢又省事的 LLM 推理術，不是夢想，而是現實。只要按照上述步驟設定 OpenRouter，就可以享受最低成本的 LLM 推理服務。不要猶豫，現在就試試吧！",
+      "facebook": "OpenRouter 最低成本大揭秘：讓你省錢又省事的 LLM 推理術。了解如何設定 OpenRouter，享受最低成本的 LLM 推理服務。",
+      "viral_hook": "讓你省錢又省事的 LLM 推理術，現在就試試吧！"
+    },
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "004",
+    "title": "OpenAI Academy：掌握 AI 技能，提升工作效率！",
+    "summary": "OpenAI 推出新 Academy 课程，教你如何應用 AI 技能，創建可重覆工作流，提升工作效率！",
+    "content": "<h2>OpenAI Academy：掌握 AI 技能，提升工作效率！</h2><p>OpenAI 推出新 Academy 课程，教你如何應用 AI 技能，創建可重覆工作流，提升工作效率！</p><h2>課程內容</h2><ul><li>AI 基礎：了解 AI 的核心概念和實踐</li><li>應用 AI 基礎：學習如何將有效的提示轉換為結構化的工作流</li><li>代理工作流：學習如何指導代理工作，創建可重覆的工作流</li></ul><h2>編輯悄悄話</h2><p>在這個 AI 時代，掌握 AI 技能是提升工作效率的關鍵！OpenAI Academy 的課程可以幫助你創建可重覆的工作流，提升工作效率！</p>",
+    "score": 90,
+    "takeaways": [
+      "OpenAI Academy 提供實用 AI 技能課程，幫助用戶掌握 AI 技能",
+      "課程涵蓋 AI 基礎、應用 AI 基礎和代理工作流等內容",
+      "課程旨在幫助用戶創建可重覆工作流，提升工作效率"
+    ],
+    "punchline": "掌握 AI 技能，提升工作效率！",
+    "social_posts": {
+      "threads": "OpenAI Academy：掌握 AI 技能，提升工作效率！\n\n課程內容：\nAI 基礎：了解 AI 的核心概念和實踐\n應用 AI 基礎：學習如何將有效的提示轉換為結構化的工作流\n代理工作流：學習如何指導代理工作，創建可重覆的工作流\n\n掌握 AI 技能，提升工作效率！",
+      "facebook": "OpenAI Academy：掌握 AI 技能，提升工作效率！\n\n課程內容：\nAI 基礎：了解 AI 的核心概念和實踐\n應用 AI 基礎：學習如何將有效的提示轉換為結構化的工作流\n代理工作流：學習如何指導代理工作，創建可重覆的工作流\n\n點擊鏈接，了解更多！",
+      "viral_hook": "提升工作效率的關鍵：掌握 AI 技能！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3uhZVST93Uain15J19fqjF/544b8b12c44fb2035c96b419c5196013/Frame.png?w=1600&h=900&fit=fill",
+    "source": "AI HOT 精選",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "005",
+    "title": "AI 將治愈疾病？美國人盼望與恐懼並存",
+    "summary": "近半美國人希望 AI 能治愈疾病，卻也有超六成擔憂 AI 導致失業，究竟 AI 對人類的影響是福還是禍？",
+    "content": "<p>Anthropic 首次公眾調查顯示，近半美國人希望 AI 能治愈疾病，尤其是癌症等重大疾病。然而，超六成美國人擔憂 AI 導致失業，這是最常見的擔憂之一。</p>    <h2>美國人的希望與恐懼</h2>    <p>調查結果顯示，美國人對 AI 的希望與恐懼並存。48% 的美國人希望 AI 能治愈疾病，36% 的美國人希望 AI 能幫助殘障人士。然而，64% 的美國人擔憂 AI 導致失業，56% 的美國人擔憂認知依賴，52% 的美國人擔憂信息誤導。</p>    <h2>政府監管與責任</h2>    <p>超 70% 的美國人支持政府監管 AI，尤其是在隱私、兒童安全與責任歸屬等方面。然而，僅 15% 的美國人信任 AI 公司的決策，這意味著美國人對 AI 公司的信任度仍然較低。</p>    <h2>編輯悄悄話</h2>    <p>AI 將成為人間的福音還是禍根？這個問題的答案仍然未知，但有一點是肯定的：AI 將對人類社會產生深遠的影響。美國人的希望與恐懼是可以理解的，但我們也需要認真思考如何讓 AI 為人類帶來更多的福祉，而不是禍害。",
+    "score": 90,
+    "takeaways": [
+      "48% 的美國人希望 AI 能治愈疾病",
+      "64% 的美國人擔憂 AI 導致失業",
+      "超 70% 的美國人支持政府監管 AI"
+    ],
+    "punchline": "AI 將成為人間的福音還是禍根？",
+    "social_posts": {
+      "threads": "你們覺得 AI 將會治愈疾病還是導致失業？\n近半美國人希望 AI 能治愈疾病，但超六成擔憂 AI 導致失業...\n#AI #美國 #失業",
+      "facebook": "Anthropic 首次公眾調查顯示，近半美國人希望 AI 能治愈疾病，但超六成擔憂 AI 導致失業。政府監管與責任歸屬是解決這個問題的關鍵...\n#AI #美國 #政府監管",
+      "viral_hook": "AI 將成為人間的福音還是禍根？"
+    },
+    "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Globe&backgroundColor=heather",
+    "source": "AI HOT 精選",
+    "url": "https://www.anthropic.com/news/anthropic-public-record",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "006",
+    "title": "為什麼你的AI模型需要olmo-eval？",
+    "summary": "olmo-eval是一個評估模型開發循環的工作平臺，讓你更好地優化AI模型",
+    "content": "<p>在AI模型開發中，評估和優化是非常重要的步驟。olmo-eval就是一個可以幫助你完成這些任務的工作平臺。</p>    <h2>什麼是olmo-eval？</h2>    <p>olmo-eval是一個開源的評估工作平臺，提供了一個統一的評估框架，讓你可以更好地評估和優化你的AI模型。</p>    <p>使用olmo-eval，你可以輕鬆地評估模型的性能，找出需要優化的部分，並且可以與其他模型進行比較。</p>    <h2>如何使用olmo-eval？</h2>    <p>使用olmo-eval非常簡單，你只需要將你的模型導入到工作平臺中，然後選擇你想要評估的指標，olmo-eval就會自動幫你完成評估和優化的任務。</p>    <h2>編輯悄悄話</h2>    <p>如果你想在AI模型開發中取得更大的成功，千萬不要錯過olmo-eval！它會是你最好的幫手，讓你更好地優化AI模型，取得更好的成績。",
+    "score": 80,
+    "takeaways": [
+      "olmo-eval提供了一個統一的評估框架",
+      "可以幫助你更好地優化模型的性能",
+      "讓你在AI模型開發中取得更大的成功"
+    ],
+    "punchline": "優化AI模型，從olmo-eval開始",
+    "social_posts": {
+      "threads": "你知道嗎？olmo-eval是一個可以幫助你優化AI模型的工作平臺！\n使用olmo-eval，你可以輕鬆地評估模型的性能，找出需要優化的部分\n讓你在AI模型開發中取得更大的成功",
+      "facebook": "優化AI模型，從olmo-eval開始！\nolmo-eval是一個開源的評估工作平臺，提供了一個統一的評估框架，讓你可以更好地評估和優化你的AI模型。\n點擊連結了解更多",
+      "viral_hook": "你的AI模型需要優化嗎？"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/gacAOFYwPkpxu7cC4eeey.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "007",
+    "title": "房地產界的革命：Rocket Close 如何使用 AI 技術優化標題運營",
+    "summary": "Rocket Close 利用 AI 技術打造 Supercharger，優化標題運營流程，減少人工研究時間，提高效率和客戶體驗",
+    "content": "<p>在房地產界，標題運營是一個非常重要的環節。但是，傳統的標題運營流程往往需要人工研究和手動處理，耗時耗力。Rocket Close 是一家位於底特律的標題代理和評估管理公司，為了解決這個問題，他們打造了一個名為 Supercharger 的 AI 解決方案。</p>    <h2>什麼是 Supercharger</h2>    <p>Supercharger 是一個使用 AI 技術的解決方案，旨在優化標題運營流程。它結合了 Strands Agents、Amazon Bedrock 和 Model Context Protocol 等技術，提供了一個全面的解決方案。Supercharger 可以自動化研究任務，提供實時的數據分析，幫助運營團隊提高效率和客戶體驗。</p>    <h2>Supercharger 的優點</h2>    <p>Supercharger 的優點在於它可以提高運營效率和客戶體驗。通過自動化研究任務和提供實時的數據分析，Supercharger 幫助運營團隊節省時間和提高準確性。此外，Supercharger 還可以提供全面的數據分析，幫助 Rocket Close 更好地了解客戶需求和市場趨勢。</p>    <h2>編輯悄悄話</h2>    <p>AI 技術正在改變房地產界，Rocket Close 的 Supercharger 解決方案就是一個很好的例子。通過使用 AI 技術，房地產公司可以提高運營效率和客戶體驗，同時也可以降低成本和風險。未來，AI 技術將在房地產界發揮更加重要的作用，我們可以期待看到更多創新和突破的應用。</p>",
+    "score": 90,
+    "takeaways": [
+      "Rocket Close 的 Supercharger 解決方案使用 AI 技術優化標題運營流程",
+      "Supercharger 結合了 Strands Agents、Amazon Bedrock 和 Model Context Protocol 等技術",
+      "該解決方案提高了 Rocket Close 的運營效率和客戶體驗"
+    ],
+    "punchline": "AI 技術讓房地產界更高效",
+    "social_posts": {
+      "threads": "你們知道嗎？Rocket Close 的 Supercharger 解決方案可以優化標題運營流程，提高效率和客戶體驗！#AI #房地產 #標題運營",
+      "facebook": "Rocket Close 的 Supercharger 解決方案是一個使用 AI 技術的解決方案，旨在優化標題運營流程。它可以自動化研究任務，提供實時的數據分析，幫助運營團隊提高效率和客戶體驗。#AI #房地產 #標題運營",
+      "viral_hook": "房地產界的革命：Rocket Close 的 Supercharger 解決方案可以優化標題運營流程，提高效率和客戶體驗！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/12/20329.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "008",
+    "title": "瞬間斷電也能承受！Meta 如何打造無懈可擊的資料中心",
+    "summary": "Meta 推出 Instantaneous PowerLoss Storm 測試，確保資料中心即使在瞬間斷電的情況下也能正常運作",
+    "content": "<p>資料中心的災難準備不是選擇題。颱風、野火、電力中斷和網路中斷等災難情景都對我們的資料中心構成風險。</p>    <h2>什麼是 Instantaneous PowerLoss Storm?</h2>    <p>Instantaneous PowerLoss Storm 是 Meta 的 Disaster Readiness 程序的一部分，旨在確保資料中心即使在瞬間斷電的情況下也能正常運作。</p>    <p>Meta 的資料中心採用了多層次的防禦策略，以確保即使在瞬間斷電的情況下也能正常運作。這些策略包括電池、Power Loss Siren 和 Twine 容器編排器等技術。</p>    <h2>如何確保資料安全?</h2>    <p>Meta 的資料中心採用了多種技術，包括電池和 Power Loss Siren，以確保資料的安全。同時，Meta 也採用了多種測試方法，包括 Instantaneous PowerLoss Storm 測試，以確保資料中心的可靠性。</p>    <h2>編輯悄悄話</h2>    <p>在這個瞬間斷電的時代，資料中心的可靠性至關重要。Meta 的 Instantaneous PowerLoss Storm 測試是確保資料中心安全的重要一步。讓我們一起關注資料中心的安全問題，共同為數據安全而努力！</p>",
+    "score": 90,
+    "takeaways": [
+      "Meta 的資料中心採用了多層次的防禦策略，以確保即使在瞬間斷電的情況下也能正常運作",
+      "Instantaneous PowerLoss Storm 測試是 Meta 的 Disaster Readiness 程序的一部分",
+      "Meta 的資料中心採用了多種技術，包括電池和 Power Loss Siren，以確保資料的安全"
+    ],
+    "punchline": "斷電也能承受！",
+    "social_posts": {
+      "threads": "      Instantaneous PowerLoss Storm 測試      確保資料中心即使在瞬間斷電的情況下也能正常運作      #Meta #資料中心 #斷電    ",
+      "facebook": "      Meta 推出 Instantaneous PowerLoss Storm 測試，確保資料中心即使在瞬間斷電的情況下也能正常運作。      如何確保資料安全？一起來關注資料中心的安全問題吧！      #Meta #資料中心 #斷電    ",
+      "viral_hook": "斷電也能承受！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Validating-PowerLoss-Readiness-Meta-hero.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "009",
+    "title": "微軟最新AI技術Claude Fable 5登場！讓自主代理時代更加強大",
+    "summary": "微軟最新AI技術Claude Fable 5在Microsoft Foundry上線，將推動GitHub Copilot和Foundry Agent Service的發展，讓自主代理時代更加強大",
+    "content": "<p>你是否曾想過，未來的科技世界會是怎樣的？現在，微軟最新的AI技術Claude Fable 5在Microsoft Foundry上線了！這項技術將推動自主代理的發展，讓我們的生活更加便捷和高效。</p>    <h2>什麼是Claude Fable 5?</h2>    <p>Claude Fable 5是Anthropic的最新Frontier模型，提供了更強大的AI能力。它可以讓自主代理更好地理解和應對複雜的任務，從而提高整體的效率和準確性。</p>    <h2>微軟Foundry的支持</h2>    <p>微軟Foundry提供了對Claude Fable 5的支持，讓開發者可以更容易地使用這項技術。這將推動更多創新的應用和解決方案，讓我們的生活更加便捷和高效。</p>    <h2>編輯悄悄話</h2>    <p>AI時代來了，你準備好了嗎？微軟最新的AI技術Claude Fable 5在Microsoft Foundry上線了！這項技術將推動自主代理的發展，讓我們的生活更加便捷和高效。不要錯過這個機會，趕快了解更多吧！",
+    "score": 85,
+    "takeaways": [
+      "Claude Fable 5是Anthropic的最新Frontier模型",
+      "微軟Foundry提供了Claude Fable 5的支持",
+      "這項技術將推動自主代理的發展"
+    ],
+    "punchline": "AI時代來了，你準備好了嗎？",
+    "social_posts": {
+      "threads": "你是否曾想過，未來的科技世界會是怎樣的？現在，微軟最新的AI技術Claude Fable 5在Microsoft Foundry上線了！這項技術將推動自主代理的發展，讓我們的生活更加便捷和高效。分享你的想法和觀點吧！",
+      "facebook": "微軟最新的AI技術Claude Fable 5在Microsoft Foundry上線了！這項技術將推動自主代理的發展，讓我們的生活更加便捷和高效。點擊連結了解更多：https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+      "viral_hook": "AI時代來了，你準備好了嗎？"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Azure_6-9_v3-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "010",
+    "title": "終於解決了！Elastic Security 集成 Claude Compliance API，讓安全監控變得更容易",
+    "summary": "Elastic Security 的 Anthropic 整合讓您可以監控 Claude 活動，偵測風險，調查威脅，讓安全監控變得更容易",
+    "content": "<p>安全監控是一個永遠的挑戰，尤其是在雲端時代。Elastic Security 的 Anthropic 整合讓您可以監控 Claude 活動，偵測風險，調查威脅，讓安全監控變得更容易。</p><h2>什麼是 Claude Compliance API？</h2><p>Claude Compliance API 是一個提供 Claude 活動事件的 API，讓您可以監控和分析 Claude 活動。Elastic Security 的 Anthropic 整合可以將這些事件整合到 Elastic Security 中，讓您可以監控和分析 Claude 活動。</p><h2>如何使用 Elastic Security 監控 Claude 活動</h2><p>使用 Elastic Security 監控 Claude 活動非常容易。首先，您需要將 Claude Compliance API 整合到 Elastic Security 中。然後，您可以使用 Elastic Security 的儀表板監控 Claude 活動，偵測風險，調查威脅。</p><h2>編輯悄悄話</h2><p>安全監控是一個永遠的挑戰，但使用 Elastic Security 可以讓安全監控變得更容易。所以，如果您想要提高安全監控的效率，請試試 Elastic Security 的 Anthropic 整合吧！",
+    "score": 85,
+    "takeaways": [
+      "Elastic Security 的 Anthropic 整合可以監控 Claude 活動",
+      "整合可以偵測風險和調查威脅",
+      "使用 Elastic Security 可以讓安全監控變得更容易"
+    ],
+    "punchline": "安全監控變得更容易",
+    "social_posts": {
+      "threads": "安全監控是一個永遠的挑戰，但使用 Elastic Security 可以讓安全監控變得更容易。什麼是 Claude Compliance API？如何使用 Elastic Security 監控 Claude 活動？",
+      "facebook": "Elastic Security 的 Anthropic 整合讓您可以監控 Claude 活動，偵測風險，調查威脅。使用 Elastic Security 可以讓安全監控變得更容易。點擊連結了解更多！",
+      "viral_hook": "安全監控變得更容易！Elastic Security 的 Anthropic 整合讓您可以監控 Claude 活動"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltc214a5ce68b99291/6a2c637e9d6b6c117eadfd70/image2.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/monitor-claude-activity-in-elastic-security",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "011",
+    "title": "AI 界的新玩家：Claude Mythos 5 和 Composer 2.5 的惊艳表现",
+    "summary": "Claude Mythos 5 和 Composer 2.5 是近期 AI 界的两大重磅产品，它们在软件工程和知识工作方面的表现惊艳，引发了人们对 AI 未来发展的热议。",
+    "content": "<h2>Claude Mythos 5 和 Claude Fable 5 的惊艳表现</h2><p>Claude Mythos 5 和 Claude Fable 5 是 Anthropic 推出的两款新型 AI 模型，具有出色的软件工程和知识工作能力。它们在 Artificial Analysis Intelligence Index 和 Humanity's Last Exam 等评测中表现优异，引发了人们对 AI 未来发展的热议。</p><h2>Composer 2.5 的高效和低成本</h2><p>Composer 2.5 是 Cursor 推出的新型软件工程模型，具有高效和低成本的特点。它在 CursorBench 和 SWE-Bench-Pro-Hard-AA 等评测中表现优异，证明了其在软件工程方面的实力。</p><h2>AI 界的新玩家们正在推动 AI 技术的发展和应用</h2><p>AI 界的新玩家们正在推动 AI 技术的发展和应用，引发了人们对 AI 未来发展的热议。他们的创新和进步将继续推动 AI 技术的发展和应用，造福人类社会。</p><h2>编辑悄悄话</h2><p>AI 技术的发展和应用正在迅速推进，新的玩家们正在加入这个领域。我们将继续关注 AI 技术的发展和应用，提供最新的资讯和分析。</p>",
+    "score": 90,
+    "takeaways": [
+      "Claude Mythos 5 和 Claude Fable 5 是 Anthropic 推出的两款新型 AI 模型，具有出色的软件工程和知识工作能力。",
+      "Composer 2.5 是 Cursor 推出的新型软件工程模型，具有高效和低成本的特点。",
+      "AI 界的新玩家们正在推动 AI 技术的发展和应用，引发了人们对 AI 未来发展的热议。"
+    ],
+    "punchline": "AI 界的新玩家们正在推动 AI 技术的发展和应用，引发了人们对 AI 未来发展的热议。",
+    "social_posts": {
+      "threads": "AI 界的新玩家们正在推动 AI 技术的发展和应用，引发了人们对 AI 未来发展的热议。他们的创新和进步将继续推动 AI 技术的发展和应用，造福人类社会。#AI #机器学习 #人工智能",
+      "facebook": "AI 界的新玩家们正在推动 AI 技术的发展和应用，引发了人们对 AI 未来发展的热议。他们的创新和进步将继续推动 AI 技术的发展和应用，造福人类社会。https://www.example.com",
+      "viral_hook": "AI 界的新玩家们正在推动 AI 技术的发展和应用，引发了人们对 AI 未来发展的热议！"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-357",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "012",
+    "title": "微信智慧團隊大放異彩！CVPR 2026 NTIRE RAIM挑戰賽冠軍是怎麼贏得的？",
+    "summary": "微信智慧團隊在CVPR 2026 NTIRE RAIM挑戰賽中取得冠軍，背後的秘密是什麼？",
+    "content": "<p>近日，微信智慧團隊在CVPR 2026 NTIRE RAIM挑戰賽中取得冠軍，引起了業界的廣泛關注。這個團隊是如何取得如此優異的成績呢？讓我們一起來探索一下背後的秘密。</p>    <h2>智慧技術的發展</h2>    <p>智慧技術的發展是近年來最熱門的話題之一，各大科技公司都在積極投入智慧技術的研究和開發。微信智慧團隊也不例外，他們一直在努力研發新的智慧技術，以改善用戶的體驗和提高效率。</p>    <p>在這次CVPR 2026 NTIRE RAIM挑戰賽中，微信智慧團隊的成績是最亮眼的。 THEIR 的實力和創新精神得到了業界的廣泛認可。</p>    <h2>未來的發展前景</h2>    <p>智慧技術的發展前景是非常廣闊的，未來的應用領域將會更加多元化。微信智慧團隊的成績是對智慧技術發展的重要推動力，他們的成就將會激勵更多的科技公司投入智慧技術的研究和開發。</p>    <h2>編輯悄悄話</h2>    <p>微信智慧團隊的成績是值得我們所有人慶祝的， THEIR 的實力和創新精神是值得我們學習的。讓我們一起期待未來智慧技術的發展吧，",
+    "score": 90,
+    "takeaways": [
+      "微信智慧團隊的強大實力",
+      "CVPR 2026 NTIRE RAIM挑戰賽的重要性",
+      "智慧技術在未來的發展前景"
+    ],
+    "punchline": "微信智慧團隊：用科技改變未來！",
+    "social_posts": {
+      "threads": "微信智慧團隊大放異彩！\nCVPR 2026 NTIRE RAIM挑戰賽冠軍\n什麼是智慧技術？\n未來的發展前景如何？\n讓我們一起探索一下背後的秘密吧！",
+      "facebook": "微信智慧團隊在CVPR 2026 NTIRE RAIM挑戰賽中取得冠軍！ THEIR 的實力和創新精神得到了業界的廣泛認可。讓我們一起探索一下背後的秘密吧！ https://example.com",
+      "viral_hook": "微信智慧團隊：用科技改變未來！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802000&idx=1&sn=e98b528060a2ae5d34b6f9eeb6e517ce",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "013",
+    "title": "部署策略大揭秘：從大爆炸到漸進式交付",
+    "summary": "了解不同部署策略的優缺點，讓你的項目成功上線",
+    "content": "<p>部署是軟件開發中的關鍵時刻，決定項目的成敗。好的部署策略可以減少風險，提高項目的穩定性和可靠性。</p>    <h2>大爆炸式部署</h2>    <p>大爆炸式部署是一種一次性部署的方式，將所有代碼一次性推送到生產環境。這種方式風險高，回報也高，如果部署失敗，可能會導致項目不可用。</p>    <h2>漸進式交付</h2>    <p>漸進式交付是一種分階段部署的方式，將代碼分成多個階段逐步推送到生產環境。這種方式可以控制風險，確保項目的穩定性和可靠性。</p>    <h2>編輯悄悄話</h2>    <p>選擇合適的部署策略是項目成功的關鍵，需要根據項目的具體情況和需求進行選擇。不要害怕嘗試和調整，找到最適合你的部署策略，讓你的項目成功上線!</p>",
+    "score": 85,
+    "takeaways": [
+      "大爆炸式部署：一次性部署，高風險高回報",
+      "漸進式交付：分階段部署，控制風險",
+      "藍綠部署：雙重環境，無縫切換"
+    ],
+    "punchline": "部署不是問題的結束，而是新的開始",
+    "social_posts": {
+      "threads": "大家好！今天要跟大家分享的是部署策略的大揭秘。從大爆炸式部署到漸進式交付，哪種方式最適合你的項目呢？分享你的經驗和想法吧！",
+      "facebook": "了解不同部署策略的優缺點，讓你的項目成功上線！點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "你知道部署策略的選擇可以決定項目的成敗嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!VACI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e15c3c2-bc34-4a4a-a698-0372c5c9f238_2484x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/must-know-deployment-strategies-from",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "014",
+    "title": "Google Cloud 最新動態！ Anthropic 的 Claude Opus 4.8、Gemini 3.1 Flash-Lite 等新功能大公開！",
+    "summary": "Google Cloud 不斷推出新的功能和更新，為企業提供更好的服務。最近，Anthropic 的 Claude Opus 4.8 在 Gemini Enterprise Agent Platform 上線，提供更強大的編程能力。另外，Gemini 3.1 Flash-Lite 也推出，為高容量開發工作負載提供更快、更省成本的服務。還有更多新功能等你探索！",
+    "content": "<h2>Google Cloud 最新動態</h2><p>Google Cloud 不斷推出新的功能和更新，為企業提供更好的服務。最近，Anthropic 的 Claude Opus 4.8 在 Gemini Enterprise Agent Platform 上線，提供更強大的編程能力。另外，Gemini 3.1 Flash-Lite 也推出，為高容量開發工作負載提供更快、更省成本的服務。</p><h2>Anthropic 的 Claude Opus 4.8</h2><p>Anthropic 的 Claude Opus 4.8 是一個強大的編程工具，能夠提供更好的編程體驗。它在 Gemini Enterprise Agent Platform 上線，為企業提供更好的服務。</p><h2>Gemini 3.1 Flash-Lite</h2><p>Gemini 3.1 Flash-Lite 是一個新的服務，為高容量開發工作負載提供更快、更省成本的服務。它能夠提供更好的性能和更低的成本，為企業提供更好的選擇。</p><h2>編輯悄悄話</h2><p>Google Cloud 的新功能和更新，為企業提供了更多的選擇和機會。是否您已經準備好探索這些新功能，為您的企業提供更好的服務呢？</p>",
+    "score": 90,
+    "takeaways": [
+      "Anthropic 的 Claude Opus 4.8 在 Gemini Enterprise Agent Platform 上線",
+      "Gemini 3.1 Flash-Lite 推出，為高容量開發工作負載提供更快、更省成本的服務",
+      "Google Cloud 不斷推出新的功能和更新，為企業提供更好的服務"
+    ],
+    "punchline": "Google Cloud 最新動態！ Anthropic 的 Claude Opus 4.8、Gemini 3.1 Flash-Lite 等新功能大公開！",
+    "social_posts": {
+      "threads": "Google Cloud 最新動態！ Anthropic 的 Claude Opus 4.8、Gemini 3.1 Flash-Lite 等新功能大公開！ #GoogleCloud #Anthropic #Gemini",
+      "facebook": "Google Cloud 最新動態！ Anthropic 的 Claude Opus 4.8、Gemini 3.1 Flash-Lite 等新功能大公開！是否您已經準備好探索這些新功能，為您的企業提供更好的服務呢？ #GoogleCloud #Anthropic #Gemini",
+      "viral_hook": "Google Cloud 最新動態！ Anthropic 的 Claude Opus 4.8、Gemini 3.1 Flash-Lite 等新功能大公開！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "015",
+    "title": "真相大白！Musk 賠上 150 億美元，OpenAI 贏了！",
+    "summary": "Elon Musk 的 150 億美元訴訟被駁回，OpenAI 贏得勝利，準備進行史上最大規模的 IPO。",
+    "content": "<p>Elon Musk 的 150 億美元訴訟被駁回，OpenAI 贏得勝利。這場訴訟是因為 Musk 指控 OpenAI 的 CEO Sam Altman 和 Greg Brockman「偷竊」了一個非營利組織，但法院最終判決 Musk 的訴訟被駁回，因為他遲遲未能提出訴訟。</p>    <h2>OpenAI 的勝利</h2>    <p>OpenAI 的勝利意味著該公司可以繼續發展，其 CEO Sam Altman 也表示，公司將在近期內進行 IPO。這可能是史上最大規模的 IPO，估計值達到 1 萬億美元。</p>    <h2>Google 的挑戰</h2>    <p>Google 也推出新一代 AI 模型，挑戰 OpenAI 和 Anthropic。Google 的 Gemini 模型可以將圖片、音頻和文字轉換為視頻，同時也推出了一個 24/7 的雲端 AI 助手 Gemini Spark。</p>    <h2>編輯悄悄話</h2>    <p>這場訴訟的結果對科技界來說是個大新聞。Musk 的失敗意味著 OpenAI 可以繼續發展，而 Google 的新一代 AI 模型則是對 OpenAI 和 Anthropic 的挑戰。未來的科技界將會更加激烈競爭，讓我們拭目以待吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Musk 的訴訟被駁回，因為他遲遲未能提出訴訟",
+      "OpenAI 準備進行 IPO，可能是史上最大規模的 IPO",
+      "Google 推出新一代 AI 模型，挑戰 OpenAI 和 Anthropic"
+    ],
+    "punchline": "Musk 賠上 150 億美元，OpenAI 贏了！",
+    "social_posts": {
+      "threads": "Musk 賠上 150 億美元，OpenAI 贏了！你們覺得這場訴訟的結果會對科技界產生什麼影響？#OpenAI #Musk",
+      "facebook": "Elon Musk 的 150 億美元訴訟被駁回，OpenAI 贏得勝利。這場訴訟的結果對科技界來說是個大新聞。點擊連結了解更多資訊。",
+      "viral_hook": "Musk 賠上 150 億美元，OpenAI 贏了！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "016",
+    "title": "Next.js 正式跨平台：穩定 Adapter API 的誕生",
+    "summary": "Next.js 16.2 版本引入了穩定的 Adapter API，讓開發者可以更容易地跨平台部署應用程式",
+    "content": "<h2>什麼是 Adapter API?</h2>    <p>Adapter API 是 Next.js 用於跨平台部署的介面，它讓開發者可以更容易地將應用程式部署到不同的平台上，例如 Netlify、Cloudflare、AWS Amplify 等。</p>    <p>在過去，Next.js 的跨平台部署需要進行很多額外的設定和配置，但現在有了 Adapter API，開發者可以更容易地跨平台部署應用程式。</p>    <h2>Next.js 16.2 版本的新功能</h2>    <p>Next.js 16.2 版本引入了很多新功能，包括穩定的 Adapter API、公開的測試套件等。</p>    <p>這些新功能讓開發者可以更容易地跨平台部署應用程式，並且可以更好地測試和驗證自己的應用程式。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 的跨平台部署功能真是太棒了，現在開發者可以更容易地將應用程式部署到不同的平台上，真的是方便極了!</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.2 版本引入了穩定的 Adapter API",
+      "Adapter API 讓開發者可以更容易地跨平台部署應用程式",
+      "Next.js 團隊與各大平台提供商合作，確保跨平台的兼容性"
+    ],
+    "punchline": "Next.js 正式跨平台了",
+    "social_posts": {
+      "threads": "Next.js 正式跨平台了！\n現在開發者可以更容易地跨平台部署應用程式，真的是方便極了!",
+      "facebook": "Next.js 16.2 版本引入了穩定的 Adapter API，讓開發者可以更容易地跨平台部署應用程式。點擊連結了解更多!",
+      "viral_hook": "Next.js 正式跨平台了！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "017",
+    "title": "革命性的文生技術：DiffusionGemma 讓文字生成速度提升 4 倍！",
+    "summary": "DiffusionGemma 是一種新的文生模型，能夠在專用 GPU 上實現 4 倍的文字生成速度，開啟了對於速度關鍵的交互式本地工作流程的探索。",
+    "content": "<p>DiffusionGemma 是一種新的文生模型，能夠在專用 GPU 上實現 4 倍的文字生成速度，開啟了對於速度關鍵的交互式本地工作流程的探索。</p>    <h2>什麼是 DiffusionGemma？</h2>    <p>DiffusionGemma 是一種基於 Gemini Diffusion 研究的文生模型，使用了一種新的擴散頭來最大化生成速度。它可以同時生成整個段落的文字，而不是一個一個字元，這使得它比傳統的自回歸模型快 4 倍。</p>    <h2>DiffusionGemma 的優點</h2>    <p>DiffusionGemma 的優點在於它可以同時生成整個段落的文字，這使得它比傳統的自回歸模型快 4 倍。此外，它還可以用於需要快速交互式文生應用的開發者，例如在線編輯、快速迭代和生成非線性文本結構等應用中。</p>    <h2>編輯悄悄話</h2>    <p>DiffusionGemma 的出現，代表著文生技術的一個新的革命。它的速度和效率，使得它有可能被用於各種需要快速交互式文生應用的場合。未來，DiffusionGemma 有可能成為文生技術的一個新的標準。",
+    "score": 90,
+    "takeaways": [
+      "DiffusionGemma 的文生速度比傳統的自回歸模型快 4 倍",
+      "該模型可以同時生成整個段落的文字，而不是一個一個字元",
+      "DiffusionGemma 適合用於需要快速交互式文生應用的開發者"
+    ],
+    "punchline": "DiffusionGemma 讓文字生成速度提升 4 倍，革命性的文生技術！",
+    "social_posts": {
+      "threads": "有沒有想過，文字生成的速度可以提升 4 倍？ DiffusionGemma 是一種新的文生模型，它可以同時生成整個段落的文字，而不是一個一個字元。這代表著文生技術的一個新的革命！ #DiffusionGemma #文生技術",
+      "facebook": "DiffusionGemma 是一種新的文生模型，它可以在專用 GPU 上實現 4 倍的文字生成速度。它可以用於需要快速交互式文生應用的開發者，例如在線編輯、快速迭代和生成非線性文本結構等應用中。了解更多關於 DiffusionGemma 的信息：[link]",
+      "viral_hook": "文字生成速度提升 4 倍！ DiffusionGemma 是一種新的文生模型，它可以同時生成整個段落的文字。"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "018",
+    "title": "AI 啟示錄：如何避免被誤導，找到真正的價值？",
+    "summary": "AI 將改變我們的工作方式，但如何評估其價值？別被誤導，了解真相，找到真正的價值。",
+    "content": "<p>AI 的發展日新月異，但如何評估其價值？Greg Wilson 指出，許多人使用有缺陷的衡量指標來評估 AI 的價值。</p>    <h2>AI 評估的陷阱</h2>    <p>例如，衡量 AI 生成的程式碼行數、關閉的工單數量，或者詢問開發人員是否感到更有生產力。這些方法都有其缺陷。Benedict Evans 也指出，廣泛的自動化不一定意味著職業的消失。</p>    <h2>AI 的真正價值</h2>    <p>AI 的真正價值不在於其數據，而在於其智慧。Stephen O'Grady 的研究表明，封閉和開放的 AI 模型都有其優缺點，需要謹慎評估。同時，AI 的應用需要謹慎，避免產生虛假的引用和資訊。</p>    <h2>編輯悄悄話</h2>    <p>AI 的發展是一把雙刃劍，需要我們謹慎評估和應用。別被誤導，了解真相，找到真正的價值。同時，讓我們一起努力，打造一個更加智慧和美好的未來。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 的評估需要謹慎，避免使用有缺陷的衡量指標",
+      "AI 將改變我們的工作方式，但不一定意味著工作的消失",
+      "AI 的應用需要謹慎，避免產生虛假的引用和資訊"
+    ],
+    "punchline": "AI 的價值不在於其數據，而在於其智慧",
+    "social_posts": {
+      "threads": "AI 的價值不在於其數據，而在於其智慧。別被誤導，了解真相，找到真正的價值。 #AI #智慧",
+      "facebook": "AI 的發展是一把雙刃劍，需要我們謹慎評估和應用。了解真相，找到真正的價值。分享給你的朋友和家人！",
+      "viral_hook": "AI 將改變我們的工作方式，但不一定意味著工作的消失！"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-06-02.html",
+    "date": "2026-06-13"
+  }
+]
