@@ -592,5 +592,27 @@
     "source": "AI HOT 精選",
     "url": "https://mp.weixin.qq.com/s/QNl4pn5JzxpEeFAEvq88ZA",
     "date": "2026-06-13"
+  },
+  {
+    "id": "028",
+    "title": "AI 代碼生成的隱藏危機：為什麼你需要了解 AI Agent Stack",
+    "summary": "AI 代碼生成正在加速軟體交付，但你知道這背後的隱藏危機嗎？了解 AI Agent Stack 是解決這個問題的關鍵",
+    "content": "<p>AI 代碼生成正在加速軟體交付，但你知道這背後的隱藏危機嗎？了解 AI Agent Stack 是解決這個問題的關鍵。</p>    <h2>什麼是 AI Agent Stack</h2>    <p>AI Agent Stack 是一個複雜的架構，包含多個層次，包括 Agent Runtime、Model Layer、Tool Layer、Memory Layer 和 Observability & Safety Layer。</p>    <p>這些層次共同工作，讓 AI 代碼生成可以高效且安全地運行。但是，如果你不了解這些層次的工作原理，你可能會遇到隱藏的危機。</p>    <h2>為什麼需要了解 AI Agent Stack</h2>    <p>了解 AI Agent Stack 可以幫助你避免代碼生成的隱藏危機，例如代碼錯誤、安全漏洞和效率低下。掌握 AI Agent Stack 的知識可以讓你在軟體交付中佔據先機。</p>    <p>因此，如果你想在 AI 代碼生成中成功，你需要了解 AI Agent Stack 的工作原理和它的重要性。</p>    <h2>編輯悄悄話</h2>    <p>別讓 AI 代碼生成的隱藏危機困擾你，了解 AI Agent Stack 是解決這個問題的關鍵。現在就開始學習吧！",
+    "score": 90,
+    "takeaways": [
+      "AI Agent Stack 是一個複雜的架構，包含多個層次",
+      "了解 AI Agent Stack 可以幫助你避免代碼生成的隱藏危機",
+      "掌握 AI Agent Stack 的知識可以讓你在軟體交付中佔據先機"
+    ],
+    "punchline": "速度沒有控制是假的經濟",
+    "social_posts": {
+      "threads": "你知道 AI 代碼生成的隱藏危機嗎？了解 AI Agent Stack 是解決這個問題的關鍵。#AI #代碼生成 #隱藏危機",
+      "facebook": "AI 代碼生成正在加速軟體交付，但你知道這背後的隱藏危機嗎？了解 AI Agent Stack 是解決這個問題的關鍵。點擊連結了解更多。#AI #代碼生成 #軟體交付",
+      "viral_hook": "別讓 AI 代碼生成的隱藏危機困擾你！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!N2N1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5edb76e4-d060-48d2-bd73-afe04f1cff5a_1284x1536.jpeg",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack",
+    "date": "2026-06-13"
   }
 ]
