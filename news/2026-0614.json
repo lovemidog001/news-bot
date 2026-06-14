@@ -1,0 +1,332 @@
+[
+  {
+    "id": "001",
+    "title": "AI 再次突破！智谱 GLM-5.2 全量开放，1M 上下文支持來了！",
+    "summary": "智谱 GLM-5.2 全量开放，支持 1M 上下文，下周即将开源！這對 AI 研發的影響是什麼？",
+    "content": "<p>智谱 GLM-5.2 全量开放，支持 1M 上下文，这是 AI 研發的一大突破！</p>    <h2>什麼是智谱 GLM-5.2？</h2>    <p>智谱 GLM-5.2 是一種最新的 AI 模型，支持 1M 上下文，能夠處理更多的資料和任務。</p>    <h2>這對 AI 研發的影響是什麼？</h2>    <p>這對 AI 研發的影響是巨大的，能夠開啟新一波 AI 研發的潮流，讓 AI 能夠更好地服務於人類。</p>    <h2>編輯悄悄話</h2>    <p>AI 的發展真的是太快了，讓人感覺到未來的無限可能！</p>",
+    "score": 90,
+    "takeaways": [
+      "智谱 GLM-5.2 全量开放，支持 1M 上下文",
+      "下周即将开源，開啟新一波 AI 研發",
+      "這對未來 AI 應用有何影響？"
+    ],
+    "punchline": "AI 研發又再進一步！",
+    "social_posts": {
+      "threads": "AI 研發又再進一步！智谱 GLM-5.2 全量开放，支持 1M 上下文，下周即将开源！這對 AI 研發的影響是什麼？",
+      "facebook": "智谱 GLM-5.2 全量开放，支持 1M 上下文，下周即将开源！這對 AI 研發的影響是什麼？讓我們一起討論！",
+      "viral_hook": "AI 研發又再進一步！"
+    },
+    "image": "https://mmbiz.qpic.cn/mmbiz_jpg/lRIrvTGkm9vcu4PaD56cB6UCl6n8xWaOe8TAK91ohcTh6AnbrJibvXtSJbDGFEwqmhaPZKxeiaMQMzAqxSVFjXxohD0JMKN5BnsRicR3ulibkvM/0?wx_fmt=jpeg",
+    "source": "AI HOT 精選",
+    "url": "https://mp.weixin.qq.com/s/LDrbtLM0wiCTJorvd5GY9w",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "002",
+    "title": "亞馬遜CEO的神秘會談： Anthropic模型被美國政府整治的內幕",
+    "summary": "亞馬遜CEO與美國官員的會談引發對Anthropic公司AI模型的監管升級，關乎未來AI發展的競爭格局",
+    "content": "<p>近日，亞馬遜CEO與美國官員的會談引發了對Anthropic公司AI模型的監管升級。這次事件涉及對Anthropic旗下大語言模型的監管升級，具體措施及模型版本細節尚未披露。</p>    <h2>什麼是Anthropic模型?</h2>    <p>Anthropic是一家人工智慧公司，專注於開發大語言模型。這些模型可以用於自然語言處理、文本生成等領域。然而，隨著AI模型的發展，監管機構也開始關注其潛在風險和挑戰。</p>    <h2>亞馬遜CEO的遊說對政府政策的影響</h2>    <p>亞馬遜CEO的會談直接導致美國政府對Anthropic公司的AI模型采取整治行動。這一事件引發了人們對大公司遊說對政府政策的影響的關注。做AI的公司都得盯住這類先例，了解如何在競爭中保持優勢。</p>    <h2>編輯悄悄話</h2>    <p>大公司的遊說和政府的監管，都是AI產業發展中的重要因素。然而，如何找到平衡點，讓AI的發展既能促進創新，又能確保安全和公平呢？這是一個值得我們深思的問題。</p>",
+    "score": 85,
+    "takeaways": [
+      "亞馬遜CEO的遊說對政府政策的影響",
+      "Anthropic公司的AI模型面臨的監管挑戰",
+      "AI產業的競爭與監管的複雜關係"
+    ],
+    "punchline": "大公司把政策當競爭武器",
+    "social_posts": {
+      "threads": "亞馬遜CEO的會談，竟然讓Anthropic模型被美國政府整治了！\n這到底是怎么回事呢？\n讓我們一起探討這個問題吧。",
+      "facebook": "亞馬遜CEO與美國官員的會談，對Anthropic公司的AI模型帶來了什麼影響？\n點擊鏈接了解更多：[鏈接]\n分享你的看法，讓我們一起討論這個話題。",
+      "viral_hook": "亞馬遜CEO的會談，竟然讓Anthropic模型被美國政府整治了！"
+    },
+    "image": "",
+    "source": "AI HOT 精選",
+    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "003",
+    "title": "Suno 音轨分离大升级！從此告別频率隔离，迎接純淨音軌新時代",
+    "summary": "Suno 推出革命性的音轨分离技術，從零重新生成音轨，告別频率隔离带来的伪影，讓音樂人們可以享受到純淨無瑕的音軌",
+    "content": "<p>Suno 推出了一項革命性的音轨分离技術升級，讓音樂人們可以享受到純淨無瑕的音軌。這項技術從零重新生成音轨，而不是僅僅隔離频率，從此告別了频率隔离带来的伪影。</p>    <h2>什麼是音轨分离？</h2>    <p>音轨分离是一種技術，能夠將混音的音軌分離成單獨的音軌，例如人聲、吉他、鼓等。這項技術對於音樂人們來說非常重要，因為它可以讓他們更好地控制和編輯音軌。</p>    <h2>新技術帶來的變化</h2>    <p>Suno 的音轨分离技術升級帶來了純淨無瑕的音軌，直接可拖入 DAW。這意味著音樂人們可以更快速、更容易地編輯和混合音軌，無需再擔心频率隔离带来的伪影。</p>    <h2>編輯悄悄話</h2>    <p>這項技術升級對於音樂人們來說是個好消息，讓我們可以享受到純淨無瑕的音軌。雖然這項技術仍在不斷改進，但已經能夠看到它的潛力。所以，音樂人們可以放心使用 Suno 的音轨分离技術，創造出更好的音樂作品。</p>",
+    "score": 90,
+    "takeaways": [
+      "Suno 音轨分离技術升級，從零重新生成音轨",
+      "純淨無瑕的音軌，直接可拖入 DAW",
+      "解決了频率隔离带来的伪影問題"
+    ],
+    "punchline": "純淨音軌新時代來了",
+    "social_posts": {
+      "threads": "大家好，我們來聊聊 Suno 的音轨分离技術升級吧！\n這項技術從零重新生成音轨，而不是僅僅隔離频率，從此告別了频率隔离带来的伪影。\n純淨無瑕的音軌，直接可拖入 DAW，讓音樂人們可以更好地控制和編輯音軌。",
+      "facebook": "Suno 推出革命性的音轨分离技術升級！從此告別频率隔离带来的伪影，迎接純淨音軌新時代。點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "Suno 音轨分离技術升級了！從此告別频率隔离带来的伪影，迎接純淨音軌新時代"
+    },
+    "image": "https://pbs.twimg.com/profile_images/1917978610683514880/JbHhI1yH_200x200.jpg",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/suno/status/2065862499765821916",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "004",
+    "title": "市場最智能的Fusion API來了！半價實現Fable級別的AI智慧",
+    "summary": "OpenRouter推出的Fusion API，以一半的價格實現Fable級別的智能，對開發者來說是一個新的選項",
+    "content": "<p>近日，OpenRouter推出了Fusion API，這是一個市場上最智能的複合模型。Fusion API以一半的價格實現Fable級別的智能，這對開發者來說是一個新的選項。</p>  <h2>什麼是Fusion API？</h2>  <p>Fusion API是一個由OpenRouter開發的複合模型，它結合了多種AI技術，實現了Fable級別的智能。Fusion API的優點在於，它可以以一半的價格實現Fable級別的智能，這對開發者來說是一個非常有吸引力的選項。</p>  <h2>如何使用Fusion API？</h2>  <p>要使用Fusion API，開發者需要先了解它的工作原理。Fusion API的工作原理如下：它使用了一種特殊的演算法，結合了多種AI技術，實現了Fable級別的智能。開發者可以通過OpenRouter的官網了解更多關於Fusion API的信息。</p>  <h2>編輯悄悄話</h2>  <p>雖然Fusion API看起來是一個非常有吸引力的選項，但我們仍需要等待更多的實測結果，才能確定它的實際表現。然而，無論如何，Fusion API的出現都對開發者選型是一個新的選項，值得我們關注。</p>",
+    "score": 80,
+    "takeaways": [
+      "Fusion API是市場上最智能的複合模型",
+      "Fusion API以一半的價格實現Fable級別的智能",
+      "Fusion API對開發者選型是一個新的選項"
+    ],
+    "punchline": "半價實現Fable級別的AI智慧",
+    "social_posts": {
+      "threads": "大家好，我剛剛發現了一個非常酷的東西！OpenRouter推出的Fusion API，以一半的價格實現Fable級別的智能！\n這對開發者來說是一個新的選項，非常有吸引力！\n大家有興趣了解更多嗎？",
+      "facebook": "OpenRouter推出的Fusion API，是市場上最智能的複合模型！它以一半的價格實現Fable級別的智能，對開發者來說是一個新的選項。大家可以點擊連結了解更多信息：[連結]",
+      "viral_hook": "半價實現Fable級別的AI智慧？OpenRouter的Fusion API來了！"
+    },
+    "image": "https://pbs.twimg.com/media/HKthhcmW4AArHeb.jpg:large",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/OpenRouter/status/2065856853989270011",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "005",
+    "title": "AI模型開發的終極秘密：olmo-eval讓你一次就做對",
+    "summary": "想知道如何讓你的AI模型更強大、更準確？olmo-eval是一個革命性的評估工具，讓你一次就做對，節省時間和資源。",
+    "content": "<p>你是否曾經為了讓你的AI模型更強大、更準確而煩惱？你是否曾經花費大量的時間和資源，卻仍然無法得到理想的結果？如果是，那麼你需要了解olmo-eval這個革命性的評估工具。</p>    <h2>什麼是olmo-eval？</h2>    <p>olmo-eval是一個評估工具，旨在幫助你優化AI模型。它可以讓你一次就做對，節省時間和資源。使用olmo-eval，你可以輕鬆地評估你的AI模型，找出問題所在，並進行優化。</p>    <h2>如何使用olmo-eval？</h2>    <p>使用olmo-eval非常簡單。你只需要將你的AI模型上傳到olmo-eval平台，然後選擇你要評估的模型。olmo-eval將會自動對你的模型進行評估，提供你詳細的評估報告和建議。</p>    <h2>編輯悄悄話</h2>    <p>如果你想讓你的AI模型更強大、更準確，那麼你一定要試試olmo-eval。相信我，它會讓你大吃一驚。不要再浪費時間和資源，趕快使用olmo-eval吧！",
+    "score": 90,
+    "takeaways": [
+      "olmo-eval是一個評估工具，幫助你優化AI模型",
+      "使用olmo-eval可以節省時間和資源",
+      "olmo-eval是AI模型開發的終極秘密"
+    ],
+    "punchline": "一次就做對，讓你的AI模型更強大",
+    "social_posts": {
+      "threads": "你們有沒有聽過olmo-eval？它是一個評估工具，幫助你優化AI模型。使用olmo-eval可以節省時間和資源，讓你的AI模型更強大、更準確。有興趣的話，可以去看看官網喔！",
+      "facebook": "你想知道如何讓你的AI模型更強大、更準確？olmo-eval是一個革命性的評估工具，讓你一次就做對，節省時間和資源。分享給你的朋友吧！",
+      "viral_hook": "讓你的AI模型更強大、更準確的終極秘密：olmo-eval"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/gacAOFYwPkpxu7cC4eeey.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "006",
+    "title": "透過 AI 技術打造高效的房地產交易流程：Rocket Close 的成功故事",
+    "summary": "Rocket Close 如何使用 AI 技術解決房地產交易的瓶頸，提升效率和客戶體驗？",
+    "content": "<p>在房地產交易過程中，標題檢查和評估是重要的環節。但是，傳統的檢查和評估流程往往耗時且容易出錯。Rocket Close是一家位於底特律的標題代理和評估管理公司，為了解決這個問題，該公司使用 AI 技術打造了一個名為 Supercharger 的解決方案。</p>    <h2>Supercharger 的核心技術</h2>    <p>Supercharger 是一個基於 AI 的解決方案，使用 Strands Agents、Large Language Models (LLMs)、Amazon Bedrock、Amazon Bedrock Knowledge Bases 和 Model Context Protocol (MCP) 工具。它將標題和結算知識集中化，動態交互 với內部運營團隊，自動化研究密集型任務，提升決策效率。</p>    <h2>Supercharger 的六個核心能力</h2>    <ul>      <li>對話分析：理解語境和意圖，讓交互感覺自然和人性化</li>      <li>州級標題檢查助手：提供全面性檢查清單和指南，讓團隊在正確的時刻獲得正確的信息</li>      <li>API 基於整合：連接現有系統，維持數據的一致性，避免手動數據輸入</li>      <li>防護欄和響應準確性：驗證每個響應的質量標準和合規性要求</li>      <li>綜合日誌和監控：提供完整的系統性能和用戶交互可視性</li>      <li>統一存取：維持完整的決策背景，聚合之前需要檢查多個系統的信息</li>    </ul>    <h2>編輯悄悄話</h2>    <p>透過 AI 技術，Rocket Close 成功地解決了房地產交易的瓶頸，提升了效率和客戶體驗。這個成功故事告訴我們，AI 技術可以幫助我們更好地解決複雜的商業問題，創造更高效、更智能的商業流程。</p>",
+    "score": 90,
+    "takeaways": [
+      "利用 AI 技術自動化研究密集型任務",
+      "將知識集中化和整合，以提升決策效率",
+      "透過自然語言交互，提升客戶體驗和運營效率"
+    ],
+    "punchline": "AI 技術可以幫助房地產交易流程更高效、更智能",
+    "social_posts": {
+      "threads": "你知道嗎？Rocket Close 使用 AI 技術解決了房地產交易的瓶頸！\n透過自動化研究密集型任務和集中化知識，該公司提升了效率和客戶體驗。\n#AI #房地產 #交易流程",
+      "facebook": "Rocket Close 成功地使用 AI 技術解決房地產交易的瓶頸！\n了解更多關於 Supercharger 的六個核心能力和如何提升效率和客戶體驗的信息。\n#AI #房地產 #交易流程",
+      "viral_hook": "你知道嗎？AI 技術可以幫助房地產交易流程更高效、更智能！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/12/20329.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-supercharger-how-rocket-close-optimized-title-operations-with-agentic-ai/",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "007",
+    "title": "微軟Build 2026大會揭曉：AI從實驗到實踐，三件事領導者必須知道",
+    "summary": "微軟Build 2026大會中，AI從單獨工具轉變為連接系統，企業需要將AI嵌入工作流程中，有效擴展並轉化為可衡量的成果",
+    "content": "<p>微軟Build 2026大會上，AI成為焦點，從實驗到實踐，企業需要將AI嵌入工作流程中，有效擴展並轉化為可衡量的成果。</p>    <h2>AI從實驗到實踐</h2>    <p>過去，AI被視為單獨的工具，現在，企業需要將其連接到業務數據，形成連接系統，才能發揮其真正的價值。</p>    <ul>      <li>將AI嵌入工作流程中</li>      <li>有效擴展AI，需要將其連接到業務數據</li>      <li>將AI轉化為可衡量的成果，需要領導者有明確的戰略</li>    </ul>    <h2>領導者的角色</h2>    <p>領導者需要有明確的戰略，將AI轉化為可衡量的成果，需要領導者有遠見，能夠將AI與業務目標結合起來。</p>    <h2>編輯悄悄話</h2>    <p>AI不是工具，是戰略，企業需要將其視為未來的核心競爭力，領導者需要有勇氣，將AI轉化為實際的成果，才能在未來的市場中佔據一席之地。</p>",
+    "score": 85,
+    "takeaways": [
+      "AI從實驗到實踐，企業需要將AI嵌入工作流程中",
+      "有效擴展AI，需要將其連接到業務數據",
+      "將AI轉化為可衡量的成果，需要領導者有明確的戰略"
+    ],
+    "punchline": "AI不是工具，是戰略",
+    "social_posts": {
+      "threads": "微軟Build 2026大會上，AI成為焦點，從實驗到實踐，企業需要將AI嵌入工作流程中，有效擴展並轉化為可衡量的成果...\n\n什麼是你的看法？",
+      "facebook": "微軟Build 2026大會：AI從實驗到實踐，三件事領導者必須知道\n\n了解更多：https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
+      "viral_hook": "AI不是工具，是戰略！"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "008",
+    "title": "監控 Claude 活動，提升 Elastic Security 安全性",
+    "summary": "Elastic 的 Anthropic 整合讓您可以監控 Claude 活動，偵測風險，調查威脅，所有在一個平台上進行",
+    "content": "<p>您是否曾經想過如何監控 Claude 活動，提升 Elastic Security 安全性？現在，Elastic 的 Anthropic 整合讓您可以做到這一點。</p><h2>什麼是 Anthropic 整合？</h2><p>Anthropic 整合是 Elastic 的一項功能，可以讓您監控 Claude 活動，偵測風險，調查威脅，所有在一個平台上進行。這項功能可以幫助您提升安全性和合規性。</p><h2>如何使用 Anthropic 整合</h2><p>使用 Anthropic 整合非常簡單，您只需要將 Claude 的 Compliance API 事件整合到 Elastic Security，就可以開始監控 Claude 活動，偵測風險，調查威脅。整合後，您可以在一個平台上查看所有的安全相關事件，包括 Claude 活動、身份驗證、雲端日誌等。</p><h2>編輯悄悄話</h2><p>所以，如果您想要提升 Elastic Security 安全性，監控 Claude 活動，請使用 Anthropic 整合。這項功能可以幫助您提升安全性和合規性，讓您可以更好地保護您的系統和數據。</p>",
+    "score": 90,
+    "takeaways": [
+      "Elastic 的 Anthropic 整合可以監控 Claude 活動",
+      "偵測風險和調查威脅可以在同一個平台上進行",
+      "整合可以幫助您提升安全性和合規性"
+    ],
+    "punchline": "監控 Claude 活動，提升 Elastic Security 安全性",
+    "social_posts": {
+      "threads": "您是否曾經想過如何監控 Claude 活動，提升 Elastic Security 安全性？\n現在，Elastic 的 Anthropic 整合讓您可以做到這一點。\n使用 Anthropic 整合可以幫助您提升安全性和合規性，讓您可以更好地保護您的系統和數據。",
+      "facebook": "提升 Elastic Security 安全性，監控 Claude 活動！\n使用 Anthropic 整合，可以幫助您提升安全性和合規性，讓您可以更好地保護您的系統和數據。",
+      "viral_hook": "監控 Claude 活動，提升 Elastic Security 安全性！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltc214a5ce68b99291/6a2c637e9d6b6c117eadfd70/image2.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/monitor-claude-activity-in-elastic-security",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "009",
+    "title": "微信智勝：從AI挑戰賽冠軍到未來生活的革命",
+    "summary": "微信测试团队在CVPR 2026 NTIRE RAIM挑战赛中奪冠，智能Agent的進步將如何改變我們的生活？",
+    "content": "<p>近日，微信测试团队在CVPR 2026 NTIRE RAIM挑战赛中斩获冠军，这一成就不仅体现了微信团队在AI技术方面的实力，也为我们未来的生活带来了无限的想象空间。</p>    <h2>智能Agent的崛起</h2>    <p>智能Agent的发展正如火如荼，從簡單的聊天機器人到複雜的智能系統，AI技術的進步將使我們的生活更加便捷、更加高效。微信测试团队的勝利就是最好的證明。</p>    <h2>未來生活的革命</h2>    <p>隨著AI技術的不斷進步，我們的生活將會發生翻天覆地的變化。從智能家居到智能交通，從智能醫療到智能教育，AI將會深入到我們生活的每一個角落。微信测试团队的成就只是這一革命的開始。</p>    <h2>編輯悄悄話</h2>    <p>AI時代的到來，生活將不再一樣！但我們是否已經準備好迎接這一變化？讓我們一起期待未來的到來，並且共同創造一個更加美好的智能世界！</p>",
+    "score": 90,
+    "takeaways": [
+      "微信测试团队在AI挑戰賽中的優異表現",
+      "智能Agent的發展對未來生活的影響",
+      "AI技術在各行業的應用前景"
+    ],
+    "punchline": "AI時代的到來，生活將不再一樣！",
+    "social_posts": {
+      "threads": "微信智勝！他們在AI挑戰賽中的優異表現，到底是如何做到的？\n讓我們一起探索智能Agent的未來！",
+      "facebook": "微信测试团队在CVPR 2026 NTIRE RAIM挑战赛中奪冠！\n這一成就不僅體現了微信團隊在AI技術方面的實力，也為我們未來的生活帶來了無限的想象空間。讓我們一起分享這一消息，並且共同期待未來的到來！",
+      "viral_hook": "AI時代的到來，生活將不再一樣！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802000&idx=1&sn=e98b528060a2ae5d34b6f9eeb6e517ce",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "010",
+    "title": "AI 代碼生成的未知世界：了解 AI Agent Stack 的神奇力量",
+    "summary": "你知道 AI 代碼生成背後的秘密嗎？了解 AI Agent Stack 的架構，讓你掌握 AI 的真實力量",
+    "content": "<p>你是否曾經想過，AI 代碼生成背後的秘密是什麼？其實，AI 代碼生成是一個非常複雜的過程，涉及到多個層次的架構。了解這個架構可以幫助你更好地使用 AI 代碼生成，甚至可以創造出更加強大的 AI 模型。</p>    <h2>什麼是 AI Agent Stack？</h2>    <p>AI Agent Stack是一個包含多個層次的架構，包括 Agent Runtime、Model Layer、Tool Layer、Memory Layer 和 Observability & Safety Layer。這些層次一起工作，讓 AI 代碼生成可以順暢地運行。</p>    <h2>AI 代碼生成的安全性和控制性</h2>    <p>AI 代碼生成的安全性和控制性是非常重要的。因為 AI 代碼生成可以自動生成代碼，所以它也可能帶來一些風險。如果不加控制，AI 代碼生成可能會生成一些有害的代碼，甚至會引起安全漏洞。因此，了解 AI 代碼生成的安全性和控制性是非常重要的。</p>    <h2>編輯悄悄話</h2>    <p>AI 代碼生成的未來就在眼前。隨著 AI 技術的發展，AI 代碼生成將會成為更加重要的工具。因此，了解 AI 代碼生成的架構和安全性是非常重要的。同時，也要注意 AI 代碼生成的風險和挑戰，才能夠真正地發揮 AI 的力量。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI Agent Stack 是一個複雜的架構，包含多個層次",
+      "了解 AI Agent Stack 的架構可以幫助你更好地使用 AI 代碼生成",
+      "AI 代碼生成的安全性和控制性是非常重要的"
+    ],
+    "punchline": "AI 代碼生成的未來就在眼前",
+    "social_posts": {
+      "threads": "你知道 AI 代碼生成背後的秘密嗎？了解 AI Agent Stack 的架構，可以幫助你更好地使用 AI 代碼生成。 #AI #代碼生成",
+      "facebook": "了解 AI 代碼生成的架構和安全性，可以幫助你創造出更加強大的 AI 模型。詳細內容請見以下連結：",
+      "viral_hook": "AI 代碼生成的未來就在眼前！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!N2N1!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5edb76e4-d060-48d2-bd73-afe04f1cff5a_1284x1536.jpeg",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "011",
+    "title": "爆炸性新聞！Musk 遭遇史詩級失敗，OpenAI 即將上市",
+    "summary": "Elon Musk 對 OpenAI 的 150 億美元訴訟遭拒，OpenAI 即將上市，Google 也推出新 AI 模型",
+    "content": "<p>最近，科技界發生了兩件大事：Elon Musk 對 OpenAI 的 150 億美元訴訟遭拒，OpenAI 即將上市。這兩件事對科技界的影響將非常深遠。</p>    <h2>什麼是 OpenAI？</h2>    <p>OpenAI 是一個非營利組織，目的是開發和推廣人工智慧技術。然而，近年來，OpenAI 逐漸轉型為營利組織，並吸引了大量投資。Musk 對 OpenAI 的訴訟主要是因為他認為 OpenAI 的轉型違反了其非營利組織的宗旨。</p>    <h2>Google 的新 AI 模型</h2>    <p>除了 OpenAI 的上市消息，Google 也推出了新 AI 模型，包括 Gemini Spark 和 Antigravity 2.0。這些模型可以幫助用戶完成各種任務，例如將圖片和音頻轉換為視頻等。</p>    <h2>編輯悄悄話</h2>    <p>科技界的發展日新月異，今天的失敗可能是明天的成功。讓我們繼續關注 OpenAI 和 Google 的發展，看看他們會帶來什麼樣的驚喜。</p>",
+    "score": 90,
+    "takeaways": [
+      "Musk 對 OpenAI 的訴訟因為時效問題而遭拒",
+      "OpenAI 即將上市，可能成為歷史上最大規模的 IPO",
+      "Google 推出新 AI 模型，包括 Gemini Spark 和 Antigravity 2.0"
+    ],
+    "punchline": "Musk 失敗了，OpenAI 即將崛起",
+    "social_posts": {
+      "threads": "Musk 失敗了，OpenAI 即將崛起！什麼是 OpenAI？它又如何影響我們的生活？#OpenAI #Musk",
+      "facebook": "科技界的最新動態：Musk 對 OpenAI 的訴訟遭拒，OpenAI 即將上市。點擊鏈接了解更多：https://example.com",
+      "viral_hook": "Musk 失敗了，OpenAI 即將崛起！你準備好了嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "012",
+    "title": "Next.js 革命：跨平台適配器登場，開發者們的福音！",
+    "summary": "Next.js 16.2 推出穩定的 Adapter API，讓開發者們可以更容易地跨平台部署應用程式",
+    "content": "<p>Next.js 16.2 推出穩定的 Adapter API，讓開發者們可以更容易地跨平台部署應用程式。這意味著開發者們可以使用 Next.js 開發的應用程式，可以在不同的平台上部署，例如 Netlify、Cloudflare、AWS Amplify 和 Google Cloud。</p>    <h2>什麼是 Adapter API？</h2>    <p>Adapter API 是一個讓開發者們可以使用 Next.js 開發的應用程式，可以在不同的平台上部署的機制。它提供了一個穩定的接口，讓開發者們可以使用 Next.js 的功能，例如 caching、streaming 和 serverless 函數。</p>    <h2>如何使用 Adapter API</h2>    <p>開發者們可以使用 Adapter API，創建自己的 Adapter，以便在不同的平台上部署 Next.js 的應用程式。Next.js 提供了公用的測試套件，讓開發者們可以測試自己的 Adapter。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 的跨平台適配器，是開發者們的福音！它讓開發者們可以更容易地跨平台部署應用程式，節省了很多時間和精力。所以，如果你是 Next.js 的開發者，快來試試看吧！",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.2 引入穩定的 Adapter API",
+      "開發者們可以使用 Adapter API 跨平台部署應用程式",
+      "Next.js 提供了公用的測試套件，讓開發者們可以測試自己的 Adapter"
+    ],
+    "punchline": "Next.js 跨平台適配器，開發者們的福音！",
+    "social_posts": {
+      "threads": "Next.js 跨平台適配器登場！\n開發者們可以更容易地跨平台部署應用程式\n使用 Adapter API，可以在不同的平台上部署 Next.js 的應用程式\n快來試試看吧！",
+      "facebook": "Next.js 16.2 推出穩定的 Adapter API，讓開發者們可以更容易地跨平台部署應用程式。了解更多：https://example.com",
+      "viral_hook": "Next.js 跨平台適配器，開發者們的福音！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "013",
+    "title": "【4倍加速】DiffusionGemma：革命性文本生成模型登場",
+    "summary": "DiffusionGemma 是一款開源實驗模型，能夠在專用 GPU 上實現高達 4 倍的文本生成速度，為交互式本地工作流程開啟了新的可能性。",
+    "content": "<p>近日，研究人員推出了 DiffusionGemma，一款開源實驗模型，能夠在專用 GPU 上實現高達 4 倍的文本生成速度。這款模型的出現，為交互式本地工作流程開啟了新的可能性。</p>    <h2>什麼是 DiffusionGemma？</h2>    <p>DiffusionGemma 是一款基於文本擴散的模型，能夠同時生成整段文本，而不是像傳統的自回歸模型那樣，一個詞一個詞地生成。這使得 DiffusionGemma 在文本生成速度上有了顯著的提升。</p>    <h2>DiffusionGemma 的應用場景</h2>    <p>DiffusionGemma 模型適合用於交互式本地工作流程，如即時編輯和快速迭代。它可以幫助開發人員在本地實現快速的文本生成，減少延遲瓶頸。</p>    <p>例如，開發人員可以使用 DiffusionGemma 來生成快速的文本反饋，或者用於即時的聊天機器人應用。</p>    <h2>編輯悄悄話</h2>    <p>DiffusionGemma 的出現，標誌著文本生成模型的又一重大突破。它的速度提升和適用性，使得它成為交互式本地工作流程的理想選擇。讓我們一起期待 DiffusionGemma 的未來發展吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "DiffusionGemma 模型能夠同時生成整段文本，速度比傳統的自回歸模型快 4 倍",
+      "該模型適合用於交互式本地工作流程，如即時編輯和快速迭代",
+      "DiffusionGemma 可以通過微調來提高其在特定任務上的性能"
+    ],
+    "punchline": "DiffusionGemma：讓你的文本生成速度提升 4 倍！",
+    "social_posts": {
+      "threads": "【4倍加速】DiffusionGemma：革命性文本生成模型登場！\n\nDiffusionGemma 是一款開源實驗模型，能夠在專用 GPU 上實現高達 4 倍的文本生成速度，為交互式本地工作流程開啟了新的可能性。\n\n#DiffusionGemma #文本生成 #AI",
+      "facebook": "【4倍加速】DiffusionGemma：革命性文本生成模型登場！\n\nDiffusionGemma 是一款開源實驗模型，能夠在專用 GPU 上實現高達 4 倍的文本生成速度，為交互式本地工作流程開啟了新的可能性。\n\n點擊鏈接了解更多：[鏈接]\n\n#DiffusionGemma #文本生成 #AI",
+      "viral_hook": "【4倍加速】DiffusionGemma：革命性文本生成模型登場！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Diffusion_Gemma_Social.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "014",
+    "title": "AI 新時代：別再用錯的評估指標了！",
+    "summary": "了解 AI 對工作的影響，並避免使用錯誤的評估指標，才能真正發揮 AI 的潛力。",
+    "content": "<p>近期，許多專家和研究人員都在探討 AI 對工作的影響和評估指標的問題。Greg Wilson 指出，許多人使用錯誤的評估指標來評估 AI 工具的價值，例如使用行數、票數或問卷調查等方法。</p>    <h2>錯誤的評估指標</h2>    <p>這些方法都有其缺陷，例如行數和票數可能不準確，問卷調查可能會受到偏見的影響。Benedict Evans 也指出，自動化不一定會導致工作的消失，反而可能會創造新的工作機會。</p>    <h2>AI 對工作的影響</h2>    <p>AI 對工作的影響難以預測，但可以透過觀察和學習來適應。Stephen O'Grady 的研究顯示，封閉和開放模型在基準測試上的表現都有所不同，但開放模型正在快速追趕封閉模型的步伐。</p>    <p>此外，AI 生成的報告可能會含有虛假的引用，GPTZero 公司的工具可以幫助我們偵測 AI 寫作。Jamie Hurst 的文章也指出，使用 LLMs 可以帶來很多好處，但也需要我們的關注和評估。</p>    <h2>編輯悄悄話</h2>    <p>AI 不是解決方案，而是新的一場革命。我们需要學會如何使用 AI，同時也需要關注其對工作和社會的影響。只有透過觀察、學習和評估，我們才能真正發揮 AI 的潛力。",
+    "score": 90,
+    "takeaways": [
+      "AI 對工作的影響難以預測，但可以透過觀察和學習來適應",
+      "錯誤的評估指標可能會導致誤解和錯誤的決策",
+      "AI 可以幫助我們找到新的解決方案和機會，但也需要我們的關注和評估"
+    ],
+    "punchline": "AI 不是解決方案，而是新的一場革命",
+    "social_posts": {
+      "threads": "大家好！今天想和大家討論一下 AI 對工作的影響和評估指標的問題。什麼是你最關心的？#AI #工作 #評估指標",
+      "facebook": "近期，許多專家和研究人員都在探討 AI 對工作的影響和評估指標的問題。了解更多：https://example.com",
+      "viral_hook": "AI 對工作的影響：別再用錯的評估指標了！"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-06-02.html",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "015",
+    "title": "AI 新時代來臨！OpenAI Academy 推出三門新課程，讓你輕鬆掌握 AI 技能",
+    "summary": "OpenAI Academy 推出三門新課程，教你如何應用 AI 技術在工作中，讓你輕鬆掌握 AI 技能，提升工作效率",
+    "content": "<p>OpenAI Academy 推出三門新課程，教你如何應用 AI 技術在工作中，讓你輕鬆掌握 AI 技能，提升工作效率。</p>    <h2>什麼是 OpenAI Academy?</h2>    <p>OpenAI Academy 是一個線上學習平台，提供各種 AI 相關課程，讓你可以輕鬆學會 AI 技能。</p>    <p>OpenAI Academy 的課程旨在教你如何應用 AI 技術在工作中，讓你輕鬆掌握 AI 技能，提升工作效率。</p>    <h2>三門新課程介紹</h2>    <ul>      <li>AI Foundations：介紹 AI 的基礎概念和實踐，讓你了解如何使用 AI 技術在工作中。</li>      <li>Applied AI Foundations：教你如何將 AI 技術應用在工作中，讓你輕鬆掌握 AI 技能。</li>      <li>Agents and Workflows：教你如何使用 AI 技術來自動化工作流程，讓你提升工作效率。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>AI 新時代來臨，學會 AI 技能就能贏在未來。OpenAI Academy 的課程是你學會 AI 技能的最佳途徑，快來試試看吧！",
+    "score": 90,
+    "takeaways": [
+      "OpenAI Academy 提供三門新課程：AI Foundations、Applied AI Foundations 和 Agents and Workflows",
+      "課程旨在教你如何應用 AI 技術在工作中，讓你輕鬆掌握 AI 技能",
+      "完成課程後，可以獲得證書，讓你在工作中展示自己的 AI 技能"
+    ],
+    "punchline": "AI 新時代來臨，學會 AI 技能就能贏在未來",
+    "social_posts": {
+      "threads": "你知道嗎？OpenAI Academy 推出三門新課程，教你如何應用 AI 技術在工作中，讓你輕鬆掌握 AI 技能，提升工作效率。 #AI #OpenAI #學習",
+      "facebook": "OpenAI Academy 推出三門新課程，教你如何應用 AI 技術在工作中，讓你輕鬆掌握 AI 技能，提升工作效率。點擊連結了解更多：https://www.openai.com/academy",
+      "viral_hook": "AI 新時代來臨，學會 AI 技能就能贏在未來！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3uhZVST93Uain15J19fqjF/544b8b12c44fb2035c96b419c5196013/Frame.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "date": "2026-06-14"
+  }
+]
