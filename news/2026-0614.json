@@ -328,5 +328,115 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
     "date": "2026-06-14"
+  },
+  {
+    "id": "016",
+    "title": "美國政府下令停用Fable 5和Mythos 5，到底發生了什麼？",
+    "summary": "美國政府以國家安全為由，下令停用Fable 5和Mythos 5， Anthropic公司不得不立即停用這兩款模型，到底發生了什麼？",
+    "content": "<p>美國政府近日下令停用Fable 5和Mythos 5，理由是國家安全。這兩款模型由Anthropic公司開發，原本供應給全球客戶使用。然而，美國政府認為這兩款模型存在安全漏洞，可能會被用於惡意目的。</p>    <h2>政府的理由是什麼？</h2>    <p>根據美國政府的說法，Fable 5和Mythos 5存在一種被稱為「jailbreak」的安全漏洞。這種漏洞允許用戶繞過模型的安全機制，進而存取敏感信息。然而，Anthropic公司認為政府的理由不合理，該漏洞其實是一種已知的問題，並不如政府所說的那樣嚴重。</p>    <h2>對整個行業的影響</h2>    <p>Anthropic公司認為美國政府的決定可能會讓整個AI行業停滯不前。如果這種標準被應用到整個行業，將會導致所有新模型的部署都被暫停。這對於整個行業的發展將會產生嚴重的影響。</p>    <h2>編輯悄悄話</h2>    <p>其實，美國政府的決定可能是出於對AI安全的擔憂。然而，過度的限制和監管可能會扼殺整個行業的創新和發展。作為用戶，我們應該關注這個問題，並要求政府和企業提供更透明和合理的解釋。",
+    "score": 85,
+    "takeaways": [
+      "美國政府下令停用Fable 5和Mythos 5，理由是國家安全",
+      "Anthropic公司認為政府的決定不合理，將影響整個行業",
+      "公司正在努力恢復使用權，並宣布與TCS和DXC Technology合作"
+    ],
+    "punchline": "美國政府的決定可能會讓整個AI行業停滯不前",
+    "social_posts": {
+      "threads": "美國政府下令停用Fable 5和Mythos 5，到底發生了什麼？\n Anthropic公司認為政府的決定不合理，將影響整個行業\n 公司正在努力恢復使用權，並宣布與TCS和DXC Technology合作",
+      "facebook": "美國政府近日下令停用Fable 5和Mythos 5，理由是國家安全。 Anthropic公司認為政府的決定不合理，將影響整個行業。您對這個問題有什麼看法？",
+      "viral_hook": "美國政府下令停用Fable 5和Mythos 5，AI行業的未來會如何？"
+    },
+    "image": "https://cdn.sanity.io/images/4zrzovbb/website/50159fff55088f12070cc8a56eb51ff61006b631-2400x1260.png",
+    "source": "AI HOT 精選",
+    "url": "https://www.anthropic.com/news/fable-mythos-access",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "017",
+    "title": "AI末日警鐘：Anthropic CEO揭Mythos千個漏洞，能黑銀行、窃取國家機密",
+    "summary": "Anthropic CEO Dario Amodei爆出Mythos能黑銀行、NSA抢着要，預言AI可能砍掉一半入門級白領工作",
+    "content": "<p>Anthropic CEO Dario Amodei在上市前夕爆出了一系列令人震驚的消息，包括Mythos有上千個漏洞，能黑銀行、窃取國家機密，甚至連NSA都抢着要用。</p>    <h2>AI的威脅</h2>    <p>Dario預言，AI可能一到五年內砍掉一半入門級白領工作，這對於許多人來說是一個令人恐懼的消息。他還提到，Claude已被美軍用於對伊朗戰爭，涉及女校150人死亡拷問，這是一個令人髮指的事件。</p>    <h2>信任崩潰</h2>    <p>Dario還解釋了他為什麼離開OpenAI，原来是因為信任崩潰。他認為，AI的發展需要政府的監管和規範，否則將會帶來災難性的後果。他還回怼了黃仁勋的「末日營銷」指控，認為這是一種廉價的營銷手法。</p>    <h2>編輯悄悄話</h2>    <p>AI的發展確實是個雙刃劍，一方面它能夠帶來巨大的便利和效率，另一方面它也可能帶來災難性的後果。因此，我們需要謹慎地對待AI的發展，避免它被濫用和誤用。讓我們一起關注AI的發展，共同創造一個更好的未來。</p>",
+    "score": 90,
+    "takeaways": [
+      "Mythos有上千個漏洞，能黑銀行、窃取國家機密",
+      "AI可能一到五年內砍掉一半入門級白領工作",
+      "Claude已被美軍用於對伊朗戰爭，涉及女校150人死亡拷問"
+    ],
+    "punchline": "AI末日警鐘：文明崩潰概率10%-25%",
+    "social_posts": {
+      "threads": "AI末日警鐘：Mythos有上千個漏洞，能黑銀行、窃取國家機密... 你準備好面對AI的威脅了嗎？",
+      "facebook": "Anthropic CEO Dario Amodei爆出Mythos能黑銀行、NSA抢着要，預言AI可能砍掉一半入門級白領工作。讓我們一起關注AI的發展，共同創造一個更好的未來。",
+      "viral_hook": "AI末日警鐘：文明崩潰概率10%-25%!"
+    },
+    "image": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_200x200.jpg",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/xiaohu/status/2065991805238497732",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "018",
+    "title": "爆料！Meta 20億美元收購案突然喊卡，北京的要求是什麼？",
+    "summary": "Meta 的 20 億美元收購 Manus 交易被北京叫停，地緣政治干預 AI 並購的里程碑事件正在上演！",
+    "content": "<p>近日，Meta 的 20 億美元收購 Manus 交易被北京叫停，地緣政治干預 AI 並購的里程碑事件正在上演！這個消息讓業界震驚不已，大家都在問：北京的要求是什麼？</p>    <h2>地緣政治的影響</h2>    <p>根據報導，北京要求 Meta 對 Manus 的收購交易必須反轉，這意味著 Meta 必須放棄收購 Manus。這個決定讓 Meta 的投資計劃受到嚴重影響，也讓業界開始關注地緣政治對 AI 並購的影響。</p>    <p>跨國 AI 投資逻辑正在被政令改寫，各國政府對 AI 並購的態度也越來越嚴格。這個趨勢對 AI 產業的發展有著深遠的影響，大家都在關注未来的走向。</p>    <h2>編輯悄悄話</h2>    <p>其實，AI 並購的政治關係一直都存在，只是這次北京的要求讓大家更清楚地看到這個問題。未來，AI 產業的發展將更加需要考慮政治因素，讓我們拭目以待吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Meta 的收購交易被北京要求反轉",
+      "地緣政治干預 AI 並購的新趨勢",
+      "跨國 AI 投資逻辑正在被政令改寫"
+    ],
+    "punchline": "AI 並購，誰說不需要政治關係？",
+    "social_posts": {
+      "threads": "大家覺得 Meta 的收購交易被北京叫停，會對 AI 產業的發展有什麼影響？\n讓我們一起討論吧！",
+      "facebook": "Meta 的 20 億美元收購 Manus 交易被北京叫停，地緣政治干預 AI 並購的里程碑事件正在上演！\n點擊連結了解更多：[連結]",
+      "viral_hook": "AI 並購，誰說不需要政治關係？"
+    },
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+    "source": "AI HOT 精選",
+    "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "019",
+    "title": "Meta 如何準備應對瞬間斷電？揭秘 Instant Power Loss Storm",
+    "summary": "Meta 推出 Instant Power Loss Storm 測試方案，旨在確保資料中心在瞬間斷電時的可靠性",
+    "content": "<p>Meta 的資料中心面臨著多種災難風險，包括瞬間斷電。但是，Meta 如何準備應對這種情況呢？答案就在於 Instant Power Loss Storm 測試方案。</p><h2>什麼是 Instant Power Loss Storm？</h2><p>Instant Power Loss Storm 是 Meta 推出的新測試方案，旨在確保資料中心在瞬間斷電時的可靠性。這個方案是 Meta 既有的災難準備計畫的一部分，目的是確保資料中心在面臨瞬間斷電時，可以快速恢復運作。</p><h2>如何確保資料中心的可靠性</h2><p>Meta 採用了多種策略來確保資料中心的可靠性，包括電池備援和自動啟動機制。另外，Meta 也採用了 Twine recovery kit，以確保資料中心在斷電時，可以快速恢復運作。</p><h2>編輯悄悄話</h2><p>斷電不再是問題，因為 Meta 已經準備好了。Instant Power Loss Storm 測試方案是 Meta 資料中心可靠性的保證，讓我們可以放心地使用 Meta 的服務。</p>",
+    "score": 90,
+    "takeaways": [
+      "Meta 的資料中心面臨著多種災難風險，包括瞬間斷電",
+      "Instant Power Loss Storm 測試方案旨在確保資料中心在斷電時的可靠性",
+      "Meta採用了多種策略來確保資料中心的可靠性，包括電池備援和自動啟動機制"
+    ],
+    "punchline": "斷電不再是問題",
+    "social_posts": {
+      "threads": "你知道嗎？Meta 的資料中心面臨著多種災難風險，包括瞬間斷電。但是，Meta 如何準備應對這種情況呢？答案就在於 Instant Power Loss Storm 測試方案。#Meta #資料中心 #斷電",
+      "facebook": "Meta 推出 Instant Power Loss Storm 測試方案，旨在確保資料中心在瞬間斷電時的可靠性。點擊連結了解更多！#Meta #資料中心 #斷電",
+      "viral_hook": "斷電不再是問題！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Validating-PowerLoss-Readiness-Meta-hero.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+    "date": "2026-06-14"
+  },
+  {
+    "id": "020",
+    "title": "人工智慧的未來：Claude Fable 5 登場了！",
+    "summary": "Microsoft Foundry 推出 Claude Fable 5，下一代自主代理的時代來臨！",
+    "content": "<p>你是否曾經想過，人工智慧的未來會是什麼樣子？今天，Microsoft Foundry 推出 Claude Fable 5，这是最新的 Frontier 模型，它將用於 GitHub Copilot 和 Foundry Agent Service。</p>    <h2>什麼是 Claude Fable 5？</h2>    <p>Claude Fable 5 是 Anthropic 的最新 Frontier 模型，它代表著人工智慧的新時代。這個模型可以用於各種應用，包括自動代理、自然語言處理等。</p>    <h2>它的影響是什麼？</h2>    <p>Claude Fable 5 的推出，代表著人工智慧的新時代。它將使得自動代理、自然語言處理等技術更加先進，從而改善我們的生活。同時，它也將帶來新的挑戰和機會，讓我們重新思考人工智慧的未來。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧的未來，從今天開始！ Claude Fable 5 的推出，代表著一個新的開始。讓我們一起期待，人工智慧的未來將會是怎樣的！</p>",
+    "score": 85,
+    "takeaways": [
+      "Claude Fable 5 是最新的 Frontier 模型",
+      "它將用於 GitHub Copilot 和 Foundry Agent Service",
+      "這代表著人工智慧的新時代"
+    ],
+    "punchline": "人工智慧的未來，從今天開始！",
+    "social_posts": {
+      "threads": "你是否曾經想過，人工智慧的未來會是什麼樣子？\n今天，Microsoft Foundry 推出 Claude Fable 5，这是最新的 Frontier 模型...\n它將用於 GitHub Copilot 和 Foundry Agent Service...\n代表著人工智慧的新時代！",
+      "facebook": "人工智慧的未來，從今天開始！ Claude Fable 5 的推出，代表著一個新的開始。讓我們一起期待，人工智慧的未來將會是怎樣的！",
+      "viral_hook": "人工智慧的未來，從今天開始！"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/claude-fable-5-is-now-available-in-microsoft-foundry-powering-the-next-era-of-autonomous-agents/",
+    "date": "2026-06-14"
   }
 ]
