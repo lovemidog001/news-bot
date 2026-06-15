@@ -416,5 +416,93 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/introducing-openai-partner-network",
     "date": "2026-06-15"
+  },
+  {
+    "id": "020",
+    "title": "AI治理新時代：美國政府強制關閉 Anthropic 的 AI 模型",
+    "summary": "美國政府強制 Anthropic 關閉其最新的 AI 模型，標誌著 AI 治理新時代的開始",
+    "content": "<h2>AI 治理新時代的開始</h2>    <p>美國政府強制 Anthropic 關閉其最新的 AI 模型，標誌著 AI 治理新時代的開始。這一事件引發了廣泛的關注和討論，政府、企業和民間都在思考如何應對這一挑戰。</p>    <p>Anthropic 的 AI 模型被認為是世界上最先進的 AI 技術之一，它的關閉對於 AI 產業和經濟穩定性有著重要影響。政府的強制關閉行動被認為是對 Anthropic 的懲罰，同時也對其他 AI 公司提出警告。</p>    <h2>對未來的影響</h2>    <p>這一事件對於未來的 AI 治理有著重要影響。政府將對 AI 模型的開發和使用進行更嚴格的監管，同時也會對 AI 產業進行更嚴格的審查。這一事件也會對美國的經濟穩定性有著重要影響，可能會導致經濟不穩定和 AI 泡沫的爆破。</p>    <p>在這一事件中，政府、企業和民間都需要共同努力，找到一個平衡的解決方案。政府需要制定合理的監管政策，企業需要承擔社會責任，民間需要提高對 AI 的認識和理解。只有這樣，才能夠真正實現 AI 的價值和潛力。</p>    <h2>編輯悄悄話</h2>    <p>這一事件是一個警醒，提醒我們需要更加重視 AI 治理和監管。政府、企業和民間都需要共同努力，找到一個平衡的解決方案，才能夠真正實現 AI 的價值和潛力。讓我們一起努力，創建一個更好的 AI 未來！",
+    "score": 90,
+    "takeaways": [
+      "美國政府對 Anthropic 的 AI 模型進行強制關閉，引發了 AI 治理的新挑戰",
+      "這一事件標誌著 AI 治理新時代的開始，政府將對 AI 模型的開發和使用進行更嚴格的監管",
+      "這一事件對美國的 AI 產業和經濟穩定性有著重要影響"
+    ],
+    "punchline": "AI 治理新時代來臨",
+    "social_posts": {
+      "threads": "大家好，我們來聊聊 AI 治理新時代的開始吧！美國政府強制 Anthropic 關閉其最新的 AI 模型，標誌著 AI 治理新時代的開始。這一事件引發了廣泛的關注和討論，政府、企業和民間都在思考如何應對這一挑戰。",
+      "facebook": "AI 治理新時代來臨！美國政府強制 Anthropic 關閉其最新的 AI 模型，標誌著 AI 治理新時代的開始。這一事件對於 AI 產業和經濟穩定性有著重要影響。讓我們一起努力，創建一個更好的 AI 未來！",
+      "viral_hook": "AI 治理新時代來臨！你準備好了嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!2v8V!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74e1df37-06b8-444e-a5a4-fbc1ead00360_3182x1790.png",
+    "source": "AI HOT 精選",
+    "url": "https://www.interconnects.ai/p/welcome-to-the-agi-era-of-ai-governance",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "021",
+    "title": "用 Deep Agents 和 Bedrock AgentCore 打造超級研究助手",
+    "summary": "用 AI 打造研究助手，讓你輕鬆搞定複雜的研究工作",
+    "content": "<p>你是否曾經為了完成研究工作而煩惱？現在，Deep Agents 和 Bedrock AgentCore 的結合可以幫助你打造超級研究助手。</p><h2>什麼是 Deep Agents 和 Bedrock AgentCore</h2><p>Deep Agents 是一個可以協助研究工作的 AI 平台，而 Bedrock AgentCore 則是提供安全的執行環境。通過這兩者的結合，你可以打造出一個超級研究助手，讓你輕鬆搞定複雜的研究工作。</p><h2>如何使用 Deep Agents 和 Bedrock AgentCore</h2><p>使用 Deep Agents 和 Bedrock AgentCore 很簡單。你只需要配置一個模型，創建工具包，然後將它們連接起來。就可以開始使用你的超級研究助手了。</p><h2>編輯悄悄話</h2><p>用 AI 研究，讓你更聰明。不要再為了研究工作而煩惱，試試 Deep Agents 和 Bedrock AgentCore 吧。",
+    "score": 90,
+    "takeaways": [
+      "Deep Agents 可以協助研究工作",
+      "Bedrock AgentCore 提供安全的執行環境",
+      "研究助手可以自動化研究流程"
+    ],
+    "punchline": "用 AI 研究，讓你更聰明",
+    "social_posts": {
+      "threads": "你是否曾經為了完成研究工作而煩惱？現在，Deep Agents 和 Bedrock AgentCore 的結合可以幫助你打造超級研究助手。用 AI 研究，讓你更聰明。#DeepAgents #BedrockAgentCore #AI",
+      "facebook": "用 Deep Agents 和 Bedrock AgentCore 打造超級研究助手，讓你輕鬆搞定複雜的研究工作。點擊連結了解更多：https://www.example.com",
+      "viral_hook": "用 AI 研究，讓你更聰明"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/15/ML-20818-1.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-context-rich-research-agents-with-deep-agents-and-bedrock-agentcore/",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "022",
+    "title": "AI 代碼助手的 Token 成本控制：你知道嗎？",
+    "summary": "掌握 AI 代碼助手的 Token 成本控制技巧，讓你在開發中節省更多",
+    "content": "<p>你是否正在使用 AI 代碼助手來開發你的項目？如果是，那麼你一定會遇到 Token 成本控制的問題。Token 成本控制是指控制 AI 代碼助手使用的 Token 數量，以避免不必要的成本增加。在這篇文章中，我們將要討論如何掌握 Token 成本控制的技巧，以便你在開發中節省更多。</p>    <h2>什麼是 Token 成本控制？</h2>    <p>Token 成本控制是指控制 AI 代碼助手使用的 Token 數量，以避免不必要的成本增加。Token 是 AI 代碼助手使用的基本單位，每次使用都會耗費一定數量的 Token。因此，控制 Token 成本是非常重要的。</p>    <h2>如何掌握 Token 成本控制的技巧</h2>    <ul>      <li>了解 Token 成本控制的重要性</li>      <li>掌握 Token 成本優化的技巧</li>      <li>提升開發效率和節省成本</li>    </ul>    <h2>編輯悄悄話</h2>    <p>掌握 Token 成本控制的技巧，讓你在開發中節省更多。不要讓不必要的成本增加拖累你的項目，現在就來學習 Token 成本控制的技巧吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "了解 Token 成本控制的重要性",
+      "掌握 Token 成本優化的技巧",
+      "提升開發效率和節省成本"
+    ],
+    "punchline": "用對 Token，開發更高效",
+    "social_posts": {
+      "threads": "你知道嗎？掌握 Token 成本控制的技巧，可以讓你在開發中節省更多！現在就來學習吧！",
+      "facebook": "掌握 Token 成本控制的技巧，讓你在開發中節省更多！點擊鏈接了解更多：",
+      "viral_hook": "用對 Token，開發更高效！你知道嗎？"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802024&idx=1&sn=14ebabcd0d270ae39c6d9cd1d12fca84",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "023",
+    "title": "AI 對決 AI：谷歌雲端安全團隊揭露 4 大關鍵教訓",
+    "summary": "谷歌雲端安全團隊分享使用 AI 對抗 AI 威脅的 4 大關鍵教訓，包括準備、掃描和優先順序、修復和監控",
+    "content": "<h2>AI 對決 AI：谷歌雲端安全團隊揭露 4 大關鍵教訓</h2>  <p>AI 不僅加劇了攻擊者的威脅，也為防禦者提供了新的機會。谷歌雲端安全團隊分享使用 AI 對抗 AI 威脅的 4 大關鍵教訓，包括準備、掃描和優先順序、修復和監控。</p>  <h2>4 大關鍵教訓</h2>  <ul>    <li>準備：減少攻擊面，投資運營框架</li>    <li>掃描和優先順序：使用 AI 進行漏洞掃描，優先順序和修復</li>    <li>修復：實施工作流程以自動驗證和修復漏洞</li>    <li>監控：使用 AI 進行連續檢測和主動響應</li>  </ul>  <h2>編輯悄悄話</h2>  <p>AI 對安全的影響是雙刃劍。谷歌雲端安全團隊的 4 大關鍵教訓為我們提供了新的思路和方法，讓我們可以更好地使用 AI 對抗 AI 威脅。",
+    "score": 90,
+    "takeaways": [
+      "AI 對安全的影響：AI 不僅加劇了攻擊者的威脅，也為防禦者提供了新的機會",
+      "谷歌雲端安全團隊的 4 大關鍵教訓：準備、掃描和優先順序、修復和監控",
+      "如何使用 AI 對抗 AI 威脅：使用 AI 進行漏洞掃描、優先順序和修復"
+    ],
+    "punchline": "AI 對決 AI：谷歌雲端安全團隊揭露 4 大關鍵教訓",
+    "social_posts": {
+      "threads": "AI 對決 AI：谷歌雲端安全團隊揭露 4 大關鍵教訓\n如何使用 AI 對抗 AI 威脅？\n#AI #安全 #谷歌雲端",
+      "facebook": "AI 對決 AI：谷歌雲端安全團隊揭露 4 大關鍵教訓。了解如何使用 AI 對抗 AI 威脅，並提升您的安全性。",
+      "viral_hook": "AI 對決 AI：你準備好了嗎？"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Cloud_CISO_Perspectives_header_4_Blue.max-2500x2500.png",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/identity-security/cloud-ciso-perspectives-the-4-lessons-that-guided-ai-threat-defense/",
+    "date": "2026-06-15"
   }
 ]
