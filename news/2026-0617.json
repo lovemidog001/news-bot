@@ -548,5 +548,115 @@
     "source": "Next.js Blog",
     "url": "https://nextjs.org/blog/nextjs-across-platforms",
     "date": "2026-06-17"
+  },
+  {
+    "id": "026",
+    "title": "革命性的動作預測技術：MolmoMotion登場！",
+    "summary": "MolmoMotion是一種語言引導的3D動作預測技術，將改變人機交互的未來！",
+    "content": "<p>MolmoMotion是一種語言引導的3D動作預測技術，通過分析語言命令來預測人體的3D動作。這項技術可以提高人機交互的效率和準確度，將在各個領域有廣泛的應用。</p>    <h2>技術原理</h2>    <p>MolmoMotion使用機器學習算法和語言處理技術來分析語言命令，然後預測人體的3D動作。這項技術可以學習語言命令和動作之間的關係，提高預測準確度。</p>    <ul>      <li>語言命令分析</li>      <li>動作預測</li>      <li>學習和優化</li>    </ul>    <h2>應用前景</h2>    <p>MolmoMotion將在人機交互、遊戲和動畫等領域有廣泛的應用。例如，在遊戲中，MolmoMotion可以預測玩家的動作，提高遊戲的真實性和趣味性。在動畫中，MolmoMotion可以預測角色動作，提高動畫的質量和效率。</p>    <h2>編輯悄悄話</h2>    <p>雖然MolmoMotion是一項非常酷的技術，但是它也帶來了一些隱私和安全問題。未來，人機交互的發展將更加快速和複雜，我們需要關注這些問題，確保技術的發展是安全和有益的。",
+    "score": 90,
+    "takeaways": [
+      "MolmoMotion可以預測人體的3D動作",
+      "該技術使用語言引導來提高預測準確度",
+      "MolmoMotion將在人機交互、遊戲和動畫等領域有廣泛的應用"
+    ],
+    "punchline": "未來，人機交互將更為自然！",
+    "social_posts": {
+      "threads": "你們有想過，未來的人機交互將會是什麼樣子？\nMolmoMotion是一種語言引導的3D動作預測技術，將改變人機交互的未來！\n#MolmoMotion #人機交互",
+      "facebook": "MolmoMotion：語言引導的3D動作預測技術\n這項技術可以預測人體的3D動作，提高人機交互的效率和準確度。分享你的想法和意見！",
+      "viral_hook": "未來，人機交互將更為自然！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/wdq3AFZcDZAekGTb16VDy.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "date": "2026-06-17"
+  },
+  {
+    "id": "027",
+    "title": "AI 智能代理的革命：AWS Context 讓你的數據和代理更聰明",
+    "summary": "AWS Context 是一項新服務，自動映射數據之間的關係，提供代理搜索和治理，讓 AI 代理更聰明、更值得信賴",
+    "content": "<p>AWS Context 是一項新服務，自動映射數據之間的關係，提供代理搜索和治理，讓 AI 代理更聰明、更值得信賴。</p>    <h2>什麼是 AWS Context？</h2>    <p>AWS Context 是一項服務，自動映射數據之間的關係，提供代理搜索和治理。它可以讓 AI 代理存取治理的數據關係、商業規則和領域知識，讓代理更聰明、更值得信賴。</p>    <h2>如何使用 AWS Context</h2>    <p>AWS Context 擴展到組織層面，提供共享的治理上下文層。代理可以存取治理的數據關係、商業規則和領域知識，讓代理更聰明、更值得信賴。使用 AWS Context，只需幾個點擊，就可以開始收集和治理代理的上下文。</p>    <h2>編輯悄悄話</h2>    <p>讓你的 AI 代理更聰明、更值得信賴，從今天開始使用 AWS Context吧！",
+    "score": 90,
+    "takeaways": [
+      "AWS Context 自動映射數據之間的關係，提供代理搜索和治理",
+      "代理可以存取治理的數據關係、商業規則和領域知識",
+      "AWS Context 擴展到組織層面，提供共享的治理上下文層"
+    ],
+    "punchline": "讓你的 AI 代理更聰明、更值得信賴",
+    "social_posts": {
+      "threads": "讓你的 AI 代理更聰明、更值得信賴！\nAWS Context 是一項新服務，自動映射數據之間的關係，提供代理搜索和治理。\n#AWSContext #AI #代理",
+      "facebook": "AWS Context 是一項新服務，自動映射數據之間的關係，提供代理搜索和治理。讓你的 AI 代理更聰明、更值得信賴！",
+      "viral_hook": "讓你的 AI 代理更聰明、更值得信賴！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/ml-21188.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/",
+    "date": "2026-06-17"
+  },
+  {
+    "id": "028",
+    "title": "Elastic 衝破安全運營的瓶頸！被評為 2026 IDC MarketScape SIEM 領導者",
+    "summary": "Elastic 被評為 2026 IDC MarketScape SIEM 領導者，提供了一種統一的安全運營平台，幫助團隊預防、偵測、調查和應對威脅，而不增加複雜性和成本",
+    "content": "<p>Elastic 被評為 2026 IDC MarketScape SIEM 領導者，代表著其在安全運營領域的卓越成就。Elastic Security 是一種統一的安全運營平台，整合了 SIEM、XDR 和原生自動化功能，幫助團隊預防、偵測、調查和應對威脅，而不增加複雜性和成本。</p>    <h2>統一的安全運營平台</h2>    <p>Elastic Security 的架構、部署靈活性、偵測工程方法和 AI 能力被 IDC MarketScape 報告所認可。該平台可以支持多種部署環境，包括雲端、自管理、無伺服器和斷線部署，讓組織可以根據自己的需求選擇最適合的運營模式。</p>    <h2>突破安全運營的瓶頸</h2>    <p>許多安全平台要求客戶信任偵測、自動化和 AI 決策，而無需了解其工作原理。Elastic Security 則不同，提供了一種透明和靈活的安全運營平台，讓團隊可以根據自己的需求定制和擴展。根據 IDC MarketScape 報告，Elastic 的客戶報告了五倍的日誌攝取量，而無需重新架構，並且該平台支持可觀察性，延伸了安全團隊以外的價值。</p>    <h2>編輯悄悄話</h2>    <p>安全運營的未來是統一的、靈活的和智能的。Elastic Security 是這個未來的領導者，提供了一種突破安全運營瓶頸的平台。無論您是安全團隊還是 IT 經理，Elastic Security 都是您值得關注的選擇。</p>",
+    "score": 90,
+    "takeaways": [
+      "Elastic Security 提供了一種統一的安全運營平台，整合了 SIEM、XDR 和原生自動化功能",
+      "Elastic 的架構、部署靈活性、偵測工程方法和 AI 能力被 IDC MarketScape 報告所認可",
+      "Elastic 的平台可以支持多種部署環境，包括雲端、自管理、無伺服器和斷線部署"
+    ],
+    "punchline": "Elastic 衝破安全運營的瓶頸！",
+    "social_posts": {
+      "threads": "Elastic 衝破安全運營的瓶頸！被評為 2026 IDC MarketScape SIEM 領導者\n提供了一種統一的安全運營平台，整合了 SIEM、XDR 和原生自動化功能\n幫助團隊預防、偵測、調查和應對威脅，而不增加複雜性和成本",
+      "facebook": "Elastic 被評為 2026 IDC MarketScape SIEM 領導者！提供了一種統一的安全運營平台，整合了 SIEM、XDR 和原生自動化功能。了解更多：https://www.elastic.co/",
+      "viral_hook": "Elastic 衝破安全運營的瓶頸！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt81dc1199810775d1/6a32bbb1ef4d2b6a6bc0af0c/elastic-white-background.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/elastic-leader-idc-marketscape-worldwide-siem-2026",
+    "date": "2026-06-17"
+  },
+  {
+    "id": "029",
+    "title": "最後通牒：別錯過 Build with Claude Code 第2期，升級你的工程師實力",
+    "summary": "距離截止日期只有24小時，別錯過 Build with Claude Code 第2期，學習 Claude Code 的實戰應用",
+    "content": "<p>距離截止日期只有24小時，別錯過 Build with Claude Code 第2期，這是一個為期2天的集體課程，將由 John Kim 教授，John Kim 曾在 Meta 訓練過數百名工程師使用 Claude Code。</p>    <h2>課程內容</h2>    <p>在這個課程中，你將學習到 Claude Code 的基礎知識和實戰應用，包括 agentic loop、context engineering 和 memory layers 等。同時，你還會學習到如何使用 Claude Code Skills、MCPs 和 hooks 進行建模，以及如何使用 Git worktrees、subagents 和 agent teams 進行並行開發。</p>    <h2>課程安排</h2>    <p>課程將於 6 月 18 日至 19 日舉行，包括 live sessions、assignments 和 office hours，讓你有足夠的時間問問題和解決疑難。別錯過這個升級你的工程師實力的機會，現在就報名吧！</p>    <h2>編輯悄悄話</h2>    <p>如果你想成為一名出色的工程師，就不能錯過這個課程。別再等待，現在就報名吧，讓你的工程師實力提升到新的高度！</p>",
+    "score": 90,
+    "takeaways": [
+      "學習 Claude Code 的基礎知識和實戰應用",
+      "掌握如何使用 Claude Code Skills、MCPs 和 hooks 進行建模",
+      "了解如何使用 Git worktrees、subagents 和 agent teams 進行並行開發"
+    ],
+    "punchline": "別錯過升級你的工程師實力的機會",
+    "social_posts": {
+      "threads": "最後通牒：別錯過 Build with Claude Code 第2期，升級你的工程師實力\n距離截止日期只有24小時\n報名吧，讓你的工程師實力提升到新的高度！",
+      "facebook": "Build with Claude Code 第2期即將開課，別錯過這個升級你的工程師實力的機會！報名吧，讓你的工程師實力提升到新的高度！",
+      "viral_hook": "別錯過升級你的工程師實力的機會，Build with Claude Code 第2期即將開課！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!wXDW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fe86264-5a05-4a02-a10f-ac7daf221ca7_1000x1000.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-with",
+    "date": "2026-06-17"
+  },
+  {
+    "id": "030",
+    "title": "AI 化學家破解困難反應！提升藥物開發效率",
+    "summary": "OpenAI 和 Molecule.one 合作開發了一個近乎自主的 AI 化學家，利用 GPT-5.4 改進了一個關鍵的藥物合成反應，推進了藥物化學研究",
+    "content": "<h2>AI 化學家破解困難反應</h2>    <p>OpenAI 和 Molecule.one 合作開發了一個近乎自主的 AI 化學家，利用 GPT-5.4 改進了一個關鍵的藥物合成反應，推進了藥物化學研究。</p>    <p>該反應是藥物開發中的重要步驟，能夠幫助科學家開發新的藥物。然而，這個反應一直以來都是科學家面臨的一個挑戰，因為它需要在實驗室中進行複雜的實驗和測試。</p>    <h2>AI 系統的作用</h2>    <p>AI 系統可以成為科學家的有力合作伙伴，幫助他們探索更多的想法和設計更好的實驗。通過使用 GPT-5.4，AI 化學家可以分析大量的數據和文獻，提出新的想法和設計實驗方案。</p>    <p>在這個案例中，AI 化學家使用 GPT-5.4 改進了 Chan-Lam Coupling 反應，提高了藥物合成效率。該反應是藥物開發中的重要步驟，能夠幫助科學家開發新的藥物。</p>    <h2>編輯悄悄話</h2>    <p>AI 化學家破解困難反應，提升藥物開發效率！這是一個令人振奮的消息，表明 AI 系統可以成為科學家的有力合作伙伴。讓我們期待未來的發展！</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 化學家使用 GPT-5.4 改進了 Chan-Lam Coupling 反應，提高了藥物合成效率",
+      "該反應是藥物開發中的重要步驟，能夠幫助科學家開發新的藥物",
+      "AI 系統可以成為科學家的有力合作伙伴，幫助他們探索更多的想法和設計更好的實驗"
+    ],
+    "punchline": "AI 化學家破解困難反應，提升藥物開發效率！",
+    "social_posts": {
+      "threads": "AI 化學家破解困難反應！提升藥物開發效率！",
+      "facebook": "AI 化學家破解困難反應！提升藥物開發效率！",
+      "viral_hook": "AI 化學家破解困難反應！提升藥物開發效率！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4NBFdbusKgYSDZQu73MAR9/2f84206eba72f43384d4bb005b97f8c3/molecule-one-SEO-Card.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "date": "2026-06-17"
   }
 ]
