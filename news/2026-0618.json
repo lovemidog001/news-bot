@@ -548,5 +548,93 @@
     "source": "腾讯技术工程",
     "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802116&idx=1&sn=8886f8c0078cc85a39ac97fa2deff22a",
     "date": "2026-06-18"
+  },
+  {
+    "id": "026",
+    "title": "超越 LoRA：你能否打敗最受歡迎的微調技術？",
+    "summary": "LoRA 是目前最受歡迎的微調技術，但你知道嗎？還有更好的方法！",
+    "content": "<p>LoRA 是目前最受歡迎的微調技術，但它真的是最好的選擇嗎？在這篇文章中，我們將探討 LoRA 的局限性和潛在風險，並介紹新興的微調技術。</p>    <h2>LoRA 的局限性</h2>    <p>LoRA 的優勢在於其簡單性和效率，但它也有一些局限性。例如，它可能無法處理複雜的資料，且容易過度擬合。</p>    <h2>新興微調技術</h2>    <p>近年來，新興的微調技術如 <strong>Adapter</strong> 和 <strong>Prompt Tuning</strong> 等開始受到關注。這些技術可以更好地處理複雜的資料和避免過度擬合。</p>    <p>但是，如何評估和選擇合適的微調技術呢？這需要根據您的具體需求和資料特點進行評估和選擇。</p>    <h2>編輯悄悄話</h2>    <p>微調技術的未來是無限的！但別忘了，技術只是工具，重要的是如何使用它們來解決實際問題。</p>",
+    "score": 90,
+    "takeaways": [
+      "LoRA 的局限性和潛在風險",
+      "新興微調技術的優勢和應用",
+      "如何評估和選擇合適的微調技術"
+    ],
+    "punchline": "微調技術的未來是無限的！",
+    "social_posts": {
+      "threads": "你知道嗎？LoRA 不是最好的微調技術！\n新興的微調技術如 Adapter 和 Prompt Tuning 等開始受到關注。\n但是，如何評估和選擇合適的微調技術呢？",
+      "facebook": "超越 LoRA：你能否打敗最受歡迎的微調技術？\n了解 LoRA 的局限性和潛在風險，並發現新興的微調技術的優勢和應用。",
+      "viral_hook": "微調技術的未來是無限的！"
+    },
+    "image": "https://huggingface.co/blog/assets/peft-beyond-lora/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/peft-beyond-lora",
+    "date": "2026-06-18"
+  },
+  {
+    "id": "027",
+    "title": "Amazon Bedrock AgentCore登場！從想法到生產級別的AI助手，僅需2個API呼叫",
+    "summary": "Amazon Bedrock AgentCore是一個強大的AI助手平台，讓您可以快速建立和部署AI助手，無需複雜的編程和基礎設置",
+    "content": "<p>Amazon Bedrock AgentCore是一個強大的AI助手平台，讓您可以快速建立和部署AI助手，無需複雜的編程和基礎設置。這個平台提供了一個簡單的API介面，讓您可以快速建立和部署AI助手，同時支持多種AI模型和工具，讓您可以根據不同的任務需求進行選擇。</p>    <h2>什麼是Amazon Bedrock AgentCore？</h2>    <p>Amazon Bedrock AgentCore是一個基於AWS的AI助手平台，提供了一個簡單的API介面，讓您可以快速建立和部署AI助手。這個平台支持多種AI模型和工具，讓您可以根據不同的任務需求進行選擇。同時，AgentCore的安全性和可靠性獲得了AWS的保證，讓您可以放心使用。</p>    <h2>如何使用Amazon Bedrock AgentCore？</h2>    <p>使用Amazon Bedrock AgentCore非常簡單，只需2個API呼叫，您就可以快速建立和部署AI助手。首先，您需要創建一個AgentCore實例，然後您可以使用API呼叫來定義和運行您的AI助手。AgentCore提供了一個簡單的API介面，讓您可以快速建立和部署AI助手，同時支持多種AI模型和工具，讓您可以根據不同的任務需求進行選擇。</p>    <h2>編輯悄悄話</h2>    <p>Amazon Bedrock AgentCore是一個強大的AI助手平台，讓您可以快速建立和部署AI助手，無需複雜的編程和基礎設置。這個平台提供了一個簡單的API介面，讓您可以快速建立和部署AI助手，同時支持多種AI模型和工具，讓您可以根據不同的任務需求進行選擇。所以，如果您想要快速建立和部署AI助手，Amazon Bedrock AgentCore是您的最佳選擇！",
+    "score": 90,
+    "takeaways": [
+      "Amazon Bedrock AgentCore提供了一個簡單的API介面，讓您可以快速建立和部署AI助手",
+      "平台支持多種AI模型和工具，讓您可以根據不同的任務需求進行選擇",
+      "AgentCore的安全性和可靠性獲得了AWS的保證，讓您可以放心使用"
+    ],
+    "punchline": "從想法到生產級別的AI助手，僅需2個API呼叫",
+    "social_posts": {
+      "threads": "大家好！今天我要介紹一個非常強大的AI助手平台——Amazon Bedrock AgentCore！這個平台讓您可以快速建立和部署AI助手，無需複雜的編程和基礎設置。有興趣的朋友可以點擊鏈接了解更多！",
+      "facebook": "Amazon Bedrock AgentCore是一個強大的AI助手平台，讓您可以快速建立和部署AI助手，無需複雜的編程和基礎設置。這個平台提供了一個簡單的API介面，讓您可以快速建立和部署AI助手，同時支持多種AI模型和工具，讓您可以根據不同的任務需求進行選擇。分享給您的朋友和同事！",
+      "viral_hook": "從想法到生產級別的AI助手，僅需2個API呼叫！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/ml-20804.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/",
+    "date": "2026-06-18"
+  },
+  {
+    "id": "028",
+    "title": "金融服務的新守護者：Agentic SOC如何抵禦AI威脅",
+    "summary": "隨著AI威脅加速，金融機構需要一個新的安全運營模式：Agentic SOC。統一數據、情境智慧和運營韌性是未來安全運營的基礎",
+    "content": "<p>隨著AI威脅加速，金融機構需要一個新的安全運營模式：Agentic SOC。統一數據、情境智慧和運營韌性是未來安全運營的基礎。</p>    <h2>什麼是Agentic SOC？</h2>    <p>Agentic SOC是一種新的安全運營模式，使用AI技術來增強人類專家的能力。它可以統一數據、情境智慧和運營韌性，提供一個全面的安全運營解決方案。</p>    <h2>Agentic SOC的優點</h2>    <ul>      <li>加速威脅檢測和調查</li>      <li>減少分析師警報疲勞</li>      <li>相關聯騙局、安全和運營風險信號</li>      <li>改善事件響應和恢復時間</li>      <li>增強網絡韌性和業務連續性</li>    </ul>    <h2>編輯悄悄話</h2>    <p>Agentic SOC是金融服務的新守護者，能夠抵禦AI威脅。但是，金融機構需要一個全面的企業數據戰略來支撐Agentic SOC。讓我們一起探索Agentic SOC的未來吧！",
+    "score": 90,
+    "takeaways": [
+      "Agentic SOC是金融服務的新守護者，能夠抵禦AI威脅",
+      "統一數據和情境智慧是Agentic SOC的基礎",
+      "金融機構需要一個全面的企業數據戰略來支撐Agentic SOC"
+    ],
+    "punchline": "Agentic SOC是金融服務的新守護者",
+    "social_posts": {
+      "threads": "金融服務的新守護者：Agentic SOC如何抵禦AI威脅？\n讓我們一起探索Agentic SOC的未來吧！",
+      "facebook": "Agentic SOC是金融服務的新守護者，能夠抵禦AI威脅。了解更多：[連結]",
+      "viral_hook": "AI威脅加速，金融機構需要一個新的安全運營模式：Agentic SOC！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltdd163914e35d3ac7/6a340e35b11c5406b1bd7bf1/finserv-agentic-soc-blog_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/agentic-soc-for-financial-services",
+    "date": "2026-06-18"
+  },
+  {
+    "id": "029",
+    "title": "你不知道的觀察力：Logs、Metrics、Traces，讓你的系統變得透明",
+    "summary": "系統運行中產生的事件，你知道如何觀察和分析嗎？了解Logs、Metrics、Traces，讓你的系統變得透明",
+    "content": "<p>系統運行中產生的事件，你知道如何觀察和分析嗎？ Logs、Metrics、Traces是觀察系統的三種方式，讓我們一起探索它們的秘密。</p>    <h2>Logs：捕捉單一事件</h2>    <p>Logs是系統運行中產生的事件記錄，捕捉單一事件的詳細信息。它可以幫助我們了解系統的運行情況，找出問題的原因。</p>    <h2>Metrics和Traces：聚合和連接事件</h2>    <p>Metrics是聚合多個事件的統計數據，可以幫助我們了解系統的整體運行情況。Traces則是連接相關事件的鏈條，可以幫助我們了解事件之間的關係。</p>    <h2>編輯悄悄話</h2>    <p>觀察力是系統透明的關鍵，通過Logs、Metrics、Traces，可以讓你的系統變得透明，幫助你找到問題的根源，優化系統的性能。不要再讓系統的神秘面紗困擾你，現在就開始觀察吧！",
+    "score": 85,
+    "takeaways": [
+      "Logs、Metrics、Traces是觀察系統的三種方式",
+      "Logs捕捉單一事件，Metrics聚合多個事件，Traces連接相關事件",
+      "觀察力中的概念，如基數、採樣和相關性，是這種結構的結果"
+    ],
+    "punchline": "觀察力是系統透明的關鍵",
+    "social_posts": {
+      "threads": "你知道嗎？系統運行中產生的事件，可以透過Logs、Metrics、Traces來觀察和分析！\n讓你的系統變得透明，找到問題的根源，優化系統的性能。\n#觀察力 #系統透明 #Logs #Metrics #Traces",
+      "facebook": "系統運行中產生的事件，你知道如何觀察和分析嗎？了解Logs、Metrics、Traces，讓你的系統變得透明！分享你的觀察力經驗，讓我們一起優化系統的性能。",
+      "viral_hook": "系統的神秘面紗即將被揭開！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!r5Ej!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefd64dd9-b0a6-4fc8-8e27-2a929a3b5eef_2650x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/observability-for-beginners-logs",
+    "date": "2026-06-18"
   }
 ]
