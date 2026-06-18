@@ -394,5 +394,93 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/ai-chemist-improves-reaction",
     "date": "2026-06-18"
+  },
+  {
+    "id": "019",
+    "title": "Transformer作者Noam Shazeer投奔OpenAI，什麼意思？",
+    "summary": "Transformer作者Noam Shazeer加入OpenAI，進行模型架構研究，離開谷歌僅僅幾個月",
+    "content": "<p>最近，Transformer作者Noam Shazeer宣布加入OpenAI，進行模型架構研究。這個消息讓人感到有些意外，因為Noam Shazeer剛剛離開谷歌不久。</p>    <h2>誰是Noam Shazeer?</h2>    <p>Noam Shazeer是Transformer論文的作者之一，MoE架構的提出者。他曾是Character AI的CEO，谷歌用27億美元收購了Character。但是，他在谷歌待了沒多久，就決定加入OpenAI。</p>    <h2>什麼是OpenAI?</h2>    <p>OpenAI是一個非營利組織，致力於開發和推廣人工智慧技術。它的目標是創造一個可以與人類合作的AI系統。Noam Shazeer加入OpenAI，將進行模型架構研究，這意味著他將致力於開發更加先進的AI模型。</p>    <h2>編輯悄悄話</h2>    <p>Noam Shazeer的離開谷歌，加入OpenAI，可能是因為他想在AI研究領域中有更多的自由度。畢竟，OpenAI是一個非營利組織，不需要考慮商業利益。讓我們拭目以待，Noam Shazeer在OpenAI的表現吧！",
+    "score": 85,
+    "takeaways": [
+      "Noam Shazeer是Transformer論文的作者之一，MoE架構的提出者",
+      "他曾是Character AI的CEO，谷歌用27億美元收購了Character",
+      "Noam Shazeer加入OpenAI，將進行模型架構研究"
+    ],
+    "punchline": "Transformer作者投奔OpenAI",
+    "social_posts": {
+      "threads": "Noam Shazeer加入OpenAI，進行模型架構研究！他是Transformer論文的作者之一，MoE架構的提出者。什麼是OpenAI？它的目標是創造一個可以與人類合作的AI系統。",
+      "facebook": "Noam Shazeer，Transformer論文的作者之一，MoE架構的提出者，加入了OpenAI。這個消息讓人感到有些意外，因為他剛剛離開谷歌不久。什麼是OpenAI？它的目標是創造一個可以與人類合作的AI系統。讓我們一起討論這個消息的意義！",
+      "viral_hook": "Transformer作者投奔OpenAI，什麼意思？"
+    },
+    "image": "https://pbs.twimg.com/media/HLD-tjybwAAci91.jpg:large",
+    "source": "AI HOT 精選",
+    "url": "https://x.com/op7418/status/2067432296127557888",
+    "date": "2026-06-18"
+  },
+  {
+    "id": "020",
+    "title": "Amazon SageMaker AI Async Inference 現已支持 inline payload！",
+    "summary": "Amazon SageMaker AI Async Inference 現已支持 inline payload，讓您可以直接在 API 請求中傳遞資料，不再需要上傳到 S3！",
+    "content": "<p>Amazon SageMaker AI Async Inference 現已支持 inline payload！這意味著您可以直接在 API 請求中傳遞資料，不再需要上傳到 S3。這項功能可以簡化客戶端代碼，減少運營成本，讓您的 AI 工作流程更加高效。</p>    <h2>什麼是 inline payload？</h2>    <p>inline payload 是指在 API 請求中直接傳遞資料，而不是上傳到 S3。這項功能適合小型輸入資料和需要較長處理時間的工作負載。使用 inline payload，您可以簡化客戶端代碼，減少運營成本，讓您的 AI 工作流程更加高效。</p>    <h2>如何使用 inline payload？</h2>    <p>要使用 inline payload，您需要更新您的 AWS SDK 和使用 Body 參數在 SageMaker AI InvokeEndpointAsync API。您可以在 Amazon SageMaker AI Async Inference 文件中了解更多關於此功能的資訊。</p>    <h2>編輯悄悄話</h2>    <p>告別 S3 上傳，迎接更簡單的 AI Async Inference！這項功能將會大大簡化您的 AI 工作流程，讓您可以更加專注於您的業務。所以，還等什麼？趕快更新您的 AWS SDK 和開始使用 inline payload 吧！",
+    "score": 90,
+    "takeaways": [
+      "inline payload 支持讓您可以簡化客戶端代碼和減少運營成本",
+      "適合小型輸入資料和需要較長處理時間的工作負載",
+      "與現有的 InputLocation 工作流程向後兼容"
+    ],
+    "punchline": "告別 S3 上傳，迎接更簡單的 AI Async Inference！",
+    "social_posts": {
+      "threads": "Amazon SageMaker AI Async Inference 現已支持 inline payload！這意味著您可以直接在 API 請求中傳遞資料，不再需要上傳到 S3。這項功能可以簡化客戶端代碼，減少運營成本，讓您的 AI 工作流程更加高效。 #AI #AsyncInference #SageMaker",
+      "facebook": "Amazon SageMaker AI Async Inference 現已支持 inline payload！這項功能可以簡化客戶端代碼，減少運營成本，讓您的 AI 工作流程更加高效。點擊連結了解更多：[連結] #AI #AsyncInference #SageMaker",
+      "viral_hook": "告別 S3 上傳，迎接更簡單的 AI Async Inference！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/21184.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
+    "date": "2026-06-18"
+  },
+  {
+    "id": "021",
+    "title": "微軟 Build 2026 大會揭曉：AI 從實驗到實踐的 3 大關鍵",
+    "summary": "微軟 Build 2026 大會中，AI 從實驗轉向執行，組織如何將 AI 融入工作流程、擴大規模並轉化為可衡量的成果",
+    "content": "<p>近日，微軟 Build 2026 大會上，AI 從實驗轉向執行的話題成為焦點。組織如何將 AI 融入工作流程、擴大規模並轉化為可衡量的成果，成為領導者們關注的重點。</p>    <h2>從實驗到實踐的轉變</h2>    <p>過去，AI 往往被視為一個單獨的工具，然而在現代企業中，AI 需要被整合到工作流程中，成為一個連接系統的重要組成部分。這樣的轉變，需要企業基於商業數據和客戶體驗來推動 AI 的發展。</p>    <h2>有效的 AI 執行</h2>    <ul>      <li>基於商業數據：AI 的執行需要基於商業數據，才能夠有效地推動企業的成長和發展。</li>      <li>擴大規模：AI 需要被擴大到整個企業中，才能夠發揮其最大價值。</li>      <li>轉化為可衡量的成果：AI 的執行需要被轉化為可衡量的成果，才能夠評估其效率和效果。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>在這個快速變化的時代，企業需要快速地適應和轉變。AI 從實驗到實踐的轉變，是一個重要的機會和挑戰。領導者們需要關注這個趨勢，推動企業的轉型和發展。",
+    "score": 90,
+    "takeaways": [
+      "AI 從實驗轉向執行，需要從孤立工具轉向連接系統",
+      "組織需要將 AI 融入工作流程、擴大規模並轉化為可衡量的成果",
+      "有效的 AI 執行需要基於商業數據和客戶體驗"
+    ],
+    "punchline": "AI 從實驗到實踐的轉變",
+    "social_posts": {
+      "threads": "微軟 Build 2026 大會上，AI 從實驗轉向執行的話題成為焦點。組織如何將 AI 融入工作流程、擴大規模並轉化為可衡量的成果？",
+      "facebook": "微軟 Build 2026 大會：AI 從實驗到實踐的 3 大關鍵。了解如何將 AI 融入工作流程、擴大規模並轉化為可衡量的成果。",
+      "viral_hook": "AI 從實驗到實踐的轉變，你準備好了嗎？"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
+    "date": "2026-06-18"
+  },
+  {
+    "id": "022",
+    "title": "歐洲的數位主權革命：開放、合作、創新",
+    "summary": "歐洲委員會的科技主權套件來自一個對歐洲數位未來至關重要的時刻，強調開放、合作和創新",
+    "content": "<p>歐洲委員會的科技主權套件來自一個對歐洲數位未來至關重要的時刻，強調開放、合作和創新。這個套件包含了大膽的措施，旨在增強歐洲的數位能力，包括開放源碼策略和快速的數據中心部署。</p>    <h2>歐洲的數位主權革命</h2>    <p>歐洲委員會的策略是建立在「開放、合作和公平競爭」的基礎上。這個套件包含了大膽的措施，旨在增強歐洲的數位能力，包括開放源碼策略和快速的數據中心部署。同時，歐洲委員會也強調了全球合作的重要性，認為全球合作伙伴可以支持歐洲的安全和擴展目標。</p>    <h2>開放、合作和創新的核心</h2>    <p>開放、合作和創新是歐洲數位主權的核心。歐洲委員會的科技主權套件旨在增強歐洲的數位能力，同時也強調了全球合作的重要性。這個套件包含了大膽的措施，旨在增強歐洲的數位能力，包括開放源碼策略和快速的數據中心部署。</p>    <h2>編輯悄悄話</h2>    <p>歐洲的數位主權革命從開放、合作和創新開始。這個套件包含了大膽的措施，旨在增強歐洲的數位能力，同時也強調了全球合作的重要性。讓我們一起期待這個革命性的變革，為歐洲的數位未來帶來新的機遇和挑戰。</p>",
+    "score": 90,
+    "takeaways": [
+      "歐洲委員會的科技主權套件旨在增強歐洲的數位能力",
+      "開放、合作和創新是歐洲數位主權的核心",
+      "全球合作伙伴可以支持歐洲的安全和擴展目標"
+    ],
+    "punchline": "歐洲的數位主權革命從開放、合作和創新開始",
+    "social_posts": {
+      "threads": "歐洲的數位主權革命從開放、合作和創新開始。這個套件包含了大膽的措施，旨在增強歐洲的數位能力，同時也強調了全球合作的重要性。讓我們一起期待這個革命性的變革，為歐洲的數位未來帶來新的機遇和挑戰。",
+      "facebook": "歐洲委員會的科技主權套件來自一個對歐洲數位未來至關重要的時刻，強調開放、合作和創新。這個套件包含了大膽的措施，旨在增強歐洲的數位能力，包括開放源碼策略和快速的數據中心部署。同時，歐洲委員會也強調了全球合作的重要性，認為全球合作伙伴可以支持歐洲的安全和擴展目標。",
+      "viral_hook": "歐洲的數位主權革命從開放、合作和創新開始！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/17_-_Security__Identity_NrORvDT.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/identity-security/choice-compliance-and-collaboration-europes-path-to-open-digital-sovereignty/",
+    "date": "2026-06-18"
   }
 ]
