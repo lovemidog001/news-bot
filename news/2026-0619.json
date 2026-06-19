@@ -350,5 +350,71 @@
     "source": "deeplearning.ai",
     "url": "https://www.deeplearning.ai/the-batch/issue-357",
     "date": "2026-06-19"
+  },
+  {
+    "id": "017",
+    "title": "GPT-5.5 Instant爆紅！健康智能提升，讓你少煩惱更多",
+    "summary": "GPT-5.5 Instant提升了ChatGPT的健康智能，讓你可以更好地理解健康信息、預約醫療、以及處理保險等問題",
+    "content": "<p>GPT-5.5 Instant是最新的ChatGPT升級版本，旨在提升健康智能，讓你可以更好地管理自己的健康。這個升級版本可以更好地認識到需要緊急照護的情況、提供更準確、更容易理解的健康信息、以及幫助你更好地預約醫療和處理保險等問題。</p>    <h2>什麼是GPT-5.5 Instant？</h2>    <p>GPT-5.5 Instant是一個基於人工智慧的聊天機器人，旨在提供高品質的健康信息和建議。它可以更好地理解你的健康問題，提供更準確、更容易理解的健康信息、以及幫助你更好地管理自己的健康。</p>    <h2>如何使用GPT-5.5 Instant？</h2>    <p>你可以在ChatGPT上使用GPT-5.5 Instant，無論是通過網頁還是手機應用程序。只需要輸入你的健康問題，GPT-5.5 Instant就會提供你高品質的健康信息和建議。另外，GPT-5.5 Instant還可以幫助你更好地預約醫療和處理保險等問題。</p>    <h2>編輯悄悄話</h2>    <p>所以，別再猶豫了，趕快試試GPT-5.5 Instant吧！讓你健康更有保障，生活更輕鬆",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.5 Instant可以更好地認識到需要緊急照護的情況",
+      "GPT-5.5 Instant可以提供更準確、更容易理解的健康信息",
+      "GPT-5.5 Instant的健康智能提升，讓你可以更好地管理自己的健康"
+    ],
+    "punchline": "GPT-5.5 Instant讓你健康更有保障",
+    "social_posts": {
+      "threads": "你知道嗎？GPT-5.5 Instant可以更好地認識到需要緊急照護的情況，提供更準確、更容易理解的健康信息，幫助你更好地管理自己的健康",
+      "facebook": "GPT-5.5 Instant是最新的ChatGPT升級版本，旨在提升健康智能，讓你可以更好地管理自己的健康。趕快試試吧！",
+      "viral_hook": "GPT-5.5 Instant讓你健康更有保障"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4yWq9ysTsvnlOm2FZUVYQ1/bec481613bb7762c6afbd6bec2edbdae/16x9_Health_SEO_1.png?w=1600&h=900&fit=fill",
+    "source": "AI HOT 精選",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "date": "2026-06-19"
+  },
+  {
+    "id": "018",
+    "title": "AI 搜索革命：Amazon Bedrock AgentCore 讓你的 AI 更聰明",
+    "summary": "Amazon Bedrock AgentCore 的 Web Search 功能讓你的 AI 可以即時搜索網路，獲得最新的資訊，告別過時的知識",
+    "content": "<p>AI 搜索革命：Amazon Bedrock AgentCore 讓你的 AI 更聰明</p>    <h2>什麼是 Amazon Bedrock AgentCore 的 Web Search 功能？</h2>    <p>Amazon Bedrock AgentCore 的 Web Search 功能是一種全新的搜索技術，讓你的 AI 可以即時搜索網路，獲得最新的資訊。這個功能使用 Amazon 維護的網路索引，涵蓋數十億份文件，讓你的 AI 可以快速找到所需的資訊。</p>    <h2>如何使用 Amazon Bedrock AgentCore 的 Web Search 功能？</h2>    <p>使用 Amazon Bedrock AgentCore 的 Web Search 功能非常簡單，只需要幾行代碼就可以將其整合到你的 AI 系統中。該功能支持標準的 MCP 協議，讓你的 AI 可以輕鬆地搜索網路，獲得最新的資訊。</p>    <h2>編輯悄悄話</h2>    <p>Amazon Bedrock AgentCore 的 Web Search 功能是 AI 搜索革命的一大突破，讓你的 AI 可以即時搜索網路，獲得最新的資訊。這個功能不僅可以提高你的 AI 的智慧，也可以讓你的 business 更加成功。所以，不要猶豫，立即試用 Amazon Bedrock AgentCore 的 Web Search 功能吧！",
+    "score": 90,
+    "takeaways": [
+      "Amazon Bedrock AgentCore 的 Web Search 功能可以讓你的 AI 即時搜索網路",
+      "該功能使用 Amazon 維護的網路索引，涵蓋數十億份文件",
+      "該功能可以結合知識圖和語義切片提取，提高搜索結果的精度"
+    ],
+    "punchline": "讓你的 AI 更聰明，使用 Amazon Bedrock AgentCore 的 Web Search",
+    "social_posts": {
+      "threads": "讓你的 AI 更聰明，使用 Amazon Bedrock AgentCore 的 Web Search！\n這個功能可以讓你的 AI 即時搜索網路，獲得最新的資訊，告別過時的知識。\n立即試用吧！",
+      "facebook": "Amazon Bedrock AgentCore 的 Web Search 功能是 AI 搜索革命的一大突破！\n這個功能可以讓你的 AI 即時搜索網路，獲得最新的資訊，提高你的 business 的成功率。\n立即試用吧！",
+      "viral_hook": "讓你的 AI 更聰明，使用 Amazon Bedrock AgentCore 的 Web Search！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/ml-21231.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+    "date": "2026-06-19"
+  },
+  {
+    "id": "019",
+    "title": "微軟Build 2026大會三大關鍵：AI從實驗到執行的轉變",
+    "summary": "微軟Build 2026大會中，AI從單獨工具轉變為基於商業數據的連接系統，組織若能將AI嵌入工作流程、有效擴展並轉化為可衡量的成果，將能夠取得更快的成長、降低成本和提供更好的客戶體驗",
+    "content": "<p>微軟Build 2026大會中，AI的角色從單獨工具轉變為基於商業數據的連接系統。這代表著企業們需要將AI嵌入工作流程中，有效擴展並轉化為可衡量的成果，例如更快的成長、降低成本和提供更好的客戶體驗。</p>    <h2>AI的新時代</h2>    <p>在這個新時代中，AI不再是單獨的工具，而是基於商業數據的連接系統。這意味著企業們需要將AI嵌入工作流程中，讓AI成為企業決策的核心。</p>    <ul>      <li>將AI嵌入工作流程中</li>      <li>有效擴展和轉化AI為可衡量的成果</li>      <li>提供更好的客戶體驗</li>    </ul>    <h2>編輯悄悄話</h2>    <p>微軟Build 2026大會中，AI的轉變代表著企業們需要重新思考自己的商業模式和工作流程。若能夠有效地嵌入AI，企業們將能夠取得更快的成長、降低成本和提供更好的客戶體驗。讓我們一起迎接AI的新時代吧！",
+    "score": 90,
+    "takeaways": [
+      "AI從實驗到執行的轉變",
+      "將AI嵌入工作流程中",
+      "有效擴展和轉化AI為可衡量的成果"
+    ],
+    "punchline": "AI的未來不再是工具，而是基於商業數據的連接系統",
+    "social_posts": {
+      "threads": "微軟Build 2026大會中，AI從實驗到執行的轉變！\n將AI嵌入工作流程中，有效擴展並轉化為可衡量的成果\n提供更好的客戶體驗\n讓我們一起迎接AI的新時代吧！",
+      "facebook": "微軟Build 2026大會中，AI的角色從單獨工具轉變為基於商業數據的連接系統。企業們需要將AI嵌入工作流程中，有效擴展並轉化為可衡量的成果。提供更好的客戶體驗，讓我們一起迎接AI的新時代吧！",
+      "viral_hook": "AI的未來不再是工具，而是基於商業數據的連接系統！"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/3-things-leaders-need-to-know-from-microsoft-build-2026/",
+    "date": "2026-06-19"
   }
 ]
