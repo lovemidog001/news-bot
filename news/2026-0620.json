@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "研究助理能保密嗎？MosaicLeaks 事件讓你震驚！",
+    "summary": "MosaicLeaks 事件揭露研究助理可能無法保密，影響你的研究成果和個人隱私，了解真相！",
+    "content": "<p>MosaicLeaks 事件近日引起廣泛關注，揭露研究助理可能無法保密你的研究內容和個人隱私。這對於需要保密的研究人員和企業來說是一個重大問題。</p>    <h2>什麼是 MosaicLeaks 事件？</h2>    <p>MosaicLeaks 事件是指研究助理無法保密研究內容和個人隱私的事件。這種事件可能發生在任何需要保密的研究領域，包括商業、醫學和科技等。</p>    <h2>如何避免 MosaicLeaks 事件？</h2>    <p>為了避免 MosaicLeaks 事件，研究人員和企業需要選擇可靠的研究助理和保密協議。同時，研究助理也需要了解保密的重要性和相關法規。</p>    <h2>編輯悄悄話</h2>    <p>你的研究助理能保密嗎？這個問題對於需要保密的研究人員和企業來說是一個重大問題。選擇可靠的研究助理和保密協議至關重要，否則可能會面臨嚴重的後果。</p>",
+    "score": 90,
+    "takeaways": [
+      "研究助理可能無法保密你的研究內容",
+      "MosaicLeaks 事件影響研究成果和個人隱私",
+      "選擇可靠的研究助理和保密協議至關重要"
+    ],
+    "punchline": "你的研究助理能保密嗎？",
+    "social_posts": {
+      "threads": "你知道嗎？你的研究助理可能無法保密你的研究內容和個人隱私！MosaicLeaks 事件讓你震驚！了解真相，選擇可靠的研究助理和保密協議至關重要！",
+      "facebook": "MosaicLeaks 事件：研究助理能保密嗎？了解真相，選擇可靠的研究助理和保密協議至關重要！分享你的想法和經驗，讓我們一起討論這個重要問題！",
+      "viral_hook": "你的研究助理能保密嗎？"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/680ba1729f7688275d2ce0f4/hGCO4pOyJjijLPCbRT07v.webp",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "002",
+    "title": "告別知識停滯！Amazon Bedrock AgentCore 的 Web Search 來了",
+    "summary": "Amazon Bedrock AgentCore 的 Web Search 功能現在正式上線，讓 AI 代理人可以即時獲取網路資訊，無需額外的基礎設施",
+    "content": "<p>Amazon Bedrock AgentCore 的 Web Search 功能現在正式上線，讓 AI 代理人可以即時獲取網路資訊，無需額外的基礎設施。這個功能使用 Amazon 運營的網路索引，涵蓋數十億份文件，讓 AI 代理人可以快速、準確地回答用戶的查詢。</p>    <h2>什麼是 Amazon Bedrock AgentCore 的 Web Search 功能？</h2>    <p>Amazon Bedrock AgentCore 的 Web Search 功能是一個完全托管的網路搜尋功能，讓 AI 代理人可以即時獲取網路資訊。該功能使用 Amazon 運營的網路索引，涵蓋數十億份文件，讓 AI 代理人可以快速、準確地回答用戶的查詢。</p>    <h2>為什麼 Amazon Bedrock AgentCore 的 Web Search 功能重要？</h2>    <p>Amazon Bedrock AgentCore 的 Web Search 功能重要，因為它可以讓 AI 代理人即時獲取網路資訊，無需額外的基礎設施。這個功能可以幫助企業快速、準確地回答用戶的查詢，提高用戶滿意度和企業競爭力。</p>    <h2>編輯悄悄話</h2>    <p>告別知識停滯，迎接即時資訊時代！Amazon Bedrock AgentCore 的 Web Search 功能是企業的最佳選擇，讓 AI 代理人可以即時獲取網路資訊，提高用戶滿意度和企業競爭力。",
+    "score": 90,
+    "takeaways": [
+      "Amazon Bedrock AgentCore 的 Web Search 功能可以讓 AI 代理人即時獲取網路資訊",
+      "該功能使用 Amazon 運營的網路索引，涵蓋數十億份文件",
+      "查詢流量完全在 AWS 基礎設施內，確保用戶查詢的安全"
+    ],
+    "punchline": "告別知識停滯，迎接即時資訊時代",
+    "social_posts": {
+      "threads": "告別知識停滯，迎接即時資訊時代！\nAmazon Bedrock AgentCore 的 Web Search 功能是企業的最佳選擇，讓 AI 代理人可以即時獲取網路資訊，提高用戶滿意度和企業競爭力。",
+      "facebook": "Amazon Bedrock AgentCore 的 Web Search 功能現在正式上線！該功能可以讓 AI 代理人即時獲取網路資訊，無需額外的基礎設施。點擊連結了解更多：",
+      "viral_hook": "告別知識停滯，迎接即時資訊時代！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/ml-21231.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "003",
+    "title": "瞬間斷電？Meta 的資料中心如何在毫無預警下保持運轉",
+    "summary": "Meta 的資料中心如何在瞬間斷電下保持運轉？透過 Instantaneous PowerLoss Storm 測試，確保資料中心的可靠性和安全性",
+    "content": "<p>你是否曾經想過，如果資料中心突然斷電，會發生什麼事情？ Meta 的資料中心團隊正是為了應對這種情況而努力工作的。</p>    <h2>什麼是 Instantaneous PowerLoss Storm</h2>    <p>Instantaneous PowerLoss Storm 是 Meta 的資料中心團隊開發的一種測試，旨在確保資料中心在毫無預警下保持運轉。這種測試模擬了各種可能的斷電情況，包括颱風、野火、電力供應和網路中斷等。</p>    <h2>如何確保資料中心的可靠性和安全性</h2>    <p>為了確保資料中心的可靠性和安全性，Meta 的資料中心團隊採用了 belt-and-braces 的方法。這意味著透過多重的安全措施和備份系統，確保資料中心可以在任何情況下保持運轉。</p>    <h2>編輯悄悄話</h2>    <p>斷電不再是災難，至少對 Meta 的資料中心團隊來說是如此。透過 Instantaneous PowerLoss Storm 測試和 belt-and-braces 的方法，確保資料中心的可靠性和安全性，讓我們可以放心地使用 Meta 的服務。",
+    "score": 90,
+    "takeaways": [
+      "資料中心的斷電風險來自多種因素，包括颱風、野火、電力供應和網路中斷等",
+      "Meta 的 Instantaneous PowerLoss Storm 測試旨在確保資料中心在毫無預警下保持運轉",
+      "透過 belt-and-braces 的方法，確保資料中心的可靠性和安全性"
+    ],
+    "punchline": "斷電不再是災難",
+    "social_posts": {
+      "threads": "你是否曾經想過，如果資料中心突然斷電，會發生什麼事情？ #Meta #資料中心 #斷電",
+      "facebook": "Meta 的資料中心團隊正是為了應對斷電情況而努力工作的。透過 Instantaneous PowerLoss Storm 測試和 belt-and-braces 的方法，確保資料中心的可靠性和安全性。 #Meta #資料中心 #斷電",
+      "viral_hook": "斷電不再是災難"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Validating-PowerLoss-Readiness-Meta-hero.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "004",
+    "title": "別再害怕資料搬家！Azure Storage 讓你modernize 資料，輕鬆搬遷不再是夢",
+    "summary": "企業資料遷移不僅是複製資料那么簡單，還要保護商業連續性、維持效能、管理成本，讓團隊在數據處理上有信心",
+    "content": "<p>你是否曾經面臨過資料搬家的困擾？資料遷移是一個複雜的過程，需要考慮許多因素，包括商業連續性、效能、成本和資料安全性。 Azure Storage 提供了一個可靠和高效的資料遷移方案，讓你可以modernize 資料，輕鬆搬遷不再是夢。</p>    <h2>資料遷移的挑戰</h2>    <p>企業資料遷移的挑戰不僅是技術問題，還是商業連續性和成本管理的問題。當你處理數據時，需要確保資料的安全性、完整性和可用性。同時，還需要考慮到效能、成本和團隊的工作效率。</p>    <h2>解決方案</h2>    <p>Azure Storage 提供了一個全面的資料遷移方案，包括資料評估、遷移計劃、遷移執行和驗證。Azure Storage 的資料遷移工具可以幫助你評估資料、規劃遷移、執行遷移和驗證結果。</p>    <h2>編輯悄悄話</h2>    <p>資料搬家，不再是夢。Azure Storage 讓你可以modernize 資料，輕鬆搬遷。不要再害怕資料遷移，選擇Azure Storage，讓你的資料搬家變得輕鬆和安全。",
+    "score": 90,
+    "takeaways": [
+      "企業資料遷移的挑戰不僅是技術問題，還是商業連續性和成本管理的問題",
+      "Azure Storage 提供了一個可靠和高效的資料遷移方案",
+      "資料遷移需要仔細的計劃和執行，以確保商業連續性和資料安全"
+    ],
+    "punchline": "資料搬家，不再是夢",
+    "social_posts": {
+      "threads": "你是否曾經面臨過資料搬家的困擾？\nAzure Storage 提供了一個可靠和高效的資料遷移方案，讓你可以modernize 資料，輕鬆搬遷不再是夢。\n#AzureStorage #資料遷移",
+      "facebook": "企業資料遷移是一個複雜的過程，需要考慮許多因素，包括商業連續性、效能、成本和資料安全性。Azure Storage 提供了一個全面的資料遷移方案，包括資料評估、遷移計劃、遷移執行和驗證。選擇Azure Storage，讓你的資料搬家變得輕鬆和安全。",
+      "viral_hook": "資料搬家，不再是夢"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/FY26AE-Azure-Composite-Mint-005-H.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "005",
+    "title": "金融機構的新常態：Agentic SOC 如何抵禦 AI驅動的網路威脅",
+    "summary": "隨著 AI驅動的網路威脅加速，金融機構正在轉向 Agentic 安全作業中心，統一資料、情境智慧和運營韌性成為未來 SOC 的基石",
+    "content": "<p>金融機構面臨著前所未有的網路威脅，AI驅動的攻擊正加速進行。因此，金融機構正在轉向 Agentic 安全作業中心（SOC），以抵禦這些威脅。</p>    <h2>什麼是 Agentic SOC?</h2>    <p>Agentic SOC 是一種新型的安全作業中心，它使用 AI 和機器學習算法來分析和處理大量的安全資料。這種方法可以幫助金融機構加速威脅偵測和調查，減少分析師的警報疲勞，提高安全性和運營效率。</p>    <h2>Agentic SOC 的關鍵因素</h2>    <p>統一資料和情境智慧是 Agentic SOC 的關鍵因素。金融機構需要統一所有的安全資料，包括來自不同系統和來源的資料，以便 AI 算法可以有效地分析和處理這些資料。同時，金融機構也需要強大的治理和審計能力，以確保 Agentic SOC 的安全性和合規性。</p>    <h2>編輯悄悄話</h2>    <p>Agentic SOC 不只是 AI，還是統一和運營化企業資料的能力。金融機構需要將 Agentic SOC 視為一種戰略投資，而不是單純的技術解決方案。通過這種方式，金融機構可以有效地抵禦 AI驅動的網路威脅，維護企業的安全性和運營效率。",
+    "score": 90,
+    "takeaways": [
+      "Agentic SOC 可以幫助金融機構加速威脅偵測和調查",
+      "統一資料和情境智慧是 Agentic SOC 的關鍵因素",
+      "強大的治理和審計能力是 Agentic SOC 的必備條件"
+    ],
+    "punchline": "Agentic SOC 不只是 AI，還是統一和運營化企業資料的能力",
+    "social_posts": {
+      "threads": "金融機構面臨著前所未有的網路威脅，Agentic SOC 可以幫助抵禦這些威脅。統一資料和情境智慧是 Agentic SOC 的關鍵因素，強大的治理和審計能力也是必備條件。",
+      "facebook": "金融機構如何抵禦 AI驅動的網路威脅？Agentic SOC 可以幫助金融機構加速威脅偵測和調查，減少分析師的警報疲勞，提高安全性和運營效率。了解更多關於 Agentic SOC 的信息。",
+      "viral_hook": "AI驅動的網路威脅正在加速，金融機構需要 Agentic SOC 來抵禦這些威脅！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltdd163914e35d3ac7/6a340e35b11c5406b1bd7bf1/finserv-agentic-soc-blog_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/agentic-soc-for-financial-services",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "006",
+    "title": "你的工作流真的在进步吗？用這個公式檢視一下吧",
+    "summary": "你是否曾疑惑自己的工作流真的有效？現在有一套簡單的評估公式可以幫助你找出問題並改善工作流",
+    "content": "<p>你是否曾疑惑自己的工作流真的有效？現在有一套簡單的評估公式可以幫助你找出問題並改善工作流。這套公式不僅可以幫助你優化工作流程，還可以提高工作效率和生產力。</p>    <h2>工作流評估的重要性</h2>    <p>工作流評估是確保工作流程順暢和高效的關鍵步驟。通過評估工作流，你可以找出瓶頸和問題，並對工作流程進行優化和改善。這不僅可以提高工作效率，還可以降低錯誤和浪費的發生率。</p>    <h2>如何使用簡單的公式檢視工作流</h2>    <p>這個公式非常簡單，只需要你回答幾個問題：工作流程的目標是什麼？工作流程的瓶頸在哪裡？工作流程的效率如何？通過回答這些問題，你可以對工作流程有個初步的了解，並找出需要改善的地方。</p>    <h2>編輯悄悄話</h2>    <p>工作流不只是流程，還是效率的關鍵。通過簡單的評估公式，你可以輕鬆找出工作流程的問題，並對其進行優化和改善。所以，不要再猶豫，趕快使用這個公式來檢視你的工作流吧！",
+    "score": 90,
+    "takeaways": [
+      "工作流評估的重要性",
+      "如何使用簡單的公式檢視工作流",
+      "改善工作流的實用建議"
+    ],
+    "punchline": "工作流不只是流程，還是效率的關鍵",
+    "social_posts": {
+      "threads": "你是否曾疑惑自己的工作流真的有效？\n現在有一套簡單的評估公式可以幫助你找出問題並改善工作流\n工作流評估的重要性\n如何使用簡單的公式檢視工作流\n改善工作流的實用建議",
+      "facebook": "工作流評估的重要性！通過簡單的評估公式，你可以找出工作流程的問題，並對其進行優化和改善。點擊連結了解更多！",
+      "viral_hook": "工作流不只是流程，還是效率的關鍵！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802116&idx=1&sn=8886f8c0078cc85a39ac97fa2deff22a",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "007",
+    "title": "觀察性別：了解 Logs、Metrics、Traces 的秘密",
+    "summary": "服務運行時會產生大量事件，了解 Logs、Metrics、Traces 可以幫助你掌握服務的運行狀態",
+    "content": "<p>你是否曾經想過，服務運行時到底發生了什麼？每一秒鐘，無數的事件都在發生，包括請求、函數執行、錯誤出現等等。這些事件就像雨點一樣不斷落下，如果你不了解它們，就很難掌握服務的運行狀態。</p>    <h2>什麼是 Logs、Metrics、Traces?</h2>    <p>Logs、Metrics、Traces 是三種不同的方式，來觀察服務運行時的事件。Logs 記錄單個事件，例如一個請求的詳細資訊。Metrics 聚合多個事件，例如每秒請求的數量。Traces 連接相關事件，例如一個請求的整個生命週期。</p>    <h2>觀察性別的核心概念</h2>    <p>觀察性別的核心概念包括基數、採樣和相關性。基數是指事件的唯一性，採樣是指選擇部分事件進行觀察，相關性是指事件之間的關係。這些概念是理解服務運行時事件的關鍵。</p>    <h2>編輯悄悄話</h2>    <p>服務運行時，事件就像雨點一樣不斷落下，如果你不了解它們，就很難掌握服務的運行狀態。觀察性別是理解服務運行的關鍵，希望這篇文章能夠幫助你掌握這些基礎概念。</p>",
+    "score": 85,
+    "takeaways": [
+      "Logs、Metrics、Traces 是觀察服務運行的三種方式",
+      "Logs 記錄單個事件，Metrics 聚合多個事件，Traces 連接相關事件",
+      "觀察性別的核心概念包括基數、採樣和相關性"
+    ],
+    "punchline": "服務運行時，事件就像雨點一樣不斷落下",
+    "social_posts": {
+      "threads": "服務運行時，事件就像雨點一樣不斷落下，你是否曾經想過，服務運行時到底發生了什麼？\n了解 Logs、Metrics、Traces 可以幫助你掌握服務的運行狀態\n#觀察性別 #服務運行",
+      "facebook": "了解服務運行時的事件，可以幫助你掌握服務的運行狀態。這篇文章將介紹 Logs、Metrics、Traces 的基礎概念，幫助你理解服務運行的秘密。分享給你的朋友和同事吧！",
+      "viral_hook": "服務運行時，事件就像雨點一樣不斷落下，你準備好了嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!r5Ej!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefd64dd9-b0a6-4fc8-8e27-2a929a3b5eef_2650x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/observability-for-beginners-logs",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "008",
+    "title": "AI大戰激烈！Musk敗給OpenAI，Google宣戰",
+    "summary": "Elon Musk的150億美元訴訟被駁回，OpenAI準備上市，Google宣布新AI模型，AI大戰激烈進行中",
+    "content": "<p>近日，AI界發生了兩件大事：Elon Musk的150億美元訴訟被駁回，OpenAI準備上市；Google宣布新AI模型，挑戰OpenAI和Anthropic。</p>    <h2>OpenAI準備上市</h2>    <p>OpenAI準備上市的消息傳出後，AI界一下子就熱鬧起來了。OpenAI的CEO Sam Altman表示，公司正在準備上市的相關工作，目標是在2026年下半年上市。</p>    <p>OpenAI的上市消息對AI界有著重大影響。首先，OpenAI的上市將會使得公司的市值大幅增加，甚至可能超過1萬億美元。其次，OpenAI的上市將會使得公司的技術和產品更加透明，從而推動AI技術的發展。</p>    <h2>Google宣布新AI模型</h2>    <p>Google宣布新AI模型的消息也引起了AI界的關注。Google的新AI模型名為Gemini，具有更強大的語言理解能力和生成能力。</p>    <p>Google的Gemini模型將會被應用於公司的各個產品中，包括Google搜索、Gmail和Google Docs等。這將會使得Google的產品更加智能化，從而提高用戶體驗。</p>    <h2>編輯悄悄話</h2>    <p>AI大戰激烈進行中，各個公司都在努力研發和應用AI技術。誰將是最後的贏家？只有時間會告訴我們。但可以肯定的是，AI技術的發展將會對我們的生活產生重大影響，讓我們拭目以待吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "Musk的訴訟被駁回，OpenAI準備上市",
+      "Google宣布新AI模型，挑戰OpenAI和Anthropic",
+      "AI大戰激烈進行中，誰將是最後的贏家"
+    ],
+    "punchline": "AI大戰激烈！誰將是最後的贏家",
+    "social_posts": {
+      "threads": "AI大戰激烈！Musk敗給OpenAI，Google宣戰，誰將是最後的贏家？#AI #OpenAI #Google",
+      "facebook": "近日，AI界發生了兩件大事：Elon Musk的150億美元訴訟被駁回，OpenAI準備上市；Google宣布新AI模型，挑戰OpenAI和Anthropic。AI大戰激烈進行中，誰將是最後的贏家？",
+      "viral_hook": "AI大戰激烈！Musk敗給OpenAI，Google宣戰"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "009",
+    "title": "Next.js 16.2 來了！解鎖跨平台部署的新時代",
+    "summary": "Next.js 16.2 推出穩定的 Adapter API，讓開發者可以更容易地跨平台部署應用程式",
+    "content": "<p>Next.js 16.2 來了！這個新版本帶來了一個重大的變革：穩定的 Adapter API。這意味著開發者可以更容易地跨平台部署應用程式，無論是 Node.js、Netlify、Cloudflare，還是 AWS Amplify 和 Google Cloud。</p>    <h2>什麼是 Adapter API？</h2>    <p>Adapter API 是一個公開的契約，讓提供者可以根據 Next.js 的建置輸出，將其映射到各自的基礎設施上。這意味著開發者可以使用 Next.js 來建置應用程式，然後輕鬆地將其部署到不同的平台上。</p>    <h2>新版本的亮點</h2>    <ul>      <li>穩定的 Adapter API</li>      <li>公開的測試套件</li>      <li>工作群組</li>    </ul>    <p>這些新功能讓 Next.js 16.2 成為了一個非常強大的工具，讓開發者可以更容易地跨平台部署應用程式。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 16.2 的推出，標誌著跨平台部署的新時代。開發者可以更容易地將應用程式部署到不同的平台上，無論是 Node.js、Netlify、Cloudflare，還是 AWS Amplify 和 Google Cloud。這是一個非常令人興奮的發展，讓我們拭目以待未來的發展吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.2 引入穩定的 Adapter API",
+      "跨平台部署變得更容易",
+      "新版本還包含了公開的測試套件和工作群組"
+    ],
+    "punchline": "Next.js 16.2 讓跨平台部署變得更容易",
+    "social_posts": {
+      "threads": "Next.js 16.2 來了！解鎖跨平台部署的新時代\n讓開發者可以更容易地跨平台部署應用程式\n無論是 Node.js、Netlify、Cloudflare，還是 AWS Amplify 和 Google Cloud\n#Nextjs #跨平台部署",
+      "facebook": "Next.js 16.2 推出穩定的 Adapter API，讓開發者可以更容易地跨平台部署應用程式。無論是 Node.js、Netlify、Cloudflare，還是 AWS Amplify 和 Google Cloud，都可以使用 Next.js 來建置和部署應用程式。點擊連結了解更多！",
+      "viral_hook": "Next.js 16.2 來了！解鎖跨平台部署的新時代"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "010",
+    "title": "英國政府攜手 Google DeepMind，AI 智能規劃將革命房地產產業？",
+    "summary": "英國政府與 Google DeepMind 合作，開發 AI 智能規劃系統，目標加速房屋建設決策，解決住房短缺問題",
+    "content": "<p>英國政府最近宣布與 Google DeepMind 合作，開發一套 AI 智能規劃系統，目標是加速房屋建設決策，解決住房短缺問題。</p><h2>什麼是 AI 智能規劃？</h2><p>AI 智能規劃是一種使用人工智慧技術來分析和優化規劃流程的方法。這種方法可以幫助政府和建設公司更快、更有效地做出房屋建設決策，從而解決住房短缺問題。</p><h2>英國政府的目標</h2><p>英國政府的目標是使用 AI 智能規劃系統來加速房屋建設決策，解決住房短缺問題。這個系統將使用人工智慧技術來分析和優化規劃流程，從而幫助政府和建設公司更快、更有效地做出房屋建設決策。</p><h2>編輯悄悄話</h2><p>AI 智能規劃，房屋建設的新革命。這個系統將會帶來更高效的建設流程，解決住房短缺問題，讓人民的生活更好。讓我們拭目以待，英國政府的這個新嘗試，是否能帶來房屋建設的新革命。</p>",
+    "score": 90,
+    "takeaways": [
+      "英國政府與 Google DeepMind 合作開發 AI 智能規劃系統",
+      "系統目標加速房屋建設決策，解決住房短缺問題",
+      "AI 智能規劃將革命房地產產業，帶來更高效的建設流程"
+    ],
+    "punchline": "AI 智能規劃，房屋建設的新革命",
+    "social_posts": {
+      "threads": "你知道嗎？英國政府最近宣布與 Google DeepMind 合作，開發一套 AI 智能規劃系統，目標是加速房屋建設決策，解決住房短缺問題。這個系統將會帶來更高效的建設流程，解決住房短缺問題，讓人民的生活更好。",
+      "facebook": "英國政府與 Google DeepMind 合作，開發 AI 智能規劃系統，目標加速房屋建設決策，解決住房短缺問題。這個系統將會帶來更高效的建設流程，解決住房短缺問題，讓人民的生活更好。分享你的想法，讓我們一起討論這個新革命。",
+      "viral_hook": "AI 智能規劃，房屋建設的新革命！"
+    },
+    "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "011",
+    "title": "終於有人把AI變成超強研究助理！藥物研發就這樣變得容易多了",
+    "summary": "一支頂尖團隊開發出能協助藥物研究人員快速查詢數十年研究資料的AI系統，讓藥物研發效率大幅提升",
+    "content": "<p>你是否曾經想過，藥物研發人員如何在數十年的研究資料中找到需要的信息？現在，有一支頂尖團隊開發出了一個能夠協助藥物研究人員快速查詢數十年研究資料的AI系統。</p>    <h2>挑戰：數十年的研究資料</h2>    <p>藥物研發人員面臨著一個巨大的挑戰：數十年的研究資料散佈在各個地方，難以快速查詢。這個問題不僅浪費了時間，也降低了研發效率。</p>    <h2>解決方案：AI助理</h2>    <p>為了解決這個問題，一支頂尖團隊開發出了一個AI系統，能夠快速查詢大量研究資料，並回答複雜的研究問題。這個系統甚至可以自動撰寫規範文件，讓藥物研發人員能夠專注於更重要的工作。</p>    <h2>編輯悄悄話</h2>    <p>這個AI系統的出現，不僅讓藥物研發人員的工作變得容易多了，也讓我們看到了AI技術在未來的發展前景。未來，AI將會在更多的領域中發揮重要作用，讓我們的生活變得更加便捷和高效。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI系統能夠快速查詢大量研究資料",
+      "AI系統能夠回答複雜的研究問題",
+      "AI系統能夠自動撰寫規範文件"
+    ],
+    "punchline": "AI助理來了，藥物研發變得容易多了！",
+    "social_posts": {
+      "threads": "你知道嗎？現在有個AI系統可以幫助藥物研究人員快速查詢數十年的研究資料！這個系統不僅可以回答複雜的研究問題，還可以自動撰寫規範文件。未來，AI將會在更多的領域中發揮重要作用，讓我們的生活變得更加便捷和高效。",
+      "facebook": "藥物研發人員的福音！現在有一個AI系統可以幫助他們快速查詢數十年的研究資料。這個系統不僅可以回答複雜的研究問題，還可以自動撰寫規範文件。點擊鏈接了解更多：https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "viral_hook": "終於有人把AI變成超強研究助理！"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "012",
+    "title": "企業AI新時代：OpenAI推出使用分析和費用控制",
+    "summary": "OpenAI推出新的使用分析和費用控制功能，讓企業更好地管理AI成本和部署",
+    "content": "<p>OpenAI最近推出了一項新的功能，讓企業可以更好地管理AI成本和部署。這項功能叫做使用分析和費用控制，讓企業可以更好地理解AI的使用情況和費用。</p>    <h2>什麼是使用分析和費用控制?</h2>    <p>使用分析和費用控制是一項功能，讓企業可以查看AI的使用情況和費用。企業可以查看哪些部門和員工使用了AI，使用了多少次，和花了多少費用。這樣，企業可以更好地管理AI成本和部署。</p>    <h2>如何使用使用分析和費用控制?</h2>    <p>企業可以在OpenAI的管理控制台中查看使用分析和費用控制的報表。報表中包括了AI的使用情況、費用、和使用限制等信息。企業可以根據這些信息調整AI的使用限制和費用，讓AI更好地服務於企業的需要。</p>    <h2>編輯悄悄話</h2>    <p>AI不再是神秘的黑盒子，現在企業可以更好地理解和管理AI的使用情況和費用。這項功能讓企業可以更好地部署AI，讓AI更好地服務於企業的需要。所以，企業不要再猶豫，快來使用OpenAI的使用分析和費用控制功能吧！",
+    "score": 85,
+    "takeaways": [
+      "企業可以更好地管理AI成本和部署",
+      "新的使用分析和費用控制功能可以幫助企業更好地理解AI的使用情況",
+      "企業可以根據實際需要調整AI的使用限制和費用"
+    ],
+    "punchline": "AI不再是神秘的黑盒子",
+    "social_posts": {
+      "threads": "大家有沒有注意到，AI現在已經成為我們工作的一部分了？但是，如何管理AI的成本和部署呢？OpenAI最近推出了一項新的功能，讓企業可以更好地管理AI成本和部署。這項功能叫做使用分析和費用控制，讓企業可以更好地理解AI的使用情況和費用。",
+      "facebook": "OpenAI推出新的使用分析和費用控制功能，讓企業可以更好地管理AI成本和部署。這項功能可以幫助企業更好地理解AI的使用情況和費用，讓AI更好地服務於企業的需要。點擊連結了解更多信息。",
+      "viral_hook": "AI不再是神秘的黑盒子，現在企業可以更好地理解和管理AI的使用情況和費用。"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1ehSOdp5G7FxMMtynCUoLV/c5d7539672c8a3dd93a3c058f70e7661/Spend_Controls_SEO.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "date": "2026-06-20"
+  }
+]
