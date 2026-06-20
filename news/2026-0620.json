@@ -284,5 +284,49 @@
     "source": "deeplearning.ai",
     "url": "https://www.deeplearning.ai/the-batch/issue-358",
     "date": "2026-06-20"
+  },
+  {
+    "id": "014",
+    "title": "12 個開源 LLMs 讓你的 AI 工作更上一層樓！",
+    "summary": "了解 12 個開源 LLMs 的優點，提升你的 AI 工作效率和質量！",
+    "content": "<p>AI 已經成為我們工作中的一部分，尤其是在工程工作中。但是，如何讓 AI 更好地協助我們工作呢？這就是 LLMs 和 SLMs 的用途。</p>    <h2>LLMs 和 SLMs 的差異</h2>    <p>LLMs 和 SLMs 是兩種不同的 AI 模型。LLMs 通常具有更大的參數量和更深的層次，適合於複雜的任務和長期的記憶。SLMs 則通常具有較小的參數量和較淺的層次，適合於簡單的任務和短期的記憶。</p>    <p>了解 LLMs 和 SLMs 的差異，可以幫助我們選擇適合的模型來完成不同的任務。例如，LLMs 可以用於複雜的代碼生成和長期的記憶，而 SLMs 可以用於簡單的分類和短期的記憶。</p>    <h2>開源 LLMs 的優點和應用</h2>    <p>開源 LLMs 提供了許多優點，包括成本低、彈性高和可自定義性強。開源 LLMs 可以用於各種應用，包括代碼生成、語言翻譯和文本分類。</p>    <p>本文介紹了 12 個開源 LLMs，包括 Llama 4 Scout、DeepSeek V4、Qwen3 等。每個模型都有其優點和應用，了解這些模型可以幫助我們選擇適合的模型來完成不同的任務。</p>    <h2>編輯悄悄話</h2>    <p>選擇適合的 LLMs，可以幫助我們提升 AI 工作的效率和質量。了解 LLMs 和 SLMs 的差異，和開源 LLMs 的優點和應用，可以幫助我們做出更好的選擇。所以，不要猶豫，來探索開源 LLMs 的世界吧！",
+    "score": 90,
+    "takeaways": [
+      "LLMs 和 SLMs 的差異",
+      "開源 LLMs 的優點和應用",
+      "如何選擇適合的 LLMs"
+    ],
+    "punchline": "開源 LLMs 讓你的 AI 工作更強大！",
+    "social_posts": {
+      "threads": "你知道嗎？LLMs 和 SLMs 的差異可以幫助你選擇適合的 AI 模型來完成不同的任務！\n了解 12 個開源 LLMs 的優點和應用，提升你的 AI 工作效率和質量！",
+      "facebook": "了解 LLMs 和 SLMs 的差異，以及開源 LLMs 的優點和應用。提升你的 AI 工作效率和質量，選擇適合的模型來完成不同的任務！",
+      "viral_hook": "12 個開源 LLMs 讓你的 AI 工作更上一層樓！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!BYbF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F220c32aa-4313-4278-ae43-4d2d1b5b8875_2508x3000.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ep219-12-open-source-llms",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "015",
+    "title": "Google Cloud 最新消息！了解 Apigee、Gemini 和 AI 的最新發展",
+    "summary": "Google Cloud 最近推出了多項新功能和工具，包括 Apigee 的新功能、Gemini 的更新和 AI 的最新發展。了解這些更新將有助於您更好地利用 Google Cloud 的服務。",
+    "content": "<h2>Apigee 最新消息</h2><p>Apigee最近推出了多項新功能，包括 API Gateway 和 Cloud Endpoints 的 OpenAPI v3 支援。這將有助於您更好地管理 API 和提供更好的服務給用戶。</p><h2>Gemini 更新</h2><p>Gemini 更新了其模型，包括 Gemini 3.1 Flash-Lite 和 Gemini 3.1 Pro。這些更新將有助於您更好地利用 Gemini 的功能和提供更好的服務給用戶。</p><h2>AI 最新發展</h2><p>Google Cloud 提供了多項 AI 相關的工具和服務，包括 AI-Powered Apigee Development 和 AI Command & Control。這些工具和服務將有助於您更好地利用 AI 的功能和提供更好的服務給用戶。</p><h2>編輯悄悄話</h2><p>Google Cloud 的更新將有助於您更好地利用其服務和提供更好的服務給用戶。不要錯過這些更新，立即了解更多！</p>",
+    "score": 90,
+    "takeaways": [
+      "Apigee 推出了新功能，包括 API Gateway 和 Cloud Endpoints 的 OpenAPI v3 支援",
+      "Gemini 更新了其模型，包括 Gemini 3.1 Flash-Lite 和 Gemini 3.1 Pro",
+      "Google Cloud 提供了多項 AI 相關的工具和服務，包括 AI-Powered Apigee Development 和 AI Command & Control"
+    ],
+    "punchline": "Google Cloud 不斷推動創新，為您的業務提供更好的服務和工具。",
+    "social_posts": {
+      "threads": "Google Cloud 最新消息！了解 Apigee、Gemini 和 AI 的最新發展。立即了解更多！ #GoogleCloud #Apigee #Gemini #AI",
+      "facebook": "Google Cloud 最新消息！了解 Apigee、Gemini 和 AI 的最新發展。立即了解更多！ #GoogleCloud #Apigee #Gemini #AI",
+      "viral_hook": "Google Cloud 最新消息！了解 Apigee、Gemini 和 AI 的最新發展。立即了解更多！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+    "date": "2026-06-20"
   }
 ]
