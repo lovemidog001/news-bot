@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "研究助理會保密嗎？MosaicLeaks揭露驚人內幕",
+    "summary": "研究助理能否保密？MosaicLeaks事件揭露了令人震驚的真相，與你有關的秘密可能正在被泄露",
+    "content": "<p>近日，MosaicLeaks事件引起了廣泛的關注，揭露了研究助理可能無法保密您的個人資料。這個事件讓我們開始質疑，研究助理是否能夠保密?</p>    <h2>什麼是MosaicLeaks?</h2>    <p>MosaicLeaks是一個研究助理保密性的漏洞，讓研究助理可以訪問和分享用戶的個人資料。這個漏洞已經被發現並揭露，讓我們開始關注研究助理的保密性。</p>    <h2>如何保護您的個人資料</h2>    <p>為了保護您的個人資料，您需要注意自己的個人資料安全。您可以使用加密技術、設定強密碼和兩步驟驗證等方法來保護您的個人資料。</p>    <h2>編輯悄悄話</h2>    <p>所以，下次您使用研究助理時，請注意您的個人資料安全。您的秘密可能正在被泄露，請小心保護自己！</p>",
+    "score": 90,
+    "takeaways": [
+      "研究助理可能無法保密您的個人資料",
+      "MosaicLeaks事件揭露了研究助理保密性的漏洞",
+      "您需要注意自己的個人資料安全"
+    ],
+    "punchline": "您的秘密正在被泄露",
+    "social_posts": {
+      "threads": "研究助理會保密嗎？\nMosaicLeaks事件揭露了令人震驚的真相\n您的秘密可能正在被泄露\n#MosaicLeaks #研究助理 #保密性",
+      "facebook": "研究助理能否保密您的個人資料？MosaicLeaks事件揭露了令人震驚的真相。與您有關的秘密可能正在被泄露。請注意自己的個人資料安全！",
+      "viral_hook": "您的秘密正在被泄露！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/680ba1729f7688275d2ce0f4/hGCO4pOyJjijLPCbRT07v.webp",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "002",
+    "title": "AI 代理的新突破：Amazon Bedrock AgentCore 的 Web Search",
+    "summary": "Amazon Bedrock AgentCore 的 Web Search 能夠讓 AI 代理實時查詢網路資訊，無需額外的基礎設施",
+    "content": "<p>AI 代理正在改變組織尋找和處理資訊的方式，但是它們仍然存在一個限制：它們的知識是固定的，無法實時更新。Amazon Bedrock AgentCore 的 Web Search 能夠解決這個問題，讓 AI 代理實時查詢網路資訊，無需額外的基礎設施。</p>    <h2>什麼是 Web Search on Amazon Bedrock AgentCore</h2>    <p>Web Search on Amazon Bedrock AgentCore 是一個完全托管的 Web Search 能力，讓你的 AI 代理可以實時查詢網路資訊，無需額外的基礎設施。它包含內建的知識圖譜，能夠提供高準確度的查詢結果。</p>    <h2>如何使用 Web Search on Amazon Bedrock AgentCore</h2>    <p>使用 Web Search on Amazon Bedrock AgentCore 非常簡單。你只需要將你的 AI 代理連接到 Amazon Bedrock AgentCore 的 Gateway，就可以開始使用 Web Search 的功能。無需額外的設定或基礎設施。</p>    <h2>編輯悄悄話</h2>    <p>AI 代理的新突破：實時查詢網路資訊。Amazon Bedrock AgentCore 的 Web Search 能夠讓你的 AI 代理實時查詢網路資訊，無需額外的基礎設施。這是 AI 代理的一個重大突破，讓它們能夠更好地幫助我們尋找和處理資訊。</p>",
+    "score": 90,
+    "takeaways": [
+      "Web Search on Amazon Bedrock AgentCore 可以讓 AI 代理實時查詢網路資訊",
+      "Amazon 的 Web Search 索引每分鐘更新，讓查詢結果始終最新",
+      "Web Search on Amazon Bedrock AgentCore 包含內建的知識圖譜，能夠提供高準確度的查詢結果"
+    ],
+    "punchline": "AI 代理的新突破：實時查詢網路資訊",
+    "social_posts": {
+      "threads": "AI 代理的新突破：實時查詢網路資訊\nAmazon Bedrock AgentCore 的 Web Search 能夠讓你的 AI 代理實時查詢網路資訊，無需額外的基礎設施\n這是 AI 代理的一個重大突破，讓它們能夠更好地幫助我們尋找和處理資訊",
+      "facebook": "AI 代理的新突破：實時查詢網路資訊\nAmazon Bedrock AgentCore 的 Web Search 能夠讓你的 AI 代理實時查詢網路資訊，無需額外的基礎設施\n點擊連結了解更多：[連結]",
+      "viral_hook": "AI 代理的新突破：實時查詢網路資訊"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/ml-21231.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "003",
+    "title": "瞬間斷電來襲！Meta 如何確保數據中心不中斷運作",
+    "summary": "Meta 推出 Instantaneous PowerLoss Storm 測試方案，確保數據中心在瞬間斷電的情況下仍能保持運作",
+    "content": "<p>數據中心的可靠性是 Meta 的生命線。在面臨瞬間斷電的風險時，Meta 需要建立防護機制，以確保數據中心的運作不中斷。</p>    <h2>Instantaneous PowerLoss Storm 測試方案</h2>    <p>Meta 推出 Instantaneous PowerLoss Storm 測試方案，旨在模擬斷電情景，確保數據中心的可靠性。該方案包括使用電池和 Power Loss Siren 等技術，確保數據的持久性。</p>    <p>Meta 的數據中心面臨瞬間斷電的風險，需要建立防護機制。 Instantaneous PowerLoss Storm 測試方案可以模擬斷電情景，確保數據中心的可靠性。</p>    <h2>解決方案</h2>    <p>Meta 的解決方案包括使用電池和 Power Loss Siren 等技術，確保數據的持久性。另外，Meta 還使用 Twine recovery kit 等工具，確保數據中心的運作不中斷。</p>    <h2>編輯悄悄話</h2>    <p>斷電來襲，數據中心不中斷！ Meta 的 Instantaneous PowerLoss Storm 測試方案是確保數據中心可靠性的重要一步。讓我們一起關注 Meta 的數據中心，了解更多關於數據中心的可靠性和安全性吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Meta 的數據中心面臨瞬間斷電的風險，需要建立防護機制",
+      "Instantaneous PowerLoss Storm 測試方案可以模擬斷電情景，確保數據中心的可靠性",
+      "Meta 的解決方案包括使用電池和 Power Loss Siren 等技術，確保數據的持久性"
+    ],
+    "punchline": "斷電來襲，數據中心不中斷！",
+    "social_posts": {
+      "threads": "斷電來襲，數據中心不中斷！ Meta 的 Instantaneous PowerLoss Storm 測試方案是確保數據中心可靠性的重要一步。 #Meta #數據中心 #可靠性",
+      "facebook": "Meta 推出 Instantaneous PowerLoss Storm 測試方案，確保數據中心在瞬間斷電的情況下仍能保持運作。了解更多關於 Meta 的數據中心可靠性和安全性吧！",
+      "viral_hook": "斷電來襲，數據中心不中斷！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Validating-PowerLoss-Readiness-Meta-hero.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "004",
+    "title": "別再讓資料搬家成個大頭痛！用 Azure Storage 把你的資料搬到雲端，輕鬆升級吧！",
+    "summary": "企業資料遷移不只是複製資料，還關乎保護商業持續性、維持效能、管理成本。現在，用 Azure Storage 把你的資料搬到雲端，輕鬆升級吧！",
+    "content": "<p>你是否曾經為了資料遷移而煩惱？別再讓資料搬家成個大頭痛！用 Azure Storage 把你的資料搬到雲端，輕鬆升級吧！</p>    <h2>什麼是 Azure Storage？</h2>    <p>Azure Storage 是 Microsoft 提供的雲端資料儲存解決方案。它提供高效能、低成本的資料儲存服務，讓你可以輕鬆地把你的資料搬到雲端。</p>    <p>使用 Azure Storage，你可以享受以下優惠：</p>    <ul>      <li>高效能的資料儲存</li>      <li>低成本的資料儲存</li>      <li>安全的資料儲存</li>    </ul>    <h2>如何使用 Azure Storage 進行資料遷移</h2>    <p>使用 Azure Storage 進行資料遷移非常簡單。你可以按照以下步驟進行：</p>    <ol>      <li>創建 Azure Storage 帳戶</li>      <li>上傳你的資料到 Azure Storage</li>      <li>設定你的資料儲存選項</li>    </ol>    <p>現在，用 Azure Storage 把你的資料搬到雲端，輕鬆升級吧！</p>    <h2>編輯悄悄話</h2>    <p>別再讓資料搬家成個大頭痛！用 Azure Storage 把你的資料搬到雲端，輕鬆升級吧！相信我，你會感謝我的這個建議的！",
+    "score": 85,
+    "takeaways": [
+      "資料遷移不只是複製資料，還關乎保護商業持續性",
+      "Azure Storage 提供高效能、低成本的資料儲存解決方案",
+      "輕鬆升級你的資料，無需擔心資料安全性"
+    ],
+    "punchline": "用 Azure Storage，把你的資料搬到雲端，輕鬆升級吧！",
+    "social_posts": {
+      "threads": "大家有沒有為了資料遷移而煩惱？我最近發現了 Azure Storage，這個雲端資料儲存解決方案真的很讚！不只是高效能、低成本，還有安全的資料儲存。大家可以試試看喔！",
+      "facebook": "用 Azure Storage 把你的資料搬到雲端，輕鬆升級吧！這個雲端資料儲存解決方案提供高效能、低成本的資料儲存服務，讓你可以輕鬆地把你的資料搬到雲端。分享給你的朋友吧！",
+      "viral_hook": "別再讓資料搬家成個大頭痛！用 Azure Storage 把你的資料搬到雲端，輕鬆升級吧！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/FY26AE-Azure-Composite-Mint-005-H.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "005",
+    "title": "AI 新秩序：Anthropic 的強制控制和 Nvidia 的挑戰",
+    "summary": "Anthropic 的新規則限制開發者對 AI 模型的使用，而 Nvidia 的 Nemotron 3 Ultra 模型則挑戰了現有的 AI 生態系統",
+    "content": "<h2>Anthropic 的強制控制</h2>    <p>Anthropic 的新規則限制開發者對 AI 模型的使用，引發了開發者的不滿。這些規則包括限制開發者使用 AI 模型進行某些任務，例如開發競爭對手的 AI 模型。</p>    <h2>Nvidia 的挑戰</h2>    <p>Nvidia 的 Nemotron 3 Ultra 模型是一個強大的開源模型，挑戰了現有的 AI 生態系統。這個模型具有高性能和高效率，且可以用於各種任務，例如自然語言處理和程式設計。</p>    <h2>AI 的未來</h2>    <p>AI 的未來將由開源模型和私有模型之間的競爭決定。開源模型可以提供更高的透明度和可擴展性，而私有模型可以提供更高的性能和安全性。誰來主導 AI 的未來，是一個值得關注的問題。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來，誰來主導？這個問題將由時間和技術的發展來決定。然而，一件事是肯定的：AI 的未來將是開源模型和私有模型之間的競爭。讓我們拭目以待，未來會帶來什麼樣的變化。</p>",
+    "score": 95,
+    "takeaways": [
+      "Anthropic 的新規則限制開發者對 AI 模型的使用，引發了開發者的不滿",
+      "Nvidia 的 Nemotron 3 Ultra 模型是一個強大的開源模型，挑戰了現有的 AI 生態系統",
+      "AI 的未來將由開源模型和私有模型之間的競爭決定"
+    ],
+    "punchline": "AI 的未來，誰來主導？",
+    "social_posts": {
+      "threads": "AI 的未來，誰來主導？\n開源模型和私有模型之間的競爭，將決定 AI 的未來。\n#AI #開源 #私有",
+      "facebook": "AI 的未來，誰來主導？開源模型和私有模型之間的競爭，將決定 AI 的未來。點擊連結，了解更多：https://example.com",
+      "viral_hook": "AI 的未來，誰來主導？"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-358",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "006",
+    "title": "工作流進步嗎？用這套評估體系揭開真相！",
+    "summary": "你真的知道工作流的進步嗎？我們用一套量化評估體系來揭開真相，讓你看到真正的進步！",
+    "content": "<p>工作流是企業運營的核心，但你真的知道工作流的進步嗎？我們用一套量化評估體系來揭開真相，讓你看到真正的進步！</p>    <h2>工作流評估體系的重要性</h2>    <p>工作流評估體系可以幫助企業了解工作流的效率、質量和成本，從而優化工作流程，提高生產力和競爭力。</p>    <ul>      <li>工作流評估體系的關鍵指標</li>      <li>如何設置工作流評估體系</li>      <li>工作流評估體系的實際案例</li>    </ul>    <h2>工作流優化的實際案例</h2>    <p>我們的客戶通過實施工作流評估體系，成功優化了工作流程，提高了生產力和競爭力。以下是實際案例：</p>    <p>...</p>    <h2>編輯悄悄話</h2>    <p>工作流進步，從量化開始！別再用主觀感覺來評估工作流，試試我們的工作流評估體系吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "工作流評估體系的重要性",
+      "如何量化工作流的進步",
+      "工作流優化的實際案例"
+    ],
+    "punchline": "工作流進步，從量化開始！",
+    "social_posts": {
+      "threads": "工作流進步嗎？用這套評估體系揭開真相！\n工作流評估體系的重要性\n如何量化工作流的進步\n工作流優化的實際案例\n試試我們的工作流評估體系吧！",
+      "facebook": "工作流進步，從量化開始！我們的工作流評估體系可以幫助企業優化工作流程，提高生產力和競爭力。點擊鏈接了解更多！",
+      "viral_hook": "工作流進步嗎？用這套評估體系揭開真相！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802116&idx=1&sn=8886f8c0078cc85a39ac97fa2deff22a",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "007",
+    "title": "Google Cloud最新消息：Gemini 3.1 Flash-Lite、Apigee API治理和Cloud Run Worker Pools",
+    "summary": "Google Cloud最近推出了多项新功能和更新，包括Gemini 3.1 Flash-Lite、Apigee API治理和Cloud Run Worker Pools。这些更新旨在帮助开发者和企业更好地使用Google Cloud的服务，特别是在AI和API治理方面。",
+    "content": "<h2>Google Cloud最新消息</h2><p>Google Cloud最近推出了多项新功能和更新，包括Gemini 3.1 Flash-Lite、Apigee API治理和Cloud Run Worker Pools。这些更新旨在帮助开发者和企业更好地使用Google Cloud的服务，特别是在AI和API治理方面。</p><h2>Gemini 3.1 Flash-Lite</h2><p>Gemini 3.1 Flash-Lite是一种新的Gemini模型，专为高容量开发者工作负载而设计。它提供了更高的质量和效率，特别是在高容量翻译和内容审核方面。</p><h2>Apigee API治理</h2><p>Apigee API治理提供了更好的API安全性和治理功能，包括API密钥管理、访问控制和流量控制。这些功能可以帮助企业更好地管理他们的API，并确保API的安全性和可靠性。</p><h2>Cloud Run Worker Pools</h2><p>Cloud Run Worker Pools是一种新的资源类型，用于处理后台任务和工作负载。它提供了更高的可扩展性和灵活性，特别是在处理大规模数据和工作负载方面。</p><h2>编辑悄悄话</h2><p>Google Cloud的最新更新为开发者和企业提供了更好的工具和功能，以帮助他们在AI和API治理方面取得成功。这些更新表明了Google Cloud的承诺，致力于提供更好的服务和功能，以帮助客户更好地使用云计算和AI技术。</p>",
+    "score": 90,
+    "takeaways": [
+      "Gemini 3.1 Flash-Lite是一种新的Gemini模型，专为高容量开发者工作负载而设计",
+      "Apigee API治理提供了更好的API安全性和治理功能",
+      "Cloud Run Worker Pools是一种新的资源类型，用于处理后台任务和工作负载"
+    ],
+    "punchline": "Google Cloud的最新更新为开发者和企业提供了更好的工具和功能，以帮助他们在AI和API治理方面取得成功",
+    "social_posts": {
+      "threads": "Google Cloud最新消息！Gemini 3.1 Flash-Lite、Apigee API治理和Cloud Run Worker Pools！这些更新旨在帮助开发者和企业更好地使用Google Cloud的服务，特别是在AI和API治理方面。#GoogleCloud #AI #API",
+      "facebook": "Google Cloud最新消息！Gemini 3.1 Flash-Lite、Apigee API治理和Cloud Run Worker Pools！这些更新旨在帮助开发者和企业更好地使用Google Cloud的服务，特别是在AI和API治理方面。点击链接了解更多！#GoogleCloud #AI #API",
+      "viral_hook": "Google Cloud最新消息！Gemini 3.1 Flash-Lite、Apigee API治理和Cloud Run Worker Pools！这些更新旨在帮助开发者和企业更好地使用Google Cloud的服务，特别是在AI和API治理方面。点击链接了解更多！#GoogleCloud #AI #API"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "008",
+    "title": "AI 大戰：Musk 賠了 150 億美元，Google 發力挑戰 OpenAI",
+    "summary": "Musk 的 150 億美元訴訟被駁回，Google 推出新 AI 模型挑戰 OpenAI",
+    "content": "<p>近日，Elon Musk 的 150 億美元訴訟被駁回，OpenAI 預計秋季上市。同時，Google 推出新 AI 模型，包括 Gemini Spark 和 Antigravity 2.0，挑戰 OpenAI 的地位。</p>    <h2>AI 大戰的開始</h2>    <p>Musk 的訴訟被駁回，意味著 OpenAI 可以順利上市。OpenAI 的 CEO Sam Altman 表示，公司將在秋季上市，目標是成為世界上最大的 AI 公司之一。</p>    <p>Google 也在積極發力，推出新 AI 模型，包括 Gemini Spark 和 Antigravity 2.0。Gemini Spark 是一個 24/7 的雲端 AI 助手，可以與 Gmail 和 Google Docs 整合。Antigravity 2.0 是一個更新的桌面應用程序和 CLI 工具。</p>    <h2>未來的發展</h2>    <p>AI 大戰愈演愈烈，誰將贏得未來？OpenAI 和 Google 都在積極發力，推出新 AI 模型和技術。未來，AI 將會在各個領域中發揮重要作用，包括 healthcare、金融和教育。</p>    <h2>編輯悄悄話</h2>    <p>AI 大戰正式開始，誰將贏得未來？我們將繼續關注 AI 的發展，為您帶來最新的消息和分析。</p>",
+    "score": 90,
+    "takeaways": [
+      "Musk 的訴訟被駁回，OpenAI 預計秋季上市",
+      "Google 推出新 AI 模型，包括 Gemini Spark 和 Antigravity 2.0",
+      "AI 大戰愈演愈烈，誰將贏得未來？"
+    ],
+    "punchline": "AI 大戰正式開始",
+    "social_posts": {
+      "threads": "AI 大戰正式開始！Musk 的 150 億美元訴訟被駁回，OpenAI 預計秋季上市。Google 也在積極發力，推出新 AI 模型。誰將贏得未來？#AI #OpenAI #Google",
+      "facebook": "AI 大戰愈演愈烈！OpenAI 和 Google 都在積極發力，推出新 AI 模型和技術。未來，AI 將會在各個領域中發揮重要作用。點擊鏈接了解更多：https://www.example.com",
+      "viral_hook": "AI 大戰正式開始！誰將贏得未來？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "009",
+    "title": "Next.js 全新升級！跨平台部署的新時代",
+    "summary": "Next.js 16.2 釋出穩定的 Adapter API，讓開發者更容易跨平台部署應用程式",
+    "content": "<p>Next.js 16.2 釋出穩定的 Adapter API，讓開發者更容易跨平台部署應用程式。這個新功能讓開發者可以使用公用測試套件來驗證應用程式的行為，同時也提供了更好的平台整合表面。</p>    <h2>什麼是 Adapter API？</h2>    <p>Adapter API 是一個讓開發者可以定義應用程式的建置輸出，並將其映射到提供者的基礎設施上的機制。這個 API 讓開發者可以使用公用測試套件來驗證應用程式的行為，同時也提供了更好的平台整合表面。</p>    <h2>如何使用 Adapter API</h2>    <p>開發者可以使用 Adapter API 來定義應用程式的建置輸出，並將其映射到提供者的基礎設施上。同時，也可以使用公用測試套件來驗證應用程式的行為。更多資訊可以參考 <a href=\"https://nextjs.org/docs/deployment\">Next.js 文件</a>。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 的新時代已經來臨！跨平台部署變得更容易，開發者可以使用公用測試套件來驗證應用程式的行為。不要錯過這個機會，立即升級到 Next.js 16.2 並體驗全新的跨平台部署功能！</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.2 引入穩定的 Adapter API",
+      "跨平台部署更加容易",
+      "開發者可以使用公用測試套件來驗證應用程式的行為"
+    ],
+    "punchline": "Next.js 的新時代：跨平台部署變得更容易！",
+    "social_posts": {
+      "threads": "Next.js 的新時代已經來臨！跨平台部署變得更容易，開發者可以使用公用測試套件來驗證應用程式的行為。不要錯過這個機會，立即升級到 Next.js 16.2 並體驗全新的跨平台部署功能！",
+      "facebook": "Next.js 16.2 釋出穩定的 Adapter API，讓開發者更容易跨平台部署應用程式。更多資訊可以參考 Next.js 文件。",
+      "viral_hook": "Next.js 的新時代：跨平台部署變得更容易！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "010",
+    "title": "英國政府聯手DeepMind，用AI加速房屋規劃",
+    "summary": "英國政府與Google DeepMind合作，開發AI驅動的房屋規劃系統，將大幅提升房屋建設效率",
+    "content": "<p>英國政府最近宣布與Google DeepMind合作，開發一套AI驅動的房屋規劃系統。這個合作將使用數據分析和機器學習算法，快速處理房屋建設申請，從而大幅提升房屋建設效率。</p>    <h2>什麼是AI驅動的房屋規劃系統？</h2>    <p>這個系統使用AI技術分析數據，自動處理房屋建設申請，從而減少人工審核的時間和成本。該系統還可以學習從過往的申請中，找出最有效的房屋建設方案，從而提高房屋建設的質量和效率。</p>    <h2>英國政府的目標</h2>    <p>英國政府的目標是使用這個系統，解決英國的住房短缺問題。目前，英國的房屋建設速度遠遠低於需求，導致許多人無法找到合適的住房。英國政府希望使用這個系統，加速房屋建設，從而提供更多的住房選擇給民眾。</p>    <h2>編輯悄悄話</h2>    <p>這個合作對於英國的住房市場來說，是一個非常重要的發展。使用AI技術，加速房屋建設，將大幅提升英國的住房供應，從而解決住房短缺問題。讓我們拭目以待，，看看這個合作將如何改變英國的住房市場！</p>",
+    "score": 90,
+    "takeaways": [
+      "英國政府與DeepMind合作，開發AI驅動的房屋規劃系統",
+      "該系統將使用數據分析和機器學習算法，快速處理房屋建設申請",
+      "預計將大幅提升房屋建設效率，解決英國的住房短缺問題"
+    ],
+    "punchline": "AI來拯救英國的住房危機",
+    "social_posts": {
+      "threads": "英國政府聯手DeepMind，用AI加速房屋規劃！\n這個合作將使用數據分析和機器學習算法，快速處理房屋建設申請\n從而大幅提升房屋建設效率，解決英國的住房短缺問題\n#AI #房屋規劃 #英國",
+      "facebook": "英國政府與Google DeepMind合作，開發AI驅動的房屋規劃系統！\n這個系統將使用數據分析和機器學習算法，快速處理房屋建設申請\n從而大幅提升房屋建設效率，解決英國的住房短缺問題\n點擊連結，了解更多！",
+      "viral_hook": "AI來拯救英國的住房危機！"
+    },
+    "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "011",
+    "title": "AI革命來了！如何打造可靠的人工智慧系統？",
+    "summary": "想像一下，有一套AI系統可以幫你快速找到 décades 的研究資料，並且能夠回答複雜的問題，甚至幫你撰寫文件！這就是Building Reliable Agentic AI Systems的精髓。",
+    "content": "<p>你是否曾經想過，有一套系統可以幫你快速找到 décades 的研究資料，並且能夠回答複雜的問題，甚至幫你撰寫文件？這就是Building Reliable Agentic AI Systems的精髓。</p>    <h2>什麼是Agentic AI系統？</h2>    <p>Agentic AI系統是一種可以自主學習和決策的AI系統，它可以幫助人們完成複雜的工作，例如研究和開發。這種系統可以透過LLM（Large Language Model）建立，LLM是一種可以處理大量語言資料的AI模型。</p>    <h2>如何建立可靠的Agentic AI系統？</h2>    <p>建立可靠的Agentic AI系統需要透過以下幾個步驟：首先，需要收集和處理大量的語言資料；其次，需要使用LLM建立AI模型；最後，需要透過測試和驗證確保AI系統的可靠性和準確度。</p>    <h2>編輯悄悄話</h2>    <p>AI革命來了！你準備好迎接這個挑戰了嗎？透過Building Reliable Agentic AI Systems，你可以學習如何建立可靠的AI系統，提高工作效率和精準度。不要等待，現在就開始吧！",
+    "score": 90,
+    "takeaways": [
+      "了解如何使用LLM（Large Language Model）建立可靠的AI系統",
+      "學習如何將AI應用於實際的研究和開發中",
+      "發現如何透過AI提高工作效率和精準度"
+    ],
+    "punchline": "AI不再只是未來，現在就能改變你的工作方式！",
+    "social_posts": {
+      "threads": "你們有沒有想過，有一套系統可以幫你快速找到 décades 的研究資料，並且能夠回答複雜的問題，甚至幫你撰寫文件？\n這就是Building Reliable Agentic AI Systems的精髓。\n#AI #AgenticAI #LLM",
+      "facebook": "發現如何透過AI提高工作效率和精準度！建立可靠的Agentic AI系統可以幫助你完成複雜的工作，例如研究和開發。點擊連結了解更多：https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "viral_hook": "AI不再只是未來，現在就能改變你的工作方式！"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "012",
+    "title": "AI 掛號費要爆炸？OpenAI 推出新用量分析和支出控制，讓企業用 AI 更有信心",
+    "summary": "OpenAI 新推出的用量分析和支出控制功能，讓企業能夠更好地管理 AI 的使用和支出，避免意外的掛號費",
+    "content": "<p>隨著 AI 日漸成為工作中的一部分，企業需要能夠更好地管理 AI 的使用和支出。OpenAI 新推出的用量分析和支出控制功能，就能夠幫助企業做到這一點。</p>    <h2>什麼是用量分析和支出控制？</h2>    <p>用量分析和支出控制功能可以讓企業更好地了解 AI 的使用情況，包括使用者、產品和模型的用量等。這樣，企業就可以更好地管理 AI 的使用和支出，避免意外的掛號費。</p>    <h2>如何使用用量分析和支出控制功能？</h2>    <p>企業可以通過 OpenAI 的 Global Admin Console 來使用用量分析和支出控制功能。這個功能可以讓企業設定預設限制、配置限制和創建個別覆蓋，讓個別使用者可以看到自己的用量和可用的預算，同時也可以請求增加用量。</p>    <h2>編輯悄悄話</h2>    <p>AI 的使用和支出管理是一個非常重要的問題，OpenAI 的新功能可以幫助企業更好地管理 AI 的使用和支出。所以，如果你是企業的管理者，別再猶豫了，趕快去了解一下 OpenAI 的新功能吧！",
+    "score": 90,
+    "takeaways": [
+      "OpenAI 推出新用量分析和支出控制功能",
+      "企業能夠更好地管理 AI 的使用和支出",
+      "避免意外的掛號費和提高 AI 的使用效率"
+    ],
+    "punchline": "AI 掛號費要爆炸？",
+    "social_posts": {
+      "threads": "有沒有發現 AI 的使用和支出管理是一個非常重要的問題？\nOpenAI 的新功能可以幫助企業更好地管理 AI 的使用和支出。\n讓我們一起來了解一下吧！",
+      "facebook": "OpenAI 推出新用量分析和支出控制功能，讓企業能夠更好地管理 AI 的使用和支出。了解更多：https://www.openai.com/",
+      "viral_hook": "AI 掛號費要爆炸？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1ehSOdp5G7FxMMtynCUoLV/c5d7539672c8a3dd93a3c058f70e7661/Spend_Controls_SEO.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "date": "2026-06-21"
+  }
+]
