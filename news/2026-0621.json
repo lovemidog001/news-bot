@@ -262,5 +262,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
     "date": "2026-06-21"
+  },
+  {
+    "id": "013",
+    "title": "金融機構的新戰場：Agentic SOC如何抵禦AI駭客?",
+    "summary": "AI駭客威脅加速，金融機構正在轉向Agentic安全運營，統一數據、上下文智慧和運營韌性成為未來SOC的基石",
+    "content": "<p>AI駭客威脅加速，金融機構正在轉向Agentic安全運營，統一數據、上下文智慧和運營韌性成為未來SOC的基石。這意味著金融機構需要升級安全運營，利用AI和數據分析來抵禦駭客威脅。</p>    <h2>Agentic SOC的優勢</h2>    <p>Agentic SOC可以幫助金融機構加速威脅檢測和調查，減少分析師警報疲勞，提高事件響應和恢復時間。同時，Agentic SOC還可以幫助金融機構加強網絡韌性和業務連續性，提高對於混合環境的可視性。</p>    <h2>實施Agentic SOC的挑戰</h2>    <p>實施Agentic SOC的挑戰在於需要統一數據和上下文智慧。金融機構需要整合各種數據源，包括核心銀行平台、交易基礎設施、第三方生態系統等。同時，金融機構還需要確保AI系統的可解釋性和透明度，確保AI系統的決策過程是可追蹤和可審計的。</p>    <h2>編輯悄悄話</h2>    <p>Agentic SOC是金融機構的新戰場，誰能夠先適應這個新的戰場，誰就能夠贏得未來的安全運營競爭。金融機構需要現在就開始行動，升級安全運營，利用AI和數據分析來抵禦駭客威脅。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI駭客威脅日益加劇，金融機構需要升級安全運營",
+      "Agentic SOC可以幫助金融機構加速威脅檢測和調查",
+      "統一數據和上下文智慧是Agentic SOC的基石"
+    ],
+    "punchline": "Agentic SOC是金融機構的新戰場",
+    "social_posts": {
+      "threads": "金融機構的新戰場：Agentic SOC如何抵禦AI駭客？\nAI駭客威脅加速，金融機構正在轉向Agentic安全運營...\n#AgenticSOC #金融機構 #AI駭客",
+      "facebook": "金融機構的新戰場：Agentic SOC如何抵禦AI駭客？\nAI駭客威脅加速，金融機構正在轉向Agentic安全運營...\n點擊鏈接了解更多：[鏈接]\n#AgenticSOC #金融機構 #AI駭客",
+      "viral_hook": "AI駭客威脅加速，金融機構的新戰場是..."
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltdd163914e35d3ac7/6a340e35b11c5406b1bd7bf1/finserv-agentic-soc-blog_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/agentic-soc-for-financial-services",
+    "date": "2026-06-21"
+  },
+  {
+    "id": "014",
+    "title": "12 款開源 LLMs 大PK！哪一個最適合你的 AI 專案？",
+    "summary": "想在 AI 項目中脫穎而出？了解這 12 款開源 LLMs 的優缺點，讓你在競爭中佔據先機！",
+    "content": "<p>近年來，AI 技術在各個領域中得到廣泛應用，但是如何選擇合適的 LLMs 來實現你的 AI 專案呢？這篇文章將為你介紹 12 款開源 LLMs 的優缺點和適用場景，讓你在競爭中佔據先機！</p>    <h2>什麼是 LLMs？</h2>    <p>LLMs（Large Language Models）是一種大規模的語言模型，它可以處理大量的文本數據和任務。LLMs 的優點在於可以學習到語言的複雜結構和語義關係，從而實現更好的文本生成、翻譯和問答等任務。</p>    <h2>12 款開源 LLMs 的比較</h2>    <ul>      <li>Llama 4 Scout：Meta 的第一個本地多模態開源模型</li>      <li>DeepSeek V4：一個混合專家模型，具有本地百萬令牌上下文窗口</li>      <li>Qwen3：阿里巴巴的旗艦開源模型，具有切換思考和非思考模式</li>      <li>Gemma 4：谷歌的開源模型家族，具有最廣泛的語言覆蓋</li>      <li>Phi 4：微軟的緊湊模型，訓練數據主要來自合成和精選數據</li>      <li>Mistral Small 3.1：一個具有長上下文窗口的 VLM 模型</li>      <li>Nemotron 3 Super：英偉達的混合 MoE 模型，具有百萬令牌上下文窗口</li>      <li>GLM 5.1：第一個開源模型超越 SWE-Bench Pro</li>      <li>Kimi K2.6：競爭力與領先的封閉模型相當，成本卻遠低於每百萬令牌</li>      <li>StarCoder2：最透明的代碼模型之一</li>      <li>OLMo 2 (AI2)：最完整的開源可複製性範例</li>      <li>Falcon 3：一系列輕量級開源模型，適合單個 GPU 運行</li>    </ul>    <h2>編輯悄悄話</h2>    <p>選擇合適的 LLMs 是實現 AI 專案成功的關鍵。希望這篇文章能夠為你提供有價值的參考和幫助！</p>",
+    "score": 90,
+    "takeaways": [
+      "開源 LLMs 可以大幅降低 AI 專案的成本",
+      "不同 LLMs 的架構和功能差異很大，需要根據專案需求進行選擇",
+      "SLMs 和 LLMs 的差異在於架構、任務複雜度、長度回憶和延遲成本等方面"
+    ],
+    "punchline": "選擇合適的 LLMs，讓你的 AI 專案更上一層樓！",
+    "social_posts": {
+      "threads": "你知道嗎？選擇合適的 LLMs 可以大幅降低 AI 專案的成本！\n哪一個 LLMs 最適合你的專案呢？\n#LLMs #AI #專案",
+      "facebook": "選擇合適的 LLMs，讓你的 AI 專案更上一層樓！\n了解 12 款開源 LLMs 的優缺點和適用場景，讓你在競爭中佔據先機！\n#LLMs #AI #專案",
+      "viral_hook": "你知道嗎？12 款開源 LLMs 中哪一個最適合你的 AI 專案呢？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!BYbF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F220c32aa-4313-4278-ae43-4d2d1b5b8875_2508x3000.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ep219-12-open-source-llms",
+    "date": "2026-06-21"
   }
 ]
