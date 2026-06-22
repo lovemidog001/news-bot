@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "研究機密外洩了！你的研究代理商能保密嗎？",
+    "summary": "研究機密外洩的風險越來越高，你的研究代理商能否保密？了解最新的MosaicLeaks事件，保護你的研究成果",
+    "content": "<p>近期，研究機密外洩的事件層出不窮，讓許多研究人員感到憂心。最新的MosaicLeaks事件，更是讓大家意識到研究代理商的保密性至關重要。</p>    <h2>什麼是MosaicLeaks？</h2>    <p>MosaicLeaks是一個關於研究機密外洩的事件，涉及多個研究代理商和機構。這個事件讓大家看到，研究機密外洩的風險越來越高，研究人員需要更加重視自己的研究成果的安全。</p>    <h2>如何保護你的研究成果</h2>    <p>為了保護你的研究成果，需要了解研究代理商的保密性，選擇可靠的代理商，並且定期檢查自己的研究成果的安全。同時，也需要了解相關的法律法規，保護自己的權益。</p>    <h2>編輯悄悄話</h2>    <p>研究機密外洩的風險越來越高，大家需要更加重視自己的研究成果的安全。選擇可靠的代理商，了解相關的法律法規，保護自己的權益。別讓你的研究成果變成別人的研究成果！</p>",
+    "score": 90,
+    "takeaways": [
+      "研究機密外洩的風險越來越高",
+      "研究代理商的保密性至關重要",
+      "了解MosaicLeaks事件可以幫助你保護研究成果"
+    ],
+    "punchline": "你的研究成果安全嗎？",
+    "social_posts": {
+      "threads": "你知道嗎？研究機密外洩的風險越來越高！\n你的研究代理商能保密嗎？\n了解最新的MosaicLeaks事件，保護你的研究成果",
+      "facebook": "研究機密外洩的風險越來越高！了解最新的MosaicLeaks事件，保護你的研究成果。選擇可靠的代理商，了解相關的法律法規，保護自己的權益",
+      "viral_hook": "你的研究成果安全嗎？"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/680ba1729f7688275d2ce0f4/hGCO4pOyJjijLPCbRT07v.webp",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "002",
+    "title": "讓 AI 更聰明！Amazon Bedrock AgentCore 的 Web Search 功能全面啟動",
+    "summary": "Amazon Bedrock AgentCore 的 Web Search 功能讓 AI 可以即時從網路上獲取最新資訊，打破了以往 AI 知識被凍結在訓練時的限制",
+    "content": "<p>Amazon Bedrock AgentCore 的 Web Search 功能是讓 AI 可以即時從網路上獲取最新資訊的關鍵。這個功能可以讓 AI 獲取最新的股票價格、運動比賽結果、以及剛剛發布的新聞等資訊。</p>    <h2>什麼是 Amazon Bedrock AgentCore 的 Web Search 功能？</h2>    <p>Amazon Bedrock AgentCore 的 Web Search 功能是一個完全管理的、Model Context Protocol (MCP)-相容的網路搜索功能。這個功能可以讓 AI 即時從網路上獲取最新資訊，無需自己建立和維護搜索引擎。</p>    <h2>如何使用 Amazon Bedrock AgentCore 的 Web Search 功能？</h2>    <p>使用 Amazon Bedrock AgentCore 的 Web Search 功能非常簡單。只需將您的應用程式連接到 AgentCore Gateway，即可使用 Web Search 功能。您可以使用標準工具和 API 來存取 Web Search 功能，並且可以將其與其他 MCP 工具一起使用。</p>    <h2>編輯悄悄話</h2>    <p>Amazon Bedrock AgentCore 的 Web Search 功能是讓 AI 更聰明的關鍵。它可以幫助企業解決 AI 知識被凍結在訓練時的限制，並且可以讓 AI 即時從網路上獲取最新資訊。所以，如果您想讓您的 AI 更聰明，請不要猶豫，立即使用 Amazon Bedrock AgentCore 的 Web Search 功能吧！",
+    "score": 90,
+    "takeaways": [
+      "Amazon Bedrock AgentCore 的 Web Search 功能可以讓 AI 即時從網路上獲取最新資訊",
+      "該功能採用 Amazon 維護的網路索引，涵蓋數十億份文件",
+      "該功能可以幫助企業解決 AI 知識被凍結在訓練時的限制"
+    ],
+    "punchline": "讓 AI 更聰明，從網路上獲取最新資訊",
+    "social_posts": {
+      "threads": "大家好！今天我要介紹一個非常酷的功能——Amazon Bedrock AgentCore 的 Web Search 功能！\n這個功能可以讓 AI 即時從網路上獲取最新資訊，打破了以往 AI 知識被凍結在訓練時的限制。\n想知道更多嗎？",
+      "facebook": "Amazon Bedrock AgentCore 的 Web Search 功能是讓 AI 更聰明的關鍵！這個功能可以讓 AI 即時從網路上獲取最新資訊，無需自己建立和維護搜索引擎。點擊連結了解更多：",
+      "viral_hook": "讓 AI 更聰明，從網路上獲取最新資訊！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/17/ml-21231.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "003",
+    "title": "面對瞬間斷電：Meta 如何打造超強韌性數據中心",
+    "summary": "Meta 推出 Instantaneous PowerLoss Storm 測試方案，確保數據中心在瞬間斷電時能保持運作，保護用戶資料安全",
+    "content": "<p>面對瞬間斷電，數據中心的韌性至關重要。Meta 推出 Instantaneous PowerLoss Storm 測試方案，旨在確保數據中心在瞬間斷電時能保持運作，保護用戶資料安全。</p>    <h2>什麼是 Instantaneous PowerLoss Storm?</h2>    <p>Instantaneous PowerLoss Storm 是 Meta 的一項新測試方案，旨在模擬瞬間斷電的情況，考驗數據中心的韌性。這項方案是 Meta 韌性工程的一部分，目的是確保數據中心在任何情況下都能保持運作。</p>    <h2>如何確保數據中心的韌性?</h2>    <p>Meta 的數據中心設計和測試對於保護用戶資料安全至關重要。數據中心的設計需要考慮到瞬間斷電的情況，確保數據中心在斷電時能保持運作。Meta 的工程師們使用各種工具和技術，例如 Belljar 測試和 Twine 恢復套件，來確保數據中心的韌性。</p>    <h2>編輯悄悄話</h2>    <p>瞬間斷電不再是問題，至少對於 Meta 的數據中心來說是如此。Meta 的韌性工程和 Instantaneous PowerLoss Storm 測試方案是數據中心安全的保證。用戶可以放心地使用 Meta 的服務，知道自己的資料是安全的。",
+    "score": 90,
+    "takeaways": [
+      "Meta 的數據中心已具備瞬間斷電的韌性",
+      "Instantaneous PowerLoss Storm 測試方案是 Meta 韌性工程的一部分",
+      "數據中心的設計和測試對於保護用戶資料安全至關重要"
+    ],
+    "punchline": "斷電不再是問題",
+    "social_posts": {
+      "threads": "你知道嗎？瞬間斷電不再是問題！Meta 的數據中心已具備瞬間斷電的韌性，保護用戶資料安全。#Meta #數據中心 #斷電",
+      "facebook": "Meta 推出 Instantaneous PowerLoss Storm 測試方案，確保數據中心在瞬間斷電時能保持運作，保護用戶資料安全。點擊連結了解更多！https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+      "viral_hook": "斷電不再是問題！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Validating-PowerLoss-Readiness-Meta-hero.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/03/data-center-engineering/lights-out-systems-on-validating-instant-power-loss-readiness/",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "004",
+    "title": "企業存儲大遷移：如何不失去商業連續性？",
+    "summary": "企業存儲遷移不僅僅是複製數據，而是關乎保護商業連續性、維持性能、管理成本和給團隊信心",
+    "content": "<p>企業存儲遷移是一個複雜的過程，需要仔細規劃和執行。它不僅僅是複製數據，而是關乎保護商業連續性、維持性能、管理成本和給團隊信心。</p><h2>什麼是企業存儲遷移？</h2><p>企業存儲遷移是指將企業的數據從舊有的存儲系統遷移到新的存儲系統的過程。這個過程需要考慮到商業連續性、性能和成本等因素，以確保數據的安全性和可用性。</p><h2>Azure Storage 的解決方案</h2><p>Azure Storage 提供了可靠的存儲解決方案，幫助企業實現數據遷移的目標。它提供了高性能、低延遲和高可用的存儲服務，同時也提供了豐富的數據管理和分析工具，幫助企業優化數據存儲和使用。</p><h2>編輯悄悄話</h2><p>數據遷移，不只是複製數據，而是關乎商業生存。企業需要仔細規劃和執行數據遷移，以確保商業連續性和數據安全性。Azure Storage 是一個不錯的選擇，幫助企業實現數據遷移的目標。</p>",
+    "score": 90,
+    "takeaways": [
+      "企業存儲遷移需要仔細規劃和執行",
+      "Azure Storage 提供了可靠的存儲解決方案",
+      "數據遷移需要考慮商業連續性、性能和成本"
+    ],
+    "punchline": "數據遷移，不只是複製數據，而是關乎商業生存",
+    "social_posts": {
+      "threads": "大家好！今天要談的是企業存儲遷移。數據遷移，不只是複製數據，而是關乎商業生存。企業需要仔細規劃和執行數據遷移，以確保商業連續性和數據安全性。 #企業存儲遷移 #數據遷移",
+      "facebook": "企業存儲遷移是一個複雜的過程，需要仔細規劃和執行。Azure Storage 提供了可靠的存儲解決方案，幫助企業實現數據遷移的目標。點擊鏈接了解更多！ https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+      "viral_hook": "數據遷移，不只是複製數據，而是關乎商業生存！"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "005",
+    "title": "金融機構的新戰場：如何建立主動性安全運營中心",
+    "summary": "隨著AI威脅的加速，金融機構需要建立主動性安全運營中心，統一數據、情境智慧和運營韌性是未來SOC的基礎",
+    "content": "<p>隨著AI威脅的加速，金融機構需要建立主動性安全運營中心。這意味著需要統一數據、情境智慧和運營韌性，以應對日益複雜的網絡威脅。</p>    <h2>什麼是主動性安全運營中心</h2>    <p>主動性安全運營中心是指使用AI技術來加速威脅偵測和調查，減少分析師警報疲勞，提高安全運營效率。這需要統一數據、情境智慧和運營韌性，以提供完整的安全視野。</p>    <h2>建立主動性安全運營中心的關鍵</h2>    <p>建立主動性安全運營中心需要以下幾個關鍵要素：統一數據、情境智慧、運營韌性和AI技術。這需要金融機構進行全面性的數據整合和安全運營改革，以建立一個高效、智能的安全運營中心。</p>    <h2>編輯悄悄話</h2>    <p>隨著AI威脅的加速，金融機構需要建立主動性安全運營中心，以應對日益複雜的網絡威脅。這需要金融機構進行全面性的數據整合和安全運營改革，以建立一個高效、智能的安全運營中心。不要等到為時已晚，現在就開始建立你的主動性安全運營中心吧！",
+    "score": 90,
+    "takeaways": [
+      "AI威脅加速，金融機構需要建立主動性安全運營中心",
+      "統一數據、情境智慧和運營韌性是未來SOC的基礎",
+      "AI主動性安全運營中心可以加速威脅偵測和調查，減少分析師警報疲勞"
+    ],
+    "punchline": "AI主動性安全運營中心是金融機構的未來",
+    "social_posts": {
+      "threads": "金融機構的新戰場：如何建立主動性安全運營中心？\n隨著AI威脅的加速，金融機構需要建立主動性安全運營中心，統一數據、情境智慧和運營韌性是未來SOC的基礎",
+      "facebook": "金融機構的新戰場：如何建立主動性安全運營中心？隨著AI威脅的加速，金融機構需要建立主動性安全運營中心，統一數據、情境智慧和運營韌性是未來SOC的基礎。點擊鏈接了解更多",
+      "viral_hook": "AI威脅加速，金融機構的安全運營中心如何應對？"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltdd163914e35d3ac7/6a340e35b11c5406b1bd7bf1/finserv-agentic-soc-blog_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/agentic-soc-for-financial-services",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "006",
+    "title": "你的工作流真的在进步吗？用這個公式來檢視吧",
+    "summary": "工作流评估体系，讓你洞悉進步與否",
+    "content": "<p>你是否曾經懷疑自己的工作流是否真的在進步？或者只是覺得自己在做事情，但不知道是否真的有效？</p>    <h2>工作流評估的重要性</h2>    <p>工作流評估是了解自己工作效率的關鍵步驟，它能夠幫助你找出問題所在，並且提供改善的方向。然而，如何建立一個量化的評估体系呢？</p>    <ul>      <li>設定明確的目標</li>      <li>收集相關數據</li>      <li>進行分析和評估</li>    </ul>    <h2>工作流改善的實際案例</h2>    <p>有一家公司通過建立工作流評估体系，成功提高了工作效率，減少了浪費，同時也提高了員工的滿意度。這個案例告訴我們，工作流評估不僅僅是理論上的東西，它可以真正地帶來實際的效果。</p>    <h2>編輯悄悄話</h2>    <p>工作流評估不是什麼高深的東西，只要你願意付出努力，就能夠看到自己的進步。所以，別再猶豫了，開始建立自己的工作流評估体系吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "工作流評估的重要性",
+      "如何建立量化的評估体系",
+      "工作流改善的實際案例"
+    ],
+    "punchline": "工作流不再是感覺問題",
+    "social_posts": {
+      "threads": "工作流評估真的很重要！\n我最近在思考自己的工作流是否真的在進步...\n答案是：不一定\n但是我發現了一個方法，能夠真正地評估自己的工作流...\n就是建立一個量化的評估体系！\n你也可以試試看！",
+      "facebook": "工作流評估：你真的在進步嗎？\n了解工作流評估的重要性和建立量化評估体系的方法...\n點擊連結了解更多！",
+      "viral_hook": "工作流不再是感覺問題！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802116&idx=1&sn=8886f8c0078cc85a39ac97fa2deff22a",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "007",
+    "title": "12 個開源 LLMs 讓你在 2026 年大展身手！",
+    "summary": "了解 12 個頂級開源 LLMs 的優點和應用，讓你在 AI 領域佔據先機",
+    "content": "<p>在 2026 年，AI 已經成為工程工作中的重要組成部分，不過只有約五分之一的 AI 應用可以獨立運行，而不需要人工干預。這是因為代理模型缺乏上下文。</p>    <h2>了解開源 LLMs</h2>    <p>本文介紹了 12 個頂級開源 LLMs，每個都有其獨特的優點。例如，Llama 4 Scout 是 Meta 的第一個原生多模態開源模型，而 DeepSeek V4 是一個混合專家模型，具有原生百萬令牌上下文窗口。</p>    <h2>SLMs 和 LLMs 的差異</h2>    <p>SLMs 和 LLMs 在架構、任務複雜性、長上下文回憶、延遲和成本、部署和隱私等方面都有所不同。了解這些差異可以幫助你選擇適合的模型。</p>    <h2>編輯悄悄話</h2>    <p>開源 LLMs 的時代已經來臨，選擇合適的模型可以讓你在 AI 領域佔據先機。不要猶豫，立即開始探索這 12 個頂級開源 LLMs 吧！",
+    "score": 90,
+    "takeaways": [
+      "開源 LLMs 的優點和應用",
+      "SLMs 和 LLMs 的差異和選擇",
+      "如何部署和使用開源 LLMs"
+    ],
+    "punchline": "開源 LLMs 讓你大展身手！",
+    "social_posts": {
+      "threads": "大家好！今天我想分享 12 個頂級開源 LLMs 的優點和應用。這些模型可以幫助你在 AI 領域佔據先機。 #開源LLMs #AI",
+      "facebook": "了解 12 個頂級開源 LLMs 的優點和應用，讓你在 AI 領域佔據先機。點擊鏈接查看詳細內容！",
+      "viral_hook": "12 個開源 LLMs 讓你在 2026 年大展身手！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!BYbF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F220c32aa-4313-4278-ae43-4d2d1b5b8875_2508x3000.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ep219-12-open-source-llms",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "008",
+    "title": "AI 大戰：馬斯克慘敗、OpenAI 突圍、谷歌崛起！",
+    "summary": "馬斯克的 1500 億美元訴訟被駁回，OpenAI 預計於今年秋季上市，谷歌也推出新一代 AI 模型，AI 大戰進入白熱化階段！",
+    "content": "<p>最近，AI 界發生了重大變化。馬斯克的 1500 億美元訴訟被駁回，OpenAI 突圍而出，預計於今年秋季上市。同時，谷歌也推出新一代 AI 模型，挑戰 OpenAI 和 Anthropic。</p><h2>馬斯克慘敗</h2><p>馬斯克的訴訟被駁回，主要原因是他遲遲未能提出訴訟。OpenAI 的 CEO Sam Altman 表示，公司將繼續發展，無視馬斯克的干擾。</p><h2>OpenAI 突圍</h2><p>OpenAI 預計於今年秋季上市，估值高達 1 萬億美元。公司的 CEO Sam Altman 表示，公司將繼續發展 AI 技術，挑戰谷歌和 Anthropic。</p><h2>谷歌崛起</h2><p>谷歌推出新一代 AI 模型，挑戰 OpenAI 和 Anthropic。公司的 CEO Sundar Pichai 表示，谷歌將繼續發展 AI 技術，成為 AI 界的領導者。</p><h2>編輯悄悄話</h2><p>AI 大戰，誰會贏？馬斯克的慘敗、OpenAI 的突圍、谷歌的崛起，讓人們對 AI 界的未來充滿期待。誰會成為 AI 界的領導者？還有待觀察。</p>",
+    "score": 90,
+    "takeaways": [
+      "馬斯克的訴訟被駁回，OpenAI 突圍而出",
+      "OpenAI 預計於今年秋季上市，估值高達 1 萬億美元",
+      "谷歌推出新一代 AI 模型，挑戰 OpenAI 和 Anthropic"
+    ],
+    "punchline": "AI 大戰，誰會贏？",
+    "social_posts": {
+      "threads": "AI 大戰，誰會贏？馬斯克的慘敗、OpenAI 的突圍、谷歌的崛起，讓人們對 AI 界的未來充滿期待。誰會成為 AI 界的領導者？還有待觀察。",
+      "facebook": "AI 大戰進入白熱化階段！馬斯克的 1500 億美元訴訟被駁回，OpenAI 預計於今年秋季上市，谷歌也推出新一代 AI 模型。誰會贏？",
+      "viral_hook": "AI 大戰，馬斯克慘敗！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "009",
+    "title": "Next.js 大改版！跨平台部署新時代",
+    "summary": "Next.js 16.2 推出穩定的 Adapter API，讓跨平台部署更容易！",
+    "content": "<p>Next.js 16.2 是一個重要的版本更新，它引入了穩定的 Adapter API，讓跨平台部署更容易。這意味著開發者可以輕鬆地將 Next.js 應用程式部署到不同的平台上，無需擔心兼容性問題。</p>    <h2>什麼是 Adapter API？</h2>    <p>Adapter API 是一個公共的 API，允許提供者（如 Netlify、Cloudflare、AWS Amplify 和 Google Cloud）建立自己的適配器，以便與 Next.js 應用程式進行交互。這意味著開發者可以使用相同的 Next.js 應用程式在不同的平台上部署，無需修改代碼。</p>    <h2>新版本的 Next.js 有什麼改進？</h2>    <p>新版本的 Next.js 提供了更好的性能和擴展性。它包括了一個新的渲染哲學、部署到平台的功能矩陣、PPR 平台指南、重新驗證的工作原理和 CDN 快取等功能。這些功能讓開發者可以更容易地建立和部署 Next.js 應用程式。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 的新時代，跨平台部署從此變得容易！開發者可以輕鬆地將 Next.js 應用程式部署到不同的平台上，無需擔心兼容性問題。這是一個重要的版本更新，讓 Next.js 成為了一個更加強大的和靈活的框架。</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.2 引入穩定的 Adapter API",
+      "跨平台部署更容易，無需擔心兼容性問題",
+      "新版本的 Next.js 提供更好的性能和擴展性"
+    ],
+    "punchline": "Next.js 的新時代，跨平台部署從此變得容易！",
+    "social_posts": {
+      "threads": "Next.js 大改版！跨平台部署新時代\n\nNext.js 16.2 推出穩定的 Adapter API，讓跨平台部署更容易！\n\n#Nextjs #跨平台部署",
+      "facebook": "Next.js 大改版！跨平台部署新時代\n\nNext.js 16.2 推出穩定的 Adapter API，讓跨平台部署更容易！\n\n了解更多：[連結]\n\n#Nextjs #跨平台部署",
+      "viral_hook": "Next.js 的新時代，跨平台部署從此變得容易！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "010",
+    "title": "英國智慧解決房荒！AI加速規劃，房子快等不及你了",
+    "summary": "英國政府攜手Google DeepMind，打造AI智慧規劃系統，讓你買房的夢想更近了一步",
+    "content": "<p>英國政府近日宣布與Google DeepMind合作，開發一套AI智慧規劃系統，旨在加速房屋建設規劃，減少等待時間。這項合作將為英國房地產市場帶來革命性的變化。</p>    <h2>什麼是AI智慧規劃系統？</h2>    <p>AI智慧規劃系統是一種利用人工智慧技術，分析和處理大量數據，快速生成房屋建設規劃方案的系統。這個系統可以幫助政府和房地產開發商快速評估和批准房屋建設計畫，減少等待時間，提高效率。</p>    <h2>英國政府的目標</h2>    <p>英國政府的目標是利用AI智慧規劃系統，增加房屋建設的速度和效率，解決英國長期以來的房荒問題。這項合作將為英國房地產市場帶來新的機遇和挑戰。</p>    <h2>編輯悄悄話</h2>    <p>AI來了，房子趕上囉！英國政府的這項合作，讓我們看到了科技在解決現實問題上的無限可能性。期待這項合作能帶來更多的創新和變革！</p>",
+    "score": 85,
+    "takeaways": [
+      "英國政府與Google DeepMind合作開發AI智慧規劃系統",
+      "AI系統可以加速房屋建設規劃，減少等待時間",
+      "這項合作將為英國房地產市場帶來革命性的變化"
+    ],
+    "punchline": "AI來了，房子趕上囉!",
+    "social_posts": {
+      "threads": "你知道嗎？英國政府正在使用AI來解決房荒問題！這項合作將為英國房地產市場帶來革命性的變化。什麼是AI智慧規劃系統？它可以幫助政府和房地產開發商快速評估和批准房屋建設計畫，減少等待時間，提高效率。",
+      "facebook": "英國政府攜手Google DeepMind，打造AI智慧規劃系統，讓你買房的夢想更近了一步。了解更多關於這項合作的詳情，和我們一起探討這項科技在解決現實問題上的應用！",
+      "viral_hook": "AI來了，房子趕上囉！英國政府的這項合作，讓我們看到了科技在解決現實問題上的無限可能性。"
+    },
+    "image": "https://lh3.googleusercontent.com/kc7RMwXGDfJAoCsgs6pUuONGMXePGbvF_q_i8i-bWBBakQ91O8VYPk8cyHfpOD1uF-lw8Mk6pd2JpXofi5n4qNoNziPol46lBMmZuxoG9NKl16CW=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "011",
+    "title": "AI研發的新革命：如何打造可靠的AI系統？",
+    "summary": "想像一下，有一套AI系統可以幫你查詢數十年的研究報告，並且能夠回答複雜的問題，甚至幫你撰寫文件。這個夢想正在變成現實",
+    "content": "<p>你是否曾經想像過，有一套AI系統可以幫你查詢數十年的研究報告，並且能夠回答複雜的問題，甚至幫你撰寫文件？這個夢想正在變成現實。最近，一個與Bayer合作的項目成功地建立了一個AI系統，能夠幫助研究人員查詢數十年的研究報告，並且能夠回答複雜的問題，甚至幫你撰寫文件。</p>    <h2>什麼是可靠的AI系統？</h2>    <p>可靠的AI系統需要透明度、解釋性和韌性。透明度意味著AI系統需要能夠解釋其決策過程和結果。解釋性意味著AI系統需要能夠提供明確的答案和建議。韌性意味著AI系統需要能夠在錯誤或意外的情況下恢復和修復自己。</p>    <h2>如何打造可靠的AI系統？</h2>    <p>打造可靠的AI系統需要多個步驟，包括設計、開發、測試和部署。在設計階段，需要定義AI系統的目標和要求。在開發階段，需要選擇合適的算法和模型。在測試階段，需要評估AI系統的性能和安全性。在部署階段，需要確保AI系統能夠在實際環境中運行順暢。</p>    <h2>編輯悄悄話</h2>    <p>AI的未來就在眼前，讓我們一起期待和探索這個未來吧！",
+    "score": 85,
+    "takeaways": [
+      "AI系統可以幫助研究人員查詢數十年的研究報告",
+      "AI系統可以回答複雜的問題和撰寫文件",
+      "可靠的AI系統需要透明度、解釋性和韌性"
+    ],
+    "punchline": "AI的未來就在眼前",
+    "social_posts": {
+      "threads": "你是否曾經想像過，有一套AI系統可以幫你查詢數十年的研究報告，並且能夠回答複雜的問題，甚至幫你撰寫文件？這個夢想正在變成現實...\n\n#AI #研究 #文件",
+      "facebook": "最近，一個與Bayer合作的項目成功地建立了一個AI系統，能夠幫助研究人員查詢數十年的研究報告，並且能夠回答複雜的問題，甚至幫你撰寫文件。這個項目的成功意味著AI的未來就在眼前！",
+      "viral_hook": "AI的未來就在眼前，你準備好了嗎？"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "012",
+    "title": "三星電子率先導入ChatGPT和Codex，員工生產力將大幅提升？",
+    "summary": "三星電子將ChatGPT Enterprise和Codex導入全球員工中，標誌著OpenAI最大的企業AI部署之一，員工生產力和問題解決能力將大幅提升",
+    "content": "<p>三星電子最近宣布將ChatGPT Enterprise和Codex導入全球員工中，標誌著OpenAI最大的企業AI部署之一。這次導入將使員工可以更高效地完成工作，包括搜索和分析信息、撰寫文件、開發想法和解釋數據等。</p>    <h2>ChatGPT和Codex的功能</h2>    <p>ChatGPT是一種可以協助員工完成各種工作的AI工具，包括搜索和分析信息、撰寫文件、開發想法和解釋數據等。Codex是一種可以增強開發人員生產力的工具，包括撰寫、審核和調試代碼等。除了開發人員，非技術人員也可以使用Codex來完成日常工作，例如將想法轉化為工作軟件、內部工具、網站和自動化工作流程等。</p>    <h2>編輯悄悄話</h2>    <p>三星電子導入ChatGPT和Codex，標誌著AI時代的來臨。未來，更多企業將會導入AI技術，以提高生產力和競爭力。作為員工，需要不斷學習和適應新的技術，以保持競爭力。同時，企業也需要考慮AI的安全性和倫理問題，確保AI技術的使用是合法和合理的。",
+    "score": 85,
+    "takeaways": [
+      "三星電子導入ChatGPT和Codex，員工可以更高效地完成工作",
+      "ChatGPT和Codex可以增強員工的生產力和問題解決能力",
+      "這次導入是OpenAI最大的企業AI部署之一，將對企業界產生重大影響"
+    ],
+    "punchline": "AI時代來臨，三星電子率先導入ChatGPT和Codex",
+    "social_posts": {
+      "threads": "三星電子導入ChatGPT和Codex，員工生產力將大幅提升？\n這次導入是OpenAI最大的企業AI部署之一，將對企業界產生重大影響\n#AI #ChatGPT #Codex",
+      "facebook": "三星電子率先導入ChatGPT和Codex，員工生產力和問題解決能力將大幅提升！\n點擊連結了解更多：https://www.example.com\n#AI #ChatGPT #Codex",
+      "viral_hook": "三星電子導入ChatGPT和Codex，AI時代來臨！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/18IGXqgYieQfH2AcUiYbua/4975e902fc7b1eb55f0863da06f82c92/samsung-electronics-16_9.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "date": "2026-06-22"
+  }
+]
