@@ -284,5 +284,71 @@
     "source": "deeplearning.ai",
     "url": "https://www.deeplearning.ai/the-batch/issue-358",
     "date": "2026-06-22"
+  },
+  {
+    "id": "014",
+    "title": "超強OCR登場！PP-OCRv6登陸Hugging Face，50國語言識別參數從150萬增至3450萬",
+    "summary": "PP-OCRv6登陸Hugging Face，支援50國語言識別，參數從150萬增至3450萬，讓文字識別更加精確",
+    "content": "<p>近日，PP-OCRv6登陸Hugging Face，支援50國語言識別，參數從150萬增至3450萬，讓文字識別更加精確。這個強大的OCR工具將會改變我們對文字識別的認知。</p>    <h2>什麼是PP-OCRv6</h2>    <p>PP-OCRv6是一個基於深度學習的OCR工具，能夠識別多種語言的文字。它的特點是能夠學習和記憶大量的文字樣本，從而提高識別精度。</p>    <h2>PP-OCRv6的優勢</h2>    <ul>      <li>支援50國語言識別</li>      <li>參數從150萬增至3450萬，提高識別精度</li>      <li>登陸Hugging Face，開發者可輕鬆整合</li>    </ul>    <h2>編輯悄悄話</h2>    <p>PP-OCRv6的出現，讓我們看到了文字識別的未來。它不僅能夠提高識別精度，也能夠讓開發者更容易地整合到自己的應用中。讓我們一起期待PP-OCRv6的發展吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "PP-OCRv6支援50國語言識別",
+      "參數從150萬增至3450萬，提高識別精度",
+      "登陸Hugging Face，開發者可輕鬆整合"
+    ],
+    "punchline": "PP-OCRv6：文字識別的新革命",
+    "social_posts": {
+      "threads": "PP-OCRv6登陸Hugging Face！\n支援50國語言識別\n參數從150萬增至3450萬\n讓文字識別更加精確\n#PP-OCRv6 #HuggingFace",
+      "facebook": "PP-OCRv6登陸Hugging Face！支援50國語言識別，參數從150萬增至3450萬，讓文字識別更加精確。讓我們一起期待PP-OCRv6的發展吧！",
+      "viral_hook": "PP-OCRv6：文字識別的新革命"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/652b2e9166313ebb6197e706/l156KP0e5PRyDrE4woHoM.jpeg",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "015",
+    "title": "AI編程革命來了！Loop Engineering實戰指南",
+    "summary": "AI編程第三次革命，Loop Engineering是關鍵！了解如何在Code Buddy中構建自主循環系統",
+    "content": "<p>你是否正在等待AI編程的下一個革命？現在，Loop Engineering實戰指南來了！這個指南將教你如何在Code Buddy中構建自主循環系統，提高編程效率，迎接AI編程的新時代。</p>    <h2>什麼是Loop Engineering？</h2>    <p>Loop Engineering是一種新的編程方法，使用AI技術來構建自主循環系統。這種方法可以提高編程效率，減少錯誤，提高程式的穩定性。</p>    <h2>如何在Code Buddy中構建自主循環系統</h2>    <p>Code Buddy是構建自主循環系統的最佳工具。使用Code Buddy，你可以輕鬆地構建和測試自主循環系統，提高編程效率，迎接AI編程的新時代。</p>    <h2>編輯悄悄話</h2>    <p>AI編程的新時代來了！你是否已經準備好迎接這個挑戰？使用Loop Engineering和Code Buddy，你可以提高編程效率，迎接AI編程的新時代。現在就開始吧！",
+    "score": 90,
+    "takeaways": [
+      "Loop Engineering是AI編程的未來",
+      "Code Buddy是構建自主循環系統的最佳工具",
+      "掌握Loop Engineering可以提高編程效率"
+    ],
+    "punchline": "AI編程的新時代來了！",
+    "social_posts": {
+      "threads": "AI編程的新時代來了！\n使用Loop Engineering和Code Buddy，你可以提高編程效率，迎接AI編程的新時代。\n現在就開始吧！",
+      "facebook": "AI編程革命來了！Loop Engineering實戰指南教你如何在Code Buddy中構建自主循環系統，提高編程效率，迎接AI編程的新時代。點擊連結了解更多！",
+      "viral_hook": "AI編程的新時代來了！你是否已經準備好迎接這個挑戰？"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802117&idx=1&sn=a91a32e0b00305c1a30f4a6684c3c6b2",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "016",
+    "title": "AI-Native 領導力：組織變革的終極秘訣",
+    "summary": "個人成就不等於組織成就，讓我們一起探索 AI-Native 領導力的組織變革之路",
+    "content": "<p>AI-Native 領導力是組織變革的終極秘訣。讓我們一起探索這個變革的世界。</p>    <h2>什麼是 AI-Native 領導力？</h2>    <p>AI-Native 領導力是指使用 AI 技術來改善組織的運作和決策。這種領導力可以帶來 2-10 倍的生產力提升和更好的組織績效。</p>    <p>但是，組織變革不容易。需要領導者和團隊成員共同努力來實現這種變革。</p>    <h2>如何實現 AI-Native 領導力？</h2>    <p>實現 AI-Native 領導力的關鍵是建立小型、跨功能團隊。這種團隊可以運用 AI 技術來解決複雜的問題和改善組織的運作。</p>    <p>另外，領導者需要建立明確的目標和戰略，並且需要與團隊成員共同努力來實現這些目標。</p>    <h2>編輯悄悄話</h2>    <p>AI-Native 領導力是未來的關鍵。讓我們一起探索這個變革的世界，和實現組織的變革和提升。",
+    "score": 90,
+    "takeaways": [
+      "AI-Native 領導力是組織變革的關鍵",
+      "小型、跨功能團隊是 AI-Native 工程的核心",
+      "AI 技術可以帶來 2-10 倍的生產力提升"
+    ],
+    "punchline": "AI-Native 領導力是未來的關鍵",
+    "social_posts": {
+      "threads": "      什麼是 AI-Native 領導力？      這種領導力可以帶來 2-10 倍的生產力提升和更好的組織績效。      讓我們一起探索這個變革的世界。    ",
+      "facebook": "      AI-Native 領導力是組織變革的終極秘訣。讓我們一起探索這個變革的世界。      這種領導力可以帶來 2-10 倍的生產力提升和更好的組織績效。    ",
+      "viral_hook": "AI-Native 領導力是未來的關鍵！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!hdqK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae91d789-bccc-4345-9326-d0ff3d5a701b_1769x2048.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ai-native-leaders-the-organizational",
+    "date": "2026-06-22"
   }
 ]
