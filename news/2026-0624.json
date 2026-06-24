@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "用 CUGA 建立真實應用程式：二十四個實用範例讓你輕鬆上手",
+    "summary": "想建立自己的應用程式，但不知道從哪裡開始？CUGA 是你的最佳選擇，二十四個實用範例等你來發現",
+    "content": "<p>你是否曾想過建立自己的應用程式，但不知道從哪裡開始？現在，有一個好消息要告訴你：CUGA 是你的最佳選擇。CUGA 是一個輕量級的應用程式開發框架，讓你可以快速建立真實的應用程式。</p>    <h2>什麼是 CUGA？</h2>    <p>CUGA 是一個開源的框架，提供了一個簡單易用的 API，讓你可以建立各種應用程式。它的設計宗旨是讓開發者可以快速上手，無需複雜的設定。</p>    <h2>二十四個實用範例</h2>    <p>CUGA 提供了二十四個實用範例，涵蓋各種應用情境，從簡單的計算機到複雜的資料分析。這些範例都非常容易上手，讓你可以快速學習 CUGA 的使用方法。</p>    <h2>編輯悄悄話</h2>    <p>如果你想建立自己的應用程式，但不知道從哪裡開始，CUGA 是你的最佳選擇。二十四個實用範例會讓你輕鬆上手，無需複雜的設定。快來試試看吧，CUGA 會讓你的應用程式開發變得簡單有趣！",
+    "score": 90,
+    "takeaways": [
+      "CUGA 是一個輕量級的應用程式開發框架",
+      "二十四個實用範例涵蓋各種應用情境",
+      "輕鬆上手，無需複雜的設定"
+    ],
+    "punchline": "CUGA 讓應用程式開發變得簡單",
+    "social_posts": {
+      "threads": "你也想建立自己的應用程式嗎？\n現在，有一個好消息要告訴你：CUGA 是你的最佳選擇\n二十四個實用範例會讓你輕鬆上手，無需複雜的設定\n快來試試看吧，CUGA 會讓你的應用程式開發變得簡單有趣！",
+      "facebook": "想建立自己的應用程式，但不知道從哪裡開始？CUGA 是你的最佳選擇！二十四個實用範例涵蓋各種應用情境，讓你可以快速建立真實的應用程式。點擊連結了解更多：[連結]",
+      "viral_hook": "你知道嗎？CUGA 可以讓你的應用程式開發變得簡單有趣！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/649d9ad1500fd8d51a675a93/p9JwFYkZS7fB9g2PMFMft.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "002",
+    "title": "革命性蛋白質研究助手：如何打造結合自然語言查詢、向量相似度搜索和AI生成摘要的強大工具",
+    "summary": "打造一個可以幫助蛋白質研究人員找到結構相似的肽序列的助手，結合自然語言查詢、向量相似度搜索和AI生成摘要，從此告別手動搜索的煩惱",
+    "content": "<p>蛋白質研究人員面臨著一個挑戰：手動搜索結構相似的肽序列是一個耗時、容易出錯且需要深入領域知識的過程。然而，通過打造一個結合自然語言查詢、向量相似度搜索和AI生成摘要的蛋白質研究助手，可以徹底改變研究人員的搜索方式。</p>    <h2>打造蛋白質研究助手的關鍵技術</h2>    <p>本文將介紹如何使用Amazon Bedrock AgentCore和Strands Agents SDK打造一個結合三個能力的蛋白質研究助手：自然語言查詢解析、向量相似度搜索和AI生成摘要。這個助手可以幫助研究人員快速找到結構相似的肽序列，並提供智能的搜索結果摘要。</p>    <h2>實踐和應用</h2>    <p>通過本文的指導，讀者可以打造自己的蛋白質研究助手，從此告別手動搜索的煩惱。同時，讀者也可以了解到向量相似度搜索和AI生成摘要在蛋白質研究中的應用，從而提高自己的研究效率和質量。</p>    <h2>編輯悄悄話</h2>    <p>蛋白質研究助手的打造不僅僅是一個技術問題，更是一個創新和應用的問題。通過本文的指導，希望讀者可以創造出自己的智能蛋白質研究工具，從而推動蛋白質研究的發展和進步。",
+    "score": 90,
+    "takeaways": [
+      "使用Amazon Bedrock AgentCore和Strands Agents SDK可以快速打造蛋白質研究助手",
+      "向量相似度搜索可以有效地找到結構相似的肽序列",
+      "AI生成摘要可以幫助研究人員快速理解搜索結果"
+    ],
+    "punchline": "告別手動搜索，迎接智能蛋白質研究新時代",
+    "social_posts": {
+      "threads": "你是否厭倦了手動搜索結構相似的肽序列？\n現在，有了一個革命性的蛋白質研究助手，可以幫助你快速找到結構相似的肽序列，\n並提供智能的搜索結果摘要。打造自己的蛋白質研究助手，從此告別手動搜索的煩惱！",
+      "facebook": "打造自己的蛋白質研究助手，從此告別手動搜索的煩惱！通過Amazon Bedrock AgentCore和Strands Agents SDK，可以快速打造一個結合自然語言查詢、向量相似度搜索和AI生成摘要的蛋白質研究助手。了解更多：https://example.com",
+      "viral_hook": "告別手動搜索，迎接智能蛋白質研究新時代！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/03/19630.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "003",
+    "title": "Meta如何為AI智能眼鏡打造超薄電池？",
+    "summary": "Meta的工程師如何克服挑戰，為AI智能眼鏡設計出超薄電池？",
+    "content": "<p>Meta的AI智能眼鏡需要超薄電池來提供足夠的能源，以支持如攝像頭、揚聲器、AI工作負載和顯示等功能。但是，如何將電池塞進眼鏡的臂架中呢？</p>    <h2>挑戰與機會</h2>    <p>傳統的電池技術無法滿足智能眼鏡的需求，因為它們難以重新塑形和縮小尺寸。Meta的工程師需要重新思考電池的製造方式，以滿足智能眼鏡的需求。</p>    <p>在Meta Tech Podcast的第86集中，主持人Pascal Hartig與Karthik和Myuran，Meta的鋼罐電池技術的工程師，進行了一次對話，討論了為智能眼鏡提供動力的技術。</p>    <h2>解決方案</h2>    <p>Meta的工程師開發出新的鋼罐電池技術，使用了切割和堆疊的電極材料層，實現了更低的阻抗和更高的能量密度。這種技術使得電池可以變得更加薄和輕，同時也提高了其能量儲存能力。</p>    <p>從第一代到第二代，Meta Ray-Ban的電池容量從160 mAh增加到210 mAh，約增長了30%。然而，產品的運行時間卻增加了一倍。這是因為系統級別的效率改進，包括硬件和軟件的優化，例如更好的電源管理和更緊密的韌體控制。</p>    <h2>編輯悄悄話</h2>    <p>Meta的超薄電池技術不僅適用於智能眼鏡，也可以應用於其他形式的硬件。這項技術的開發，代表了Meta在創新和技術方面的領先地位。同時，也為我們帶來了更多的想象空間，讓我們可以想象出更多的可能性和應用場景。",
+    "score": 90,
+    "takeaways": [
+      "Meta的AI智能眼鏡需要超薄電池來提供足夠的能源",
+      "傳統的電池技術無法滿足智能眼鏡的需求",
+      "Meta的工程師開發出新的鋼罐電池技術，實現了超薄電池的夢想"
+    ],
+    "punchline": "超薄電池，讓智能眼鏡變得更加強大",
+    "social_posts": {
+      "threads": "你知道嗎？Meta的AI智能眼鏡需要超薄電池來提供足夠的能源。但是，如何將電池塞進眼鏡的臂架中呢？\n\n傳統的電池技術無法滿足智能眼鏡的需求，因為它們難以重新塑形和縮小尺寸。Meta的工程師需要重新思考電池的製造方式，以滿足智能眼鏡的需求。\n\nMeta的工程師開發出新的鋼罐電池技術，使用了切割和堆疊的電極材料層，實現了更低的阻抗和更高的能量密度。",
+      "facebook": "Meta的AI智能眼鏡需要超薄電池來提供足夠的能源。但是，如何將電池塞進眼鏡的臂架中呢？傳統的電池技術無法滿足智能眼鏡的需求，因為它們難以重新塑形和縮小尺寸。Meta的工程師需要重新思考電池的製造方式，以滿足智能眼鏡的需求。如需更多信息，請點擊連結：",
+      "viral_hook": "你知道嗎？Meta的AI智能眼鏡需要超薄電池來提供足夠的能源！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Meta-Tech-Podcast-How-Meta-Built-Ultra-Narrow-Batteries-for-AI-Glasses-HERO.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "004",
+    "title": "數據搬家大作戰：Azure Storage 讓你輕鬆過渡",
+    "summary": "企業數據遷移不只是複製數據，還要保證商業連續性、維持效能、管理成本",
+    "content": "<p>數據是企業的生命線，數據遷移是一個非常重要的工作。然而，數據遷移不只是複製數據，還要保證商業連續性、維持效能、管理成本。Azure Storage 提供安全可靠的數據遷移方案，讓企業可以放心地進行數據遷移。</p>    <h2>數據遷移的挑戰</h2>    <p>數據遷移是一個複雜的工作，需要仔細規劃以避免資料損失。企業需要考慮到數據的安全性、效能、成本等因素。Azure Storage 提供了一個全面的數據遷移方案，包括數據評估、遷移規劃、遷移執行等。</p>    <h2>Azure Storage 的優勢</h2>    <p>Azure Storage 可以幫助企業節省成本和提高效能。Azure Storage 提供了一個安全可靠的數據存儲平台，讓企業可以放心地存儲和管理數據。另外，Azure Storage 還提供了一個高度可擴展的平台，讓企業可以根據需要擴展數據存儲容量。</p>    <h2>編輯悄悄話</h2>    <p>數據遷移不再是難事，Azure Storage 讓你輕鬆過渡。不要再猶豫，立即開始你的數據遷移之旅吧！",
+    "score": 85,
+    "takeaways": [
+      "Azure Storage 提供安全可靠的數據遷移方案",
+      "數據遷移需要仔細規劃以避免資料損失",
+      "Azure Storage 可以幫助企業節省成本和提高效能"
+    ],
+    "punchline": "數據搬家不再是難事",
+    "social_posts": {
+      "threads": "數據搬家大作戰！\nAzure Storage 讓你輕鬆過渡\n數據遷移不再是難事\n立即開始你的數據遷移之旅吧！",
+      "facebook": "企業數據遷移是一個非常重要的工作。Azure Storage 提供安全可靠的數據遷移方案，讓企業可以放心地進行數據遷移。點擊連結了解更多：https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+      "viral_hook": "數據搬家大作戰！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/FY26AE-Azure-Composite-Mint-005-H.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/modernize-your-data-with-azure-storage-plan-and-migrate-with-confidence/",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "005",
+    "title": "AI 資安大革命：5 大應用案例和避坑指南",
+    "summary": "AI 正在改變資安格局，帶來更強大的威脅偵測和應急能力，但也要注意避免錯誤的採用方式",
+    "content": "<p>AI 正在改變資安格局，帶來更強大的威脅偵測和應急能力。但是，AI 也有一些挑戰和考慮因素，要避免錯誤的採用方式。</p>    <h2>AI 資安的優勢</h2>    <p>AI 可以增強威脅偵測和應急能力，自動化安全流程，減少分析師的工作量。AI 還可以幫助識別內部威脅和資料外洩，提高資安的準確性和效率。</p>    <h2>5 大應用案例</h2>    <ul>      <li>AI 動力威脅偵測</li>      <li>SOC 自動化</li>      <li>事件應急</li>      <li>欺詐偵測和風險分析</li>      <li>資料接入</li>    </ul>    <h2>編輯悄悄話</h2>    <p>AI 資安是未來的趨勢，但是也要注意避免錯誤的採用方式。要成功采用 AI 資安，需要了解其優勢和挑戰，避免陷入錯誤的採用方式中。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 可以增強威脅偵測和應急能力",
+      "SOC 自動化可以減少分析師的工作量",
+      "AI 可以幫助識別內部威脅和資料外洩"
+    ],
+    "punchline": "AI 是資安的未來",
+    "social_posts": {
+      "threads": "AI 資安大革命：5 大應用案例和避坑指南\n\nAI 正在改變資安格局，帶來更強大的威脅偵測和應急能力...\n\n#AI #資安 #安全",
+      "facebook": "AI 資安大革命：5 大應用案例和避坑指南\n\nAI 正在改變資安格局，帶來更強大的威脅偵測和應急能力...\n\n點擊連結了解更多：[連結]\n\n#AI #資安 #安全",
+      "viral_hook": "AI 資安大革命：5 大應用案例和避坑指南"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blte44e3a46a0bea825/686d3ca9b6f4b42fd4083b98/blog-AI_adoption_in_security.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/ai-adoption-security",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "006",
+    "title": "AI 時代的工作衛生：7 個習慣讓你更有效率",
+    "summary": "Enri，一位騰訊 AI 產品工程師，分享了他在使用大模型的過程中學到的 7 個重要習慣，讓你在 AI 時代中工作更有效率",
+    "content": "<p>在 AI 時代，工作效率變得更加重要。Enri，一位騰訊 AI 產品工程師，分享了他在使用大模型的過程中學到的 7 個重要習慣。</p>    <h2>什麼是工作衛生？</h2>    <p>工作衛生不是指物理衛生，而是指交互習慣的衛生。Token 越來越便宜，但你的注意力和決策帶寬不會。脫離良好的工作習慣，模型變傻，腦子也跟著亂。</p>    <h2>7 個重要習慣</h2>    <ul>      <li>鎖死模型配置，避免 Token 消耗失控</li>      <li>利用緩存機制，減少重復工作</li>      <li>讓 AI 看一段，別掃一片，提高工作效率</li>      <li>別讓會話變垃圾桶，保持會話的清晰</li>      <li>讓模型先問，避免無謂的工作</li>      <li>把想和幹拆開，提高工作效率</li>      <li>注意工作衛生，保護你的腦子</li>    </ul>    <h2>編輯悄悄話</h2>    <p>在 AI 時代，工作效率變得更加重要。記得要注意工作衛生，保護你的腦子，讓你的工作變得更有效率，生活變得更美好！</p>",
+    "score": 90,
+    "takeaways": [
+      "鎖死模型配置，避免 Token 消耗失控",
+      "利用緩存機制，減少重復工作",
+      "讓 AI 看一段，別掃一片，提高工作效率"
+    ],
+    "punchline": "你的決策帶寬有限，注意 AI 時代的工作衛生",
+    "social_posts": {
+      "threads": "大家好，我想分享一下 Enri 的 7 個重要習慣，讓你在 AI 時代中工作更有效率。鎖死模型配置、利用緩存機制、讓 AI 看一段... 你們有什麼好的工作習慣嗎？",
+      "facebook": "在 AI 時代，工作效率變得更加重要。Enri 的 7 個重要習慣，讓你在 AI 時代中工作更有效率。分享給你的朋友，讓他們也能工作得更好！",
+      "viral_hook": "你的決策帶寬有限，注意 AI 時代的工作衛生！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802164&idx=1&sn=cbd6e39ed31765be87a5a97846dab9a8",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "007",
+    "title": "揭開前Meta高級工程師的祕密：如何用AI提升工作效率",
+    "summary": "前Meta高級工程師分享如何使用AI提升工作效率，讓你在工作中更有效率、更快樂",
+    "content": "<p>你是否曾經想過如何使用AI提升工作效率？前Meta高級工程師Kun Chen分享了他的經驗和祕密，讓你在工作中更有效率、更快樂。</p>    <h2>什麼是Agentic Engineering?</h2>    <p>Agentic Engineering是一種新的工程方法，使用AI來協助工程師完成工作。Kun Chen分享了他如何使用AI來建立自己的工作流，讓他可以更有效率地完成工作。</p>    <h2>如何建立自己的AI工作流</h2>    <p>Kun Chen分享了他如何建立自己的AI工作流，包括如何評估AI模型、如何建立開源工具、以及如何使用AI來完成工作。他還分享了他自己建立的工具和模型，讓你可以直接使用。</p>    <ul>      <li>使用開源工具建立自己的AI工作流</li>      <li>建立一個合適的AI評估框架</li>      <li>使用AI來完成工作</li>    </ul>    <h2>編輯悄悄話</h2>    <p>最後，編輯想說：使用AI來提升工作效率是未來的趨勢，如果你還沒有開始使用AI，現在是開始的最佳時機。不要害怕去嘗試和學習，讓AI成為你的得力助手，讓你在工作中更有效率、更快樂。</p>",
+    "score": 90,
+    "takeaways": [
+      "使用AI可以大幅提升工作效率",
+      "需要建立一個合適的AI評估框架",
+      "可以使用開源工具建立自己的AI工作流"
+    ],
+    "punchline": "讓AI成為你的得力助手",
+    "social_posts": {
+      "threads": "你是否曾經想過如何使用AI提升工作效率？\n前Meta高級工程師Kun Chen分享了他的經驗和祕密，讓你在工作中更有效率、更快樂。\n#AI #工作效率 #AgenticEngineering",
+      "facebook": "揭開前Meta高級工程師的祕密：如何用AI提升工作效率\nhttps://example.com\n#AI #工作效率 #AgenticEngineering",
+      "viral_hook": "讓AI成為你的得力助手，提升工作效率"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!C_cJ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8d830e6-0d98-4583-af68-4676eaaf7f07_1769x2048.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/an-ex-meta-l8s-agentic-engineering",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "008",
+    "title": "爆炸性新聞：Google Cloud Observability Analytics 讓你瞬間解決系統問題",
+    "summary": "Google Cloud Observability Analytics 結合 log 和 trace，讓你輕鬆分析系統問題，找出性能瓶頸，優化系統效能",
+    "content": "<p>你是否曾經為了解決系統問題而頭痛不已？現在，Google Cloud Observability Analytics 讓你可以輕鬆分析系統問題，找出性能瓶頸，優化系統效能。</p><h2>什麼是 Observability Analytics？</h2><p>Observability Analytics 是 Google Cloud Observability 的一部分，結合 log 和 trace，提供統一的分析體驗。它讓你可以輕鬆分析系統問題，找出性能瓶頸，優化系統效能。</p><h2>支援 SQL 查詢</h2><p>Observability Analytics 支援 SQL 查詢，讓你可以輕鬆分析系統問題。例如，你可以使用 SQL 查詢找出哪些工具最常導致延遲，或者哪些 API 端點有最高的錯誤率。</p><h2>分析 performance trends 和相關的 application 或 infrastructure logs</h2><p>Observability Analytics 能夠分析 performance trends 和相關的 application 或 infrastructure logs，讓你可以輕鬆找出系統問題的根源。</p><h2>編輯悄悄話</h2><p> Observability Analytics 是解決系統問題的最佳工具。它結合 log 和 trace，支援 SQL 查詢，能夠分析 performance trends 和相關的 application 或 infrastructure logs。現在，立即試用 Observability Analytics，瞬間解決系統問題！</p>",
+    "score": 90,
+    "takeaways": [
+      "Observability Analytics 結合 log 和 trace，提供統一的分析體驗",
+      "支援 SQL 查詢，讓你輕鬆分析系統問題",
+      "能夠分析 performance trends 和相關的 application 或 infrastructure logs"
+    ],
+    "punchline": "瞬間解決系統問題",
+    "social_posts": {
+      "threads": "你是否曾經為了解決系統問題而頭痛不已？現在，Google Cloud Observability Analytics 讓你可以輕鬆分析系統問題，找出性能瓶頸，優化系統效能。 #ObservabilityAnalytics #GoogleCloud",
+      "facebook": "Google Cloud Observability Analytics 是解決系統問題的最佳工具。它結合 log 和 trace，支援 SQL 查詢，能夠分析 performance trends 和相關的 application 或 infrastructure logs。立即試用 Observability Analytics，瞬間解決系統問題！",
+      "viral_hook": "瞬間解決系統問題？是的，現在有了 Google Cloud Observability Analytics！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/21_-_Management_Tools_EI9iqlb.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/management-tools/query-logs-and-traces-with-sql-in-observability-analytics/",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "009",
+    "title": "Musk慘敗！OpenAI勝訴後即將上市，谷歌也推出新AI模型",
+    "summary": "Elon Musk的150億美元訴訟被駁回，OpenAI即將上市，谷歌也推出新AI模型搶佔市場",
+    "content": "<p>最近，科技界發生了兩件大事：Elon Musk的150億美元訴訟被駁回，OpenAI即將上市；谷歌推出新AI模型，包括Gemini Spark和Antigravity 2.0。</p>    <h2>OpenAI勝訴後即將上市</h2>    <p>OpenAI的勝訴意味著該公司即將上市，預計今年秋天將在紐約證券交易所掛牌。這將是近年來最大的IPO之一，OpenAI的估值已經超過850億美元。</p>    <p>OpenAI的上市將給市場帶來新的機遇，也將加速AI技術的發展。該公司的CEO Sam Altman表示，OpenAI將繼續推動AI技術的發展，同時也將關注公司的財務健康。</p>    <h2>谷歌推出新AI模型</h2>    <p>谷歌在其年度開發者大會上推出了新AI模型，包括Gemini Spark和Antigravity 2.0。Gemini Spark是一個24/7的雲端AI代理，能夠幫助用戶完成各種任務；Antigravity 2.0是一個更新的桌面應用和CLI工具，能夠幫助開發者創建更好的AI模型。</p>    <p>谷歌的新AI模型將加速AI技術的發展，也將給市場帶來新的機遇。該公司的CEO Sundar Pichai表示，谷歌將繼續推動AI技術的發展，同時也將關注公司的財務健康。</p>    <h2>編輯悄悄話</h2>    <p>AI時代來臨，誰將佔據市場？這是目前科技界最大的問題。OpenAI和谷歌的最新動作意味著這兩家公司將在AI市場上進行激烈的競爭。誰將贏得這場競爭，還需要時間來證明。但有一點是肯定的：AI技術的發展將給市場帶來新的機遇，也將改變我們的生活方式。",
+    "score": 90,
+    "takeaways": [
+      "Musk的訴訟被駁回，OpenAI即將上市",
+      "谷歌推出新AI模型，包括Gemini Spark和Antigravity 2.0",
+      "AI技術的發展速度加快，各大公司紛紛推出新產品"
+    ],
+    "punchline": "AI時代來臨，誰將佔據市場?",
+    "social_posts": {
+      "threads": "Musk慘敗！OpenAI勝訴後即將上市，谷歌也推出新AI模型...誰將佔據市場？#AI #OpenAI #谷歌",
+      "facebook": "最近，科技界發生了兩件大事：Elon Musk的150億美元訴訟被駁回，OpenAI即將上市；谷歌推出新AI模型，包括Gemini Spark和Antigravity 2.0。這兩件事情意味著什麼？歡迎大家討論！#AI #OpenAI #谷歌",
+      "viral_hook": "AI時代來臨，誰將佔據市場？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 大改版！跨平台部署的新時代",
+    "summary": "Next.js 16.2 引入穩定的 Adapter API，讓跨平台部署更容易、更一致",
+    "content": "<p>Next.js 16.2 大改版，引入穩定的 Adapter API，讓跨平台部署更加容易、更加一致。</p><h2>什麼是 Adapter API？</h2><p>Adapter API 是一個讓開發者可以更容易地部署 Next.js 應用程式到不同的平台的介面。它讓開發者可以更容易地管理跨平台部署的複雜性，讓應用程式可以更順暢地運行。</p><h2>新時代的開始</h2><p>Next.js 16.2 的發佈標誌著 Next.js 的新時代的開始。新的 API 讓開發者可以更容易地部署 Next.js 應用程式，讓應用程式可以更順暢地運行。同時，也讓開發者可以更容易地管理跨平台部署的複雜性。</p><h2>編輯悄悄話</h2><p>Next.js 的新時代已經來臨，讓我們一起迎接這個新時代吧！",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.2 引入穩定的 Adapter API",
+      "跨平台部署更加容易、更加一致",
+      "新的 API 讓開發者可以更容易地部署 Next.js 應用程式"
+    ],
+    "punchline": "Next.js 的新時代已經來臨",
+    "social_posts": {
+      "threads": "Next.js 的新時代已經來臨！\n跨平台部署更加容易、更加一致\n新的 API 讓開發者可以更容易地部署 Next.js 應用程式\n讓我們一起迎接這個新時代吧！",
+      "facebook": "Next.js 16.2 大改版，引入穩定的 Adapter API！讓跨平台部署更加容易、更加一致。新的 API 讓開發者可以更容易地部署 Next.js 應用程式，讓應用程式可以更順暢地運行。點擊連結了解更多！",
+      "viral_hook": "Next.js 的新時代已經來臨！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "011",
+    "title": "AI 革命：如何打造可靠的智能系統？",
+    "summary": "想像有一個能夠回答你所有複雜問題的AI助手，現在，這個夢想正在變成現實！",
+    "content": "<p>你是否曾經想過，有一天AI會成為你的個人研究助手？現在，這個想法正在變成現實。通過與Bayer的合作，一個名為PRINCE的平台正在被開發，以幫助藥物研究人員查詢數十年的研究資料。</p>    <h2>從關鍵字搜尋到智能研究助手</h2>    <p>最初，PRINCE平台只是一个簡單的關鍵字搜尋工具，但通過不斷的演進和改進，它現在已經能夠回答複雜的問題和撰寫監管文件。這個轉變是如何實現的呢？</p>    <p>透過引入Agentic RAG系統，PRINCE平台現在可以理解用戶的意圖，進行反思和規劃，並根據用戶的需求提供答案。這個系統由多個代理人組成，每個代理人都有其特定的任務和功能。</p>    <h2>增強AI系統的可靠性</h2>    <p>要打造一個可靠的AI系統，需要透明度和解釋性。這意味著需要清楚地了解AI系統是如何工作的，以及它如何得出答案。同時，還需要工程設計和資料品質提升來增強AI系統的可靠性。</p>    <h2>編輯悄悄話</h2>    <p>AI革命正在來臨，現在是時候開始思考如何打造可靠的智能系統了。透過PRINCE平台的例子，我們可以看到AI如何從簡單的工具演變成智能的助手。未來，AI將會如何改變我們的生活呢？讓我們一起拭目以待！",
+    "score": 90,
+    "takeaways": [
+      "AI系統如何從簡單的關鍵字搜尋演進成智能的研究助手",
+      "透明度和解釋性是打造可靠AI系統的關鍵",
+      "如何通過工程設計和資料品質提升來增強AI系統的可靠性"
+    ],
+    "punchline": "AI助手：從搜尋到智能",
+    "social_posts": {
+      "threads": "你想有一個能夠回答你所有問題的AI助手嗎？現在，這個夢想正在變成現實！透過PRINCE平台的例子，我們可以看到AI如何從簡單的工具演變成智能的助手。#AI #智能助手",
+      "facebook": "AI 革命：如何打造可靠的智能系統？透過PRINCE平台的例子，我們可以看到AI如何從簡單的工具演變成智能的助手。讓我們一起探討AI的未來！#AI #智能助手",
+      "viral_hook": "AI助手：從搜尋到智能，你準備好迎接AI革命了嗎？"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-06-24"
+  },
+  {
+    "id": "012",
+    "title": "開啟人工智慧新時代：開放標準的力量",
+    "summary": "開放標準是實現人工智慧安全發展的關鍵，讓我們一起探索這個新時代的可能性",
+    "content": "<p>人工智慧的發展速度越來越快，越來越多的模型可以加強網路安全、加速科學發現、擴大專業知識的存取。但是，如果人工智慧的能力被誤解、安全措施不夠、或政府缺乏必要的信息來應對，人工智慧也可能創造安全和安全風險。為了安全地和自信地實現人工智慧的益處，社會需要具有技術和治理能力的機構來評估、保障和管治越來越強大的系統。</p>    <h2>開放標準的重要性</h2>    <p>開放標準是實現人工智慧安全發展的關鍵。開放標準可以讓第三方檢查符合標準，提高模型、基礎設施和應用的安全性。開放標準也可以促進國際合作，讓國家和機構之間可以共享技術語言和信任。</p>    <h2>未來的展望</h2>    <p>開放標準的發展是人工智慧安全發展的重要一步。未來，人工智慧的發展將越來越快，越來越多的模型將被開發和應用。為了確保人工智慧的安全發展，開放標準的重要性將越來越大。讓我們一起探索這個新時代的可能性，共同創建一個安全和自信的未來。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧的未來是由我們自己創建的。讓我們一起努力，為人工智慧的安全發展創建一個更好的未來。</p>",
+    "score": 90,
+    "takeaways": [
+      "開放標準可以促進人工智慧的安全發展",
+      "國際合作是建立信任和共享技術語言的基礎",
+      "標準化可以讓第三方檢查符合標準，提高模型、基礎設施和應用的安全性"
+    ],
+    "punchline": "安全的未來從標準開始",
+    "social_posts": {
+      "threads": "你知道嗎？人工智慧的安全發展需要開放標準！讓我們一起探索這個新時代的可能性 #人工智慧 #安全 #開放標準",
+      "facebook": "人工智慧的發展速度越來越快，但是安全性也越來越重要。開放標準是實現人工智慧安全發展的關鍵。讓我們一起努力，為人工智慧的安全發展創建一個更好的未來。",
+      "viral_hook": "人工智慧的安全發展從標準開始！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5QquFbmHjfSUovww9EUMcm/07e61e7f25fa04044767e9a0c11237e1/helping-build-shared-standards-for-advanced-ai-16_9.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "date": "2026-06-24"
+  }
+]
