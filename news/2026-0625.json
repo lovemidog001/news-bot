@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "AI革命來了！NVIDIA NeMo AutoModel加速Transformer微調",
+    "summary": "NVIDIA NeMo AutoModel登場，讓AI模型微調更快更強，什麼意思？簡單說就是AI的腦子變聰明了！",
+    "content": "<p>近日，NVIDIA推出了NeMo AutoModel，一項可以加速Transformer微調的技術。這項技術可以讓AI模型更好地理解人類語言，從而提高AI的智慧度。</p>    <h2>什麼是Transformer？</h2>    <p>Transformer是一種常見的AI模型，它可以用於自然語言處理、圖像識別等領域。然而，訓練Transformer模型需要大量的數據和計算資源，這就是NVIDIA NeMo AutoModel的用武之地。</p>    <h2>NeMo AutoModel的優勢</h2>    <p>NVIDIA NeMo AutoModel可以加速Transformer的微調過程，讓AI模型更快地學習和適應新的數據。這項技術可以應用於各個領域，從聊天機器人到語音助手等。</p>    <h2>編輯悄悄話</h2>    <p>AI的腦子變聰明了，接下來會怎樣？未來AI將更加智慧，改變我們的生活方式。所以，大家要準備好迎接AI革命的到來啦！</p>",
+    "score": 90,
+    "takeaways": [
+      "NVIDIA NeMo AutoModel可以加速Transformer的微調過程",
+      "這項技術可以讓AI模型更好地理解人類語言",
+      "未來AI將更加智慧，改變我們的生活方式"
+    ],
+    "punchline": "AI的腦子變聰明了！",
+    "social_posts": {
+      "threads": "大家有沒有注意到，AI越來越聰明了？\nNVIDIA NeMo AutoModel登場，讓AI模型微調更快更強。\n什麼意思？簡單說就是AI的腦子變聰明了！",
+      "facebook": "NVIDIA NeMo AutoModel登場！這項技術可以加速Transformer的微調過程，讓AI模型更好地理解人類語言。未來AI將更加智慧，改變我們的生活方式。大家要準備好迎接AI革命的到來啦！",
+      "viral_hook": "AI的腦子變聰明了！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/690d0a6c2c5acfe0e1f4777d/1N4GjIYBsZ6RCReRx_qBB.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "002",
+    "title": "美國頂級銀行如何在幾個月內處理400萬份檔案的敏感資料？",
+    "summary": "Huntington Bank利用AWS解決方案，在幾個月內成功處理400萬份檔案的敏感資料，達到95%的精準度，節省了數年的處理時間。",
+    "content": "<p>當你面臨著數百萬份檔案的敏感資料處理時，你會如何快速又準確地完成任務？這是Huntington Bank面臨的挑戰。</p>    <h2>挑戰與解決方案</h2>    <p>Huntington Bank利用AWS的機器學習服務Amazon Textract，可以自動擷取和刪除敏感資料。同時，AWS Step Functions幫助實現自動化的資料處理流程，從而大幅提高處理速度和精準度。</p>    <h2>實現細節</h2>    <p>為了達到這個目標，Huntington Bank使用了AWS DataSync、AWS Direct Connect、Amazon S3和AWS Key Management Service等服務，將檔案從內部儲存系統遷移到AWS雲端儲存中。然後，利用Amazon Textract和AWS Step Functions，實現了自動化的敏感資料刪除和處理流程。</p>    <h2>編輯悄悄話</h2>    <p>這個案例告訴我們，合理使用雲端服務和機器學習技術，可以大幅提高資料處理的效率和精準度。同時，也提醒我們，選擇合適的技術和服務，是解決複雜問題的關鍵一步。</p>",
+    "score": 85,
+    "takeaways": [
+      "利用AWS的機器學習服務Amazon Textract可以自動擷取和刪除敏感資料",
+      "AWS Step Functions可以幫助實現自動化的資料處理流程",
+      "合理使用AWS的服務配額可以大幅提高處理速度"
+    ],
+    "punchline": "幾個月就能完成數年的工作！",
+    "social_posts": {
+      "threads": "美國頂級銀行Huntington Bank如何在幾個月內處理400萬份檔案的敏感資料？\n利用AWS的機器學習服務Amazon Textract，可以自動擷取和刪除敏感資料...\n#AWS #MachineLearning #DataProtection",
+      "facebook": "Huntington Bank成功案例：利用AWS解決方案，在幾個月內處理400萬份檔案的敏感資料。了解更多：https://example.com\n#AWS #DataProtection #CloudComputing",
+      "viral_hook": "幾個月就能完成數年的工作！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/24/ML-19309.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/huntington-bank-redacting-sensitive-data-from-400m-documents-with-aws/",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "003",
+    "title": "Meta如何打造超薄電池讓AI眼鏡變得更強大？",
+    "summary": "Meta的工程師們如何重新思考電池設計，讓AI眼鏡能夠擁有更長的電池續航力？",
+    "content": "<p>你是否曾想過，如何讓AI眼鏡擁有更長的電池續航力？Meta的工程師們就是這樣做的，他們重新思考電池設計，讓AI眼鏡能夠擁有更強大的電池。</p>    <h2>什麼是鋼罐電池技術？</h2>    <p>鋼罐電池技術是一種新的電池設計方法，使用鋼罐代替傳統的電池設計。這種設計方法可以讓電池變得更薄、更強大，同時也可以提高電池的安全性。</p>    <h2>Meta如何應用鋼罐電池技術？</h2>    <p>Meta的工程師們使用鋼罐電池技術，讓AI眼鏡能夠擁有更長的電池續航力。他們重新設計電池的內部結構，使用die-cut stacked layers，來提高電池的能量密度和續航力。</p>    <h2>編輯悄悄話</h2>    <p>讓AI眼鏡變得更強大，需要重新思考電池設計。Meta的工程師們就是這樣做的，他們使用鋼罐電池技術，讓AI眼鏡能夠擁有更長的電池續航力。如果你想知道更多關於這項技術的細節，請聽聽Meta Tech Podcast的第86集，你會發現更多有趣的內容。",
+    "score": 90,
+    "takeaways": [
+      "傳統的電池設計無法滿足AI眼鏡的需求，需要重新思考電池設計",
+      "Meta的工程師們使用鋼罐電池技術，讓電池變得更薄、更強大",
+      "這項技術不僅適用於AI眼鏡，還可以應用於其他穿戴式設備"
+    ],
+    "punchline": "讓AI眼鏡變得更強大，需要重新思考電池設計",
+    "social_posts": {
+      "threads": "你是否曾想過，如何讓AI眼鏡擁有更長的電池續航力？#AI眼鏡 #電池設計",
+      "facebook": "Meta的工程師們重新思考電池設計，讓AI眼鏡能夠擁有更長的電池續航力。了解更多關於這項技術的細節：https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
+      "viral_hook": "讓AI眼鏡變得更強大，需要重新思考電池設計！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Meta-Tech-Podcast-How-Meta-Built-Ultra-Narrow-Batteries-for-AI-Glasses-HERO.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/23/production-engineering/how-meta-built-ultra-narrow-batteries-for-ai-glasses-meta-tech-podcast/",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "004",
+    "title": "雲端運營的新時代：從洞察到行動，瞬間決策",
+    "summary": "想像一下，你的雲端環境可以在實時從洞察轉化為行動，系統不斷為下一步決策做準備",
+    "content": "<p>你是否曾想過，如果你的雲端環境可以在實時從洞察轉化為行動，系統不斷為下一步決策做準備，那將會是什麼樣的情景？</p>    <h2>雲端運營的新時代</h2>    <p>雲端運營的新時代是從洞察到行動的轉變。在這個時代，雲端環境需要具備智能和自動化的能力，以便在實時從洞察轉化為行動。</p>    <p>實時決策是提高雲端運營效率的關鍵。通過使用雲端運營工具和技術，企業可以在實時監控和分析雲端環境的運行狀態，從而做出更快速和更准確的決策。</p>    <h2>實現從洞察到行動的轉變</h2>    <p>要實現從洞察到行動的轉變，企業需要具備以下幾個條件：第一，需要有一個強大的雲端運營平台；第二，需要有一支具有雲端運營專業知識和技能的團隊；第三，需要有一個明確的雲端運營策略和目標。</p>    <p>通過滿足這些條件，企業可以在實時從洞察轉化為行動，從而提高雲端運營效率和降低成本。</p>    <h2>編輯悄悄話</h2>    <p>雲端運營的新時代已經來臨，企業需要儘快適應這個變化。從洞察到行動的轉變是提高雲端運營效率的關鍵，企業需要具備智能和自動化的能力，以便在實時從洞察轉化為行動。</p>",
+    "score": 90,
+    "takeaways": [
+      "雲端運營的新時代是從洞察到行動的轉變",
+      "實時決策是提高雲端運營效率的關鍵",
+      "雲端環境需要具備智能和自動化的能力"
+    ],
+    "punchline": "從洞察到行動，決策在瞬間",
+    "social_posts": {
+      "threads": "你是否曾想過，如果你的雲端環境可以在實時從洞察轉化為行動，系統不斷為下一步決策做準備，那將會是什麼樣的情景？#雲端運營 #從洞察到行動",
+      "facebook": "雲端運營的新時代是從洞察到行動的轉變。通過使用雲端運營工具和技術，企業可以在實時監控和分析雲端環境的運行狀態，從而做出更快速和更准確的決策。分享你的想法和經驗！#雲端運營 #從洞察到行動",
+      "viral_hook": "從洞察到行動，決策在瞬間！"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "005",
+    "title": "不會用 Claude 的安全監控？這個整合讓你一次掌握所有活動！",
+    "summary": "Elastic 的 Anthropic 整合讓你可以在 Elastic Security 中監控 Claude 的活動，包括登入、角色變更、資料匯出等，還可以自動偵測風險和調查威脅",
+    "content": "<p>你是否正在使用 Claude，但不知道如何監控它的安全性？現在有個好消息！Elastic 的 Anthropic 整合可以讓你在 Elastic Security 中監控 Claude 的活動，包括登入、角色變更、資料匯出等。</p>    <h2>什麼是 Claude 的 Compliance API？</h2>    <p>Claude 的 Compliance API 可以追蹤超過 300 種事件類型，包括誰登入、什麼變更、誰管理 Claude等。這些事件都會被記錄下來，你可以使用這些資料來監控 Claude 的安全性。</p>    <h2>如何使用 Elastic 的 Anthropic 整合？</h2>    <p>Elastic 的 Anthropic 整合可以將 Claude 的活動資料整合到 Elastic Security 中，你可以使用預建的儀表板來監控 Claude 的活動和偵測風險。還可以使用自動化規則來偵測風險和調查威脅。</p>    <p>整合後，你可以在同一個平台中查看 Claude 的活動、身份驗證、端點、雲端和網路資料。這樣你可以更容易地調查和回應安全事件。</p>    <h2>編輯悄悄話</h2>    <p>現在你知道了！使用 Elastic 的 Anthropic 整合，你可以一次掌握所有 Claude 活動，安全監控不再是問題！",
+    "score": 90,
+    "takeaways": [
+      "Claude 的 Compliance API 可以追蹤超過 300 種事件類型",
+      "Elastic 的 Anthropic 整合可以將 Claude 的活動資料整合到 Elastic Security 中",
+      "可以使用預建的儀表板來監控 Claude 的活動和偵測風險"
+    ],
+    "punchline": "一次掌握所有 Claude 活動，安全監控不再是問題！",
+    "social_posts": {
+      "threads": "你知道嗎？Claude 的 Compliance API 可以追蹤超過 300 種事件類型！現在有個好消息！Elastic 的 Anthropic 整合可以讓你在 Elastic Security 中監控 Claude 的活動，包括登入、角色變更、資料匯出等。",
+      "facebook": "使用 Elastic 的 Anthropic 整合，你可以在同一個平台中查看 Claude 的活動、身份驗證、端點、雲端和網路資料。這樣你可以更容易地調查和回應安全事件。",
+      "viral_hook": "一次掌握所有 Claude 活動，安全監控不再是問題！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltc214a5ce68b99291/6a2c637e9d6b6c117eadfd70/image2.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/monitor-claude-activity-in-elastic-security",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "006",
+    "title": "AI 時代的工作卫生：7 個實戰經驗讓你事半功倍",
+    "summary": "你知道嗎？AI 工程師分享了 7 個實戰經驗，教你如何在 AI 時代中保持工作效率和注意力，不浪費 Token 和腦力",
+    "content": "<p>在 AI 時代中，如何保持工作效率和注意力是每個人的共同問題。Enri，一位騰訊 AI 產品工程師，分享了他過去半年來的實戰經驗，教你如何在 AI 時代中保持工作衛生。</p>    <h2>什麼是工作衛生</h2>    <p>工作衛生不是物理上的衛生，而是交互習慣的衛生。Token 越來越便宜，但你的注意力和決策帶寬不会。脫活幹多了，模型變傻，腦子也跟着亂。</p>    <h2>7 個實戰經驗</h2>    <ul>      <li>鎖死模型配置，避免 Token 消耗失控</li>      <li>固定內容別動，利用緩存機制降低成本</li>      <li>別喂 PPT，使用 Markdown 格式給模型看</li>      <li>別讓會話變垃圾桶，換任務就開新對話</li>      <li>讓 AI 看一段，別掃一片，使用 @ 精準指定文件或函數</li>      <li>讓模型先問，幫你把思路理清</li>      <li>把想和幹拆開，頂配模型討論方案，便宜模型機械執行</li>    </ul>    <h2>編輯悄悄話</h2>    <p>在 AI 時代中，保持工作衛生是每個人的共同責任。別讓 Token 太便宜反而容易滥用，一十個 Agent 全開，掃整个項目，无限試錯无限返工。你的決策帶寬有限，注意 AI 時代的工作衛生，讓你的工作效率和注意力事半功倍!</p>",
+    "score": 90,
+    "takeaways": [
+      "鎖死模型配置，避免 Token 消耗失控",
+      "固定內容別動，利用緩存機制降低成本",
+      "別喂 PPT，使用 Markdown 格式給模型看"
+    ],
+    "punchline": "你的決策帶寬有限，注意 AI 時代的工作衛生",
+    "social_posts": {
+      "threads": "你知道嗎？AI 工程師分享了 7 個實戰經驗，教你如何在 AI 時代中保持工作效率和注意力，不浪費 Token 和腦力",
+      "facebook": "在 AI 時代中，如何保持工作效率和注意力是每個人的共同問題。Enri，一位騰訊 AI 產品工程師，分享了他過去半年來的實戰經驗，教你如何在 AI 時代中保持工作衛生。",
+      "viral_hook": "你的決策帶寬有限，注意 AI 時代的工作衛生!"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802164&idx=1&sn=cbd6e39ed31765be87a5a97846dab9a8",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "007",
+    "title": "小巨人對決：小型語言模型vs大型語言模型，你該選哪一個？",
+    "summary": "小型語言模型和大型語言模型是兩種不同的工程應對方式，各有優缺點。了解它們的差異，才能選擇適合自己的模型。",
+    "content": "<p>在人工智慧的發展中，語言模型是其中一個重要的研究領域。然而，隨著模型的不斷演進，小型語言模型和大型語言模型的差異也越來越明顯。了解這兩種模型的差異，才能選擇適合自己的模型。</p>    <h2>小型語言模型和大型語言模型的差異</h2>    <p>小型語言模型和大型語言模型是兩種不同的工程應對方式，各有優缺點。小型語言模型適合在手機等設備上運行，大型語言模型則適合在數據中心運行。小型語言模型需要考慮記憶體、電池和延遲問題，大型語言模型則需要考慮吞吐量、批次效率和成本問題。</p>    <h2>選擇語言模型的因素</h2>    <p>選擇語言模型需要考慮部署目標、推理經濟和訓練預算等因素。部署目標是指模型將在哪種設備上運行，推理經濟是指模型的運行成本，訓練預算是指模型的訓練成本。了解這些因素，才能選擇適合自己的模型。</p>    <h2>編輯悄悄話</h2>    <p>最後，選擇語言模型需要考慮自己的需求和限制。小型語言模型和大型語言模型各有優缺點，了解這些差異，才能選擇適合自己的模型。所以，哪一個才是你的最佳選擇呢？",
+    "score": 90,
+    "takeaways": [
+      "小型語言模型適合在手機等設備上運行，大型語言模型則適合在數據中心運行",
+      "小型語言模型需要考慮記憶體、電池和延遲問題，大型語言模型則需要考慮吞吐量、批次效率和成本問題",
+      "選擇語言模型需要考慮部署目標、推理經濟和訓練預算等因素"
+    ],
+    "punchline": "小型語言模型和大型語言模型，哪一個才是你的最佳選擇？",
+    "social_posts": {
+      "threads": "小型語言模型和大型語言模型，哪一個才是你的最佳選擇？\n小型語言模型適合在手機等設備上運行，大型語言模型則適合在數據中心運行。\n選擇語言模型需要考慮部署目標、推理經濟和訓練預算等因素。",
+      "facebook": "小型語言模型和大型語言模型的差異在哪裡？了解這些差異，才能選擇適合自己的模型。分享你的想法和經驗，讓我們一起討論！",
+      "viral_hook": "小型語言模型和大型語言模型，哪一個才是你的最佳選擇？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!VI-b!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb64be56-60cc-4400-b5ee-255ddaa40729_1184x746.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/large-language-models-vs-small-language",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "008",
+    "title": "企業資料超強防護！跨區域備份讓你免於資料損失的恐懼",
+    "summary": "Google雲端備份和災難恢復服務新增跨區域備份功能，讓企業能夠更好地保護自己的資料，同時也能夠節省成本和簡化合規性問題。",
+    "content": "<p>在現在的數據時代，企業的資料安全性是非常重要的。然而，資料損失的風險始終存在，特別是在區域性災難發生時。為了解決這個問題，Google雲端備份和災難恢復服務新增了跨區域備份功能。</p>    <h2>什麼是跨區域備份？</h2>    <p>跨區域備份是一種可以將資料備份到不同區域的功能，讓企業能夠更好地保護自己的資料，同時也能夠節省成本和簡化合規性問題。這種功能可以提供更高的資料可用性和更低的成本，讓企業能夠更好地應對區域性災難。</p>    <h2>跨區域備份的優點</h2>    <p>跨區域備份有以下幾個優點：</p>    <ul>      <li>可以提供更高的資料可用性和更低的成本</li>      <li>可以簡化合規性問題，例如資料駐留法律</li>      <li>可以提供更好的 regional 韌性，保護資料免於區域性災難</li>    </ul>    <h2>編輯悄悄話</h2>    <p>跨區域備份是一種非常重要的功能，讓企業能夠更好地保護自己的資料。同時，也能夠節省成本和簡化合規性問題。如果你想讓你的資料更安全，跨區域備份是你不能錯過的選擇！",
+    "score": 90,
+    "takeaways": [
+      "跨區域備份可以提供更高的資料可用性和更低的成本",
+      "跨區域備份可以簡化合規性問題，例如資料駐留法律",
+      "跨區域備份可以提供更好的 regional 韌性，保護資料免於區域性災難"
+    ],
+    "punchline": "跨區域備份，讓你的資料更安全！",
+    "social_posts": {
+      "threads": "大家好！今天要跟大家分享一個重要的功能——跨區域備份！這個功能可以讓企業更好地保護自己的資料，同時也能夠節省成本和簡化合規性問題。 #跨區域備份 #資料安全",
+      "facebook": "跨區域備份是一種非常重要的功能，讓企業能夠更好地保護自己的資料。同時，也能夠節省成本和簡化合規性問題。如果你想讓你的資料更安全，跨區域備份是你不能錯過的選擇！ #跨區域備份 #資料安全",
+      "viral_hook": "跨區域備份，讓你的資料更安全！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/33_-_Storage__Data_Transfer_QsgjqZW.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/storage-data-transfer/backup-and-dr-service-adds-cross-region-backups/",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "009",
+    "title": "AI 大戰開打！Musk 損失 150 億美元訴訟，Google 新一代 AI 模型登場",
+    "summary": "Elon Musk 的 150 億美元訴訟被駁回，OpenAI 預計於今年秋天上市，Google 則推出新一代 AI 模型，AI 大戰正式開打",
+    "content": "<p>近日，Elon Musk 的 150 億美元訴訟被駁回，OpenAI 預計於今年秋天上市。同時，Google 推出新一代 AI 模型，包括 Gemini Spark 和 Antigravity 2.0。</p><h2>OpenAI 預計上市</h2><p>OpenAI 預計於今年秋天上市，公司估值已達 852 億美元。CEO Sam Altman 表示，公司正在與 Goldman Sachs 和 Morgan Stanley 合作，預計上市後將達到 1 萬億美元的估值。</p><h2>Google 新一代 AI 模型</h2><p>Google 推出新一代 AI 模型，包括 Gemini Spark 和 Antigravity 2.0。Gemini Spark 是一款 24/7 的雲端 AI 代理，能夠與 Gmail 和 Google Docs 集成。Antigravity 2.0 則是一款更新的桌面應用程式和 CLI 工具。</p><h2>編輯悄悄話</h2><p>AI 大戰正式開打，各大公司紛紛推出新技術。誰將贏得未來？只有時間才能告訴我們，但是有一點可以確定：AI 將會改變我們的生活方式。</p>",
+    "score": 90,
+    "takeaways": [
+      "Musk 的訴訟被駁回，OpenAI 預計上市",
+      "Google 推出新一代 AI 模型，包括 Gemini Spark 和 Antigravity 2.0",
+      "AI 大戰正式開打，各大公司紛紛推出新技術"
+    ],
+    "punchline": "AI 大戰開打，誰將贏得未來？",
+    "social_posts": {
+      "threads": "AI 大戰開打！Musk 損失 150 億美元訴訟，Google 新一代 AI 模型登場。誰將贏得未來？#AI #Google #OpenAI",
+      "facebook": "近日，Elon Musk 的 150 億美元訴訟被駁回，OpenAI 預計於今年秋天上市。同時，Google 推出新一代 AI 模型，包括 Gemini Spark 和 Antigravity 2.0。點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "AI 大戰開打，150 億美元的賭注！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 大改版！16.2 穩定版 Adapter API 啟用，跨平台部署再升級",
+    "summary": "Next.js 16.2 推出穩定版 Adapter API，讓跨平台部署更加簡單，開發者可以輕鬆地將應用程式部署到各個平台",
+    "content": "<p>Next.js 16.2 推出穩定版 Adapter API，讓跨平台部署更加簡單，開發者可以輕鬆地將應用程式部署到各個平台。</p>    <h2>什麼是 Adapter API？</h2>    <p>Adapter API 是一個穩定的公共接口，讓提供者可以輕鬆地與 Next.js 整合，無需擔心複雜的設定和配置。</p>    <h2>如何使用 Adapter API？</h2>    <p>開發者可以使用 Adapter API 將 Next.js 應用程式部署到各個平台，包括 Vercel、Netlify、Cloudflare、AWS Amplify 和 Google Cloud。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 16.2 是一個重要的版本，讓跨平台部署變得更容易。開發者可以輕鬆地將應用程式部署到各個平台，無需擔心複雜的設定和配置。這是 Next.js 的一個重要里程碑，讓開發者可以更專注於開發應用程式，而不是煩惱部署問題。</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.2 穩定版 Adapter API 啟用",
+      "跨平台部署更加簡單",
+      "開發者可以輕鬆地將應用程式部署到各個平台"
+    ],
+    "punchline": "Next.js 16.2 讓跨平台部署變得更容易",
+    "social_posts": {
+      "threads": "Next.js 16.2 大改版！\n跨平台部署再升級\n開發者可以輕鬆地將應用程式部署到各個平台\n#Nextjs #跨平台部署",
+      "facebook": "Next.js 16.2 穩定版 Adapter API 啟用！讓跨平台部署更加簡單，開發者可以輕鬆地將應用程式部署到各個平台。了解更多：[連結]",
+      "viral_hook": "Next.js 16.2 讓跨平台部署變得更容易！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/nextjs-across-platforms/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/nextjs-across-platforms",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "011",
+    "title": "AI革命來了！這個系統能幫你查詢數十年的研究報告",
+    "summary": "想像一下，有一個AI系統能幫你查詢數十年的研究報告，甚至能回答複雜的問題和撰寫文件。這個系統真的存在了！",
+    "content": "<p>你是否曾經想像有一個AI系統能幫你查詢數十年的研究報告，甚至能回答複雜的問題和撰寫文件？現在，這個系統真的存在了！</p>    <h2>什麼是AI系統？    這個AI系統被稱為PRINCE，是一個演化的平台，能夠幫助研究人員查詢數十年的研究報告。它不僅能夠回答複雜的問題，還能夠撰寫文件。    </h2>    <p>這個系統是如何工作的呢？它使用了一種叫做Agentic RAG的方法，能夠理解使用者的意圖，思考和計劃，甚至能夠撰寫答案和格式化文件。</p>    <h2>如何建立信任？    要建立信任，透明度和解釋性是非常重要的。這個系統使用了一種叫做Named Entity Recognition和Annotation的方法，能夠提高數據質量和可靠性。    </h2>    <h2>編輯悄悄話</h2>    <p>這個AI系統真的很酷，不是嗎？但是，別忘了，AI系統也需要我們的幫助，才能成為更好的工具。所以，讓我們一起努力，創造一個更好的未來！",
+    "score": 90,
+    "takeaways": [
+      "AI系統能幫助研究人員查詢數十年的研究報告",
+      "這個系統能回答複雜的問題和撰寫文件",
+      "透明度和解釋性是 AI系統的關鍵"
+    ],
+    "punchline": "AI革命來了！",
+    "social_posts": {
+      "threads": "你們有沒有想過，有一個AI系統能幫你查詢數十年的研究報告？\n這個系統真的存在了！\n#AI #研究 #報告",
+      "facebook": "發現了一個令人驚艷的AI系統！\n這個系統能幫助研究人員查詢數十年的研究報告，甚至能回答複雜的問題和撰寫文件。\n#AI #研究 #報告",
+      "viral_hook": "AI革命來了！這個系統能幫你查詢數十年的研究報告"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "012",
+    "title": "OpenAI 和 Broadcom 聯合推出 Jalapeño：LLM 最強化 AI 晶片",
+    "summary": "OpenAI 和 Broadcom 推出 Jalapeño，為 LLM 推理而設計的 AI 晶片，將改善 AI 系統的性能、效率和擴展性",
+    "content": "<p>OpenAI 和 Broadcom 聯合推出了一款革命性的 AI 晶片——Jalapeño，為 LLM 推理而設計。這款晶片將改善 AI 系統的性能、效率和擴展性。</p>    <h2>什麼是 Jalapeño？</h2>    <p>Jalapeño 是一款為 LLM 推理而設計的 AI 晶片，能夠提供更好的性能、效率和擴展性。它是 OpenAI 和 Broadcom 聯合推出的產物，旨在改善 AI 系統的整體表現。</p>    <h2>如何影響我們的生活</h2>    <p>Jalapeño 的推出將對我們的生活產生重大影響。它能夠提高 AI 系統的性能和效率，使得 AI 技術在各個領域的應用更加廣泛和便捷。同時，它也將推動 AI 技術的發展，讓我們能夠享受到更多的 AI 服務和產品。</p>    <h2>編輯悄悄話</h2>    <p>AI 晶片的革命來了，Jalapeño 的推出將成為 AI 歷史上的重要里程碑。讓我們拭目以待，看到 Jalapeño 將如何改變我們的生活和世界。",
+    "score": 90,
+    "takeaways": [
+      "Jalapeño 是為 LLM 推理而設計的 AI 晶片",
+      "能夠改善 AI 系統的性能、效率和擴展性",
+      "是 OpenAI 和 Broadcom 聯合推出的產物"
+    ],
+    "punchline": "AI 晶片的革命來了",
+    "social_posts": {
+      "threads": "你們有沒有聽說過 Jalapeño？這是一款為 LLM 推理而設計的 AI 晶片，將改善 AI 系統的性能、效率和擴展性。讓我們一起探討它的影響和未來發展",
+      "facebook": "OpenAI 和 Broadcom 聯合推出 Jalapeño，為 LLM 推理而設計的 AI 晶片。這款晶片將改善 AI 系統的性能、效率和擴展性，讓我們一起了解它的詳細信息和影響",
+      "viral_hook": "AI 晶片的革命來了，Jalapeño 的推出將成為 AI 歷史上的重要里程碑"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4DeZq8e24W4qgIrtAu4Xmg/54189176ae1c6150d94cac02fb104f79/openai-broadcom-jalapeno-inference-chip-image-16_9.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "date": "2026-06-25"
+  }
+]
