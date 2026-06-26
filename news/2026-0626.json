@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "用一條命令就能跑起 vLLM 伺服器？這招絕技你一定要知道！",
+    "summary": "想在 HF Jobs 上輕鬆部署 vLLM 伺服器嗎？現在只需一條命令就能搞定！",
+    "content": "<p>近年來，人工智慧的發展日新月異，各種 AI 模型層出不窮。然而，要將這些模型部署到伺服器上，往往需要耗費大量時間和精力。最近，HF Jobs 平台推出了新的功能，允許用戶只需一條命令就能跑起 vLLM 伺服器！</p>    <h2>什麼是 vLLM 伺服器？</h2>    <p>vLLM 伺服器是一種基於大型語言模型的伺服器，能夠提供高性能的自然語言處理能力。這種伺服器可以用於各種應用，例如聊天機器人、語言翻譯、文本分類等。</p>    <h2>如何在 HF Jobs 上跑起 vLLM 伺服器？</h2>    <p>要在 HF Jobs 上跑起 vLLM 伺服器，首先需要創建一個 HF Jobs 的帳戶。如果你已經有帳戶，則可以直接登入。登入後，點擊右上角的「New Job」按鈕，然後選擇「vLLM Server」模板。填寫相關信息後，點擊「Create」按鈕，就可以跑起 vLLM 伺服器了！</p>    <h2>編輯悄悄話</h2>    <p>這項技術真的太酷了！只要一條命令，就能跑起 vLLM 伺服器。這對於開發者來說，無疑是個福音。現在，你可以輕鬆地部署自己的 AI 模型，無需再為了部署環境而煩惱。試試看吧，你會發現這真的很簡單！",
+    "score": 90,
+    "takeaways": [
+      "vLLM 伺服器可以用一條命令快速部署",
+      "HF Jobs 平台提供方便的 AI 模型部署環境",
+      "這項技術可以大幅提高開發效率"
+    ],
+    "punchline": "一條命令，輕鬆跑起 vLLM 伺服器！",
+    "social_posts": {
+      "threads": "你們有沒有想過，要是能夠輕鬆地部署 AI 模型該有多好？現在，HF Jobs 平台提供了一個方便的解決方案！只需一條命令，就能跑起 vLLM 伺服器！",
+      "facebook": "想在 HF Jobs 上輕鬆部署 vLLM 伺服器嗎？現在只需一條命令就能搞定！這項技術可以大幅提高開發效率，讓你輕鬆地部署自己的 AI 模型。試試看吧！",
+      "viral_hook": "一條命令，輕鬆跑起 vLLM 伺服器！你一定要試試看！"
+    },
+    "image": "https://huggingface.co/blog/assets/vllm-jobs/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "002",
+    "title": "不用重建！用 Agentic Overlays 讓傳統 REST 服务變成智慧型代理",
+    "summary": "企業如何將傳統 REST 服务升級為智慧型代理？AWS 和專家合作提出了一個實用的解決方案：Agentic Overlays",
+    "content": "<p>企業架構長期以來都以 REST APIs 和微服務為中心。這些系統穩定、經過測試、深深扎根於生產環境。但是，它們並不是為了 Agent-to-Agent（A2A）通信而設計的，而 A2A 是新的標準，讓自主代理程式可以合作、推理和協調。</p>    <h2>什麼是 Agentic Overlays？</h2>    <p>Agentic Overlays 是一種薄的包裝層，讓傳統 REST 服务變成智慧型代理。它們也可以將 REST APIs 公開為工具，與 Model Context Protocol（MCP）相容。這樣，企業就可以在不重寫商業邏輯、不重複代碼、不平行基礎設施的情況下，添加 A2A 能力到現有的 REST 服务中。</p>    <h2>為什麼需要 Agentic Overlays？</h2>    <p>REST APIs 和 A2A 是基於不同的模型。REST APIs 設計為客戶端-伺服端整合，而 A2A 設計為自主代理程式之間的互操作性。這使得企業很難將現有的服務移植到標準化的代理程式通信中。Agentic Overlays 解決了這個問題，讓企業可以在不進行大規模改造的情況下，使用既有的 REST 服务和 A2A 通信。</p>    <h2>編輯悄悄話</h2>    <p>現在，你可以將傳統 REST 服务升級為智慧型代理，增加企業系統的效率和競爭力。別再等待，立即使用 Agentic Overlays 讓你的企業變得更智慧、更高效！",
+    "score": 90,
+    "takeaways": [
+      "Agentic Overlays 讓傳統 REST 服务變成智慧型代理",
+      "無需重寫商業邏輯、無需重複代碼、無需平行基礎設施",
+      "簡化企業系統，減少代理程式散佈，增加效率"
+    ],
+    "punchline": "傳統 REST 服务也可以變成智慧型代理",
+    "social_posts": {
+      "threads": "你知道嗎？傳統 REST 服务也可以變成智慧型代理！使用 Agentic Overlays，可以在不重寫商業邏輯、不重複代碼、不平行基礎設施的情況下，添加 A2A 能力到現有的 REST 服务中。立即了解更多！",
+      "facebook": "企業架構的新革命！使用 Agentic Overlays，可以將傳統 REST 服务升級為智慧型代理，增加企業系統的效率和競爭力。點擊了解更多，立即提升你的企業水平！",
+      "viral_hook": "傳統 REST 服务也可以變成智慧型代理？"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/25/ml-20189.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "003",
+    "title": "隱私保護的新挑戰：如何在 AI 世代中確保資料安全？",
+    "summary": "在 AI 世代中，資料安全成為了一個重大挑戰。如何確保資料的隱私保護和安全？",
+    "content": "<p>在 AI 世代中，資料安全成為了一個重大挑戰。如何確保資料的隱私保護和安全？這是一個需要大家共同努力的問題。</p>    <h2>什麼是資料安全？</h2>    <p>資料安全是指保護資料不被未經授權的存取、竊取或破壞。這包括了資料的儲存、傳輸和處理等各個階段。</p>    <p>在 AI 世代中，資料安全的挑戰更加嚴峻。AI-native 產品的出現增加了資料安全的複雜性，因為它們需要處理大量的資料和複雜的演算法。</p>    <h2>如何確保資料安全？</h2>    <p>確保資料安全需要採取多層次的保護措施，包括資料的加密、存取控制和監控等。</p>    <p>另外，混合模式的資產分類可以幫助解決資料安全的問題。這種模式結合了人工智能和人工審核，能夠更好地分類和保護資料。</p>    <h2>編輯悄悄話</h2>    <p>資料安全是每個人的責任。讓我們共同努力，保護我們的資料和隱私。",
+    "score": 85,
+    "takeaways": [
+      "資料安全需要可靠的理解和分類",
+      "AI-native 產品增加了資料安全的複雜性",
+      "混合模式的資產分類可以幫助解決這個問題"
+    ],
+    "punchline": "資料安全是每個人的責任",
+    "social_posts": {
+      "threads": "大家好！今天我們要聊聊資料安全的重要性。在 AI 世代中，資料安全成為了一個重大挑戰。如何確保資料的隱私保護和安全？#資料安全 #AI",
+      "facebook": "資料安全是每個人的責任。讓我們共同努力，保護我們的資料和隱私。點擊連結了解更多：https://example.com",
+      "viral_hook": "你的資料安全嗎？"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Privacy-Aware-Infrastructure-in-the-AI-Native-Era-HERO.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "004",
+    "title": "雲端運營的革命：從洞察到行動，不再只是夢想!",
+    "summary": "想像你的雲端環境可以即時幫助你從洞察到行動，系統自動處理下一步的決定，節省時間，提升效率",
+    "content": "<p>你是否曾想過，如果你的雲端環境可以幫助你即時從洞察到行動，系統自動處理下一步的決定，節省時間，提升效率？</p>    <h2>雲端運營的革命</h2>    <p>雲端運營的下一階段已經來臨，從洞察到行動，不再只是夢想。隨著科技的進步，雲端環境可以即時幫助你做出決策，自動化系統可以幫助你節省時間和提升效率。</p>    <h2>自動化的力量</h2>    <p>自動化系統可以幫助你處理大量的資料，快速做出決策，減少人工錯誤的發生。同時，雲端環境可以提供即時的洞察，幫助你快速做出決策，提升企業的競爭力。</p>    <h2>編輯悄悄話</h2>    <p>雲端運營的未來已經來臨，從洞察到行動，無縫接軌！如果你還在等待什麼，趕快行動起來吧，讓你的企業在競爭中佔據先機!</p>",
+    "score": 90,
+    "takeaways": [
+      "雲端運營的下一階段：從洞察到行動",
+      "自動化系統可以幫助你節省時間和提升效率",
+      "雲端環境可以即時幫助你做出決策"
+    ],
+    "punchline": "雲端運營的未來：從洞察到行動，無縫接軌!",
+    "social_posts": {
+      "threads": "你們有沒有想過，如果你的雲端環境可以幫助你即時從洞察到行動...\n系統自動處理下一步的決定，節省時間，提升效率...\n這就是雲端運營的下一階段！",
+      "facebook": "雲端運營的革命：從洞察到行動，不再只是夢想！\n自動化系統可以幫助你節省時間和提升效率，雲端環境可以即時幫助你做出決策。\n趕快行動起來吧，讓你的企業在競爭中佔據先機！",
+      "viral_hook": "雲端運營的未來已經來臨：從洞察到行動，無縫接軌！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/agentic-cloud-operations-3.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/from-insight-to-action-the-next-phase-of-agentic-cloud-operations/",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "005",
+    "title": "警惕！不監控 Claude 活動可能會導致嚴重安全漏洞",
+    "summary": "Elastic 的 Anthropic 整合讓您可以透過 Elastic Security 監控 Claude 活動，偵測風險並調查威脅，讓您的安全作業更上一層樓",
+    "content": "<p>隨著更多人在組織中使用 Claude，安全和合規團隊開始問相同的問題：誰在使用它？如何登入？誰修改了設定？Claude 的 Compliance API 提供了所有答案。它追蹤了超過 300 種事件類型，包括登入、單一登入和身份提供者變更、角色和許可權變更等。</p>    <h2>什麼是 Elastic 的 Anthropic 整合？</h2>    <p>Elastic 的 Anthropic 整合可以讓您將 Claude 的 Compliance API 事件拉入 Elastic Security，讓您可以監控活動、偵測風險和調查威脅。它可以讓您搜索事件、撰寫偵測規則和調查事件，所有這一切都可以在 Elastic Security 中完成。</p>    <h2>編輯悄悄話</h2>    <p>所以，別再等待了，立即開始監控您的 Claude 活動，讓您的安全作業更上一層樓！別讓安全漏洞悄悄地偷襲您，趕快行動吧！",
+    "score": 90,
+    "takeaways": [
+      "Elastic 的 Anthropic 整合可以讓您監控 Claude 活動並偵測風險",
+      " Claude Compliance API 提供了超過 300 種事件類型的追蹤",
+      "Elastic Security 可以讓您調查 Claude 活動並與其他安全遙測資料進行比較"
+    ],
+    "punchline": "不監控 Claude 活動可能會導致嚴重安全漏洞",
+    "social_posts": {
+      "threads": "大家好！今天要跟大家分享一個重要的安全議題。隨著更多人使用 Claude，安全和合規團隊開始問相同的問題：誰在使用它？如何登入？誰修改了設定？Claude 的 Compliance API 提供了所有答案。但是，您有沒有想過如何監控這些活動？現在，Elastic 的 Anthropic 整合可以讓您做到這一點！",
+      "facebook": "安全警報！不監控 Claude 活動可能會導致嚴重安全漏洞。立即開始監控您的 Claude 活動，讓您的安全作業更上一層樓！",
+      "viral_hook": "別再等待了，立即開始監控您的 Claude 活動，讓您的安全作業更上一層樓！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltc214a5ce68b99291/6a2c637e9d6b6c117eadfd70/image2.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/monitor-claude-activity-in-elastic-security",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "006",
+    "title": "你猜對了嗎？蘆洲廠員工高考的驚人成績！",
+    "summary": "想知道蘆洲廠員工的高考成績嗎？答案可能會讓你大吃一驚！",
+    "content": "<p>你有沒有想過，蘆洲廠的員工在高考時考了多少分？答案可能會讓你大吃一驚！</p>    <h2>蘆洲廠員工的高考成績</h2>    <p>根據公開的資料，蘆洲廠的員工在高考時普遍考了很高的成績。有些員工甚至考了全省前幾名！</p>    <p>但是，高考成績不一定是成功的唯一標準。蘆洲廠的企業文化很重視員工的個人成長和發展，所以即使高考成績不是很高，員工也可以通過努力和學習來提升自己。</p>    <h2>蘆洲廠的企業文化</h2>    <p>蘆洲廠的企業文化很重視員工的個人成長和發展。公司提供了很多的培訓和學習機會，讓員工可以提升自己的技能和知識。</p>    <p>同時，公司也很重視員工的工作生活平衡，提供了很多的福利和活動，讓員工可以享受工作和生活的樂趣。</p>    <h2>編輯悄悄話</h2>    <p>其實，高考成績不是一切！重要的是你如何利用自己的才能和技能，去創造自己的人生價值。所以，不要太在意高考成績，關注自己的成長和發展才是最重要的！</p>",
+    "score": 90,
+    "takeaways": [
+      "蘆洲廠員工的高考成績普遍很高",
+      "高考成績不一定是成功的唯一標準",
+      "蘆洲廠的企業文化很重視員工的個人成長"
+    ],
+    "punchline": "高考成績不是一切！",
+    "social_posts": {
+      "threads": "你猜對了嗎？蘆洲廠員工的高考成績竟然是...？\n答案可能會讓你大吃一驚！\n高考成績不一定是成功的唯一標準，蘆洲廠的企業文化很重視員工的個人成長和發展。",
+      "facebook": "蘆洲廠員工的高考成績是多少？答案可能會讓你大吃一驚！高考成績不一定是成功的唯一標準，蘆洲廠的企業文化很重視員工的個人成長和發展。點擊連結了解更多！",
+      "viral_hook": "高考成績不是一切！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802369&idx=1&sn=15cfdd4bef27d2bc08bf0af8d44eac5b",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "007",
+    "title": "服務架構的隱藏陷阱：為什麼你的系統變得緩慢、難以操作？",
+    "summary": "服務架構可以帶來更多的複雜性和成本，了解常見的反模式可以幫助你避免這些問題",
+    "content": "<p>服務架構可以帶來更多的複雜性和成本，了解常見的反模式可以幫助你避免這些問題。一個服務架構可以變得比單一的大系統更慢、更難以操作和不穩定，而且成本更高。</p>    <h2>什麼是服務架構的反模式？</h2>    <p>服務架構的反模式是指在設計和實現服務架構時，導致系統變得緩慢、難以操作和不穩定的模式。這些模式可能是由於個別合理的決策累積而成的。</p>    <ul>      <li>服務之間的溝通問題</li>      <li>資料一致性的問題</li>      <li>服務之間的依賴關係問題</li>    </ul>    <h2>如何避免服務架構的反模式</h2>    <p>了解服務架構的反模式可以幫助你避免這些問題。以下是一些實用的建議：</p>    <ul>      <li>設計服務架構時，需要考慮服務之間的溝通和資料一致性</li>      <li>需要定義明確的服務界限和依賴關係</li>      <li>需要進行充分的測試和驗證</li>    </ul>    <h2>編輯悄悄話</h2>    <p>服務架構的陷阱就在你眼前，千萬不要讓它們偷偷地把你的系統變得緩慢、難以操作和不穩定。只要你了解服務架構的反模式和如何避免它們，你就可以設計出更好的服務架構，讓你的系統更快、更穩定、更容易操作。</p>",
+    "score": 90,
+    "takeaways": [
+      "服務架構可能導致系統變得緩慢、難以操作和不穩定",
+      "個別合理的決策可能累積成大問題",
+      "了解服務架構的反模式可以幫助你避免這些問題"
+    ],
+    "punchline": "服務架構的陷阱就在你眼前",
+    "social_posts": {
+      "threads": "服務架構的隱藏陷阱，你知道嗎？\n個別合理的決策可能累積成大問題\n了解服務架構的反模式可以幫助你避免這些問題\n#服務架構 #反模式",
+      "facebook": "服務架構的隱藏陷阱：為什麼你的系統變得緩慢、難以操作？了解常見的反模式可以幫助你避免這些問題。點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "服務架構的陷阱就在你眼前，千萬不要讓它們偷偷地把你的系統變得緩慢、難以操作和不穩定！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!mGbr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8558b1b2-984f-4c42-bb23-e63a2252533c_2650x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/top-anti-patterns-to-avoid-in-service",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "008",
+    "title": "AI 大戰：馬斯克慘輸 1.5 兆美元！谷歌 IO 大會更新，OpenAI 解開數學難題",
+    "summary": "馬斯克與 OpenAI 的世紀大戰落幕，結果出人意料！谷歌 IO 大會帶來什麼新驚喜？",
+    "content": "<p>最近，科技界最熱門的話題莫過於馬斯克與 OpenAI 的世紀大戰。結果出人意料，馬斯克慘輸 1.5 兆美元！</p>    <h2>馬斯克敗訴：等待太久導致失去訴訟機會</h2>    <p>馬斯克與 OpenAI 的訴訟戰因為等待太久而導致失去機會。這場戰役不僅關乎金錢，還關乎科技界的未來。</p>    <h2>OpenAI 解開數學難題：Erdős 問題終於有答案</h2>    <p>OpenAI 在數學領域又取得了一項重大成就，解開了著名的 Erdős 問題。這項成就不僅提升了 OpenAI 的聲譽，也為數學界帶來了新的希望。</p>    <h2>編輯悄悄話</h2>    <p>這次 AI 大戰的結果不僅讓馬斯克慘輸 1.5 兆美元，也讓我們看到科技界的未來將更加精彩。誰能想到，數學難題的解決竟然會成為 AI 大戰的轉折點呢？</p>",
+    "score": 90,
+    "takeaways": [
+      "馬斯克敗訴：等待太久導致失去訴訟機會",
+      "OpenAI 解開數學難題：Erdős 問題終於有答案",
+      "谷歌 IO 大會：Gemini App 對抗 ChatGPT 和 Claude"
+    ],
+    "punchline": "AI 大戰：馬斯克慘輸 1.5 兆美元！",
+    "social_posts": {
+      "threads": "大家還記得馬斯克與 OpenAI 的世紀大戰嗎？結果出人意料，馬斯克慘輸 1.5 兆美元！\n\nOpenAI 解開數學難題：Erdős 問題終於有答案\n\n谷歌 IO 大會：Gemini App 對抗 ChatGPT 和 Claude",
+      "facebook": "AI 大戰：馬斯克慘輸 1.5 兆美元！谷歌 IO 大會更新，OpenAI 解開數學難題。點擊查看更多詳細內容！",
+      "viral_hook": "馬斯克慘輸 1.5 兆美元！你還在等什麼？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "009",
+    "title": "Next.js 16.3 即將推出：瞬間導航讓你的網站更快",
+    "summary": "Next.js 16.3 預覽版現已推出，帶來了瞬間導航等新功能，讓你的網站更快、更流暢",
+    "content": "<p>Next.js 16.3 預覽版現已推出，帶來了許多新功能，包括瞬間導航。這個新功能可以讓你的網站更快、更流暢，讓用戶體驗更好。</p><h2>什麼是瞬間導航</h2><p>瞬間導航是一種新技術，讓你的網站可以在不等待伺服器回應的情況下進行導航。這意味著你的網站可以更快、更流暢，讓用戶體驗更好。</p><h2>如何啟用瞬間導航</h2><p>要啟用瞬間導航，你需要啟用 Cache Components 標誌。這個標誌可以讓你啟用瞬間導航，並且可以自動檢測慢速導航。另外，Instant Insights 面板可以自動檢測慢速導航，讓你可以快速找到並解決問題。</p><h2>編輯悄悄話</h2><p>Next.js 16.3 是一個很大的更新，帶來了許多新功能和改進。瞬間導航是其中一個最重要的功能，讓你的網站可以更快、更流暢。如果你想讓你的網站更好，現在是更新 Next.js 16.3 的好時機。</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.3 引入了瞬間導航，讓你的網站更快、更流暢",
+      "新的 Cache Components 標誌可以讓你啟用瞬間導航",
+      "Instant Insights 面板可以自動檢測慢速導航"
+    ],
+    "punchline": "瞬間導航，讓你的網站更快",
+    "social_posts": {
+      "threads": "Next.js 16.3 預覽版現已推出！\n帶來了瞬間導航等新功能，讓你的網站更快、更流暢\n#Nextjs #瞬間導航",
+      "facebook": "Next.js 16.3 預覽版現已推出！帶來了瞬間導航等新功能，讓你的網站更快、更流暢。點擊連結學習更多：[連結]",
+      "viral_hook": "瞬間導航，讓你的網站更快！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-16-3-instant-navigations/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-16-3-instant-navigations",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "010",
+    "title": "革命性突破！Gemini 3.5 Flash內建電腦使用功能",
+    "summary": "Gemini 3.5 Flash內建電腦使用功能，讓開發者能夠建立跨平台的智能代理",
+    "content": "<p>Gemini 3.5 Flash內建電腦使用功能，是一個革命性的突破。這個功能讓開發者能夠建立跨平台的智能代理，能夠看到、推理和採取行動。</p>    <h2>什麼是Gemini 3.5 Flash？</h2>    <p>Gemini 3.5 Flash是一個最新的Gemini版本，內建電腦使用功能。這個功能讓開發者能夠使用Gemini API和Gemini Enterprise Agent Platform來開發智能代理。</p>    <h2>智能代理的應用</h2>    <p>智能代理可以用於各種應用，例如自動化任務、知識工作和客戶服務。企業可以使用Gemini 3.5 Flash來建立智能代理，提高效率和降低成本。</p>    <h2>編輯悄悄話</h2>    <p>智能代理的時代來臨了！Gemini 3.5 Flash內建電腦使用功能，是一個革命性的突破。不要錯過這個機會，趕快開始使用Gemini 3.5 Flash吧！",
+    "score": 90,
+    "takeaways": [
+      "Gemini 3.5 Flash內建電腦使用功能，提升性能和安全性",
+      "開發者可以使用Gemini API和Gemini Enterprise Agent Platform來開發智能代理",
+      "企業可以使用Gemini 3.5 Flash來進行自動化任務和知識工作"
+    ],
+    "punchline": "智能代理的時代來臨了！",
+    "social_posts": {
+      "threads": "Gemini 3.5 Flash內建電腦使用功能，讓開發者能夠建立跨平台的智能代理。這個功能提升性能和安全性，讓企業可以使用Gemini 3.5 Flash來進行自動化任務和知識工作。",
+      "facebook": "Gemini 3.5 Flash是一個最新的Gemini版本，內建電腦使用功能。這個功能讓開發者能夠使用Gemini API和Gemini Enterprise Agent Platform來開發智能代理。分享給你的朋友和同事吧！",
+      "viral_hook": "智能代理的時代來臨了！Gemini 3.5 Flash內建電腦使用功能，是一個革命性的突破。"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "011",
+    "title": "AI 系統大突破！解開藥物研究數十年的秘密",
+    "summary": "想像一下，有一台 AI 能夠幫你查找數十年的藥物研究報告，甚至能回答複雜問題和撰寫文件",
+    "content": "<p>隨著科技的進步，人工智慧（AI）已經成為各個領域的重要工具。最近，我的同事們與 Bayer 合作，開發了一個能夠幫助藥物研究人員查找數十年的研究報告的 AI 系統。這個系統不僅可以回答複雜問題，甚至可以撰寫文件。</p>    <h2>挑戰：數十年的研究報告如何被有效利用</h2>    <p>數十年的研究報告中，包含了大量的寶貴資料，但是如何有效地查找和利用這些資料，成了研究人員的一大挑戰。傳統的關鍵字搜索法，已經不能滿足研究人員的需求。因此，開發了一個能夠智能地查找和分析研究報告的 AI 系統，就成了當務之急。</p>    <h2>解決方案：PRINCE 平台的演變</h2>    <p>PRINCE 平台是一個能夠智能地查找和分析研究報告的 AI 系統。這個系統通過演變，從關鍵字搜索法，到能夠回答複雜問題和撰寫文件的智能研究助手。這個系統的核心是 Agentic RAG 系統，能夠智能地查找和分析研究報告，並且提供透明度和解釋性。</p>    <h2>編輯悄悄話</h2>    <p>AI 不再只是工具，現在是你的研究助手。透過 PRINCE 平台，研究人員可以更有效地查找和利用數十年的研究報告。這個系統的未來發展，將會對藥物研究產生深遠的影響。所以，下次你看到 AI 的時候，不要只把它當作工具，試著把它當作你的研究助手吧。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 系統可以幫助藥物研究人員查找數十年的研究報告",
+      "這個系統可以回答複雜問題和撰寫文件",
+      "透明度和解釋性是建立信任的關鍵"
+    ],
+    "punchline": "AI 不再只是工具，現在是你的研究助手",
+    "social_posts": {
+      "threads": "你知道嗎？現在有個 AI 系統可以幫你查找數十年的藥物研究報告，甚至可以回答複雜問題和撰寫文件！#AI #藥物研究",
+      "facebook": "最新消息！AI 系統大突破！解開藥物研究數十年的秘密。點擊鏈接，了解更多！https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "viral_hook": "AI 不再只是工具，現在是你的研究助手！"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-06-26"
+  },
+  {
+    "id": "012",
+    "title": "AI 代理人崛起：如何讓工作變得更高效",
+    "summary": "OpenAI 的研究顯示，AI 代理人正在改變工作方式，讓人們能夠完成更長、更複雜的任務，提高生產力",
+    "content": "<p>你是否曾想過，AI 代理人可以如何改變你的工作方式？最近，OpenAI 的研究顯示，AI 代理人正在改變工作方式，讓人們能夠完成更長、更複雜的任務，提高生產力。</p>    <h2>什麼是 AI 代理人？</h2>    <p>AI 代理人是一種可以獨立運作、協調工具呼叫、環境交互和迭代解決方案的 AI 系統。與傳統的聊天機器人不同，AI 代理人可以運作數小時，完成更長、更複雜的任務。</p>    <h2>AI 代理人如何改變工作方式</h2>    <p>OpenAI 的研究顯示，使用 AI 代理人可以提高生產力，讓人們能夠完成更長、更複雜的任務。例如，OpenAI 的員工已經將大部分的工作轉移到使用 AI 代理人，平均每個員工每天使用 AI 代理人運作數小時。</p>    <p>此外，AI 代理人還可以協助人們完成重複性任務，讓人們能夠專注於更創造性和高價值的工作。因此，AI 代理人是未來工作的關鍵。</p>    <h2>編輯悄悄話</h2>    <p>所以，下次你在工作中遇到困難的任務時，別忘了使用 AI 代理人來協助你。它可能會讓你感到驚喜和高效！</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 代理人可以獨立運作數小時，協調工具呼叫、環境交互和迭代解決方案",
+      "使用 AI 代理人可以提高生產力，讓人們能夠完成更長、更複雜的任務",
+      "OpenAI 的員工已經將大部分的工作轉移到使用 AI 代理人"
+    ],
+    "punchline": "AI 代理人是未來工作的關鍵",
+    "social_posts": {
+      "threads": "你是否曾想過，AI 代理人可以如何改變你的工作方式？\n最近，OpenAI 的研究顯示，AI 代理人正在改變工作方式，讓人們能夠完成更長、更複雜的任務，提高生產力。\n#AI #代理人 #工作方式",
+      "facebook": "OpenAI 的研究顯示，AI 代理人可以提高生產力，讓人們能夠完成更長、更複雜的任務。使用 AI 代理人可以讓你感到驚喜和高效！",
+      "viral_hook": "AI 代理人是未來工作的關鍵！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3JAh8VK98LHki9m4sr8KIR/3580b8ab65aca167342a3c674847531e/SEO_Card__2_.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "date": "2026-06-26"
+  }
+]
