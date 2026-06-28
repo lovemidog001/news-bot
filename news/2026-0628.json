@@ -240,5 +240,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/previewing-gpt-5-6-sol",
     "date": "2026-06-28"
+  },
+  {
+    "id": "012",
+    "title": "用一條命令就能跑 vLLM 伺服器？HF Jobs 教你這個神技！",
+    "summary": "想在 HF Jobs 上跑 vLLM 伺服器？現在只需一條命令就能搞定！",
+    "content": "<p>近期，HF Jobs 推出了支援 vLLM 伺服器的功能，讓使用者可以輕鬆地在平台上跑 vLLM 模型。但是，過去要跑 vLLM 伺服器，需要進行複雜的設定和配置。現在，HF Jobs 提供了一個簡單的解決方案，只需一條命令就能跑 vLLM 伺服器！</p>    <h2>什麼是 vLLM 伺服器？</h2>    <p>vLLM 伺服器是一種基於大型語言模型的伺服器，可以用於自然語言處理、文本生成等任務。過去，跑 vLLM 伺服器需要進行大量的設定和配置，但現在 HF Jobs 讓這個過程變得非常簡單。</p>    <h2>如何在 HF Jobs 上跑 vLLM 伺服器</h2>    <p>要在 HF Jobs 上跑 vLLM 伺服器，只需使用以下命令：<strong>hf-jobs run vllm</strong>。這個命令會自動配置和啟動 vLLM 伺服器，讓你可以立即開始使用。</p>    <h2>編輯悄悄話</h2>    <p>現在，你可以輕鬆地在 HF Jobs 上跑 vLLM 伺服器了！別再猶豫，趕快試試看吧！如果你有任何問題或需要幫助，隨時可以問我們哦！</p>",
+    "score": 90,
+    "takeaways": [
+      "HF Jobs 支援 vLLM 伺服器",
+      "只需一條命令就能啟動",
+      "簡單易用，不需要複雜設定"
+    ],
+    "punchline": "一條命令，輕鬆跑 vLLM 伺服器！",
+    "social_posts": {
+      "threads": "大家好！今天要分享一個超級方便的技巧！\n如何在 HF Jobs 上跑 vLLM 伺服器？\n答案是：只需一條命令就能搞定！\n#vLLM #HFJobs",
+      "facebook": "HF Jobs 現在支援 vLLM 伺服器！你可以使用一條命令就能跑 vLLM 伺服器。點擊連結了解更多！https://example.com",
+      "viral_hook": "一條命令，輕鬆跑 vLLM 伺服器！你會不會用？"
+    },
+    "image": "https://huggingface.co/blog/assets/vllm-jobs/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "date": "2026-06-28"
+  },
+  {
+    "id": "013",
+    "title": "AI智慧助手大解密：如何讓藥物研究更有效率？",
+    "summary": "藥物研究人員面臨的最大挑戰是如何快速找到有用的研究數據。現在，有一種AI智慧助手可以幫助您解決這個問題！",
+    "content": "<p>你是否曾經面臨過在大量的研究數據中找不到有用的信息？現在，有一種AI智慧助手可以幫助你解決這個問題！</p>    <h2>什麼是AI智慧助手？</h2>    <p>AI智慧助手是一種可以幫助藥物研究人員快速找到有用的研究數據、回答複雜的研究問題並草擬監管文件的系統。它可以提高藥物研究的效率和準確性。</p>    <h2>如何讓AI智慧助手更有效？</h2>    <p>要讓AI智慧助手更有效，需要透明和可解釋的系統、評估和監控、工程設計的恢復力和錯誤處理、以及提高數據質量的命名實體識別和標記。</p>    <h2>編輯悄悄話</h2>    <p>AI智慧助手是藥物研究人員的好幫手，但也需要我們的關注和評估。讓我們一起努力，打造更好的AI智慧助手，為藥物研究帶來更大的價值！</p>",
+    "score": 90,
+    "takeaways": [
+      "AI智慧助手可以幫助藥物研究人員快速找到有用的研究數據",
+      "AI智慧助手可以回答複雜的研究問題並草擬監管文件",
+      "AI智慧助手可以提高藥物研究的效率和準確性"
+    ],
+    "punchline": "AI智慧助手：你的研究好幫手！",
+    "social_posts": {
+      "threads": "你是否曾經面臨過在大量的研究數據中找不到有用的信息？現在，有一種AI智慧助手可以幫助你解決這個問題！分享你的經驗和想法吧！",
+      "facebook": "發現最新的AI智慧助手技術！可以幫助藥物研究人員快速找到有用的研究數據、回答複雜的研究問題並草擬監管文件。點擊連結了解更多！",
+      "viral_hook": "AI智慧助手：你的研究好幫手！"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-06-28"
   }
 ]
