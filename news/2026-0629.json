@@ -284,5 +284,71 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/hp-frontier-partnership",
     "date": "2026-06-29"
+  },
+  {
+    "id": "014",
+    "title": "爆炸性消息：Elastic Observability Serverless Metrics 價格大降 75%!",
+    "summary": "Elastic Observability Serverless 的 TSDS Metrics 價格降低至標準 Observability 價格的 25%，讓您用更低的成本獲得更好的 Metrics 效能。",
+    "content": "<h2>什麼是 Elastic Observability Serverless?</h2>    <p>Elastic Observability Serverless 是一種基於雲端的 Observability 平台，提供 Metrics、Logs 和 Traces 的存儲、查詢和分析功能。它可以幫助您更好地了解您的應用程序和基礎設施的性能和運行情況。</p>    <p>最近，Elastic Observability Serverless 推出了 TSDS Metrics 的價格更新，將 Metrics 價格降低至標準 Observability 價格的 25%。這意味著您可以用更低的成本獲得更好的 Metrics 效能。</p>    <h2>為什麼 Elastic Observability Serverless 的 Metrics 價格更低?</h2>    <p>Elastic Observability Serverless 的 Metrics 價格更低是因為其採用了 columnar storage engine 和 time series 數據存儲技術，能夠更高效地存儲和查詢 Metrics 數據。這意味著您可以用更低的成本獲得更好的 Metrics 效能。</p>    <p>另外，Elastic Observability Serverless 還提供了 native Prometheus ingest 和 PromQL 支持，讓您可以更容易地整合您的 Metrics 數據。</p>    <h2>編輯悄悄話</h2>    <p>如果您正在尋找一種更高效、更低成本的 Metrics 解決方案，Elastic Observability Serverless 是一個不錯的選擇。它的 TSDS Metrics 價格降低至標準 Observability 價格的 25%，讓您可以用更低的成本獲得更好的 Metrics 效能。</p>",
+    "score": 90,
+    "takeaways": [
+      "Elastic Observability Serverless 的 TSDS Metrics 價格降低至標準 Observability 價格的 25%。",
+      "Metrics 效能提高，存儲效率提高 2.5 倍，查詢延遲降低 30 倍。",
+      "與 Datadog 相比，Elastic Observability Serverless 的 Metrics 價格更低，成本節約超過 50%。"
+    ],
+    "punchline": "用更低的成本獲得更好的 Metrics 效能!",
+    "social_posts": {
+      "threads": "Elastic Observability Serverless 的 TSDS Metrics 價格降低至標準 Observability 價格的 25%！\n用更低的成本獲得更好的 Metrics 效能！",
+      "facebook": "Elastic Observability Serverless 推出了 TSDS Metrics 的價格更新，將 Metrics 價格降低至標準 Observability 價格的 25%。這意味著您可以用更低的成本獲得更好的 Metrics 效能。",
+      "viral_hook": "用更低的成本獲得更好的 Metrics 效能!"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt86fdc9cfbef62f5d/6a4249571950595f75991e2b/metricslaunch-blog.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/metrics-pricing",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "015",
+    "title": "人工智慧系統如何從 keyword 到智慧型助理？",
+    "summary": "打造可靠的人工智慧系統，讓研究人員輕鬆查詢數十年的研究資料",
+    "content": "<p>你是否曾經想過，如何讓數十年的研究資料變得容易查詢和利用？最近，一個與 Bayer 合作的項目，成功地使用 LLM 建立了一個智慧型助理，讓研究人員可以輕鬆地查詢和利用數十年的研究資料。</p>    <h2>從 keyword 到智慧型助理</h2>    <p>最初，這個系統只是使用 keyword-based search，但後來演變成了一個智慧型助理，能夠回答複雜的問題和創作監管文件。這個智慧型助理被稱為 PRINCE，是一個 evolutionary platform，能夠不斷地學習和改進。</p>    <h2>打造可靠的系統</h2>    <p>要打造一個可靠的智慧型助理，需要透明度和解釋性。這意味著系統需要能夠清楚地解釋其決策過程和結果。同時，系統也需要能夠處理錯誤和恢復，以確保其可靠性和安全性。</p>    <h2>編輯悄悄話</h2>    <p>智慧型助理的未來將會更加令人期待。隨著技術的不斷發展，智慧型助理將會變得更加聰明和可靠。讓我們拭目以待，智慧型助理將會帶來怎樣的革命性變革！",
+    "score": 90,
+    "takeaways": [
+      "使用 LLM 建立智慧型助理",
+      "從 keyword 到智慧型助理的演變",
+      "透明度和解釋性是打造可靠系統的關鍵"
+    ],
+    "punchline": "智慧型助理：從查詢到創作",
+    "social_posts": {
+      "threads": "你是否曾經想過，如何讓數十年的研究資料變得容易查詢和利用？\n最近，一個與 Bayer 合作的項目，成功地使用 LLM 建立了一個智慧型助理，讓研究人員可以輕鬆地查詢和利用數十年的研究資料。\n這個智慧型助理被稱為 PRINCE，是一個 evolutionary platform，能夠不斷地學習和改進。",
+      "facebook": "打造可靠的人工智慧系統，讓研究人員輕鬆查詢數十年的研究資料。透明度和解釋性是打造可靠系統的關鍵。點擊鏈接了解更多：https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "viral_hook": "數十年的研究資料變得容易查詢和利用？"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "016",
+    "title": "AI 將改變你的工作！歐盟職場機會地圖出爐，揭曉哪些工作會被自動化、哪些會成長",
+    "summary": "歐盟最新報告顯示，AI 將重塑跨歐盟的工作，哪些工作會面臨自動化、哪些會成長或改變",
+    "content": "<p>歐盟最新報告顯示，AI 將重塑跨歐盟的工作，哪些工作會面臨自動化、哪些會成長或改變。這份報告使用官方歐洲技能、能力、資格和職業（ESCO）分類法，沿著 Eurostat 就業數據，檢視 AI 能力如何轉化為不同類型的近期職業變化，跨越歐盟成員國。</p>    <h2>AI 對歐盟職場的影響</h2>    <p>報告指出，AI 將增加某些工作的需求，減少其他工作的勞動需求，並重新組織許多工作。報告還顯示，各國的職業結構差異將影響 AI 帶來的變化。例如，盧森堡、瑞典和荷蘭在 AI 成長工作中的就業份額較大，而德國、希臘和義大利在自動化潛力較高的工作中的就業份額較大。</p>    <h2>政策制定者和雇主的任務</h2>    <p>政策制定者、雇主、教育者和研究人員需要預測和規劃變化。報告建議，需要加強監測能力以追蹤勞動市場變化，建立國家準備計劃以量身定制干預措施。報告還強調，需要更好的證據來讓工人、公司和政策制定者有更多時間準備。</p>    <h2>編輯悄悄話</h2>    <p>AI 將改變你的工作，準備好吧！這份報告是為了幫助你準備，讓你更好地理解 AI 對你的工作和生活的影響。所以，別再猶豫，趕快來看看這份報告，為你的未來做好準備吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "AI 將重塑歐盟的工作市場，部分工作將面臨自動化",
+      "歐盟各國的工作結構差異將影響 AI 帶來的變化",
+      "政策制定者、雇主、教育者和研究人員需要預測和規劃變化"
+    ],
+    "punchline": "AI 將改變你的工作，準備好吧！",
+    "social_posts": {
+      "threads": "大家好！今天我要跟你們聊聊 AI 將如何改變你的工作。最新報告顯示，AI 將重塑跨歐盟的工作，哪些工作會面臨自動化、哪些會成長或改變。讓我們一起來看看吧！#AI #工作 #歐盟",
+      "facebook": "最新報告顯示，AI 將重塑跨歐盟的工作，哪些工作會面臨自動化、哪些會成長或改變。政策制定者、雇主、教育者和研究人員需要預測和規劃變化。讓我們一起來討論這個話題吧！#AI #工作 #歐盟",
+      "viral_hook": "AI 將改變你的工作！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2p06ZCpbXiQhTAbOY9J6OH/2f69f47125b18f9ced9c6000a0bcee0b/mapping-europes-ai-workforce-opportunity-seo-card.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "date": "2026-06-29"
   }
 ]
