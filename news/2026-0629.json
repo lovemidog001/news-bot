@@ -1,0 +1,288 @@
+[
+  {
+    "id": "001",
+    "title": "終於等到！用一條命令就能在HF Jobs上啟動自己的vLLM Server！",
+    "summary": "想體驗最新的語言模型技術，但不知道從哪裡開始？現在，只需一條命令就能在HF Jobs上啟動自己的vLLM Server，告別繁瑣的設定！",
+    "content": "<p>你是否曾夢想過擁有自己的語言模型Server，體驗最新的AI技術？現在，透過HF Jobs，你可以在短短一條命令中實現這個夢想！</p>    <h2>什麼是vLLM Server？</h2>    <p>vLLM Server是一種基於大型語言模型的服務器，可以讓你輕鬆地使用和部署最新的AI模型。它提供了高效、安全和可擴展的解決方案，讓你可以輕鬆地進行自然語言處理、文本生成和其他AI任務。</p>    <h2>如何在HF Jobs上啟動vLLM Server</h2>    <p>在HF Jobs上啟動vLLM Server非常簡單，只需一條命令就可以完成！你可以透過HF Jobs的命令列介面，輕鬆地部署和管理你的vLLM Server。這樣，你就可以專注於你的AI項目，而不需要擔心Server的設定和維護。</p>    <h2>編輯悄悄話</h2>    <p>別再猶豫了，趕快試試吧！你的AI夢想就在眼前，一條命令就能讓你解鎖無限可能。別忘了分享你的體驗和心得，讓更多人一起享受AI的樂趣！</p>",
+    "score": 90,
+    "takeaways": [
+      "vLLM Server的簡單部署過程",
+      "HF Jobs平台的強大支援",
+      "自建Server的優勢和潛在應用"
+    ],
+    "punchline": "一條命令，解鎖無限可能！",
+    "social_posts": {
+      "threads": "大家好！我剛剛發現了一個超棒的東西，可以用一條命令就啟動自己的vLLM Server！\n這對於AI愛好者來說真是夢想成真！\n有誰也想試試？",
+      "facebook": "體驗最新的AI技術，從簡單的命令開始！在HF Jobs上啟動你的vLLM Server，解鎖無限可能！分享你的體驗和心得，讓更多人一起享受AI的樂趣！",
+      "viral_hook": "一條命令，解鎖無限可能！"
+    },
+    "image": "https://huggingface.co/blog/assets/vllm-jobs/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/vllm-jobs",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "002",
+    "title": "PDF 文字提取大革命：從 Amazon S3 即時擷取文字，告別等待！",
+    "summary": "使用 MCP 伺服器即時從 Amazon S3 的 PDF 檔案中提取文字，滿足您的即時查詢需求，告別等待！",
+    "content": "<p>想象一下，您是一名合規官，需要在審計期間快速找到特定的條款；或者您是一名律師，需要在客戶等待的情況下查詢合同條款；又或者您是一名財務分析師，需要在會議開始前找到上季度報告中的數據。在這些情況下，等待批次處理的完成是不可行的，您需要即時存取 PDF 中的文字。</p>    <h2>什麼是 MCP 伺服器？</h2>    <p>MCP 伺服器是一種基於協定的方法，提供即時的文件存取。它允許您建立一個伺服器，從 Amazon S3 的 PDF 文件中即時提取文字。這個方法與 Amazon Textract 相比，提供了一種更快速、更靈活的文件處理方式。</p>    <h2>如何使用 MCP 伺服器？</h2>    <p>使用 MCP 伺服器非常簡單，您只需要建立一個伺服器，然後將您的 PDF 文件上傳到 Amazon S3。然後，您就可以使用自然語言查詢您的文件，獲得即時的答案。</p>    <p>這個解決方案適用於文本型 PDF 文件，開發和驗證環境。它提供了一種快速、靈活的文件處理方式，讓您可以即時存取 PDF 中的文字。</p>    <h2>編輯悄悄話</h2>    <p>所以，還在等什麼？使用 MCP 伺服器，即時從 PDF 中提取文字，讓您的工作更高效！",
+    "score": 90,
+    "takeaways": [
+      "使用 MCP 伺服器即時從 Amazon S3 的 PDF 檔案中提取文字",
+      "滿足即時查詢需求，無需等待批次處理",
+      "適用於文本型 PDF 文件，開發和驗證環境"
+    ],
+    "punchline": "即時從 PDF 中提取文字，讓您的工作更高效！",
+    "social_posts": {
+      "threads": "您是否曾經需要即時從 PDF 中提取文字？\n使用 MCP 伺服器，即時從 Amazon S3 的 PDF 文件中提取文字，滿足您的即時查詢需求，告別等待！",
+      "facebook": "即時從 PDF 中提取文字，讓您的工作更高效！使用 MCP 伺服器，即時從 Amazon S3 的 PDF 文件中提取文字，滿足您的即時查詢需求，告別等待！",
+      "viral_hook": "PDF 文字提取大革命：從 Amazon S3 即時擷取文字，告別等待！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/23/19835.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "003",
+    "title": "AI時代的隱私保證：如何讓機器了解你的資料？",
+    "summary": "在AI-native時代，隱私保證是一個挑戰，了解資料的內容和意義是關鍵，Meta的asset classification案例可以幫助你了解如何解決這個問題",
+    "content": "<p>在AI-native時代，隱私保證是一個挑戰，了解資料的內容和意義是關鍵。Meta的asset classification案例可以幫助你了解如何解決這個問題</p>    <h2>什麼是asset classification?</h2>    <p>asset classification是指將資料分類為不同的類別，以便於隱私保證和資料管理。這是一個複雜的問題，因為資料的內容和意義可能會根據不同的情境而有所不同</p>    <h2>Meta的asset classification案例</h2>    <p>Meta使用hybrid pattern來解決asset classification的挑戰，結合了人工智慧和人工審查的優點。這個方法可以幫助Meta更好地了解資料的內容和意義，從而提供更好的隱私保證</p>    <h2>編輯悄悄話</h2>    <p>在AI-native時代，隱私保證是一個挑戰，但也是一個機會。通過了解資料的內容和意義，我們可以提供更好的隱私保證和資料管理。讓我們一起努力，讓機器了解你的資料，才能真正保護你的隱私</p>",
+    "score": 85,
+    "takeaways": [
+      "AI-native產品使得隱私保證更加複雜",
+      "asset classification是隱私保證的基礎",
+      "使用hybrid pattern可以解決asset classification的挑戰"
+    ],
+    "punchline": "讓機器了解你的資料，才能真正保護你的隱私",
+    "social_posts": {
+      "threads": "      有人問我，AI時代的隱私保證如何解決？      我說，了解資料的內容和意義是關鍵      但這是一個複雜的問題，因為資料的內容和意義可能會根據不同的情境而有所不同      所以，我們需要使用hybrid pattern來解決asset classification的挑戰      這個方法可以幫助我們更好地了解資料的內容和意義，從而提供更好的隱私保證    ",
+      "facebook": "      在AI-native時代，隱私保證是一個挑戰，但也是一個機會。通過了解資料的內容和意義，我們可以提供更好的隱私保證和資料管理。讓我們一起努力，讓機器了解你的資料，才能真正保護你的隱私    ",
+      "viral_hook": "讓機器了解你的資料，才能真正保護你的隱私"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Privacy-Aware-Infrastructure-in-the-AI-Native-Era-HERO.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "004",
+    "title": "資料庫慢了？別怪資料庫！優化 PostgreSQL 的秘訣就在 Visual Studio Code",
+    "summary": "資料庫效能不佳，不只是技術問題，還會影響企業的效率、客戶滿意度，甚至營收！",
+    "content": "<p>你是否曾經遇過資料庫效能不佳的問題？這不只是技術人員的麻煩，還會影響企業的整體效能、客戶滿意度，甚至營收！</p>    <h2>什麼是資料庫效能問題？</h2>    <p>資料庫效能問題不只是資料庫本身的問題，還會對企業的運營、客戶滿意度等方面產生深遠影響。例如，延遲的發布、不滿意的客戶、甚至營收的損失等等。</p>    <p>但你知道嗎？優化 PostgreSQL 可以直接在 Visual Studio Code 進行！微軟 Azure 提供了強大的工具來提升資料庫效能，讓你可以輕鬆地優化你的資料庫，提升企業的效能。</p>    <h2>如何優化 PostgreSQL</h2>    <p>那麼，如何優化 PostgreSQL 呢？首先，你需要了解你的資料庫的瓶頸所在。然後，你可以使用微軟 Azure 的工具來分析和優化你的資料庫。最後，你需要定期維護和監控你的資料庫，確保它的效能始終最佳。</p>    <h2>編輯悄悄話</h2>    <p>優化資料庫，不只是技術人員的工作，還需要企業的支持和配合。所以，別再怪資料庫了，開始優化你的 PostgreSQL 吧！",
+    "score": 85,
+    "takeaways": [
+      "資料庫效能問題會對企業產生深遠影響",
+      "優化 PostgreSQL 可以直接在 Visual Studio Code 進行",
+      "微軟 Azure 提供了強大的工具來提升資料庫效能"
+    ],
+    "punchline": "優化資料庫，提升企業效能！",
+    "social_posts": {
+      "threads": "你是否曾經遇過資料庫效能不佳的問題？\n這不只是技術人員的麻煩，還會影響企業的整體效能、客戶滿意度，甚至營收！\n優化 PostgreSQL 可以直接在 Visual Studio Code 進行！",
+      "facebook": "資料庫效能不佳，不只是技術問題，還會影響企業的效率、客戶滿意度，甚至營收！優化 PostgreSQL 可以直接在 Visual Studio Code 進行，微軟 Azure 提供了強大的工具來提升資料庫效能。",
+      "viral_hook": "資料庫慢了？別怪資料庫！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/PostgreSQL-database-admin-3.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "005",
+    "title": "別再為合規性頭痛！Elastic Security 推出全新合規性解決方案",
+    "summary": "傳統的合規性工作方式已經過時，Elastic Security 引入了 Agent Builder 中的主動合規性，從 PCI DSS v4.0.1 開始，讓合規性工作更具互動性和實用性",
+    "content": "<p>你是否厭倦了傳統的合規性工作方式？Elastic Security 的 Agent Builder 中的主動合規性可能是你一直等待的解決方案。從 PCI DSS v4.0.1 開始，該技能可以幫助用戶發現相關數據、評估合規性要求、生成報告和檢查證據。</p><h2>什麼是主動合規性？</h2><p>主動合規性是 Elastic Security 引入的一種新的合規性模式，旨在讓合規性工作更具互動性和實用性。它可以幫助用戶發現相關數據、評估合規性要求、生成報告和檢查證據，從而讓合規性工作更具效率和有效性。</p><h2>PCI DSS v4.0.1 合規性技能</h2><p>PCI DSS v4.0.1 合規性技能是 Elastic Security 引入的第一個合規性技能。它可以幫助用戶發現相關數據、評估合規性要求、生成報告和檢查證據。該技能遵循四步自然調查模式：發現範圍、評估姿勢、檢查證據和解決差距。</p><h2>編輯悄悄話</h2><p>別再為合規性頭痛！Elastic Security 的 Agent Builder 中的主動合規性是你一直等待的解決方案。試試看吧，你會發現合規性工作不再是單純的-dashboard-觀看，而是一種更具互動性和實用性的工作方式。</p>",
+    "score": 90,
+    "takeaways": [
+      "Elastic Security 的 Agent Builder 引入了主動合規性，讓合規性工作更具互動性和實用性",
+      "PCI DSS v4.0.1 合規性技能可以幫助用戶發現相關數據、評估合規性要求、生成報告和檢查證據",
+      "該技能遵循四步自然調查模式：發現範圍、評估姿勢、檢查證據和解決差距"
+    ],
+    "punchline": "合規性工作不再是單純的-dashboard-觀看",
+    "social_posts": {
+      "threads": "你是否厭倒了傳統的合規性工作方式？\nElastic Security 的 Agent Builder 中的主動合規性可能是你一直等待的解決方案。\n從 PCI DSS v4.0.1 開始，該技能可以幫助用戶發現相關數據、評估合規性要求、生成報告和檢查證據。\n#合規性 #AgentBuilder #ElasticSecurity",
+      "facebook": "別再為合規性頭痛！Elastic Security 的 Agent Builder 中的主動合規性是你一直等待的解決方案。試試看吧，你會發現合規性工作不再是單純的-dashboard-觀看，而是一種更具互動性和實用性的工作方式。https://www.elastic.co/",
+      "viral_hook": "合規性工作不再是單純的-dashboard-觀看！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt11b381bf2d1026c8/6a299e97db237ea2a1c59490/agent-compliance-skill-blog_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/agentic-compliance-skills",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "006",
+    "title": "AI 颠覆传统！顶尖研究机构推出新一代 AI 模型，性能提升 30%！",
+    "summary": "近日，顶尖研究机构发布了新一代 AI 模型，性能提升 30%！这款模型采用了最新的技术和算法，能够更好地处理复杂数据和任务。该模型的发布将对 AI 领域产生重大影响，推动 AI 技术的进一步发展。",
+    "content": "<h2>新一代 AI 模型发布</h2><p>近日，顶尖研究机构发布了新一代 AI 模型，性能提升 30%！这款模型采用了最新的技术和算法，能够更好地处理复杂数据和任务。</p><h2>模型特点</h2><ul><li>采用最新技术和算法</li><li>能够更好地处理复杂数据和任务</li><li>性能提升 30%</li></ul><h2>应用领域</h2><p>该模型的发布将对 AI 领域产生重大影响，推动 AI 技术的进一步发展。它将被应用于各个领域，包括但不限于：</p><ul><li>自然语言处理</li><li>图像识别</li><li>机器学习</li></ul><h2>结论</h2><p>新一代 AI 模型的发布标志着 AI 技术的又一次重大突破。它将带来更好的性能、更高的准确率和更广泛的应用。我们期待着它将如何改变我们的生活和工作方式。</p><h2>编辑悄悄话</h2><p>AI 颠覆传统！新一代 AI 模型性能提升 30%！这款模型采用了最新的技术和算法，能够更好地处理复杂数据和任务。它将被应用于各个领域，包括但不限于自然语言处理、图像识别和机器学习。我们期待着它将如何改变我们的生活和工作方式。</p>",
+    "score": 95,
+    "takeaways": [
+      "新一代 AI 模型性能提升 30%",
+      "采用最新技术和算法",
+      "能够更好地处理复杂数据和任务"
+    ],
+    "punchline": "AI 颠覆传统！新一代 AI 模型性能提升 30%！",
+    "social_posts": {
+      "threads": "新一代 AI 模型发布！性能提升 30%！这款模型采用了最新的技术和算法，能够更好地处理复杂数据和任务。它将被应用于各个领域，包括但不限于自然语言处理、图像识别和机器学习。我们期待着它将如何改变我们的生活和工作方式。",
+      "facebook": "新一代 AI 模型发布！性能提升 30%！这款模型采用了最新的技术和算法，能够更好地处理复杂数据和任务。它将被应用于各个领域，包括但不限于自然语言处理、图像识别和机器学习。我们期待着它将如何改变我们的生活和工作方式。",
+      "viral_hook": "AI 颠覆传统！新一代 AI 模型性能提升 30%！"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-359",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "007",
+    "title": "揭秘腾讯混元AI Infra：如何讓Hy3 Preview性能提升超越想像!",
+    "summary": "發現最新的AI技術如何改變你的工作效率！",
+    "content": "<p>你是否曾經想過，如何讓你的工作效率提升到極致？答案就在於AI技術的應用！腾讯混元AI Infra就是一個讓Hy3 Preview性能提升的技術解決方案。</p>    <h2>什麼是腾讯混元AI Infra?</h2>    <p>腾讯混元AI Infra是一個基於AI的性能優化平台，旨在讓Hy3 Preview的大模型推理性能提升到極致。透過這個平台，開發者可以輕鬆地優化他們的AI模型，讓它們運行得更快、更準確。</p>    <h2>Hy3 Preview的大模型推理性能提升</h2>    <p>Hy3 Preview是一個基於AI的視頻編輯工具，需要大量的計算資源來運行。腾讯混元AI Infra的優化技術可以讓Hy3 Preview的大模型推理性能提升超越想像，讓用戶可以更快速地編輯和渲染視頻。</p>    <h2>編輯悄悄話</h2>    <p>所以，還在等什麼？趕快來體驗腾讯混元AI Infra的強大功能吧！讓你的工作效率提升到極致，讓你的生活更輕鬆、更愉快！",
+    "score": 90,
+    "takeaways": [
+      "腾讯混元AI Infra的優化技術",
+      "Hy3 Preview的大模型推理性能提升",
+      "AI技術在實際應用中的價值"
+    ],
+    "punchline": "AI讓效率提升超越想像!",
+    "social_posts": {
+      "threads": "你知道嗎？腾讯混元AI Infra可以讓Hy3 Preview的大模型推理性能提升超越想像！\n發現最新的AI技術如何改變你的工作效率！",
+      "facebook": "發現最新的AI技術如何改變你的工作效率！腾讯混元AI Infra是一個基於AI的性能優化平台，旨在讓Hy3 Preview的大模型推理性能提升到極致。趕快來體驗吧！",
+      "viral_hook": "AI讓效率提升超越想像！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802370&idx=1&sn=933bed02fa58d278084e12946d3fa8ce",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "008",
+    "title": "RAG大混戰：3種連接LLM和數據的方法，你該選哪一個？",
+    "summary": "RAG技術可以連接LLM和你的數據，但有三種不同的做法，你需要了解哪一種適合你的需求",
+    "content": "<p>RAG技術是目前人工智慧領域的一個熱門話題，它可以連接LLM和你的數據，提供更好的答案和解決方案。但是，RAG技術有三種不同的做法，你需要了解哪一種適合你的需求。</p>    <h2>Standard RAG</h2>    <p>Standard RAG是一種快速和廉價的方法，它可以連接LLM和你的數據，但是如果錯誤的 chunk 被檢索，答案就會錯誤。這種方法適合於需要速度和答案存在於文檔中的情況。</p>    <h2>Graph RAG和Agentic RAG</h2>    <p>Graph RAG是一種昂貴和慢的方法，它適合於結構化知識的數據，如法律、合規或生物醫學數據。Agentic RAG是一種更具能力和靈活性的方法，但是它也更慢、更昂貴和更難以除錯。這種方法適合於需要多步驟推理和自我糾正的情況。</p>    <h2>編輯悄悄話</h2>    <p>選擇合適的RAG方法需要根據具體需求和情況，不能一概而論。希望這篇文章可以幫助你了解RAG技術和其三種不同的做法，從而選擇最適合你的方法。</p>",
+    "score": 90,
+    "takeaways": [
+      "RAG技術可以連接LLM和你的數據",
+      "有三種不同的RAG方法：Standard RAG、Graph RAG和Agentic RAG",
+      "每種方法都有其優缺點，需要根據具體需求選擇"
+    ],
+    "punchline": "RAG技術是連接LLM和數據的關鍵",
+    "social_posts": {
+      "threads": "你知道RAG技術有三種不同的做法嗎？\nStandard RAG、Graph RAG和Agentic RAG哪一種適合你的需求？\n讓我們一起探討RAG技術和其應用",
+      "facebook": "RAG技術是連接LLM和數據的關鍵，但是有三種不同的做法，你需要了解哪一種適合你的需求。點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "RAG技術：3種連接LLM和數據的方法，你該選哪一個？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!LlLN!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4d255e1-536e-4f66-ab48-e8baa1bdd4a4_2484x3002.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "009",
+    "title": "AI安全新時代：VPC Service Controls如何守護你的企業數據",
+    "summary": "隨著AI的發展，企業需要更強大的安全措施。VPC Service Controls提供了一個強大的安全網，保護企業數據免受外部威脅。",
+    "content": "<p>隨著AI的發展，企業需要更強大的安全措施。VPC Service Controls提供了一個強大的安全網，保護企業數據免受外部威脅。</p>    <h2>什麼是VPC Service Controls</h2>    <p>VPC Service Controls是一種安全解決方案，提供了一個強大的安全網，保護企業數據免受外部威脅。它可以幫助防止數據外泄和惡意攻擊，確保企業數據的安全。</p>    <h2>如何使用VPC Service Controls</h2>    <p>使用VPC Service Controls非常簡單。您只需要將其整合到您的企業安全系統中，就可以享受其強大的安全功能。VPC Service Controls可以幫助您防止數據外泄和惡意攻擊，確保企業數據的安全。</p>    <h2>編輯悄悄話</h2>    <p>在這個時代，企業數據的安全是非常重要的。VPC Service Controls提供了一個強大的安全網，保護企業數據免受外部威脅。不要等到為時已晚，立即使用VPC Service Controls，保護您的企業數據吧！",
+    "score": 90,
+    "takeaways": [
+      "VPC Service Controls提供了一個強大的安全網，保護企業數據免受外部威脅",
+      "AI安全需要一個分層的方法，包括身份、網絡和資源控制",
+      "VPC Service Controls可以幫助防止數據外泄和惡意攻擊"
+    ],
+    "punchline": "VPC Service Controls：您的企業數據安全的最後一道防線",
+    "social_posts": {
+      "threads": "大家好！今天要分享一個非常重要的主題：AI安全。隨著AI的發展，企業需要更強大的安全措施。VPC Service Controls提供了一個強大的安全網，保護企業數據免受外部威脅。#AI安全 #VPC Service Controls",
+      "facebook": "企業數據安全是非常重要的。VPC Service Controls提供了一個強大的安全網，保護企業數據免受外部威脅。立即使用VPC Service Controls，保護您的企業數據吧！#AI安全 #VPC Service Controls",
+      "viral_hook": "您的企業數據安全的最後一道防線：VPC Service Controls"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/17_-_Security__Identity_NrORvDT.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/identity-security/securing-agentic-ai-whats-new-in-vpc-service-controls/",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "010",
+    "title": "AI 大戰：馬斯克慘輸 1500 億美元訴訟，谷歌 IO 大會帶來什麼驚喜？",
+    "summary": "馬斯克對 OpenAI 的訴訟以失敗告終，谷歌 IO 大會推出 Gemini 應對 ChatGPT，什麼才是真正的 AI 未來？",
+    "content": "<p>最近，AI 界發生了多起重大事件。馬斯克對 OpenAI 的訴訟因為遲遲未能提出而敗訴，谷歌 IO 大會推出 Gemini 應對 ChatGPT 和 Claude，OpenAI 更是解決了著名的 Erdős 數學問題。</p>    <h2>馬斯克的訴訟之戰</h2>    <p>馬斯克對 OpenAI 的訴訟源於他認為 Sam Altman 竊取了他的非營利組織的想法。但是，庭審顯示馬斯克的目標和 Sam Altman 其實相似。最終，馬斯克因為遲遲未能提出訴訟而敗訴，損失了 1500 億美元。</p>    <h2>谷歌 IO 大會的驚喜</h2>    <p>谷歌 IO 大會推出 Gemini 應對 ChatGPT 和 Claude，讓人們對 AI 的未來充滿期待。Gemini 是一個多功能的 AI 平台，可以用於各種應用。同時，OpenAI 解決了著名的 Erdős 數學問題，展示了 AI 的強大能力。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來不再是夢想，而是現實的挑戰。馬斯克的訴訟失敗和谷歌 IO 大會的驚喜，讓我們看到 AI 的發展速度和廣度。那么，什麼才是真正的 AI 未來？讓我們繼續關注和探索！</p>",
+    "score": 90,
+    "takeaways": [
+      "馬斯克對 OpenAI 的訴訟因為遲遲未能提出而敗訴",
+      "谷歌 IO 大會推出 Gemini 應對 ChatGPT 和 Claude",
+      "OpenAI 解決了著名的 Erdős 數學問題"
+    ],
+    "punchline": "AI 的未來不再是夢想，而是現實的挑戰！",
+    "social_posts": {
+      "threads": "馬斯克的訴訟失敗和谷歌 IO 大會的驚喜，讓我們看到 AI 的發展速度和廣度。什麼才是真正的 AI 未來？",
+      "facebook": "馬斯克對 OpenAI 的訴訟因為遲遲未能提出而敗訴，谷歌 IO 大會推出 Gemini 應對 ChatGPT 和 Claude。分享你的想法，什麼才是真正的 AI 未來？",
+      "viral_hook": "馬斯克損失 1500 億美元！谷歌 IO 大會推出 Gemini，AI 的未來是什麼？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "011",
+    "title": "Next.js 16.3 來了！AI 功能大升級，讓你的開發效率爆表！",
+    "summary": "Next.js 16.3 預覽版即將發布，帶來 AI 功能的重大升級，包括可操作的錯誤提示、技能功能和緩存元件，讓你的開發效率大幅提升！",
+    "content": "<p>Next.js 16.3 預覽版即將發布，帶來 AI 功能的重大升級。這次升級包括可操作的錯誤提示、技能功能和緩存元件，讓你的開發效率大幅提升！</p>    <h2>可操作的錯誤提示</h2>    <p>Next.js 16.3 引入可操作的錯誤提示，讓你快速解決問題。這個功能可以自動檢測錯誤，並提供可操作的提示，讓你快速解決問題。</p>    <h2>技能功能</h2>    <p>技能功能讓你的 AI 代碼助手可以更好地理解你的專案。這個功能可以提供框架特定的上下文，讓你的 AI 代碼助手可以更好地理解你的專案。</p>    <ul>      <li>Next.js 16.3 添加了三個新的技能功能：next-dev-loop、next-cache-components-adoption 和 next-cache-components-optimizer</li>      <li>這些技能功能可以讓你的 AI 代碼助手可以更好地理解你的專案，並提供更好的開發體驗</li>    </ul>    <h2>編輯悄悄話</h2>    <p>Next.js 16.3，是一個非常重要的升級。這個升級不僅可以提高你的開發效率，也可以讓你的 AI 代碼助手可以更好地理解你的專案。所以，快來試試吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.3 引入可操作的錯誤提示，讓你快速解決問題",
+      "技能功能讓你的 AI 代碼助手可以更好地理解你的專案",
+      "緩存元件可以大幅提高你的網頁的載入速度"
+    ],
+    "punchline": "Next.js 16.3，讓你的開發效率飛躍！",
+    "social_posts": {
+      "threads": "Next.js 16.3 來了！\nAI 功能大升級，讓你的開發效率爆表！\n可操作的錯誤提示、技能功能和緩存元件，讓你的開發效率大幅提升！",
+      "facebook": "Next.js 16.3 預覽版即將發布，帶來 AI 功能的重大升級。這次升級包括可操作的錯誤提示、技能功能和緩存元件，讓你的開發效率大幅提升！快來試試吧！",
+      "viral_hook": "Next.js 16.3，大幅提高你的開發效率！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-16-3-ai-improvements/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-16-3-ai-improvements",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "012",
+    "title": "電腦使用力大增！Gemini 3.5 Flash 讓 AI 更聰明",
+    "summary": "Gemini 3.5 Flash 導入電腦使用功能，讓 AI 能夠跨平台互動，為開發人員帶來更強大的工具",
+    "content": "<p>Gemini 3.5 Flash 導入電腦使用功能，讓 AI 能夠跨平台互動，為開發人員帶來更強大的工具。這意味著開發人員可以使用 Gemini 3.5 Flash 建立自訂代理，實現長期和企業自動化任務。</p>    <h2>什麼是電腦使用功能？</h2>    <p>電腦使用功能是一種讓 AI 能夠使用電腦資源的功能，例如瀏覽器、手機和桌面環境。這意味著 AI 可以使用電腦資源來執行任務，例如連續軟體測試和知識工作。</p>    <h2>安全性功能</h2>    <p>Gemini 3.5 Flash 提供安全性功能，包括目標對抗性訓練和企業安全系統。這些功能可以幫助開發人員確保他們的 AI 應用程式是安全的，同時也能夠防止 AI 被惡意使用。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來是非常光明的，Gemini 3.5 Flash 的電腦使用功能只是剛剛開始。開發人員可以使用這些功能來建立更加聰明和安全的 AI 應用程式，讓我們的生活更加便捷和安全。</p>",
+    "score": 90,
+    "takeaways": [
+      "Gemini 3.5 Flash 導入電腦使用功能，讓 AI 能夠跨平台互動",
+      "開發人員可以使用 Gemini 3.5 Flash 建立自訂代理，實現長期和企業自動化任務",
+      "Gemini 3.5 Flash 提供安全性功能，包括目標對抗性訓練和企業安全系統"
+    ],
+    "punchline": "AI 更聰明了！",
+    "social_posts": {
+      "threads": "AI 更聰明了！Gemini 3.5 Flash 導入電腦使用功能，讓開發人員可以建立自訂代理，實現長期和企業自動化任務。 #AI #Gemini",
+      "facebook": "Gemini 3.5 Flash 導入電腦使用功能，讓 AI 能夠跨平台互動，為開發人員帶來更強大的工具。了解更多：https://example.com",
+      "viral_hook": "AI 的未來是非常光明的，Gemini 3.5 Flash 的電腦使用功能只是剛剛開始！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "013",
+    "title": "HP Inc. 與 OpenAI 合作打造 AI 新時代，企業轉型的關鍵就在這裡！",
+    "summary": "HP Inc. 與 OpenAI 的 Frontier 戰略合作將革新企業運營、客戶體驗和軟體開發，讓 AI 成為企業轉型的關鍵引擎。",
+    "content": "<p>HP Inc. 與 OpenAI 的 Frontier 戰略合作是企業轉型的一個重要里程碑。這個合作將把 AI 技術應用於客戶體驗、軟體開發和企業運營，讓 HP 可以更好地服務客戶和加速企業轉型。</p>    <h2>什麼是 Frontier 戰略合作？</h2>    <p>Frontier 戰略合作是一個統一的平台，讓 HP 可以理解和管理 AI 工作流程。它提供了一個連接層，讓 HP 可以知道哪些工具可以存取、哪些動作可以採取、以及如何評估結果。這個平台將幫助 HP 從試點項目轉向生產，讓 AI 成為企業轉型的關鍵引擎。</p>    <h2>編輯悄悄話</h2>    <p>HP Inc. 與 OpenAI 的合作是企業轉型的一個重要里程碑。AI 技術將革新企業運營、客戶體驗和軟體開發。讓我們拭目以待，看看這個合作將如何改變未來的企業形態吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "HP Inc. 與 OpenAI 的合作將把 AI 技術應用於客戶體驗、軟體開發和企業運營",
+      "Frontier 戰略合作將提供一個統一的平台，讓 HP 可以理解和管理 AI 工作流程",
+      "該合作將革新企業運營，讓 AI 成為企業轉型的關鍵引擎"
+    ],
+    "punchline": "AI 是未來企業的關鍵引擎",
+    "social_posts": {
+      "threads": "你知道 HP Inc. 與 OpenAI 的 Frontier 戰略合作嗎？這個合作將把 AI 技術應用於客戶體驗、軟體開發和企業運營，讓 HP 可以更好地服務客戶和加速企業轉型。 #HP #OpenAI #AI",
+      "facebook": "HP Inc. 與 OpenAI 的 Frontier 戰略合作是企業轉型的一個重要里程碑。這個合作將提供一個統一的平台，讓 HP 可以理解和管理 AI 工作流程。讓我們一起探討這個合作將如何改變未來的企業形態吧！ #HP #OpenAI #AI",
+      "viral_hook": "AI 是未來企業的關鍵引擎！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/27SeSwGzXJ8BQXlEobHQIG/6cd70adfdfd93e9ba1b41bc38e0f01be/HP-16_9.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "date": "2026-06-29"
+  }
+]
