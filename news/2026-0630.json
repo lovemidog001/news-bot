@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "革命性AI出現！DiScoFormer能同時預測密度和分數，讓機器學習更上一層樓",
+    "summary": "一種新的Transformer模型叫做DiScoFormer，能夠同時預測密度和分數，讓機器學習更強大、更準確，對未來的AI發展有著深遠的影響",
+    "content": "<p>近日，一種新的Transformer模型叫做DiScoFormer出現了，它能夠同時預測密度和分數，讓機器學習更強大、更準確。這種模型可以應用於各種機器學習任務，例如圖像分類、自然語言處理等。</p>    <h2>什麼是DiScoFormer？</h2>    <p>DiScoFormer是一種基於Transformer的模型，它可以同時預測密度和分數。這種模型使用了一種新的架構，結合了密度估計和分數預測的優點，可以更好地處理各種機器學習任務。</p>    <h2>DiScoFormer的優點</h2>    <p>DiScoFormer的優點在於它可以同時預測密度和分數，這使得它可以更好地處理各種機器學習任務。另外，DiScoFormer的模型架構也更加簡單、更加容易訓練和優化。</p>    <h2>編輯悄悄話</h2>    <p>雖然DiScoFormer是一種非常強大的模型，但是它的出現也意味著AI的未來將會更加不可預測。所以，讓我們拭目以待，看看DiScoFormer將會如何改變未來的AI發展方向吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "DiScoFormer能夠同時預測密度和分數",
+      "這種模型可以應用於各種機器學習任務",
+      "DiScoFormer的出現可能會改變未來的AI發展方向"
+    ],
+    "punchline": "AI的未來，從現在開始！",
+    "social_posts": {
+      "threads": "大家好，我今天想跟大家分享一個非常酷的AI模型叫做DiScoFormer，它可以同時預測密度和分數，讓機器學習更強大、更準確！\n\n這種模型可以應用於各種機器學習任務，例如圖像分類、自然語言處理等。\n\n讓我們拭目以待，看看DiScoFormer將會如何改變未來的AI發展方向吧！",
+      "facebook": "革命性AI出現！DiScoFormer能同時預測密度和分數，讓機器學習更上一層樓！\n\n這種模型可以應用於各種機器學習任務，例如圖像分類、自然語言處理等。\n\n分享給你的朋友們，讓他們也知道這個酷炫的AI模型吧！",
+      "viral_hook": "AI的未來，從現在開始！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/AnOX0pzQm-Hep_CLFOVM7.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/discoformer",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "002",
+    "title": "別再等了！保護你的Amazon Quick Sight資產，免得資料消失",
+    "summary": "為了保護你的Amazon Quick Sight資產，建立一個有效的備份策略是非常重要的，尤其是在金融、醫療和能源等嚴格監管的行業中。",
+    "content": "<p>你是否曾經遇到過資料意外刪除或修改的問題？Amazon Quick Sight是一個強大的商業智慧工具，但是如果沒有適當的備份策略，可能會導致資料損失和業務中斷。</p>    <h2>什麼是Amazon Quick Sight？</h2>    <p>Amazon Quick Sight是一個基於雲端的商業智慧平台，提供AI驅動的自然語言查詢、互動式儀表板和嵌入式分析功能。它可以幫助你快速地獲得商業洞察和做出決策。</p>    <h2>如何保護你的Amazon Quick Sight資產？</h2>    <p>為了保護你的Amazon Quick Sight資產，建立一個有效的備份策略是非常重要的。你可以使用AssetsAsBundleAPIs進行備份，並且需要了解Quick Sight的架構和維度，包括使用者和身分管理、資料來源和資料集等。</p>    <h2>編輯悄悄話</h2>    <p>別再等了，開始保護你的Amazon Quick Sight資產吧！建立一個有效的備份策略可以幫助你避免資料損失和業務中斷，讓你可以專注於商業決策和發展。",
+    "score": 85,
+    "takeaways": [
+      "Amazon Quick Sight資產可以使用AssetsAsBundleAPIs進行備份",
+      "建立一個有效的備份策略可以保護你的資料免受意外刪除、修改和地區中斷的影響",
+      "了解Quick Sight的架構和維度是建立備份計劃的關鍵"
+    ],
+    "punchline": "保護你的資料，免得消失",
+    "social_posts": {
+      "threads": "你是否曾經遇到過資料意外刪除或修改的問題？\n建立一個有效的備份策略可以幫助你避免資料損失和業務中斷。\n#AmazonQuickSight #備份策略",
+      "facebook": "保護你的Amazon Quick Sight資產，免得資料消失！\n建立一個有效的備份策略可以幫助你避免資料損失和業務中斷，讓你可以專注於商業決策和發展。\nhttps://example.com",
+      "viral_hook": "別再等了，開始保護你的Amazon Quick Sight資產吧！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/29/ml-20472.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/implement-a-backup-strategy-for-amazon-quick-sight-bi-assets/",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "003",
+    "title": "你的隱私資料安全嗎？AI時代的隱私基礎設施保密戰",
+    "summary": "隱私控制需要可靠的資料理解，才能有效運作。在AI時代，資料型態繁多，隱私基礎設施面臨挑戰",
+    "content": "<p>在AI時代，隱私基礎設施面臨著前所未有的挑戰。隨著資料型態的繁多，隱私控制需要可靠的資料理解，才能有效運作。</p>    <h2>什麼是隱私基礎設施?</h2>    <p>隱私基礎設施是指一套系統，負責執行資料保留、存取、允許用途、下游分享或匿名化等政策。這些政策需要可靠的資料理解，才能有效運作。</p>    <h2>AI時代的隱私基礎設施挑戰</h2>    <p>在AI時代，資料型態繁多，隱私基礎設施面臨著挑戰。人工智慧可以幫助隱私基礎設施，但需要人類審核和監督。因為人工智慧可能會誤判資料，導致不必要的限制或保護漏洞。</p>    <h2>編輯悄悄話</h2>    <p>你的隱私資料安全嗎？在AI時代，隱私基礎設施是非常重要的。讓我們一起關注隱私基礎設施的發展，保護我們的隱私資料安全。",
+    "score": 85,
+    "takeaways": [
+      "隱私控制需要可靠的資料理解",
+      "AI時代的資料型態繁多，隱私基礎設施面臨挑戰",
+      "人工智慧可以幫助隱私基礎設施，但需要人類審核和監督"
+    ],
+    "punchline": "你的隱私資料安全嗎？",
+    "social_posts": {
+      "threads": "你的隱私資料安全嗎？在AI時代，隱私基礎設施面臨著挑戰。人工智慧可以幫助隱私基礎設施，但需要人類審核和監督。#隱私基礎設施 #AI時代",
+      "facebook": "在AI時代，隱私基礎設施是非常重要的。讓我們一起關注隱私基礎設施的發展，保護我們的隱私資料安全。分享你的想法和意見！#隱私基礎設施 #AI時代",
+      "viral_hook": "你的隱私資料安全嗎？"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Privacy-Aware-Infrastructure-in-the-AI-Native-Era-HERO.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "004",
+    "title": "資料庫效能大解密：在 Visual Studio Code 中優化 PostgreSQL",
+    "summary": "資料庫效能不佳不只是資料庫的問題，還會影響企業的整體運營和收入，了解優化 PostgreSQL 的方法可以幫助企業避免損失",
+    "content": "<p>你是否曾經遇到資料庫效能不佳的問題，導致你的應用程式變慢，甚至影響到用戶體驗？如果答案是肯定的，那麼你就需要了解優化資料庫的重要性了。</p>    <h2>什麼是資料庫效能問題</h2>    <p>資料庫效能不佳不只是資料庫的問題，還會影響企業的整體運營和收入。當資料庫效能不佳時，可能會導致應用程式變慢、用戶體驗不佳，甚至影響到企業的收入和聲譽。</p>    <p>根據研究，資料庫效能不佳可能會導致企業損失高達 10% 的收入。因此，了解優化資料庫的方法可以幫助企業避免損失，提高效能和競爭力。</p>    <h2>如何優化 PostgreSQL</h2>    <p>優化 PostgreSQL 可以幫助企業提高效能和降低風險。在 Visual Studio Code 中優化 PostgreSQL 可以簡化開發流程，提高開發效率。</p>    <p>以下是幾個優化 PostgreSQL 的方法：</p>    <ul>      <li>使用適當的索引</li>      <li>優化查詢語句</li>      <li>使用分區表</li>    </ul>    <h2>編輯悄悄話</h2>    <p>資料庫效能就是企業的生命線，優化資料庫可以幫助企業提高效能和競爭力。所以，別再等待，立即開始優化你的資料庫吧！",
+    "score": 90,
+    "takeaways": [
+      "資料庫效能問題會對企業的整體運營和收入產生重大影響",
+      "優化 PostgreSQL 可以幫助企業提高效能和降低風險",
+      "在 Visual Studio Code 中優化 PostgreSQL 可以簡化開發流程"
+    ],
+    "punchline": "資料庫效能就是企業的生命線",
+    "social_posts": {
+      "threads": "大家好，我今天要分享一個重要的主題：資料庫效能。資料庫效能不佳不只是資料庫的問題，還會影響企業的整體運營和收入。優化 PostgreSQL 可以幫助企業提高效能和降低風險。在 Visual Studio Code 中優化 PostgreSQL 可以簡化開發流程，提高開發效率。大家有什麼好的優化資料庫的方法嗎？",
+      "facebook": "資料庫效能就是企業的生命線，優化資料庫可以幫助企業提高效能和競爭力。了解優化 PostgreSQL 的方法可以幫助企業避免損失，提高效能和競爭力。在 Visual Studio Code 中優化 PostgreSQL 可以簡化開發流程，提高開發效率。分享給你的朋友和同事吧！",
+      "viral_hook": "資料庫效能就是企業的生命線，你知道嗎？"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/PostgreSQL-database-admin-3.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "005",
+    "title": "AI 項目的真正隱患：你的資料基礎才是關鍵，不是 AI 模型本身",
+    "summary": "澳洲企業在 AI 項目上花費越來越多，但大部分的預算都被浪費在 tokenmaxxing 上，真正的問題在於資料基礎的品質",
+    "content": "<p>澳洲企業在 AI 項目上花費越來越多，但大部分的預算都被浪費在 tokenmaxxing 上，真正的問題在於資料基礎的品質。根據 Elastic 的研究，80% 的澳洲 AI 決策者擔心高 AI 使用率被誤認為是真正的生產力增長，只有 8% 的企業追蹤 AI 是否帶來真正的收入或成本節約。</p>    <h2>資料基礎的重要性</h2>    <p>當 AI 工具表現不佳時，決策者通常會責怪 AI 模型本身，但實際上，資料基礎的品質才是真正的問題。只有 28% 的企業在部署 AI 之前會進行正式的資料準備，只有 8% 的企業在部署 AI 時完全沒有進行資料質量評估。</p>    <p>這種情況下，企業不需要大量的 token，而是需要精確、正確的資料。AI 的投資報酬率是觀察性問題，而不是預算問題。</p>    <h2>編輯悄悄話</h2>    <p>所以，下次當你的 AI 項目表現不佳時，不要急著責怪 AI 模型本身，先看看你的資料基礎是否足夠堅固。因為，真正的問題可能不在 AI 本身，而在於你的資料基礎。",
+    "score": 90,
+    "takeaways": [
+      "80% 的澳洲 AI 決策者擔心高 AI 使用率被誤認為是真正的生產力增長",
+      "只有 8% 的企業追蹤 AI 是否帶來真正的收入或成本節約",
+      "32% 的企業因為 AI 項目的輸出不能證明其成本而暫停、取消或收回 AI 部署"
+    ],
+    "punchline": "你的 AI 並不是表現不佳，你的資料基礎才是真正的問題",
+    "social_posts": {
+      "threads": "大家好，我最近發現了一個有趣的研究，發現澳洲企業在 AI 項目上花費越來越多，但大部分的預算都被浪費在 tokenmaxxing 上，真正的問題在於資料基礎的品質。 #AI #資料基礎",
+      "facebook": "澳洲企業在 AI 項目上花費越來越多，但大部分的預算都被浪費在 tokenmaxxing 上，真正的問題在於資料基礎的品質。了解更多：https://example.com",
+      "viral_hook": "你的 AI 並不是表現不佳，你的資料基礎才是真正的問題！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt2a8890f73683e564/6a42a18244538625f3c8fda7/tokenmaxxing-blog_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/ai-cost-research-tokenmaxxing",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "006",
+    "title": "開啟Harness Engineering探索之旅：從AI快速開發到穩健實現",
+    "summary": "Harness Engineering是什麼？它如何幫助我們從AI快速開發到穩健實現？這次探索之旅將帶你進入一個全新的工程世界",
+    "content": "<p>你是否曾想過，有一種方法可以結合AI和自動化技術，讓開發者快速開發和實現穩健的工程項目？現在，Harness Engineering正成為這個領域的新星。</p>    <h2>什麼是Harness Engineering?</h2>    <p>Harness Engineering是一種新的工程方法，結合AI和自動化技術，旨在幫助開發者快速開發和實現穩健的工程項目。它通過自動化測試、部署和監控等過程，讓開發者可以專注於核心邏輯和創新。</p>    <h2>Harness Engineering的應用前景</h2>    <p>Harness Engineering的應用前景廣闊，包括軟件開發、資料分析等領域。它可以幫助開發者快速開發和實現穩健的工程項目，從而提高效率和降低成本。</p>    <h2>編輯悄悄話</h2>    <p>如果你想在工程領域保持競爭力，Harness Engineering絕對是你不能錯過的技術。現在就開始你的Harness Engineering探索之旅吧！",
+    "score": 90,
+    "takeaways": [
+      "Harness Engineering是一種新的工程方法，結合AI和自動化技術",
+      "它可以幫助開發者快速開發和實現穩健的工程項目",
+      "Harness Engineering的應用前景廣闊，包括軟件開發、資料分析等領域"
+    ],
+    "punchline": "從AI快速開發到穩健實現，Harness Engineering是你的最佳選擇",
+    "social_posts": {
+      "threads": "你知道嗎？Harness Engineering可以幫助你快速開發和實現穩健的工程項目！\n它是結合AI和自動化技術的新工程方法。\n現在就開始你的Harness Engineering探索之旅吧！",
+      "facebook": "Harness Engineering：從AI快速開發到穩健實現\n學習這種新的工程方法，提升你的開發效率和穩健性。\n點擊連結了解更多！",
+      "viral_hook": "你準備好從AI快速開發到穩健實現了嗎？"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802377&idx=1&sn=ac71d992c0feeea2d7611a2e1cc6f9dc",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "007",
+    "title": "AI 的記憶力：為什麼聊天機器人總是忘記?",
+    "summary": "聊天機器人如何管理記憶力？原來，它們並不像我們想的那樣有記憶力，反而是靠周圍的系統來記憶",
+    "content": "<p>你是否曾經對聊天機器人說「記得我昨天說的話嗎？」，結果聊天機器人卻完全不知道你在說什麼？這是因為聊天機器人沒有真正的記憶力，它們每次呼叫時都是從空白開始的。</p>    <h2>聊天機器人的記憶力是如何工作的</h2>    <p>聊天機器人使用了一種特殊的架構來記憶對話內容。系統會在每次呼叫時將記憶寫入聊天機器人的視野中，讓聊天機器人可以在對話中保持連續性。</p>    <p>但是，這種方法也存在一些問題。過長的對話會導致成本和延遲問題，因為聊天機器人需要重新發送大量的token來維持連續性。</p>    <h2>如何解決聊天機器人的記憶力問題</h2>    <p>解決聊天機器人的記憶力問題需要重新思考聊天機器人的架構。可以使用更先進的算法和模型來改善聊天機器人的記憶力，或者使用外部的記憶儲存系統來輔助聊天機器人的記憶。</p>    <h2>編輯悄悄話</h2>    <p>聊天機器人的記憶力其實是系統的記憶力，讓我們重新思考聊天機器人的設計和架構。有了這些知識，你會不會對聊天機器人有新的看法呢？</p>",
+    "score": 90,
+    "takeaways": [
+      "聊天機器人沒有真正的記憶力",
+      "系統會在每次呼叫時將記憶寫入聊天機器人的視野中",
+      "過長的對話會導致成本和延遲問題"
+    ],
+    "punchline": "聊天機器人的記憶力其實是系統的記憶力",
+    "social_posts": {
+      "threads": "你知道聊天機器人沒有真正的記憶力嗎？每次呼叫時都是從空白開始的！\n系統會在每次呼叫時將記憶寫入聊天機器人的視野中，讓聊天機器人可以在對話中保持連續性。\n但是，這種方法也存在一些問題...\n#聊天機器人 #記憶力",
+      "facebook": "聊天機器人的記憶力是如何工作的？聊天機器人使用了一種特殊的架構來記憶對話內容。系統會在每次呼叫時將記憶寫入聊天機器人的視野中，讓聊天機器人可以在對話中保持連續性。了解更多：[連結]",
+      "viral_hook": "聊天機器人沒有記憶力？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!md8R!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40e37142-4ad1-4658-b3f6-18c8b4821aa7_2288x1524.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/how-ai-agents-manage-memory-and-avoid",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "008",
+    "title": "揭開 Spanner 的秘密：如何成為 AI 紀元的核心引擎",
+    "summary": "Spanner 是 Google 的 Agentic Data Cloud 的基石，提供多模型架構、輕量級交易和高效能的資料庫解決方案，助力企業打造智慧型應用",
+    "content": "<h2>什麼是 Spanner？</h2>    <p>Spanner 是 Google 的 Agentic Data Cloud 的基石，提供多模型架構、輕量級交易和高效能的資料庫解決方案，助力企業打造智慧型應用。</p>    <h2>Spanner 的多模型架構</h2>    <p>Spanner 的多模型架構使 AI 模型能夠同時理解結構化歷史、語義意義、真實世界連接和文字細節，提供深度推理和轉換靜態資料為動態系統的能力。</p>    <ul>      <li>Spanner Graph：統一圖和關係式體驗，基於 ISO 標準的 GQL。</li>      <li>Integrated vector search：完全整合的語義搜索解決方案，提供 K-Nearest Neighbors (KNN) 和 Approximate Nearest Neighbor (ANN) 搜索。</li>      <li>Relational 和 key-value：Spanner 疾驅式關係式資料庫和高效能 key-value 能力。</li>      <li>Full-text search：先進的資訊檢索，包括 enhance_query 選項，適用於自動同義詞匹配和拼字修正。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>Spanner 是 AI 紀元的核心引擎，提供多模型架構、輕量級交易和高效能的資料庫解決方案，助力企業打造智慧型應用。試試看吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "Spanner 的多模型架構使 AI 模型能夠同時理解結構化歷史、語義意義、真實世界連接和文字細節",
+      "Spanner 的輕量級交易和高效能的資料庫解決方案使其成為現代微服務和事件驅動架構的最佳選擇",
+      "Spanner 的全方位互操作性使組織能夠打造智慧型應用而無需妥協"
+    ],
+    "punchline": "Spanner：AI 紀元的核心引擎",
+    "social_posts": {
+      "threads": "你知道嗎？Spanner 是 Google 的 Agentic Data Cloud 的基石，提供多模型架構、輕量級交易和高效能的資料庫解決方案，助力企業打造智慧型應用。",
+      "facebook": "Spanner：AI 紀元的核心引擎，提供多模型架構、輕量級交易和高效能的資料庫解決方案，助力企業打造智慧型應用。試試看吧！",
+      "viral_hook": "揭開 Spanner 的秘密：如何成為 AI 紀元的核心引擎"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/10_-_Databases.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/databases/the-power-of-multi-model-spanner-for-the-agentic-era/",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "009",
+    "title": "AI 大戰：馬斯克慘輸150億訴訟，OpenAI 如何智勝？",
+    "summary": "馬斯克與OpenAI的世紀大戰落幕，結果卻出乎意料！了解這場科技大戰的勝敗關鍵",
+    "content": "<p>近日，科技界引發了一場轟動性的事件，馬斯克與OpenAI的世紀大戰落幕。結果卻出乎意料，馬斯克慘輸150億訴訟！</p>    <h2>馬斯克的指控被駁回</h2>    <p>馬斯克指控OpenAI的創始人Sam Altman「偷竊」了一個非營利組織，但法院認為馬斯克等待太久才提出訴訟，導致他的指控被駁回。</p>    <h2>Google的Gemini app挑戰ChatGPT和Claude</h2>    <p>同時，Google也在IO 2026會議上更新了其Gemini app，挑戰ChatGPT和Claude。這場科技大戰的勝敗關鍵究竟是什麼？</p>    <h2>編輯悄悄話</h2>    <p>這場科技大戰告訴我們，AI的發展速度遠超我們的想象。馬斯克的慘輸也提醒我們，科技巨頭也不是萬能的。讓我們繼續關注這場科技大戰的發展！",
+    "score": 90,
+    "takeaways": [
+      "馬斯克的指控被法院駁回，OpenAI勝訴",
+      "Google的Gemini app挑戰ChatGPT和Claude",
+      "OpenAI解決了著名的Erdős問題"
+    ],
+    "punchline": "AI大戰：馬斯克慘輸",
+    "social_posts": {
+      "threads": "你們有沒有注意到，AI的發展速度越來越快？馬斯克的慘輸也提醒我們，科技巨頭也不是萬能的。#AI #馬斯克",
+      "facebook": "了解這場科技大戰的勝敗關鍵，馬斯克的指控被駁回，Google的Gemini app挑戰ChatGPT和Claude。點擊連結了解更多！",
+      "viral_hook": "AI大戰：馬斯克慘輸150億訴訟，你還在等什麼？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "010",
+    "title": "爆炸性新聞！Gemini 3.5 Flash內建電腦使用功能，革新跨平台互動",
+    "summary": "Gemini 3.5 Flash內建電腦使用功能，讓開發者可以建造跨平台的智能代理，革新軟體測試和知識工作",
+    "content": "<p>Gemini 3.5 Flash內建電腦使用功能，讓開發者可以建造跨平台的智能代理，革新軟體測試和知識工作。</p>    <h2>什麼是Gemini 3.5 Flash的電腦使用功能？</h2>    <p>Gemini 3.5 Flash的電腦使用功能是一個內建工具，讓開發者可以建造跨平台的智能代理，讓代理可以看到、思考和行動於不同的環境中。</p>    <h2>如何使用Gemini 3.5 Flash的電腦使用功能？</h2>    <p>開發者可以通過Gemini API和Gemini Enterprise Agent Platform使用電腦使用功能，讓代理可以自動化軟體測試和知識工作。</p>    <h2>編輯悄悄話</h2>    <p>這個功能真的很強大，讓開發者可以建造跨平台的智能代理，革新軟體測試和知識工作。大家快來試試看吧！",
+    "score": 90,
+    "takeaways": [
+      "Gemini 3.5 Flash內建電腦使用功能，讓開發者可以建造跨平台的智能代理",
+      "這個功能可以提高長期和企業自動化任務的性能",
+      "開發者可以通過Gemini API和Gemini Enterprise Agent Platform使用電腦使用功能"
+    ],
+    "punchline": "Gemini 3.5 Flash讓電腦使用功能變得更強大",
+    "social_posts": {
+      "threads": "大家好，我剛剛發現了Gemini 3.5 Flash的內建電腦使用功能，讓開發者可以建造跨平台的智能代理，革新軟體測試和知識工作。這個功能真的很強大，大家快來試試看吧！",
+      "facebook": "Gemini 3.5 Flash內建電腦使用功能，讓開發者可以建造跨平台的智能代理，革新軟體測試和知識工作。大家可以通過Gemini API和Gemini Enterprise Agent Platform使用電腦使用功能，讓代理可以自動化軟體測試和知識工作。",
+      "viral_hook": "Gemini 3.5 Flash讓電腦使用功能變得更強大，跨平台智能代理時代來臨！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "011",
+    "title": "AI智慧助理如何革新藥物研究？",
+    "summary": "透過AI智慧助理，藥物研究人員可以輕鬆查詢數十年前的研究資料，節省時間和成本。",
+    "content": "<p>你是否曾經想過，如何快速查詢數十年前的研究資料？現在，有了一種新的解決方案：AI智慧助理。透過這種技術，藥物研究人員可以輕鬆查詢複雜的研究資料，節省時間和成本。</p>    <h2>什麼是AI智慧助理？</h2>    <p>AI智慧助理是一種人工智慧系統，可以幫助藥物研究人員查詢研究資料，草擬監管文件，甚至可以提供研究建議。這種技術是透過自然語言處理和機器學習演算法來實現的。</p>    <h2>如何應用AI智慧助理？</h2>    <p>藥物研究人員可以透過AI智慧助理來查詢研究資料，例如：研究報告、研究論文、臨床試驗資料等。AI智慧助理可以幫助研究人員快速找到所需的資料，節省時間和成本。另外，AI智慧助理也可以草擬監管文件，例如：研究計畫、研究報告等。</p>    <h2>編輯悄悄話</h2>    <p>AI智慧助理是藥物研究的革命者，它可以幫助研究人員提高效率和準確性。然而，AI智慧助理也需要大量的資料和訓練來實現其功能。因此，研究人員需要與AI智慧助理合作，提供高質量的資料和反饋，來讓AI智慧助理成為真正的革命者。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI智慧助理可以幫助藥物研究人員查詢複雜的研究資料",
+      "AI智慧助理可以草擬監管文件，節省研究人員的時間",
+      "AI智慧助理可以提高藥物研究的效率和準確性"
+    ],
+    "punchline": "AI智慧助理：藥物研究的革命者",
+    "social_posts": {
+      "threads": "你是否曾經想過，如何快速查詢數十年前的研究資料？現在，有了一種新的解決方案：AI智慧助理。透過這種技術，藥物研究人員可以輕鬆查詢複雜的研究資料，節省時間和成本。",
+      "facebook": "AI智慧助理：藥物研究的革命者。透過這種技術，藥物研究人員可以輕鬆查詢複雜的研究資料，節省時間和成本。點擊連結，了解更多：https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "viral_hook": "AI智慧助理：藥物研究的未來"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "012",
+    "title": "AI 將重新定義歐洲的工作市場？這份報告揭露了驚人的轉變",
+    "summary": "OpenAI 的最新報告揭示了 AI 對歐洲工作市場的影響，哪些職業可能會被自動化、增長或改變？",
+    "content": "<p>最近，OpenAI 發佈了一份關於歐洲 AI 工作市場的報告，揭示了 AI 對工作市場的影響。這份報告使用了歐洲技能、能力、資格和職業（ESCO）分類法，結合了 Eurostat 就業數據，分析了 AI 對歐洲工作市場的影響。</p>    <h2>AI 對工作市場的影響</h2>    <p>報告指出，AI 將增強某些職業的需求，但也可能減少其他職業的需求。例如，Luxembourg、Sweden 和 Netherlands 等國家的職業可能更容易增長，而 Germany、Greece 和 Italy 等國家的職業可能更容易被自動化。</p>    <h2>預測和規劃的重要性</h2>    <p>報告強調了預測和規劃的重要性。歐洲各國的工作市場結構差異很大，部分國家的職業可能更容易被自動化。因此，預測和規劃是應對 AI 變革的關鍵。報告建議公共和私營機構加強監測能力，追蹤勞動市場的變化，並制定國家就業計劃，以適應 AI 的變革。</p>    <h2>編輯悄悄話</h2>    <p>AI 的變革不僅是一種技術問題，也是一種社會問題。如何確保 AI 的變革對所有人都有益，是一個需要深入思考和討論的問題。讓我們一起關注這個問題，為未來的工作市場做好準備。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 將增強某些職業的需求，但也可能減少其他職業的需求",
+      "歐洲各國的工作市場結構差異很大，部分國家的職業可能更容易被自動化",
+      "預測和規劃是應對 AI 變革的關鍵"
+    ],
+    "punchline": "AI 不僅是一種技術，它是一種工作市場的轉變引擎",
+    "social_posts": {
+      "threads": "你知道嗎？AI 將重新定義歐洲的工作市場！\n哪些職業可能會被自動化？\n哪些職業可能會增長？\n讓我們一起探討這個問題！",
+      "facebook": "OpenAI 的最新報告揭示了 AI 對歐洲工作市場的影響。報告指出，AI 將增強某些職業的需求，但也可能減少其他職業的需求。讓我們一起關注這個問題，為未來的工作市場做好準備。",
+      "viral_hook": "AI 將毀滅你的工作嗎？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2p06ZCpbXiQhTAbOY9J6OH/2f69f47125b18f9ced9c6000a0bcee0b/mapping-europes-ai-workforce-opportunity-seo-card.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "date": "2026-06-30"
+  }
+]
