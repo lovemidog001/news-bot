@@ -262,5 +262,71 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "date": "2026-06-30"
+  },
+  {
+    "id": "013",
+    "title": "揭秘 AI 模型評估的全部祕密！Hugging Face 現已公開所有評估結果",
+    "summary": "Hugging Face 現已在模型頁面上公開所有評估結果，讓開發者能夠更好地了解模型的性能",
+    "content": "<p>近日，Hugging Face 宣布在模型頁面上公開所有評估結果，讓開發者能夠更好地了解模型的性能。這一舉動不僅增加了模型的透明度，也有助於促進 AI 研究的發展。</p>    <h2>什麼是評估結果？</h2>    <p>評估結果是指模型在特定任務上的性能，例如分類、回歸、生成等。通過評估結果，開發者可以了解模型的優缺點，從而選擇最適合的模型進行開發。</p>    <h2>公開評估結果的意義</h2>    <p>公開評估結果有助於增加模型的透明度，讓開發者能夠更好地了解模型的性能。同時，也有助於促進 AI 研究的發展， 因為開發者可以根據評估結果選擇最適合的模型進行研究。</p>    <h2>編輯悄悄話</h2>    <p>AI 模型評估不再是祕密！Hugging Face 的這一舉動，讓我們看到了 AI 研究的未來。開發者可以根據評估結果選擇最適合的模型，從而推動 AI 研究的發展。讓我們一起期待 AI 的未來吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Hugging Face 現已公開所有評估結果，增加模型透明度",
+      "開發者可以根據評估結果選擇最適合的模型",
+      "公開評估結果有助於促進 AI 研究的發展"
+    ],
+    "punchline": "AI 模型評估不再是祕密！",
+    "social_posts": {
+      "threads": "你知道嗎？Hugging Face 現已公開所有評估結果！\n這意味著什麼？\n開發者可以根據評估結果選擇最適合的模型！\n讓我們一起期待 AI 的未來吧！",
+      "facebook": "Hugging Face 現已在模型頁面上公開所有評估結果，讓開發者能夠更好地了解模型的性能。這一舉動不僅增加了模型的透明度，也有助於促進 AI 研究的發展。點擊連結了解更多！",
+      "viral_hook": "AI 模型評估不再是祕密！"
+    },
+    "image": "https://huggingface.co/blog/assets/eee_commevals/eee_commevals_banner.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "014",
+    "title": "用AI開發App不用寫程式？7.5小時內打造多模態聊天App的秘密",
+    "summary": "想開發App但不會寫程式？現在有了AI+ Kuikly，讓你7.5小時內就能打造多模態聊天App，不需要看一行程式碼",
+    "content": "<p>你是否曾經想過開發一個App，但又不會寫程式？現在有了AI+ Kuikly，讓你7.5小時內就能打造多模態聊天App，不需要看一行程式碼。</p>    <h2>什麼是AI+ Kuikly？</h2>    <p>AI+ Kuikly是一個使用AI技術的開發平台，讓你可以不需要寫程式碼，就能打造多模態聊天App。這個平台使用了最新的AI技術，讓你可以快速地打造App，不需要擔心程式碼的問題。</p>    <h2>如何使用AI+ Kuikly？</h2>    <p>使用AI+ Kuikly非常容易，你只需要按照平台的指引，就能打造出自己的App。平台會提供你所有需要的工具和資源，讓你可以專注於App的設計和功能。</p>    <p>現在，開發App不再是只有程式設計師才能做的事情。有了AI+ Kuikly，人人都能做。</p>    <h2>編輯悄悄話</h2>    <p>現在，你還在等什麼？趕快去試試AI+ Kuikly吧，誰知道你會打造出什麼樣的App呢？",
+    "score": 90,
+    "takeaways": [
+      "AI+ Kuikly讓開發App變得容易",
+      "不需要寫程式碼，就能打造多模態聊天App",
+      "開發時間縮短到7.5小時內"
+    ],
+    "punchline": "AI開發App，人人都能做",
+    "social_posts": {
+      "threads": "你們有沒有想過開發一個App，但又不會寫程式？\n現在有了AI+ Kuikly，讓你7.5小時內就能打造多模態聊天App，不需要看一行程式碼。\n這個平台使用了最新的AI技術，讓你可以快速地打造App，不需要擔心程式碼的問題。",
+      "facebook": "想開發App但不會寫程式？現在有了AI+ Kuikly，讓你7.5小時內就能打造多模態聊天App，不需要看一行程式碼。點擊連結了解更多：",
+      "viral_hook": "用AI開發App，不用寫程式碼？"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802388&idx=1&sn=de0a692908a858fefb435599a9476a42",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "015",
+    "title": "Next.js 16.3登場！Turbopack新功能大揭秘",
+    "summary": "Next.js 16.3正式發布，Turbopack帶來了開發記憶體驅逐、持久檔案快取等新功能，讓開發效率大幅提升",
+    "content": "<p>Next.js 16.3正式發布，Turbopack帶來了多項新功能，包括開發記憶體驅逐、持久檔案快取等，這些功能可以大幅提升開發效率。</p>    <h2>開發記憶體驅逐</h2>    <p>Turbopack的開發記憶體驅逐功能，可以減少開發過程中的記憶體使用，讓開發者可以更舒適地進行開發。這個功能是通過壓縮數據結構和避免存儲不必要的數據來實現的。</p>    <h2>持久檔案快取</h2>    <p>持久檔案快取可以加速Next.js的建置過程，讓開發者可以更快速地看到自己的成果。這個功能是通過將Turbopack的記憶體快取持久化到磁碟中來實現的。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 16.3的發布，標誌著Turbopack的又一次重大升級，開發者可以通過這些新功能來提升自己的開發效率。同時，也希望開發者可以積極地參與Turbopack的開發和測試，讓Turbopack變得更好、更強大。</p>",
+    "score": 90,
+    "takeaways": [
+      "Turbopack的開發記憶體驅逐功能，可以減少開發過程中的記憶體使用",
+      "持久檔案快取可以加速Next.js的建置過程",
+      "Rust React Compiler的實驗性功能，可以提高編譯效率"
+    ],
+    "punchline": "Turbopack讓Next.js開發更快更省記憶體",
+    "social_posts": {
+      "threads": "有沒有什麼方法可以讓Next.js開發更快更省記憶體？\n答案是：Next.js 16.3的Turbopack新功能！\n開發記憶體驅逐、持久檔案快取等功能，可以大幅提升開發效率",
+      "facebook": "Next.js 16.3正式發布，Turbopack帶來了多項新功能，包括開發記憶體驅逐、持久檔案快取等，這些功能可以大幅提升開發效率。來看看這些新功能吧！",
+      "viral_hook": "Turbopack讓Next.js開發更快更省記憶體，你還在等什麼？"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-16-3-turbopack/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-16-3-turbopack",
+    "date": "2026-06-30"
   }
 ]
