@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "企業Java框架遷移的AI智能體評測：ScarfBench來了！",
+    "summary": "ScarfBench是一個評測工具，幫助企業選擇最適合的AI智能體進行Java框架遷移，節省時間和成本。",
+    "content": "<p>隨著技術的進步，企業越來越多地使用Java框架進行開發。但是，當企業需要遷移舊的Java框架時，往往會遇到很多問題。這就是ScarfBench的用武之地。</p>    <h2>什麼是ScarfBench？</h2>    <p>ScarfBench是一個評測工具，旨在幫助企業選擇最適合的AI智能體進行Java框架遷移。它可以評測AI智能體的性能和效率，幫助企業節省時間和成本。</p>    <h2>ScarfBench的優點</h2>    <ul>      <li>可以評測AI智能體的性能和效率</li>      <li>可以幫助企業選擇最適合的AI智能體</li>      <li>可以節省Java框架遷移的時間和成本</li>    </ul>    <h2>編輯悄悄話</h2>    <p>如果你正在考慮Java框架遷移，ScarfBench絕對是一個值得注意的工具。它可以幫助你節省時間和成本，讓你的企業更高效地進行開發。所以，趕快去試用ScarfBench吧！",
+    "score": 85,
+    "takeaways": [
+      "ScarfBench可以評測AI智能體的性能和效率",
+      "企業可以根據評測結果選擇最適合的AI智能體",
+      "ScarfBench可以幫助企業節省Java框架遷移的時間和成本"
+    ],
+    "punchline": "AI智能體評測，讓Java框架遷移更高效！",
+    "social_posts": {
+      "threads": "大家有沒有遇到過Java框架遷移的問題？\n我最近發現了一個很棒的工具，叫做ScarfBench。\n它可以評測AI智能體的性能和效率，幫助企業節省時間和成本。\n大家有興趣試用嗎？",
+      "facebook": "企業Java框架遷移的AI智能體評測工具——ScarfBench！\n它可以評測AI智能體的性能和效率，幫助企業選擇最適合的AI智能體。\n點擊連結試用ScarfBench，讓你的企業更高效地進行開發！",
+      "viral_hook": "Java框架遷移的AI智能體評測工具來了！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/649c1276a83f996b4191a8f1/iYCwB2Hl8qPTA8DCgDilB.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "002",
+    "title": "AI 革命來了！ Claude Sonnet 5 登場，讓你的工作更高效",
+    "summary": "Anthropic 推出最新的 Sonnet 模型 Claude Sonnet 5，提供頂級智慧，讓你的工作更高效",
+    "content": "<p>Anthropic 推出最新的 Sonnet 模型 Claude Sonnet 5，提供頂級智慧，讓你的工作更高效。Sonnet 5 可以維持計畫，追蹤進度，解決問題，讓你的工作更可靠。</p>    <h2>什麼是 Claude Sonnet 5？</h2>    <p>Claude Sonnet 5 是 Anthropic最新的 Sonnet 模型，提供頂級智慧，適用於編碼、代理和日常工作。Sonnet 5 可以用於金融服務、生產力工作、代理和工作流程自動化。</p>    <h2>如何使用 Claude Sonnet 5？</h2>    <p>您可以在 Amazon Bedrock 控制台中開始使用 Claude Sonnet 5。您也可以使用 Anthropic Messages API 或 AWS SDK 來存取 Sonnet 5。</p>    <h2>編輯悄悄話</h2>    <p>AI 革命來了！ Claude Sonnet 5 是一個強大的工具，讓你的工作更高效。不要錯過這個機會，立即開始使用 Sonnet 5吧！",
+    "score": 90,
+    "takeaways": [
+      "Claude Sonnet 5 提供頂級智慧，適用於編碼、代理和日常工作",
+      "Sonnet 5 可以維持計畫，追蹤進度，解決問題，讓你的工作更可靠",
+      "Claude Sonnet 5 可以用於金融服務、生產力工作、代理和工作流程自動化"
+    ],
+    "punchline": "AI 革命來了！",
+    "social_posts": {
+      "threads": "AI 革命來了！ Claude Sonnet 5 登場，讓你的工作更高效。什麼是 Sonnet 5？如何使用它？立即開始使用吧！",
+      "facebook": "Anthropic 推出最新的 Sonnet 模型 Claude Sonnet 5，提供頂級智慧，適用於編碼、代理和日常工作。立即開始使用吧！",
+      "viral_hook": "AI 革命來了！ Claude Sonnet 5 是一個強大的工具，讓你的工作更高效。"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/25/21192.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-on-aws-anthropics-most-capable-sonnet-model/",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "003",
+    "title": "揭開 Meta 對 Python 的 10 年堅持：為什麼這個編程語言對我們這麼重要？",
+    "summary": "Meta 已連續 10 年贊助 Python 軟體基金會，支持開源 Python 語言和社群。了解這個編程語言對我們的重要性和 Meta 的承諾。",
+    "content": "<p>你是否曾想過，為什麼 Meta 對 Python 這個編程語言如此重視？答案就在於，Python 是我們工作的基石。這個開源語言支撐著我們的多個重要產品和項目，包括 Instagram 和 Threads。</p>    <h2>為什麼 Python 這麼重要？</h2>    <p>Python 是世界上最具影響力的編程語言之一。我們使用它來開發後端應用程序、人工智慧研究等。Meta 的工程團隊認為，支持 Python 社群和生態系統是對我們未來技術栈的戰略投資。</p>    <h2>Meta 對 Python 的承諾</h2>    <p>我們連續 10 年贊助 Python 軟體基金會，支持開源 Python 語言和社群。這個贊助幫助了多個重要項目的發展，包括 PyCon US 和 PyLadies。同時，我們也為 Python 社群提供了開源工具和資源，例如 Pyrefly。</p>    <h2>編輯悄悄話</h2>    <p>所以，下次你使用 Instagram 或 Threads 時，記住，Python 是我們工作的基石。讓我們一起支持這個開源語言和社群，為未來的技術栈打下堅實的基礎吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Python 是 Meta 最常用的編程語言，支撐著多個重要產品和項目",
+      "Meta 的贊助支持了 Python 社群和生態系統的發展，包括 PyCon US 和 PyLadies",
+      "Meta 對 Python 的承諾是對未來技術栈的戰略投資"
+    ],
+    "punchline": "Python 是我們工作的基石",
+    "social_posts": {
+      "threads": "你知道嗎？Meta 已連續 10 年贊助 Python 軟體基金會！\n為什麼 Python 這麼重要？\n因為它是我們工作的基石！\n#Python #Meta #開源",
+      "facebook": "Meta 對 Python 的承諾：10 年的贊助和支持！\n了解這個編程語言對我們的重要性和 Meta 的承諾。點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "你知道 Python 是 Meta 工作的基石嗎？"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/10-Years-Meta-Python-HERO-large.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/06/30/open-source/10-years-of-metas-commitment-to-python/",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "004",
+    "title": "微軟Foundry大躍進！Claude登場，AI開發不再難",
+    "summary": "微軟Foundry的Claude正式上線，搭載Azure和NVIDIA GB300 Blackwell Ultra，讓開發團隊從實驗到生產更快速",
+    "content": "<p>最近，微軟Foundry的Claude正式上線了！這代表什麼？代表AI開發的效率即將大躍進！</p><h2>什麼是Claude？</h2><p>Claude是微軟Foundry的一個重要組成部分，旨在提供一個快速和簡單的方式來開發和部署AI模型。現在，Claude已經正式上線，搭載Azure和NVIDIA GB300 Blackwell Ultra，讓開發團隊從實驗到生產更快速。</p><h2>這對開發團隊意味著什麼？</h2><p>這意味著開發團隊可以更快速地開發和部署AI模型，節省時間和成本。同時，Claude也提供了一個安全和可靠的環境，讓開發團隊可以專注於AI開發的核心工作。</p><h2>編輯悄悄話</h2><p>雖然AI開發的效率大躍進了，但我們也不能忘記，AI開發的核心仍然是創造力和創新。讓我們一起期待Claude和微軟Foundry的未來發展吧！</p>",
+    "score": 80,
+    "takeaways": [
+      "Claude在微軟Foundry的推出",
+      "Azure和NVIDIA GB300 Blackwell Ultra的合作",
+      "加速AI開發從實驗到生產的過程"
+    ],
+    "punchline": "AI開發，再也不用慢了",
+    "social_posts": {
+      "threads": "微軟Foundry的Claude正式上線了！\n這對AI開發的效率有什麼影響？\n讓我們一起討論吧！",
+      "facebook": "微軟Foundry的Claude正式上線了！這代表AI開發的效率即將大躍進！點擊連結了解更多：https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+      "viral_hook": "AI開發，再也不用慢了！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Azure-6-29-1B.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/claude-in-microsoft-foundry-is-now-generally-available/",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "005",
+    "title": "終於有解了！多模態搜尋的新利器：jina-embeddings-v5-omni",
+    "summary": "Elastic 推出的 jina-embeddings-v5-omni 讓搜尋變得更強大，能夠跨越文字、圖片、音頻和視頻等多種媒體類型進行查詢",
+    "content": "<p>你是否曾經遇到這種情況：有一份文件或錄音檔存在某個地方，但你的搜尋引擎只能處理文字，無法找到它？</p>    <h2>多模態搜尋的挑戰</h2>    <p>傳統的搜尋引擎只能處理文字，但現代的搜尋需求已經遠遠超出了文字的範圍。jina-embeddings-v5-omni 正是為了解決這個問題而推出的新型搜尋技術。</p>    <p>jina-embeddings-v5-omni 能夠將文字、圖片、音頻和視頻等多種媒體類型映射到同一個向量空間中，從而實現跨媒體類型的搜尋。</p>    <h2>技術優勢</h2>    <p>jina-embeddings-v5-omni 的技術優勢在於它的模型體積小、查詢速度快、無需跨索引合併。這使得它能夠在多種媒體類型上實現高效的搜尋。</p>    <p>在 Charades-STA benchmark 上，jina-embeddings-v5-omni 的表現遠超其他模型。同時，它也繼承了 Elasticsearch 的兩大儲存優化技術：Better Binary Quantization 和 Matryoshka representation learning。</p>    <h2>編輯悄悄話</h2>    <p>jina-embeddings-v5-omni 的推出代表著搜尋技術的一個新的里程碑。它能夠讓我們更方便、更快速地找到我們需要的資訊。無論你是開發者還是普通用戶，jina-embeddings-v5-omni 都會給你帶來全新的搜尋體驗。</p>",
+    "score": 90,
+    "takeaways": [
+      "jina-embeddings-v5-omni 能夠處理多種媒體類型的搜尋",
+      "模型體積小、查詢速度快、無需跨索引合併",
+      "相比其他模型，jina-embeddings-v5-omni 表現更優異"
+    ],
+    "punchline": "搜尋變得更強大、更方便",
+    "social_posts": {
+      "threads": "發現了一個超強大的搜尋技術！jina-embeddings-v5-omni 能夠跨越文字、圖片、音頻和視頻等多種媒體類型進行查詢。這會改變我們的搜尋方式嗎？",
+      "facebook": "jina-embeddings-v5-omni：搜尋技術的新革命！這個新型搜尋技術能夠將多種媒體類型映射到同一個向量空間中，實現跨媒體類型的搜尋。了解更多：",
+      "viral_hook": "搜尋變得更強大、更方便！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt771d40926b7ba95a/6a4421ef27fb02ef6b29ebe7/Blog_Header_Templates_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/devrel-newsletter-june-2026",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "006",
+    "title": "0 代碼！7.5 小時內打造三端多模態聊天 App 的逆襲",
+    "summary": "用 AI+ Kuikly 打造自己的聊天 App，不需要寫一行代碼！",
+    "content": "<p>你是否曾經想過，自己也能打造一個聊天 App，但又不知道從哪裡開始？現在，有了一個神奇的工具叫做 AI+ Kuikly，它可以讓你在短短 7.5 小時內，打造出一個三端的多模態聊天 App，而且不需要寫一行代碼！</p>    <h2>什麼是 AI+ Kuikly？</h2>    <p>AI+ Kuikly 是一個最新的開發工具，它結合了 AI 和 Kuikly 的力量，讓你可以快速地打造出自己的聊天 App。它支持三端開發，包括手機、平板和電腦版本，並且可以讓你輕鬆地創建出多模態的聊天界面。</p>    <h2>如何使用 AI+ Kuikly？</h2>    <p>使用 AI+ Kuikly 非常簡單，你只需要按照以下步驟進行：首先，下載和安裝 AI+ Kuikly 的軟體，然後，按照提示進行設定和配置。接下來，你可以開始設計你的聊天 App 的界面和功能，AI+ Kuikly 會自動地生成代碼和實現功能。最後，你可以直接地發佈你的聊天 App，讓用戶們下載和使用。</p>    <h2>編輯悄悄話</h2>    <p>其實，打造一個聊天 App 不需要很複雜的代碼和技術，只需要一個好的工具和一些創意。現在，有了 AI+ Kuikly，你可以輕鬆地打造出自己的聊天 App，讓你的想法變成現實。所以，不要猶豫，試試看吧！",
+    "score": 90,
+    "takeaways": [
+      "了解如何使用 AI+ Kuikly 進行三端開發",
+      "掌握多模態聊天 App 的實戰技巧",
+      "發現不需要寫代碼也能打造自己的 App"
+    ],
+    "punchline": "0 代碼，7.5 小時內打造你的聊天 App",
+    "social_posts": {
+      "threads": "0 代碼！7.5 小時內打造三端多模態聊天 App 的逆襲\n大家有沒有想過自己也能打造一個聊天 App？\n現在，有了一個神奇的工具叫做 AI+ Kuikly...\n#AI #Kuikly #聊天App",
+      "facebook": "用 AI+ Kuikly 打造自己的聊天 App，不需要寫一行代碼！\n了解如何使用 AI+ Kuikly 進行三端開發，掌握多模態聊天 App 的實戰技巧...\n分享給你的朋友們吧！",
+      "viral_hook": "0 代碼，7.5 小時內打造你的聊天 App！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802388&idx=1&sn=de0a692908a858fefb435599a9476a42",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "007",
+    "title": "挑戰常識：Thinking Machines 如何重新定義人機交互模式",
+    "summary": "Thinking Machines 提出了一種新的交互模式，挑戰傳統的人機交互方式，讓人們可以與 AI 更自然地交互",
+    "content": "<p>Thinking Machines 的研究團隊提出了一種新的交互模式，挑戰傳統的人機交互方式。這種模式強調連續的合作，而不是單純的任務完成。</p>    <h2>傳統語言模型的局限</h2>    <p>傳統的語言模型存在著天花板，限制了人機交互的深度。它們只能在單一線程中工作，等待用戶完成輸入後才能生成響應。這種方式就像通過電子郵件解決爭議，而不是面對面地進行溝通。</p>    <h2>新的交互模式</h2>    <p>Thinking Machines 的交互模式可以讓人們更自然地與 AI 交互，減少額外的工作。它允許用戶在交互過程中進行修正和更改，讓 AI 可以更好地理解用戶的需求。</p>    <h2>編輯悄悄話</h2>    <p>人機交互的未來在於合作，而不是單純的任務完成。Thinking Machines 的研究為我們提供了一個新的視角，讓我們可以更好地理解人機交互的潛力。</p>",
+    "score": 90,
+    "takeaways": [
+      "Thinking Machines 的交互模式強調連續的合作，而不是單純的任務完成",
+      "傳統的語言模型存在著天花板，限制了人機交互的深度",
+      "新的交互模式可以讓人們更自然地與 AI 交互，減少額外的工作"
+    ],
+    "punchline": "人機交互的未來在於合作，而不是單純的任務完成",
+    "social_posts": {
+      "threads": "你們是否曾經感覺到人機交互很不自然？\nThinking Machines 的研究團隊提出了一種新的交互模式，挑戰傳統的人機交互方式。\n讓我們來探討一下這種模式的優點和局限！",
+      "facebook": "Thinking Machines 的研究團隊提出了一種新的交互模式，挑戰傳統的人機交互方式。這種模式強調連續的合作，而不是單純的任務完成。點擊鏈接了解更多！",
+      "viral_hook": "人機交互的未來在於合作，而不是單純的任務完成！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!prac!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1444cab-8996-4f6a-9634-8405d90c7b49_2048x1106.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/inside-thinking-machines-interaction",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "008",
+    "title": "用對話分析打造智慧企業：BigQuery 的 Conversational Analytics 來了！",
+    "summary": "BigQuery 的 Conversational Analytics 讓企業能夠快速、輕鬆地分析數據，做出明智的決策。這項技術結合了自然語言處理和機器學習，讓使用者能夠用日常語言與數據對話，獲得深入的洞察。",
+    "content": "<p>在快速變化的商業環境中，企業需要快速、輕鬆地分析數據，做出明智的決策。BigQuery 的 Conversational Analytics 就是為了滿足這個需求而誕生的。</p><h2>什麼是 Conversational Analytics？</h2><p>Conversational Analytics 是一種結合了自然語言處理和機器學習的技術，讓使用者能夠用日常語言與數據對話，獲得深入的洞察。這項技術能夠讓企業快速分析數據，做出明智的決策。</p><h2>Conversational Analytics 的優點</h2><p>Conversational Analytics 有以下幾個優點：</p><ul><li>快速分析數據：Conversational Analytics 能夠讓企業快速分析數據，做出明智的決策</li><li>跨雲分析數據：Conversational Analytics 能夠讓企業打破數據孤島，跨雲分析數據</li><li>使用者友好：Conversational Analytics 能夠讓使用者用日常語言與數據對話，獲得深入的洞察</li></ul><h2>編輯悄悄話</h2><p>如果你想讓你的企業在數據分析方面領先於其他企業，Conversational Analytics 是一個不錯的選擇。試試看吧，你會發現它的威力！</p>",
+    "score": 90,
+    "takeaways": [
+      "Conversational Analytics 能夠讓企業快速分析數據，做出明智的決策",
+      "這項技術結合了自然語言處理和機器學習，讓使用者能夠用日常語言與數據對話",
+      "Conversational Analytics 能夠讓企業打破數據孤島，跨雲分析數據"
+    ],
+    "punchline": "用對話分析，讓數據變成你的智慧顧問",
+    "social_posts": {
+      "threads": "你知道嗎？BigQuery 的 Conversational Analytics 能夠讓企業快速分析數據，做出明智的決策！\n這項技術結合了自然語言處理和機器學習，讓使用者能夠用日常語言與數據對話，獲得深入的洞察。\n#ConversationalAnalytics #BigQuery #數據分析",
+      "facebook": "BigQuery 的 Conversational Analytics 是一種革命性的數據分析技術！\n它能夠讓企業快速分析數據，做出明智的決策，並且跨雲分析數據。\n試試看吧，你會發現它的威力！#ConversationalAnalytics #BigQuery #數據分析",
+      "viral_hook": "用對話分析，讓數據變成你的智慧顧問！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-bigquery-now-ga/",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "009",
+    "title": "史上最強AI大戰：Musk輸了，OpenAI贏了！",
+    "summary": "Elon Musk與OpenAI的世紀大戰結束了，Musk輸了！這場戰役不僅關係到AI的未來，也關係到你的生活",
+    "content": "<p>最近，科技界最熱門的話題就是Elon Musk與OpenAI的世紀大戰。這場戰役不僅關係到AI的未來，也關係到你的生活。</p>    <h2>什麼是這場戰役的原因？</h2>    <p>Elon Musk指控OpenAI的CEO Sam Altman竊取了他的非營利組織。但是，法庭上的證據顯示，Musk的指控並不成立。最後，Musk輸了這場訴訟。</p>    <h2>這場戰役的影響是什麼？</h2>    <p>這場戰役的影響非常深遠。首先，Google的Gemini app將挑戰ChatGPT和Claude，成為AI界的新玩家。其次，OpenAI解決了著名的Erdős問題，證明了其強大的AI能力。</p>    <h2>編輯悄悄話</h2>    <p>AI的未來，誰是贏家？這個問題的答案將在未來的日子裡慢慢揭曉。但是，一件事是肯定的：AI將會改變你的生活。所以，請緊跟AI的最新發展，否則你將會被甩在後面。</p>",
+    "score": 90,
+    "takeaways": [
+      "Elon Musk在法庭上輸了對OpenAI的訴訟",
+      "Google的Gemini app將挑戰ChatGPT和Claude",
+      "OpenAI解決了著名的Erdős問題"
+    ],
+    "punchline": "AI的未來，誰是贏家？",
+    "social_posts": {
+      "threads": "你們知道最近的AI大戰嗎？Musk輸了，OpenAI贏了！這場戰役的影響非常深遠。#AI #OpenAI #Musk",
+      "facebook": "科技界最熱門的話題：Elon Musk與OpenAI的世紀大戰。這場戰役的影響是什麼？點擊鏈接了解更多。#AI #OpenAI #Musk",
+      "viral_hook": "AI的未來，誰是贏家？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "010",
+    "title": "用 Nano Banana 2 Lite 和 Gemini Omni Flash 打造你的創意帝國！",
+    "summary": "讓你的創意想法變成現實，透過 Nano Banana 2 Lite 和 Gemini Omni Flash 的結合，打造快速、便宜、又高品質的多媒體體驗！",
+    "content": "<p>你是否想打造自己的創意帝國？現在，你可以透過 Nano Banana 2 Lite 和 Gemini Omni Flash 的結合，讓你的創意想法變成現實！</p>    <h2>什麼是 Nano Banana 2 Lite 和 Gemini Omni Flash？</h2>    <p>Nano Banana 2 Lite 是一款快速、成本效益高的影像生成模型，可以幫助你快速地生成高品質的影像。而 Gemini Omni Flash 則是一款可以生成高品質的影片和進行對話式編輯的模型，可以幫助你打造全面、端到端的多媒體體驗。</p>    <h2>如何使用這兩個模型？</h2>    <p>你可以使用 Nano Banana 2 Lite 來生成高品質的影像，然後將這些影像作為參考，使用 Gemini Omni Flash 來生成動畫和進行對話式編輯。這兩個模型可以結合使用，打造快速、便宜、又高品質的多媒體體驗。</p>    <p>現在，就來試試看吧！透過這兩個模型的結合，你可以打造出自己的創意帝國，讓你的創意想法變成現實！</p>    <h2>編輯悄悄話</h2>    <p>創意無限，技術也無限！現在，就來發揮你的創意，打造自己的創意帝國吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Nano Banana 2 Lite 是一款快速、成本效益高的影像生成模型",
+      "Gemini Omni Flash 可以生成高品質的影片和進行對話式編輯",
+      "這兩個模型可以結合使用，打造全面、端到端的多媒體體驗"
+    ],
+    "punchline": "創意無限，技術也無限！",
+    "social_posts": {
+      "threads": "你是否想打造自己的創意帝國？現在，你可以透過 Nano Banana 2 Lite 和 Gemini Omni Flash 的結合，讓你的創意想法變成現實！#創意帝國 #NanoBanana2Lite #GeminiOmniFlash",
+      "facebook": "發揮你的創意，打造自己的創意帝國！透過 Nano Banana 2 Lite 和 Gemini Omni Flash 的結合，你可以打造快速、便宜、又高品質的多媒體體驗。詳情請見：https://example.com",
+      "viral_hook": "創意無限，技術也無限！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "011",
+    "title": "用AI解開研究迷宮：如何打造可靠的人工智慧系統?",
+    "summary": "想像一下，有一台AI助手，可以幫你快速找到數十年研究報告中的資訊，甚至幫你草擬文件。這就是Bayer公司與LLM合作的成果，現在就來看看他們是如何做到的吧!",
+    "content": "<p>你是否曾經花費數小時在搜尋研究報告中，想要找到那一條重要的資訊？現在，有一種新的AI助手可以幫助你做到這一點。Bayer公司與LLM合作，打造了一個可以幫助研究人員快速找到數十年研究報告中的資訊的AI系統，甚至可以幫你草擬文件。</p>    <h2>挑戰：研究數據迷宮</h2>    <p>研究人員面臨著一個挑戰：如何快速找到數十年研究報告中的資訊。這個挑戰不僅耗時，而且容易出錯。因此，Bayer公司與LLM合作，打造了一個可以幫助研究人員快速找到資訊的AI系統。</p>    <h2>解決方案：PRINCE平台</h2>    <p>PRINCE平台是一個可以幫助研究人員快速找到資訊的AI系統。這個平台使用了LLM技術，可以快速搜尋數十年研究報告中的資訊，甚至可以幫你草擬文件。這個平台的目的是幫助研究人員節省時間，提高研究效率。</p>    <h2>編輯悄悄話</h2>    <p>現在，你可能會問：這個AI助手是否真的可以幫助我？答案是：絕對！這個AI助手可以幫你快速找到資訊，甚至可以幫你草擬文件。所以，趕快來試試吧，你會發現你的研究生涯會變得更容易、更高效!",
+    "score": 90,
+    "takeaways": [
+      "AI助手可以幫助研究人員快速找到數十年研究報告中的資訊",
+      "AI系統可以草擬文件，節省研究人員的時間",
+      "可靠的人工智慧系統需要透明度、解釋性和韌性"
+    ],
+    "punchline": "AI助手：你的研究生涯新好幫手!",
+    "social_posts": {
+      "threads": "你是否曾經花費數小時在搜尋研究報告中，想要找到那一條重要的資訊？現在，有一種新的AI助手可以幫助你做到這一點。來看看如何打造可靠的人工智慧系統吧!",
+      "facebook": "想像一下，有一台AI助手，可以幫你快速找到數十年研究報告中的資訊，甚至幫你草擬文件。這就是Bayer公司與LLM合作的成果，現在就來看看他們是如何做到的吧!",
+      "viral_hook": "AI助手：你的研究生涯新好幫手!"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "012",
+    "title": "ChatGPT 掀起全球AI旋風：用戶數量激增、應用深化",
+    "summary": "ChatGPT 的採用率正在全球範圍內迅速擴張，使用者不僅數量激增，還在探索更多功能，推動各地區和語言的成長",
+    "content": "<p>ChatGPT 的採用率正在全球範圍內迅速擴張，使用者不僅數量激增，還在探索更多功能，推動各地區和語言的成長。</p>    <h2>全球AI採用現狀</h2>    <p>根據OpenAI Signals的數據，ChatGPT的用戶數量和使用頻率不斷增加，使用者在探索更多功能，推動各地區和語言的成長。</p>    <p>數據顯示，ChatGPT的採用率在非洲和亞洲地區增長最快，使用者在這些地區的數量激增。</p>    <h2>女性用戶的崛起</h2>    <p>女性用戶的使用量增加，現在占全球使用量的大部分，特別是在巴西、哥倫比亞、波蘭和納米比亞等國家。</p>    <p>這些數據顯示，ChatGPT的採用率正在全球範圍內迅速擴張，使用者不僅數量激增，還在探索更多功能，推動各地區和語言的成長。</p>    <h2>編輯悄悄話</h2>    <p>AI正改變我們的生活方式，ChatGPT的採用率正在全球範圍內迅速擴張，使用者不僅數量激增，還在探索更多功能，推動各地區和語言的成長。這是未來的趨勢，大家要做好準備囉！",
+    "score": 90,
+    "takeaways": [
+      "ChatGPT 的用戶數量和使用頻率不斷增加，使用者在探索更多功能",
+      "ChatGPT 的採用率在非洲和亞洲地區增長最快",
+      "女性用戶的使用量增加，現在占全球使用量的大部分"
+    ],
+    "punchline": "AI 正在改變我們的生活方式",
+    "social_posts": {
+      "threads": "大家有沒有發現，ChatGPT的採用率正在全球範圍內迅速擴張？使用者不僅數量激增，還在探索更多功能，推動各地區和語言的成長。#ChatGPT #AI",
+      "facebook": "ChatGPT的採用率正在全球範圍內迅速擴張，使用者不僅數量激增，還在探索更多功能，推動各地區和語言的成長。了解更多：https://example.com",
+      "viral_hook": "AI正改變我們的生活方式，ChatGPT的採用率正在全球範圍內迅速擴張！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7pYrohTaJusmMwISBrPGF3/8d3e678444d2b6a22ba62085b9a3bb8b/Frame-1.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "date": "2026-07-01"
+  }
+]
