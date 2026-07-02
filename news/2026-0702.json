@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "革命性突破！Hugging Face 和 Cerebras 將 Gemma 4 帶到即時語音 AI",
+    "summary": "即時語音 AI 正在改變我們的生活，Hugging Face 和 Cerebras 的合作為這一領域帶來了新的突破",
+    "content": "<p>近日，Hugging Face 和 Cerebras 宣布將 Gemma 4 帶到即時語音 AI 領域，這一合作為語音識別技術帶來了新的突破。</p>    <h2>什麼是 Gemma 4？</h2>    <p>Gemma 4 是一種高性能的語音識別芯片，具有極高的計算能力和低延遲的特點。它可以大幅提升語音識別的準確度和速度，讓即時語音 AI 成為可能。</p>    <h2>即時語音 AI 的應用前景</h2>    <p>即時語音 AI 的應用前景廣泛，包括客服、語音助手、語音翻譯等領域。它可以大幅提升用戶體驗和效率，讓我們的生活更加便捷和智能。</p>    <h2>編輯悄悄話</h2>    <p>語音 AI 的未來已經到來，Hugging Face 和 Cerebras 的合作是 AI 領域的一個重要里程碑。讓我們一起期待這一技術的發展和應用吧！",
+    "score": 90,
+    "takeaways": [
+      "Gemma 4 的實時語音 AI 技術可以大幅提升語音識別的準確度",
+      "這一技術的應用前景廣泛，包括客服、語音助手等領域",
+      "Hugging Face 和 Cerebras 的合作是 AI 領域的一個重要里程碑"
+    ],
+    "punchline": "語音 AI 的未來已經到來",
+    "social_posts": {
+      "threads": "你們有沒有想過，語音 AI 的未來會是什麼樣子？\n現在，Hugging Face 和 Cerebras 已經將 Gemma 4 帶到即時語音 AI 領域了！\n這一技術的應用前景廣泛，包括客服、語音助手等領域\n讓我們一起期待這一技術的發展和應用吧！",
+      "facebook": "即時語音 AI 正在改變我們的生活，Hugging Face 和 Cerebras 的合作為這一領域帶來了新的突破。點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "語音 AI 的未來已經到來！"
+    },
+    "image": "https://huggingface.co/blog/assets/cerebras-gemma4-voice-ai/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "002",
+    "title": "AWS GovCloud (US) 推出前沿開源模型！讓政府機構體驗 AI 的力量",
+    "summary": "AWS GovCloud (US) 現已支持 OpenAI 和 NVIDIA 的開源模型，提供高安全性和合規性的 AI 解決方案，讓政府機構能夠建構和擴展生成性 AI 應用",
+    "content": "<p>政府機構在 AWS GovCloud (US) 上運行工作負載，需要能夠跟上商業界的 AI 能力。但是，同時也不能犧牲安全性和合規性的控制。現在，AWS GovCloud (US) 推出前沿開源模型，提供高安全性和合規性的 AI 解決方案。</p>    <h2>什麼是 AWS GovCloud (US)？</h2>    <p>AWS GovCloud (US) 是一套專門為政府機構設計的雲端服務，提供高安全性和合規性的環境。它可以滿足政府機構的安全性和合規性需求，同時也提供高性能的計算和儲存資源。</p>    <p>現在，AWS GovCloud (US) 支持 OpenAI 和 NVIDIA 的開源模型，提供高安全性和合規性的 AI 解決方案。政府機構可以使用這些模型，建構和擴展生成性 AI 應用，例如自動化安全控制評估、多文件智能合成、合同和採購分析等。</p>    <h2>如何開始使用 AWS GovCloud (US) 的開源模型？</h2>    <p>要開始使用 AWS GovCloud (US) 的開源模型，政府機構需要創建一個 AWS 帳戶，然後申請使用 AWS GovCloud (US) 的服務。之後，可以使用 AWS Bedrock 服務，訪問 OpenAI 和 NVIDIA 的開源模型，開始建構和擴展生成性 AI 應用。</p>    <h2>編輯悄悄話</h2>    <p>AI 的力量，不再是商業界的專利。現在，政府機構也可以使用 AWS GovCloud (US) 的開源模型，體驗 AI 的力量。不要錯過這個機會，趕快開始使用 AWS GovCloud (US) 的開源模型，讓你的政府機構更具競爭力！",
+    "score": 90,
+    "takeaways": [
+      "AWS GovCloud (US) 支持 OpenAI 和 NVIDIA 的開源模型",
+      "提供高安全性和合規性的 AI 解決方案",
+      "政府機構可以建構和擴展生成性 AI 應用"
+    ],
+    "punchline": "AI 的力量，政府機構也能擁有",
+    "social_posts": {
+      "threads": "你知道嗎？AWS GovCloud (US) 現已支持 OpenAI 和 NVIDIA 的開源模型！政府機構可以使用這些模型，建構和擴展生成性 AI 應用。不要錯過這個機會，趕快開始使用 AWS GovCloud (US) 的開源模型吧！#AWS #GovCloud #AI",
+      "facebook": "AWS GovCloud (US) 推出前沿開源模型！讓政府機構體驗 AI 的力量。現在，政府機構可以使用 OpenAI 和 NVIDIA 的開源模型，建構和擴展生成性 AI 應用。點擊連結，了解更多！https://aws.amazon.com/govcloud-us/",
+      "viral_hook": "AI 的力量，政府機構也能擁有！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/01/ml-21215.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-and-openai-gpt-oss-models-on-amazon-bedrock-in-aws-govcloud-us/",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "003",
+    "title": "AI 的秘密武器：Meta 如何解決儲存瓶頸",
+    "summary": "AI 的發展越來越快，但儲存瓶頸成了一大挑戰。Meta 如何解決這個問題，讓 AI 的發展更快、更好？",
+    "content": "<p>近年來，AI 的發展越來越快，新的模型和技術層出不窮。但是，儲存瓶頸成了一大挑戰。Meta 如何解決這個問題，讓 AI 的發展更快、更好？</p>    <h2>儲存的重要性</h2>    <p>儲存是 AI 的記憶，速度和大小決定了 AI 的能力。隨著 AI 的發展，儲存需求越來越大，需要更快、更可靠的儲存解決方案。Meta 的 BLOB 儲存架構就是為了解決這個問題而設計的。</p>    <h2>Meta 的儲存解決方案</h2>    <p>Meta 的 BLOB 儲存架構可以最大化 GPU 的利用率和研究速度。這個架構包括 Tectonic 層和 BLOB 儲存層，提供高耐用性和可用性，支持分層和智能放置熱、冷、暖數據。這個架構讓研究人員可以更快、更容易地存取數據，從而加速 AI 研究的速度。</p>    <h2>編輯悄悄話</h2>    <p>儲存瓶頸對 AI 研究的影響非常大，需要立即解決。Meta 的儲存解決方案是個很好的範例，讓我們看到儲存如何成為 AI 的秘密武器。不要讓儲存瓶頸阻礙你的 AI 研究，趕快找到解決方案吧！",
+    "score": 90,
+    "takeaways": [
+      "AI 的儲存需求越來越大，需要更快、更可靠的儲存解決方案",
+      "Meta 的 BLOB 儲存架構可以最大化 GPU 的利用率和研究速度",
+      "儲存瓶頸對 AI 研究的影響非常大，需要立即解決"
+    ],
+    "punchline": "儲存是 AI 的記憶，速度和大小決定了 AI 的能力",
+    "social_posts": {
+      "threads": "你知道嗎？儲存是 AI 的記憶，速度和大小決定了 AI 的能力。Meta 的 BLOB 儲存架構可以最大化 GPU 的利用率和研究速度。不要讓儲存瓶頸阻礙你的 AI 研究，趕快找到解決方案吧！#AI #儲存 #Meta",
+      "facebook": "Meta 的儲存解決方案是個很好的範例，讓我們看到儲存如何成為 AI 的秘密武器。點擊連結了解更多！https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+      "viral_hook": "儲存是 AI 的秘密武器，你知道嗎？"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Metas-AI-Storage-Blueprint-at-Scale-Hero-1.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "004",
+    "title": "別再讓資料庫拖慢你的腳步！優化PostgreSQL on Azure的終極秘訣",
+    "summary": "資料庫效能不佳不僅是技術問題，也會影響企業的運營風險、客戶滿意度和收入",
+    "content": "<p>你是否曾經遇到過資料庫效能不佳的問題？這不僅是技術人員的頭痛，也會對企業的運營風險、客戶滿意度和收入產生影響。</p>    <h2>什麼是資料庫效能不佳的原因？</h2>    <p>資料庫效能不佳的原因多種多樣，包括資料庫設計不良、索引不充分、查詢語句不優化等。但是，優化資料庫效能可以帶來很多好處，例如提升客戶體驗、增加收入和降低運營風險。</p>    <h2>如何優化PostgreSQL on Azure？</h2>    <p>幸好，優化PostgreSQL on Azure可以直接在Visual Studio Code中完成。通過使用Visual Studio Code的資料庫工具，開發人員可以輕鬆地優化資料庫效能，提升應用程式的性能和可靠性。</p>    <h2>編輯悄悄話</h2>    <p>所以，別再讓資料庫拖慢你的腳步！優化PostgreSQL on Azure，提升你的資料庫效能，為你的企業帶來更好的未來！",
+    "score": 90,
+    "takeaways": [
+      "資料庫效能不佳對企業的影響不容小覷",
+      "優化PostgreSQL on Azure可以直接在Visual Studio Code中完成",
+      "提升資料庫效能可以帶來更好的客戶體驗和收入增長"
+    ],
+    "punchline": "資料庫效能是企業的生命線",
+    "social_posts": {
+      "threads": "你是否曾經遇到過資料庫效能不佳的問題？\n這不僅是技術人員的頭痛，也會對企業的運營風險、客戶滿意度和收入產生影響。\n優化資料庫效能可以帶來很多好處，例如提升客戶體驗、增加收入和降低運營風險。",
+      "facebook": "別再讓資料庫拖慢你的腳步！優化PostgreSQL on Azure，提升你的資料庫效能，為你的企業帶來更好的未來！",
+      "viral_hook": "資料庫效能不佳對企業的影響不容小覷！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/PostgreSQL-database-admin-3.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/the-performance-dividend-optimizing-postgresql-on-azure-directly-in-visual-studio-code/",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "005",
+    "title": "網站快爛！教你如何優化Test Cache，提升網站速度",
+    "summary": "網站速度慢是用戶體驗的最大殺手，優化Test Cache是關鍵！",
+    "content": "<p>網站速度是用戶體驗的重要指標，慢速的網站不僅會導致用戶流失，還會影響搜索引擎排名。因此，優化Test Cache是提升網站速度的關鍵一步。</p>    <h2>什麼是Test Cache？</h2>    <p>Test Cache是一種臨時儲存技術，能夠暫時儲存網站的靜態資源，例如圖片、CSS和JavaScript檔案。當用戶訪問網站時，瀏覽器會先從Test Cache中查找所需的資源，如果找到則直接使用，否則才會向伺服器請求。</p>    <h2>如何優化Test Cache？</h2>    <ul>      <li>設定合理的Test Cache有效期</li>      <li>優化網站的靜態資源</li>      <li>使用CDN加速網站資源的傳輸</li>    </ul>    <p>通過以上方法，能夠有效地優化Test Cache，提升網站速度，改善用戶體驗。</p>    <h2>編輯悄悄話</h2>    <p>網站速度慢就像人生慢動作一般痛苦，優化Test Cache就像給網站打了一劑強心針，快來試試吧！</p>",
+    "score": 80,
+    "takeaways": [
+      "了解Test Cache的重要性",
+      "學會如何優化Test Cache",
+      "提升網站速度，改善用戶體驗"
+    ],
+    "punchline": "速度就是金錢！",
+    "social_posts": {
+      "threads": "網站速度慢就像人生慢動作一般痛苦，你有沒有遇過這種情況？\n優化Test Cache就像給網站打了一劑強心針，快來試試吧！",
+      "facebook": "提升網站速度，改善用戶體驗！了解Test Cache的重要性，學會如何優化Test Cache，讓你的網站速度飛起來！",
+      "viral_hook": "網站速度慢是用戶體驗的最大殺手，你知道如何優化Test Cache嗎？"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt9af4882fd1ef0693/5f974ff1432f517518d3f916/zoom-fondo-blanco-vertical-logo-F819E1C283-seeklogo.com_.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/test-cache",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "006",
+    "title": "5塊錢的3天生活挑戰！資深工程師教你如何系統化治理花錢",
+    "summary": "透過一個特殊的挑戰，資深工程師分享如何有效管理花費，讓你在有限的預算下享受生活",
+    "content": "<p>你是否曾經為了省錢而苦惱？或者是花錢如流水般毫無節制？今天，我們要分享一位資深工程師的特殊挑戰：如何用5塊錢生活3天！</p>    <h2>挑戰開始</h2>    <p>這位工程師，horsley，從token焦虑到系統化治理，他想分享的不是省錢的小技巧，而是一套完整的花錢管理系統。透過這個挑戰，你將學會如何有效管理花費，讓你在有限的預算下享受生活。</p>    <ul>      <li>設定合理的預算</li>      <li>有效管理花費的小技巧</li>      <li>系統化治理花錢的重要性</li>    </ul>    <h2>編輯悄悄話</h2>    <p>其實，管理花費不只是關於省錢，而是關於如何讓你的錢更有價值。透過這個挑戰，你不僅能學會如何有效管理花費，也能發現生活中那些真正重要的東西。所以，別再等待，從今天開始你的5塊錢挑戰吧！",
+    "score": 90,
+    "takeaways": [
+      "系統化治理花錢的重要性",
+      "如何設定合理的預算",
+      "有效管理花費的小技巧"
+    ],
+    "punchline": "5塊錢也能活出自在",
+    "social_posts": {
+      "threads": "你是否曾經為了省錢而苦惱？\n今天，我們要分享一位資深工程師的特殊挑戰：如何用5塊錢生活3天！\n透過這個挑戰，你將學會如何有效管理花費，讓你在有限的預算下享受生活。",
+      "facebook": "5塊錢的3天生活挑戰！資深工程師教你如何系統化治理花錢。透過這個挑戰，你將學會如何有效管理花費，讓你在有限的預算下享受生活。分享給你的朋友，讓他們也學會如何管理花費！",
+      "viral_hook": "5塊錢也能活出自在？"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802390&idx=1&sn=509449770a62d5427b3154525c1a9445",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "007",
+    "title": "揭秘 OpenAI 如何為 9 億用戶提供低延遲的語音 AI",
+    "summary": "OpenAI 如何打造低延遲的語音 AI，讓用戶感受到自然的對話體驗？",
+    "content": "<p>OpenAI 的語音 AI 如何為 9 億用戶提供低延遲的服務？這個問題的答案關鍵在於他們的架構設計和技術選擇。</p>    <h2>挑戰和需求</h2>    <p>OpenAI 需要處理大量的用戶請求，並保持低延遲和穩定的連接。這個挑戰需要一個強大的架構和技術支持。OpenAI 選擇使用 WebRTC 協定來實現低延遲的語音 AI。</p>    <p>WebRTC 是一個用於實時通信的協定，包括語音和視頻。它提供了一個低延遲和高品質的連接，讓用戶可以享受到自然的對話體驗。</p>    <h2>架構設計</h2>    <p>OpenAI 的架構設計分為兩部分：無狀態的中繼和有狀態的轉發器。無狀態的中繼負責處理用戶的請求和路由， 而有狀態的轉發器負責維護用戶的連接和資料傳輸。</p>    <p>這個設計允許 OpenAI 的系統可以處理大量的用戶請求，並保持低延遲和穩定的連接。同時，也減少了系統的複雜性和維護成本。</p>    <h2>編輯悄悄話</h2>    <p>OpenAI 的語音 AI 技術是如何為用戶提供自然的對話體驗？答案就在於他們的架構設計和技術選擇。通過使用 WebRTC 協定和分層架構，OpenAI 可以提供低延遲和高品質的連接，讓用戶可以享受到自然的對話體驗。</p>",
+    "score": 95,
+    "takeaways": [
+      "OpenAI 使用 WebRTC 協定來實現低延遲的語音 AI",
+      "系統需要處理 9 億用戶的請求，並保持低延遲和穩定的連接",
+      "OpenAI 的架構將堆疊分為兩部分：無狀態的中繼和有狀態的轉發器"
+    ],
+    "punchline": "語音 AI 的延遲是衡量對話體驗的關鍵",
+    "social_posts": {
+      "threads": "你知道 OpenAI 如何為 9 億用戶提供低延遲的語音 AI 嗎？\n他們使用 WebRTC 協定和分層架構來實現低延遲和高品質的連接。\n這個技術可以讓用戶享受到自然的對話體驗，感受不到延遲和斷線的問題。",
+      "facebook": "OpenAI 的語音 AI 技術是如何為用戶提供自然的對話體驗？通過使用 WebRTC 協定和分層架構，OpenAI 可以提供低延遲和高品質的連接，讓用戶可以享受到自然的對話體驗。分享這篇文章，讓你的朋友也知道這個酷炫的技術！",
+      "viral_hook": "揭秘 OpenAI 的低延遲語音 AI 技術！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!tt9l!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F05300958-bebd-4857-9cd1-ce98dcd08ec7_2048x1166.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/how-openai-delivers-low-latency-voice",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "008",
+    "title": "SOCRadar 怎麼用 AlloyDB 和 Gemini Enterprise 做到 20 倍的威脅偵測效能？",
+    "summary": "SOCRadar透過AlloyDB和Gemini Enterprise提升威脅偵測效能，減少資料瓶頸，讓安全分析師能夠更快速地應對網路攻擊",
+    "content": "<p>SOCRadar 是一家領先的網路安全公司，為全球 30 多個國家的企業提供威脅情報。隨著網路威脅的增加，SOCRadar 需要升級其資料基礎設施，以更快速地提供情報給客戶。</p>    <h2>什麼是 AlloyDB？</h2>    <p>AlloyDB 是 Google Cloud 的一款高效能、完全管理的資料庫，能夠處理高容量的交易和分析查詢。SOCRadar 選擇 AlloyDB 是因為它能夠提供低風險的遷移路徑和高效能的查詢能力。</p>    <h2>SOCRadar 怎麼使用 AlloyDB 和 Gemini Enterprise？</h2>    <p>SOCRadar 使用 AlloyDB 和 Gemini Enterprise 來處理大量的網路遙測資料。AlloyDB 能夠提供 20 倍的效能提升和 75% 的 DBA 時間節省，讓安全分析師能夠更快速地應對網路攻擊。Gemini Enterprise Agent Platform 幫助 SOCRadar 自動化安全分析和威脅偵測，減少安全分析師的工作量和誤判率。</p>    <h2>編輯悄悄話</h2>    <p>SOCRadar 的成功案例告訴我們，升級資料基礎設施和採用新技術是提高網路安全效能的關鍵。透過 AlloyDB 和 Gemini Enterprise，SOCRadar 能夠更快速地提供情報給客戶，保護他們免受網路威脅的侵害。</p>",
+    "score": 90,
+    "takeaways": [
+      "SOCRadar 選擇 AlloyDB 以提升威脅偵測效能",
+      "AlloyDB 提供 20 倍的效能提升和 75% 的 DBA 時間節省",
+      "Gemini Enterprise Agent Platform 幫助 SOCRadar 自動化安全分析和威脅偵測"
+    ],
+    "punchline": "SOCRadar 的效能提升 20 倍，資料瓶頸消失",
+    "social_posts": {
+      "threads": "SOCRadar 怎麼用 AlloyDB 和 Gemini Enterprise 做到 20 倍的威脅偵測效能？\n透過 AlloyDB 和 Gemini Enterprise，SOCRadar 能夠更快速地提供情報給客戶，保護他們免受網路威脅的侵害。\n#SOCRadar #AlloyDB #GeminiEnterprise #網路安全",
+      "facebook": "SOCRadar 的成功案例：透過 AlloyDB 和 Gemini Enterprise 提升威脅偵測效能！\n點擊連結了解更多：https://example.com\n#SOCRadar #AlloyDB #GeminiEnterprise #網路安全",
+      "viral_hook": "SOCRadar 的效能提升 20 倍，資料瓶頸消失！你也想知道他們的秘密嗎？"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/10_-_Databases.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/databases/socradar-powers-rapid-threat-detection-with-alloydb-and-gemini-enterprise/",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "009",
+    "title": "爆發新聞！Musk 賠1500億，OpenAI 大勝！",
+    "summary": "Elon Musk 輸掉1500億訴訟，OpenAI 繼續領先AI技術",
+    "content": "<p>最近的AI新聞中，Elon Musk 輸掉了對OpenAI 的訴訟，損失達1500億！</p>    <h2>什麼是OpenAI 事件?</h2>    <p>Elon Musk 指控OpenAI 的Sam Altman竊取其非營利組織的技術，但法院認為Musk 過晚起訴，因此判決OpenAI 勝訴。</p>    <h2>Google Gemini App 挑戰ChatGPT</h2>    <p>Google 在IO 2026會議上更新了Gemini App，挑戰ChatGPT 和Claude 的地位。同時，OpenAI 也解決了著名的Erdős 問題。</p>    <h2>編輯悄悄話</h2>    <p>看來Musk 這次真的輸掉了，但AI技術的發展仍然不斷前進。大家可以繼續關注AI新聞，了解最新的發展動態!</p>",
+    "score": 90,
+    "takeaways": [
+      "Elon Musk 過晚起訴，輸掉OpenAI 案",
+      "Google Gemini App 挑戰ChatGPT",
+      "OpenAI 解決Erdős 問題"
+    ],
+    "punchline": "Musk 輸掉1500億",
+    "social_posts": {
+      "threads": "Musk 輸掉1500億！\nOpenAI 繼續領先AI技術\nGoogle Gemini App 挑戰ChatGPT\n大家覺得這個新聞怎麼樣？",
+      "facebook": "最近的AI新聞中，Elon Musk 輸掉了對OpenAI 的訴訟，損失達1500億！大家可以分享自己的意見和看法。",
+      "viral_hook": "Musk 輸掉1500億！你會如何看待這個新聞？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "010",
+    "title": "用Nano Banana 2 Lite和Gemini Omni Flash打造你的創意媒體帝國！",
+    "summary": "Nano Banana 2 Lite和Gemini Omni Flash讓你可以快速、輕鬆地打造出高品質的圖片和影片，讓你的創意媒體帝國更加繁榮！",
+    "content": "<p>你是否想打造出高品質的圖片和影片，但又不知道從哪裡開始？現在，你可以使用Nano Banana 2 Lite和Gemini Omni Flash來打造你的創意媒體帝國！</p>    <h2>什麼是Nano Banana 2 Lite？</h2>    <p>Nano Banana 2 Lite是目前最快、最划算的Gemini Image模型，讓你可以快速、輕鬆地生成高品質的圖片。它是開發人員的最佳選擇，讓你可以快速地打造出創意媒體體驗。</p>    <h2>什麼是Gemini Omni Flash？</h2>    <p>Gemini Omni Flash可以讓你輕鬆地生成高品質的影片和進行對話式編輯。它是目前最先進的多模態推理模型，讓你可以輕鬆地打造出無窮無盡的創意媒體體驗。</p>    <h2>編輯悄悄話</h2>    <p>現在，你可以使用Nano Banana 2 Lite和Gemini Omni Flash來打造你的創意媒體帝國！不要害怕，來試試看吧！你會發現它們可以讓你的創意媒體帝國更加繁榮！",
+    "score": 90,
+    "takeaways": [
+      "Nano Banana 2 Lite是目前最快、最划算的Gemini Image模型",
+      "Gemini Omni Flash可以讓你輕鬆地生成高品質的影片和進行對話式編輯",
+      "將Nano Banana 2 Lite和Gemini Omni Flash結合可以打造出無窮無盡的創意媒體體驗"
+    ],
+    "punchline": "讓你的創意媒體帝國更加繁榮！",
+    "social_posts": {
+      "threads": "你想打造出高品質的圖片和影片嗎？現在，你可以使用Nano Banana 2 Lite和Gemini Omni Flash來打造你的創意媒體帝國！ #NanoBanana2Lite #GeminiOmniFlash",
+      "facebook": "使用Nano Banana 2 Lite和Gemini Omni Flash來打造你的創意媒體帝國！現在，你可以快速、輕鬆地生成高品質的圖片和影片。 #NanoBanana2Lite #GeminiOmniFlash",
+      "viral_hook": "讓你的創意媒體帝國更加繁榮！使用Nano Banana 2 Lite和Gemini Omni Flash來打造無窮無盡的創意媒體體驗！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "011",
+    "title": "人工智慧革命：如何打造可靠的AI系統？",
+    "summary": "從關鍵字搜尋到智能研究助手，了解如何將AI應用於藥物研究領域，解決數十年來埋藏在PDF報告中的研究資訊",
+    "content": "<p>你是否曾經想過，如何將數十年來埋藏在PDF報告中的研究資訊，變成可用的知識？</p>    <h2>挑戰：藥物研究的數據迷宮</h2>    <p>藥物研究是一個複雜的領域，數十年來的研究報告和數據散佈在各個地方，研究人員需要花費大量的時間和精力來搜尋和整理這些資訊。這就是為什麼我們需要一個可靠的AI系統來幫助我們解決這個問題。</p>    <h2>解決方案：PRINCE平臺</h2>    <p>PRINCE是一個演化的平臺，從關鍵字搜尋到智能研究助手，提供了一個全新的研究體驗。透過這個平臺，研究人員可以輕鬆地搜尋和整理研究資訊，甚至可以自動生成研究報告和文件。</p>    <p>但是，如何打造一個可靠的AI系統呢？這需要透明度、解釋性和持續的迭代和改進。只有這樣，我們才能夠建立一個值得信賴的AI系統，幫助我們解決複雜的研究問題。</p>    <h2>編輯悄悄話</h2>    <p>AI不是未來，而是現在。讓我們一起打造一個可靠的AI系統，解決藥物研究領域的挑戰，為人類的健康和福祉做出貢獻吧！",
+    "score": 90,
+    "takeaways": [
+      "利用AI打造智能研究助手，解決研究資訊搜尋問題",
+      "透明度和解釋性是AI系統可靠性的關鍵",
+      "持續迭代和改進是AI系統的必經之路"
+    ],
+    "punchline": "AI不是未來，而是現在",
+    "social_posts": {
+      "threads": "你是否曾經想過，如何將數十年來埋藏在PDF報告中的研究資訊，變成可用的知識？\n讓我們一起打造一個可靠的AI系統，解決藥物研究領域的挑戰吧！",
+      "facebook": "人工智慧革命：如何打造可靠的AI系統？了解如何將AI應用於藥物研究領域，解決數十年來埋藏在PDF報告中的研究資訊。點擊鏈接，了解更多！",
+      "viral_hook": "AI不是未來，而是現在！"
+    },
+    "image": "https://martinfowler.com/articles/reliable-llm-bayer/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "012",
+    "title": "ChatGPT 掀起全球AI革命！用戶成長率驚人，哪些人最愛用它？",
+    "summary": "ChatGPT 的使用率正在全球範圍內迅速增長，尤其是在非洲和亞洲地區，用戶不僅使用次數增加，還在嘗試更多新的功能，讓AI技術真正惠及全球大眾。",
+    "content": "<p>ChatGPT 的使用率正在全球範圍內迅速增長，尤其是在非洲和亞洲地區，用戶不僅使用次數增加，還在嘗試更多新的功能，讓AI技術真正惠及全球大眾。</p>    <h2>全球AI採用率的變化</h2>    <p>根據OpenAI Signals的數據，ChatGPT的使用率在全球範圍內迅速增長，尤其是在非洲和亞洲地區，六個月後，用戶每天發送的消息量增加了50%，嘗試的新功能也增加了一倍。</p>    <h2>女性用戶的崛起</h2>    <p>女性用戶的使用率正在增長，現在佔全球使用率的大部分，尤其是在巴西、哥倫比亞、波蘭和納米比亞等國家，女性用戶的消息量遠遠超過男性用戶。</p>    <h2>編輯悄悄話</h2>    <p>ChatGPT的使用率正在全球範圍內迅速增長，讓AI技術真正惠及全球大眾，誰會是下一個使用ChatGPT的人呢？也許就是你自己！",
+    "score": 90,
+    "takeaways": [
+      "ChatGPT 的使用率在全球範圍內迅速增長，尤其是在非洲和亞洲地區",
+      "用戶不僅使用次數增加，還在嘗試更多新的功能",
+      "女性用戶的使用率正在增長，現在佔全球使用率的大部分"
+    ],
+    "punchline": "AI 正在真正惠及全球大眾！",
+    "social_posts": {
+      "threads": "你知道嗎？ChatGPT的使用率正在全球範圍內迅速增長，尤其是在非洲和亞洲地區，用戶不僅使用次數增加，還在嘗試更多新的功能，讓AI技術真正惠及全球大眾。#ChatGPT #AI",
+      "facebook": "ChatGPT 的使用率正在全球範圍內迅速增長，尤其是在非洲和亞洲地區，用戶不僅使用次數增加，還在嘗試更多新的功能，讓AI技術真正惠及全球大眾。點擊查看更多詳情！",
+      "viral_hook": "AI革命來了！ChatGPT的使用率正在全球範圍內迅速增長，你準備好了嗎？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/7pYrohTaJusmMwISBrPGF3/8d3e678444d2b6a22ba62085b9a3bb8b/Frame-1.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "date": "2026-07-02"
+  }
+]
