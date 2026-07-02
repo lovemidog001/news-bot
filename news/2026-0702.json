@@ -262,5 +262,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "date": "2026-07-02"
+  },
+  {
+    "id": "013",
+    "title": "揭開隱藏風險：Gigamon COO Gareth Maclachlan 解密深度觀察力",
+    "summary": "Gigamon COO Gareth Maclachlan 討論如何透過深度觀察力加速威脅偵測、零信任執行和 AI 流量治理",
+    "content": "<p>安全團隊面臨的最大挑戰之一是如何觀察和應對日益複雜的安全威脅。Gigamon COO Gareth Maclachlan 近日接受採訪，分享了其公司如何透過深度觀察力幫助安全團隊加速威脅偵測、零信任執行和 AI 流量治理。</p>    <h2>什麼是深度觀察力？</h2>    <p>深度觀察力是指安全團隊可以透過實時的網路遙測和應用層面的內容，觀察和分析整個網路環境的能力。這樣可以幫助安全團隊更快速地偵測和應對安全威脅。</p>    <h2>如何實現深度觀察力？</h2>    <p>Gigamon 和 Elastic 的合作夥伴關係提供了一個完整的安全解決方案，包括網路遙測、應用層面的內容和 AI 流量治理。這樣可以幫助安全團隊更快速地偵測和應對安全威脅，並實現零信任執行和 AI 流量治理。</p>    <h2>編輯悄悄話</h2>    <p>安全團隊的工作永遠不會停止，新的安全威脅每天都在出現。透過深度觀察力和合作夥伴關係，安全團隊可以更好地保護自己的網路環境和數據。不要等到為時已晚，今天就開始提升你的安全能力吧！",
+    "score": 90,
+    "takeaways": [
+      "深度觀察力是安全團隊的關鍵",
+      "Gigamon 和 Elastic 的合作夥伴關係提供了更好的安全解決方案",
+      "AI 流量治理是安全團隊新的挑戰"
+    ],
+    "punchline": "你看不到的風險，你就無法保護",
+    "social_posts": {
+      "threads": "安全團隊的最大挑戰是什麼？是觀察和應對日益複雜的安全威脅！透過深度觀察力和合作夥伴關係，可以幫助安全團隊更快速地偵測和應對安全威脅。#安全團隊 #深度觀察力",
+      "facebook": "安全團隊面臨的最大挑戰之一是如何觀察和應對日益複雜的安全威脅。Gigamon COO Gareth Maclachlan 近日接受採訪，分享了其公司如何透過深度觀察力幫助安全團隊加速威脅偵測、零信任執行和 AI 流量治理。點擊連結了解更多！",
+      "viral_hook": "你看不到的風險，你就無法保護！快來了解如何透過深度觀察力提升你的安全能力吧！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt430ec7f468a7c275/6a45c27427638c804155ca29/gigamon-partnership.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/gigamon-partnership",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "014",
+    "title": "Next.js 16.3登場！Turbopack新功能大公開",
+    "summary": "Next.js 16.3新增Turbopack功能，包括開發記憶體驅逐、持久檔案快取和Rust React Compiler等",
+    "content": "<p>Next.js 16.3即將發佈，新增了許多Turbopack功能，包括開發記憶體驅逐、持久檔案快取和Rust React Compiler等。</p>    <h2>Turbopack的核心設計</h2>    <p>Turbopack的核心設計是增量編譯，通過緩存前一次工作的結果，避免重新編譯未改變的檔案。這樣可以減少CPU和記憶體使用量，提高開發效率。</p>    <h2>新功能大公開</h2>    <p>Next.js 16.3新增記憶體驅逐功能，減少開發記憶體使用量。持久檔案快取可以加速Next.js開發和建置過程。Rust React Compiler可以提高編譯速度，減少等待時間。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 16.3的Turbopack新功能，讓開發者可以更快速、更省記憶體地開發和建置Next.js應用。這是Next.js生態系統的一個重大升級，值得開發者關注和體驗。",
+    "score": 90,
+    "takeaways": [
+      "Turbopack的核心設計是增量編譯，通過緩存前一次工作的結果，避免重新編譯未改變的檔案",
+      "Next.js 16.3新增記憶體驅逐功能，減少開發記憶體使用量",
+      "持久檔案快取可以加速Next.js開發和建置過程"
+    ],
+    "punchline": "Turbopack新功能，讓Next.js開發更快更省記憶體",
+    "social_posts": {
+      "threads": "Next.js 16.3登場！Turbopack新功能大公開\n記憶體驅逐、持久檔案快取和Rust React Compiler等\n讓Next.js開發更快更省記憶體",
+      "facebook": "Next.js 16.3即將發佈，新增了許多Turbopack功能，包括記憶體驅逐、持久檔案快取和Rust React Compiler等。這些新功能可以讓Next.js開發更快速、更省記憶體。了解更多：",
+      "viral_hook": "Next.js 16.3登場！Turbopack新功能大公開"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-16-3-turbopack/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-16-3-turbopack",
+    "date": "2026-07-02"
   }
 ]
