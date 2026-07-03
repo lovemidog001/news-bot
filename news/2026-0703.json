@@ -284,5 +284,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "date": "2026-07-03"
+  },
+  {
+    "id": "014",
+    "title": "別再亂花錢！Azure IaaS教你設計、建置、優化雲端基礎設施，長期省錢高效率",
+    "summary": "企業升級基礎設施、遷移任務關鍵工作負載、建置雲原生應用程式和擴展AI，成本效益仍是雲端架構的核心原則",
+    "content": "<p>隨著企業不斷升級基礎設施、遷移任務關鍵工作負載、建置雲原生應用程式和擴展AI，成本效益仍是雲端架構的核心原則。如何設計、建置和優化雲端基礎設施，以達到長期成本效益，是許多企業關心的問題。</p>    <h2>什麼是Azure IaaS？</h2>    <p>Azure IaaS（Infrastructure as a Service）是Microsoft Azure提供的一種基礎設施即服務，允許企業在雲端部署和管理自己的基礎設施，包括虛擬機器、儲存和網絡等。</p>    <p>使用Azure IaaS，企業可以快速部署和擴展自己的基礎設施，同時也可以享受雲端的彈性和可擴展性。同時，Azure IaaS也提供了強大的安全性和合規性功能，確保企業的資料和應用程式是安全的。</p>    <h2>如何設計、建置和優化雲端基礎設施</h2>    <ul>      <li>明確企業的雲端轉型目標和需求</li>      <li>選擇合適的雲端服務提供商和基礎設施</li>      <li>設計和建置雲端基礎設施，考慮長期成本效益和安全性</li>      <li>不斷優化和監控雲端基礎設施，確保高效率和低成本</li>    </ul>    <h2>編輯悄悄話</h2>    <p>設計、建置和優化雲端基礎設施，不是一件容易的事，但如果你能做對，將會為你的企業帶來長期的成本效益和競爭力。所以，別再亂花錢，從正確設計開始吧！",
+    "score": 90,
+    "takeaways": [
+      "設計雲端基礎設施時須考慮長期成本效益",
+      "建置和優化雲端基礎設施可以提高企業的競爭力",
+      "Azure IaaS提供了強大的工具和功能來支持企業的雲端轉型"
+    ],
+    "punchline": "省錢高效率，從正確設計開始",
+    "social_posts": {
+      "threads": "你知道嗎？設計、建置和優化雲端基礎設施，可以為你的企業帶來長期的成本效益和競爭力！\n但是，如何做到呢？\n讓我們一起來探討吧！",
+      "facebook": "企業升級基礎設施、遷移任務關鍵工作負載、建置雲原生應用程式和擴展AI，成本效益仍是雲端架構的核心原則。如何設計、建置和優化雲端基礎設施，以達到長期成本效益？讓我們一起來探討吧！",
+      "viral_hook": "別再亂花錢！Azure IaaS教你設計、建置、優化雲端基礎設施，長期省錢高效率"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Azure_IaaS_Cost-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-iaas-how-to-design-build-and-optimize-cloud-infrastructure-for-long-term-cost-optimization-efficiency/",
+    "date": "2026-07-03"
+  },
+  {
+    "id": "015",
+    "title": "從零到英雄：騰訊APP團隊的AI Coding與Harness Engineering終極實戰",
+    "summary": "騰訊應用寶活動平台團隊如何運用AI Coding和Harness Engineering實現端到端工程開發？",
+    "content": "<p>近年來，AI Coding和Harness Engineering成為了軟件開發界的熱門話題。騰訊應用寶活動平台團隊就是其中的一個實踐者，他們通過運用這些技術實現了端到端工程開發，取得了令人瞠目的成果。</p>    <h2>什麼是AI Coding和Harness Engineering？</h2>    <p>AI Coding是一種利用人工智能技術來自動化程式設計的方法，它可以幫助開發者自動生成程式碼，節省時間和精力。Harness Engineering則是一種整合了多種技術的工程開發方法，它可以幫助開發者實現端到端工程開發，提高開發效率和質量。</p>    <h2>騰訊APP團隊的實踐經驗</h2>    <p>騰訊應用寶活動平台團隊通過運用AI Coding和Harness Engineering，實現了從需求到交付的全流程自動化，提高了開發效率和質量。團隊成員表示，這些技術不僅節省了時間和精力，也提高了開發者的工作效率和滿意度。</p>    <ul>      <li>提升開發效率：AI Coding可以自動生成程式碼，節省開發者的時間和精力。</li>      <li>提高開發質量：Harness Engineering可以幫助開發者實現端到端工程開發，提高開發質量和可靠性。</li>      <li>提高開發者滿意度：這些技術可以幫助開發者實現自己的創意和想法，提高工作滿意度和自豪感。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>雖然AI Coding和Harness Engineering是很酷的技術，但它們並不是萬能的。要實現真正的端到端工程開發，還需要開發者的努力和創造力。所以，開發者們不要害怕新技術，勇敢地去嘗試和創新吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "AI Coding如何提升開發效率",
+      "Harness Engineering在實踐中的應用",
+      "端到端工程開發的未來趨勢"
+    ],
+    "punchline": "從零到英雄的工程開發之路",
+    "social_posts": {
+      "threads": "大家有沒有聽說過AI Coding和Harness Engineering？這兩種技術可以幫助開發者實現端到端工程開發，提高開發效率和質量！\n\n我最近有機會了解騰訊應用寶活動平台團隊的實踐經驗，真的很令人印象深刻！\n\n他們通過運用AI Coding和Harness Engineering，實現了從需求到交付的全流程自動化，提高了開發效率和質量！",
+      "facebook": "從零到英雄的工程開發之路！騰訊應用寶活動平台團隊通過運用AI Coding和Harness Engineering，實現了端到端工程開發，取得了令人瞠目的成果！",
+      "viral_hook": "你知道嗎？AI Coding和Harness Engineering可以幫助開發者實現端到端工程開發，提高開發效率和質量！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802407&idx=1&sn=b6f398b8185a9862db73237cd076a3ce",
+    "date": "2026-07-03"
   }
 ]
