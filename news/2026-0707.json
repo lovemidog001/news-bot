@@ -240,5 +240,71 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "date": "2026-07-07"
+  },
+  {
+    "id": "012",
+    "title": "OpenAI GPT-5.6登場！帶來新型態的語言模型",
+    "summary": "OpenAI 推出 GPT-5.6 族群，包括高性能的 Sol、Terra 和 Luna 模型，具有更強大的語言理解和生成能力。這些模型通過強化學習和監督學習訓練，具有更好的安全性和控制性。同時，Sakana AI 的 Fugu 模型家族也展示了其在多模型協同工作方面的優勢。",
+    "content": "<h2>OpenAI GPT-5.6 族群</h2><p>OpenAI 推出 GPT-5.6 族群，包括高性能的 Sol、Terra 和 Luna 模型。這些模型通過強化學習和監督學習訓練，具有更好的安全性和控制性。Sol 模型具有最高的性能和安全性，Terra 模型提供平衡的性能和成本，Luna 模型則是最快和最便宜的選擇。</p><h2>Fugu 模型家族</h2><p>Sakana AI 的 Fugu 模型家族展示了其在多模型協同工作方面的優勢。Fugu 模型可以呼叫多個語言模型和工具，進行複雜的任務。Fugu-Ultra 模型則是 Fugu 模型的升級版，具有更強大的性能和安全性。</p><h2>RoboReward 模型家族</h2><p>RoboReward 模型家族可以更有效地訓練機器人。這些模型通過視覺語言學習，提供更好的獎勵函數，從而提高機器人的訓練效率。</p><h2>編輯悄悄話</h2><p>OpenAI GPT-5.6 族群和 Fugu 模型家族為語言模型和機器人領域帶來了新的可能性。這些模型的出現，將會改變未來的語言模型和機器人應用。同時，RoboReward 模型家族也將會提高機器人的訓練效率和安全性。</p>",
+    "score": 95,
+    "takeaways": [
+      "OpenAI GPT-5.6 族群具有更強大的語言理解和生成能力",
+      "Fugu 模型家族展示了其在多模型協同工作方面的優勢",
+      "RoboReward 模型家族可以更有效地訓練機器人"
+    ],
+    "punchline": "OpenAI GPT-5.6 族群和 Fugu 模型家族為語言模型和機器人領域帶來了新的可能性",
+    "social_posts": {
+      "threads": "🤖 OpenAI GPT-5.6 族群和 Fugu 模型家族為語言模型和機器人領域帶來了新的可能性！🤔 什麼是 GPT-5.6 族群？🤔 什麼是 Fugu 模型家族？🤔 RoboReward 模型家族可以做什麼？",
+      "facebook": "🤖 OpenAI GPT-5.6 族群和 Fugu 模型家族為語言模型和機器人領域帶來了新的可能性！🤔 了解更多：[鏈接] #GPT-5.6 #Fugu #RoboReward",
+      "viral_hook": "🚨 OpenAI GPT-5.6 族群和 Fugu 模型家族將會改變未來的語言模型和機器人應用！🤖"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-360",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "013",
+    "title": "從零到英雄：大倉AI工程化實戰，讓你瞬間變強！",
+    "summary": "告別理念，直接實戰！大倉AI工程化的實戰經驗分享，讓你快速提升技能",
+    "content": "<p>大家好，我們今天要分享的是大倉AI工程化的實戰經驗。這次分享不講理念，直接實戰！</p>    <h2>什麼是大倉AI工程化</h2>    <p>大倉AI工程化是一種新的開發模式，讓你可以快速地開發和部署AI模型。這種模式可以幫助你節省時間和成本，同時也可以提高你的開發效率。</p>    <p>在這次分享中，我們會介紹從Vibe Coding到Harness的實戰過程。這個過程中，我們會分享我們的經驗和心得，讓你可以快速地學習和掌握大倉AI工程化的技能。</p>    <h2>如何快速提升AI工程化技能</h2>    <p>要快速提升AI工程化技能，首先你需要了解大倉AI工程化的基本概念和原理。然後，你需要學習和掌握相關的工具和技術，例如Vibe Coding和Harness。</p>    <p>同時，你也需要實踐和經驗，讓你可以快速地學習和成長。這就是為什麼我們今天要分享大倉AI工程化的實戰經驗。</p>    <h2>編輯悄悄話</h2>    <p>最後，希望大家可以從這次分享中學到一些東西，同時也可以快速地提升AI工程化技能。不要害怕嘗試和實踐，讓你可以快速地成長和成功！</p>",
+    "score": 85,
+    "takeaways": [
+      "大倉AI工程化的實戰經驗分享",
+      "從Vibe Coding到Harness的實戰過程",
+      "如何快速提升AI工程化技能"
+    ],
+    "punchline": "大倉AI工程化，讓你瞬間變強！",
+    "social_posts": {
+      "threads": "大家好，我們今天要分享的是大倉AI工程化的實戰經驗。這次分享不講理念，直接實戰！\n\n從Vibe Coding到Harness的實戰過程，我們會分享我們的經驗和心得，讓你可以快速地學習和掌握大倉AI工程化的技能。",
+      "facebook": "大倉AI工程化的實戰經驗分享！從Vibe Coding到Harness的實戰過程，讓你快速提升AI工程化技能。點擊鏈接查看詳細內容：",
+      "viral_hook": "大倉AI工程化，讓你瞬間變強！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802486&idx=1&sn=1d3872e7495a2a69857e9dcb5eb9c625",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "014",
+    "title": "別再當「外包仔」！用 AI 自動完成程式碼的 3 個核心秘訣",
+    "summary": "Birgitta Böckeler 分享她使用本地 LLMs 進行程式設計的經驗，強調模型的可行性和影響因素",
+    "content": "<p>近期，Birgitta Böckeler 進行了一系列的實驗，嘗試使用本地 LLMs 進行程式設計。她的經驗告訴我們，模型的可行性和影響因素是非常重要的。</p>    <h2>模型的大小和可用 RAM</h2>    <p>模型的大小和可用 RAM 的大小直接影響執行速度和結果。如果模型太大，執行速度會變慢甚至崩潰。Birgitta 的經驗告訴我們，15-25GB 的模型大小是比較舒適的。</p>    <h2>多核心和新一代的 CPU 架構</h2>    <p>多核心和新一代的 CPU 架構可以提高 token 生成的速度。Birgitta 的實驗結果告訴我們，M3 Max 和 M5 Pro 的執行速度非常快，尤其是在短時間的對話中。</p>    <h2>編輯悄悄話</h2>    <p>AI 自動完成程式碼的未來已經來臨，但是我們需要注意模型的可行性和影響因素。Birgitta 的經驗告訴我們，模型的大小、多核心和記憶體頻寬都是非常重要的因素。讓我們一起探索 AI 的未來吧！",
+    "score": 85,
+    "takeaways": [
+      "模型的大小和可用 RAM 的大小直接影響執行速度和結果",
+      "多核心和新一代的 CPU 架構可以提高 token 生成的速度",
+      "記憶體頻寬是 token 生成的瓶頸，影響執行速度"
+    ],
+    "punchline": "AI 自動完成程式碼的未來已經來臨",
+    "social_posts": {
+      "threads": "你們有沒有試過使用 AI 自動完成程式碼？分享你的經驗吧！",
+      "facebook": "Birgitta Böckeler 分享她使用本地 LLMs 進行程式設計的經驗。點擊連結了解更多：https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
+      "viral_hook": "AI 自動完成程式碼的未來已經來臨！"
+    },
+    "image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
+    "date": "2026-07-07"
   }
 ]
