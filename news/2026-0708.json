@@ -1,0 +1,288 @@
+[
+  {
+    "id": "001",
+    "title": "【爆炸性新聞】從 Hugging Face 到 Amazon SageMaker Studio，一鍵搞定！",
+    "summary": "你還在為模型部署煩惱嗎？Hugging Face 和 Amazon SageMaker Studio 合作，讓你一鍵將模型從開發環境部署到生產環境！",
+    "content": "<h2>什麼是 Hugging Face 和 Amazon SageMaker Studio ？</h2>    <p>Hugging Face 是一家人工智慧公司，提供開源的自然語言處理模型和工具。Amazon SageMaker Studio 是 Amazon Web Services 的機器學習平台，提供開發、訓練和部署模型的功能。</p>    <h2>一鍵部署模型功能是什麼？</h2>    <p>該功能允許使用者將模型從 Hugging Face 的開發環境直接部署到 Amazon SageMaker Studio 的生產環境。這樣可以大大提高模型部署效率和準確性，同時也可以減少人工錯誤的風險。</p>    <p>使用者可以通過 Hugging Face 的界面，選擇要部署的模型和目標環境，然後點擊「部署」按鈕，模型就會自動部署到 Amazon SageMaker Studio。</p>    <h2>編輯悄悄話</h2>    <p>模型部署不再是問題！Hugging Face 和 Amazon SageMaker Studio 的合作，讓模型部署變得更加簡單和高效。試試看吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Hugging Face 和 Amazon SageMaker Studio 合作，提供一鍵部署模型功能",
+      "使用者可以將模型從開發環境快速部署到生產環境",
+      "該功能大大提高了模型部署效率和準確性"
+    ],
+    "punchline": "一鍵部署，模型從此不再是問題！",
+    "social_posts": {
+      "threads": "你還在為模型部署煩惱嗎？\nHugging Face 和 Amazon SageMaker Studio 合作，一鍵部署模型功能讓你輕鬆搞定！\n#HuggingFace #AmazonSageMaker #模型部署",
+      "facebook": "【模型部署不再是問題！】Hugging Face 和 Amazon SageMaker Studio 合作，提供一鍵部署模型功能！使用者可以將模型從開發環境快速部署到生產環境，提高模型部署效率和準確性。試試看吧！",
+      "viral_hook": "模型部署不再是問題！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/68abb71b13d7773ad97e9035/f1nX3dXVmvJcQzJfgfpnJ.webp",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "002",
+    "title": "別再為資料混亂煩惱！從 Legacy Topics 升級到 Dataset Enrichment 的秘訣",
+    "summary": "Amazon Quick Sight 的 Dataset Enrichment 功能讓你可以直接在資料集中加入商業邏輯，告別 Legacy Topics 的繁複管理",
+    "content": "<p>你是否仍在為 Amazon Quick Sight 的 Legacy Topics 而煩惱？這些 Legacy Topics 需要與資料集同步，否則就會導致資料不一致和版本衝突。但現在，有了一個更好的解決方案：Dataset Enrichment。</p>    <h2>什麼是 Dataset Enrichment？</h2>    <p>Dataset Enrichment 是 Amazon Quick Sight 中的一個新功能，讓你可以直接在資料集中加入商業邏輯，例如欄位描述、同義詞、計算欄位等。這些商業邏輯可以直接存儲在資料集中，讓你可以更容易地管理和維護你的資料。</p>    <h2>如何升級到 Dataset Enrichment？</h2>    <p>升級到 Dataset Enrichment 非常簡單。你只需要按照以下步驟進行：</p>    <ul>      <li>識別你的目標資料集</li>      <li>找到源 Legacy Topic</li>      <li>運行 Python 腳本將 Legacy Topic 的中繼資料寫入到資料集的 SemanticModelConfiguration</li>    </ul>    <p>這個過程非常簡單，無需手動 UI 工作。</p>    <h2>編輯悄悄話</h2>    <p>別再為資料混亂煩惱了！升級到 Dataset Enrichment，讓你的資料管理更簡單、更高效。現在就開始吧！",
+    "score": 85,
+    "takeaways": [
+      "Dataset Enrichment 可以直接在資料集中加入商業邏輯",
+      "Legacy Topics 的管理方式已經過時，需要升級到 Dataset Enrichment",
+      "升級到 Dataset Enrichment 可以簡化資料管理，提高資料的準確性和一致性"
+    ],
+    "punchline": "資料管理再也不用煩惱了！",
+    "social_posts": {
+      "threads": "你是否仍在為 Amazon Quick Sight 的 Legacy Topics 而煩惱？別再煩惱了！升級到 Dataset Enrichment，讓你的資料管理更簡單、更高效。#DatasetEnrichment #AmazonQuickSight",
+      "facebook": "別再為資料混亂煩惱了！升級到 Dataset Enrichment，讓你的資料管理更簡單、更高效。現在就開始吧！#DatasetEnrichment #AmazonQuickSight",
+      "viral_hook": "別再為資料混亂煩惱了！升級到 Dataset Enrichment，讓你的資料管理更簡單、更高效。"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/07/ml-21217.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/enrich-your-datasets-with-business-context-migrating-from-legacy-topics-to-semantic-datasets-in-amazon-quick/",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "003",
+    "title": "AI 的記憶力：Meta 如何解決儲存瓶頸，讓 AI 更加聰明",
+    "summary": "Meta 的 AI 儲存藍圖如何解決儲存瓶頸，讓 AI 訓練速度更快、更聰明",
+    "content": "<p>近年來，AI 模型的能力和訓練資料集的大小都呈指數級增長。然而，儲存的性能增長卻相對遲緩，導致儲存瓶頸成為 AI 訓練速度的主要限制因素。</p>    <h2>什麼是儲存瓶頸？</h2>    <p>儲存瓶頸是指儲存的速度和容量無法滿足 AI 訓練的需求，導致 AI 訓練速度變慢。這是因為 AI 訓練需要大量的資料和計算資源，儲存的速度和容量無法跟上需求，導致計算資源的浪費和訓練速度的降低。</p>    <h2>Meta 的解決方案</h2>    <p>Meta 的 BLOB 儲存架構是為了解決儲存瓶頸而設計的。它可以最大化 GPU 使用率和研究速度，讓 AI 訓練速度更快、更聰明。Meta 的儲存架構包括 Tectonic 層和 BLOB 儲存層，提供高耐用性和可用性，支持分層存儲和智能數據放置。</p>    <h2>編輯悄悄話</h2>    <p>儲存是 AI 的記憶力，速度是 AI 的智慧。Meta 的儲存藍圖是為了讓 AI 更加聰明、更快地學習和改進。讓我們一起期待 AI 的未來吧！",
+    "score": 90,
+    "takeaways": [
+      "儲存瓶頸是 AI 訓練速度的主要限制因素",
+      "Meta 的 BLOB 儲存架構可以最大化 GPU 使用率和研究速度",
+      "儲存架構的設計對 AI 訓練速度和研究速度有直接影響"
+    ],
+    "punchline": "儲存是 AI 的記憶力，速度是 AI 的智慧",
+    "social_posts": {
+      "threads": "你知道儲存瓶頸是 AI 訓練速度的主要限制因素嗎？ Meta 的 BLOB 儲存架構可以最大化 GPU 使用率和研究速度，讓 AI 訓練速度更快、更聰明！ #AI #儲存瓶頸 #Meta",
+      "facebook": "Meta 的儲存藍圖：如何解決儲存瓶頸，讓 AI 更加聰明？點擊連結了解更多！ https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+      "viral_hook": "儲存是 AI 的記憶力，速度是 AI 的智慧！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Metas-AI-Storage-Blueprint-at-Scale-Hero-1.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "004",
+    "title": "Azure 的秘密武器：人工智慧系統 Brain 如何提升雲端可靠性",
+    "summary": "Microsoft 推出 Brain ，一套基於 AI 的數位孿生系統，革新 Azure 服務健康管理，提升雲端運營效率",
+    "content": "<p>你是否曾想過，什麼讓 Microsoft Azure 能夠提供如此高效和可靠的雲端服務？答案就在於 Brain ，一套基於人工智慧的數位孿生系統。Brain 能夠實時監控和分析 Azure 服務的健康狀態，從而優化雲端運營效率和可靠性。</p>    <h2>什麼是 Brain ？</h2>    <p>Brain 是 Microsoft Azure 開發的一套 AI 系統，旨在提升雲端服務的可靠性和效率。它通過數位孿生技術，實時模擬和分析 Azure 服務的健康狀態，從而發現和解決潛在的問題。</p>    <h2>Brain 的工作原理</h2>    <ul>      <li>實時監控：Brain 能夠實時監控 Azure 服務的健康狀態，包括服務的可用性、性能和安全性。</li>      <li>數位孿生：Brain 通过數位孿生技術，實時模擬和分析 Azure 服務的健康狀態，從而發現和解決潛在的問題。</li>      <li>優化運營：Brain 能夠優化雲端運營效率和可靠性，從而提供更好的雲端服務體驗。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>Brain 是 Microsoft Azure 的秘密武器，它讓雲端服務更可靠、更高效。隨著 AI 技術的發展，雲端服務將會更加智能化和高效化。所以，下次你使用雲端服務時，請記住，Brain 正在默默地工作，為你提供更好的服務體驗。</p>",
+    "score": 90,
+    "takeaways": [
+      "Brain 是 Azure 的 AI 系統，提升雲端可靠性",
+      "數位孿生技術改變了超大規模運營方式",
+      "Microsoft Azure 致力於雲端服務的穩定性和安全性"
+    ],
+    "punchline": "AI 讓雲端更可靠",
+    "social_posts": {
+      "threads": "你知道嗎？Microsoft Azure 有一個秘密武器叫 Brain ，它是一套基於 AI 的數位孿生系統，提升雲端可靠性和效率。 #Azure #Brain #AI",
+      "facebook": "發現 Azure 的秘密武器：Brain 人工智慧系統！它如何提升雲端可靠性？點擊連結了解更多。 #Azure #Brain #AI",
+      "viral_hook": "Azure 的秘密武器：Brain 人工智慧系統！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/06/Brain-AIOps-2.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "005",
+    "title": "AI預算超支？實際上是資料基礎的問題！",
+    "summary": "澳洲企業AI預算超支的原因竟是資料基礎問題，了解如何從活動轉向實際成果，讓您的AI投資真正帶來ROI",
+    "content": "<p>新研究顯示，澳洲企業AI預算超支的原因竟是資料基礎問題。許多企業在部署AI前沒有建立正式的資料準備基礎，導致AI系統無法有效運作。</p>    <h2>從活動轉向實際成果</h2>    <p>許多企業追蹤AI的使用情況，而不是實際的商業成果。然而，使用情況並不能代表AI的實際價值。企業需要定義什麼是AI的成功，並追蹤實際的商業成果，例如成本節約、收入增加和生產力提升。</p>    <h2>建立資料基礎和觀察性基礎</h2>    <p>建立資料基礎和觀察性基礎是AI投資的最高影響力投資。企業需要了解自己的資料存儲在哪裡，評估資料的準確性和適用性，並消除重複的資料。這樣可以讓AI系統更有效地運作，並降低成本。</p>    <h2>編輯悄悄話</h2>    <p>AI預算超支不是因為錢不夠，而是因為資料不夠好。企業需要從活動轉向實際成果，建立資料基礎和觀察性基礎，才能真正讓AI投資帶來ROI。不要再把錢浪費在無效的AI系統上，從今天開始，建立您的資料基礎和觀察性基礎吧！",
+    "score": 90,
+    "takeaways": [
+      "只有8%的澳洲企業追蹤AI是否帶來實際收入或成本節約",
+      "72%的澳洲企業在部署AI前沒有建立正式的資料準備基礎",
+      "建立資料基礎和觀察性基礎是AI投資的最高影響力投資"
+    ],
+    "punchline": "AI預算超支不是因為錢不夠，而是因為資料不夠好",
+    "social_posts": {
+      "threads": "你知道嗎？許多企業AI預算超支的原因竟是資料基礎問題！\n讓我們一起探討如何從活動轉向實際成果，讓您的AI投資真正帶來ROI",
+      "facebook": "新研究顯示，澳洲企業AI預算超支的原因竟是資料基礎問題。了解如何建立資料基礎和觀察性基礎，讓您的AI投資真正帶來ROI。點擊連結了解更多",
+      "viral_hook": "AI預算超支不是因為錢不夠，而是因為資料不夠好！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltbf562bdaa56e9d81/6a4bcbee699b4aad1fb07d2e/data-foundation-blog_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/fix-your-data-foundation",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "006",
+    "title": "從Vibe Coding到Harness：大倉AI工程化的實戰秘訣",
+    "summary": "不再只是理念，帶你實戰大倉AI工程化的每一步",
+    "content": "<p>你是否曾夢想過有一套完整的大倉AI工程化解決方案？從Vibe Coding到Harness，這是一套實戰的大倉AI工程化方案。</p>    <h2>什麼是Vibe Coding？</h2>    <p>Vibe Coding是一種新的編程理念，它強調以人為本的設計和開發。它是一種將人工智慧和人類的創造力結合起來的編程方式。</p>    <p>通過Vibe Coding，你可以創建出更加智能和人性化的AI系統。它可以幫助你更好地理解用戶的需求和行為，並提供更加個性化的服務。</p>    <h2>什麼是Harness？</h2>    <p>Harness是一種實現大倉AI工程化的工具。它可以幫助你自動化AI系統的開發和部署，節省時間和成本。</p>    <p>通過Harness，你可以快速地部署和測試你的AI系統，並獲得即時的反饋和優化建議。</p>    <h2>編輯悄悄話</h2>    <p>大倉AI工程化，不再只是夢想。從Vibe Coding到Harness，這是一套實戰的大倉AI工程化方案。它可以幫助你創建出更加智能和人性化的AI系統，節省時間和成本。所以，不要再猶豫，現在就開始你的大倉AI工程化之旅吧！",
+    "score": 90,
+    "takeaways": [
+      "Vibe Coding是大倉AI工程化的基礎",
+      "Harness是實現大倉AI工程化的關鍵工具",
+      "實戰是大倉AI工程化成功的唯一途徑"
+    ],
+    "punchline": "大倉AI工程化，不再只是夢想",
+    "social_posts": {
+      "threads": "你有沒有想過有一套完整的大倉AI工程化解決方案？\n從Vibe Coding到Harness，這是一套實戰的大倉AI工程化方案。\n它可以幫助你創建出更加智能和人性化的AI系統，節省時間和成本。",
+      "facebook": "大倉AI工程化，不再只是夢想。從Vibe Coding到Harness，這是一套實戰的大倉AI工程化方案。點擊鏈接了解更多：",
+      "viral_hook": "大倉AI工程化的秘密終於被揭露！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802486&idx=1&sn=1d3872e7495a2a69857e9dcb5eb9c625",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "007",
+    "title": "AI 模型大對決：ChatGPT、Gemini 和 Claude 的背後故事",
+    "summary": "了解 AI 模型的設計決策和架構差異，揭開 ChatGPT、Gemini 和 Claude 的不同之處",
+    "content": "<p>最近，AI 模型的發展越來越快，ChatGPT、Gemini 和 Claude 等模型已經成為我們生活中的一部分。但是，你有沒有想過，這些模型的背後故事是什麼？它們的設計決策和架構差異是什麼？</p>    <h2>了解 AI 模型的設計決策</h2>    <p>AI 模型的設計決策和架構差異會影響其表現和行為。了解這些設計決策和架構可以幫助我們更好地使用和評估它們。ChatGPT、Gemini 和 Claude 的設計決策和架構差異反映了其背後的設計理念和目標。</p>    <h2>揭開 ChatGPT、Gemini 和 Claude 的不同之處</h2>    <p>ChatGPT、Gemini 和 Claude 的設計決策和架構差異主要在於其架構和訓練過程。ChatGPT 使用了一種叫做 Mixture of Experts 的技術，Gemini 使用了一種叫做 MoE 的技術，Claude 則使用了一種叫做自注意力機制的技術。這些不同的設計決策和架構差異使得這些模型的表現和行為不同。</p>    <h2>編輯悄悄話</h2>    <p>AI 模型的設計決策和架構差異是關鍵。了解這些設計決策和架構可以幫助我們更好地使用和評估它們。現在，去探索 ChatGPT、Gemini 和 Claude 的世界吧，發現它們的不同之處和背後的故事吧！",
+    "score": 85,
+    "takeaways": [
+      "AI 模型的設計決策和架構差異會影響其表現和行為",
+      "了解 AI 模型的架構和設計可以幫助我們更好地使用和評估它們",
+      "ChatGPT、Gemini 和 Claude 的設計決策和架構差異反映了其背後的設計理念和目標"
+    ],
+    "punchline": "AI 模型的設計決策是關鍵",
+    "social_posts": {
+      "threads": "你知道嗎？AI 模型的設計決策和架構差異會影響其表現和行為！了解這些設計決策和架構可以幫助我們更好地使用和評估它們。#AI #模型 #設計",
+      "facebook": "AI 模型大對決：ChatGPT、Gemini 和 Claude 的背後故事。了解這些模型的設計決策和架構差異，揭開它們的不同之處。分享給你的朋友和家人，讓他們也能了解 AI 模型的世界！",
+      "viral_hook": "AI 模型的設計決策是關鍵！你知道嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!UXJt!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1e6a656-a25b-49bf-8551-4a74c83cb209_2458x1676.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/chatgpt-vs-gemini-vs-claude-how-they",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "008",
+    "title": "AI 代理人即將進入企業工作場所！了解如何在 Google Cloud Marketplace 上發佈您的代理人",
+    "summary": "了解如何在 Google Cloud Marketplace 上發佈您的代理人，並將其整合到 Gemini Enterprise 中，為企業用戶提供更好的體驗。",
+    "content": "<h2>代理人即將進入企業工作場所！</h2><p>軟體即服務（SaaS）正在演變成代理人即服務（AaaS）。開發人員正在創建可以與標準化開放協議（如 Agent2Agent（A2A）協議）互操作的 AI 代理人，並可以通過集中式代理人平台（如 Gemini Enterprise Agent Platform）進行編排。</p><h2>了解如何在 Google Cloud Marketplace 上發佈您的代理人</h2><p>為了幫助代理人建設者和開發人員將這些高影響力的第三方代理人發佈到 Google Cloud Marketplace 和部署到 Gemini Enterprise 應用程序，我們提供了一個逐步的指南，以實現完全集成的、Marketplace 准備就緒的解決方案。</p><h2>代理人與 Gemini Enterprise 的整合方法</h2><p>代理人與 Gemini Enterprise 的整合方法包括：</p><ul>  <li>代理人與 Gemini Enterprise 的身份驗證和授權</li>  <li>代理人與 Gemini Enterprise 的通訊協議</li>  <li>代理人與 Gemini Enterprise 的數據交換</li></ul><h2>編輯悄悄話</h2><p>代理人即將改變企業工作方式！了解如何在 Google Cloud Marketplace 上發佈您的代理人，並將其整合到 Gemini Enterprise 中，為企業用戶提供更好的體驗。</p>",
+    "score": 95,
+    "takeaways": [
+      "了解代理人即將進入企業工作場所的趨勢",
+      "學習如何在 Google Cloud Marketplace 上發佈您的代理人",
+      "了解代理人與 Gemini Enterprise 的整合方法"
+    ],
+    "punchline": "代理人即將改變企業工作方式！",
+    "social_posts": {
+      "threads": "代理人即將進入企業工作場所！了解如何在 Google Cloud Marketplace 上發佈您的代理人，並將其整合到 Gemini Enterprise 中，為企業用戶提供更好的體驗。",
+      "facebook": "了解如何在 Google Cloud Marketplace 上發佈您的代理人，並將其整合到 Gemini Enterprise 中，為企業用戶提供更好的體驗。",
+      "viral_hook": "代理人即將改變企業工作方式！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Hero_graphic__Developers_guide_to_publishi.max-1000x1000.png",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/publish-agents-in-gemini-enterprise-and-google-cloud-marketplace/",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "009",
+    "title": "馬斯克慘輸150億美元訴訟！OpenAI勝出，谷歌Gemini崛起",
+    "summary": "馬斯克與OpenAI的世紀之戰落幕，谷歌Gemini強勢登場，AI界地震！",
+    "content": "<p>馬斯克與OpenAI的世紀之戰落幕，結果令人震驚！馬斯克失去150億美元訴訟，OpenAI勝出。究竟是什麼原因導致馬斯克慘敗？</p>    <h2>馬斯克的失敗</h2>    <p>馬斯克指控OpenAI的創始人Sam Altman『偷竊』了一個非營利組織，但事實證明馬斯克自己也有類似的計畫。馬斯克的指控被法庭駁回，最終導致他失去訴訟。</p>    <h2>谷歌Gemini的崛起</h2>    <p>與此同時，谷歌Gemini更新了其功能，挑戰ChatGPT和Claude的霸主地位。谷歌Gemini的強勢登場，是否會使AI界出現新的變化？</p>    <h2>編輯悄悄話</h2>    <p>馬斯克的失敗和谷歌Gemini的崛起，代表著AI界的新時代來臨。誰將是贏家？我們拭目以待！</p>",
+    "score": 90,
+    "takeaways": [
+      "馬斯克失去150億美元訴訟，OpenAI勝出",
+      "谷歌Gemini更新挑戰ChatGPT和Claude",
+      "AI界的新時代來臨，誰將是贏家？"
+    ],
+    "punchline": "馬斯克：『我被偷了！』",
+    "social_posts": {
+      "threads": "馬斯克失去150億美元訴訟！\nOpenAI勝出，谷歌Gemini崛起\nAI界的新時代來臨，誰將是贏家？",
+      "facebook": "馬斯克與OpenAI的世紀之戰落幕，結果令人震驚！馬斯克失去150億美元訴訟，OpenAI勝出。究竟是什麼原因導致馬斯克慘敗？點擊鏈接了解更多！",
+      "viral_hook": "馬斯克被偷了150億美元？！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 16.3 破局：Turbopack 新功能讓開發更快、更省記憶體！",
+    "summary": "Next.js 16.3 的 Turbopack 新功能，讓開發更快、更省記憶體，包括記憶體驅逐、持久檔案快取和 Rust React Compiler",
+    "content": "<p>Next.js 16.3 的 Turbopack 新功能，讓開發更快、更省記憶體。這次更新包括記憶體驅逐、持久檔案快取和 Rust React Compiler 等功能。</p>    <h2>記憶體驅逐</h2>    <p>Turbopack 的記憶體驅逐功能，讓長時間開發會話的記憶體使用量大幅降低。這是通過壓縮資料結構和避免存儲不必要的資料來實現的。</p>    <h2>持久檔案快取</h2>    <p>持久檔案快取功能，讓 next build 的編譯時間大幅減少。這是通過將編譯結果儲存到磁碟上，然後在下一次編譯時重新使用來實現的。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 16.3 的 Turbopack 新功能，真的很厲害！記憶體驅逐和持久檔案快取功能，讓開發更快、更省記憶體。同時，Rust React Compiler 的整合，也讓大型應用程式的編譯時間大幅減少。真的很值得一試！</p>",
+    "score": 90,
+    "takeaways": [
+      "Turbopack 的記憶體驅逐功能，讓長時間開發會話的記憶體使用量大幅降低",
+      "持久檔案快取功能，讓 next build 的編譯時間大幅減少",
+      "Rust React Compiler 的整合，讓大型應用程式的編譯時間減少 20-50%"
+    ],
+    "punchline": "Turbopack 讓 Next.js 開發更快、更省記憶體！",
+    "social_posts": {
+      "threads": "Next.js 16.3 的 Turbopack 新功能，真的很厲害！記憶體驅逐和持久檔案快取功能，讓開發更快、更省記憶體。同時，Rust React Compiler 的整合，也讓大型應用程式的編譯時間大幅減少。",
+      "facebook": "Next.js 16.3 的 Turbopack 新功能，讓開發更快、更省記憶體！記憶體驅逐和持久檔案快取功能，讓 next build 的編譯時間大幅減少。同時，Rust React Compiler 的整合，也讓大型應用程式的編譯時間大幅減少。",
+      "viral_hook": "Next.js 16.3 的 Turbopack 新功能，讓開發更快、更省記憶體！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-16-3-turbopack/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-16-3-turbopack",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "011",
+    "title": "谷歌DeepMind和A24聯手！開啟人工智慧和娛樂業的革命",
+    "summary": "谷歌DeepMind和A24宣布了一項開創性的研究合作，將人工智慧技術應用於娛樂業，為我們的生活帶來什麼樣的影響呢？",
+    "content": "<p>谷歌DeepMind和A24宣布了一項開創性的研究合作，將人工智慧技術應用於娛樂業。這項合作將推動人工智慧技術在娛樂業的發展，為我們的生活帶來新的體驗和可能性。</p>    <h2>什麼是谷歌DeepMind和A24的合作內容？</h2>    <p>根據公開的信息，谷歌DeepMind和A24的合作將著重於人工智慧技術在娛樂業的應用，包括電影、電視劇和遊戲的製作和分發。這項合作將結合谷歌DeepMind的先進人工智慧技術和A24的豐富娛樂業經驗，為用戶帶來新的娛樂形式和體驗。</p>    <h2>這項合作將如何影響我們的生活？</h2>    <p>谷歌DeepMind和A24的合作將可能帶來新的娛樂形式和體驗，例如使用人工智慧技術生成的電影和電視劇、或是基於人工智慧的遊戲等。這項合作也將推動人工智慧技術在娛樂業的發展，為我們的生活帶來更多的便利和樂趣。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧技術的應用將改變我們對娛樂業的認知，讓我們的生活更加豐富多彩。谷歌DeepMind和A24的合作是人工智慧技術在娛樂業的一個重要里程碑，讓我們拭目以待這項合作將帶來什麼樣的驚喜吧！",
+    "score": 90,
+    "takeaways": [
+      "谷歌DeepMind和A24的合作將推動人工智慧技術在娛樂業的發展",
+      "這項合作可能會帶來新的娛樂形式和體驗",
+      "人工智慧技術的應用將改變我們對娛樂業的認知"
+    ],
+    "punchline": "人工智慧即將改變娛樂業！",
+    "social_posts": {
+      "threads": "谷歌DeepMind和A24聯手！\n開啟人工智慧和娛樂業的革命\n什麼是谷歌DeepMind和A24的合作內容？\n這項合作將如何影響我們的生活？",
+      "facebook": "谷歌DeepMind和A24宣布了一項開創性的研究合作，將人工智慧技術應用於娛樂業。這項合作將推動人工智慧技術在娛樂業的發展，為我們的生活帶來新的體驗和可能性。您想知道更多嗎？",
+      "viral_hook": "人工智慧即將改變娛樂業！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-1440x810.jpg",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "012",
+    "title": "別再被騙！本地模型編碼的真相：什麼因素影響其可行性？",
+    "summary": "Birgitta Böckeler 分享了她使用本地模型編碼的經驗，強調了硬體、模型大小和記憶體頻寬等因素對其可行性的影響",
+    "content": "<p>近期，Birgitta Böckeler 分享了她使用本地模型編碼的經驗，強調了硬體、模型大小和記憶體頻寬等因素對其可行性的影響。作為一名資深工程師和 AI 專家，Birgitta 的分享對於開發人員和研究人員具有重要的參考價值。</p>    <h2>本地模型編碼的挑戰</h2>    <p>本地模型編碼的挑戰在於其對硬體和記憶體的需求。Birgitta 指出，模型大小和記憶體頻寬是影響本地模型編碼速度的關鍵因素。她分享了自己在不同硬體配置下的經驗，包括 Apple Silicon 和 Intel Core 處理器。</p>    <h2>硬體和記憶體的影響</h2>    <p>Birgitta 的經驗表明，Apple Silicon 的記憶體架構對於本地模型編碼有所幫助。然而，模型大小和記憶體頻寬仍然是影響本地模型編碼速度的關鍵因素。她強調，開發人員需要考慮這些因素以優化本地模型編碼的性能。</p>    <h2>編輯悄悄話</h2>    <p>本地模型編碼的未來：什麼因素決定其成功？ Birgitta 的分享給我們帶來了深刻的思考。作為開發人員和研究人員，我們需要關注本地模型編碼的挑戰和機遇，共同推動這一領域的發展。",
+    "score": 90,
+    "takeaways": [
+      "本地模型編碼的可行性取決於多個因素，包括硬體、模型大小和記憶體頻寬",
+      "Apple Silicon 的記憶體架構對於本地模型編碼有所幫助",
+      "模型大小和記憶體頻寬是影響本地模型編碼速度的關鍵因素"
+    ],
+    "punchline": "本地模型編碼的未來：什麼因素決定其成功？",
+    "social_posts": {
+      "threads": "近期，我們看到本地模型編碼的崛起。但是，你知道什麼因素影響其可行性嗎？讓我們一起探討這個問題！#本地模型編碼 #AI",
+      "facebook": "Birgitta Böckeler 分享了她使用本地模型編碼的經驗，強調了硬體、模型大小和記憶體頻寬等因素對其可行性的影響。了解更多：https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
+      "viral_hook": "本地模型編碼的真相：什麼因素決定其成功？"
+    },
+    "image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
+    "date": "2026-07-08"
+  },
+  {
+    "id": "013",
+    "title": "澳洲支付巨頭如何用 AI 提升效率？聊聊 ChatGPT 的無限潛力",
+    "summary": "澳洲支付巨頭 Australian Payments Plus 如何使用 ChatGPT Enterprise 和 Codex 加速支付複雜性，節省時間、提升質量？",
+    "content": "<p>澳洲支付巨頭 Australian Payments Plus 是澳洲支付生態系統的核心，支持數百萬人每天使用的支付和身份基礎設施。然而，其團隊工作的複雜性卻非常高，需要處理大量的技術資訊和規則，以做出明智的決定。</p>    <h2>ChatGPT Enterprise 和 Codex 的應用</h2>    <p>為了解決這個問題，AP+ 引入了 ChatGPT Enterprise 和 Codex，幫助員工更快地處理複雜的支付問題。ChatGPT Enterprise 可以幫助員工總結複雜的資訊，草擬數據驅動的成員溝通，和結構化模糊的問題。</p>    <p>Codex 則可以幫助技術團隊調查複雜問題，減少手動調查時間。例如，在一項和解實例中，AP+ 團隊使用 Codex 追蹤系統日誌和和解數據中的微妙時間戳差異，將手動調查時間從數天減少到幾分鐘。</p>    <h2>AI 的潛力</h2>    <p>這些早期的案例展示了 AI 如何幫助專家更高效地調查複雜問題，同時保持人工專家的責任感和判斷力。ChatGPT 不是取代人工，而是成為員工的智慧助手，幫助他們做出更好的決定和提高工作質量。</p>    <h2>編輯悄悄話</h2>    <p>澳洲支付巨頭的成功案例告訴我們，AI 不是未來，而是現在。它可以幫助我們更好地理解複雜的世界，做出更明智的決定。所以，下次你遇到複雜問題時，別忘了問問 ChatGPT 吧！",
+    "score": 90,
+    "takeaways": [
+      "ChatGPT Enterprise 和 Codex 可以幫助員工節省時間，提升工作質量",
+      "AI 可以幫助技術團隊調查複雜問題，減少手動調查時間",
+      "ChatGPT 可以幫助員工更好地理解複雜資訊，做出更明智的決定"
+    ],
+    "punchline": "AI 不是取代人工，而是成為員工的智慧助手",
+    "social_posts": {
+      "threads": "你知道嗎？澳洲支付巨頭 Australian Payments Plus 如何使用 ChatGPT Enterprise 和 Codex 加速支付複雜性？\nChatGPT 不是取代人工，而是成為員工的智慧助手。\n#AI #ChatGPT #支付",
+      "facebook": "澳洲支付巨頭 Australian Payments Plus 如何使用 ChatGPT Enterprise 和 Codex 加速支付複雜性？\n點擊鏈接了解更多：[鏈接]\n#AI #ChatGPT #支付",
+      "viral_hook": "你知道嗎？澳洲支付巨頭使用 ChatGPT Enterprise 和 Codex 後，節省了 77% 的時間？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4dOzo0MCH8IYZpHDieNgbg/8c27d9ee088b65ed45bef5a097c800e6/oai_Australian_Payments_Plus_1x1.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/australian-payments-plus",
+    "date": "2026-07-08"
+  }
+]
