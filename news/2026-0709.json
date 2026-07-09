@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "為什麼房地產經紀人需要數據分析？",
+    "summary": "數據分析是房地產經紀人提升競爭力和找到更多客戶的關鍵。了解更多數據分析的重要性和實用技巧。",
+    "content": "<p>在現代房地產市場中，數據分析已經成為了一種不可或缺的工具。房地產經紀人可以利用數據分析來了解市場趨勢、找出客戶的需求和偏好、並且優化自己的銷售策略。</p>    <h2>什麼是數據分析？</h2>    <p>數據分析是指對數據進行收集、處理和分析，以便得到有用的情報和洞察。 在房地產經紀人的工作中，數據分析可以包括市場趨勢分析、客戶行為分析、銷售數據分析等方面。</p>    <h2>數據分析對房地產經紀人的重要性</h2>    <p>數據分析對房地產經紀人來說非常重要，因為它可以幫助他們更好地了解市場趨勢和客戶的需求。 這可以讓房地產經紀人更有效地找到客戶和銷售房地產，從而提高自己的工作效率和客戶滿意度。</p>    <ul>      <li>提高工作效率：數據分析可以幫助房地產經紀人更快地找到客戶和銷售房地產，從而提高自己的工作效率。</li>      <li>提高客戶滿意度：數據分析可以幫助房地產經紀人更好地了解客戶的需求和偏好，從而提供更好的服務和提高客戶滿意度。</li>      <li>提高競爭力：數據分析可以幫助房地產經紀人更好地了解市場趨勢和競爭對手的動態，從而提高自己的競爭力。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>數據分析是房地產經紀人的未來，現在就開始學習和應用數據分析吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "數據分析能夠幫助房地產經紀人更好地了解市場趨勢",
+      "數據分析可以提高房地產經紀人的工作效率和客戶滿意度",
+      "數據分析是房地產經紀人未來發展的必備技能"
+    ],
+    "punchline": "數據分析是房地產經紀人的未來",
+    "social_posts": {
+      "threads": "你知道數據分析可以幫助房地產經紀人找到更多客戶和提高工作效率嗎？現在就開始學習和應用數據分析吧！",
+      "facebook": "數據分析是房地產經紀人的必備技能，現在就來了解更多數據分析的重要性和實用技巧吧！",
+      "viral_hook": "你準備好成為數據分析的高手，找到更多客戶和提高工作效率了嗎？"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/P3b9bOHrdkEJeAcWX6FoW.gif",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "002",
+    "title": "企業警報！ Claude Apps Gateway for AWS 來了，解決你的雲端安全困擾",
+    "summary": "Claude Apps Gateway for AWS登場，讓企業擁有單一控制點，管理雲端存取、成本和政策，告別安全困擾",
+    "content": "<p>企業在部署雲端服務時，常常面臨著安全管理的困擾。 Claude Apps Gateway for AWS 的登場，讓企業擁有單一控制點，管理雲端存取、成本和政策，告別安全困擾。</p>    <h2>什麼是 Claude Apps Gateway for AWS</h2>    <p>Claude Apps Gateway for AWS 是一款自托管的控制平面，讓企業能夠在 AWS 上實現單一控制點，管理 Claude Code 和 Claude Desktop 的存取、成本和政策。它取代了傳統的雲端憑證管理，讓企業能夠更好地控制和管理雲端資源。</p>    <h2>如何部署和使用 Claude Apps Gateway for AWS</h2>    <p>部署 Claude Apps Gateway for AWS 非常簡單，只需要幾個步驟就可以完成。企業可以通過 Amazon Bedrock 或 Claude Platform on AWS 來部署和使用該服務。該服務提供了五個核心功能，包括存取控制、成本管理、政策管理等。</p>    <h2>編輯悄悄話</h2>    <p> Claude Apps Gateway for AWS 的登場，讓企業雲端安全管理變得更容易、更簡單。企業可以放心地使用雲端服務，無需擔心安全問題。這是一個值得注意的服務，企業應該盡快體驗它的優勢。</p>",
+    "score": 90,
+    "takeaways": [
+      "簡化雲端安全管理，減少風險",
+      "實現單一控制點，管理存取、成本和政策",
+      "增強企業雲端安全和合規性"
+    ],
+    "punchline": "雲端安全，從此不再是問題",
+    "social_posts": {
+      "threads": "大家好，今天我想跟大家分享一個很重要的消息。 Claude Apps Gateway for AWS登場了！這是一款自托管的控制平面，讓企業能夠在 AWS 上實現單一控制點，管理雲端存取、成本和政策。",
+      "facebook": "企業警報！ Claude Apps Gateway for AWS 來了，解決你的雲端安全困擾。點擊鏈接了解更多：https://example.com",
+      "viral_hook": "雲端安全，從此不再是問題"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/02/21305.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-apps-gateway-for-aws/",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "003",
+    "title": "AI 訓練的秘密武器：Meta 的儲存藍圖大公開",
+    "summary": "Meta 的儲存藍圖是如何支撐 AI 訓練的？了解儲存技術如何影響 AI 的發展",
+    "content": "<p>AI 訓練的速度和成本都高度依賴於儲存技術的發展。近年來，AI 模型的能力和訓練數據集的大小都呈指數級增長，但儲存技術的進步卻相對緩慢。</p>    <h2>儲存技術的挑戰</h2>    <p>儲存技術的挑戰在於如何提供快速和可靠的存取儲存的能力。Meta 的儲存藍圖是為了解決這個挑戰而設計的，目的是要最大化 GPU 的利用率和研究速度。</p>    <p>Meta 的儲存藍圖包括了一個稱為 Tectonic 的基礎儲存層，提供高耐用性和可用性，並支持多種儲存介質和智能數據放置。BLOB 儲存層則提供了一個全球、無限可擴展的儲存架構，讓用戶可以根據需要進行儲存和存取。</p>    <h2>儲存技術的未來</h2>    <p>儲存技術的未來將會是更加快速和高效的。Meta 的儲存藍圖是為了支撐 AI 訓練的需求而設計的，未來的儲存技術將會更加強大和智能，能夠支撐更多的 AI 應用。</p>    <h2>編輯悄悄話</h2>    <p>儲存技術是 AI 的記憶，沒有好的儲存技術，AI 就無法發揮其全部的能力。Meta 的儲存藍圖是個很好的例子，展示了儲存技術如何影響 AI 的發展。",
+    "score": 90,
+    "takeaways": [
+      "儲存技術是 AI 訓練的關鍵因素",
+      "Meta 的儲存藍圖可以提高 GPU 的利用率",
+      "儲存技術的進步可以加速 AI 研究的速度"
+    ],
+    "punchline": "儲存是 AI 的記憶",
+    "social_posts": {
+      "threads": "你知道嗎？儲存技術是 AI 訓練的關鍵因素！Meta 的儲存藍圖可以提高 GPU 的利用率，讓 AI 研究更快更有效！#AI #儲存技術",
+      "facebook": "Meta 的儲存藍圖是如何支撐 AI 訓練的？了解儲存技術如何影響 AI 的發展，和我們一起探討儲存技術的未來！#AI #儲存技術",
+      "viral_hook": "儲存是 AI 的記憶，你知道嗎？"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Metas-AI-Storage-Blueprint-at-Scale-Hero-1.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "004",
+    "title": "揭秘Azure背後的AI系統：Brain如何讓超大規模運作更可靠？",
+    "summary": "微軟透過Brain AI系統打造Azure服務健康的數位雙胞胎，革新超大規模運作模式",
+    "content": "<p>你有想過，微軟的Azure是如何維持其超大規模運作的可靠性？答案就在Brain這個AI系統。</p>    <h2>什麼是Brain？</h2>    <p>Brain是微軟為了提升Azure服務健康而開發的AI系統，它透過數位雙胞胎技術來模擬和預測Azure服務的運作狀態，從而實現更快速的故障排除和更高的可靠性。</p>    <h2>Brain的工作原理</h2>    <p>Brain的工作原理其實很簡單，它透過數據分析和機器學習算法來預測Azure服務的運作狀態，當發生故障時，Brain可以快速地排除故障和恢復服務，從而減少停機時間和提高可靠性。</p>    <h2>編輯悄悄話</h2>    <p>其實，Brain不僅僅是一個AI系統，它代表著微軟在雲端服務上押注AI的戰略意義。微軟透過Brain來提升Azure的可靠性，從而提高客戶的滿意度和忠誠度，同時也為其他雲端服務提供商樹立了新的標準。",
+    "score": 90,
+    "takeaways": [
+      "Brain AI系統如何提升Azure的可靠性",
+      "數位雙胞胎技術對超大規模運作的影響",
+      "微軟在雲端服務上押注AI的戰略意義"
+    ],
+    "punchline": "AI讓雲端更可靠",
+    "social_posts": {
+      "threads": "你知道嗎？微軟的Azure是如何維持其超大規模運作的可靠性？答案就在Brain這個AI系統！它透過數位雙胞胎技術來模擬和預測Azure服務的運作狀態，從而實現更快速的故障排除和更高的可靠性。",
+      "facebook": "微軟的Azure是如何維持其超大規模運作的可靠性？答案就在Brain這個AI系統！透過數位雙胞胎技術和機器學習算法，Brain可以快速地排除故障和恢復服務，從而減少停機時間和提高可靠性。了解更多：https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+      "viral_hook": "揭秘Azure背後的AI系統：Brain如何讓超大規模運作更可靠？"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/meet-brain-the-ai-system-behind-azure-reliability/",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "005",
+    "title": "AI 智慧體的未來：如何建立自主安全代理的治理機制",
+    "summary": "隨著 AI 技術的進步，自主安全代理已經可以進行多種安全任務，但其治理機制仍然存在不足，如何建立一個完善的治理框架是現在的重要課題",
+    "content": "<p>隨著 AI 技術的進步，自主安全代理已經可以進行多種安全任務，例如分類警報、調查端點、創建檢測規則等。但是，如何建立一個完善的治理機制來確保其行為的可靠性和安全性，是現在的重要課題。</p>    <h2>自主安全代理的挑戰</h2>    <p>目前，自主安全代理的治理機制仍然存在不足。例如，現在的代理機制通常是根據模型的訓練數據來進行決策，但這種方法存在很多問題。例如，模型的訓練數據可能不完整或不準確，從而導致代理機制的決策不正確。此外，模型的更新和替換也可能導致代理機制的行為發生變化。</p>    <h2>建立一個明確的理由層</h2>    <p>建立一個明確的理由層是自主安全代理治理的核心。這意味著需要建立一個明確的決策過程和邏輯，來確保代理機制的行為是可靠和安全的。這個過程需要涉及多個層面，包括模型的選擇、數據的收集和處理、決策的過程等。</p>    <h2>編輯悄悄話</h2>    <p>AI 智慧體的未來在於建立一個完善的治理機制。這需要我們付出更多的努力和智慧，來建立一個可靠和安全的自主安全代理系統。讓我們一起努力，為 AI 智慧體的未來創造一個更好的明天。</p>",
+    "score": 90,
+    "takeaways": [
+      "自主安全代理需要一個完善的治理機制來確保其行為的可靠性和安全性",
+      "現有的治理機制仍然存在不足，需要建立一個新的框架來滿足未來的需求",
+      "建立一個明確的理由層是自主安全代理治理的核心"
+    ],
+    "punchline": "AI 智慧體的未來在於建立一個完善的治理機制",
+    "social_posts": {
+      "threads": "你知道嗎？自主安全代理的治理機制仍然存在不足！\n如何建立一個完善的治理框架是現在的重要課題\n讓我們一起努力，為 AI 智慧體的未來創造一個更好的明天",
+      "facebook": "AI 智慧體的未來：如何建立自主安全代理的治理機制\n隨著 AI 技術的進步，自主安全代理已經可以進行多種安全任務，但其治理機制仍然存在不足。讓我們一起努力，為 AI 智慧體的未來創造一個更好的明天",
+      "viral_hook": "AI 智慧體的未來在於建立一個完善的治理機制！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltb2d5285900d712cd/6a4e7193d6695241babcb0b6/governing-AI-agents-blog_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/the-future-of-governing-ai-agents",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "006",
+    "title": "讓AI變省油的燒錢王：5招教你把Token用到刀刃上！",
+    "summary": "讓AI的每一分注意力都用在刀刃上，告別浪費的Token時代!",
+    "content": "<p>你是否厭倦了浪費Token，卻沒有有效地利用AI？你是否希望能讓AI變成省油的燒錢王？今天，我們要分享5招教你把Token用到刀刃上，讓AI的每一分注意力都用在刀刃上！</p>    <h2>什麼是Token？為什麼要省Token？</h2>    <p>Token是AI工作的基本單位，每一次AI的工作都需要消耗一定的Token。然而，Token是有限的，浪費Token就意味著浪費資源。因此，有效利用Token是提升AI工作效率的關鍵。</p>    <h2>5招教你把Token用到刀刃上</h2>    <ul>      <li>明確AI的工作目標，避免無謂的Token浪費</li>      <li>優化AI的工作流程，減少不必要的Token消耗</li>      <li>使用高效的AI模型，降低Token的消耗量</li>      <li>監控AI的工作狀態，及時發現Token浪費的問題</li>      <li>不斷優化AI的工作流程，讓Token用到刀刃上</li>    </ul>    <h2>編輯悄悄話</h2>    <p>讓AI變成省油的燒錢王，不只是節省Token，更是提升工作效率。從今天開始，試試這5招，讓你的AI變成高效的工作工具吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "有效利用Token，提升AI的工作效率",
+      "簡單5招，讓AI變成省油的燒錢王",
+      "從此告別浪費的Token時代，迎接高效的AI工作模式"
+    ],
+    "punchline": "讓AI變省油的燒錢王!",
+    "social_posts": {
+      "threads": "讓AI變省油的燒錢王！\n從今天開始，試試這5招，讓你的AI變成高效的工作工具吧！",
+      "facebook": "讓AI變成省油的燒錢王！從今天開始，試試這5招，讓你的AI變成高效的工作工具吧！分享給你的朋友，讓他們也能讓AI變成高效的工作工具！",
+      "viral_hook": "讓AI變省油的燒錢王！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802494&idx=1&sn=b9882f78a98dd26657b573d0f14eea8a",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "007",
+    "title": "AI 從回答問題到完成任務的神奇轉變：了解 Agent Loop",
+    "summary": "AI 從單純回答問題到完成複雜任務的轉變，讓我們看看這個過程中發生了什麼，以及如何結合 LLM 和工具來創造強大的 Agent",
+    "content": "<p>你是否曾想過，AI 從回答問題到完成任務的過程中發生了什麼？讓我們一起探索這個神奇的轉變。</p><h2>什麼是 Agent Loop</h2><p>Agent Loop 是一個讓模型自己決定何時停止循環的過程。這個過程可以讓模型完成複雜任務，而不僅僅是回答問題。</p><p>在這個過程中，模型會不斷地迭代，直到它決定工作完成。這個過程需要結合多個工具和功能，才能創造出強大的 Agent。</p><h2>增強型 LLM</h2><p>增強型 LLM 是創造 Agent 的基礎單位。它可以結合多個工具和功能，讓模型可以完成複雜任務。</p><p>例如，增強型 LLM 可以結合 Python 代碼、函數調用和文檔查找等功能，讓模型可以完成多個任務。</p><h2>編輯悄悄話</h2><p>AI 的未來在於 Agent Loop。讓我們一起探索這個神奇的轉變，創造出更加強大的 AI 模型。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 的 Agent Loop 可以讓模型自己決定何時停止循環",
+      "增強型 LLM 是創造 Agent 的基礎單位",
+      "Agent 可以結合多個工具和功能來完成複雜任務"
+    ],
+    "punchline": "AI 的未來在於 Agent Loop",
+    "social_posts": {
+      "threads": "你是否曾想過，AI 從回答問題到完成任務的過程中發生了什麼？讓我們一起探索這個神奇的轉變。 #AI #AgentLoop",
+      "facebook": "AI 的未來在於 Agent Loop。讓我們一起探索這個神奇的轉變，創造出更加強大的 AI 模型。分享給你的朋友們，一起探索 AI 的未來。",
+      "viral_hook": "AI 可以完成任務了？讓我們一起探索這個神奇的轉變。"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!GAmq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28e4aaf8-22b8-4123-916a-e4d619b0e236_2348x1642.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/the-agent-loop-how-ai-goes-from-answering",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "008",
+    "title": "AI 大戰：麥斯克輸了，OpenAI 贏了！什麼才是未來的王者？",
+    "summary": "麥斯克的150億美元訴訟被駁回，Google的Gemini要挑戰ChatGPT了，AI界的風雲變化令人震驚",
+    "content": "<p>近期，AI界發生了一系列令人震驚的事件。麥斯克的150億美元訴訟被駁回，Google的Gemini更新將挑戰ChatGPT的霸主地位。這些變化將對AI界產生什麼影響呢？</p><h2>麥斯克的失敗</h2><p>麥斯克與OpenAI的法院戰鬥以麥斯克失敗告終。這個結果對於麥斯克來說是一個重大的打擊。麥斯克曾經指責OpenAI的創始人Sam Altman「偷竊」了一個非盈利組織，但最終法院判決支持OpenAI。</p><h2>Google的挑戰</h2><p>Google的Gemini更新將挑戰ChatGPT的霸主地位。Gemini是一個基於AI的聊天機器人，旨在提供更好的使用體驗和更高的智能程度。這個更新將對ChatGPT和其他AI聊天機器人產生重大影響。</p><h2>編輯悄悄話</h2><p>AI的未來，誰將是王者？麥斯克的失敗和Google的挑戰只是AI界變化的開始。未來，AI技術的進步將帶來更多的變化和機遇。誰能夠抓住這些機遇，誰將是未來的王者呢？",
+    "score": 90,
+    "takeaways": [
+      "麥斯克與OpenAI的法院戰鬥以麥斯克失敗告終",
+      "Google的Gemini更新將挑戰ChatGPT的霸主地位",
+      "AI技術的進步將帶來更多的變化和機遇"
+    ],
+    "punchline": "AI的未來，誰將是王者？",
+    "social_posts": {
+      "threads": "你知道麥斯克的150億美元訴訟被駁回了嗎？\n這個結果對於麥斯克來說是一個重大的打擊。\nGoogle的Gemini更新將挑戰ChatGPT的霸主地位。\nAI的未來，誰將是王者？",
+      "facebook": "AI界的風雲變化令人震驚！麥斯克的150億美元訴訟被駁回，Google的Gemini更新將挑戰ChatGPT的霸主地位。點擊鏈接了解更多詳細信息。",
+      "viral_hook": "AI大戰：麥斯克輸了，OpenAI贏了！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "009",
+    "title": "Next.js 16.3 新增 Turbopack 功能：開發記憶體優化、靜態資產編譯加速",
+    "summary": "Next.js 16.3 導入 Turbopack 新功能，包含開發記憶體優化、靜態資產編譯加速等，提升開發效率和性能",
+    "content": "<p>Next.js 16.3 導入 Turbopack 新功能，包含開發記憶體優化、靜態資產編譯加速等，提升開發效率和性能。</p>    <h2>開發記憶體優化</h2>    <p>Turbopack 新增開發記憶體優化功能，減少記憶體使用量。這是透過 compressing data structures 和 avoiding storing data longer than necessary，同時也新增 memory eviction 功能，避免記憶體無限增長。</p>    <h2>靜態資產編譯加速</h2>    <p>Next.js 16.3 也新增靜態資產編譯加速功能，透過 persistent file cache 和 Rust React Compiler，減少編譯時間。這對於大型應用程式尤其重要，能夠大幅提升開發效率。</p>    <p>另外，Turbopack 也支援 import.meta.glob 和 Vite-c，提供更多開發選擇。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 16.3 的 Turbopack 新功能，讓開發者能夠更快速地開發和部署應用程式。體驗更快的 Next.js，提升您的開發效率吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Turbopack 新增開發記憶體優化功能，減少記憶體使用量",
+      "靜態資產編譯加速，透過ersistent file cache 和 Rust React Compiler",
+      "支援 import.meta.glob 和 Vite-c"
+    ],
+    "punchline": "提升開發效率，體驗更快的 Next.js",
+    "social_posts": {
+      "threads": "你知道 Next.js 16.3 的 Turbopack 新功能嗎？\n開發記憶體優化、靜態資產編譯加速...\n提升開發效率，體驗更快的 Next.js\n#Nextjs #Turbopack",
+      "facebook": "Next.js 16.3 導入 Turbopack 新功能，包含開發記憶體優化、靜態資產編譯加速等，提升開發效率和性能。了解更多：[連結]",
+      "viral_hook": "提升開發效率，體驗更快的 Next.js！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-16-3-turbopack/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-16-3-turbopack",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "010",
+    "title": "AI電影革命！Google DeepMind攜手A24，將改寫娛樂產業的未來",
+    "summary": "全球領先的AI研究機構Google DeepMind與知名電影公司A24攜手，將AI技術應用於電影產業，預計將帶來革命性的變革",
+    "content": "<p>近日，Google DeepMind和A24宣布了一項前所未有的研究合作，將AI技術應用於電影產業。這項合作將探索AI在電影製作、編劇和發行中的應用，預計將帶來革命性的變革。</p>    <h2>什麼是Google DeepMind和A24的合作內容？</h2>    <p>根據官方公告，Google DeepMind和A24的合作將著重於AI技術在電影產業的應用，包括但不限於：劇本生成、角色設計、視覺效果等方面。這項合作將結合Google DeepMind的AI技術和A24的電影製作經驗，共同探索AI在電影產業的新機會。</p>    <h2>這項合作對電影產業的影響是什麼？</h2>    <p>這項合作可能會改變電影製作、編劇和發行的方式。AI技術可以幫助電影製片人更好地了解觀眾的需求，從而創造出更加吸引人的電影內容。另外，AI技術也可以提高電影的製作效率，減少人工成本和製作時間。</p>    <h2>編輯悄悄話</h2>    <p>這項合作是AI技術和電影產業的完美結合，未來我們可以期待更多創新的電影作品。AI電影革命，未來已來！",
+    "score": 90,
+    "takeaways": [
+      "Google DeepMind和A24的合作將探索AI在電影產業的應用",
+      "該合作可能會改變電影製作、編劇和發行的方式",
+      "AI技術可能會提高電影的創造力和製作效率"
+    ],
+    "punchline": "AI電影革命，未來已來！",
+    "social_posts": {
+      "threads": "你們有沒有想過，AI技術可以幫助創作出更加吸引人的電影內容？\nGoogle DeepMind和A24的合作可能會改變電影產業的未來！",
+      "facebook": "Google DeepMind和A24攜手，將AI技術應用於電影產業！這項合作可能會帶來革命性的變革，提高電影的創造力和製作效率。更多詳情：[連結]",
+      "viral_hook": "AI電影革命，未來已來！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-1440x810.jpg",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "011",
+    "title": "用 AI 製作程式的爆紅秘密：你該用哪種模型？",
+    "summary": "Birgitta Böckeler 分享她使用本地 LLMs 進行編程的經驗，比較不同模型的表現，並找出最適合日常使用的模型。",
+    "content": "<p>近年來，人工智慧（AI）技術的發展，讓我們可以使用本地的大規模語言模型（LLMs）進行編程。但是，哪種模型最適合用來進行編程呢？Birgitta Böckeler，一位資深軟體開發者和 AI 專家，分享了她使用本地 LLMs 進行編程的經驗。</p>    <h2>評估模型的表現</h2>    <p>Birgitta 使用了兩個標準任務來評估不同模型的表現，包括 Qwen3.6 35B、Gemma 4 31B、Gemma 4 26B 和 Qwen Coder Next 80B MoE。她發現，模型的選擇和任務的複雜度對結果有很大影響。</p>    <p>例如，她使用 Qwen3.6 35B 和 Gemma 4 31B 進行了一個任務，結果發現 Qwen3.6 35B 的表現更好。但是，當她使用 Gemma 4 26B 進行同一個任務時，結果卻不盡如人意。</p>    <h2>未來的發展</h2>    <p>雖然本地 LLMs 還需要改進，以實現更好的自我修正和感知能力，但 Birgitta 對於 AI 製作程式的未來充滿信心。她認為，隨著技術的發展，AI 將會在軟體開發中扮演更重要的角色。</p>    <h2>編輯悄悄話</h2>    <p>如果你想嘗試使用 AI 製作程式，不妨從本地 LLMs 开始。雖然它們還需要改進，但已經能夠提供一些有趣的結果。況且，誰知道呢？也許你會發現一個新的程式設計的方法，讓你的工作更有效率和更有趣！</p>",
+    "score": 90,
+    "takeaways": [
+      "本地 LLMs 可以有效地進行編程，但需要選擇合適的模型和任務",
+      "模型的選擇和任務的複雜度對結果有很大影響",
+      "本地 LLMs 還需要改進，以實現更好的自我修正和感知能力"
+    ],
+    "punchline": "用 AI 製作程式的未來已經來臨！",
+    "social_posts": {
+      "threads": "你有沒有試過使用 AI 製作程式呢？我最近嘗試使用本地 LLMs，結果還挺有趣的！\n\n雖然它們還需要改進，但已經能夠提供一些有趣的結果。\n\n你想嘗試使用 AI 製作程式嗎？",
+      "facebook": "使用 AI 製作程式的未來已經來臨！Birgitta Böckeler 分享了她使用本地 LLMs 進行編程的經驗，你也可以嘗試使用 AI 製作程式，讓你的工作更有效率和更有趣！",
+      "viral_hook": "用 AI 製作程式的秘密武器是..."
+    },
+    "image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "012",
+    "title": "人工智慧國家安全合作的10大重點，你絕不能錯過！",
+    "summary": "OpenAI 公佈國家安全合作原則，強調民主責任、人工判斷和法治，讓你了解 AI 如何在國家安全中發揮作用",
+    "content": "<p>隨著人工智慧（AI）技術的不斷進步，政府和國家安全機構開始使用 AI 系統進行重要工作，包括國家安全。這創造了新的挑戰，需要 AI 實驗室、政府和民間社會共同合作，確定如何在敏感領域中使用這些工具。</p>    <h2>什麼是 OpenAI 的國家安全合作原則？</h2>    <p>OpenAI 公佈了國家安全合作原則，旨在提供透明度和民主責任，確保 AI 系統的部署符合法治和人工判斷。這些原則反映了 OpenAI 的跨公司努力，發展出一個更全面性的方法，來處理國家安全和執法領域的工作。</p>    <h2>OpenAI 的國家安全合作原則的重點</h2>    <ul>      <li>強調民主責任和人工判斷</li>      <li>確保 AI 系統的部署符合法治</li>      <li>支持立法努力，建立安全保障機制，防止 AI 高風險軍事用途</li>    </ul>    <h2>編輯悄悄話</h2>    <p>AI 的未來，不僅是技術的進步，也是民主價值的體現。讓我們共同努力，確保 AI 的發展，符合人類的價值觀和民主責任，創造一個更加美好的未來。</p>",
+    "score": 90,
+    "takeaways": [
+      "OpenAI 公佈國家安全合作原則，強調透明度和民主責任",
+      "AI 系統必須部署在符合法治和人工判斷的方式中",
+      "OpenAI 支持立法努力，建立安全保障機制，防止 AI 高風險軍事用途"
+    ],
+    "punchline": "AI 的未來，不僅是技術的進步，也是民主價值的體現",
+    "social_posts": {
+      "threads": "你知道嗎？OpenAI 公佈了國家安全合作原則，強調民主責任和人工判斷。讓我們共同努力，確保 AI 的發展，符合人類的價值觀和民主責任。",
+      "facebook": "OpenAI 公佈國家安全合作原則，強調透明度和民主責任。了解更多關於 AI 在國家安全中的作用，和如何確保 AI 的發展，符合人類的價值觀和民主責任。",
+      "viral_hook": "AI 的未來，不僅是技術的進步，也是民主價值的體現！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2h3zDXkAt00qFTGsCqrLuV/f4b2ed4ee96f72220d4f6ddc9924a01a/Frame-1.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "date": "2026-07-09"
+  }
+]
