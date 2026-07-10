@@ -262,5 +262,115 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "date": "2026-07-10"
+  },
+  {
+    "id": "013",
+    "title": "PyTorch 效能調優終極解：Attention 是你唯一需要的關注點",
+    "summary": "想提升 PyTorch 模型的效能？關注 Attention 機制，讓你的模型更快、更強",
+    "content": "<p>在 PyTorch 中，Attention 機制是一個非常重要的部分。它可以讓模型更好地理解輸入資料的關係，從而提升模型的效能。</p>    <h2>什麼是 Attention?</h2>    <p>Attention 是一種機制，讓模型可以關注輸入資料的特定部分。這可以讓模型更好地理解輸入資料的含義，從而提升模型的效能。</p>    <h2>如何使用 Attention?</h2>    <p>在 PyTorch 中，使用 Attention 機制非常簡單。你只需要在模型中加入 Attention 層，然後設定相關的參數。下面是一個簡單的例子：</p>    <ul>      <li>加入 Attention 層</li>      <li>設定 Attention 參數</li>      <li>訓練模型</li>    </ul>    <p>通過這些步驟，你可以讓你的 PyTorch 模型更好地使用 Attention 機制，從而提升模型的效能。</p>    <h2>編輯悄悄話</h2>    <p>所以，還在等什麼？趕快使用 Attention 機制，讓你的 PyTorch 模型更快、更強吧！",
+    "score": 90,
+    "takeaways": [
+      "PyTorch 的 Attention 機制是效能調優的關鍵",
+      "正確使用 Attention 可以大幅提升模型速度",
+      "調優 Attention 參數是達到最佳效能的必經之路"
+    ],
+    "punchline": "Attention 是你唯一需要的關注點",
+    "social_posts": {
+      "threads": "你知道 PyTorch 的 Attention 機制可以大幅提升模型速度嗎？\n讓我告訴你如何使用它...\n#PyTorch #Attention",
+      "facebook": "提升 PyTorch 模型效能的終極解：Attention 機制！\n了解如何使用 Attention 機制，讓你的模型更快、更強。\n#PyTorch #效能調優",
+      "viral_hook": "PyTorch 效能調優的終極解竟然是..."
+    },
+    "image": "https://huggingface.co/blog/assets/torch-attention-profile/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "014",
+    "title": "AI 界的新动态：GPT-5.6、Fugu 和 MAI-Thinking-1",
+    "summary": "OpenAI 推出 GPT-5.6，Sakana AI 发布 Fugu，Microsoft 宣布 MAI-Thinking-1。这些新模型的性能和功能如何？",
+    "content": "<h2>AI 界的新动态：GPT-5.6、Fugu 和 MAI-Thinking-1</h2><p>近期，AI 界出现了几款新模型的发布，包括 OpenAI 的 GPT-5.6、Sakana AI 的 Fugu 和 Microsoft 的 MAI-Thinking-1。这些新模型的性能和功能如何？让我们一起来看一下。</p><h2>GPT-5.6</h2><p>GPT-5.6 是 OpenAI 的新一代语言模型，具有更强大的性能和安全性。它可以处理更长的文本输入，并且具有更强大的推理能力。GPT-5.6 还具有更强大的安全性，能够抵御各种攻击和恶意行为。</p><h2>Fugu</h2><p>Fugu 是 Sakana AI 的新模型，能够通过调度其他模型和代理来完成任务。Fugu 可以调用多种语言模型和工具来完成任务，并且具有更强大的推理能力和安全性。</p><h2>MAI-Thinking-1</h2><p>MAI-Thinking-1 是 Microsoft 的新模型，具有更强大的推理能力和安全性。MAI-Thinking-1 可以处理更长的文本输入，并且具有更强大的推理能力。MAI-Thinking-1 还具有更强大的安全性，能够抵御各种攻击和恶意行为。</p><h2>总结</h2><p>总的来说，GPT-5.6、Fugu 和 MAI-Thinking-1 都是具有更强大的性能和安全性的新模型。它们可以处理更长的文本输入，并且具有更强大的推理能力和安全性。这些新模型的发布将会对 AI 界产生重大影响，推动 AI 技术的进一步发展。</p><h2>編輯悄悄話</h2><p>AI 界的新动态总是令人兴奋。这些新模型的发布将会对 AI 界产生重大影响，推动 AI 技术的进一步发展。让我们继续关注 AI 界的新动态，探索 AI 技术的无限可能。</p>",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6 是 OpenAI 的新一代语言模型，具有更强大的性能和安全性。",
+      "Fugu 是 Sakana AI 的新模型，能够通过调度其他模型和代理来完成任务。",
+      "MAI-Thinking-1 是 Microsoft 的新模型，具有更强大的推理能力和安全性。"
+    ],
+    "punchline": "AI 界的新动态：GPT-5.6、Fugu 和 MAI-Thinking-1",
+    "social_posts": {
+      "threads": "AI 界的新动态：GPT-5.6、Fugu 和 MAI-Thinking-1\n\n近期，AI 界出现了几款新模型的发布，包括 OpenAI 的 GPT-5.6、Sakana AI 的 Fugu 和 Microsoft 的 MAI-Thinking-1。这些新模型的性能和功能如何？让我们一起来看一下。",
+      "facebook": "AI 界的新动态：GPT-5.6、Fugu 和 MAI-Thinking-1\n\n近期，AI 界出现了几款新模型的发布，包括 OpenAI 的 GPT-5.6、Sakana AI 的 Fugu 和 Microsoft 的 MAI-Thinking-1。这些新模型的性能和功能如何？让我们一起来看一下。",
+      "viral_hook": "AI 界的新动态：GPT-5.6、Fugu 和 MAI-Thinking-1"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-360",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "015",
+    "title": "凌晨3點還在交付的AI軍團：揭秘打造秘訣",
+    "summary": "打造一支不眠不休的AI團隊，讓你的工作效率大幅提升！",
+    "content": "<p>你是否曾經夢想有一支不眠不休的AI團隊，幫助你完成工作任務？現在，這個夢想變成了現實！</p>    <h2>打造AI軍團的秘訣</h2>    <p>要打造一支高效的AI團隊，首先需要了解AI的工作原理和應用範圍。然後，需要學會如何訓練和優化AI模型，讓它們能夠完成特定的工作任務。</p>    <ul>      <li>選擇合適的AI框架和工具</li>      <li>收集和處理數據</li>      <li>訓練和優化AI模型</li>    </ul>    <h2>實現自動化工作流程</h2>    <p>打造了一支高效的AI團隊後，下一步就是實現自動化工作流程。這需要將AI模型與其他工具和系統整合起來，讓它們能夠自動完成工作任務。</p>    <p>現在，凌晨3點還在交付的AI軍團已經成為現實！</p>    <h2>編輯悄悄話</h2>    <p>打造一支AI軍團，不僅需要技術和知識，也需要創造力和想象力。所以，別害怕夢想和實現你的AI夢想吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "了解AI的工作原理和應用範圍",
+      "學會如何訓練和優化AI模型",
+      "打造一支高效的AI團隊，實現自動化工作流程"
+    ],
+    "punchline": "AI軍團：讓你凌晨3點也能完成工作",
+    "social_posts": {
+      "threads": "你是否曾經夢想有一支不眠不休的AI團隊，幫助你完成工作任務？現在，這個夢想變成了現實！\n打造一支高效的AI團隊，需要了解AI的工作原理和應用範圍，學會如何訓練和優化AI模型...\n",
+      "facebook": "打造一支不眠不休的AI團隊，讓你的工作效率大幅提升！了解AI的工作原理和應用範圍，學會如何訓練和優化AI模型...\n",
+      "viral_hook": "凌晨3點還在交付的AI軍團：揭秘打造秘訣"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802528&idx=1&sn=2a38aa36abe5401b21ec718ccc60260a",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "016",
+    "title": "AI 大戰：馬斯克慘輸150億美元官司，OpenAI 成最大贏家！",
+    "summary": "馬斯克與 OpenAI 的世紀大戰落幕，結果讓人意外！了解這場官司對 AI 未來的影響",
+    "content": "<p>近期，科技圈的一大焦點是馬斯克與 OpenAI 的世紀大戰。馬斯克指控 OpenAI 的創始人 Sam Altman 對其進行不當競爭，但最終結果卻出乎意料。</p>    <h2>馬斯克的敗訴</h2>    <p>根據法院的判決，馬斯克因為遲遲未提出訴訟而失去對 OpenAI 的控訴權。這意味著馬斯克將無法獲得150億美元的賠償。這場官司的結果對於 AI 的未來發展具有重要的影響。</p>    <h2>Google 的挑戰</h2>    <p>與此同時，Google 也在積極地挑戰 ChatGPT 和 Claude。Google 的 Gemini 應用程式將成為一大競爭對手。這些發展對於 AI 的未來具有重要的意義。</p>    <h2>編輯悄悄話</h2>    <p>這場 AI 大戰的結果真的是讓人大吃一驚！誰會想到馬斯克竟然會敗訴呢？但無論如何，這些發展都將對 AI 的未來產生重要的影響。大家請繼續關注吧！",
+    "score": 95,
+    "takeaways": [
+      "馬斯克因為遲遲未提出訴訟而失去對 OpenAI 的控訴權",
+      "Google 的 Gemini 應用程式將挑戰 ChatGPT 和 Claude",
+      "OpenAI 解決了著名的 Erdős 數學問題"
+    ],
+    "punchline": "AI 大戰的贏家是誰？",
+    "social_posts": {
+      "threads": "你們有沒有聽說馬斯克最近的官司結果？\n他竟然因為遲遲未提出訴訟而失去對 OpenAI 的控訴權！\n這對於 AI 的未來發展有什麼影響呢？",
+      "facebook": "馬斯克與 OpenAI 的世紀大戰落幕了！了解這場官司對 AI 未來的影響，並與我們一起討論這些發展的意義。",
+      "viral_hook": "馬斯克慘輸150億美元官司！你知道這背後的原因嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "017",
+    "title": "德國電信如何用 AI 革新電信業？",
+    "summary": "德國電信公司如何透過 AI 技術改善客戶服務、員工工作流程、網路操作和語音通訊？",
+    "content": "<p>德國電信公司是全球最大的電信公司之一，服務超過 3 億客戶，雇用超過 20 萬員工。為了保持領先地位，公司致力於透過 AI 技術改善客戶服務、員工工作流程、網路操作和語音通訊。</p>    <h2>重新定義工作流程</h2>    <p>德國電信公司的轉型結合了頂層領導和廣泛的員工採用。公司首先透過 ChatGPT Enterprise 授權員工，並鼓勵實驗。員工很快就接受了 AI 技術，並創造了強烈的需求，要求更廣泛的存取和新的功能。</p>    <h2>未來的語音通訊</h2>    <p>德國電信公司最雄心勃勃的計劃之一是關注語音通訊的未來。公司使用 AI 技術探索包括實時翻譯、智能呼叫助理和自動摘要在內的功能。這些創新將 AI 從獨立應用程序中移除，將其放入客戶每天使用的通信渠道中。</p>    <h2>編輯悄悄話</h2>    <p>德國電信公司的轉型不僅僅是增加生產力，而是改變工作本身。透過 AI 技術，公司可以提供更好的客戶服務、優化網路性能和創造新的商業機會。這是電信業的未來，我們迫不及待地想看看德國電信公司將如何繼續革新電信業。",
+    "score": 90,
+    "takeaways": [
+      "德國電信公司透過 AI 技術改善客戶服務和員工工作流程",
+      "公司使用 AI 優化網路性能和語音通訊",
+      "德國電信公司的目標是成為全球首個 AI 原生電信公司"
+    ],
+    "punchline": "AI 不只是增加生產力，而是改變工作本身",
+    "social_posts": {
+      "threads": "德國電信公司如何用 AI 革新電信業？\n透過 AI 技術改善客戶服務、員工工作流程、網路操作和語音通訊。\n公司的目標是成為全球首個 AI 原生電信公司。\n#AI #電信業 #德國電信",
+      "facebook": "德國電信公司透過 AI 技術改善客戶服務和員工工作流程。公司使用 AI 優化網路性能和語音通訊。點擊連結了解更多：[連結]",
+      "viral_hook": "AI 不只是增加生產力，而是改變工作本身！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2e4pj37nFOyJzOAIMC10VM/2d7a76659ae8bb37e21d3d7e838a8bd8/oai_Deutsche_Telekom_SEO.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "date": "2026-07-10"
   }
 ]
