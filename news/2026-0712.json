@@ -284,5 +284,27 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/deutsche-telekom",
     "date": "2026-07-12"
+  },
+  {
+    "id": "014",
+    "title": "微軟新時代！Frontier 模型和生產代理進化了，什麼都會改變？",
+    "summary": "微軟推出最新的 Frontier 模型系列和生產代理能力，讓 Microsoft Foundry 進入新時代。這對你的工作和生活有什麼影響？",
+    "content": "<p>微軟最近推出了最新的 Frontier 模型系列和生產代理能力，讓 Microsoft Foundry 進入新時代。這些新技術將如何改變我們的工作和生活呢？</p>  <h2>什麼是 Frontier 模型系列？</h2>  <p>Frontier 模型系列是微軟最新推出的 AI 模型系列，具有更高的準確度和效率。這些模型將可以應用於各種領域，例如自然語言處理、圖像識別等。</p>  <h2>生產代理能力的影響</h2>  <p>生產代理能力將提高工作效率，讓用戶可以更快速地完成任務。這些代理將可以自動化許多重複的工作，讓用戶可以專注於更重要的任務。</p>  <h2>編輯悄悄話</h2>  <p>微軟的新技術將會改變我們的工作和生活。讓我們拭目以待，看看這些新技術將如何影響我們的未來吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Frontier 模型系列將改變 AI 的發展方向",
+      "生產代理能力將提高工作效率",
+      "Microsoft Foundry 進入新時代，為用戶提供更多創新服務"
+    ],
+    "punchline": "AI 新時代來了！",
+    "social_posts": {
+      "threads": "微軟新時代來了！\nFrontier 模型系列和生產代理能力將會改變我們的工作和生活。\n什麼是 Frontier 模型系列？\n它將可以應用於各種領域，例如自然語言處理、圖像識別等。\n生產代理能力的影響將會提高工作效率，讓用戶可以更快速地完成任務。",
+      "facebook": "微軟推出最新的 Frontier 模型系列和生產代理能力，讓 Microsoft Foundry 進入新時代。這對你的工作和生活有什麼影響？分享你的想法吧！",
+      "viral_hook": "AI 新時代來了！微軟最新的 Frontier 模型系列和生產代理能力將會改變一切！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Foundry_7-9_GA-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+    "date": "2026-07-12"
   }
 ]
