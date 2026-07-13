@@ -1,0 +1,288 @@
+[
+  {
+    "id": "001",
+    "title": "PyTorch 訓練神器： Attention 是你最需要關注的東西！",
+    "summary": "PyTorch 的 Attention 機制是提升模型表現的關鍵，你知道如何優化它嗎？",
+    "content": "<p>PyTorch 是目前最流行的深度學習框架之一，而 Attention 機制是其中一個最重要的部分。Attention 可以讓模型更加專注於輸入資料中的重要部分，從而提升模型的表現。</p>    <h2>什麼是 Attention 機制？</h2>    <p>Attention 機制是一種讓模型可以「關注」輸入資料中某些部分的機制。這個機制可以讓模型更加有效地處理輸入資料，從而提升模型的表現。</p>    <p>在 PyTorch 中，Attention 機制可以通過使用 torch.nn.MultiHeadAttention 等模組來實現。這些模組提供了多種 Attention 機制的實現，包括Scaled Dot-Product Attention、Multi-Head Attention 等。</p>    <h2>如何優化 Attention 以提升模型表現</h2>    <p>優化 Attention 以提升模型表現需要考慮多種因素，包括模型的架構、輸入資料的質量、訓練的方法等。以下是一些優化 Attention 的方法：</p>    <ul>      <li>使用適合的 Attention 機制：不同的 Attention 機制適合不同的任務和資料集。</li>      <li>調整模型的架構：模型的架構可以影響 Attention 機制的表現，需要調整模型的架構以最佳化 Attention。</li>      <li>使用預訓練模型：預訓練模型可以提供一個好的起點，從而節省訓練時間和提升模型的表現。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>Attention 是模型的眼睛，關注它就能提升表現！但是，優化 Attention 需要考慮多種因素，需要耐心和實驗來找到最佳的解決方案。</p>",
+    "score": 90,
+    "takeaways": [
+      "Attention 機制在 PyTorch 中的作用",
+      "如何優化 Attention 以提升模型表現",
+      "實際案例：Attention 在自然語言處理中的應用"
+    ],
+    "punchline": "Attention 是模型的眼睛，關注它就能提升表現！",
+    "social_posts": {
+      "threads": "你知道 PyTorch 的 Attention 機制嗎？\n它可以讓模型更加專注於輸入資料中的重要部分，從而提升模型的表現。\n但是，優化 Attention 需要考慮多種因素，需要耐心和實驗來找到最佳的解決方案。",
+      "facebook": "PyTorch 訓練神器：Attention 是你最需要關注的東西！\n了解 Attention 機制和如何優化它，以提升你的模型的表現。",
+      "viral_hook": "你知道模型的眼睛是什麼嗎？"
+    },
+    "image": "https://huggingface.co/blog/assets/torch-attention-profile/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "002",
+    "title": "AI 模型大革命：NVIDIA Nemotron 3 模型的 serverless 自訂",
+    "summary": "教你如何使用 Amazon SageMaker AI 將 NVIDIA Nemotron 3 模型進行 serverless 自訂，打造屬於自己的 AI 智慧財產",
+    "content": "<p>你是否曾想過如何將 AI 模型變成自己的智慧財產？現在，NVIDIA Nemotron 3 模型和 Amazon SageMaker AI 的 serverless 自訂技術讓這個夢想成真了。</p>    <h2>什麼是 NVIDIA Nemotron 3 模型？</h2>    <p>NVIDIA Nemotron 3 模型是一系列基於混合 Mamba-Transformer Mixture-of-Experts (MoE) 架構的開源大語言模型，具有原生的 1M-token 上下文長度支持。這個架構結合了三種互補的層類型：Mamba-2 層、Transformer 注意力層和 Latent Mixture-of-Experts (LatentMoE) 層，實現了高效和強大的準確性。</p>    <h2>如何使用 Amazon SageMaker AI 進行 serverless 自訂</h2>    <p>Amazon SageMaker AI 提供了一系列的開源模型和自訂技術，讓你可以根據自己的需求自訂 NVIDIA Nemotron 3 模型。現在，SageMaker AI 還推出了 serverless 模型自訂功能，讓你可以在無需配置或管理任何基礎設施的情況下自訂模型。</p>    <p>你可以使用監督式微調 (SFT)、強化學習以驗證獎勵 (RLVR) 和強化學習以 AI 反饋 (RLAIF) 等技術來適應這些高性能的開源模型，以滿足你的具體需求。</p>    <h2>編輯悄悄話</h2>    <p>別再等待，趕快使用 NVIDIA Nemotron 3 模型和 Amazon SageMaker AI 的 serverless 自訂技術，打造屬於自己的 AI 智慧財產吧！",
+    "score": 90,
+    "takeaways": [
+      "NVIDIA Nemotron 3 模型的獨特架構和自訂技術",
+      "如何使用 Amazon SageMaker AI 進行 serverless 模型自訂",
+      "自訂 AI 模型的優點和潛在應用"
+    ],
+    "punchline": "用 AI 創造自己的智慧財產",
+    "social_posts": {
+      "threads": "你知道嗎？NVIDIA Nemotron 3 模型和 Amazon SageMaker AI 的 serverless 自訂技術可以讓你創造自己的 AI 智慧財產！\n#AI #NVIDIA #AmazonSageMaker",
+      "facebook": "發現最新的 AI 模型自訂技術！NVIDIA Nemotron 3 模型和 Amazon SageMaker AI 的 serverless 自訂功能讓你可以根據自己的需求創造屬於自己的 AI 智慧財產。點擊鏈接了解更多！",
+      "viral_hook": "用 AI 創造自己的智慧財產？"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/09/ml-21327.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/fine-tune-nvidia-nemotron-3-models-with-amazon-sagemaker-ai-serverless-model-customization/",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "003",
+    "title": "AI 未來的關鍵：解決儲存瓶頸的挑戰",
+    "summary": "隨著 AI 技術的發展，儲存瓶須已成為一個嚴重的問題，Meta 的 AI 儲存藍圖提供了一個解決方案",
+    "content": "<p>隨著 AI 技術的發展，儲存瓶須已成為一個嚴重的問題。Meta 的 AI 儲存藍圖提供了一個解決方案，旨在提高儲存性能和減少儲存瓶須。</p>    <h2>什麼是儲存瓶須？</h2>    <p>儲存瓶須是指儲存系統無法滿足 AI 系統的儲存需求，導致 AI 系統的性能下降。這是因為儲存系統的性能無法跟上 AI 系統的需求，導致儲存瓶須。</p>    <h2>Meta 的 AI 儲存藍圖</h2>    <p>Meta 的 AI 儲存藍圖是一個旨在提高儲存性能和減少儲存瓶須的解決方案。它使用了一種新的儲存架構，稱為 Tectonic，提供了高耐用性和可用性，同時也支持多種儲存介面。</p>    <h2>編輯悄悄話</h2>    <p>儲存瓶須是目前的一個大挑戰，但 Meta 的 AI 儲存藍圖提供了一個解決方案。讓我們拭目以待這個解決方案的實現吧！",
+    "score": 90,
+    "takeaways": [
+      "AI 儲存瓶須是目前的一個大挑戰",
+      "Meta 的 AI 儲存藍圖提供了一個解決方案",
+      "儲存性能對 AI 研究的速度和成本有重大影響"
+    ],
+    "punchline": "儲存是 AI 的記憶",
+    "social_posts": {
+      "threads": "你知道嗎？儲存瓶須是目前的一個大挑戰！\n但 Meta 的 AI 儲存藍圖提供了一個解決方案，旨在提高儲存性能和減少儲存瓶須。\n讓我們拭目以待這個解決方案的實現吧！",
+      "facebook": "儲存瓶須是目前的一個大挑戰，但 Meta 的 AI 儲存藍圖提供了一個解決方案。點擊連結了解更多！",
+      "viral_hook": "儲存是 AI 的記憶！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/06/Metas-AI-Storage-Blueprint-at-Scale-Hero-1.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "004",
+    "title": "微軟大舉升級！Frontier 模型和生產代理人登場，讓你的工作更智慧",
+    "summary": "微軟推出 Frontier 模型和生產代理人，讓你的工作更高效、更智慧，了解這項新技術如何改變你的工作方式",
+    "content": "<p>你是否厭倦了重複的工作和低效的流程？微軟的最新升級——Frontier 模型和生產代理人，將讓你的工作更高效、更智慧。</p>    <h2>什麼是 Frontier 模型和生產代理人？</h2>    <p>Frontier 模型是微軟的最新 AI 技術，能夠讓你的工作更智慧和高效。生產代理人則是微軟的新功能，能夠讓你的工作流程更順暢。</p>    <h2>Asia Pacific Data Zone 是什麼？</h2>    <p>Asia Pacific Data Zone 是微軟的新資料中心，提供更快速的資料處理和存儲。這意味著你的工作將更快速和高效。</p>    <h2>編輯悄悄話</h2>    <p>微軟的最新升級，讓我們看到了未來工作的可能性。讓我們一起期待這項新技術，讓我們的工作更智慧、更高效吧！",
+    "score": 85,
+    "takeaways": [
+      "Frontier 模型和生產代理人是微軟Foundry的最新升級",
+      "這項技術可以讓你的工作更高效和智慧",
+      "Asia Pacific Data Zone是微軟的新資料中心，提供更快速的資料處理"
+    ],
+    "punchline": "微軟讓你的工作更智慧",
+    "social_posts": {
+      "threads": "你是否厭倦了重複的工作和低效的流程？\n微軟的最新升級——Frontier 模型和生產代理人，將讓你的工作更高效、更智慧。\n讓我們一起期待這項新技術，讓我們的工作更智慧、更高效吧！",
+      "facebook": "微軟推出 Frontier 模型和生產代理人，讓你的工作更高效、更智慧。了解這項新技術如何改變你的工作方式，點擊連結了解更多。",
+      "viral_hook": "微軟讓你的工作更智慧！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Foundry_7-9_GA-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "005",
+    "title": "AI治理的未來：如何讓自主安全代理不會失控？",
+    "summary": "自主安全代理需要內建治理機制，否則可能會帶來不可預測的風險。讓我們探討如何建立一個可靠的AI治理框架。",
+    "content": "<p>隨著AI技術的發展，自主安全代理已經成為現代安全系統的重要組成部分。然而，如何讓這些代理不會失控，成為了一個重要的挑戰。</p>    <h2>自主安全代理的治理挑戰</h2>    <p>現有的治理框架尚未能滿足AI系統的需求。原因在於，AI系統的行為是基於其內部的推理機制，而這種機制往往是不可預測的。因此，需要建立一個新的治理框架，以確保AI系統的行為是可靠和可預測的。</p>    <h2>建立明確的推理層</h2>    <p>建立明確的推理層是實現AI治理的關鍵。這需要將AI系統的推理機制從其內部提取出來，然後將其轉化為一個明確的方法論。這樣，AI系統的行為就可以被預測和評估，從而確保其安全性和可靠性。</p>    <h2>編輯悄悄話</h2>    <p>AI治理的未來，從架構開始。讓我們一起探討如何建立一個可靠的AI治理框架，讓自主安全代理不會失控，讓我們的安全系統更加可靠和高效。",
+    "score": 85,
+    "takeaways": [
+      "自主安全代理需要內建治理機制以確保其行為的可靠性",
+      "現有的治理框架尚未能滿足AI系統的需求",
+      "建立明確的推理層是實現AI治理的關鍵"
+    ],
+    "punchline": "AI治理的未來，從架構開始",
+    "social_posts": {
+      "threads": "你知道嗎？自主安全代理需要內建治理機制，否則可能會帶來不可預測的風險。讓我們一起探討如何建立一個可靠的AI治理框架。 #AI治理 #自主安全代理",
+      "facebook": "AI治理的未來，從架構開始。了解如何建立一個可靠的AI治理框架，讓自主安全代理不會失控，讓我們的安全系統更加可靠和高效。 #AI治理 #安全系統",
+      "viral_hook": "AI治理的未來，從架構開始。你準備好了嗎？"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltb2d5285900d712cd/6a4e7193d6695241babcb0b6/governing-AI-agents-blog_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/the-future-of-governing-ai-agents",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "006",
+    "title": "AI 將如何改變未來？ Anthropic 的 Claude Fable 5 回歸、Google 的 Nano Banana 2 Lite 問世、DeepSeek 的 DSpark 加速文本生成",
+    "summary": "AI 技術的進步將如何改變未來？ Anthropic 的 Claude Fable 5 回歸、Google 的 Nano Banana 2 Lite 問世、DeepSeek 的 DSpark 加速文本生成。了解這些技術的進步將如何影響我們的生活和工作。",
+    "content": "<h2>Anthropic 的 Claude Fable 5 回歸</h2><p>Anthropic 的 Claude Fable 5 回歸，帶來更強大的 AI 能力。該模型可以處理更複雜的任務，提供更準確的結果。</p><h2>Google 的 Nano Banana 2 Lite 問世</h2><p>Google 的 Nano Banana 2 Lite 問世，提供更快、更便宜的圖像生成。該模型可以生成高質量的圖像，適用於各種應用場景。</p><h2>DeepSeek 的 DSpark 加速文本生成</h2><p>DeepSeek 的 DSpark 加速文本生成，提高效率和準確性。該模型可以生成高質量的文本，適用於各種應用場景。</p><h2>編輯悄悄話</h2><p>AI 技術的進步將如何改變未來？我們將看到更多的創新應用和變革。讓我們一起期待未來的發展！</p>",
+    "score": 85,
+    "takeaways": [
+      "Anthropic 的 Claude Fable 5 回歸，帶來更強大的 AI 能力",
+      "Google 的 Nano Banana 2 Lite 問世，提供更快、更便宜的圖像生成",
+      "DeepSeek 的 DSpark 加速文本生成，提高效率和準確性"
+    ],
+    "punchline": "AI 技術的進步將如何改變未來？",
+    "social_posts": {
+      "threads": "AI 技術的進步將如何改變未來？ Anthropic 的 Claude Fable 5 回歸、Google 的 Nano Banana 2 Lite 問世、DeepSeek 的 DSpark 加速文本生成。了解這些技術的進步將如何影響我們的生活和工作。",
+      "facebook": "AI 技術的進步將如何改變未來？ Anthropic 的 Claude Fable 5 回歸、Google 的 Nano Banana 2 Lite 問世、DeepSeek 的 DSpark 加速文本生成。了解這些技術的進步將如何影響我們的生活和工作。",
+      "viral_hook": "AI 將如何改變未來？"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-361",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "007",
+    "title": "爆炸性揭秘：如何打造一支凌晨3点还在交付的AI超級團隊",
+    "summary": "想知道如何打造一支不眠不休的AI團隊？我們將揭秘讓你的企業在競爭中領先一步",
+    "content": "<p>在這個快速變化的時代，企業需要不斷地創新和改進，以保持競爭力。一個有效的AI團隊可以幫助企業實現這個目標。但是，如何打造一支如此高效的AI團隊呢？</p>    <h2>AI團隊的建構</h2>    <p>首先，需要明確的目標和策略。這包括定義AI團隊的任務、確定需要解決的問題、以及設立相關的指標和評估標準。其次，需要選擇合適的AI工具和技術，包括機器學習框架、深度學習算法等。</p>    <h2>數據的重要性</h2>    <p>數據質量和量是AI模型成功的關鍵。需要收集和整理大量的數據，以訓練和測試AI模型。同時，需要確保數據的質量和完整性，以避免模型過度擬合或欠擬合的問題。</p>    <p>最後，持續學習和改進是AI團隊的核心價值。需要不斷地更新和擴展AI模型，以適應變化的業務需求和市場環境。</p>    <h2>編輯悄悄話</h2>    <p>所以，還在等什麼？來打造你的AI超級團隊吧！讓你的企業在競爭中領先一步，創造一個更美好的未來。",
+    "score": 90,
+    "takeaways": [
+      "AI團隊的建構需要明確的目標和策略",
+      "數據質量和量是AI模型成功的關鍵",
+      "持續學習和改進是AI團隊的核心價值"
+    ],
+    "punchline": "AI團隊：讓你的企業在競爭中領先一步",
+    "social_posts": {
+      "threads": "你知道嗎？AI團隊可以幫助企業在競爭中領先一步！\n但是，如何打造一支如此高效的AI團隊呢？\n讓我們一起來探討吧！",
+      "facebook": "企業在競爭中領先一步的秘訣是什么？\n是打造一支高效的AI團隊！\n點擊鏈接，了解更多關於AI團隊的建構和數據的重要性。",
+      "viral_hook": "凌晨3點還在交付的AI軍團？"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802528&idx=1&sn=2a38aa36abe5401b21ec718ccc60260a",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "008",
+    "title": "Docker 容器的秘密生活：你知道它是如何工作的嗎？",
+    "summary": "Docker 容器從單一命令開始，但這個命令需要被轉化為運行中的 Linux 進程。讓我們來看看它的工作原理。",
+    "content": "<p>Docker 容器的工作原理是什麼呢？讓我們從一個簡單的命令開始：<code>docker run -it nginx</code>。這個命令會啟動一個新的容器，並執行 Nginx 伺服器。但是，這個命令需要被轉化為運行中的 Linux 進程。</p>    <h2>Docker 容器的生命週期</h2>    <p>當你執行 <code>docker run</code> 命令時，Docker CLI 會將命令發送給 Docker daemon（dockerd），然後 dockerd 會檢查 Nginx 映像是否已經存在於磁碟上。如果沒有，則會從 Docker Hub 或 ECR 下載。然後，dockerd 會準備容器設定檔。</p>    <p>但是，dockerd 不會直接啟動容器。相反，它會將請求傳遞給 containerd，containerd 會管理容器的生命週期。containerd 會準備運行時檔案和組合一個由 OCI 配置和 root 檔案系統組成的 bundle。</p>    <h2>容器的檔案系統和隔離</h2>    <p>containerd 然後會呼叫 runc，runc 會讀取 bundle，建立 Linux 命名空間和掛載點，然後啟動進程。容器的檔案系統是一個多層的，且具有可寫的層。隔離是通過核心功能實現的，例如命名空間和 cgroups。</p>    <h2>編輯悄悄話</h2>    <p>現在你知道 Docker 容器的秘密生活了吧？其實，Docker 容器只是一个特殊的 Linux 進程。下次你使用 Docker 時，記得這些秘密吧！",
+    "score": 90,
+    "takeaways": [
+      "Docker 容器的生命週期由 containerd 管理",
+      "容器的檔案系統是多層的，且具有可寫的層",
+      "隔離是通過核心功能實現的，例如命名空間和 cgroups"
+    ],
+    "punchline": "Docker 容器不是一個虛擬機器，而是一個特殊的 Linux 進程",
+    "social_posts": {
+      "threads": "你知道 Docker 容器的秘密生活嗎？\n讓我們來看看它的工作原理吧！\n...\n#Docker #容器",
+      "facebook": "Docker 容器的工作原理是什麼呢？讓我們從一個簡單的命令開始：<code>docker run -it nginx</code>。這個命令會啟動一個新的容器，並執行 Nginx 伺服器。但是，這個命令需要被轉化為運行中的 Linux 進程。了解更多：",
+      "viral_hook": "Docker 容器不是一個虛擬機器，而是一個特殊的 Linux 進程！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!7Ide!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea8d5fa1-18fc-4c6f-9fea-f6bf68792757_2484x3034.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ep221-how-docker-works-under-the",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "009",
+    "title": "谷歌雲端被英國財政部指定為關鍵第三方！這對你的金融安全有什麼影響？",
+    "summary": "英國財政部指定谷歌雲端為關鍵第三方，意味著谷歌雲端將受到英國金融監管機構的直接監督，為英國金融系統的穩定性和信心提供保障",
+    "content": "<p>谷歌雲端被英國財政部指定為關鍵第三方，這是一個重要的里程碑。這意味著谷歌雲端將受到英國金融監管機構的直接監督，為英國金融系統的穩定性和信心提供保障。</p>    <h2>什麼是關鍵第三方？</h2>    <p>關鍵第三方是指那些對金融系統有重要影響的第三方服務提供商。這些服務提供商的服務可能對金融系統的穩定性和信心產生重大影響。谷歌雲端被指定為關鍵第三方，意味著其服務對英國金融系統有重要影響。</p>    <h2>谷歌雲端的角色</h2>    <p>谷歌雲端將受到英國金融監管機構的直接監督，確保其服務的安全性和穩定性。這包括確保谷歌雲端的服務符合英國金融監管機構的要求，例如資料安全和風險管理等。谷歌雲端也將與英國金融監管機構合作，提供相關的資料和支持，以確保英國金融系統的穩定性和信心。</p>    <h2>編輯悄悄話</h2>    <p>這一指定是谷歌雲端的一個重要里程碑，也是英國金融系統的一個重要步驟。谷歌雲端的服務將受到更嚴格的監督和要求，但這也意味著英國金融系統將更加安全和穩定。讓我們拭目以待，谷歌雲端將如何扮演其新角色，為英國金融系統的穩定性和信心提供保障。</p>",
+    "score": 85,
+    "takeaways": [
+      "谷歌雲端被指定為關鍵第三方，意味著其服務對英國金融系統有重要影響",
+      "谷歌雲端將受到英國金融監管機構的直接監督，確保其服務的安全性和穩定性",
+      "這一指定將有助於英國金融系統的整體穩定性和信心"
+    ],
+    "punchline": "谷歌雲端：金融安全的新守護者",
+    "social_posts": {
+      "threads": "谷歌雲端被英國財政部指定為關鍵第三方！這對你的金融安全有什麼影響？讓我們一起探討這個重要的里程碑！#谷歌雲端 #金融安全 #英國財政部",
+      "facebook": "谷歌雲端被英國財政部指定為關鍵第三方！這對你的金融安全有什麼影響？點擊鏈接了解更多！https://example.com",
+      "viral_hook": "谷歌雲端：金融安全的新守護者！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/17_-_Security__Identity_NrORvDT.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/identity-security/contributing-to-uk-financial-sector-resilience-as-a-critical-third-party/",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "010",
+    "title": "獨家！Musk 被 OpenAI 打臉，150 億美元賠不起？",
+    "summary": "科技巨頭 Elon Musk 對 OpenAI 的訴訟失敗，損失 150 億美元！同時，Google 也在 IO 2026 上發佈最新的 Gemini 應用，挑戰 ChatGPT 和 Claude。",
+    "content": "<p>科技界最近發生了一件大事，Elon Musk 對 OpenAI 的訴訟失敗，損失 150 億美元！這件事情對科技界來說是個大震撼，因為 Musk 是個科技巨頭，誰也沒想到他會輸得這麼慘。</p>    <h2>什麼是 OpenAI？</h2>    <p>OpenAI 是個非營利組織，致力於開發人工智慧技術。Musk 曾經是 OpenAI 的董事會成員，但後來他退出了，因為他覺得 OpenAI 的目標和他自己的目標不一致。現在，Musk 對 OpenAI 的訴訟失敗，大家都在猜測這個結果會對科技界產生什麼影響。</p>    <h2>Google Gemini 應用挑戰 ChatGPT 和 Claude</h2>    <p>同時，Google 也在 IO 2026 上發佈最新的 Gemini 應用，挑戰 ChatGPT 和 Claude。Gemini 應用是一個人工智慧聊天機器人，能夠回答用戶的問題和提供資訊。這個應用對 ChatGPT 和 Claude 來說是個大挑戰，因為它們都是目前最流行的聊天機器人。</p>    <h2>編輯悄悄話</h2>    <p>科技巨頭也會輸，這件事情告訴我們，即使是最強大的科技公司，也不可能總是贏。同時，Google Gemini 應用挑戰 ChatGPT 和 Claude，也告訴我們，科技界永遠是競爭的。大家都在努力創新和改進自己的技術，誰也不知道下一步會發生什麼事情。</p>",
+    "score": 90,
+    "takeaways": [
+      "Musk 對 OpenAI 的訴訟失敗，損失 150 億美元",
+      "Google Gemini 應用挑戰 ChatGPT 和 Claude",
+      "OpenAI 解決了著名的 Erdős 數學問題"
+    ],
+    "punchline": "科技巨頭也會輸!",
+    "social_posts": {
+      "threads": "大家聽說了嗎？Musk 對 OpenAI 的訴訟失敗，損失 150 億美元！\n這件事情對科技界來說是個大震撼，誰也沒想到 Musk 會輸得這麼慘。\n同時，Google 也在 IO 2026 上發佈最新的 Gemini 應用，挑戰 ChatGPT 和 Claude。\n科技巨頭也會輸，這件事情告訴我們，即使是最強大的科技公司，也不可能總是贏。",
+      "facebook": "科技巨頭 Elon Musk 對 OpenAI 的訴訟失敗，損失 150 億美元！同時，Google 也在 IO 2026 上發佈最新的 Gemini 應用，挑戰 ChatGPT 和 Claude。大家都在猜測這個結果會對科技界產生什麼影響。分享你的意見吧！",
+      "viral_hook": "科技巨頭也會輸！Musk 對 OpenAI 的訴訟失敗，損失 150 億美元！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "011",
+    "title": "Turbopack 大升級！Next.js 16.3 讓開發更快、更省記憶體",
+    "summary": "Turbopack 的最新版本在 Next.js 16.3 中推出，新增開發記憶體-eviction、持久檔案快取、實驗性 Rust React Compiler 等功能",
+    "content": "<p>Next.js 16.3 即將發布，Turbopack 也進行了大升級。這次升級主要著重於編譯器效能，新增了許多功能來減少 CPU 和記憶體使用量，讓開發和建置更快。</p>    <h2>什麼是 Turbopack？</h2>    <p>Turbopack 是 Next.js 中的一個 bundler，負責將代碼編譯和打包。它的核心設計是基於增量編譯，通過緩存之前的工作來避免重新編譯沒有改變的檔案。</p>    <h2>新功能介紹</h2>    <p>這次升級新增了開發記憶體-eviction、持久檔案快取、實驗性 Rust React Compiler 等功能。開發記憶體-eviction 可以減少記憶體使用量，持久檔案快取可以讓開發和建置更快，實驗性 Rust React Compiler 可以提高編譯速度。</p>    <ul>      <li>開發記憶體-eviction：可以減少記憶體使用量</li>      <li>持久檔案快取：可以讓開發和建置更快</li>      <li>實驗性 Rust React Compiler：可以提高編譯速度</li>    </ul>    <h2>編輯悄悄話</h2>    <p>這次 Turbopack 的升級真的很厲害，讓開發更快、更省記憶體。有了這些新功能，開發者可以更快速地完成工作，提高生產力。如果你還沒有試過 Turbopack，現在是個好時機！</p>",
+    "score": 90,
+    "takeaways": [
+      "Turbopack 的最新版本可以減少記憶體使用量",
+      "新增持久檔案快取功能，讓開發和建置更快",
+      "實驗性 Rust React Compiler 可以提高編譯速度"
+    ],
+    "punchline": "Turbopack 讓開發更快、更省記憶體",
+    "social_posts": {
+      "threads": "Turbopack 大升級！Next.js 16.3 讓開發更快、更省記憶體\n新增開發記憶體-eviction、持久檔案快取、實驗性 Rust React Compiler 等功能\n#Turbopack #Nextjs #開發工具",
+      "facebook": "Turbopack 大升級！Next.js 16.3 讓開發更快、更省記憶體\n新增開發記憶體-eviction、持久檔案快取、實驗性 Rust React Compiler 等功能\n點擊連結了解更多：[連結]",
+      "viral_hook": "Turbopack 讓開發更快、更省記憶體！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-16-3-turbopack/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-16-3-turbopack",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "012",
+    "title": "Google DeepMind 和 A24 聯手！什麼樣的革命性研究合作，讓你不能錯過？",
+    "summary": "Google DeepMind 和 A24 宣布聯手進行首個跨界研究合作，開啟人工智慧和娛樂產業的新時代",
+    "content": "<p>近日，Google DeepMind 和 A24 宣布了一個首屈一指的研究合作計畫。這個計畫旨在結合人工智慧和娛樂產業的力量，開啟一個新的研究時代。</p><h2>什麼是 Google DeepMind 和 A24 的研究合作？</h2><p>Google DeepMind 是一家著名的人工智慧研究機構，而 A24 則是一家領先的娛樂產業公司。這兩家公司的合作，將會結合人工智慧和娛樂產業的優勢，開發出新的技術和應用。</p><p>根據合作計畫，Google DeepMind 和 A24 將會共同研究和開發新的人工智慧技術，包括自然語言處理、電腦視覺等領域。這些技術將會應用於娛樂產業，包括電影、電視劇、遊戲等領域。</p><h2>這個研究合作的意義是什么？</h2><p>這個研究合作的意義在於，它將會結合人工智慧和娛樂產業的力量，開啟一個新的研究時代。這個合作將會推動人工智慧技術的發展，同時也會為娛樂產業帶來新的機遇和挑戰。</p><h2>編輯悄悄話</h2><p>想想看，如果人工智慧可以幫助我們創作出更加精彩的娛樂內容，那將會是多麼美妙的事情！這個研究合作，可能會為我們帶來一個新的娛樂時代。讓我們拭目以待，看看這個合作將會帶來什麼樣的驚喜。</p>",
+    "score": 90,
+    "takeaways": [
+      "首個跨界研究合作",
+      "結合人工智慧和娛樂產業",
+      "革命性研究成果即將誕生"
+    ],
+    "punchline": "人工智慧與娛樂的碰撞，將帶來什麼樣的驚喜？",
+    "social_posts": {
+      "threads": "大家好，我剛剛聽說了 Google DeepMind 和 A24 聯手的消息！\n什麼樣的革命性研究合作，會讓你不能錯過？\n讓我們一起拭目以待，看看這個合作將會帶來什麼樣的驚喜！",
+      "facebook": "Google DeepMind 和 A24 聯手！什麼樣的革命性研究合作，讓你不能錯過？點擊鏈接，了解更多關於這個首屈一指的研究合作計畫的信息！",
+      "viral_hook": "人工智慧與娛樂的碰撞，將帶來什麼樣的驚喜？"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-1440x810.jpg",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "date": "2026-07-13"
+  },
+  {
+    "id": "013",
+    "title": "用AI開發程式？別被小模型騙了！",
+    "summary": "Birgitta Böckeler分享她的經驗，比較不同的小型語言模型在程式開發中的表現",
+    "content": "<p>近年來，人工智慧（AI）技術在程式開發中的應用越來越廣泛。但是，到底什麼樣的AI模型最適合用於程式開發呢？Birgitta Böckeler，一位資深軟體工程師和AI專家，分享了她近期的經驗，比較不同的小型語言模型在程式開發中的表現。</p>    <h2>什麼是小型語言模型？</h2>    <p>小型語言模型是指那些可以在本地機器上運行的AI模型，而不是需要在雲端伺服器上運行的模型。這些模型可以用於程式開發中的各個方面，例如代碼補全、代碼審查等。</p>    <p>Birgitta使用了幾個不同的模型，包括Qwen3.6 35B、Gemma 4 31B、Gemma 4 26B和Qwen Coder Next 80B MoE，來比較他們在程式開發中的表現。她使用了兩個不同的任務，包括JavaScript/Typescript和shell和Python腳本的開發。</p>    <h2>結果如何？</h2>    <p>結果顯示，小型語言模型在程式開發中的表現差異很大。有些模型在某些任務中表現很好，但在其他任務中則表現不佳。例如，Gemma 4 26B在自動評估中失敗了3次，而Qwen3.6 35B MoE則成功了2次。</p>    <p>Birgitta指出，模型的選擇和任務的複雜度對結果有很大影響。另外，自動評估和手動評估的結果可能不一致，這意味著需要更多的評估和測試來確定模型的實際表現。</p>    <h2>編輯悄悄話</h2>    <p>最終，Birgitta的經驗告訴我們，小型語言模型在程式開發中的應用仍然存在很多挑戰和不確定性。雖然有些模型在某些任務中表現很好，但仍需要更多的評估和測試來確定他們的實際表現。所以，別被小模型騙了，還需要更多的努力和研究來發揮AI在程式開發中的真正潛力！",
+    "score": 90,
+    "takeaways": [
+      "小型語言模型在程式開發中的表現差異很大",
+      "模型的選擇和任務的複雜度對結果有很大影響",
+      "自動評估和手動評估的結果可能不一致"
+    ],
+    "punchline": "小模型不一定是最好的選擇",
+    "social_posts": {
+      "threads": "近期的經驗告訴我，小型語言模型在程式開發中的應用仍然存在很多挑戰和不確定性。有些模型在某些任務中表現很好，但仍需要更多的評估和測試來確定他們的實際表現。所以，別被小模型騙了，還需要更多的努力和研究來發揮AI在程式開發中的真正潛力！",
+      "facebook": "Birgitta Böckeler分享她的經驗，比較不同的小型語言模型在程式開發中的表現。結果顯示，小型語言模型在程式開發中的表現差異很大。有些模型在某些任務中表現很好，但在其他任務中則表現不佳。更多內容請見文章。",
+      "viral_hook": "用AI開發程式？別被小模型騙了！"
+    },
+    "image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
+    "date": "2026-07-13"
+  }
+]
