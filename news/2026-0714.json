@@ -262,5 +262,71 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/deutsche-telekom",
     "date": "2026-07-14"
+  },
+  {
+    "id": "013",
+    "title": "AI 將永遠改變我們的生活！從腦波輸入到語言生成，未來的互動方式將更加便捷",
+    "summary": "近期的 AI 研究成果，包括腦波輸入、語言生成等領域的突破，將使我們的生活更加便捷和高效。這些技術的發展，也將帶來更多的機會和挑戰",
+    "content": "<h2>腦波輸入技術 Brain2Qwerty v2</h2>    <p>腦波輸入技術 Brain2Qwerty v2 可以將腦波轉換成文字，為語言生成提供新的可能性。這項技術使用了一種非侵入性的腦波錄製設備，稱為 MEG，來錄製腦部的磁性活動。然後，使用了一個神經網絡模型來將腦波轉換成文字。</p>    <h2>語言生成模型 DSpark</h2>    <p>語言生成模型 DSpark 可以加速文本生成的速度，同時保持生成文本的質量。這個模型使用了一種特殊的解碼方法，稱為推測解碼，來生成文本。DSpark 的性能優於其他語言生成模型，同時也可以應用於多種語言。</p>    <h2>Gemini 的 Nano Banana 2 Lite 和 Gemini Omni Flash 模型</h2>    <p>Gemini 的 Nano Banana 2 Lite 和 Gemini Omni Flash 模型可以快速生成高質量的圖像和視頻。這些模型使用了一種多模態的轉換器，來生成圖像和視頻。Nano Banana 2 Lite 模型可以生成 1k 解析度的圖像，而 Gemini Omni Flash 模型可以生成 720p 的視頻。</p>    <h2>編輯悄悄話</h2>    <p>AI 的發展將永遠改變我們的生活。從腦波輸入到語言生成，未來的互動方式將更加便捷和高效。然而，同時也帶來更多的挑戰和機會。讓我們一起期待未來的發展，和 AI 共同創造一個更加美好的世界!</p>",
+    "score": 90,
+    "takeaways": [
+      "腦波輸入技術 Brain2Qwerty v2 可以將腦波轉換成文字，為語言生成提供新的可能性",
+      "語言生成模型 DSpark 可以加速文本生成的速度，同時保持生成文本的質量",
+      "Gemini 的 Nano Banana 2 Lite 和 Gemini Omni Flash 模型可以快速生成高質量的圖像和視頻"
+    ],
+    "punchline": "AI 將永遠改變我們的生活!",
+    "social_posts": {
+      "threads": "你們有沒有想過，腦波輸入技術可以將腦波轉換成文字？這項技術可以為語言生成提供新的可能性！ #AI #腦波輸入",
+      "facebook": "AI 的發展將永遠改變我們的生活！從腦波輸入到語言生成，未來的互動方式將更加便捷和高效。點擊鏈接了解更多！ #AI #未來",
+      "viral_hook": "你知道腦波輸入技術可以將腦波轉換成文字嗎？這項技術可以為語言生成提供新的可能性！ #AI #腦波輸入"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-361",
+    "date": "2026-07-14"
+  },
+  {
+    "id": "014",
+    "title": "印度的下一代創新者將由人工智慧帶領！",
+    "summary": "谷歌和AIM聯合推出ATL Saathi，利用AI助力印度教育機構的機器人實驗室",
+    "content": "<p>隨著科技的進步，人工智慧已經成為各個領域的重要助手。近日，谷歌和AIM聯合推出了一款名為ATL Saathi的AI工具，旨在增強印度教育者的教學能力，特別是在機器人實驗室中。</p>    <h2>什麼是ATL Saathi?</h2>    <p>ATL Saathi是一款基於Gemini的人工智慧工具，能夠提供教育者實驗室管理、課程設計和學生評估等方面的支持。這款工具的推出，將大大提高印度教育者的教學效率和質量。</p>    <h2>印度的機器人實驗室將如何受益?</h2>    <p>印度的機器人實驗室將受益於AI的應用，學生將能夠在更先進的實驗環境中學習和實踐。同時，教育者也能夠更好地管理和評估學生的表現，從而提供更有針對性的教學和指導。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧的應用將會帶來更多的創新和機會，讓我們一起期待印度的下一代創新者帶來的驚喜吧！",
+    "score": 85,
+    "takeaways": [
+      "ATL Saathi是一款基於Gemini的人工智慧工具",
+      "該工具旨在增強印度教育者的教學能力",
+      "印度的機器人實驗室將受益於AI的應用"
+    ],
+    "punchline": "人工智慧正在改變印度的教育!",
+    "social_posts": {
+      "threads": "你們知道印度的下一代創新者將由人工智慧帶領嗎？\n谷歌和AIM聯合推出ATL Saathi，利用AI助力印度教育機構的機器人實驗室\n這將會帶來什麼樣的影響呢？",
+      "facebook": "谷歌和AIM聯合推出ATL Saathi，利用AI助力印度教育機構的機器人實驗室。這將會帶來更多的創新和機會，讓我們一起期待印度的下一代創新者帶來的驚喜吧！",
+      "viral_hook": "印度的下一代創新者將由人工智慧帶領！"
+    },
+    "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "date": "2026-07-14"
+  },
+  {
+    "id": "015",
+    "title": "用 ChatGPT Work 讓數據科學團隊大幅提升工作效率！",
+    "summary": "數據科學團隊可以利用 ChatGPT Work 快速將問題、儀表板和原始數據轉化為可用的分析資產，節省時間和增加生產力。",
+    "content": "<p>數據科學團隊在工作中常常面臨著大量的數據和問題，需要花費大量時間和精力來分析和處理。然而，現在有了一個新的工具可以幫助他們大幅提升工作效率：ChatGPT Work。</p>    <h2>什麼是 ChatGPT Work？</h2>    <p>ChatGPT Work 是一個基於人工智慧的工具，สามารถ幫助數據科學團隊快速將問題、儀表板和原始數據轉化為可用的分析資產。該工具可以將散亂的輸入轉化為可用的分析資產，節省時間和增加生產力。</p>    <h2>如何使用 ChatGPT Work？</h2>    <p>使用 ChatGPT Work 非常簡單。數據科學團隊可以將問題、儀表板和原始數據輸入到 ChatGPT Work 中，然後該工具會自動生成分析資產，包括圖表、注意事項、來源鏈接和審核問題。這樣，團隊就可以快速驗證工作成果並自信地與他人分享。</p>    <h2>編輯悄悄話</h2>    <p>如果你是數據科學團隊的一員，千萬不要錯過 ChatGPT Work！這個工具可以幫助你大幅提升工作效率，節省時間和增加生產力。現在就去試用 ChatGPT Work 吧，讓你的工作變得更輕鬆、更高效！",
+    "score": 90,
+    "takeaways": [
+      "ChatGPT Work 可以幫助數據科學團隊快速生成分析資產",
+      "該工具可以將散亂的輸入轉化為可用的分析資產",
+      "ChatGPT Work 支持多種輸入格式，包括儀表板、度量定義、導出、實驗筆記和商業背景"
+    ],
+    "punchline": "讓數據科學團隊的工作效率大幅提升！",
+    "social_posts": {
+      "threads": "你知道嗎？ChatGPT Work 可以幫助數據科學團隊大幅提升工作效率！\n\n該工具可以將散亂的輸入轉化為可用的分析資產，節省時間和增加生產力。\n\n現在就去試用 ChatGPT Work 吧，讓你的工作變得更輕鬆、更高效！",
+      "facebook": "提升數據科學團隊的工作效率！\n\nChatGPT Work 是一個基於人工智慧的工具，能夠幫助數據科學團隊快速將問題、儀表板和原始數據轉化為可用的分析資產。\n\n點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "讓數據科學團隊的工作效率大幅提升！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3pOt7hjYa1nUIIMMXdoEhD/b6493d0ba6756155a3ef880758e0a0b0/Academy-SEO.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "date": "2026-07-14"
   }
 ]
