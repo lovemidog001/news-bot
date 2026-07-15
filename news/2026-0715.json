@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "揭密多代理智慧系統：如何自動化客戶發現與個性化郵件生成",
+    "summary": "Thrad.ai 如何使用 Strands Agents 和 Amazon Bedrock AgentCore 建立多代理系統，自動化客戶發現和個性化郵件生成",
+    "content": "<h2>什麼是多代理智慧系統？</h2>    <p>多代理智慧系統是一種可以自動化客戶發現和個性化郵件生成的系統。它使用多個代理來收集和分析客戶數據，以便為客戶提供個性化的郵件內容。</p>    <p>Thrad.ai 使用 Strands Agents 和 Amazon Bedrock AgentCore 建立了一個多代理系統，自動化客戶發現和個性化郵件生成。系統使用四個專門的代理來處理發現、豐富、評分和郵件生成，每個代理都有自己的工具和嚴格的輸出驗證。</p>    <h2>多代理系統的優點</h2>    <p>多代理系統可以自動化客戶發現和個性化郵件生成，節省時間和成本。系統使用加權標準、意圖分類和時間衰減來評分客戶，確保郵件內容的相關性和有效性。</p>    <p>另外，多代理系統還可以應用於競爭智慧、候選人來源和市場研究等領域。Thrad.ai 的多代理系統是通過 Strands Agents 和 Amazon Bedrock AgentCore 建立的，提供了一個高效和有效的解決方案。</p>    <h2>編輯悄悄話</h2>    <p>多代理智慧系統是未來營銷的趨勢，讓客戶發現和個性化郵件生成變得自動化。Thrad.ai 的多代理系統是這個領域的先驅，提供了一個高效和有效的解決方案。如果你想在未來的營銷中佔據先機，多代理智慧系統絕對是值得關注的。</p>",
+    "score": 90,
+    "takeaways": [
+      "多代理系統可以自動化客戶發現和個性化郵件生成",
+      "Swarm 和 Graph 兩種協調模式可以用於多代理系統",
+      "系統使用加權標準、意圖分類和時間衰減來評分客戶"
+    ],
+    "punchline": "多代理智慧系統：讓客戶發現和個性化郵件生成變得自動化",
+    "social_posts": {
+      "threads": "多代理智慧系統：讓客戶發現和個性化郵件生成變得自動化\nThrad.ai 的多代理系統是這個領域的先驅，提供了一個高效和有效的解決方案。\n#多代理智慧系統 #自動化 #客戶發現 #個性化郵件",
+      "facebook": "多代理智慧系統：讓客戶發現和個性化郵件生成變得自動化。Thrad.ai 的多代理系統是這個領域的先驅，提供了一個高效和有效的解決方案。點擊連結了解更多：[連結]",
+      "viral_hook": "揭密多代理智慧系統：如何自動化客戶發現與個性化郵件生成"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/24/19617.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/multi-agent-social-intelligence-with-strands-agents-and-amazon-bedrock/",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "002",
+    "title": "Meta 的廣告服務升級：開源核心排程器大幅降低延遲",
+    "summary": "Meta 的廣告服務每秒處理超過 500 萬個請求，為了降低延遲，Meta 開發了一個開源的核心排程器，通過優化排程策略，大幅改善廣告服務的性能",
+    "content": "<p>Meta 的廣告服務每秒處理超過 500 萬個請求，為了降低延遲，Meta 開發了一個開源的核心排程器 sched_ext。這個排程器可以根據工作負載進行優化，減少延遲，提升廣告服務的性能。</p>    <h2>什麼是 sched_ext？</h2>    <p>sched_ext 是一個開源的核心排程器框架，允許開發者實現自定義的排程策略。它可以根據工作負載進行優化，減少延遲，提升系統的性能。</p>    <h2>Meta 如何實施 sched_ext</h2>    <p>Meta 的廣告服務已經實施 sched_ext，取得了顯著的性能提升。通過優化排程策略，Meta 的廣告服務可以更快地處理請求，減少延遲，提升用戶體驗。</p>    <h2>編輯悄悄話</h2>    <p>降低延遲，提升廣告服務的性能，這是 Meta 的一個重要目標。通過實施 sched_ext，Meta 已經取得了顯著的成果。如果您也想提升您的系統的性能，請關注 sched_ext，這可能是您的一個好選擇。</p>",
+    "score": 90,
+    "takeaways": [
+      "Meta 的廣告服務升級使用開源核心排程器 sched_ext",
+      "sched_ext 可以根據工作負載進行優化，減少延遲",
+      "Meta 的廣告服務已經實施 sched_ext，取得了顯著的性能提升"
+    ],
+    "punchline": "降低延遲，提升廣告服務的性能",
+    "social_posts": {
+      "threads": "Meta 的廣告服務升級使用開源核心排程器 sched_ext，降低延遲，提升性能！#Meta #sched_ext #廣告服務",
+      "facebook": "Meta 的廣告服務升級使用開源核心排程器 sched_ext，降低延遲，提升性能！點擊鏈接了解更多。",
+      "viral_hook": "Meta 的廣告服務升級了！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image3.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "003",
+    "title": "微軟大動作！推出最新『Frontier models』，讓 AI 更聰明？",
+    "summary": "微軟宣布推出最新的 Frontier models 和生產代理能力，讓 Microsoft Foundry 邁入新時代，了解這對你的影響！",
+    "content": "<p>最近，微軟宣布推出最新的 Frontier models 和生產代理能力，讓 Microsoft Foundry 邁入新時代。這個消息對於 AI 的發展具有重要意義，讓我們一起了解這個消息的內容和意義。</p>    <h2>什麼是 Frontier models？</h2>    <p>Frontier models 是一種新型的 AI 模型，能夠更好地學習和理解人類的語言和行為。這種模型可以應用於各種領域，例如客服、語言翻譯和內容生成等。</p>    <h2>生產代理能力的提高</h2>    <p>除了 Frontier models，微軟還推出生產代理能力，能夠提高 AI 的效率和生產力。這種能力可以讓 AI 更好地處理複雜的任務，例如數據分析和預測等。</p>    <h2>編輯悄悄話</h2>    <p>微軟的大動作，讓我們看到 AI 的未來已經來臨！這個消息不僅對於 AI 的發展具有重要意義，還對於我們的生活和工作具有深遠的影響。讓我們一起關注這個消息的後續發展，和探索 AI 的未來！</p>",
+    "score": 85,
+    "takeaways": [
+      "微軟推出最新的 Frontier models",
+      "生產代理能力提高 AI 的效率",
+      "Microsoft Foundry 邁入新時代，帶來更多機會"
+    ],
+    "punchline": "AI 的未來已經來臨！",
+    "social_posts": {
+      "threads": "最近，微軟宣布推出最新的 Frontier models 和生產代理能力，讓 Microsoft Foundry 邁入新時代。這個消息對於 AI 的發展具有重要意義，讓我們一起了解這個消息的內容和意義。\n\n什麼是 Frontier models？\n生產代理能力的提高\n讓我們一起關注這個消息的後續發展，和探索 AI 的未來！",
+      "facebook": "微軟宣布推出最新的 Frontier models 和生產代理能力，讓 Microsoft Foundry 邁入新時代。這個消息對於 AI 的發展具有重要意義，讓我們一起了解這個消息的內容和意義。分享你的想法和意見，讓我們一起探索 AI 的未來！",
+      "viral_hook": "AI 的未來已經來臨！微軟推出最新的 Frontier models，讓你的生活和工作更加聰明！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Foundry_7-9_GA-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "004",
+    "title": "大學數位轉型的秘密武器：統一數據",
+    "summary": "大學面臨著資源有限的挑戰，如何做更多事情？答案在於統一數據，減少工具浪費，提高安全性和效率",
+    "content": "<p>大學面臨著資源有限的挑戰，如何做更多事情？答案在於統一數據。通過統一數據基礎，大學可以簡化環境，減少工具浪費，提高安全性和效率。</p>    <h2>數據統一的重要性</h2>    <p>數據統一可以幫助大學做出更好的決策，提高安全性，降低運營成本。大學可以通過統一數據基礎來簡化環境，減少工具浪費，提高安全性和效率。</p>    <ul>      <li>減少工具浪費</li>      <li>提高安全性</li>      <li>降低運營成本</li>    </ul>    <h2>數據統一的挑戰</h2>    <p>數據統一的挑戰在於如何將數據從不同的系統和環境中統一起來。大學需要找到一個方法來統一數據，簡化環境，減少工具浪費，提高安全性和效率。</p>    <p>當你將數據統一起來時，你就可以幫助大學團隊發現整體的、跨部門的趨勢和模式，從而做出更好的、更知情的決策，造福所有人。</p>    <h2>編輯悄悄話</h2>    <p>數據統一是大學數位轉型的核心。通過統一數據基礎，大學可以簡化環境，減少工具浪費，提高安全性和效率。所以，大學別再猶豫了，快來統一你的數據吧！",
+    "score": 90,
+    "takeaways": [
+      "大學可以通過統一數據基礎來簡化環境，減少工具浪費",
+      "統一數據可以提高安全性，降低運營成本",
+      "數據統一可以幫助大學做出更好的決策"
+    ],
+    "punchline": "數據是大學數位轉型的核心",
+    "social_posts": {
+      "threads": "大學數位轉型的秘密武器：統一數據\n通過統一數據基礎，大學可以簡化環境，減少工具浪費，提高安全性和效率\n數據統一可以幫助大學做出更好的決策，提高安全性，降低運營成本",
+      "facebook": "大學數位轉型的秘密武器：統一數據。了解如何通過統一數據基礎來簡化環境，減少工具浪費，提高安全性和效率",
+      "viral_hook": "大學數位轉型的秘密武器：統一數據，讓你做更多事情，花費更少的資源！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt306ef5c3b13c5da1/6a5688ba2233ed21573ec863/Higher_education_digital_transformation-blog_(1)_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/higher-education-digital-transformation-do-more-with-less",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "005",
+    "title": "AI 大模型時代的工作負載管理新典範：K8s + Ray 如何支撐超大規模 AI 計算",
+    "summary": "了解大模型時代 AI 工作負載的新管理方式，K8s 和 Ray 如何共同支撐超大規模 AI 計算",
+    "content": "<p>在 AI 大模型時代，工作負載管理成為了一個挑戰。傳統的工作負載管理方式已經不能滿足大模型的需求。因此，腾讯 Ray 團隊實踐了一種新的工作負載管理方式：K8s + Ray。</p>    <h2>什麼是 K8s 和 Ray？</h2>    <p>K8s 是一個容器編排系統，可以自動化部署、擴展和管理容器化應用。Ray 是一個高性能的分布式計算框架，可以支持大規模的 AI 計算。兩者的結合可以提供一個強大的工作負載管理平台。</p>    <h2>如何實踐 K8s + Ray</h2>    <p>腾讯 Ray 團隊通過實踐證明了 K8s + Ray 的強大能力。通過這種方式，可以有效管理超大規模 AI 工作負載，提高計算效率和可靠性。</p>    <h2>編輯悄悄話</h2>    <p>AI 大模型時代，工作負載管理需要新的革命。K8s + Ray 的結合可以提供一個強大的工作負載管理平台。讓我們一起探索這個新的工作負載管理方式，推動 AI 大模型的發展。",
+    "score": 90,
+    "takeaways": [
+      "K8s 和 Ray 的結合可以有效管理超大規模 AI 工作負載",
+      "大模型時代需要新的工作負載管理方式",
+      "腾讯 Ray 團隊的實踐為 AI 工作負載管理提供了新思路"
+    ],
+    "punchline": "AI 大模型時代，工作負載管理需要新的革命",
+    "social_posts": {
+      "threads": "有沒有覺得 AI 大模型時代的工作負載管理很複雜？\n其實，有一個新的工作負載管理方式可以幫助你：K8s + Ray。\n讓我們一起探索這個新的工作負載管理方式，推動 AI 大模型的發展。",
+      "facebook": "了解大模型時代 AI 工作負載的新管理方式。K8s 和 Ray 如何共同支撐超大規模 AI 計算？點擊鏈接了解更多。",
+      "viral_hook": "AI 大模型時代，工作負載管理需要新的革命！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802581&idx=1&sn=6853e0881c8ef7e87dac7baf5ad82d22",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "006",
+    "title": "AI 如何學會幫助人？揭開 RLHF 和 DPO 的秘密",
+    "summary": "AI 模型如何學會幫助人？答案在於它們的訓練過程，尤其是 RLHF 和 DPO 兩種方法",
+    "content": "<p>你是否曾問一個 AI 模型相同的問題兩次，卻得到不同的答案？這是因為 AI 模型的訓練過程中，它們學會了如何根據使用者的需求提供幫助。</p>    <h2>AI 的訓練過程</h2>    <p>AI 模型的訓練過程分為三個階段：預訓練、監督微調和偏好教學。在預訓練階段，AI 模型學習如何預測下一個字。在監督微調階段，AI 模型學習如何根據使用者的需求提供答案。但是，這兩個階段還不足以使 AI 模型完全學會幫助人，這就是偏好教學的作用。</p>    <h2>偏好教學：RLHF 和 DPO</h2>    <p>偏好教學是 AI 模型的第三個階段，目的是教導 AI 模型如何根據使用者的需求提供幫助。有兩種不同的偏好教學方法：RLHF（強化學習從人類反饋）和 DPO（直接優化）。RLHF 是基於比較的方法，AI 模型學習如何根據使用者的反饋提供更好的答案。DPO 是直接優化的方法，AI 模型學習如何直接根據使用者的需求提供答案。</p>    <p>這兩種方法都有它們的優點和缺點，但它們都可以幫助 AI 模型學會如何幫助人。例如，OpenAI 的 InstructGPT 模型使用了 RLHF 方法，人類評估員更喜歡它的答案，而不是其他模型的答案。</p>    <h2>編輯悄悄話</h2>    <p>AI 的幫助能力取決於它們的訓練資料和偏好教學方法。雖然 AI 模型的訓練過程很複雜，但了解它們的訓練過程可以幫助我們更好地使用它們。所以，下次你問一個 AI 模型問題時，記得它的答案是基於它的訓練和偏好教學方法的結果。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 模型的訓練過程分為三個階段：預訓練、監督微調和偏好教學",
+      "RLHF 和 DPO 是兩種不同的偏好教學方法，分別強調比較和直接優化",
+      "AI 模型的幫助能力取決於它們的訓練資料和偏好教學方法"
+    ],
+    "punchline": "AI 的幫助能力取決於它們的訓練",
+    "social_posts": {
+      "threads": "你知道 AI 模型如何學會幫助人嗎？它們的訓練過程分為三個階段：預訓練、監督微調和偏好教學。讓我們一起探索 AI 的訓練過程，了解它們如何學會幫助人。",
+      "facebook": "AI 模型的幫助能力取決於它們的訓練資料和偏好教學方法。了解 AI 的訓練過程可以幫助我們更好地使用它們。分享給你的朋友，讓他們也能了解 AI 的秘密。",
+      "viral_hook": "你問一個 AI 模型相同的問題兩次，卻得到不同的答案？這是因為 AI 模型的訓練過程中，它們學會了如何根據使用者的需求提供幫助。"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!dbfI!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd72766d2-c766-4b0c-935c-e74bf3d6948b_2650x1382.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/how-llms-learn-to-be-helpful-rlhf",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "007",
+    "title": "Google 成為全球首屈一指的基礎模型軟體領導者！",
+    "summary": "Google 被評為全球基礎模型軟體領導者，憑藉其在企業級別的基礎模型軟體和 AI 解決方案的強大實力。",
+    "content": "<h2>Google 的基礎模型軟體領導地位</h2>    <p>Google 被評為全球基礎模型軟體領導者，憑藉其在企業級別的基礎模型軟體和 AI 解決方案的強大實力。這是因為 Google 能夠將其基礎模型軟體和 AI 解決方案整合到一起，提供一個終端到終端的系統，讓企業能夠輕鬆地使用 AI 技術。</p>    <h2>Gemini Enterprise</h2>    <p>Gemini Enterprise 是一個終端到終端的系統，提供開發人員和業務用戶使用 AI 的工具和平台。它可以幫助企業實現業務流程的自動化和優化，讓企業能夠更好地利用 AI 技術。</p>    <p>Google 的基礎模型軟體可以幫助企業實現業務流程的自動化和優化，讓企業能夠更好地利用 AI 技術。同時，Google 的基礎模型軟體也可以幫助企業提高其業務流程的效率和生產力。</p>    <h2>編輯悄悄話</h2>    <p>Google 的基礎模型軟體領導地位是其在企業級別的基礎模型軟體和 AI 解決方案的強大實力所致。同時，Gemini Enterprise 也是一個非常強大的工具和平台，能夠幫助企業實現業務流程的自動化和優化。因此，企業應該好好利用這些工具和平台，來提高其業務流程的效率和生產力。</p>",
+    "score": 90,
+    "takeaways": [
+      "Google 的基礎模型軟體領導地位得益於其在企業級別的基礎模型軟體和 AI 解決方案的強大實力",
+      "Gemini Enterprise 是一個終端到終端的系統，提供開發人員和業務用戶使用 AI 的工具和平台",
+      "Google 的基礎模型軟體可以幫助企業實現業務流程的自動化和優化"
+    ],
+    "punchline": "Google 成為全球首屈一指的基礎模型軟體領導者！",
+    "social_posts": {
+      "threads": "Google 成為全球首屈一指的基礎模型軟體領導者！\nGemini Enterprise 是一個終端到終端的系統，提供開發人員和業務用戶使用 AI 的工具和平台。\nGoogle 的基礎模型軟體可以幫助企業實現業務流程的自動化和優化。",
+      "facebook": "Google 被評為全球基礎模型軟體領導者，憑藉其在企業級別的基礎模型軟體和 AI 解決方案的強大實力。Gemini Enterprise 是一個終端到終端的系統，提供開發人員和業務用戶使用 AI 的工具和平台。",
+      "viral_hook": "Google 成為全球首屈一指的基礎模型軟體領導者！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/01_-_AI__Machine_Learning_H1ZyZG8.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-named-a-leader-in-idc-marketscape/",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "008",
+    "title": "AI 大戰！Musk 損失 1500 億、谷歌 IO 大會的最新動態、OpenAI 解開 Erdős 之謎",
+    "summary": "Musk 在 OpenAI 的法律戰中失利，谷歌 IO 大會推出最新的 Gemini 應用挑戰 ChatGPT，OpenAI 又解開了 Erdős 之謎！",
+    "content": "<p>近期，AI 界發生了多起重大的事件。Elon Musk 在 OpenAI 的法律戰中失利，損失 1500 億。同時，谷歌 IO 大會推出最新的 Gemini 應用，挑戰 ChatGPT 和 Claude。</p>    <h2>AI 大戰的開始</h2>    <p>Musk 在法律戰中的失利，讓 OpenAI 和 Sam Altman 臨時獲得勝利。但是，AI 界的競爭才剛剛開始。谷歌 IO 大會的最新動態，讓我們看到 AI 技術的快速發展。</p>    <ul>      <li>谷歌 Gemini 應用：挑戰 ChatGPT 和 Claude</li>      <li>OpenAI 解開 Erdős 之謎：展現其強大能力</li>    </ul>    <h2>編輯悄悄話</h2>    <p>AI 大戰正式開始！誰會是最終的贏家？我們拭目以待。同時，AI 技術的快速發展，也讓我們思考其對社會的影響。讓我們一起關注 AI 界的最新動態！</p>",
+    "score": 90,
+    "takeaways": [
+      "Musk 在法律戰中失利，損失 1500 億",
+      "谷歌 IO 大會推出最新的 Gemini 應用",
+      "OpenAI 解開 Erdős 之謎，展現其強大能力"
+    ],
+    "punchline": "AI 大戰正式開始！",
+    "social_posts": {
+      "threads": "AI 大戰正式開始！Musk 損失 1500 億、谷歌 IO 大會的最新動態、OpenAI 解開 Erdős 之謎...誰會是最終的贏家？#AI #OpenAI #GoogleIO",
+      "facebook": "近期，AI 界發生了多起重大的事件。Elon Musk 在 OpenAI 的法律戰中失利，損失 1500 億。同時，谷歌 IO 大會推出最新的 Gemini 應用，挑戰 ChatGPT 和 Claude。讓我們一起關注 AI 界的最新動態！",
+      "viral_hook": "AI 大戰正式開始！誰會是最終的贏家？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "009",
+    "title": "Next.js 正式啟動安全性更新計畫，你的網站安全嗎？",
+    "summary": "Next.js 推出定期安全性更新，讓你提前知道什麼時候會有更新，減少網站被攻擊的風險",
+    "content": "<p>Next.js 是一個非常流行的 React 框架，現在它正式啟動了安全性更新計畫。這意味著你可以提前知道什麼時候會有更新，減少網站被攻擊的風險。</p>    <h2>什麼是安全性更新計畫？</h2>    <p>安全性更新計畫是一個定期發布安全性更新的計畫，讓你可以提前知道更新時間和內容。這樣你就可以提前做好準備，減少網站被攻擊的風險。</p>    <h2>如何參與安全性更新計畫？</h2>    <p>你可以在 Next.js 官方博客上找到安全性更新公告，每月會發布一次。公告會包括最高預期嚴重性和發布時間，讓你可以提前做好準備。</p>    <h2>編輯悄悄話</h2>    <p>安全性更新計畫是 Next.js 的一個重要步驟，讓你網站更安全。不要等到網站被攻擊，提前做好準備吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Next.js 啟動正式的安全性更新計畫",
+      "每月會發布安全性更新公告，讓你提前知道更新時間和內容",
+      "更新公告會包括最高預期嚴重性和發布時間"
+    ],
+    "punchline": "Next.js 的安全性更新，讓你網站更安全",
+    "social_posts": {
+      "threads": "你知道 Next.js 啟動了安全性更新計畫嗎？\n這意味著你可以提前知道什麼時候會有更新，減少網站被攻擊的風險。\n讓我們一起保持網站安全！",
+      "facebook": "Next.js 啟動安全性更新計畫！\n每月會發布安全性更新公告，讓你提前知道更新時間和內容。\n點擊連結了解更多：https://example.com",
+      "viral_hook": "Next.js 的安全性更新，讓你網站更安全！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-security-release-program/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-security-release-program",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "010",
+    "title": "印度下一代創新者崛起！谷歌與AIM攜手推出ATL Saathi",
+    "summary": "谷歌和AIM聯合推出ATL Saathi，一款基於Gemini的AI工具，讓印度的教育者在機器人實驗室中大展身手",
+    "content": "<p>近日，谷歌和AIM聯合推出ATL Saathi，一款基於Gemini的AI工具，旨在提升印度的教育質量。這款工具將幫助印度的教育者在機器人實驗室中進行創新教學，從而培養下一代創新者。</p>    <h2>ATL Saathi的功能</h2>    <p>ATL Saathi是一款基於AI的工具，能夠幫助教育者設計和實施機器人實驗課程。該工具提供了豐富的教學資源和實驗模擬，讓學生能夠在虛擬環境中進行實驗和學習。</p>    <h2>合作的意義</h2>    <p>谷歌和AIM的合作標誌著印度教育的新時代。這項合作不僅能夠提升印度的教育質量，也能夠為下一代創新者提供更多的機會和資源。印度的教育革命即將開始，讓我們一起期待這項合作的成果。</p>    <h2>編輯悄悄話</h2>    <p>這項合作真是太酷了！印度的教育者和學生將受益於這項合作。讓我們一起看看這項合作的成果，和印度的下一代創新者一起創造更加美好的未來吧！",
+    "score": 90,
+    "takeaways": [
+      "ATL Saathi是一款基於AI的工具，旨在提升印度的教育質量",
+      "該工具將幫助印度的教育者在機器人實驗室中進行創新教學",
+      "印度下一代創新者將受益於這項合作"
+    ],
+    "punchline": "印度的教育革命即將開始！",
+    "social_posts": {
+      "threads": "你們有沒有聽說過ATL Saathi？這是一款基於AI的工具，旨在提升印度的教育質量。讓我們一起期待這項合作的成果吧！",
+      "facebook": "印度的教育革命即將開始！谷歌和AIM聯合推出ATL Saathi，一款基於Gemini的AI工具。這項合作將提升印度的教育質量，為下一代創新者提供更多的機會和資源。",
+      "viral_hook": "印度的教育革命即將開始！"
+    },
+    "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "011",
+    "title": "揭開LLM的秘密：如何讓AI生成的程式碼更加可靠？",
+    "summary": "LLM能夠快速生成程式碼，但要確保它們生成正確的內容，需要明確的界限。領域特定語言（DSL）提供了一個強大的框架，引導LLM從一開始就走在正確的路上。",
+    "content": "<p>你是否曾經想過，如何讓AI生成的程式碼更加可靠？答案就在於領域特定語言（DSL）。DSL提供了一個強大的框架，引導LLM從一開始就走在正確的路上。</p>    <h2>什麼是DSL？</h2>    <p>DSL是一種為了解決特定問題而設計的語言。它提供了一個明確的界限，讓LLM知道該生成什麼內容。通過使用DSL，開發人員可以確保LLM生成的程式碼是正確和可靠的。</p>    <h2>DSL如何工作？</h2>    <p>DSL通過提供一個強大的框架，引導LLM從一開始就走在正確的路上。它讓LLM知道該生成什麼內容，如何生成，和為什麼要這樣生成。通過這種方式，開發人員可以確保LLM生成的程式碼是正確和可靠的。</p>    <h2>編輯悄悄話</h2>    <p>所以，如果你想讓AI生成的程式碼更加可靠，別忘了使用DSL！它是讓你的程式碼更加可靠和高效的秘密武器。",
+    "score": 90,
+    "takeaways": [
+      "LLM需要明確的界限來生成正確的內容",
+      "領域特定語言（DSL）能夠提供一個強大的框架，引導LLM",
+      "DSL可以作為軟體系統在LLM世界中的關鍵真相來源"
+    ],
+    "punchline": "讓AI生成的程式碼更加可靠的秘密就在於DSL！",
+    "social_posts": {
+      "threads": "你知道嗎？讓AI生成的程式碼更加可靠的秘密就在於DSL！\n\n通過使用DSL，開發人員可以確保LLM生成的程式碼是正確和可靠的。\n\n別忘了使用DSL！它是讓你的程式碼更加可靠和高效的秘密武器。",
+      "facebook": "讓AI生成的程式碼更加可靠的秘密就在於DSL！通過使用DSL，開發人員可以確保LLM生成的程式碼是正確和可靠的。點擊連結了解更多！",
+      "viral_hook": "讓AI生成的程式碼更加可靠的秘密就在於DSL！"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/llm-and-dsls.html",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "012",
+    "title": "AI 投資管理大解密：5 步驟讓你掌握 AI 的價值",
+    "summary": "了解如何管理 AI 投資，提高效率，創造價值。從測量每美元的工作量到優化高價值工作流程，掌握 AI 投資的關鍵",
+    "content": "<p>在 AI 的時代，企業如何管理 AI 投資是個非常重要的問題。OpenAI 的目標是讓 AI 更加便捷、更強大、更划算。但是， token 價格並不是衡量 AI 價值的唯一標準。企業領導者需要關注的是「每美元的工作量」：任務完成率、時間節省、決策改善、工作流程優化等。</p>    <h2>五步驟掌握 AI 投資</h2>    <p>企業領導者需要明確的視野，了解 AI 的使用情況、成本、風險等。以下是五步驟幫助你掌握 AI 投資：</p>    <ul>      <li>了解 AI 的使用情況：誰在使用、使用哪些產品或模型、消耗多少容量、支持哪些工作等</li>      <li>優化高價值工作流程：選擇合適的 AI 模型和工具、減少浪費、提高效率</li>      <li>選擇合適的 AI 模型和工具：根據工作需求選擇合適的模型和工具</li>      <li>監控成本和績效：跟蹤成本、績效、風險等，確保 AI 投資的價值</li>      <li>治理和監管：定義哪些 AI 工作可以擴大、誰有權批准高風險的步驟等</li>    </ul>    <h2>編輯悄悄話</h2>    <p>AI 投資不是一場賭博，而是一門科學。企業領導者需要用科學的方法來管理 AI 投資，提高效率、創造價值。通過這五步驟，你可以掌握 AI 投資的關鍵，讓你的企業在 AI 的時代中佔據先機。</p>",
+    "score": 90,
+    "takeaways": [
+      "了解 AI 的使用情況和成本",
+      "優化高價值工作流程",
+      "選擇合適的 AI 模型和工具"
+    ],
+    "punchline": "AI 投資不是一場賭博，而是一門科學",
+    "social_posts": {
+      "threads": "你知道嗎？AI 投資不是一場賭博，而是一門科學！通過這五步驟，你可以掌握 AI 投資的關鍵，讓你的企業在 AI 的時代中佔據先機。",
+      "facebook": "AI 投資管理大解密：5 步驟讓你掌握 AI 的價值。了解如何管理 AI 投資，提高效率，創造價值。點擊鏈接了解更多：[連結]",
+      "viral_hook": "AI 投資不是一場賭博，而是一門科學！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1f3fCCk8KKldaYmrCqQ6tt/3193a26fa6ff6423b4235b0661de239f/Frame-1.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "date": "2026-07-15"
+  }
+]
