@@ -262,5 +262,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
     "date": "2026-07-15"
+  },
+  {
+    "id": "013",
+    "title": "用 PyTorch 搭建人工智慧模式的關鍵：Attention 是你唯一需要的東西",
+    "summary": "了解 PyTorch 中的 Attention 機制，打造高效的人工智慧模式",
+    "content": "<p>在人工智慧的世界中，模式識別是非常重要的。而在 PyTorch 中，Attention 機制是模式識別的關鍵。Attention 可以幫助模型更好地理解輸入資料的相關性，從而改善模型的效能。</p>    <h2>什麼是 Attention？</h2>    <p>Attention 是一種機制，讓模型可以專注於輸入資料的某些部分。這些部分可能是最重要的特徵、最相關的資料或者是最有用的信息。通過使用 Attention，模型可以更好地理解輸入資料的相關性，從而做出更好的預測。</p>    <h2>如何使用 Attention</h2>    <p>PyTorch 提供了多種 Attention 的實現方式，包括自注意力（Self-Attention）、關注力（Attention）和圖注意力（Graph Attention）。這些實現方式可以幫助你打造高效的人工智慧模式。並且，PyTorch 還提供了多種工具和函式庫，讓你可以更容易地使用 Attention。</p>    <h2>編輯悄悄話</h2>    <p>Attention 是一個非常強大的工具，可以幫助你打造高效的人工智慧模式。但是，使用 Attention 也需要一些技巧和經驗。所以，千萬不要害怕嘗試和錯誤，多多練習和學習吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Attention 機制是 PyTorch 中的關鍵",
+      "了解 Attention 可以改善模型的效能",
+      "PyTorch 提供了多種 Attention 的實現方式"
+    ],
+    "punchline": "Attention 是你唯一需要的東西",
+    "social_posts": {
+      "threads": "你知道 Attention 是什麼嗎？\n它可以幫助模型更好地理解輸入資料的相關性\n從而改善模型的效能\n讓我們一起學習 PyTorch 中的 Attention吧！",
+      "facebook": "了解 PyTorch 中的 Attention 機制，打造高效的人工智慧模式！\n更多資訊請點擊連結：[連結]\n#PyTorch #Attention #AI",
+      "viral_hook": "用 PyTorch 搭建人工智慧模式的關鍵：Attention 是你唯一需要的東西！"
+    },
+    "image": "https://huggingface.co/blog/assets/torch-attention-profile/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "014",
+    "title": "Marvis 上線秒爆！你也想追著 6 只小馬「上班」嗎？",
+    "summary": "Marvis 上線後瞬間爆紅，讓用戶們為之瘋狂，到底它有什麼魔力？",
+    "content": "<p>你是否曾經想過，有一種「上班」方式，可以讓你感到樂趣和成就感？Marvis 的出現，讓這個夢想成真了！</p>    <h2>什麼是 Marvis？</h2>    <p>Marvis 是一款結合了遊戲、社群和娛樂元素的平台。它的核心概念是，讓用戶可以追著 6 只小馬「上班」，並且在這個過程中，享受樂趣和挑戰。</p>    <h2>為什麼 Marvis 能夠引起用戶的瘋狂追捧？</h2>    <p>Marvis 的成功，在於它的創新遊戲機制和小馬的可愛模樣。用戶可以根據自己的喜好，選擇不同的小馬，並且在遊戲中，體驗到不同的挑戰和樂趣。另外，社群功能的加入，也讓用戶之間可以互相交流和競爭，增強了平台的粘性和社交性。</p>    <h2>編輯悄悄話</h2>    <p>其實，Marvis 的成功，還有一個重要的原因，那就是它的團隊對用戶體驗的重視。從上線後的秒爆，到用戶的熱情追捧，Marvis 的團隊都在不斷地優化和改進，讓用戶可以享受到最好的體驗。所以，如果你還沒有試過 Marvis，現在就來試試吧！",
+    "score": 90,
+    "takeaways": [
+      "Marvis 的創新遊戲機制讓用戶欲罷不能",
+      "小馬的可愛模樣和個性化設定讓用戶愛不釋手",
+      "社群功能的加入讓用戶之間可以互相交流和競爭"
+    ],
+    "punchline": "誰說上班要苦悶？",
+    "social_posts": {
+      "threads": "你有沒有想過，有一種「上班」方式，可以讓你感到樂趣和成就感？\nMarvis 的出現，讓這個夢想成真了！\n它的核心概念是，讓用戶可以追著 6 只小馬「上班」，並且在這個過程中，享受樂趣和挑戰。\n誰說上班要苦悶？",
+      "facebook": "Marvis 上線秒爆！你也想追著 6 只小馬「上班」嗎？Marvis 是一款結合了遊戲、社群和娛樂元素的平台，讓用戶可以享受到最好的體驗。現在就來試試吧！",
+      "viral_hook": "誰說上班要苦悶？Marvis 讓你可以追著 6 只小馬「上班」，並且在這個過程中，享受樂趣和挑戰！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802628&idx=1&sn=e187a512c344ea924c370abb91b8962f",
+    "date": "2026-07-15"
   }
 ]
