@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "從 Shippy 到智慧代理人：我們學到了什麼？",
+    "summary": "Shippy 專案教會我們關於建造代理人的重要課題，讓我們重新思考人工智慧的應用和未來",
+    "content": "<p>Shippy 專案是一個關於建造代理人的實驗，讓我們看到人工智慧的無限可能。然而，在建造代理人的過程中，我們也遇到許多挑戰和問題。</p>    <h2>什麼是代理人？</h2>    <p>代理人是一種可以替代人類進行工作的智能體，它可以學習、思考和決策。代理人的建造需要跨領域的合作，包括人工智慧、機器學習、電腦視覺等。</p>    <h2>代理人的未來</h2>    <p>代理人的未來將會如何改變我們的生活？它將會取代人類的工作，還是會幫助人類完成更複雜的任務？這些問題都需要我們進行深入的思考和探討。</p>    <h2>編輯悄悄話</h2>    <p>代理人的未來雖然充滿了無限可能，但也需要我們進行深入的思考和探討。讓我們一起探索代理人的世界，共同創造一個更美好的未來。</p>",
+    "score": 85,
+    "takeaways": [
+      "代理人的建造需要跨領域的合作",
+      "人工智慧的應用需要考慮倫理問題",
+      "未來的代理人將會如何改變我們的生活"
+    ],
+    "punchline": "代理人的未來就在眼前",
+    "social_posts": {
+      "threads": "你們有想過代理人的未來會如何改變我們的生活嗎？\n讓我們一起探索代理人的世界，共同創造一個更美好的未來。\n#代理人 #人工智慧 #未來",
+      "facebook": "什麼是代理人？它將會如何改變我們的生活？讓我們一起探索代理人的世界，共同創造一個更美好的未來。歡迎分享您的想法和觀點！",
+      "viral_hook": "代理人的未來就在眼前，你準備好了嗎？"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/2Ncq9fY3Po30QjlACoYTY.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "002",
+    "title": "房地產金融的「AI革命」：Built Technologies如何用AI打造文件智能解決方案？",
+    "summary": "房地產金融行業每天處理大量文件，導致工作效率低下。Built Technologies與AWS合作，打造了一個AI驅動的文件智能解決方案，能夠自動處理複雜的房地產金融文件，提高工作效率，減少錯誤率。",
+    "content": "<p>房地產金融行業每天處理大量文件，導致工作效率低下。文件的處理需要大量的人工成本，同時也容易出現錯誤。因此，房地產金融行業急需自動化文件處理來提高工作效率。</p><h2>挑戰與機遇</h2><p>房地產金融行業的文件處理是一個複雜的工作，需要處理大量的文件，包括貸款協議、保險證書、檢查報告等。這些文件通常是長篇的，格式不一，內容複雜，需要大量的人工成本來處理。</p><p>但是，隨著AI技術的發展，房地產金融行業的文件處理也有了新的機遇。AI技術可以自動處理文件，提高工作效率，減少錯誤率。因此，房地產金融行業的企業開始探索AI技術的應用。</p><h2>Built Technologies的解決方案</h2><p>Built Technologies是一家房地產金融軟件提供商，該公司與AWS合作，打造了一個AI驅動的文件智能解決方案。該解決方案能夠自動處理複雜的房地產金融文件，提高工作效率，減少錯誤率。</p><p>該解決方案使用AWS的AI技術，包括Amazon Bedrock和AWS Intelligent Document Processing (IDP) Accelerator。這些技術可以自動處理文件，包括文檔分類、文檔拆分、文檔提取、文檔評估等。</p><h2>成果與影響</h2><p>Built Technologies的解決方案已經在房地產金融行業中取得了成功。該解決方案能夠自動處理大量的文件，提高工作效率，減少錯誤率。同時，該解決方案也能夠提高文件的準確性，減少人工成本。</p><h2>編輯悄悄話</h2><p>房地產金融行業的「AI革命」已經開始！ Built Technologies的解決方案是這個革命的一個重要部分。該解決方案能夠自動處理複雜的房地產金融文件，提高工作效率，減少錯誤率。因此，房地產金融行業的企業應該積極探索AI技術的應用，提高工作效率，減少錯誤率。</p>",
+    "score": 90,
+    "takeaways": [
+      "房地產金融行業需要自動化文件處理來提高工作效率",
+      "Built Technologies與AWS合作，打造了一個AI驅動的文件智能解決方案",
+      "該解決方案能夠自動處理複雜的房地產金融文件，提高工作效率，減少錯誤率"
+    ],
+    "punchline": "房地產金融行業的「AI革命」已經開始！",
+    "social_posts": {
+      "threads": "房地產金融行業的「AI革命」已經開始！ Built Technologies的解決方案是這個革命的一個重要部分。該解決方案能夠自動處理複雜的房地產金融文件，提高工作效率，減少錯誤率。",
+      "facebook": "房地產金融行業的企業應該積極探索AI技術的應用，提高工作效率，減少錯誤率。 Built Technologies的解決方案是這個革命的一個重要部分。",
+      "viral_hook": "房地產金融行業的「AI革命」已經開始！ Built Technologies的解決方案能夠自動處理複雜的房地產金融文件，提高工作效率，減少錯誤率。"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/15/ml-21017.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/built-technologies-builds-an-ai-powered-document-intelligence-solution-on-aws-to-power-agents-across-real-estate-finance/",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "003",
+    "title": "揭開Meta廣告的秘密：層次_interest_表現如何提升廣告效率",
+    "summary": "Meta正在研發Hierarchical Interest Representation，旨在改善深度廣告排序優化，讓用戶看到更相關的廣告",
+    "content": "<p>Meta正在研發Hierarchical Interest Representation，旨在改善深度廣告排序優化，讓用戶看到更相關的廣告</p>    <h2>什麼是Hierarchical Interest Representation？</h2>    <p>Hierarchical Interest Representation是一種上游表現層，旨在學習用戶和廣告實體之間的統一嵌入。這種方法可以改善深度廣告排序優化，讓用戶看到更相關的廣告</p>    <h2>如何實現Hierarchical Interest Representation？</h2>    <p>Meta的廣告網路每月為數十億用戶提供數百萬個廣告。為了實現Hierarchical Interest Representation，Meta需要學習用戶和廣告實體之間的統一嵌入。這需要使用先進的AI技術，例如圖神經網路和注意力機制</p>    <h2>編輯悄悄話</h2>    <p>廣告效率的提升，不僅僅是廣告商的利益，也是用戶的福祉。讓用戶看到更相關的廣告，可以提升用戶體驗，同時也可以增加廣告商的轉換率。Meta的Hierarchical Interest Representation是實現這個目標的一個重要步驟</p>",
+    "score": 90,
+    "takeaways": [
+      "Hierarchical Interest Representation是一種上游表現層，旨在學習用戶和廣告實體之間的統一嵌入",
+      "這種方法可以改善深度廣告排序優化，讓用戶看到更相關的廣告",
+      "Meta的廣告網路每月為數十億用戶提供數百萬個廣告"
+    ],
+    "punchline": "讓用戶看到更相關的廣告，提升廣告效率",
+    "social_posts": {
+      "threads": "      有人問我，什麼是Hierarchical Interest Representation？      其實就是一個讓用戶看到更相關的廣告的技術      Meta的廣告網路每月為數十億用戶提供數百萬個廣告      但這些廣告不一定都是用戶想要看到的      Hierarchical Interest Representation可以改善深度廣告排序優化      讓用戶看到更相關的廣告，提升廣告效率    ",
+      "facebook": "      Meta的Hierarchical Interest Representation可以改善深度廣告排序優化      讓用戶看到更相關的廣告，提升廣告效率      這是一個重要的技術，值得關注    ",
+      "viral_hook": "讓用戶看到更相關的廣告，提升廣告效率"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "004",
+    "title": "揭開微軟新時代：Frontier 模型和生產代理如何改變你的工作方式？",
+    "summary": "微軟推出最新的 Frontier 模型系列和生產代理功能，讓你的工作變得更智能、更高效。了解這些新技術如何改變你的工作方式！",
+    "content": "<p>你是否想知道如何讓你的工作變得更智能、更高效？微軟最新的 Frontier 模型系列和生產代理功能就是你的答案！</p>    <h2>什麼是 Frontier 模型系列？</h2>    <p>Frontier 模型系列是微軟最新推出的 AI 技術，旨在提供更先進的智能化解決方案。這些模型可以幫助你更好地分析資料、做出決策和解決問題。</p>    <h2>生產代理功能如何提高工作效率？</h2>    <p>生產代理功能是微軟 Foundry 平台的一部分，旨在提高工作效率。這些代理可以幫助你自動化工作流程、管理任務和提高生產力。</p>    <p>微軟 Foundry 平台是新時代的工作平台，旨在提供更智能、更高效的工作方式。透過 Frontier 模型系列和生產代理功能，你可以更好地完成工作、提高效率和創造價值。</p>    <h2>編輯悄悄話</h2>    <p>別再用舊的方式工作了！微軟的新技術可以幫助你變得更智能、更高效。快來體驗這些新技術，讓你的工作變得更有趣、更有價值吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Frontier 模型系列：更先進的 AI 技術",
+      "生產代理功能：提高工作效率",
+      "微軟 Foundry：打造新時代的工作平台"
+    ],
+    "punchline": "用科技改變你的工作方式！",
+    "social_posts": {
+      "threads": "你是否想知道如何讓你的工作變得更智能、更高效？微軟最新的 Frontier 模型系列和生產代理功能就是你的答案！\n\n透過這些新技術，你可以更好地分析資料、做出決策和解決問題。同時，生產代理功能可以幫助你自動化工作流程、管理任務和提高生產力。\n\n別再用舊的方式工作了！微軟的新技術可以幫助你變得更智能、更高效。快來體驗這些新技術，讓你的工作變得更有趣、更有價值吧！",
+      "facebook": "微軟推出最新的 Frontier 模型系列和生產代理功能！這些新技術可以幫助你更好地分析資料、做出決策和解決問題。同時，生產代理功能可以幫助你自動化工作流程、管理任務和提高生產力。快來體驗這些新技術，讓你的工作變得更有趣、更有價值吧！",
+      "viral_hook": "用科技改變你的工作方式！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Foundry_7-9_GA-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "005",
+    "title": "Elastic 狀元！2026 年最新惡意軟體防護測試中獨佔鰲頭",
+    "summary": "Elastic Security 在 2026 年 AV-Comparatives 惡意軟體防護測試中取得 100% 成功率，成為唯一一家達到完美防護的企業解決方案供應商",
+    "content": "<p>在資訊安全領域，防護率和準確性是兩個最重要的指標。最近，AV-Comparatives 發佈了 2026 年的惡意軟體防護測試報告，Elastic Security 憑借其出色的防護能力和準確性，成為唯一一家達到完美防護的企業解決方案供應商。</p>    <h2>什麼是惡意軟體防護測試？</h2>    <p>惡意軟體防護測試是評估資訊安全解決方案防護能力的重要指標。這個測試模擬了實際環境中惡意軟體的攻擊，包括通過網路、USB 和其他途徑傳播的惡意軟體。Elastic Security 在這個測試中取得 100% 的成功率，證明了其出色的防護能力。</p>    <h2>實際環境保護測試</h2>    <p>除了惡意軟體防護測試，Elastic Security 還在實際環境保護測試中取得了 99.8% 的保護率。這個測試模擬了實際環境中使用者可能遇到的各種攻擊，包括惡意網站、駭客攻擊等。Elastic Security 的防護能力和準確性均居業界領先地位。</p>    <h2>編輯悄悄話</h2>    <p>在資訊安全領域，防護率和準確性是兩個最重要的指標。Elastic Security 的出色表現證明了其在這個領域的領先地位。如果您正在尋找一個可靠的資訊安全解決方案，Elastic Security絕對是您的首選。",
+    "score": 95,
+    "takeaways": [
+      "Elastic Security 在惡意軟體防護測試中取得 100% 成功率",
+      "Elastic Security 在實際環境保護測試中取得 99.8% 的保護率",
+      "Elastic Security 的防護能力和準確性均居業界領先地位"
+    ],
+    "punchline": "Elastic 狀元！絕對防護無漏洞",
+    "social_posts": {
+      "threads": "Elastic 狀元！2026 年最新惡意軟體防護測試中獨佔鰲頭\nElastic Security 在 2026 年 AV-Comparatives 惡意軟體防護測試中取得 100% 成功率，成為唯一一家達到完美防護的企業解決方案供應商\n#Elastic #資訊安全 #惡意軟體防護",
+      "facebook": "Elastic 狀元！2026 年最新惡意軟體防護測試中獨佔鰲頭\nElastic Security 在 2026 年 AV-Comparatives 惡意軟體防護測試中取得 100% 成功率，成為唯一一家達到完美防護的企業解決方案供應商\n點擊連結了解更多：[連結]\n#Elastic #資訊安全 #惡意軟體防護",
+      "viral_hook": "Elastic 狀元！絕對防護無漏洞"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltdf758e666d3d1da7/6a569157ade6f5a1f76e6200/AV-comparative-business-blog-header.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/av-comparatives-business-security-test-2026",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "006",
+    "title": "為什麼大家都在追著6只小馬「上班」？Marvis背後的秘密大揭露！",
+    "summary": "Marvis上線後，瞬間挤爆伺服器！什麼讓用戶這麼瘋狂？",
+    "content": "<p>你是否曾經想過，為什麼大家都在追著6只小馬「上班」？答案就在Marvis這款遊戲中。Marvis上線後，瞬間挤爆伺服器，官方緊急擴容以應對用戶激增。</p>    <h2>什麼是Marvis？</h2>    <p>Marvis是一款結合工作和遊戲的創新平台，讓用戶可以通過完成任務和挑戰來賺取獎勵。這款遊戲的設計非常獨特，讓用戶感受到工作的樂趣和成就感。</p>    <h2>Marvis的成功秘訣</h2>    <p>Marvis的成功秘訣在於其獨特的遊戲設計和社交功能。用戶可以組成團隊，共同完成任務和挑戰，同時也可以分享自己的成就和經驗。這種社交互動讓用戶感受到更多的樂趣和成就感。</p>    <h2>編輯悄悄話</h2>    <p>其實，Marvis的成功也讓我們反思了工作和遊戲的界限。為什麼我們不能讓工作也變成樂趣呢？也許，Marvis的成功只是個開始，未來我們會看到更多結合工作和遊戲的創新平台。",
+    "score": 90,
+    "takeaways": [
+      "Marvis上線後，瞬間吸引大量用戶",
+      "官方緊急擴容以應對用戶激增",
+      "Marvis的成功秘訣在於其獨特的遊戲設計"
+    ],
+    "punchline": "6只小馬，讓你上班也變成樂趣！",
+    "social_posts": {
+      "threads": "大家都在追著6只小馬「上班」，你知道為什麼嗎？\nMarvis上線後，瞬間挤爆伺服器！\n什麼讓用戶這麼瘋狂？",
+      "facebook": "Marvis上線後，瞬間吸引大量用戶！官方緊急擴容以應對用戶激增。什麼讓用戶這麼瘋狂？一起來探討Marvis的成功秘訣吧！",
+      "viral_hook": "6只小馬，讓你上班也變成樂趣！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802628&idx=1&sn=e187a512c344ea924c370abb91b8962f",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "007",
+    "title": "旅行業的AI客服革命：自動化的極限在哪裡?",
+    "summary": "旅行業的客服正在迅速轉向AI自動化，但仍有許多複雜的案件需要人工處理。了解AI客服的極限和挑戰，可以幫助您更好地使用這項技術",
+    "content": "<p>旅行業的客服正在迅速轉向AI自動化，但仍有許多複雜的案件需要人工處理。了解AI客服的極限和挑戰，可以幫助您更好地使用這項技術</p>    <h2>AI客服的挑戰</h2>    <p>AI客服可以有效處理常規查詢和變更，但複雜的爭議仍需要人工介入。例如，當客戶和房東對於取消和退款有不同的意見時，AI客服就無法有效處理</p>    <p>旅行平台需要找到合適的時機將案件轉交給人工客服。這個時機的選擇對於客戶的滿意度和平台的收入有著重要的影響</p>    <h2>不同的解決方案</h2>    <p>不同的旅行平台有不同的解決方案，包括自動化解決、手工轉交和語言轉換。例如，Airbnb優先使用自動化解決，Booking.com則著重於手工轉交</p>    <p>Expedia則強調語言轉換，投資於多語言的摘要，以便於跨語言的溝通</p>    <h2>編輯悄悄話</h2>    <p>AI客服的極限在於處理複雜的爭議和語言轉換。旅行業需要找到合適的平衡點，讓AI客服和人工客服可以有效地合作，以提供更好的客戶體驗</p>",
+    "score": 85,
+    "takeaways": [
+      "AI客服可以有效處理常規查詢和變更，但複雜的爭議仍需要人工介入",
+      "旅行平台需要找到合適的時機將案件轉交給人工客服",
+      "不同的旅行平台有不同的解決方案，包括自動化解決、手工轉交和語言轉換"
+    ],
+    "punchline": "AI客服的極限在於處理複雜的爭議和語言轉換",
+    "social_posts": {
+      "threads": "旅行業的AI客服革命：自動化的極限在哪裡？\n\nAI客服可以有效處理常規查詢和變更，但複雜的爭議仍需要人工介入\n\n旅行平台需要找到合適的時機將案件轉交給人工客服\n\n不同的旅行平台有不同的解決方案，包括自動化解決、手工轉交和語言轉換",
+      "facebook": "旅行業的AI客服革命：自動化的極限在哪裡？了解AI客服的挑戰和解決方案，可以幫助您更好地使用這項技術",
+      "viral_hook": "旅行業的AI客服革命：自動化的極限在哪裡？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!A8qd!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb25a75a-487b-4154-b0dd-0c2cb437238d_3244x1776.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/ai-customer-support-at-scale-the",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "008",
+    "title": "AI 專案延宕的祕密：為什麼網路基礎設施是關鍵？",
+    "summary": "企業在推動 AI 專案時，常遇到瓶頸。根據 IDC 的調查，網路基礎設施是主要的阻礙因素。了解網路基礎設施的重要性，才能順暢推動 AI 專案",
+    "content": "<p>企業在推動 AI 專案時，常遇到瓶頸。根據 IDC 的調查，網路基礎設施是主要的阻礙因素。了解網路基礎設施的重要性，才能順暢推動 AI 專案。</p>    <h2>AI 專案的挑戰</h2>    <p>根據 IDC 的調查，32.6% 的企業指出安全性是主要的挑戰，26.8% 的企業指出自動化是主要的挑戰，24.7% 的企業指出人才限制是主要的挑戰。</p>    <h2>解決方案</h2>    <p>基礎設施級別的方法是解決 AI 專案延宕的關鍵。這需要企業對網路基礎設施進行全面性的評估和改善，包括安全性、自動化和人才限制等方面。</p>    <h2>編輯悄悄話</h2>    <p>AI 專案的成功，需要企業對網路基礎設施進行長期的投資和改善。只有這樣，才能真正發揮 AI 的潛力，帶來商業上的成功。",
+    "score": 85,
+    "takeaways": [
+      "網路基礎設施是 AI 專案的關鍵因素",
+      "安全性、自動化和人才限制是企業在推動 AI 專案時的主要挑戰",
+      "基礎設施級別的方法是解決 AI 專案延宕的關鍵"
+    ],
+    "punchline": "網路基礎設施是 AI 專案的命脈",
+    "social_posts": {
+      "threads": "你知道嗎？網路基礎設施是 AI 專案的關鍵因素！了解網路基礎設施的重要性，才能順暢推動 AI 專案",
+      "facebook": "AI 專案的成功，需要企業對網路基礎設施進行長期的投資和改善。只有這樣，才能真正發揮 AI 的潛力，帶來商業上的成功",
+      "viral_hook": "網路基礎設施是 AI 專案的命脈！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/24_-_Networking_vCB4Wjq.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "009",
+    "title": "AI 大戰：馬斯克輸了！OpenAI 贏得 1500 億訴訟，谷歌也加入戰局",
+    "summary": "馬斯克與 OpenAI 的世紀之戰落幕，OpenAI 贏得 1500 億訴訟，谷歌也在 IO 2026 更新 Gemini 应用挑戰 ChatGPT",
+    "content": "<p>最近，AI 的世界裡發生了大事！馬斯克與 OpenAI 的世紀之戰落幕，OpenAI 贏得 1500 億訴訟。馬斯克指控 OpenAI 的 CEO Sam Altman 「偷竊」非營利組織，但法院判決認為馬斯克等待太久才提出訴訟，所以他輸了。</p>    <h2>谷歌加入戰局</h2>    <p>同時，谷歌在 IO 2026 更新了 Gemini 应用，挑戰 ChatGPT 和 Claude。這意味著 AI 的市場將會更加競爭激烈。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來是誰的？馬斯克、OpenAI、谷歌，誰會贏得最終的勝利？我們拭目以待...</p>",
+    "score": 90,
+    "takeaways": [
+      "馬斯克與 OpenAI 的訴訟結果：OpenAI 贏得 1500 億",
+      "谷歌更新 Gemini 应用挑戰 ChatGPT",
+      "OpenAI 解決了著名的 Erdős 問題"
+    ],
+    "punchline": "AI 的未來是誰的？",
+    "social_posts": {
+      "threads": "馬斯克輸了！OpenAI 贏得 1500 億訴訟...谷歌也加入戰局了...AI 的市場將會更加競爭激烈...誰會贏得最終的勝利？",
+      "facebook": "最近的 AI 新聞讓你感到震驚嗎？馬斯克與 OpenAI 的世紀之戰落幕，谷歌也更新了 Gemini 应用挑戰 ChatGPT...來討論一下 AI 的未來是誰的吧！",
+      "viral_hook": "馬斯克輸了！1500 億的天大罰款..."
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 正式啟動安全性發布流程！了解這對你有什麼影響",
+    "summary": "Next.js 推出正式的安全性發布流程，讓你能提前知道安全更新的時間和內容，減少應用程式的風險",
+    "content": "<p>Next.js 是一個非常流行的開源框架，為了確保使用者的安全性，Next.js 官方宣布正式啟動安全性發布流程。</p><h2>什麼是安全性發布流程？</h2><p>安全性發布流程是一個預先公告和時間表的安全更新流程，讓使用者能提前知道安全更新的時間和內容，減少應用程式的風險。這個流程將包含高風險和中風險的漏洞修復。</p><h2>如何影響你</h2><p>Next.js 的安全性發布流程對你有什麼影響呢？首先，你可以提前知道安全更新的時間和內容，減少應用程式的風險。其次，你可以根據安全更新的時間表，提前安排更新和維護的工作。</p><h2>編輯悄悄話</h2><p>Next.js 的安全性發布流程是個好消息！使用者可以更放心地使用 Next.js，官方也能更好地維護和更新安全性。記得要關注 Next.js 的官方公告，隨時了解最新的安全更新信息吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Next.js 將每月發布安全更新，包含預先公告和時間表",
+      "安全更新將包含高風險和中風險的漏洞修復",
+      "Next.js 還會發布緊急的安全補丁，對於已經被利用的漏洞"
+    ],
+    "punchline": "Next.js 的安全性發布流程來了！",
+    "social_posts": {
+      "threads": "Next.js 的安全性發布流程來了！\n這對你有什麼影響呢？\n讓我們一起了解和討論吧！",
+      "facebook": "Next.js 正式啟動安全性發布流程！了解這對你有什麼影響，和如何利用這個流程來提高你的應用程式的安全性。",
+      "viral_hook": "Next.js 的安全性發布流程來了！你準備好了嗎？"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-security-release-program/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-security-release-program",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "011",
+    "title": "印度的下一代創新者即將崛起！谷歌最新推出的AI工具ATL Saathi",
+    "summary": "谷歌與AIM攜手推出ATL Saathi，一款利用AI技術的工具，旨在提升印度教育者的實驗室教學品質，為未來科技人才注入新動力",
+    "content": "<p>印度的教育界即將迎來一場革命！谷歌與AIM攜手推出了ATL Saathi，一款基於Gemini的AI工具，旨在提升印度教育者在機器人實驗室的教學能力。這項合作不僅能夠加速印度的科學教育和創新發展，也為未來的科技人才注入新動力。</p>    <h2>什麼是ATL Saathi？</h2>    <p>ATL Saathi是一款基於Gemini的AI工具，能夠幫助教育者更好地教導機器人和科學知識。這款工具不僅能夠提供教育者更好的教學資源，也能夠幫助學生更好地理解複雜的科學概念。</p>    <h2>對未來的影響</h2>    <p>這項合作將對印度的科學教育和創新發展產生深遠的影響。通過ATL Saathi，印度的教育者將能夠更好地教導機器人和科學知識，從而為未來的科技人才注入新動力。同時，這項合作也將加速印度的科學教育和創新發展，推動印度成為全球科技創新的領先者。</p>    <h2>編輯悄悄話</h2>    <p>科技創新是未來的關鍵，通過ATL Saathi，印度的教育界即將迎來一場革命！讓我們一起期待這項合作將帶來的美好未來吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "ATL Saathi是一款基於Gemini的AI工具",
+      "該工具旨在提升印度教育者在機器人實驗室的教學能力",
+      "這項合作將加速印度的科學教育和創新發展"
+    ],
+    "punchline": "科技創新，未來可期！",
+    "social_posts": {
+      "threads": "印度的教育界即將迎來一場革命！谷歌與AIM攜手推出了ATL Saathi，一款基於Gemini的AI工具，旨在提升印度教育者在機器人實驗室的教學能力。這項合作不僅能夠加速印度的科學教育和創新發展，也為未來的科技人才注入新動力。讓我們一起期待這項合作將帶來的美好未來吧！",
+      "facebook": "印度的教育界即將迎來一場革命！谷歌與AIM攜手推出了ATL Saathi，一款基於Gemini的AI工具，旨在提升印度教育者在機器人實驗室的教學能力。這項合作不僅能夠加速印度的科學教育和創新發展，也為未來的科技人才注入新動力。點擊鏈接了解更多！",
+      "viral_hook": "印度的教育界即將迎來一場革命！谷歌最新推出的AI工具ATL Saathi "
+    },
+    "image": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "date": "2026-07-16"
+  },
+  {
+    "id": "012",
+    "title": "美國逆向聯邦主義：州政府如何幫助建立安全的AI框架",
+    "summary": "美國通過州政府和聯邦政府的合作，建立了一個安全的AI框架，讓我們更好地理解AI的發展和應用",
+    "content": "<p>近年來，人工智慧（AI）的發展日益迅速，美國政府也開始關注AI的安全問題。為了建立一個安全的AI框架，美國採取了一種稱為「逆向聯邦主義」的方法，即州政府和聯邦政府合作，共同建立一個全面的AI安全框架。</p>    <h2>什麼是逆向聯邦主義？</h2>    <p>逆向聯邦主義是一種新的治理模式，即州政府在AI安全方面扮演著重要角色。通過州政府的合作，美國可以建立一個全面的AI安全框架，讓我們更好地理解AI的發展和應用。</p>    <h2>美國的AI框架將如何影響全球？</h2>    <p>美國的AI框架將對全球AI發展產生重大影響。通過建立一個安全的AI框架，美國可以讓全球的AI發展更安全、更可靠。</p>    <h2>編輯悄悄話</h2>    <p>美國的AI框架是一個非常重要的議題，讓我們一起關注AI的發展和安全問題，為全球的AI發展貢獻一份力。</p>",
+    "score": 85,
+    "takeaways": [
+      "美國州政府在AI安全方面扮演著重要角色",
+      "逆向聯邦主義是建立安全的AI框架的一種有效方法",
+      "美國的AI框架將對全球AI發展產生影響"
+    ],
+    "punchline": "美國的AI框架將是全球安全的典範",
+    "social_posts": {
+      "threads": "你知道嗎？美國的AI框架將是全球安全的典範！通過州政府和聯邦政府的合作，美國可以建立一個全面的AI安全框架，讓我們更好地理解AI的發展和應用。",
+      "facebook": "美國的AI框架是一個非常重要的議題，讓我們一起關注AI的發展和安全問題，為全球的AI發展貢獻一份力。",
+      "viral_hook": "美國的AI框架將是全球安全的典範！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/C8LVPcOuyeD3G5OalCrVN/16094efa3ff169506c97c14ec2b71f8a/Frame.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "date": "2026-07-16"
+  }
+]
