@@ -1,0 +1,288 @@
+[
+  {
+    "id": "001",
+    "title": "NVIDIA 的新成就：Nemotron 3 榮登 RTEB 榜首，引領新一波 AI 搜索革命",
+    "summary": "NVIDIA 的 Nemotron 3 技術登上了 RTEB 榜首，開啟了 AI 搜索的新時代，讓我們看看這對未來的影響",
+    "content": "<p>NVIDIA 的 Nemotron 3 技術最近榮登了 RTEB 榜首，這是一項了不起的成就，標誌著 AI 搜索技術的新突破。這項技術的實現有望改變我們的搜索方式和信息獲取體驗。</p>    <h2>什麼是 Nemotron 3 技術？</h2>    <p>Nemotron 3 是 NVIDIA 開發的一種新型 AI 搜索技術，旨在提高搜索的精度和效率。這項技術結合了多種 AI 算法和模型，實現了 Agentic Retrieval 的突破，讓搜索結果更加相關和準確。</p>    <h2>未來的影響</h2>    <p>這項技術的實現有望改變我們的搜索方式和信息獲取體驗。未來，我們可以期待搜索結果更加智能和高效，讓我們更快速地找到所需的信息。這對各行各業都有著深遠的影響，特別是在信息技術和數據分析領域。</p>    <h2>編輯悄悄話</h2>    <p>這個消息真的是讓人興奮！NVIDIA 的 Nemotron 3 技術將會帶領我們進入一個全新的 AI 搜索時代。讓我們拭目以待，看到這項技術如何改變我們的生活和工作方式吧。</p>",
+    "score": 90,
+    "takeaways": [
+      "NVIDIA 的 Nemotron 3 技術實現了 Agentic Retrieval 的突破",
+      "這項技術有望改變我們的搜索方式和信息獲取體驗",
+      "AI 搜索的未來將更加智能和高效"
+    ],
+    "punchline": "NVIDIA 引領 AI 搜索革命",
+    "social_posts": {
+      "threads": "NVIDIA 的新成就！Nemotron 3 榮登 RTEB 榜首，開啟了 AI 搜索的新時代。讓我們看看這對未來的影響吧",
+      "facebook": "NVIDIA 的 Nemotron 3 技術登上了 RTEB 榜首，開啟了 AI 搜索的新時代。這項技術的實現有望改變我們的搜索方式和信息獲取體驗。點擊鏈接了解更多",
+      "viral_hook": "NVIDIA 引領 AI 搜索革命，Nemotron 3 榮登 RTEB 榜首！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/697fa5ae089a7f9330c5078f/AaXgkciE-wvxSPrA4wg0n.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "002",
+    "title": "企業搜尋革命：Amazon Bedrock Managed Knowledge Base 讓您輕鬆打造智慧知識庫",
+    "summary": "Amazon Bedrock Managed Knowledge Base 是一款全方位的企業搜尋解決方案，讓您輕鬆打造智慧知識庫，提升搜尋效率和安全性",
+    "content": "<p>企業搜尋一直是一個挑戰，尤其是在大規模的情況下。Amazon Bedrock Managed Knowledge Base 是一款全方位的企業搜尋解決方案，讓您輕鬆打造智慧知識庫，提升搜尋效率和安全性。</p>    <h2>簡化設定</h2>    <p>Amazon Bedrock Managed Knowledge Base 提供簡化設定，無需選擇模型，幾分鐘內即可開始搜尋。您可以連接您的企業資料來源或爬取網頁，開始匯入資料。</p>    <h2>智慧搜尋</h2>    <p>Amazon Bedrock Managed Knowledge Base 使用真實時間存取控制清單（ACL）進行安全性檢查，確保只有授權的使用者可以存取敏感資料。此外，該解決方案還提供六個原生連接器和直接匯入 API，支援多種資料格式。</p>    <h2>編輯悄悄話</h2>    <p>Amazon Bedrock Managed Knowledge Base 是一個革命性的企業搜尋解決方案，讓您輕鬆打造智慧知識庫，提升搜尋效率和安全性。不要再為搜尋而煩惱，試試 Amazon Bedrock Managed Knowledge Base 吧！",
+    "score": 90,
+    "takeaways": [
+      "簡化設定：無需選擇模型，幾分鐘內即可開始搜尋",
+      "智慧搜尋：使用真實時間存取控制清單（ACL）進行安全性檢查",
+      "生產就緒：提供六個原生連接器和直接匯入 API，支援多種資料格式"
+    ],
+    "punchline": "讓搜尋變得更聰明、更安全、更高效",
+    "social_posts": {
+      "threads": "大家好！今天我要分享一個非常酷的企業搜尋解決方案 - Amazon Bedrock Managed Knowledge Base。這個解決方案可以讓您輕鬆打造智慧知識庫，提升搜尋效率和安全性。讓搜尋變得更聰明、更安全、更高效！",
+      "facebook": "Amazon Bedrock Managed Knowledge Base 是一款全方位的企業搜尋解決方案，讓您輕鬆打造智慧知識庫，提升搜尋效率和安全性。試試看吧！",
+      "viral_hook": "讓搜尋變得更聰明、更安全、更高效！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/16/ml-20588.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-enterprise-search-for-agents-with-amazon-bedrock-managed-knowledge-base/",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "003",
+    "title": "揭開Meta Ads的秘密：如何讓廣告更懂你？",
+    "summary": "Meta Ads正在發展一個新的技術，讓廣告更能夠了解用戶的需求和興趣，提升廣告的有效性。",
+    "content": "<p>你是否曾經感到廣告太過刻板，無法真正了解你的需求和興趣？Meta Ads的Hierarchical Interest Representation技術旨在解決這個問題，讓廣告更能夠了解用戶的需求和興趣，提升廣告的有效性。</p>    <h2>什麼是Hierarchical Interest Representation技術？</h2>    <p>這項技術是一種上游表現層，旨在學習用戶和廣告實體之間的統一嵌入，連接用戶的推斷興趣和廣告主所提供的廣告內容。這項技術可以讓廣告更懂用戶的需求和興趣，提升廣告的有效性和用戶的滿意度。</p>    <h2>如何實現這項技術？</h2>    <p>Meta Ads的Hierarchical Interest Representation技術是基於圖結構的，使用多層次的粒度來學習用戶和廣告實體之間的關係。這項技術可以捕捉長距離關係和圖結構中的稀疏信號，為廣告主提供更有效的廣告服務。</p>    <h2>編輯悄悄話</h2>    <p>廣告的未來將是更加個性化和智能化，讓廣告更懂用戶的需求和興趣。Meta Ads的Hierarchical Interest Representation技術是這個未來的重要一步，讓我們期待著更加精彩的廣告體驗！",
+    "score": 90,
+    "takeaways": [
+      "Meta Ads的Hierarchical Interest Representation技術可以讓廣告更懂用戶的需求和興趣",
+      "這項技術可以提升廣告的有效性和用戶的滿意度",
+      "Meta Ads的廣告平台每月服務數十億用戶，為數百萬廣告主提供服務"
+    ],
+    "punchline": "讓廣告更懂你!",
+    "social_posts": {
+      "threads": "你是否曾經感到廣告太過刻板？\nMeta Ads的Hierarchical Interest Representation技術可以讓廣告更懂你！\n這項技術可以提升廣告的有效性和用戶的滿意度\n讓我們期待著更加精彩的廣告體驗！",
+      "facebook": "Meta Ads的Hierarchical Interest Representation技術是最新的廣告技術，旨在讓廣告更懂用戶的需求和興趣。這項技術可以提升廣告的有效性和用戶的滿意度，為廣告主提供更有效的廣告服務。了解更多：https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+      "viral_hook": "廣告的未來是更加個性化和智能化的！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "004",
+    "title": "微軟最新動作曝光！Foundry 新時代來臨，你的生意會不會被颠覆？",
+    "summary": "微軟推出最新的 Frontier 模型系列和生產代理功能，讓你的業務邁入新紀元，別再被時代拋在後面！",
+    "content": "<p>你是否準備好迎接新時代的到來？微軟最近推出了最新的Frontier模型系列和生產代理功能，讓你的業務邁入新紀元！</p>    <h2>什麼是Frontier模型系列？</h2>    <p>Frontier模型系列是微軟最新推出的AI模型，能夠幫助你解決更複雜的問題和提高你的業務效率。它可以應用在各種領域，從客戶服務到數據分析，讓你能夠更好地了解你的業務和客戶。</p>    <h2>生產代理功能是什麼？</h2>    <p>生產代理功能是微軟最新推出的功能，能夠幫助你自動化你的業務流程，提高你的生產效率和降低成本。它可以應用在各種領域，從製造到物流，讓你能夠更好地管理你的業務和資源。</p>    <h2>編輯悄悄話</h2>    <p>別再被時代拋在後面，趕快了解這些新技術，升級你的業務吧！微軟的最新動作，將會帶來更多的機會和挑戰，準備好迎接新時代的到來吧！</p>",
+    "score": 80,
+    "takeaways": [
+      "微軟Foundry的新時代來臨，帶來更多的AI應用",
+      "Frontier模型系列和生產代理功能將改變你的業務模式",
+      "不要被時代拋在後面，趕快了解這些新技術"
+    ],
+    "punchline": "別再被時代拋在後面，趕快升級你的業務吧！",
+    "social_posts": {
+      "threads": "微軟最新動作曝光！\nFoundry新時代來臨，你的生意會不會被颠覆？\n別再被時代拋在後面，趕快了解這些新技術吧！",
+      "facebook": "微軟推出最新的Frontier模型系列和生產代理功能，讓你的業務邁入新紀元！別再被時代拋在後面，趕快了解這些新技術，升級你的業務吧！",
+      "viral_hook": "微軟的最新動作，將會帶來更多的機會和挑戰，準備好迎接新時代的到來吧！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Foundry_7-9_GA-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "005",
+    "title": "求職者警惕！Elastic 公司揭露：如何避免 AI 陷阱，展現真實自我",
+    "summary": "Elastic 公司強調，求職者應該展現真實的自己，而不是使用 AI 創造虛假的經歷",
+    "content": "<p>在求職過程中，AI 可以是一個很好的工具，幫助你組織思路、修改履歷。但是，Elastic 公司強調，求職者應該展現真實的自己，而不是使用 AI 創造虛假的經歷。</p>    <h2>什麼是 Elastic 公司的求職哲學？</h2>    <p>Elastic 公司的 Source Code 鼓勵求職者「做自己」，展現自己的獨特視角、經歷、技能和解決挑戰的方式。公司重視誠實和公平，使用 AI 監控工具，以確保求職者的誠實。</p>    <h2>如何避免 AI 陷阱？</h2>    <p>如果你在求職過程中使用了 AI 工具，請確保你能夠解釋你所採取的方法和行動。AI 可以是一個很好的工具，但它也可能犯錯。如果你的履歷中包含 AI 生成的虛假信息，請在提交前糾正它。</p>    <h2>編輯悄悄話</h2>    <p>在求職過程中，誠實和真實性是最重要的。不要讓 AI 代替你思考，展現你的真實自我，才是成功的關鍵。記住，Elastic 公司的distributed work culture 是建立在信任上的，如果你被發現有意誤導或虛假信息，可能會導致你被取消資格或甚至被解僱。",
+    "score": 90,
+    "takeaways": [
+      "Elastic 公司使用 AI 監控工具，以確保求職者的誠實",
+      "求職者應該使用 AI 作為工具，而不是讓 AI 代替思考",
+      "公司重視求職者的真實性和成長潛力"
+    ],
+    "punchline": "展現真實的自己，才是成功的關鍵",
+    "social_posts": {
+      "threads": "求職者注意！Elastic 公司揭露如何避免 AI 陷阱，展現真實自我\n\n使用 AI 工具，但不要讓它代替思考\n\n誠實和真實性是最重要的\n\n展現你的真實自我，才是成功的關鍵",
+      "facebook": "Elastic 公司強調，求職者應該展現真實的自己，而不是使用 AI 創造虛假的經歷。公司重視誠實和公平，使用 AI 監控工具，以確保求職者的誠實。如何避免 AI 陷阱？點擊連結了解更多！",
+      "viral_hook": "求職者警惕！Elastic 公司揭露：如何避免 AI 陷阱，展現真實自我"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltafe75c12a90c4563/6a58ed2442ffaa6a5dbecd9d/header-blog-Elastic’s-guide-to-AI-in-the-interview-process-Blog-r2_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/ai-guidelines-interview-process",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "006",
+    "title": "AI偷懶、越權、失憶？Hook框架來幫忙",
+    "summary": "AI模型偷懶、越權、失憶的問題，Hook框架是解決方案",
+    "content": "<p>AI模型的發展越來越快，但也帶來了一些問題，例如偷懶、越權、失憶等。這些問題讓AI模型的表現不穩定，甚至會對使用者造成影響。</p>    <h2>什麼是Hook框架？</h2>    <p>Hook框架是一種用來控制AI模型的框架，通過 Hook 來干預AI模型的運行，防止它偷懶、越權、失憶等問題。這種框架可以幫助AI模型更好地運行，提高它的表現和穩定性。</p>    <h2>Hook框架的優點</h2>    <ul>      <li>防止AI偷懶：Hook框架可以監控AI模型的運行，防止它偷懶或不按規則運行。</li>      <li>避免失憶：Hook框架可以幫助AI模型記住重要的信息，避免失憶的問題。</li>      <li>提高穩定性：Hook框架可以幫助AI模型更好地運行，提高它的穩定性和表現。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>AI模型需要框架來管教，Hook框架就是這種管教的工具。它可以幫助AI模型更好地運行，提高它的表現和穩定性。所以，如果你正在使用AI模型，別忘了使用Hook框架來管教它！",
+    "score": 90,
+    "takeaways": [
+      "AI模型需要框架來控制",
+      "Hook框架可以防止AI偷懶",
+      "框架可以幫助AI避免失憶"
+    ],
+    "punchline": "AI需要框架來管教",
+    "social_posts": {
+      "threads": "你知道嗎？AI模型需要框架來管教！Hook框架可以幫助AI模型更好地運行，提高它的表現和穩定性。別忘了使用Hook框架來管教你的AI模型！",
+      "facebook": "AI模型的發展越來越快，但也帶來了一些問題，例如偷懶、越權、失憶等。Hook框架可以幫助AI模型更好地運行，提高它的表現和穩定性。了解更多：",
+      "viral_hook": "AI偷懶、越權、失憶？Hook框架來幫忙！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802659&idx=1&sn=8c2b4c6e4501a69632fe05b2e6e8e3b0",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "007",
+    "title": "多租戶架構的隱藏陷阱：你不知道的共享系統風險",
+    "summary": "多租戶系統的優點與挑戰，了解如何避免共享系統的隱患",
+    "content": "<p>你是否曾經想過，你使用的軟體是如何被設計的？特別是當多個客戶共享同一個系統時，會發生什麼事情？</p>    <h2>什麼是多租戶系統</h2>    <p>多租戶系統是一種軟體架構，允許多個客戶共享同一個系統。這種架構可以節省成本，但也增加了風險。當多個客戶共享同一個系統時，彼此的運作可能會互相影響，例如，一個客戶運行大量的報表可能會減慢其他客戶的服務速度。</p>    <h2>多租戶系統的挑戰</h2>    <p>多租戶系統的挑戰包括資料洩露、服務中斷和資源競爭。當多個客戶共享同一個系統時，彼此的資料可能會被錯誤地存取或洩露。另外，當一個客戶的運作導致系統資源不足時，可能會影響其他客戶的服務。了解租戶隔離和共享的選擇對系統的影響是非常重要的。</p>    <h2>編輯悄悄話</h2>    <p>多租戶系統的設計需要謹慎考慮，否則可能會導致災難性的後果。了解多租戶系統的優點和挑戰，可以幫助你做出更好的設計決策，避免共享系統的隱患。",
+    "score": 90,
+    "takeaways": [
+      "多租戶系統可以節省成本，但也增加了風險",
+      "共享系統可能導致資料洩露和服務中斷",
+      "了解租戶隔離和共享的選擇對系統的影響"
+    ],
+    "punchline": "共享系統，風險共享",
+    "social_posts": {
+      "threads": "你知道嗎？多租戶系統可能會導致資料洩露和服務中斷！了解多租戶系統的優點和挑戰，可以幫助你做出更好的設計決策。",
+      "facebook": "多租戶系統的設計需要謹慎考慮，否則可能會導致災難性的後果。了解多租戶系統的優點和挑戰，可以幫助你做出更好的設計決策，避免共享系統的隱患。",
+      "viral_hook": "共享系統，風險共享！你知道多租戶系統的隱藏陷阱嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!RWJE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb93d50f-61ea-4d58-99b6-b96cae02390e_1325x1534.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "008",
+    "title": "谷歌登頂！2026 年 Gartner 對話式 AI 平台魔力象限報告，領導企業如何打造客戶體驗新時代",
+    "summary": "谷歌連續兩年被評為對話式 AI 平台領導者，Gemini Enterprise for Customer Experience 帶來客戶體驗新時代",
+    "content": "<p>谷歌連續兩年被評為對話式 AI 平台領導者，這次我們更進一步，領先於「遠見」和「執行」兩個軸向。</p>    <h2>客戶體驗新時代</h2>    <p>企業客戶體驗正在進入一個新時代，傳統的聊天機器人已經不能滿足客戶的需求，企業需要一個可以理解客戶意圖、跨企業知識和採取行動的 AI 平台。</p>    <p>Gemini Enterprise for Customer Experience 是谷歌的答案，結合前沿研究和企業安全，提供客戶體驗新時代的解決方案。</p>    <h2> CX Agent Studio</h2>    <p>CX Agent Studio 是谷歌的客戶體驗代理平台，提供多模式 AI 代理、代理編排、企業檢索和開發工具，幫助企業快速打造客戶體驗新時代。</p>    <p>企業可以使用 CX Agent Studio 來打造多模式 AI 代理、協助人工支持和服務代表、分析客戶對話以改善商業成果等。</p>    <h2>編輯悄悄話</h2>    <p>對話式 AI 平台的未來將不再只是回答問題，而是理解客戶意圖、跨企業知識和採取行動，谷歌領導對話式 AI 平台新時代，企業如何跟上這個潮流呢？",
+    "score": 90,
+    "takeaways": [
+      "谷歌在 2026 年 Gartner 對話式 AI 平台魔力象限報告中領先",
+      "Gemini Enterprise for Customer Experience 是客戶體驗新時代的關鍵",
+      "企業需要一個結合前沿研究和企業安全的 AI 平台"
+    ],
+    "punchline": "谷歌領導對話式 AI 平台新時代",
+    "social_posts": {
+      "threads": "谷歌領導對話式 AI 平台新時代！\n企業客戶體驗正在進入一個新時代，傳統的聊天機器人已經不能滿足客戶的需求，企業需要一個可以理解客戶意圖、跨企業知識和採取行動的 AI 平台。\nGemini Enterprise for Customer Experience 是谷歌的答案，結合前沿研究和企業安全，提供客戶體驗新時代的解決方案。",
+      "facebook": "谷歌領導對話式 AI 平台新時代！企業客戶體驗正在進入一個新時代，傳統的聊天機器人已經不能滿足客戶的需求，企業需要一個可以理解客戶意圖、跨企業知識和採取行動的 AI 平台。Gemini Enterprise for Customer Experience 是谷歌的答案，結合前沿研究和企業安全，提供客戶體驗新時代的解決方案。點擊鏈接了解更多。",
+      "viral_hook": "谷歌領導對話式 AI 平台新時代！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/01_-_AI__Machine_Learning_H1ZyZG8.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/google-is-a-leader-in-the-gartner-magic-quadrant-for-conversational-ai/",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "009",
+    "title": "爆炸性新聞！馬斯克慘敗給OpenAI，谷歌也出手了！",
+    "summary": "馬斯克與OpenAI的世紀之戰落幕，谷歌也在IO 2026上發布新品，科技圈又一波巨變！",
+    "content": "<p>科技圈最近發生了一件大事，馬斯克與OpenAI的世紀之戰落幕。馬斯克敗訴，損失150億美元，這對他來說是一個沉重的打擊。</p>    <h2>馬斯克的失敗</h2>    <p>馬斯克與OpenAI的爭鬥從去年就開始了，馬斯克指控OpenAI的CEO Sam Altman「偷竊」了一個非盈利組織。但是，法院最終判決馬斯克敗訴，理由是他等待太久才提出訴訟。</p>    <h2>谷歌的挑戰</h2>    <p>與此同時，谷歌也在IO 2026上發布了新品，Gemini app挑戰了ChatGPT和Claude。這是一個重大挑戰，誰將是最後的贏家呢？</p>    <h2>編輯悄悄話</h2>    <p>科技巨頭們的較量，誰將是最後的贏家？我們拭目以待。無論如何，科技圈的發展總是令人期待的，讓我們繼續關注吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "馬斯克敗訴，損失150億美元",
+      "OpenAI解決了著名的Erdős問題",
+      "谷歌Gemini app挑戰ChatGPT和Claude"
+    ],
+    "punchline": "科技巨頭們的較量，誰將是最後的贏家？",
+    "social_posts": {
+      "threads": "你們覺得馬斯克會不會東山再起？\n馬斯克與OpenAI的世紀之戰落幕，谷歌也出手了！\n科技圈又一波巨變！",
+      "facebook": "科技圈最近發生了一件大事，馬斯克與OpenAI的世紀之戰落幕。馬斯克敗訴，損失150億美元，這對他來說是一個沉重的打擊。與此同時，谷歌也在IO 2026上發布了新品，Gemini app挑戰了ChatGPT和Claude。請問你們覺得馬斯克會不會東山再起？",
+      "viral_hook": "馬斯克慘敗給OpenAI，谷歌也出手了！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 正式推出安全更新計畫！別再等待漏洞爆發了",
+    "summary": "Next.js 導入正式的安全更新計畫，讓開發者可以提前預防漏洞，確保網站安全",
+    "content": "<p>Next.js 是一個流行的開源框架，為了確保使用者的安全，Next.js 團隊決定導入正式的安全更新計畫。這意味著開發者可以提前預防漏洞，確保網站安全。</p>    <h2>什麼是安全更新計畫？</h2>    <p>安全更新計畫是一個定期的安全更新過程，Next.js 團隊會每月一次發布安全更新，讓開發者可以提前預防漏洞。這個過程包括了漏洞掃描、修復和發布等步驟。</p>    <h2>安全更新的內容</h2>    <p>安全更新包括高風險和中風險漏洞的修復。Next.js 團隊會發布詳細的更新內容，包括 CVEs 等信息，讓開發者可以了解更新的內容和風險。</p>    <p>如果你有任何問題或疑慮，可以發郵件到 security@vercel.com。</p>    <h2>編輯悄悄話</h2>    <p>安全更新是網站安全的重要一環，Next.js 的安全更新計畫是個好消息。開發者可以提前預防漏洞，確保網站安全。別再等待漏洞爆發了，立即更新吧！",
+    "score": 85,
+    "takeaways": [
+      "Next.js 導入正式的安全更新計畫",
+      "每月一次的安全更新，讓開發者可以提前預防漏洞",
+      "安全更新包括高風險和中風險漏洞的修復"
+    ],
+    "punchline": "安全更新，讓你領先一步",
+    "social_posts": {
+      "threads": "Next.js 推出安全更新計畫！\n每月一次的安全更新，讓開發者可以提前預防漏洞\n安全更新包括高風險和中風險漏洞的修復\n立即更新吧！",
+      "facebook": "Next.js 正式推出安全更新計畫！讓開發者可以提前預防漏洞，確保網站安全。詳細信息請看以下內容：",
+      "viral_hook": "別再等待漏洞爆發了！Next.js 推出安全更新計畫！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-security-release-program/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-security-release-program",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "011",
+    "title": "【反直覺型】Google DeepMind 與 Isomorphic Labs 的生物韌性秘密：如何用 AI 解鎖基因密碼？",
+    "summary": "Google DeepMind 和 Isomorphic Labs 正在開發一種新的生物韌性方法，利用 AI 來更好地理解基因組。這意味著什麼？",
+    "content": "<p>Google DeepMind 和 Isomorphic Labs 正在開發一種新的生物韌性方法，利用 AI 來更好地理解基因組。這項技術可能帶來什麼樣的影響？</p>    <h2>什麼是生物韌性？</h2>    <p>生物韌性是指生物體對環境壓力和變化的適應能力。它是一種複雜的系統，涉及基因、環境和生理等多個層面。</p>    <h2>如何用 AI 解鎖基因密碼？</h2>    <p>Google DeepMind 和 Isomorphic Labs 的研究團隊正在開發一種新的 AI 模型，能夠更好地理解基因組的結構和功能。這項技術可能帶來新的醫學革命！</p>    <h2>編輯悄悄話</h2>    <p>你知道嗎？基因組就像是一本密碼書，AI 可以幫助我們破解這個密碼，揭示人體的秘密！</p>",
+    "score": 85,
+    "takeaways": [
+      "Google DeepMind 和 Isomorphic Labs 合作開發生物韌性方法",
+      "利用 AI 來更好地理解基因組",
+      "這項技術可能帶來什麼樣的影響？"
+    ],
+    "punchline": "用 AI 解鎖基因密碼，未來的醫學革命即將到來！",
+    "social_posts": {
+      "threads": "你知道嗎？基因組就像是一本密碼書，AI 可以幫助我們破解這個密碼，揭示人體的秘密！ #AI #基因組 #生物韌性",
+      "facebook": "Google DeepMind 和 Isomorphic Labs 的生物韌性秘密：如何用 AI 解鎖基因密碼？點擊鏈接了解更多！ #AI #生物韌性 #醫學革命",
+      "viral_hook": "用 AI 解鎖基因密碼，未來的醫學革命即將到來！"
+    },
+    "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "012",
+    "title": "用AI重建舊系統？先別高興太早！",
+    "summary": "舊系統重建的挑戰，AI可以幫助，但不能代替人工分析和驗證。一個實際的案例分享，如何使用AI和Docker環境，逐步重建Java 1.5的代碼庫。",
+    "content": "<p>當我們談到舊系統重建時，很多人會想到使用最新的技術和框架。但是在實際的項目中，情況往往不是這樣。Nik Malykhin就面臨了這樣的挑戰，他需要在今天的硬件上運行Java 1.5的代碼庫。</p>    <h2>從「觀光客」到「考古學家」</h2>    <p>在開始重建之前，Nik Malykhin使用了LLM（Large Language Model）來分析代碼庫，但結果並不理想。直到他基於證據和清晰的角色，使用AI來支持分析和驗證，才逐步取得進展。</p>    <h2>逐步重建的關鍵</h2>    <p>穩定的Docker環境和逐步重構是重建的關鍵。Nik Malykhin使用了「時間膠囊」策略，將代碼庫封裝在Docker容器中，然後逐步重構和測試。這個過程中，AI發揮了重要作用，但需要人工的智慧和分析來指導。</p>    <h2>編輯悄悄話</h2>    <p>舊系統重建不是一個簡單的過程，需要耐心、智慧和技術。AI可以幫助我們，但不能代替人工的分析和驗證。希望這個案例可以給你一些啟發，如何使用AI和Docker環境，逐步重建你的舊系統。",
+    "score": 90,
+    "takeaways": [
+      "AI在舊系統重建中可以發揮作用，但需要基於證據和清晰的角色",
+      "穩定的Docker環境和逐步重構是關鍵",
+      "測試和驗證是確保重建成功的必要步驟"
+    ],
+    "punchline": "AI不是萬能的，需要人工的智慧和分析",
+    "social_posts": {
+      "threads": "大家有沒有遇到過舊系統重建的挑戰？\n我最近遇到了一个很有意思的案例，使用AI和Docker環境，逐步重建Java 1.5的代碼庫。\n分享一下我的經驗和心得，希望可以給你一些啟發。",
+      "facebook": "舊系統重建的挑戰，AI可以幫助，但不能代替人工分析和驗證。一個實際的案例分享，如何使用AI和Docker環境，逐步重建Java 1.5的代碼庫。歡迎分享你的經驗和心得！",
+      "viral_hook": "用AI重建舊系統？先別高興太早！"
+    },
+    "image": "https://martinfowler.com/articles/archaeologist-copilot/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/archaeologist-copilot.html",
+    "date": "2026-07-17"
+  },
+  {
+    "id": "013",
+    "title": "為什麼青少年需要安全的 AI？揭開 ChatGPT 對年輕世代的影響",
+    "summary": "了解 OpenAI 如何為青少年打造更安全的 ChatGPT，包含年齡適宜的保護、學習工具、家長控制和專家合作",
+    "content": "<p>在當今的數位時代，AI 已經成為一部分不可或缺的工具。然而，對於青少年來說，安全的 AI 是一個非常重要的議題。OpenAI 致力於為青少年打造更安全的 ChatGPT，包含年齡適宜的保護、學習工具、家長控制和專家合作。</p>    <h2>為什麼青少年需要安全的 AI？</h2>    <p>青少年是第一代在 AI 環境下成長的世代。根據調查，近 9 成的青少年在 ChatGPT 上使用 AI 來學習、蒐集資訊、技能建造或提高生產力。這也就是為什麼我們認為青少年需要安全的 AI 的原因。因為如果我們不讓他們接觸到安全的 AI，他們就會缺乏使用這項技術的能力，這對於他們的未來發展是非常不利的。</p>    <h2>ChatGPT 的安全保護和學習工具</h2>    <p>ChatGPT 提供多種安全保護和學習工具，幫助青少年更好地使用 AI。例如，ChatGPT 的「學習模式」可以讓青少年通過一步一步的指導、結構化的解釋和反思機會來學習。另外，ChatGPT 還提供了家長控制功能，讓家長可以控制青少年的使用時間和內容。</p>    <h2>編輯悄悄話</h2>    <p>讓我們一起努力，為青少年打造一個安全的 AI 環境，讓他們可以更好地學習和成長。在這個數位時代，安全的 AI 是一個非常重要的議題。讓我們不要等待，現在就開始行動吧！",
+    "score": 90,
+    "takeaways": [
+      "青少年是第一代在 AI 環境下成長的世代",
+      "安全的 AI 對青少年的學習和未來發展至關重要",
+      "ChatGPT 提供年齡適宜的保護和學習工具，幫助青少年更好地使用 AI"
+    ],
+    "punchline": "讓青少年接觸安全的 AI，讓他們更好地準備未來",
+    "social_posts": {
+      "threads": "你知道嗎？青少年是第一代在 AI 環境下成長的世代。讓我們一起努力，為他們打造一個安全的 AI 環境。#AI #安全 #青少年",
+      "facebook": "了解 OpenAI 如何為青少年打造更安全的 ChatGPT。包含年齡適宜的保護、學習工具、家長控制和專家合作。讓我們一起努力，為青少年打造一個安全的 AI 環境。",
+      "viral_hook": "你知道青少年需要安全的 AI 嗎？現在就來了解吧！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4NGTbmWC5Q6asKYmOTchmz/8fde35f181e02c0dcf3b7334db08d394/why-teens-seo.jpg?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "date": "2026-07-17"
+  }
+]
