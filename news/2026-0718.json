@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "用AI創造爆款內容！NVIDIA NeMo Automodel 和 🤗 Diffusers 讓你輕鬆Fine-tune視訊和圖像模型",
+    "summary": "想成為社群內容創作高手？NVIDIA NeMo Automodel 和 🤗 Diffusers 讓你輕鬆Fine-tune視訊和圖像模型，提升內容品質和吸引力",
+    "content": "<p>你是否想成為社群內容創作高手？你是否想創造出高品質的視訊和圖像內容，吸引更多的粉絲和互動？現在，你可以使用NVIDIA NeMo Automodel 和 🤗 Diffusers 來實現你的夢想。</p>    <h2>什麼是NVIDIA NeMo Automodel 和 🤗 Diffusers？</h2>    <p>NVIDIA NeMo Automodel 和 🤗 Diffusers 是兩個強大的AI工具，可以幫助你創造高品質的視訊和圖像內容。NVIDIA NeMo Automodel是一個自動化的模型訓練平台，可以讓你輕鬆地訓練和優化你的模型。🤗 Diffusers是一個基於Diffusion模型的圖像和視訊生成工具，可以讓你創造出高品質的內容。</p>    <h2>如何使用NVIDIA NeMo Automodel 和 🤗 Diffusers 來創造爆款內容</h2>    <ul>      <li>先選擇你想要創造的內容類型，例如視訊或圖像</li>      <li>使用NVIDIA NeMo Automodel 來訓練和優化你的模型</li>      <li>使用🤗 Diffusers 來生成高品質的內容</li>      <li>最後，發佈你的內容到社群平台，吸引更多的粉絲和互動</li>    </ul>    <h2>編輯悄悄話</h2>    <p>使用AI創造內容，不再是未來的夢想。現在，你可以使用NVIDIA NeMo Automodel 和 🤗 Diffusers 來創造高品質的視訊和圖像內容。不要猶豫，試試看吧！你會發現，AI創造內容可以讓你輕鬆爆紅",
+    "score": 90,
+    "takeaways": [
+      "NVIDIA NeMo Automodel 和 🤗 Diffusers 可以幫助你創造高品質的視訊和圖像內容",
+      "這兩個工具可以提升你的社群內容的吸引力和互動度",
+      "使用AI創造內容可以節省時間和成本，同時提高效率"
+    ],
+    "punchline": "AI創造內容，讓你輕鬆爆紅",
+    "social_posts": {
+      "threads": "你想成為社群內容創作高手嗎？\n使用NVIDIA NeMo Automodel 和 🤗 Diffusers 來創造高品質的視訊和圖像內容\n提升你的內容品質和吸引力\n讓你輕鬆爆紅",
+      "facebook": "想成為社群內容創作高手？使用NVIDIA NeMo Automodel 和 🤗 Diffusers 來創造高品質的視訊和圖像內容，提升你的內容品質和吸引力。點擊連結了解更多",
+      "viral_hook": "用AI創造爆款內容！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/67e44a92b96703c8b0e5a805/VGYINP_TZGLSkx2zW8uIa.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "002",
+    "title": "用 AI 助理 Amazon Quick 提升銷售團隊效率，讓你多賺 60%!",
+    "summary": "銷售團隊平均只花 40% 的時間在賣東西，剩下的時間都花在行政工作上。Amazon Quick 可以幫你優化銷售流程，讓你多賣出 60% 的商品!",
+    "content": "<p>銷售團隊的工作不僅僅是賣東西，還需要花費大量時間在行政工作上。Amazon Quick 是一款 AI 助理，可以幫你優化銷售流程，讓你多賣出 60% 的商品!</p>    <h2>什麼是 Amazon Quick?</h2>    <p>Amazon Quick 是一款 AI 助理，可以幫你自動篩選高意向客戶，優化銷售流程，減少行政工作。Quick 可以連接到你的 CRM、郵件、網站分析和支持系統，分析客戶的互動信號，動態排名客戶的購買意向。</p>    <h2>如何使用 Amazon Quick?</h2>    <p>使用 Quick 很簡單，你只需要將 Quick 整合到你的 CRM 系統中，然後創建一個儀表板，使用 Quick 的聊天功能來評估你的銷售流程，提供最優先的銷售機會。Quick 還可以幫你撰寫個性化的郵件，增加客戶的回覆率。</p>    <h2>編輯悄悄話</h2>    <p>如果你想提升銷售團隊的效率和銷售量，Amazon Quick 是一個非常好的選擇。試試看吧，你會發現 Quick 可以幫你賣出更多的東西!</p>",
+    "score": 90,
+    "takeaways": [
+      "Amazon Quick 可以幫你自動篩選高意向客戶",
+      "Quick 可以幫你優化銷售流程，減少行政工作",
+      "使用 Quick 可以增加銷售團隊的效率和銷售量"
+    ],
+    "punchline": "讓 AI 助理幫你賣出更多的東西!",
+    "social_posts": {
+      "threads": "你知道嗎？銷售團隊平均只花 40% 的時間在賣東西，剩下的時間都花在行政工作上。Amazon Quick 可以幫你優化銷售流程，讓你多賣出 60% 的商品！#AmazonQuick #銷售團隊",
+      "facebook": "提升銷售團隊的效率和銷售量，從 Amazon Quick 開始！Quick 可以幫你自動篩選高意向客戶，優化銷售流程，減少行政工作。試試看吧，你會發現 Quick 可以幫你賣出更多的東西！",
+      "viral_hook": "讓 AI 助理幫你賣出更多的東西！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/17/ml-20807-1.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "003",
+    "title": "揭秘 Meta 廣告的秘密武器：層次式興趣代表",
+    "summary": "Meta 研究了一個新方法，叫做層次式興趣代表，旨在改善廣告的深度優化，讓用戶看到更相關的廣告",
+    "content": "<p>你是否曾經想過，為什麼 Meta 的廣告如此精準？原來，Meta 研究了一個新方法，叫做層次式興趣代表（Hierarchical Interest Representation），旨在改善廣告的深度優化，讓用戶看到更相關的廣告。</p>    <h2>什麼是層次式興趣代表？</h2>    <p>層次式興趣代表是一種新型的廣告優化方法，它使用了人工智慧和圖形學的技術，來了解用戶的興趣和偏好。這種方法可以幫助用戶看到更相關的廣告，提高廣告的有效性。</p>    <h2>如何實現層次式興趣代表？</h2>    <p>Meta 的研究人員使用了大量的數據和算法，來實現層次式興趣代表。他們使用了圖形學的技術，來了解用戶和廣告之間的關係，然後使用了人工智慧，來分析和學習用戶的興趣和偏好。</p>    <h2>編輯悄悄話</h2>    <p>層次式興趣代表是一種革命性的廣告優化方法，它可以幫助用戶看到更相關的廣告，提高廣告的有效性。讓我們拭目以待，Meta 的這種新方法，是否能夠改善我們的廣告體驗。</p>",
+    "score": 90,
+    "takeaways": [
+      "層次式興趣代表是一種新型的廣告優化方法",
+      "它可以幫助用戶看到更相關的廣告",
+      "這種方法使用了人工智慧和圖形學的技術"
+    ],
+    "punchline": "讓廣告更懂你",
+    "social_posts": {
+      "threads": "你知道嗎？Meta 的廣告其實很聰明！他們使用了一種叫做層次式興趣代表的方法，來了解用戶的興趣和偏好。這種方法可以幫助用戶看到更相關的廣告，提高廣告的有效性。讓我們一起探討這種方法的優點和缺點！",
+      "facebook": "Meta 的廣告優化方法有了新的突破！層次式興趣代表是一種使用人工智慧和圖形學的技術，來了解用戶的興趣和偏好。這種方法可以幫助用戶看到更相關的廣告，提高廣告的有效性。點擊鏈接，了解更多！",
+      "viral_hook": "讓廣告更懂你！Meta 的新方法，層次式興趣代表，來了！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "004",
+    "title": "最新！微軟推出邊緣模型和生產代理，什麼是「代理時代」？",
+    "summary": "微軟推出新一代邊緣模型和生產代理，透過Microsoft Foundry讓開發者更容易打造智慧應用",
+    "content": "<p>你是否曾想過，未來的科技會如何改變我們的生活？現在，微軟推出了最新的邊緣模型系列和生產代理能力，讓開發者更容易打造智慧應用。</p>    <h2>什麼是邊緣模型？</h2>    <p>邊緣模型是一種新的AI模型，能夠讓開發者更容易打造智慧應用。透過這個模型，開發者可以快速地建立和部署AI模型，讓應用更具智慧和互動性。</p>    <h2>生產代理的力量</h2>    <p>生產代理是一種新的能力，能夠讓開發者更容易打造智慧應用。透過生產代理，開發者可以快速地建立和部署AI模型，讓應用更具智慧和互動性。</p>    <h2>編輯悄悄話</h2>    <p>代理時代來臨！微軟的最新邊緣模型系列和生產代理能力，讓開發者更容易打造智慧應用。未來的科技將會如何改變我們的生活？讓我們一起期待吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "微軟推出新的邊緣模型系列",
+      "生產代理能力讓開發者更容易打造智慧應用",
+      "Microsoft Foundry是開發者打造智慧應用的最佳平台"
+    ],
+    "punchline": "代理時代來臨！",
+    "social_posts": {
+      "threads": "你是否曾想過，未來的科技會如何改變我們的生活？\n現在，微軟推出了最新的邊緣模型系列和生產代理能力，讓開發者更容易打造智慧應用。\n什麼是邊緣模型？\n生產代理的力量？\n讓我們一起期待吧！",
+      "facebook": "最新！微軟推出邊緣模型和生產代理，什麼是「代理時代」？透過Microsoft Foundry讓開發者更容易打造智慧應用。點擊連結了解更多！",
+      "viral_hook": "代理時代來臨！微軟的最新邊緣模型系列和生產代理能力，讓開發者更容易打造智慧應用。"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/frontier-models-and-production-agents-advancing-microsoft-foundry-for-the-agentic-era/",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "005",
+    "title": "面試中別讓AI取代你！Elastic的招募秘訣大公開",
+    "summary": "Elastic強調誠實與真實性，警告不要使用AI來造假或取代自己，讓你了解如何在面試中發揮真實的自己",
+    "content": "<p>在面試中，大家常常會擔心如何展現自己，如何讓自己更有競爭力。但是，Elastic有一個不同的觀點：他們希望你做自己。</p>    <h2>什麼是Elastic的招募哲學？</h2>    <p>Elastic是一家重視AI的公司，但是他們也明白AI的局限性。在面試中，他們不希望你使用AI來造假或取代自己。相反，他們希望你展示自己的真實經驗和技能。</p>    <ul>      <li>使用AI來組織思路或修改履歷是可以的，但不要讓AI取代你的思考</li>      <li>誠實與真實性是Elastic的核心價值</li>      <li>如果你使用AI來幫助自己解決挑戰或構建演講，Elastic希望你能夠解釋你的思考過程</li>    </ul>    <h2>如何在面試中發揮真實的自己？</h2>    <p>面試中，Elastic希望你能夠展示自己的真實經驗和技能。不要使用AI來造假或取代自己。相反，應該展示你的思考過程、你的技能和你的成就。</p>    <p>如果你使用AI來幫助自己解決挑戰或構建演講，Elastic希望你能夠解釋你的思考過程。這樣，Elastic才能夠了解你的真實能力和潛力。</p>    <h2>編輯悄悄話</h2>    <p>最後，Elastic的一個小秘訣：做自己才是王道。不要讓AI取代你，誠實與真實性才是最重要的。希望你能夠在面試中發揮真實的自己，找到理想的工作！",
+    "score": 90,
+    "takeaways": [
+      "Elastic重視誠實與真實性，不容忍AI造假",
+      "面試中應該展示自己的真實經驗和技能",
+      "AI可以幫助組織思路，但不應取代自己的思考"
+    ],
+    "punchline": "別讓AI取代你，做自己才是王道",
+    "social_posts": {
+      "threads": "面試中別讓AI取代你！Elastic的招募秘訣大公開\n大家有沒有在面試中使用過AI來幫助自己？\nElastic有一個不同的觀點：他們希望你做自己。\n誠實與真實性是Elastic的核心價值\n如果你使用AI來幫助自己解決挑戰或構建演講，Elastic希望你能夠解釋你的思考過程",
+      "facebook": "面試中別讓AI取代你！Elastic的招募秘訣大公開\nElastic是一家重視AI的公司，但是他們也明白AI的局限性。在面試中，他們不希望你使用AI來造假或取代自己。相反，他們希望你展示自己的真實經驗和技能。分享你的面試經驗，並告訴我們你如何在面試中發揮真實的自己！",
+      "viral_hook": "面試中別讓AI取代你！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltafe75c12a90c4563/6a58ed2442ffaa6a5dbecd9d/header-blog-Elastic’s-guide-to-AI-in-the-interview-process-Blog-r2_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/ai-guidelines-interview-process",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "006",
+    "title": "AI 代碼革命：讓團隊 coding 更上一層樓的秘密武器",
+    "summary": "利用 AI 寫出『好代碼』的標準，讓開發團隊更高效",
+    "content": "<p>你是否曾經想過，如何讓你的開發團隊寫出更好的代碼？現在，有了一種新的方法：利用 AI 代碼工具。這種工具可以幫助團隊寫出高品質的代碼，減少人為錯誤，提高開發效率。</p>    <h2>什麼是 AI 代碼工具？</h2>    <p>AI 代碼工具是一種利用人工智慧技術，幫助開發團隊寫出高品質的代碼的工具。它可以分析團隊的代碼，找出錯誤和改進的地方，並提供相應的建議和解決方案。</p>    <h2>如何使用 AI 代碼工具？</h2>    <p>使用 AI 代碼工具非常簡單。首先，你需要選擇一個適合你的團隊的 AI 代碼工具。然後，你需要設定工具的參數，例如代碼的標準和風格。最後，你可以開始使用工具，讓它幫助你的團隊寫出高品質的代碼。</p>    <h2>編輯悄悄話</h2>    <p>AI 代碼工具是開發團隊的一個很好的幫手。它可以幫助團隊寫出更好的代碼，減少人為錯誤，提高開發效率。所以，如果你想讓你的團隊更強大，別猶豫，試試 AI 代碼工具吧！",
+    "score": 90,
+    "takeaways": [
+      "AI 可以幫助團隊寫出高品質的代碼",
+      "標準化的代碼可以提高開發效率",
+      "AI 代碼工具可以減少人為錯誤"
+    ],
+    "punchline": "AI 代碼，讓團隊更強大",
+    "social_posts": {
+      "threads": "大家好，我想分享一個很棒的工具給你們。它可以幫助開發團隊寫出高品質的代碼，減少人為錯誤，提高開發效率。試試看吧！",
+      "facebook": "讓你的開發團隊更強大！利用 AI 代碼工具，寫出高品質的代碼，減少人為錯誤，提高開發效率。分享給你的朋友吧！",
+      "viral_hook": "你知道嗎？AI 代碼工具可以幫助開發團隊寫出更好的代碼！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802660&idx=1&sn=2b36909c6f4a6d563addd1f7f8c9f266",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "007",
+    "title": "多租戶系統的隱藏陷阱：別讓你的軟體變成『房東』的煩惱",
+    "summary": "多租戶系統是軟體公司的雙面刃，既能降低成本，又可能引發隱私漏洞和效能問題",
+    "content": "<p>多租戶系統是軟體公司的必然選擇，但也是一把『雙面刃』。一方面，它能夠降低軟體維護成本，提高資源利用率；另一方面，它也可能引發隱私漏洞和效能問題。</p>    <h2>什麼是多租戶系統？</h2>    <p>多租戶系統是一種軟體架構，允許多個租戶（客戶）共享同一個系統資源，包括資料庫、伺服器和背景工作。這種架構能夠降低軟體維護成本，提高資源利用率，但也可能引發隱私漏洞和效能問題。</p>    <h2>多租戶系統的挑戰</h2>    <p>多租戶系統的挑戰包括『噪音鄰居』問題、資料漏洞和效能問題。『噪音鄰居』問題是指租戶之間的資源共享可能導致效能問題，影響整個系統的效能。資料漏洞是指租戶的資料可能被其他租戶存取，導致隱私漏洞。效能問題是指系統的效能可能受到租戶的影響，導致整個系統的效能下降。</p>    <h2>編輯悄悄話</h2>    <p>多租戶系統是一把『雙面刃』，需要軟體公司謹慎設計和實施。只有這樣，才能避免『房東』的煩惱，讓軟體公司和租戶都能夠『睡得安心』。</p>",
+    "score": 85,
+    "takeaways": [
+      "多租戶系統能夠降低軟體維護成本，但也可能引發隱私漏洞和效能問題",
+      "租戶之間的資源共享可能導致『噪音鄰居』問題，影響整個系統的效能",
+      "tenant context 是多租戶系統的核心概念，需要在每個層面進行設計和實施"
+    ],
+    "punchline": "多租戶系統：省錢的同時，也可能『省』了你的睡眠",
+    "social_posts": {
+      "threads": "你知道多租戶系統的隱藏陷阱嗎？\n它能夠降低軟體維護成本，但也可能引發隱私漏洞和效能問題\n讓我們一起探討多租戶系統的挑戰和機會",
+      "facebook": "多租戶系統：軟體公司的『雙面刃』\n了解多租戶系統的挑戰和機會，避免『房東』的煩惱\n點擊連結，了解更多",
+      "viral_hook": "多租戶系統：省錢的同時，也可能『省』了你的睡眠"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!RWJE!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb93d50f-61ea-4d58-99b6-b96cae02390e_1325x1534.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/a-guide-to-multi-tenancy-benefits",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "008",
+    "title": "AI 大戰：麥斯克慘敗 OpenAI，Google IO 更新，什麼才是未來的王道？",
+    "summary": "麥斯克對 OpenAI 的訴訟失敗，Google IO 更新 Gemini 對抗 ChatGPT，AI 的未來誰將領跑？",
+    "content": "<p>近期，AI 界發生了多起重大事件。麥斯克對 OpenAI 的訴訟因為遲遲未能提出而失敗，Google IO 更新 Gemini 對抗 ChatGPT 和 Claude，同時 OpenAI 解決了著名的 Erdős 問題。這些事件都指向了 AI 的未來發展方向。</p>    <h2>麥斯克對 OpenAI 的訴訟失敗</h2>    <p>麥斯克對 OpenAI 的訴訟因為遲遲未能提出而失敗。這意味著 OpenAI 將繼續保持其領先地位，麥斯克的野心將暫時受阻。這一結果對於 AI 的發展有著深遠的影響，因為它關係到 AI 的未來所有權和發展方向。</p>    <h2>Google IO 更新 Gemini 對抗 ChatGPT</h2>    <p>Google IO 更新 Gemini 對抗 ChatGPT 和 Claude。這是 Google 對 AI 的重大投入，旨在挑戰 OpenAI 和其他 AI 平台的領先地位。Gemini 的更新將為用戶提供更好的體驗和更強大的功能，進一步加劇 AI 的競爭。</p>    <h2>編輯悄悄話</h2>    <p>AI 大戰正式開始！麥斯克的失敗和 Google 的更新都指向了 AI 的未來發展方向。誰將領跑 AI 的發展？只有時間才能告訴我們。但有一點是肯定的，AI 的未來將會更加精彩和複雜。Stay tuned！",
+    "score": 85,
+    "takeaways": [
+      "麥斯克對 OpenAI 的訴訟因為遲遲未能提出而失敗",
+      "Google IO 更新 Gemini 對抗 ChatGPT 和 Claude",
+      "OpenAI 解決了著名的 Erdős 問題"
+    ],
+    "punchline": "AI 大戰正式開始！",
+    "social_posts": {
+      "threads": "麥斯克對 OpenAI 的訴訟失敗了！\n這意味著什麼？\nAI 的未來誰將領跑？",
+      "facebook": "麥斯克對 OpenAI 的訴訟失敗，Google IO 更新 Gemini 對抗 ChatGPT 和 Claude。AI 的未來發展方向是什麼？分享你的想法！",
+      "viral_hook": "AI 大戰正式開始！麥斯克慘敗 OpenAI，Google IO 更新，什麼才是未來的王道？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "009",
+    "title": "Next.js 正式啟動安全性更新程序！每月一次的安全性釋出，保護您的應用程式",
+    "summary": "Next.js 推出正式的安全性更新程序，每月一次的安全性釋出，讓您可以提前規劃和升級，保護您的應用程式免受漏洞攻擊",
+    "content": "<p>Next.js 是一個流行的開源框架，為了確保其安全性，Next.js 團隊將正式啟動安全性更新程序。</p><h2>什麼是安全性更新程序？</h2><p>安全性更新程序是一種定期的安全性更新機制，旨在保護 Next.js 應用程式免受漏洞攻擊。這個程序將提供每月一次的安全性釋出，讓您可以提前規劃和升級，減少漏洞攻擊的風險。</p><h2>安全性更新程序的好處</h2><p>安全性更新程序可以讓您可以安心打造應用程式，無需擔心漏洞攻擊的風險。此外，安全性更新程序還可以讓您可以提前規劃和升級，減少升級的風險和成本。</p><h2>編輯悄悄話</h2><p>Next.js 的安全性更新程序，讓您可以安心打造應用程式！如果您有任何問題或疑問，請不要猶豫，立即聯繫我們！</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 正式啟動安全性更新程序，提供每月一次的安全性釋出",
+      "安全性更新程序可以讓您提前規劃和升級，減少漏洞攻擊的風險",
+      "Next.js 致力於保護您的應用程式安全，提供快速和有效的安全性更新"
+    ],
+    "punchline": "Next.js 的安全性更新程序，讓您可以安心打造應用程式！",
+    "social_posts": {
+      "threads": "Next.js 的安全性更新程序，讓您可以安心打造應用程式！\n每月一次的安全性釋出，減少漏洞攻擊的風險\n快速和有效的安全性更新，保護您的應用程式\n立即了解更多！",
+      "facebook": "Next.js 推出正式的安全性更新程序！\n每月一次的安全性釋出，讓您可以提前規劃和升級，減少漏洞攻擊的風險\n立即了解更多，並加入我們的安全性更新程序！",
+      "viral_hook": "Next.js 的安全性更新程序，讓您可以安心打造應用程式！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-security-release-program/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-security-release-program",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "010",
+    "title": "谷歌新突破：AI 如何幫助我們戰勝疾病？",
+    "summary": "谷歌DeepMind和Isomorphic Labs攜手合作，開發出新的生物韌性方法，結合AI模型，為我們帶來更好的健康未來",
+    "content": "<p>近年來，AI技術在各個領域都取得了巨大的進步，尤其是在生物學和醫學領域。谷歌DeepMind和Isomorphic Labs最近宣布了一項合作，旨在開發出新的生物韌性方法，結合AI模型，為我們帶來更好的健康未來。</p>    <h2>什麼是生物韌性？</h2>    <p>生物韌性是指生物體對環境變化和壓力的適應能力。這項能力在維持健康和預防疾病方面至關重要。通過結合AI和生物學，谷歌DeepMind和Isomorphic Labs希望能夠更好地理解基因組和疾病的發生機制，從而開發出更有效的治療方法。</p>    <h2>AlphaGenome：AI的力量</h2>    <p>AlphaGenome是一個AI模型，旨在幫助研究人員更好地理解基因組。通過分析大量的基因數據，AlphaGenome可以識別出基因變異和疾病之間的關聯，從而帶來新的治療方法。這項技術在近期的研究中已經取得了巨大的進步，為我們帶來了新的希望。</p>    <h2>編輯悄悄話</h2>    <p>AI時代，健康不再是夢想。谷歌DeepMind和Isomorphic Labs的合作是對我們健康的巨大贊助。讓我們一起期待這項技術的進步，為我們帶來更好的健康未來吧！",
+    "score": 90,
+    "takeaways": [
+      "谷歌新方法結合AI和生物學，為疾病治療帶來革命",
+      "AlphaGenome：AI如何幫助我們更好地理解基因組",
+      "這項突破可能帶來更有效的疾病預防和治療方法"
+    ],
+    "punchline": "AI時代，健康不再是夢想",
+    "social_posts": {
+      "threads": "你知道嗎？谷歌DeepMind和Isomorphic Labs正在合作開發新的生物韌性方法，結合AI模型，為我們帶來更好的健康未來！\n這項技術可以幫助我們更好地理解基因組和疾病的發生機制，從而開發出更有效的治療方法。\n讓我們一起期待這項技術的進步，為我們帶來更好的健康未來吧！",
+      "facebook": "谷歌新突破：AI如何幫助我們戰勝疾病？\n谷歌DeepMind和Isomorphic Labs攜手合作，開發出新的生物韌性方法，結合AI模型，為我們帶來更好的健康未來。\n點擊鏈接，了解更多：[鏈接]",
+      "viral_hook": "AI時代，健康不再是夢想！"
+    },
+    "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "011",
+    "title": "用AI還原古代遺跡？揭開Java 1.5代碼的修復之旅",
+    "summary": "如何將15年前的Java 1.5代碼運行在今天的硬件上？Nik Malykhin的經驗教訓告訴我們，AI可以成為我們的好幫手，但前提是要基於證據和明確的角色",
+    "content": "<p>在軟件開發的世界中，遺跡是指那些已經被遺忘的代碼。Nik Malykhin就面臨著這樣的挑戰，他需要將15年前的Java 1.5代碼運行在今天的硬件上。</p>    <h2>從「觀光客」到「考古學家」</h2>    <p>一開始，Nik使用LLM（Large Language Model）來嘗試修復代碼，但結果並不理想。直到他基於證據和明確的角色來使用AI，才逐漸取得進展。</p>    <p>他使用AI來分析和驗證代碼，然後在一個穩定的Docker環境中進行逐步的重構和測試。這個過程中，AI發揮了重要的作用，但不是代替人工，而是輔助分析和驗證。</p>    <h2>修復的關鍵</h2>    <p>基於證據和明確的角色是AI應用的關鍵。Nik的經驗教訓告訴我們，AI可以成為我們的好幫手，但前提是要基於證據和明確的角色。另外，逐步的現代化策略是成功的關鍵。</p>    <h2>編輯悄悄話</h2>    <p>AI是好幫手，但不能代替腦子。軟件開發需要腦力和創造力，AI只能輔助分析和驗證。所以，下次當你面臨軟件開發的挑戰時，記得基於證據和明確的角色來使用AI，然後你就會發現，AI是你的好幫手，不是你的替代品。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI在軟件開發中的作用是輔助分析和驗證，而不是取代人工",
+      "基於證據和明確的角色是AI應用的關鍵",
+      "逐步的現代化策略是成功的關鍵"
+    ],
+    "punchline": "AI是好幫手，但不能代替腦子",
+    "social_posts": {
+      "threads": "大家好，我想分享一個故事，講述如何將15年前的Java 1.5代碼運行在今天的硬件上。這個故事告訴我們，AI可以成為我們的好幫手，但前提是要基於證據和明確的角色。",
+      "facebook": "軟件開發中的AI應用：基於證據和明確的角色，AI可以成為我們的好幫手，但不能代替腦子。詳細內容請見連結。",
+      "viral_hook": "用AI還原古代遺跡？揭開Java 1.5代碼的修復之旅"
+    },
+    "image": "https://martinfowler.com/articles/archaeologist-copilot/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/archaeologist-copilot.html",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "012",
+    "title": "AI時代的新常態：如何衡量人工智慧的真正價值？",
+    "summary": "OpenAI的CFO Sarah Friar提出了一個實用的AI評分卡，幫助企業衡量AI投資的真實價值，從而更好地發揮AI的作用",
+    "content": "<p>在AI時代，企業如何衡量人工智慧的真正價值？這是一個一直困擾著企業領導者的問題。OpenAI的CFO Sarah Friar提出了一個實用的AI評分卡，幫助企業衡量AI投資的真實價值，從而更好地發揮AI的作用。</p>    <h2>什麼是AI評分卡？</h2>    <p>AI評分卡是一個用於衡量AI投資真實價值的工具。它不僅僅依靠成本的降低，更考慮到AI能夠創造的價值。這個評分卡包括四個關鍵指標：有用工作、成本、可靠性和計算返回率。</p>    <h2>如何使用AI評分卡？</h2>    <p>企業可以通過以下步驟使用AI評分卡：首先，定義什麼是「完成」的含義；然後，衡量這個結果在系統中發生的情況；最後，計算完成這個結果的成本和價值。通過這個評分卡，企業可以更好地了解AI的真實價值，從而做出更好的決策。</p>    <h2>編輯悄悄話</h2>    <p>在AI時代，企業需要一個全面的評分卡來衡量AI的真實價值。這個評分卡不僅僅依靠成本的降低，更考慮到AI能夠創造的價值。通過這個評分卡，企業可以更好地發揮AI的作用，創造更多的價值。",
+    "score": 90,
+    "takeaways": [
+      "AI的價值不僅在於成本的降低，更在於它能夠創造的價值",
+      "企業需要一個全面的評分卡來衡量AI的真實價值",
+      "AI的價值取決於它能夠完成的有用工作，而不是僅僅依靠成本"
+    ],
+    "punchline": "AI的真正價值在於它能夠創造的價值，而不是僅僅依靠成本",
+    "social_posts": {
+      "threads": "你們知道嗎？AI的價值不僅在於成本的降低，更在於它能夠創造的價值！讓我們一起探討如何衡量AI的真實價值！#AI #價值",
+      "facebook": "如何衡量AI的真實價值？OpenAI的CFO Sarah Friar提出了一個實用的AI評分卡，幫助企業衡量AI投資的真實價值。點擊鏈接了解更多！#AI #評分卡",
+      "viral_hook": "AI的真正價值在於它能夠創造的價值，而不是僅僅依靠成本！你們知道嗎？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2AALaD60DKuRkqenMyd9By/02ee9fe9a433a13f51bcb8cff7657d91/Frame-1.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "date": "2026-07-18"
+  }
+]
