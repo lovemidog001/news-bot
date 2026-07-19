@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "用 NVIDIA NeMo Automodel 和 🤗 Diffusers，大規模微調視訊和圖像模型！",
+    "summary": "您想大規模微調視訊和圖像模型嗎？現在有了 NVIDIA NeMo Automodel 和 🤗 Diffusers，您可以輕鬆實現！",
+    "content": "<p>您是否曾經想大規模微調視訊和圖像模型，但又不知道從哪裡開始？現在有了 NVIDIA NeMo Automodel 和 🤗 Diffusers，您可以輕鬆實現這個目標！</p>    <h2>什麼是 NVIDIA NeMo Automodel 和 🤗 Diffusers？</h2>    <p>NVIDIA NeMo Automodel 和 🤗 Diffusers 是兩個強大的工具，分別用於視訊和圖像模型的微調。NVIDIA NeMo Automodel 是一個自動化的視訊模型微調平台，而 🤗 Diffusers 是一個圖像模型微調工具箱。</p>    <h2>如何使用 NVIDIA NeMo Automodel 和 🤗 Diffusers？</h2>    <p>使用 NVIDIA NeMo Automodel 和 🤗 Diffusers 非常簡單。您只需要上傳您的視訊或圖像模型，然後選擇您想要的微調參數，工具就會自動完成微調任務。您可以在短時間內完成大規模的視訊和圖像模型微調任務。</p>    <h2>編輯悄悄話</h2>    <p>大規模微調視訊和圖像模型，一點都不難！只要使用 NVIDIA NeMo Automodel 和 🤗 Diffusers，您就可以輕鬆完成這個任務。不要再猶豫，立即試試看吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "NVIDIA NeMo Automodel 和 🤗 Diffusers 可以大規模微調視訊和圖像模型",
+      "這兩個工具可以幫助您提高視訊和圖像模型的準確性和效率",
+      "通過使用這兩個工具，您可以在短時間內完成大規模的視訊和圖像模型微調任務"
+    ],
+    "punchline": "大規模微調視訊和圖像模型，一點都不難！",
+    "social_posts": {
+      "threads": "大家好！今天我要介紹兩個強大的工具，NVIDIA NeMo Automodel 和 🤗 Diffusers。這兩個工具可以幫助您大規模微調視訊和圖像模型。您想知道更多嗎？",
+      "facebook": "大規模微調視訊和圖像模型是一項艱難的任務，但現在有了 NVIDIA NeMo Automodel 和 🤗 Diffusers，您可以輕鬆完成！點擊連結了解更多：",
+      "viral_hook": "大規模微調視訊和圖像模型，一點都不難！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/67e44a92b96703c8b0e5a805/VGYINP_TZGLSkx2zW8uIa.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "002",
+    "title": "用 Amazon Quick 轉化你的銷售團隊：新世代 AI 助手的力量",
+    "summary": "透過 Amazon Quick，銷售團隊可以節省時間，增加效率，關注真正重要的工作，提升銷售業績",
+    "content": "<p>銷售團隊的工作流程中，總是充滿著繁瑣的行政工作，例如更新 CRM 資料、研究潛在客戶、撰寫郵件等等。這些工作不僅耗時，而且也會分散銷售團隊的注意力，減少他們真正賣出的時間。</p>    <h2>Amazon Quick 的登場</h2>    <p>Amazon Quick 是一款 AI 助手，可以幫助銷售團隊自動化工作流程，讓他們可以更有效地優先處理潛在客戶，增加銷售機會。透過 Quick，銷售團隊可以將更多的時間投入到真正重要的工作中，例如建立客戶關係、提供解決方案等等。</p>    <h2>Quick 的功能</h2>    <p>Quick 可以與現有的 CRM 系統整合，提供更完整的客戶資料和銷售分析。透過 Quick，銷售團隊可以自動化地優先處理潛在客戶，根據客戶的行為和需求，提供更有針對性的銷售方案。</p>    <p>例如，銷售團隊可以使用 Quick 的聊天機器人功能，自動化地與潛在客戶進行溝通，提供更快捷和有效的客戶服務。另外，Quick 也可以幫助銷售團隊自動化地更新 CRM 資料，減少手動輸入的工作量和錯誤率。</p>    <h2>編輯悄悄話</h2>    <p>如果你還在為銷售團隊的工作流程感到煩惱，不妨試試 Amazon Quick 吧。它可以幫助你節省時間，增加效率，關注真正重要的工作，提升銷售業績。讓 AI 助手替你做繁瑣工作，讓你專注於銷售吧！",
+    "score": 90,
+    "takeaways": [
+      "Amazon Quick 是一款 AI 助手，可以幫助銷售團隊自動化工作流程",
+      "透過 Quick，銷售團隊可以更有效地優先處理潛在客戶，增加銷售機會",
+      "Quick 可以與現有的 CRM 系統整合，提供更完整的客戶資料和銷售分析"
+    ],
+    "punchline": "讓 AI 助手替你做繁瑣工作，讓你專注於銷售",
+    "social_posts": {
+      "threads": "你是否厭倦了繁瑣的銷售工作？\n讓 Amazon Quick 幫助你自動化工作流程，增加效率，提升銷售業績！\n#AmazonQuick #銷售團隊 #自動化",
+      "facebook": "提升銷售業績，從 Amazon Quick開始！\n透過 Quick 的 AI 助手功能，自動化工作流程，增加效率，關注真正重要的工作。點擊連結了解更多：[連結]",
+      "viral_hook": "讓 AI 助手替你做繁瑣工作，讓你專注於銷售！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/17/ml-20807-1.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/transform-your-sales-organization-with-amazon-quick-your-new-agentic-ai-teammate/",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "003",
+    "title": "揭開 Meta 廣告的深層優化秘密：層次式興趣代表法",
+    "summary": "Meta 研究了一種新的廣告優化技術，叫做層次式興趣代表法，旨在改善用戶與廣告之間的連結，提高廣告的相關性和效果",
+    "content": "<p>你是否曾經感到廣告總是跟不上你的興趣？Meta 的研究團隊發現了一種新的技術，叫做層次式興趣代表法，旨在改善用戶與廣告之間的連結，提高廣告的相關性和效果。</p>    <h2>什麼是層次式興趣代表法？</h2>    <p>層次式興趣代表法是一種新的廣告優化技術，它可以將用戶的興趣和偏好與廣告進行匹配，提高廣告的相關性和效果。這種技術使用了一種特殊的算法，叫做圖神經網絡，來學習用戶的興趣和偏好，並將其與廣告進行匹配。</p>    <h2>如何工作？</h2>    <p>層次式興趣代表法的工作原理是將用戶的興趣和偏好進行分類和匹配，然後將其與廣告進行匹配。這種技術可以提高用戶與廣告之間的連結和相關性，從而提高廣告的效果。</p>    <h2>編輯悄悄話</h2>    <p>層次式興趣代表法是一種革命性的廣告優化技術，它可以改善用戶與廣告之間的連結和相關性。這種技術的出現，將會對廣告業產生深遠的影響，讓廣告更懂你，讓你看到更相關的廣告。</p>",
+    "score": 90,
+    "takeaways": [
+      "層次式興趣代表法是一種新的廣告優化技術",
+      "它可以提高用戶與廣告之間的連結和相關性",
+      "這種技術可以改善 Meta 廣告的深層優化"
+    ],
+    "punchline": "讓廣告更懂你",
+    "social_posts": {
+      "threads": "你是否曾經感到廣告總是跟不上你的興趣？#Meta #廣告優化 #層次式興趣代表法",
+      "facebook": "Meta 研究了一種新的廣告優化技術，叫做層次式興趣代表法，旨在改善用戶與廣告之間的連結，提高廣告的相關性和效果。#廣告優化 #Meta",
+      "viral_hook": "讓廣告更懂你"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "004",
+    "title": "Azure Databricks 如何幫你公司節省大錢？",
+    "summary": "Azure Databricks 是由 Microsoft 和 Databricks 共同打造的原生 Azure 服務，能夠為企業帶來真實的商業價值",
+    "content": "<p>Azure Databricks 是什麼？其實就是由 Microsoft 和 Databricks 共同打造的原生 Azure 服務，能夠為企業帶來真實的商業價值。</p>    <h2>什麼是 Azure Databricks?</h2>    <p>Azure Databricks 是一種基於雲端的數據分析平台，能夠幫助企業快速、簡單地處理大量數據。它由 Microsoft 和 Databricks 共同打造，具有原生 Azure 服務的優勢。</p>    <h2>為什麼選擇 Azure Databricks?</h2>    <p>Azure Databricks 能夠幫助企業節省成本、提高效率和簡化數據分析流程。它與 Microsoft 工具、身份和治理無縫整合，能夠讓企業輕鬆地將數據分析整合到現有的系統中。</p>    <h2>編輯悄悄話</h2>    <p>其實，選擇 Azure Databricks 最大的好處就是能夠讓數據分析更簡單、更便宜。這樣，企業就可以專注於真正重要的事情：創造商業價值！</p>",
+    "score": 85,
+    "takeaways": [
+      "Azure Databricks 能夠幫助企業節省成本",
+      "Azure Databricks 與 Microsoft 工具、身份和治理無縫整合",
+      "Azure Databricks 是企業數據分析的最佳選擇"
+    ],
+    "punchline": "讓數據分析更簡單、更便宜",
+    "social_posts": {
+      "threads": "大家有沒有聽過 Azure Databricks？其實它是由 Microsoft 和 Databricks 共同打造的原生 Azure 服務，能夠幫助企業節省成本和提高效率。讓我來告訴你它的優點吧！",
+      "facebook": "Azure Databricks 是基於雲端的數據分析平台，能夠幫助企業快速、簡單地處理大量數據。它與 Microsoft 工具、身份和治理無縫整合，能夠讓企業輕鬆地將數據分析整合到現有的系統中。了解更多：https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
+      "viral_hook": "讓數據分析更簡單、更便宜！"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "005",
+    "title": "Elastic 招聘秘密：別讓 AI 把你淘汰！",
+    "summary": "Elastic 公司強調誠實和人性化的招聘過程，警告不要使用 AI 來虛假經歷和技能，否則可能導致淘汰或終止合約。",
+    "content": "<p>你是否曾經在求職過程中使用 AI 來幫助你撰寫履歷或面試準備？Elastic 公司最近發表了一篇文章，強調誠實和人性化的招聘過程的重要性。</p>    <h2>為什麼誠實如此重要？</h2>    <p>Elastic 公司認為，使用 AI 來虛假經歷和技能不僅是違反公司價值觀，也可能導致求職者被淘汰或終止合約。公司希望求職者展現真實的自己和經歷，而不是使用 AI 來創造一個虛假的形象。</p>    <h2>如何在求職過程中展現真實的自己？</h2>    <p>Elastic 公司鼓勵求職者展現真實的自己和經歷，例如分享自己的經歷、技能和解決挑戰的方法。公司也會使用 AI 監控工具來確保求職者不使用技術來欺騙或取得不公平的優勢。</p>    <p>因此，如果你正在尋找一份工作，記得要展現真實的自己和經歷，別讓 AI 把你淘汰！</p>    <h2>編輯悄悄話</h2>    <p>最後，誠實是王道，別讓 AI 把你淘汰！記得要展現真實的自己和經歷，才能在求職過程中取得成功。</p>",
+    "score": 90,
+    "takeaways": [
+      "Elastic 公司重視誠實和人性化的招聘過程",
+      "使用 AI 來虛假經歷和技能可能導致淘汰或終止合約",
+      "公司鼓勵求職者展現真實的自己和經歷"
+    ],
+    "punchline": "誠實是王道，別讓 AI 把你淘汰！",
+    "social_posts": {
+      "threads": "你是否曾經在求職過程中使用 AI 來幫助你撰寫履歷或面試準備？\nElastic 公司強調誠實和人性化的招聘過程的重要性，警告不要使用 AI 來虛假經歷和技能，否則可能導致淘汰或終止合約。\n#Elastic #招聘 #AI",
+      "facebook": "Elastic 公司強調誠實和人性化的招聘過程的重要性，警告不要使用 AI 來虛假經歷和技能，否則可能導致淘汰或終止合約。點擊連結了解更多！",
+      "viral_hook": "別讓 AI 把你淘汰！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltafe75c12a90c4563/6a58ed2442ffaa6a5dbecd9d/header-blog-Elastic’s-guide-to-AI-in-the-interview-process-Blog-r2_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/ai-guidelines-interview-process",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "006",
+    "title": "腾讯智慧新革命！三款具身智能基座模型震撼問世",
+    "summary": "腾讯一口氣推出三大具身基座模型，讓智慧生活更進一步",
+    "content": "<p>腾讯近日发布了多款具身智能基座模型，成果已进入真实生产场景，讓我們的生活變得更加智慧便捷。</p>    <h2>什麼是具身智能基座模型?</h2>    <p>具身智能基座模型是一種結合了人工智慧和物联网技術的新型智慧產品，能夠實現智能化的控制和管理，讓我們的生活變得更加便捷和高效。</p>    <h2>腾讯的智慧新革命</h2>    <p>腾讯的具身智能基座模型是其智慧新革命的重要組成部分，旨在打造一個更加智慧和便捷的生活體驗。這些模型能夠應用於各個領域，包括家居、醫療、交通等，讓我們的生活變得更加美好。</p>    <h2>編輯悄悄話</h2>    <p>智慧生活新時代來了！腾讯的具身智能基座模型讓我們看到了未來的可能性，讓我們一起期待這個智慧新革命的到來吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "腾讯发布三大具身智能基座模型",
+      "智能体技术进入真实生产场景",
+      "钛螺丝平台迎来全面升级"
+    ],
+    "punchline": "智慧生活新時代來了！",
+    "social_posts": {
+      "threads": "腾讯智慧新革命！三款具身智能基座模型震撼問世\n讓我們的生活變得更加智慧便捷\n智慧生活新時代來了！",
+      "facebook": "腾讯发布多款具身智能基座模型，讓智慧生活更進一步！\n點擊鏈接了解更多：[鏈接]\n一起期待這個智慧新革命的到來吧！",
+      "viral_hook": "智慧生活新時代來了！腾讯的具身智能基座模型讓我們看到了未來的可能性"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802692&idx=1&sn=8c5db3c47928f6353929767373052e81",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "007",
+    "title": "揭開 AI 代溝通的秘密：MCP、A2A 和 ACP 的區別",
+    "summary": "AI 代溝通是未來的趨勢，但你知道 MCP、A2A 和 ACP 的區別嗎？了解這三種溝通方式，讓你的 AI 系統變得更加強大",
+    "content": "<p>AI 代溝通是未來的趨勢，但你知道 MCP、A2A 和 ACP 的區別嗎？了解這三種溝通方式，讓你的 AI 系統變得更加強大</p>    <h2>什麼是 MCP、A2A 和 ACP</h2>    <p>MCP 是 agent 到 tool 的溝通方式，A2A 是 agent 到 agent 的溝通方式，ACP 是 agent 到 agent 的溝通方式，使用 RESTful API</p>    <h2>如何選擇合適的溝通方式</h2>    <p>選擇合適的溝通方式，需要考慮你的 AI 系統的需求和目標，MCP、A2A 和 ACP 各有其優缺點，需要根據實際情況進行選擇</p>    <h2>編輯悄悄話</h2>    <p>AI 代溝通是未來的趨勢，不要落後，了解 MCP、A2A 和 ACP 的區別，讓你的 AI 系統變得更加強大</p>",
+    "score": 90,
+    "takeaways": [
+      "MCP 是 agent 到 tool 的溝通方式",
+      "A2A 是 agent 到 agent 的溝通方式",
+      "ACP 是 agent 到 agent 的溝通方式，使用 RESTful API"
+    ],
+    "punchline": "AI 代溝通是未來的趨勢",
+    "social_posts": {
+      "threads": "你知道 MCP、A2A 和 ACP 的區別嗎？了解這三種溝通方式，讓你的 AI 系統變得更加強大",
+      "facebook": "AI 代溝通是未來的趨勢，不要落後，了解 MCP、A2A 和 ACP 的區別，讓你的 AI 系統變得更加強大",
+      "viral_hook": "AI 代溝通的秘密終於被揭開"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!lpxK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9fb99a2-ec71-476d-a9cb-6c1a43339d90_2484x3002.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "008",
+    "title": "AI 大戰：馬斯克慘輸150億美元官司，OpenAI 成為新任王者？",
+    "summary": "馬斯克與 OpenAI 的世紀大戰落幕，結果出人意料！馬斯克慘輸150億美元官司，Google 也加入戰局，AI 的未來會如何演變？",
+    "content": "<p>近期，AI 的發展日新月異，各大巨頭都在搶佔這個市場。最近，馬斯克與 OpenAI 的世紀大戰落幕，結果出人意料！</p>    <h2>馬斯克慘輸150億美元官司</h2>    <p>馬斯克與 OpenAI 的官司結果已經出來，馬斯克慘輸150億美元。這個結果對於馬斯克來說，是一個重大的打擊。馬斯克曾經指控 OpenAI 的創始人 Sam Altman「偷竊」了一個非營利組織，但是在審判中，法官認為馬斯克等待太久才提出訴訟，因此敗訴。</p>    <h2>Google 加入戰局</h2>    <p>Google 也加入了 AI 的戰局，最近更新了 Gemini App，將挑戰 ChatGPT 和 Claude。Google 的目標是要成為 AI 的領導者，為用戶提供更好的服務。同時，OpenAI 也解決了 Erdős 這個數學問題，證明了其強大的計算能力。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來會如何演變？誰會是最後的贏家？這些問題還需要時間來回答。但是，可以肯定的是，AI 的發展將會帶來更多的機會和挑戰。讓我們繼續關注這個領域的發展，探索 AI 的無限可能！</p>",
+    "score": 90,
+    "takeaways": [
+      "馬斯克與 OpenAI 的官司結果：馬斯克慘輸150億美元",
+      "Google Gemini App 將挑戰 ChatGPT 和 Claude",
+      "OpenAI 解決了 Erdős 這個數學問題"
+    ],
+    "punchline": "AI 大戰開始了，誰會是最後的贏家？",
+    "social_posts": {
+      "threads": "你們有沒有注意到 AI 的發展速度？馬斯克與 OpenAI 的官司結果出來了，結果出人意料！馬斯克慘輸150億美元，Google 也加入戰局了，AI 的未來會如何演變？",
+      "facebook": "AI 大戰開始了，誰會是最後的贏家？馬斯克與 OpenAI 的世紀大戰落幕，結果出人意料！馬斯克慘輸150億美元，Google 也加入戰局了。讓我們繼續關注這個領域的發展，探索 AI 的無限可能！",
+      "viral_hook": "馬斯克慘輸150億美元官司，AI 大戰開始了！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "009",
+    "title": "Next.js 正式啟動安全性更新程序，讓你的網站更安全！",
+    "summary": "Next.js 推出新的安全性更新程序，讓開發者可以提前得知更新內容，規劃升級，保護網站安全。",
+    "content": "<p>Next.js 是一個流行的 React 框架，為了確保用戶的安全性，Next.js 團隊一直致力於投資安全性。近期，Next.js 團隊宣布正式啟動安全性更新程序，以確保用戶的網站安全性。</p>    <h2>什麼是安全性更新程序？</h2>    <p>安全性更新程序是一個規劃好的更新過程，讓開發者可以提前得知更新內容，規劃升級，保護網站安全。這個程序將包括高風險和中風險漏洞的修復，讓用戶可以安心使用 Next.js。</p>    <h2>如何參與安全性更新程序？</h2>    <p>如果你是 Next.js 的用戶，你可以參與安全性更新程序，通過在 Next.js 博客上關注安全性更新公告。每月，Next.js 團隊將發布安全性更新公告，讓開發者可以提前規劃升級，保護網站安全。</p>    <h2>編輯悄悄話</h2>    <p>安全性是網站的生命線，Next.js 團隊的安全性更新程序是個好消息。讓我們一起努力，保護網站安全，讓用戶可以安心使用 Next.js。</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 正式啟動安全性更新程序",
+      "每月將發布安全性更新公告，讓開發者可以提前規劃",
+      "安全性更新程序將包括高風險和中風險漏洞的修復"
+    ],
+    "punchline": "Next.js 正式啟動安全性更新程序，讓你的網站更安全！",
+    "social_posts": {
+      "threads": "Next.js 正式啟動安全性更新程序，讓你的網站更安全！\n每月將發布安全性更新公告，讓開發者可以提前規劃\n安全性更新程序將包括高風險和中風險漏洞的修復",
+      "facebook": "Next.js 正式啟動安全性更新程序，讓你的網站更安全！請關注 Next.js 博客，了解最新的安全性更新公告。",
+      "viral_hook": "Next.js 的安全性更新程序來了！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-security-release-program/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-security-release-program",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "010",
+    "title": "Google DeepMind最新研究：AI如何幫助我們征服基因組?",
+    "summary": "Google DeepMind和Isomorphic Labs合作，開發出新的AI模型，讓我們更好地了解基因組，迎接生物韌性挑戰",
+    "content": "<p>你是否曾想過，基因組是如何影響我們的健康和生活？現在，Google DeepMind和Isomorphic Labs合作，開發出新的AI模型，讓我們更好地了解基因組，迎接生物韌性挑戰。</p>    <h2>什麼是生物韌性?</h2>    <p>生物韌性是指生物體對環境變化和壓力的反應能力。它包括基因組、表觀基因組和代謝物等多個層面。通過研究生物韌性，我們可以更好地了解疾病的發生和發展，從而找到新的治療方法。</p>    <h2>AI如何幫助我們了解基因組?</h2>    <p>AI模型可以幫助我們分析基因組數據，找出基因變異和疾病的關聯。通過AlphaGenome等AI模型，我們可以更好地了解基因組的功能和結構，從而開發出新的治療方法。</p>    <h2>編輯悄悄話</h2>    <p>現在，AI和生物韌性研究的合作是未來醫學研究的重要方向。讓我們一起期待這個合作的成果，和未來醫學研究的新突破吧!</p>",
+    "score": 90,
+    "takeaways": [
+      "AI模型可以幫助我們更好地了解基因組",
+      "生物韌性是未來醫學研究的重要方向",
+      "Google DeepMind和Isomorphic Labs的合作是生物韌性研究的重要里程碑"
+    ],
+    "punchline": "AI改變基因組，迎接生物韌性挑戰",
+    "social_posts": {
+      "threads": "你知道嗎？Google DeepMind和Isomorphic Labs合作，開發出新的AI模型，讓我們更好地了解基因組，迎接生物韌性挑戰\n這個合作是生物韌性研究的重要里程碑\n讓我們一起期待這個合作的成果，和未來醫學研究的新突破吧!",
+      "facebook": "Google DeepMind和Isomorphic Labs合作，開發出新的AI模型，讓我們更好地了解基因組，迎接生物韌性挑戰。這個合作是生物韌性研究的重要里程碑。讓我們一起期待這個合作的成果，和未來醫學研究的新突破吧！",
+      "viral_hook": "AI改變基因組，迎接生物韌性挑戰，你準備好了嗎？"
+    },
+    "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "011",
+    "title": "用AI重建古代遺跡？別被「假裝懂」給騙了！",
+    "summary": "Nik Malykhin 如何利用AI成功重建Java 1.5的古代遺跡？答案就在於把AI當成分析工具，而不是神奇的解決方案",
+    "content": "<p>你是否曾經面臨過類似的挑戰：如何將過時的程式碼重建到最新的環境中？Nik Malykhin 就是這樣做的，他利用AI成功重建了Java 1.5的古代遺跡。但是，他並不是單靠AI的力量完成的。</p>    <h2>分析和證據</h2>    <p>Nik Malykhin 首先利用AI進行分析，但是他很快發現AI的回答並不總是正確的。於是，他將AI當成分析工具，而不是神奇的解決方案。他利用證據和清晰的角色來約束AI的回答，從而得到了正確的結果。</p>    <h2>逐步的現代化策略</h2>    <p>Nik Malykhin 的成功在於他採用了逐步的現代化策略。他先將程式碼重建到Java 8的環境中，然後逐步優化和重構程式碼。這個過程中，他利用AI進行分析和驗證，但是他並不依賴AI的力量。</p>    <h2>編輯悄悄話</h2>    <p>所以，下次你面臨類似的挑戰時，記得把AI當成分析工具，而不是神奇的解決方案。並且，別忘了逐步的現代化策略和證據的重要性。這樣，你就能成功重建你的古代遺跡了！",
+    "score": 90,
+    "takeaways": [
+      "AI最有用是在證據和清晰角色下",
+      "逐步的現代化策略是成功的關鍵",
+      "別被「假裝懂」的AI回答所迷惑"
+    ],
+    "punchline": "AI不是萬能的解決方案",
+    "social_posts": {
+      "threads": "你是否曾經面臨過類似的挑戰？\n如何將過時的程式碼重建到最新的環境中？\n答案就在於把AI當成分析工具，而不是神奇的解決方案\n#AI #程式碼 #重建",
+      "facebook": "Nik Malykhin 如何利用AI成功重建Java 1.5的古代遺跡？答案就在於把AI當成分析工具，而不是神奇的解決方案。逐步的現代化策略和證據的重要性也是成功的關鍵。#AI #程式碼 #重建",
+      "viral_hook": "用AI重建古代遺跡？別被「假裝懂」給騙了！"
+    },
+    "image": "https://martinfowler.com/articles/archaeologist-copilot/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/archaeologist-copilot.html",
+    "date": "2026-07-19"
+  },
+  {
+    "id": "012",
+    "title": "AI 成本效益大揭密！ Useful Intelligence per Dollar 是新時代的關鍵指標",
+    "summary": "想要從 AI 投資中獲得更高的價值？了解 Useful Intelligence per Dollar 這個新時代的關鍵指標，才能真正提升你的 AI 成本效益！",
+    "content": "<p>想要從 AI 投資中獲得更高的價值？了解 Useful Intelligence per Dollar 這個新時代的關鍵指標，才能真正提升你的 AI 成本效益！</p><h2> Useful Intelligence per Dollar 是什麼？</h2><p> Useful Intelligence per Dollar 是一個衡量 AI 成本效益的新指標，它考慮了 AI 完成工作的價值、成本和可靠性。這個指標可以幫助企業優化 AI 投資和提高成本效益。</p><h2>如何使用 Useful Intelligence per Dollar？</h2><p>使用 Useful Intelligence per Dollar 的第一步是定義什麼是「完成工作」。例如，對於客戶服務團隊，「完成工作」可能是解決客戶問題；對於工程團隊，「完成工作」可能是完成代碼變更。然後，企業需要衡量完成工作的成本，包括 AI 計算成本、員工時間成本和人工審查成本。最後，企業需要計算 Useful Intelligence per Dollar 的值，從而評估 AI 投資的成本效益。</p><h2>編輯悄悄話</h2><p> Useful Intelligence per Dollar 是 AI 成本效益的新標準！企業需要了解這個指標，才能真正提升 AI 投資的價值。記住， Useful Intelligence per Dollar 不僅僅是衡量 AI 成本的指標，更是企業優化 AI 投資和提高成本效益的關鍵！</p>",
+    "score": 85,
+    "takeaways": [
+      " Useful Intelligence per Dollar 是一個衡量 AI 成本效益的新指標",
+      "它考慮了 AI 完成工作的價值、成本和可靠性",
+      "使用這個指標可以幫助企業優化 AI 投資和提高成本效益"
+    ],
+    "punchline": "Useful Intelligence per Dollar 是 AI 成本效益的新標準！",
+    "social_posts": {
+      "threads": "你知道 Useful Intelligence per Dollar 是什麼嗎？這個新時代的關鍵指標可以幫助企業優化 AI 投資和提高成本效益！",
+      "facebook": "想要從 AI 投資中獲得更高的價值？了解 Useful Intelligence per Dollar 這個新時代的關鍵指標，才能真正提升你的 AI 成本效益！",
+      "viral_hook": " Useful Intelligence per Dollar 是 AI 成本效益的新標準！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2AALaD60DKuRkqenMyd9By/02ee9fe9a433a13f51bcb8cff7657d91/Frame-1.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+    "date": "2026-07-19"
+  }
+]
