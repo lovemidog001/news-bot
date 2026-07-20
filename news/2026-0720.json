@@ -284,5 +284,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
     "date": "2026-07-20"
+  },
+  {
+    "id": "014",
+    "title": "用AI讓軟體開發變得輕鬆得多？這一個技巧讓你94%的工作量瞬間消失！",
+    "summary": "想像一下，你可以用一個技巧就讓軟體開發的工作量減少94%，這聽起來像科幻小說，但現在已經成真了。",
+    "content": "<p>軟體開發一直是一個複雜和耗時的工作，但是現在有一項新的技術可以讓這個工作變得更加輕鬆。這項技術就是AI代碼生成技術，它可以讓你用一個Skill就跑通整個需求開發流程。</p>    <h2>什麼是AI代碼生成技術？</h2>    <p>AI代碼生成技術是一種使用人工智慧來生成軟體代碼的技術。它可以根據你的需求和要求，自動生成相應的代碼，從而節省你的時間和精力。</p>    <h2>如何使用AI代碼生成技術？</h2>    <p>使用AI代碼生成技術非常簡單，你只需要定義你的需求和要求，然後使用一個Skill就可以跑通整個需求開發流程。這項技術可以讓你節省90%的工作量，讓你可以專注於更重要的工作。</p>    <h2>編輯悄悄話</h2>    <p>這項技術對軟體開發業的未來有著深遠的影響，它可以讓軟體開發變得更加快速和高效。但是，我們也需要注意這項技術的局限性和風險，才能真正發揮它的作用。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI代碼生成技術可以大幅減少軟體開發的工作量",
+      "使用一個Skill就可以跑通整個需求開發流程",
+      "這項技術對軟體開發業的未來有著深遠的影響"
+    ],
+    "punchline": "讓AI幫你做90%的工作，節省你的時間和精力!",
+    "social_posts": {
+      "threads": "大家好，我今天要跟你們分享一項非常酷的技術！\n這項技術可以讓軟體開發變得更加輕鬆和高效。\n你們有興趣嗎？",
+      "facebook": "軟體開發變得更加輕鬆和高效的方法！使用AI代碼生成技術，你可以節省90%的工作量，讓你可以專注於更重要的工作。分享給你的朋友吧！",
+      "viral_hook": "用AI讓軟體開發變得輕鬆得多？這是一個讓你94%的工作量瞬間消失的技巧！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802727&idx=1&sn=631188a7c6711314ff2febbe5cb721e5",
+    "date": "2026-07-20"
+  },
+  {
+    "id": "015",
+    "title": "Google Cloud最新消息：Resource-Based CUD Sharing、Webinar、AI Agent Clinic等",
+    "summary": "Google Cloud最近发布了一系列更新，包括Resource-Based CUD Sharing、Webinar、AI Agent Clinic等。这些更新旨在帮助用户更好地使用Google Cloud的服务，特别是在AI和机器学习方面。",
+    "content": "<h2>Google Cloud最新消息</h2><p>Google Cloud最近发布了一系列更新，包括Resource-Based CUD Sharing、Webinar、AI Agent Clinic等。这些更新旨在帮助用户更好地使用Google Cloud的服务，特别是在AI和机器学习方面。</p><h2>Resource-Based CUD Sharing</h2><p>Resource-Based CUD Sharing现在默认启用，帮助用户最大化储蓄。用户可以通过启用CUD Sharing来共享其资源，减少浪费并提高效率。</p><h2>Webinar</h2><p>Webinar将举办，讨论Google Cloud for EdTech、API Horizon Munich等主题。这些Webinar将帮助用户更好地了解Google Cloud的服务和功能。</p><h2>AI Agent Clinic</h2><p>AI Agent Clinic将举办，讨论如何优化AI代理。这些clinic将帮助用户更好地理解AI代理的工作原理和优化方法。</p><h2>编辑悄悄话</h2><p>Google Cloud的更新表明其对用户的重视和对服务的不断改进。这些更新将帮助用户更好地使用Google Cloud的服务，特别是在AI和机器学习方面。</p>",
+    "score": 90,
+    "takeaways": [
+      "Resource-Based CUD Sharing现在默认启用，帮助用户最大化储蓄",
+      "Webinar将举办，讨论Google Cloud for EdTech、API Horizon Munich等主题",
+      "AI Agent Clinic将举办，讨论如何优化AI代理"
+    ],
+    "punchline": "Google Cloud持续更新，帮助用户更好地使用其服务",
+    "social_posts": {
+      "threads": "Google Cloud最新消息！\n\nResource-Based CUD Sharing、Webinar、AI Agent Clinic等更新！\n\n了解更多：[链接]",
+      "facebook": "Google Cloud最新消息！\n\nResource-Based CUD Sharing、Webinar、AI Agent Clinic等更新！\n\n了解更多：[链接]\n\n分享给你的朋友们！",
+      "viral_hook": "Google Cloud最新消息！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/whats_new_2026_CfhxFWX.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/inside-google-cloud/whats-new-google-cloud/",
+    "date": "2026-07-20"
   }
 ]
