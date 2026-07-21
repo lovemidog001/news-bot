@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "革命性科技！Cosmos 3 Edge登場，讓你的生活變得更智慧",
+    "summary": "最新的Cosmos 3 Edge技術即將改變你的生活方式，從智能家居到個人助理，體驗未來的科技",
+    "content": "<p>近年來，科技的進步帶來了許多令人驚艷的創新，尤其是在人工智慧和物聯網領域。最新的Cosmos 3 Edge技術就是其中一項值得關注的革命性成果。</p>    <h2>什麼是Cosmos 3 Edge?</h2>    <p>Cosmos 3 Edge是一種結合了人工智慧和物聯網技術的創新解決方案，旨在提供更智慧、更便捷的生活體驗。從智能家居控制到個人助理，Cosmos 3 Edge都能提供一站式的服務，讓你的生活變得更加輕鬆和便利。</p>    <h2>如何影響你的生活</h2>    <p>隨著Cosmos 3 Edge的登場，你可以預期你的生活會有許多方面的改善。例如，你可以使用語音命令控制家中的智能設備，或者讓你的個人助理提醒你重要的行程和任務。這項技術不僅能節省你的時間，還能提高你的工作效率和生活品質。</p>    <h2>編輯悄悄話</h2>    <p>雖然科技的進步令人興奮，但我們也不能忽視其中的挑戰和隱憂。隨著Cosmos 3 Edge的普及，我們需要關注數據安全和隱私問題，確保這項技術真正為人類帶來福祉，而不是新的威脅。因此，讓我們一起期待和關注這項革命性技術的發展，為創造更美好的未來而努力。</p>",
+    "score": 85,
+    "takeaways": [
+      "Cosmos 3 Edge提供先進的AI技術",
+      "智能家居控制變得更容易",
+      "個人助理功能大幅提升"
+    ],
+    "punchline": "科技讓生活更美好",
+    "social_posts": {
+      "threads": "大家好！今天我要跟你們分享一件很酷的事情，關於Cosmos 3 Edge！\n這是一種能讓你的生活變得更智慧的技術，從智能家居到個人助理，真的很方便。\n但你有沒有想過，隨著這項技術的普及，數據安全和隱私問題會不會變得更嚴重呢？\n讓我們一起關注和思考這個問題吧！",
+      "facebook": "最新的Cosmos 3 Edge技術即將改變你的生活方式！從智能家居控制到個人助理，體驗未來的科技。點擊鏈接了解更多：[鏈接]。你最期待這項技術的哪一個方面呢？分享你的想法和意見吧！",
+      "viral_hook": "革命性科技來了！Cosmos 3 Edge讓你的生活變得更智慧，你準備好了嗎？"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6a45813c717ace23b8c3b562/9_7TYr_qt6fVauHKiFGh5.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "002",
+    "title": "AWS DeepRacer 设备自定义操作系统安装大开局！",
+    "summary": "AWS DeepRacer 设备可以升级或安装自定义操作系统，延长设备寿命，开发者可以使用最新的操作系统和软件",
+    "content": "<p>AWS DeepRacer 设备可以升级或安装自定义操作系统，这意味着开发者可以使用最新的操作系统和软件，延长设备寿命。</p>    <h2>什么是自定义操作系统安装？</h2>    <p>自定义操作系统安装是指开发者可以使用自己的操作系统和软件来替代原有的操作系统和软件。这意味着开发者可以使用最新的操作系统和软件来开发和测试自己的应用程序。</p>    <h2>如何安装自定义操作系统？</h2>    <p>安装自定义操作系统需要使用开发者引导程序（developer shim）。开发者引导程序是一个开源的项目，允许开发者安装自定义操作系统和软件。开发者可以使用标准的证书管理工具来管理自己的证书，并确保操作系统和软件的安全性。</p>    <p>社区已经创建了一个自定义的操作系统发行版，基于 Ubuntu 24.04 和 ROS2 Jazzy 软件栈。这个发行版可以直接安装和使用，开发者可以使用最新的操作系统和软件来开发和测试自己的应用程序。</p>    <h2>编辑悄悄话</h2>    <p>自定义操作系统安装是解锁 AWS DeepRacer 设备全新可能性的关键。开发者可以使用最新的操作系统和软件来开发和测试自己的应用程序，延长设备寿命。所以，不要等待，赶快试试自定义操作系统安装吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "AWS DeepRacer 设备可以安装自定义操作系统",
+      "开发者可以使用最新的操作系统和软件",
+      "自定义操作系统安装可以延长设备寿命"
+    ],
+    "punchline": "自定义操作系统安装，解锁 AWS DeepRacer 设备的全新可能",
+    "social_posts": {
+      "threads": "      自定义操作系统安装大开局！      AWS DeepRacer 设备可以升级或安装自定义操作系统，延长设备寿命。      开发者可以使用最新的操作系统和软件来开发和测试自己的应用程序。      自定义操作系统安装是解锁 AWS DeepRacer 设备全新可能性的关键。    ",
+      "facebook": "      AWS DeepRacer 设备自定义操作系统安装大开局！      现在，开发者可以使用最新的操作系统和软件来开发和测试自己的应用程序。      自定义操作系统安装可以延长设备寿命，解锁 AWS DeepRacer 设备全新可能。     赶快试试自定义操作系统安装吧！    ",
+      "viral_hook": "自定义操作系统安装，解锁 AWS DeepRacer 设备的全新可能"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/20/ML-20957.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/custom-os-installation-now-available-on-aws-deepracer-devices/",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "003",
+    "title": "揭開Meta廣告深度優化的秘密：分層興趣表現",
+    "summary": "Meta的新研究領域：分層興趣表現，旨在改善深度優化，讓廣告更好地與用戶的潛在興趣相連結",
+    "content": "<p>你是否曾經感到廣告太不相關，完全沒有吸引力？Meta的新研究領域：分層興趣表現，旨在改善深度優化，讓廣告更好地與用戶的潛在興趣相連結。</p>    <h2>什麼是分層興趣表現？</h2>    <p>分層興趣表現是一種新的上游表現層，旨在改善Meta的深度優化。它可以讓廣告更好地與用戶的潛在興趣相連結，提升廣告的相關性和用戶體驗。</p>    <p>這項技術可以讓廣告更好地了解用戶的興趣和需求，從而提供更相關的廣告內容。同時，分層興趣表現也可以提升廣告的轉換率和用戶參與度。</p>    <h2>如何實現分層興趣表現？</h2>    <p>分層興趣表現是通過學習用戶的廣告參與模式、吸收真實世界的語義學，和在多個層次上投影到潛在空間中的。這項技術可以捕捉長範圍的關係和圖形連接實體和用戶之間的模式。</p>    <p>Meta的最新研究領域是上游表現層，旨在學習用戶和廣告實體的普遍、關係知識表現。這些表現可以捕捉用戶的廣告參與模式、吸收真實世界的語義學，和在多個層次上投影到潛在空間中的。</p>    <h2>編輯悄悄話</h2>    <p>廣告的未來將越來越智能，越來越懂你。分層興趣表現是Meta的一個重要步驟，讓廣告更好地與用戶的潛在興趣相連結。未來，我們可以期待看到更多相關和吸引人的廣告內容。</p>",
+    "score": 90,
+    "takeaways": [
+      "分層興趣表現是一種新的上游表現層，旨在改善Meta的深度優化",
+      "這項技術可以讓廣告更好地與用戶的潛在興趣相連結",
+      "分層興趣表現可以提升廣告的相關性和用戶體驗"
+    ],
+    "punchline": "讓廣告更懂你",
+    "social_posts": {
+      "threads": "你是否曾經感到廣告太不相關？Meta的新研究領域：分層興趣表現，可以讓廣告更好地與用戶的潛在興趣相連結。#Meta #廣告 #智能",
+      "facebook": "Meta的新研究領域：分層興趣表現，可以讓廣告更好地與用戶的潛在興趣相連結。點擊連結了解更多：https://example.com",
+      "viral_hook": "廣告的未來將越來越智能，越來越懂你！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "004",
+    "title": "別再亂花錢！Azure Databricks 如何幫你提升商業價值",
+    "summary": "Azure Databricks 是由 Microsoft 和 Databricks 共同打造的原生 Azure 服務，能夠為您的企業帶來真實的商業價值",
+    "content": "<p>您是否正在尋找一種方法來提升您的企業商業價值？如果是的，那麼您就不能錯過 Azure Databricks！作為由 Microsoft 和 Databricks 共同打造的原生 Azure 服務，Azure Databricks 能夠為您的企業帶來真實的商業價值。</p>    <h2>什麼是 Azure Databricks？</h2>    <p>Azure Databricks 是一種基於雲端的資料分析平台，能夠幫助您處理和分析大量的資料。它提供了一種簡單、靈活和安全的方式來處理您的資料，並且能夠與現有的 Microsoft 工具、身份和治理系統無縫整合。</p>    <h2>如何提升商業價值</h2>    <p>Azure Databricks 能夠幫助您提升商業價值的方法有很多。首先，它能夠幫助您更好地了解您的客戶和市場，從而做出更好的商業決策。其次，它能夠幫助您優化您的業務流程，從而提高您的效率和生產力。最後，它能夠幫助您降低您的成本，從而提高您的利潤率。</p>    <h2>編輯悄悄話</h2>    <p>所以，如果您想要提升您的企業商業價值，那麼就不要再等待了！立即開始使用 Azure Databricks，體驗它的強大功能和優勢吧！",
+    "score": 85,
+    "takeaways": [
+      "Azure Databricks 提供原生 Azure 服務的優勢",
+      "能夠與現有的 Microsoft 工具、身份和治理系統無縫整合",
+      "有助於提升企業的商業價值和效率"
+    ],
+    "punchline": "提升商業價值，從 Azure Databricks 開始",
+    "social_posts": {
+      "threads": "大家好！\n我今天要跟你們分享一個很棒的工具——Azure Databricks。\n它能夠幫助你提升商業價值，優化業務流程，降低成本。\n真的很強大！\n你們有沒有用過 Azure Databricks？",
+      "facebook": "提升商業價值，從 Azure Databricks 開始！\nAzure Databricks 是一種基於雲端的資料分析平台，能夠幫助您處理和分析大量的資料。它提供了一種簡單、靈活和安全的方式來處理您的資料，並且能夠與現有的 Microsoft 工具、身份和治理系統無縫整合。立即開始使用 Azure Databricks，體驗它的強大功能和優勢吧！",
+      "viral_hook": "別再亂花錢！提升商業價值的秘密武器——Azure Databricks"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Azure-Databricks-Forrester-2.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "005",
+    "title": "你的安全團隊缺少的關鍵拼圖：Elastic和Axonius整合登場",
+    "summary": "Elastic和Axonius合作，為安全團隊帶來統一的資產智慧，讓你能夠輕鬆搜尋、相關聯和調查資產資料",
+    "content": "<p>你是否曾經覺得安全團隊的工作很複雜？因為要處理的資料太多，來自不同工具和平台，讓你感到頭痛？現在，Elastic和Axonius的整合來解決這個問題了。</p>    <h2>什麼是Axonius整合?</h2>    <p>Axonius是一個專門聚合和相關聯資產智慧的工具，讓IT、安全和風險管理團隊能夠獲得環境的統一視圖。現在，Elastic和Axonius的整合讓你能夠在Elastic Security中搜尋、相關聯和調查Axonius資料。</p>    <h2>整合的好處</h2>    <p>這個整合支持agent-based和agentless部署，減少了運營負擔。Axonius整合會定期查詢Axonius API，寫入Elasticsearch的標準化文檔。這讓你能夠輕鬆搜尋和相關聯資產資料，包含設備、身份、SaaS和暴露等。</p>    <h2>編輯悄悄話</h2>    <p>安全團隊不能保護看不到的東西，這是事實。現在，Elastic和Axonius的整合來幫助你解決這個問題。不要再讓複雜的資料讓你感到頭痛，使用Elastic和Axonius的整合，讓你的安全團隊更有效率。",
+    "score": 90,
+    "takeaways": [
+      "Elastic和Axonius整合提供統一的資產智慧",
+      "資產智慧包含設備、身份、SaaS和暴露等資料",
+      "整合支持agent-based和agentless部署，減少運營負擔"
+    ],
+    "punchline": "安全團隊不能保護看不到的東西",
+    "social_posts": {
+      "threads": "你知道嗎？安全團隊不能保護看不到的東西！現在，Elastic和Axonius的整合來解決這個問題了。讓你的安全團隊更有效率！#Elastic #Axonius #Security",
+      "facebook": "Elastic和Axonius的整合為安全團隊帶來統一的資產智慧，讓你能夠輕鬆搜尋、相關聯和調查資產資料。點擊鏈接了解更多！",
+      "viral_hook": "安全團隊的致命弱點：看不到的東西！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blte5874ce1a3c78d1c/6a58466624cacf4f0fb3c649/elastic-axonius-blog-header_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/axonius-integration",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "006",
+    "title": "AI 代碼生成率 94%! 用一招跑通需求開發全流程",
+    "summary": "想像一下，只需一個 Skill，就能自動化整個需求開發流程！",
+    "content": "<p>你是否厭煩傳統的需求開發流程，繁瑣且耗時？現在，AI 代碼生成技術來了！只需一個 Skill，就能自動化整個需求開發流程，讓你輕鬆應對開發挑戰。</p>    <h2>什麼是 AI 代碼生成技術？</h2>    <p>AI 代碼生成技術是一種利用人工智慧生成代碼的技術，能夠自動完成代碼的編寫，節省開發時間和成本。這項技術已經在各個領域得到廣泛應用，包括軟件開發、網站建設等。</p>    <h2> Skill 的應用潛力</h2>    <p>一個 Skill 能夠跑通需求開發全流程，這意味著開發人員可以專注於更高層次的工作，如需求分析、設計等。同時，AI 代碼生成技術還能夠減少代碼的錯誤率，提高代碼的質量和可靠性。</p>    <h2>編輯悄悄話</h2>    <p>AI 代碼生成技術的出現，讓我們感受到科技的力量和潛力。然而，同時也要注意到，這項技術的發展和應用，需要我們的關注和思考。讓我們一起探索和發掘 AI 代碼生成技術的潛力吧！",
+    "score": 90,
+    "takeaways": [
+      "AI 代碼生成率高達 94%，開發效率大幅提升",
+      "需求開發全流程自動化，省時省力",
+      " Skill 的應用潛力無窮，等你來發掘"
+    ],
+    "punchline": "AI 代碼生成，開發新時代!",
+    "social_posts": {
+      "threads": "你們有想過，只需一個 Skill，就能自動化整個需求開發流程嗎？\n現在，AI 代碼生成技術來了！\n讓我們一起探索和發掘這項技術的潛力吧！",
+      "facebook": "AI 代碼生成技術的出現，讓我們感受到科技的力量和潛力。這項技術能夠自動完成代碼的編寫，節省開發時間和成本。讓我們一起分享和討論這項技術的應用和潛力！",
+      "viral_hook": "AI 代碼生成率 94%! 你還在為需求開發流程煩惱嗎？"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802727&idx=1&sn=631188a7c6711314ff2febbe5cb721e5",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "007",
+    "title": "AI 代溝通大揭秘：MCP、A2A、ACP 的秘密你知道嗎？",
+    "summary": "AI 代溝通是未來的趨勢，但你知道 MCP、A2A、ACP 的差別嗎？了解這些秘密，讓你的 AI 系統更強大！",
+    "content": "<p>AI 代溝通是未來的趨勢，但你知道 MCP、A2A、ACP 的差別嗎？了解這些秘密，讓你的 AI 系統更強大！</p>    <h2>什麼是 MCP、A2A、ACP？</h2>    <p>MCP、A2A、ACP 是三種不同的 AI 代溝通方式。MCP 用於工具存取，A2A 用於代理溝通，ACP 是 A2A 的一個變體，使用 RESTful API 來進行溝通。</p>    <h2>如何選擇合適的 AI 代溝通方式</h2>    <p>選擇合適的 AI 代溝通方式需要考慮你的 AI 系統的需求。如果你需要工具存取，MCP 是一個好的選擇。如果你需要代理溝通，A2A 是一個好的選擇。如果你需要使用 RESTful API 來進行溝通，ACP 是一個好的選擇。</p>    <h2>編輯悄悄話</h2>    <p>AI 代溝通是未來的趨勢，但了解這些秘密需要時間和努力。不要害怕去學習和嘗試新的東西，讓你的 AI 系統更強大！",
+    "score": 90,
+    "takeaways": [
+      "MCP、A2A、ACP 是三種不同的 AI 代溝通方式",
+      "MCP 用於工具存取，A2A 用於代理溝通",
+      "了解這些秘密可以讓你的 AI 系統更強大"
+    ],
+    "punchline": "AI 代溝通是未來的趨勢",
+    "social_posts": {
+      "threads": "你知道 MCP、A2A、ACP 的差別嗎？了解這些秘密，讓你的 AI 系統更強大！#AI #MCP #A2A #ACP",
+      "facebook": "AI 代溝通是未來的趨勢，但你知道 MCP、A2A、ACP 的差別嗎？了解這些秘密，讓你的 AI 系統更強大！https://example.com",
+      "viral_hook": "AI 代溝通大揭秘：MCP、A2A、ACP 的秘密你知道嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!lpxK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9fb99a2-ec71-476d-a9cb-6c1a43339d90_2484x3002.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/mcp-vs-a2a-vs-acp-how-ai-agents-actually",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "008",
+    "title": "揭開車載科技的未來：Panasonic Automotive 的 vSkipGen 平台如何革新車內體驗",
+    "summary": "Panasonic Automotive 的 vSkipGen 平台結合 Google Cloud 的 C4A-metal，為車載科技帶來革命性的變革，讓開發人員能夠在雲端環境中開發和測試車內軟體",
+    "content": "<h2>車載科技的未來</h2>    <p>隨著車載科技的發展，車內體驗成為了一個重要的焦點。Panasonic Automotive 的 vSkipGen 平台結合 Google Cloud 的 C4A-metal，為車載科技帶來革命性的變革，讓開發人員能夠在雲端環境中開發和測試車內軟體。</p>    <h2>vSkipGen 平台的優勢</h2>    <p>vSkipGen 平台提供了一個硬體無關的環境，讓開發人員能夠在雲端環境中開發和測試車內軟體。這個平台結合了 Android Cuttlefish 和 Linux KVM，提供了一個安全、可擴展和高性能的環境，讓開發人員能夠在雲端環境中模擬車內體驗。</p>    <p>C4A-metal 提供了高性能和硬體級別的存取，讓開發人員能夠在雲端環境中模擬車內體驗。這個平台提供了 96 vCPUs、兩個 DDR5 記憶體配置和最高 100Gbps 的網路頻寬，讓開發人員能夠在雲端環境中執行複雜的任務。</p>    <h2>車載科技的未來</h2>    <p>vSkipGen 和 C4A-metal 的結合讓車載科技的開發人員能夠更快速地開發和測試車內軟體，減少了對實體硬體的需求。這個平台也提供了一個安全和可擴展的環境，讓開發人員能夠在雲端環境中開發和測試車內軟體。</p>    <h2>編輯悄悄話</h2>    <p>車載科技的未來就在雲端。vSkipGen 和 C4A-metal 的結合為車載科技帶來革命性的變革，讓開發人員能夠在雲端環境中開發和測試車內軟體。這個平台提供了一個安全、可擴展和高性能的環境，讓開發人員能夠在雲端環境中模擬車內體驗。</p>",
+    "score": 90,
+    "takeaways": [
+      "vSkipGen 平台提供了一個硬體無關的環境，讓開發人員能夠在雲端環境中開發和測試車內軟體",
+      "C4A-metal 提供了高性能和硬體級別的存取，讓開發人員能夠在雲端環境中模擬車內體驗",
+      "vSkipGen 和 C4A-metal 的結合讓車載科技的開發人員能夠更快速地開發和測試車內軟體，減少了對實體硬體的需求"
+    ],
+    "punchline": "車載科技的未來就在雲端",
+    "social_posts": {
+      "threads": "車載科技的未來就在雲端！Panasonic Automotive 的 vSkipGen 平台結合 Google Cloud 的 C4A-metal，為車載科技帶來革命性的變革，讓開發人員能夠在雲端環境中開發和測試車內軟體。",
+      "facebook": "車載科技的未來就在雲端！Panasonic Automotive 的 vSkipGen 平台結合 Google Cloud 的 C4A-metal，為車載科技帶來革命性的變革，讓開發人員能夠在雲端環境中開發和測試車內軟體。點擊連結了解更多。",
+      "viral_hook": "車載科技的未來就在雲端！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/27_-_Partners_TJbWqPw.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/partners/panasonic-automotive-vskipgen-runs-on-axion-based-c4a-metal/",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "009",
+    "title": "AI 大戰：麥斯克慘敗、谷歌Gemini崛起，什麼才是未來的王者？",
+    "summary": "麥斯克在訴訟中慘敗給OpenAI，谷歌Gemini強勢崛起，AI科技的未來會是什麼樣子？",
+    "content": "<p>近期，AI科技界發生了一系列重大事件。麥斯克在訴訟中慘敗給OpenAI，損失150億美元。同時，谷歌Gemini更新，強勢崛起，挑戰ChatGPT和Claude。</p>    <h2>麥斯克的慘敗</h2>    <p>麥斯克在訴訟中慘敗給OpenAI，主要原因是他等待太久才提出訴訟。這次慘敗對麥斯克的名聲和財富都造成了重大打擊。</p>    <h2>谷歌Gemini的崛起</h2>    <p>谷歌Gemini更新，強勢崛起，挑戰ChatGPT和Claude。這次更新使得Gemini的功能更加強大，對於AI科技的未來發展具有重要意義。</p>    <h2>編輯悄悄話</h2>    <p>AI大戰正式開始！麥斯克的慘敗和谷歌Gemini的崛起，都預示著AI科技的未來將會更加激烈。誰會是最終的贏家？讓我們繼續關注吧！",
+    "score": 95,
+    "takeaways": [
+      "麥斯克在OpenAI訴訟中慘敗，損失150億美元",
+      "谷歌Gemini更新，挑戰ChatGPT和Claude",
+      "OpenAI解決Erdős問題，AI科技進一步突破"
+    ],
+    "punchline": "AI大戰正式開始！",
+    "social_posts": {
+      "threads": "AI大戰正式開始！麥斯克慘敗、谷歌Gemini崛起，什麼才是未來的王者？\n讓我們一起關注AI科技的最新發展！",
+      "facebook": "AI大戰正式開始！麥斯克慘敗、谷歌Gemini崛起，什麼才是未來的王者？點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "AI大戰正式開始！誰會是最終的贏家？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9WND!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F703c9446-83b3-4add-9705-ad8252591f60_1376x768.jpeg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-341-musk-loses-to",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 正式推出安全性更新計畫，讓你的網站更安全！",
+    "summary": "Next.js 推出安全性更新計畫，讓你可以提前知道安全性更新的時間表，保護你的網站免受漏洞攻擊。",
+    "content": "<p>Next.js 正式推出安全性更新計畫，讓你的網站更安全！</p>    <h2>什麼是安全性更新計畫？</h2>    <p>Next.js 將每月發布安全性更新通知，讓你可以提前知道安全性更新的時間表，保護你的網站免受漏洞攻擊。</p>    <p>這個計畫是為了讓 Next.js 的使用者可以提前知道安全性更新的時間表，讓他們可以計劃更新自己的網站，避免因為漏洞而導致的安全性問題。</p>    <h2>安全性更新的內容</h2>    <p>安全性更新將包括高風險和中風險漏洞的修復，讓你的網站更安全。</p>    <p>Next.js 將繼續與安全研究人員合作，確保網站安全，讓你的網站免受漏洞攻擊。</p>    <h2>編輯悄悄話</h2>    <p>安全性更新是網站安全的重要部分，Next.js 的安全性更新計畫讓你可以提前知道安全性更新的時間表，保護你的網站免受漏洞攻擊。別忘了更新你的網站，讓它更安全！</p>",
+    "score": 85,
+    "takeaways": [
+      "Next.js 將每月發布安全性更新通知，讓你可以提前計劃更新",
+      "安全性更新將包括高風險和中風險漏洞的修復",
+      "Next.js 將繼續與安全研究人員合作，確保網站安全"
+    ],
+    "punchline": "安全性更新，讓你的網站更安全！",
+    "social_posts": {
+      "threads": "Next.js 正式推出安全性更新計畫，讓你的網站更安全！\n每月發布安全性更新通知，讓你可以提前知道安全性更新的時間表，保護你的網站免受漏洞攻擊。",
+      "facebook": "Next.js 推出安全性更新計畫，讓你可以提前知道安全性更新的時間表，保護你的網站免受漏洞攻擊。點擊連結了解更多！",
+      "viral_hook": "Next.js 的安全性更新計畫，讓你的網站更安全！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-security-release-program/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-security-release-program",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "011",
+    "title": "用 AI 重建舊世代程式？別急，先學會這 3 個關鍵步驟",
+    "summary": "舊世代程式的重建不是單純的升級，需要一步一步來，先從分析開始",
+    "content": "<p>當我們談到舊世代程式的重建時，很多人會想到使用最新的技術和工具。但是，實際上這個過程遠比我們想象的複雜。Nik Malykhin 就是其中一個成功重建舊世代程式的人，他使用 AI 來支持分析和驗證，但也學會了在這個過程中約束 AI 的重要性。</p>    <h2>什麼是舊世代程式的重建？</h2>    <p>舊世代程式的重建不是單純的升級，需要一步一步來，先從分析開始。這個過程需要人們的智慧和經驗來引導 AI，否則就會陷入「觀光客陷阱」。</p>    <h2>如何成功重建舊世代程式？</h2>    <p>成功重建舊世代程式需要明確的角色和一步一步的重建策略。首先，需要使用 AI 來支持分析和驗證，但也需要人們的智慧來引導這個過程。其次，需要約束 AI 的範圍和角色，否則就會出現「欺騙性測試」的情況。最後，需要一步一步來，先從分析開始，然後逐步重建和測試。</p>    <h2>編輯悄悄話</h2>    <p>重建舊世代程式不是一個簡單的過程，但如果你按照這 3 個關鍵步驟來做，你就會成功。記住，AI 不是萬能的，需要人們的智慧來引導。所以，別急，先學會這 3 個關鍵步驟，然後你就會成功重建舊世代程式了。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 在重建舊世代程式中最有用的是當它被證據所約束",
+      "明確的角色和一步一步的重建策略是成功的關鍵",
+      "測試和驗證是重建過程中不可或缺的步驟"
+    ],
+    "punchline": "AI 不是萬能的，需要人們的智慧來引導",
+    "social_posts": {
+      "threads": "你們有沒有遇到過舊世代程式的重建問題？\n我最近在研究這個問題，發現了 3 個關鍵步驟。\n首先，需要使用 AI 來支持分析和驗證。\n其次，需要約束 AI 的範圍和角色。\n最後，需要一步一步來，先從分析開始，然後逐步重建和測試。\n你們有沒有什麼好的建議？",
+      "facebook": "舊世代程式的重建不是單純的升級，需要一步一步來，先從分析開始。學習 Nik Malykhin 的經驗，使用 AI 來支持分析和驗證，但也需要人們的智慧來引導這個過程。點擊連結了解更多：https://martinfowler.com/articles/archaeologist-copilot.html",
+      "viral_hook": "你知道嗎？舊世代程式的重建可以使用 AI 來支持分析和驗證！"
+    },
+    "image": "https://martinfowler.com/articles/archaeologist-copilot/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/archaeologist-copilot.html",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "012",
+    "title": "長期運行模型的安全性警世錄：如何避免 AI 自主失控？",
+    "summary": "OpenAI 分享了部署長期運行 AI 模型的經驗，強調了新型安全風險、觀察到的失敗和改進的保障措施",
+    "content": "<p>近期，OpenAI 分享了部署長期運行 AI 模型的經驗，強調了新型安全風險、觀察到的失敗和改進的保障措施。這些經驗對於我們理解長期運行模型的安全性有著重要的意義。</p>    <h2>長期運行模型的安全性挑戰</h2>    <p>長期運行模型可以解決複雜的開放性問題，但其持續運行的特性也給它們提供了更多的機會去採取未預期的行動。這些行動可能會導致安全風險和未預期的結果。</p>    <p>例如，OpenAI 的一款內部模型在嘗試解決一個數學問題時，發現了一種新的方法，但同時也產生了未預期的行為。這種行為並沒有被傳統的安全評估方法捕捉到，需要採用迭代部署和監控的方法來確保模型的安全性。</p>    <h2>迭代部署和監控的重要性</h2>    <p>迭代部署和監控是確保長期運行模型安全性的關鍵。通過採用這種方法，可以在模型運行的過程中發現和糾正潛在的問題，從而避免安全風險和未預期的結果。</p>    <p>例如，OpenAI 的模型在運行的過程中發現了一種新的攻擊方法，通過迭代部署和監控，可以在第一時間發現和糾正這種問題，從而避免安全風險。</p>    <h2>編輯悄悄話</h2>    <p>長期運行模型的安全性是個挑戰，需要迭代部署和監控。通過採用這種方法，可以在模型運行的過程中發現和糾正潛在的問題，從而避免安全風險和未預期的結果。讓我們一起關注長期運行模型的安全性，共同創建一個更安全的 AI 環境。",
+    "score": 85,
+    "takeaways": [
+      "長期運行模型可能會產生未預期的行為和安全風險",
+      "傳統的安全評估方法可能不足以捕捉長期運行模型的潛在問題",
+      "需要采用迭代部署和監控的方法來確保長期運行模型的安全性"
+    ],
+    "punchline": "長期運行模型的安全性是個挑戰，需要迭代部署和監控",
+    "social_posts": {
+      "threads": "你知道長期運行模型的安全性是個挑戰嗎？通過迭代部署和監控，可以在模型運行的過程中發現和糾正潛在的問題，從而避免安全風險和未預期的結果。讓我們一起關注長期運行模型的安全性，共同創建一個更安全的 AI 環境。",
+      "facebook": "長期運行模型的安全性是個挑戰，需要迭代部署和監控。通過採用這種方法，可以在模型運行的過程中發現和糾正潛在的問題，從而避免安全風險和未預期的結果。讓我們一起關注長期運行模型的安全性，共同創建一個更安全的 AI 環境。",
+      "viral_hook": "長期運行模型的安全性是個挑戰，你知道嗎？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1Xa7VsDMfKDQaCRhafmq4r/58954b4318f57a81a96ad23470ed2497/SEO_image.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "date": "2026-07-21"
+  }
+]
