@@ -262,5 +262,93 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/safety-alignment-long-horizon-models",
     "date": "2026-07-21"
+  },
+  {
+    "id": "013",
+    "title": "機器人末日近了？Grabette系統讓機器人學習變得更容易！",
+    "summary": "Grabette是一個開源系統，讓機器人可以記錄和學習操作數據，未來可能讓機器人變得更智能化",
+    "content": "<p>Grabette是一個開源系統，讓機器人可以記錄和學習操作數據。這個系統可以讓機器人變得更智能化和自動化，讓它們可以在各種領域中發揮作用。</p>    <h2>什麼是Grabette？</h2>    <p>Grabette是一個開源系統，讓機器人可以記錄和學習操作數據。它可以讓機器人變得更智能化和自動化，讓它們可以在各種領域中發揮作用。例如，在製造業中，Grabette可以讓機器人學習如何操作和組裝零件，讓生產過程變得更高效和準確。</p>    <h2>Grabette的優點</h2>    <p>Grabette有很多優點，包括可以讓機器人變得更智能化和自動化，讓它們可以在各種領域中發揮作用。另外，Grabette也是開源系統，讓開發者可以自由地修改和擴充它。</p>    <h2>編輯悄悄話</h2>    <p>雖然Grabette讓機器人變得更智能化和自動化，但也讓我們不禁思考，未來機器人會不會取代人類的工作？還是會讓我們的生活變得更方便和便利？無論如何，Grabette是一個非常有趣和值得關注的技術。</p>",
+    "score": 85,
+    "takeaways": [
+      "Grabette系統可以記錄機器人操作數據",
+      "讓機器人可以學習和改善操作技能",
+      "未來可能讓機器人變得更智能化和自動化"
+    ],
+    "punchline": "機器人末日近了？",
+    "social_posts": {
+      "threads": "你們有沒有想過，機器人會不會取代人類的工作？\nGrabette是一個開源系統，讓機器人可以記錄和學習操作數據。\n未來可能讓機器人變得更智能化和自動化...\n但也讓我們不禁思考，未來機器人會不會取代人類的工作？",
+      "facebook": "Grabette是一個開源系統，讓機器人可以記錄和學習操作數據。這個系統可以讓機器人變得更智能化和自動化，讓它們可以在各種領域中發揮作用。例如，在製造業中，Grabette可以讓機器人學習如何操作和組裝零件，讓生產過程變得更高效和準確。分享你的想法和意見！",
+      "viral_hook": "機器人末日近了？"
+    },
+    "image": "https://huggingface.co/blog/assets/grabette/thumbnail_grabette.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/grabette",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "014",
+    "title": "從 Vibe Coding 到 AI 原生研發團隊：終於有一套能落地的工程實踐了！",
+    "summary": "AI 寫個人玩具項目很順手，但落到真實業務里就是另一回事了，現在終於有解決方案了！",
+    "content": "<p>你是否曾經試過使用 AI 寫程式，感受到它的強大？但是，當你想要將它應用到真實的業務中時，卻發現這是兩回事。現在，有一套能落地的工程實踐，讓你能夠將 AI 的力量發揮出來。</p>    <h2>從 Vibe Coding 到 AI 原生研發團隊</h2>    <p>Vibe Coding 是一種新的程式設計方法，利用 AI 的力量來幫助開發者更快速、更有效地完成項目。現在，AI 原生研發團隊的概念誕生了，讓開發者能夠將 AI 的力量發揮出來，創造出更高質量的項目。</p>    <h2>工程實踐的關鍵要素</h2>    <ul>      <li>AI 的選擇：如何選擇適合的 AI 技術和工具</li>      <li>團隊合作：如何讓開發者和 AI 工具之間進行有效的合作</li>      <li>項目管理：如何將 AI 的力量發揮出來，創造出更高質量的項目</li>    </ul>    <h2>編輯悄悄話</h2>    <p>現在，AI 不再是神話，現在是實踐的時候了！如果你想要將 AI 的力量發揮出來，創造出更高質量的項目，現在就是開始的時候了。不要等待，立即行動吧！",
+    "score": 90,
+    "takeaways": [
+      "AI 原生研發團隊的優勢",
+      "如何將 Vibe Coding 融入實際項目",
+      "工程實踐的關鍵要素"
+    ],
+    "punchline": "AI 不再是神話，現在是實踐的時候了！",
+    "social_posts": {
+      "threads": "大家有沒有試過使用 AI 寫程式？\n我最近發現了一套能落地的工程實踐，讓我能夠將 AI 的力量發揮出來。\n現在，AI 不再是神話，現在是實踐的時候了！",
+      "facebook": "從 Vibe Coding 到 AI 原生研發團隊：終於有一套能落地的工程實踐了！了解如何將 AI 的力量發揮出來，創造出更高質量的項目。",
+      "viral_hook": "AI 不再是神話，現在是實踐的時候了！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802812&idx=1&sn=732df4944b3cb1543cc4cfe666e6f47a",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "015",
+    "title": "AI 新世代！GPT-5.6、Grok 4.5 等你來體驗！",
+    "summary": "最新的 AI 模型 GPT-5.6 和 Grok 4.5 相繼推出，開啟了 AI 的新時代！了解這些新技術對你的影響，和我們一起探索 AI 的未來！",
+    "content": "<h2>AI 新世代的到來</h2>    <p>最新的 AI 模型 GPT-5.6 和 Grok 4.5 相繼推出，開啟了 AI 的新時代！這些新技術具有更高的智能和學習能力，可以幫助人們解決更多複雜的問題。</p>    <p>但是，新的 AI 模型也帶來了新的挑戰和風險。例如，如何確保 AI 的安全和可靠性，如何避免 AI 導致的失業和社會不公等問題。</p>    <h2>AI 的未來發展趨勢</h2>    <p>根據專家的預測，AI 的未來發展趨勢將是更加智能和人性化。AI 將被應用於更多的領域，例如醫療、教育和交通等。</p>    <p>但是，AI 的發展也需要更多的投資和研究。政府和企業需要共同努力，推動 AI 的發展和應用，同時也需要關注 AI 導致的風險和挑戰。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來已經來臨！我們需要更加關注 AI 的發展和應用，同時也需要關注 AI 導致的風險和挑戰。讓我們一起探索 AI 的未來，創造一個更加智能和美好的世界！",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6 和 Grok 4.5 是什麼，和之前的 AI 模型有什麼不同",
+      "最新的 AI 模型如何影響你的工作和生活",
+      "AI 的未來發展趨勢和潛在風險"
+    ],
+    "punchline": "AI 的未來已經來臨！",
+    "social_posts": {
+      "threads": "      AI 新世代的到來！最新的 AI 模型 GPT-5.6 和 Grok 4.5 相繼推出，開啟了 AI 的新時代！      但是，新的 AI 模型也帶來了新的挑戰和風險。如何確保 AI 的安全和可靠性，如何避免 AI 導致的失業和社會不公等問題。      讓我們一起探索 AI 的未來，創造一個更加智能和美好的世界！    ",
+      "facebook": "      AI 新世代的到來！最新的 AI 模型 GPT-5.6 和 Grok 4.5 相繼推出，開啟了 AI 的新時代！      想了解更多關於 AI 的未來發展趨勢和潛在風險嗎？點擊鏈接查看詳細內容！    ",
+      "viral_hook": "AI 的未來已經來臨！"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "date": "2026-07-21"
+  },
+  {
+    "id": "016",
+    "title": "人工智慧解開基因密碼！Google DeepMind最新研究成果",
+    "summary": "Google DeepMind和Isomorphic Labs攜手合作，開發出人工智慧模型來提升基因研究，讓我們更好地理解基因密碼",
+    "content": "<p>近年來，基因研究的進展迅速，人工智慧的應用也越來越廣泛。Google DeepMind和Isomorphic Labs的合作是基因研究的一個重要里程碑。</p>    <h2>AlphaGenome：基因研究的新突破</h2>    <p>AlphaGenome是一個基於人工智慧的基因研究平台，旨在提升基因研究的效率和準確性。該平台使用人工智慧模型來分析基因數據，從而更好地理解基因密碼。</p>    <h2>基因研究的未來發展方向</h2>    <p>基因研究的未來發展方向包括基因編輯、基因治療等。人工智慧的應用將在這些領域中發揮重要作用，讓我們更好地理解基因密碼，從而開發出新的治療方法。</p>    <h2>編輯悄悄話</h2>    <p>基因密碼即將被解開，人類的未來將會更加光明！但同時，我們也需要考慮基因研究的倫理問題，確保基因研究的成果能夠造福人類。",
+    "score": 90,
+    "takeaways": [
+      "基因研究的新突破：AlphaGenome",
+      "人工智慧在基因研究中的應用",
+      "基因研究的未來發展方向"
+    ],
+    "punchline": "基因密碼即將被解開！",
+    "social_posts": {
+      "threads": "你們知道嗎？Google DeepMind和Isomorphic Labs的合作正在改變基因研究的面貌！\nAlphaGenome是一個基於人工智慧的基因研究平台，旨在提升基因研究的效率和準確性。\n基因研究的未來發展方向包括基因編輯、基因治療等，人工智慧的應用將在這些領域中發揮重要作用。",
+      "facebook": "基因研究的新突破！Google DeepMind和Isomorphic Labs的合作正在改變基因研究的面貌。點擊連結了解更多：https://example.com",
+      "viral_hook": "基因密碼即將被解開！"
+    },
+    "image": "https://lh3.googleusercontent.com/ZRyQg91pjea8kXXaGSlnZIJF90-VwnKHSBxo22e2RedCvCCszsurR8W9NHw80e1V6HtWXccbU1MI27Rtjjf963rD673XgkWK7cZe_1ekfruPgdHHVEc=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "date": "2026-07-21"
   }
 ]
