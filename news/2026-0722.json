@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "AI 模擬革命：你想像不到的未來",
+    "summary": "最新的 AI 模擬技術正在改變我們對於物理世界的認知，讓我們可以模擬出更加真實的環境和情境，對科學研究和實際應用有著巨大的影響",
+    "content": "<p>近年來，AI 模擬技術的發展迅速，讓我們可以模擬出更加真實的環境和情境。這項技術對科學研究和實際應用有著巨大的影響，讓我們可以更好地了解和控制物理世界。</p>    <h2>什麼是 AI 模擬技術？</h2>    <p>AI 模擬技術是一種利用人工智慧算法模擬出真實的物理環境和情境的技術。這項技術可以模擬出從簡單的物體運動到複雜的天氣系統等各種物理現象，讓我們可以更好地了解和控制物理世界。</p>    <h2>AI 模擬技術的應用</h2>    <p>AI 模擬技術的應用非常廣泛，包括科學研究、工程設計、醫學研究等各個領域。例如，在科學研究中，AI 模擬技術可以模擬出真實的天氣系統和地震等自然現象，讓我們可以更好地了解和預測這些現象。在工程設計中，AI 模擬技術可以模擬出真實的結構和材料等各種物理特性，讓我們可以設計出更加安全和高效的結構。</p>    <h2>編輯悄悄話</h2>    <p>AI 模擬技術的發展，讓我們可以更好地了解和控制物理世界。但是，這項技術的發展也帶來了新的挑戰和問題。如何利用這項技術，讓我們的生活更加美好和安全呢？這是值得我們思考和探討的問題。",
+    "score": 90,
+    "takeaways": [
+      "AI 模擬技術可以模擬出真實的物理環境",
+      "模擬技術對科學研究和實際應用有著巨大的影響",
+      "未來的模擬技術將更加真實和複雜"
+    ],
+    "punchline": "AI 模擬，讓未來更真實",
+    "social_posts": {
+      "threads": "你們有沒有想過，未來的世界會是什麼樣子？\n以現在的科技發展，未來的世界可能會更加科幻化。\n例如，AI 模擬技術的發展，讓我們可以模擬出更加真實的環境和情境。\n這項技術對科學研究和實際應用有著巨大的影響，讓我們可以更好地了解和控制物理世界。",
+      "facebook": "最新的 AI 模擬技術正在改變我們對於物理世界的認知，讓我們可以模擬出更加真實的環境和情境。這項技術對科學研究和實際應用有著巨大的影響，對科學家、工程師和醫學研究人員等各個領域的專業人士都有著重要的意義。讓我們一起探討這項技術的發展和應用！",
+      "viral_hook": "AI 模擬讓未來更真實，你準備好了嗎？"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6994dc99f850a10f03fd0b21/qW-EiAM1rpPTBCzGK-Cbx.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "002",
+    "title": "爆炸性發現：自我蒸餾推理讓AI學習更有效！",
+    "summary": "自我蒸餾推理（SDR）是一種新的AI學習方法，能夠提高模型的預測性能，同時減少災難性遺忘的問題。",
+    "content": "<p>你是否曾經想過，AI如何學習和提高其預測性能？在這篇文章中，我們將要探討一種新的AI學習方法，稱為自我蒸餾推理（SDR）。SDR是一種能夠提高模型的預測性能，同時減少災難性遺忘的問題的方法。</p>    <h2>什麼是自我蒸餾推理（SDR）？</h2>    <p>自我蒸餾推理（SDR）是一種新的AI學習方法，能夠提高模型的預測性能，同時減少災難性遺忘的問題。SDR的基本思想是使用模型自己的推理軌跡來增強其學習能力。這個方法不需要額外的教師模型或人工標註，只需要使用模型自己的推理軌跡即可。</p>    <h2>SDR的優點</h2>    <p>SDR有許多優點，包括提高模型的預測性能，減少災難性遺忘的問題，和不需要額外的教師模型或人工標註。SDR還可以應用於現有的SFT數據集，不需要額外的數據集或標註。這使得SDR成為了一種非常實用的AI學習方法。</p>    <h2>編輯悄悄話</h2>    <p>SDR是一種非常有前途的AI學習方法，能夠提高模型的預測性能，同時減少災難性遺忘的問題。如果你想提高你的AI模型的性能，SDR絕對是一種值得嘗試的方法。不要錯過這個機會，現在就開始使用SDR吧！",
+    "score": 85,
+    "takeaways": [
+      "自我蒸餾推理（SDR）是一種新的AI學習方法",
+      "SDR能夠提高模型的預測性能",
+      "SDR能夠減少災難性遺忘的問題"
+    ],
+    "punchline": "SDR讓AI學習更有效！",
+    "social_posts": {
+      "threads": "你是否曾經想過，AI如何學習和提高其預測性能？在這篇文章中，我們將要探討一種新的AI學習方法，稱為自我蒸餾推理（SDR）。#AI #SDR",
+      "facebook": "發現了一種新的AI學習方法，稱為自我蒸餾推理（SDR）！SDR能夠提高模型的預測性能，同時減少災難性遺忘的問題。#AI #SDR",
+      "viral_hook": "SDR讓AI學習更有效！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/21/ml-20897.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/exploring-self-distilled-reasoning-for-supervised-fine-tuning-with-amazon-nova/",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "003",
+    "title": "揭開 Meta 廣告的秘密：層次式興趣代表如何改變廣告投放",
+    "summary": "Meta 正在研究層次式興趣代表，以改善廣告投放效果，讓廣告更符合用戶的興趣",
+    "content": "<p>你是否曾感到廣告太多太雜，沒有什麼真正吸引你的注意力？Meta 正在努力改善這個問題，透過層次式興趣代表（Hierarchical Interest Representation）來更好地了解用戶的興趣和需求。</p>    <h2>什麼是層次式興趣代表？</h2>    <p>層次式興趣代表是一種新的廣告投放方法，能夠更好地了解用戶的興趣和需求。它透過分析用戶的行為和偏好，來建立一個層次式的興趣模型，讓廣告更符合用戶的需求。</p>    <h2>如何改善廣告的相關性和有效性</h2>    <p>層次式興趣代表可以透過以下幾種方式來改善廣告的相關性和有效性：</p>    <ul>      <li>更好地了解用戶的興趣和需求</li>      <li>提供更相關和更個性化的廣告</li>      <li>提高廣告的點擊率和轉換率</li>    </ul>    <h2>編輯悄悄話</h2>    <p>所以，下次你看到一個很吸引你的廣告時，不要忘了感謝層次式興趣代表吧！它讓廣告更聰明，讓用戶更開心。</p>",
+    "score": 90,
+    "takeaways": [
+      "層次式興趣代表是一種新的廣告投放方法，能夠更好地了解用戶的興趣",
+      "這種方法可以改善廣告的相關性和有效性",
+      "層次式興趣代表可以應用於 Meta 的各個廣告平台"
+    ],
+    "punchline": "讓廣告更聰明，讓用戶更開心",
+    "social_posts": {
+      "threads": "你是否曾感到廣告太多太雜？Meta 正在努力改善這個問題，透過層次式興趣代表來更好地了解用戶的興趣和需求。讓我們一起探討這個新方法吧！",
+      "facebook": "Meta 正在研究層次式興趣代表，以改善廣告投放效果。這種方法可以改善廣告的相關性和有效性，讓用戶更開心。你想知道更多嗎？",
+      "viral_hook": "廣告太多太雜？Meta 有解決方案了！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "004",
+    "title": "揭秘 Azure Databricks 的商業價值：提升效率、節省成本",
+    "summary": "Azure Databricks 如何為企業帶來實際、可衡量的價值？讓我們一起揭開它的秘密",
+    "content": "<p>你是否正在尋找一種方法來提升企業的效率和生產力？Azure Databricks 可能是你的最佳選擇。作為 Microsoft 和 Databricks 的合作成果，Azure Databricks 提供了一個完整的資料分析和人工智慧平台，能夠滿足企業的各種需求。</p>    <h2>什麼是 Azure Databricks？</h2>    <p>Azure Databricks 是一個基於 Databricks 平台的雲端服務，能夠提供快速、安全、可靠的資料分析和人工智慧能力。它能夠與 Microsoft 的各種工具和服務進行整合，包括 Azure Active Directory、Azure Storage 和 Azure Machine Learning。</p>    <h2>如何使用 Azure Databricks</h2>    <p>使用 Azure Databricks，你可以輕鬆地建立和部署資料分析和人工智慧應用程式。你可以使用 Databricks 的 Notebook 介面來撰寫程式碼和進行資料分析，同時也可以使用 Azure 的各種工具和服務來進行整合和擴展。</p>    <h2>編輯悄悄話</h2>    <p>所以，你還在等什麼？趕快試用 Azure Databricks，提升你的企業效率和生產力吧！",
+    "score": 85,
+    "takeaways": [
+      "Azure Databricks 提供第一方優勢，讓企業能夠更好地整合 Microsoft 工具和服務",
+      "它能夠提升企業的效率和生產力，同時降低成本和風險",
+      "Azure Databricks 是一個可靠、安全的平台，能夠滿足企業的資料分析和人工智慧需求"
+    ],
+    "punchline": "提升效率、節省成本",
+    "social_posts": {
+      "threads": "你知道嗎？Azure Databricks 可以提升企業的效率和生產力！\n它是如何做到的呢？\n讓我們一起揭開它的秘密...\n#AzureDatabricks #效率 #生產力",
+      "facebook": "提升企業效率和生產力的最佳選擇：Azure Databricks！\n了解更多：https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/\n#AzureDatabricks #企業解決方案",
+      "viral_hook": "揭秘 Azure Databricks 的商業價值：提升效率、節省成本！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Azure-Databricks-Forrester-2.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "005",
+    "title": "Elastic Stack 9.3.7登場！升級到最新版，讓你的系統更穩定、更安全！",
+    "summary": "Elastic Stack 9.3.7正式發布，推薦升級到最新版本，解決多個問題，提升系統穩定性和安全性",
+    "content": "<p>大家好，今天有個好消息要分享！Elastic Stack 9.3.7正式發布了！這個版本解決了多個問題，提升了系統的穩定性和安全性。</p>    <h2>什麼是Elastic Stack？</h2>    <p>Elastic Stack是一個強大的搜索和分析平台，幫助你處理和分析大量的數據。它包括多個產品，如Elasticsearch、Kibana、Beats等。</p>    <p>這個版本的更新，包含了多個問題的解決，例如...</p>    <h2>升級到9.3.7的好處</h2>    <p>升級到9.3.7版本，可以提高系統的穩定性和安全性。同時，也可以享受到最新的功能和特性。</p>    <h2>編輯悄悄話</h2>    <p>所以，還等什麼？趕快升級到9.3.7版本吧！讓你的系統更強大、更安全！",
+    "score": 80,
+    "takeaways": [
+      "Elastic Stack 9.3.7解決多個問題，提升系統穩定性",
+      "升級到最新版本可以提高系統安全性",
+      "推薦升級到9.3.7版本，取代之前的9.3.6版本"
+    ],
+    "punchline": "升級到9.3.7，讓你的系統更強大！",
+    "social_posts": {
+      "threads": "大家好，今天有個好消息要分享！Elastic Stack 9.3.7正式發布了！這個版本解決了多個問題，提升了系統的穩定性和安全性。升級到9.3.7版本，可以提高系統的穩定性和安全性。趕快升級吧！",
+      "facebook": "Elastic Stack 9.3.7正式發布！這個版本解決了多個問題，提升了系統的穩定性和安全性。升級到9.3.7版本，可以提高系統的穩定性和安全性。點擊連結，了解更多：https://www.elastic.co/docs/deploy-manage/upgrade",
+      "viral_hook": "Elastic Stack 9.3.7登場！升級到最新版，讓你的系統更穩定、更安全！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt50ecaa4a4e373f3d/6a5fc7aed4708038ec82b2af/patch-release-9.3.7.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/elastic-stack-9-3-7-released",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "006",
+    "title": "用 AI 寫程式？別再當玩具了，這些實戰經驗讓你真正落地",
+    "summary": "AI 寫程式很酷，但在真實業務中卻很難落地，這篇文章將分享實戰經驗",
+    "content": "<p>從 Vibe Coding 到 AI 原生研發團隊，一套能落地的工程實踐是什麼？這個問題對於很多開發者來說，是一個很大的挑戰。因為 AI 寫程式很順手，但落到真實業務里就是另一回事了。</p><h2>挑戰和機會</h2><p>AI 寫程式的挑戰主要在於如何將其應用於真實業務中。因為 AI 寫程式的目的是為了提高開發效率和質量，但如果不能將其應用於真實業務中，那麼就沒有意義了。</p><p>但是，如果能夠成功地將 AI 寫程式應用於真實業務中，那麼就會有很大的機會。因為 AI 寫程式可以幫助開發者提高開發效率和質量，同時也可以幫助企業提高競爭力。</p><h2>實戰經驗和最佳實踐</h2><p>那么，如何將 AI 寫程式應用於真實業務中呢？這需要有一套能落地的工程實踐。首先，需要對 AI 寫程式有深入的理解，包括其原理和應用場景。其次，需要有一個清晰的目標和需求，包括要解決什麼問題和達到什麼效果。最後，需要有一個良好的團隊合作和溝通，包括開發者、產品經理和業務經理等。</p><h2>編輯悄悄話</h2><p>其實，AI 寫程式並不難，難的是如何將其應用於真實業務中。如果你也正在嘗試將 AI 寫程式應用於真實業務中，那麼希望這篇文章能夠給你一些啟發和幫助。不要再當玩具了，讓 AI 寫程式真正落地吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 寫程式的挑戰和機會",
+      "如何將 AI 寫程式應用於真實業務",
+      "實戰經驗和最佳實踐"
+    ],
+    "punchline": "AI 寫程式，不只是玩具",
+    "social_posts": {
+      "threads": "你有沒有試過用 AI 寫程式？\n其實很酷，但是在真實業務中卻很難落地\n這篇文章分享了實戰經驗和最佳實踐\n讓 AI 寫程式真正落地吧！",
+      "facebook": "用 AI 寫程式很酷，但是在真實業務中卻很難落地。這篇文章分享了實戰經驗和最佳實踐，讓你了解如何將 AI 寫程式應用於真實業務中。點擊鏈接了解更多吧！",
+      "viral_hook": "AI 寫程式，不只是玩具！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802812&idx=1&sn=732df4944b3cb1543cc4cfe666e6f47a",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "007",
+    "title": "Roblox 的世界模型革命：如何打造超寫實的多人遊戲體驗",
+    "summary": "Roblox 的工程副總裁 Anupam Singh 分享了他們如何使用世界模型打造超寫實的多人遊戲體驗，及其對於遊戲開發的啟示",
+    "content": "<p>Roblox 是一款為兒童和青少年提供的線上遊戲平台，近年來其用戶數量迅速增長。為了滿足用戶對於更加寫實的遊戲體驗的需求，Roblox 的工程團隊正在探索如何使用世界模型來提高遊戲的可玩性。</p>    <h2>什麼是世界模型?</h2>    <p>世界模型是一種可以模擬現實世界的數據模型，它可以用來創建更加寫實的遊戲環境。Roblox 的世界模型可以使多人遊戲體驗更加寫實，玩家可以在遊戲中看到更加逼真的環境和物體。</p>    <h2>如何打造超寫實的多人遊戲體驗</h2>    <p>Roblox 的工程副總裁 Anupam Singh 分享了他們如何使用世界模型打造超寫實的多人遊戲體驗。根據 Anupam 的說法，結合世界模型和遊戲引擎可以提高遊戲的可玩性，同時也可以保持遊戲世界的一致性。</p>    <p>Roblox 的混合架構可以將工作分配給遊戲引擎和世界模型，從而保持遊戲世界的一致性。這個架構可以使遊戲更加穩定和可靠，同時也可以提高遊戲的可玩性。</p>    <h2>編輯悄悄話</h2>    <p>讓遊戲變得更加寫實，不僅僅是圖形問題。它需要一個完整的生態系統，包括遊戲引擎、世界模型和數據模型。Roblox 的世界模型革命為遊戲開發提供了新的思路和可能性，讓我們拭目以待未來的發展。",
+    "score": 85,
+    "takeaways": [
+      "Roblox 的世界模型可以使多人遊戲體驗更加寫實",
+      "結合世界模型和遊戲引擎可以提高遊戲的可玩性",
+      "Roblox 的混合架構可以保持遊戲世界的一致性"
+    ],
+    "punchline": "讓遊戲變得更加寫實，不僅僅是圖形問題",
+    "social_posts": {
+      "threads": "你知道嗎？Roblox 的世界模型可以使多人遊戲體驗更加寫實！\n讓我們一起探索這個革命性的技術吧！",
+      "facebook": "Roblox 的工程副總裁 Anupam Singh 分享了他們如何使用世界模型打造超寫實的多人遊戲體驗。點擊查看更多詳細信息！",
+      "viral_hook": "讓遊戲變得更加寫實，不僅僅是圖形問題！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!VQGA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feee57af5-b78f-4539-9c5b-1ce7f7a24c49_1448x952.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/inside-robloxs-bet-on-world-models",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "008",
+    "title": "揭秘 YouTube 的 AI 突破：如何在不破壞系統的情況下快速開發 AI 應用",
+    "summary": "只有 5% 的 AI 原型能夠成功部署到生產環境，而其他 95% 則陷入驗證深淵。YouTube 如何解決這個問題，實現快速開發和安全部署的矛盾？",
+    "content": "<p>我們正處於 AI 副業的黃金時代，感謝代理工程和 LLMs 的出現，從空白的 IDE 到功能性應用的時間從季度縮短到了幾個小時。你可以在一杯咖啡的時間內構建你最瘋狂的想法。</p>    <h2>YouTube 的 AI 原型設計平台</h2>    <p>Deepmind 和前 YouTube 軟件工程師 Benji Bear 解決了這個問題，不是通過加速審查，而是通過改變基礎設施哲學。他們構建了一個原型設計平台，這是一個統一的設計到代碼的生命周期平台，完全分離了快速實驗和主線生產伺服器。</p>    <p>開發人員可以使用預建的模板和代理伺服器，快速獲取生產環境的唯讀數據。這些模板連接到 Google Cloud 上的代理伺服器，為原型提供了預驗證的唯讀數據。</p>    <h2>編輯悄悄話</h2>    <p>YouTube 的解決方案告訴我們，快速開發和安全部署並不矛盾。通過設計一個安全的原型設計平台，開發人員可以快速實驗和驗證想法，而不會破壞系統。這需要工程師進行心理上的轉變，接受「拋棄式代碼」的概念，關注於系統的架構設計，而不是代碼的完美性。</p>",
+    "score": 90,
+    "takeaways": [
+      "YouTube 使用了一個獨立的原型設計平台，實現了快速實驗和安全部署的分離",
+      "開發人員可以使用預建的模板和代理伺服器，快速獲取生產環境的唯讀數據",
+      "YouTube 的解決方案需要工程師進行心理上的轉變，接受「拋棄式代碼」的概念"
+    ],
+    "punchline": "移動快速而不破壞系統的關鍵是設計一個安全的原型設計平台",
+    "social_posts": {
+      "threads": "你知道嗎？只有 5% 的 AI 原型能夠成功部署到生產環境，而其他 95% 則陷入驗證深淵。YouTube 如何解決這個問題？\n\n#AI #YouTube #開發",
+      "facebook": "揭秘 YouTube 的 AI 突破：如何在不破壞系統的情況下快速開發 AI 應用？\n\nhttps://example.com/article",
+      "viral_hook": "移動快速而不破壞系統的關鍵是什麼？"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/maxresdefault_vlFJjFT.max-1300x1300.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/why-ai-apps-fail-in-production/",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "009",
+    "title": "AI 新世代來臨！GPT-5.6、Grok 4.5 引爆價格戰與安全隱憂",
+    "summary": "近期 AI 領域掀起巨浪，GPT-5.6 和 Grok 4.5 等新模型的推出，引發價格戰、安全隱憂和監管爭議，你該如何應對這波 AI 革新？",
+    "content": "<p>近期，AI 領域迎來了一系列重大的發展，包括 GPT-5.6 和 Grok 4.5 等新模型的推出。這些新模型不僅代表了 AI 技術的最新進展，也引發了廣泛的關注和討論。</p>    <h2>AI 的新里程碑</h2>    <p>GPT-5.6 和 Grok 4.5 的推出，標誌著 AI 技術的又一重大突破。這些新模型在語言理解、代碼生成等方面具有更強大的能力，將對各個產業和領域產生深遠的影響。</p>    <h2>安全和監管的挑戰</h2>    <p>然而，AI 的快速發展也引發了安全和監管的疑慮。如何確保 AI 模型的安全性和可靠性，如何避免 AI 導致的風險和問題，成為了業界和監管機構關注的焦點。</p>    <h2>編輯悄悄話</h2>    <p>在這個 AI 新時代，誰將引領潮流？是巨頭企業，還是創新初創公司？是監管機構，還是業界領袖？答案將在未來的發展中逐漸揭曉。作為用戶和消費者，我們需要保持關注和警惕，跟上 AI 的最新發展，同時也要時刻關注 AI 導致的風險和問題。",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6 和 Grok 4.5 的推出，代表 AI 技術的新里程碑，但也引發安全和監管的疑慮",
+      "AI 模型的價格戰將對整個產業產生深遠影響，企業和個人如何選擇合適的 AI 解決方案是關鍵",
+      "監管機構和業界領袖正在積極探討 AI 的安全和倫理問題，包括如何避免潛在的風險和保障公眾利益"
+    ],
+    "punchline": "AI 新時代，誰將引領潮流？",
+    "social_posts": {
+      "threads": "大家好！近期 AI 領域掀起巨浪，GPT-5.6 和 Grok 4.5 等新模型的推出，引發價格戰、安全隱憂和監管爭議，你該如何應對這波 AI 革新？#AI #GPT-5.6 #Grok4.5",
+      "facebook": "AI 新時代來臨！GPT-5.6 和 Grok 4.5 等新模型的推出，代表了 AI 技術的新里程碑，但也引發安全和監管的疑慮。點擊鏈接，了解更多！https://example.com",
+      "viral_hook": "AI 新時代，誰將引領潮流？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "010",
+    "title": "警報！Next.js 出現多個安全漏洞，馬上更新吧！",
+    "summary": "Next.js 的安全更新已經推出，修復了多個可能導致 CPU 過載、服務拒絕等問題，馬上更新吧！",
+    "content": "<p>Next.js 的安全更新已經推出，修復了多個可能導致 CPU 過載、服務拒絕等問題。這些漏洞包括 Crafted requests、middleware/proxy bypass、Server-Side Request Forgery 等。</p>    <h2>什麼是這些安全漏洞？</h2>    <p>其中一個漏洞是 Crafted requests，可以導致 CPU 過載，阻止進一步的請求處理。另一個漏洞是 middleware/proxy bypass，可以繞過驗證和安全檢查。</p>    <h2>如何修復這些問題？</h2>    <p>更新 Next.js 依赖項可以修復這些問題。Next.js 的安全更新已經推出，包括 v16.2.11 和 v15.5.21。另外，Next.js 16.3 canary 和 preview 版本也已經包含了這些修復。</p>    <h2>編輯悄悄話</h2>    <p>安全漏洞是每個開發者的噩夢，但是及時的更新和修復可以避免很多問題。所以，請務必盡快更新你的 Next.js 依赖項，保護你的應用程序的安全！</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 出現多個安全漏洞，包括 CPU 過載、服務拒絕等問題",
+      "更新 Next.js 依赖項可以修復這些問題",
+      "Next.js 的安全更新已經推出，包括 v16.2.11 和 v15.5.21"
+    ],
+    "punchline": "安全漏洞警報！",
+    "social_posts": {
+      "threads": "大家注意！Next.js 出現多個安全漏洞，包括 CPU 過載、服務拒絕等問題。趕快更新你的 Next.js 依赖項吧！#Nextjs #安全漏洞",
+      "facebook": "Next.js 的安全更新已經推出，修復了多個可能導致 CPU 過載、服務拒絕等問題。點擊鏈接了解更多：[鏈接] #Nextjs #安全更新",
+      "viral_hook": "安全漏洞警報！Next.js 出現多個安全漏洞，馬上更新吧！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/july-2026-security-release/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/july-2026-security-release",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "011",
+    "title": "AI爆紅的背後：程式設計師與高管的期望落差",
+    "summary": "近期的軟體開發研討會中，程式設計師與高管對於AI的期望存在落差，設計師擔心AI帶來的風險，而高管則看重AI的生產力增益",
+    "content": "<p>近期的軟體開發研討會中，程式設計師與高管對於AI的期望存在落差，設計師擔心AI帶來的風險，而高管則看重AI的生產力增益。</p>    <h2>AI的風險</h2>    <p>一家公司使用ML訓練的軟體來優化換氣過濾器的更換，結果發現可以節省50萬美元。但是，問題出在ML模型是基於沙漠中的設備訓練的，而公司的設備是在北極使用的。沙漠中的過濾器需要處理沙塵，而北極的過濾器需要處理蚊子。蚊子會腐爛，腐爛的蚊子可能會引起火災，火災的損失高達100億美元。</p>    <h2>程式設計師與高管的期望落差</h2>    <p>程式設計師擔心AI的風險，特別是在安全性方面。高管則看重AI的生產力增益，認為AI可以幫助公司節省成本。然而，程式設計師認為AI的風險遠大於其益處，需要謹慎評估AI的應用。</p>    <p>近期的研究發現，AI的應用存在許多風險，包括安全性、隱私性等問題。因此，程式設計師與高管需要共同努力，謹慎評估AI的應用，平衡風險與機會。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI的應用存在風險，需要謹慎評估",
+      "程式設計師與高管的期望落差需要被關注",
+      "AI的發展可能會帶來新的機會，但也需要面對新的挑戰"
+    ],
+    "punchline": "AI的未來在於如何平衡風險與機會",
+    "social_posts": {
+      "threads": "你們有沒有注意到AI的風險？\n近期的軟體開發研討會中，程式設計師與高管對於AI的期望存在落差，設計師擔心AI帶來的風險，而高管則看重AI的生產力增益\n#AI #風險 #軟體開發",
+      "facebook": "AI的未來在於如何平衡風險與機會\n近期的軟體開發研討會中，程式設計師與高管對於AI的期望存在落差，設計師擔心AI帶來的風險，而高管則看重AI的生產力增益\n關注我們的頁面，了解更多AI的最新動態",
+      "viral_hook": "AI的風險大於其益處？"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-07-21.html",
+    "date": "2026-07-22"
+  },
+  {
+    "id": "012",
+    "title": "小型企業的福音：ChatGPT 專屬方案讓您輕鬆擁抱 AI",
+    "summary": "OpenAI 推出 ChatGPT 小型企業方案，讓創業者輕鬆打造 AI 技能，自動化工作，成長無限",
+    "content": "<p>你是否厭倦了小型企業的辛苦？你是否希望能夠輕鬆地擁抱 AI 技術？現在，OpenAI 推出 ChatGPT 小型企業方案，讓創業者輕鬆打造 AI 技能，自動化工作，成長無限。</p>    <h2>什麼是 ChatGPT 小型企業方案？</h2>    <p>ChatGPT 小型企業方案是一個專門為小型企業設計的方案，旨在幫助創業者打造 AI 技能，自動化工作，成長無限。這個方案包括 ChatGPT Work，一個可以完成多步驟任務的智能代理，可以幫助完成複雜項目。</p>    <h2>如何使用 ChatGPT Work</h2>    <p>ChatGPT Work 可以連接到您的商業應用程序和文件，記住您的工作方式、寫作風格和思考模式。這樣，您就可以使用 ChatGPT Work 完成各種任務，例如自動化行銷、客戶服務、數據分析等。小型企業可以選擇適合的智能模型，平衡質量、速度和成本。</p>    <h2>編輯悄悄話</h2>    <p>現在，創業者可以輕鬆地擁抱 AI 技術，讓小型企業更強大。不要錯過這個機會，趕快註冊 ChatGPT 小型企業方案，體驗 AI 的力量吧！",
+    "score": 90,
+    "takeaways": [
+      "ChatGPT 小型企業方案幫助創業者打造 AI 技能",
+      "ChatGPT Work 能夠完成多步驟任務，幫助完成複雜項目",
+      "小型企業可以選擇適合的智能模型，平衡質量、速度和成本"
+    ],
+    "punchline": "AI 讓小型企業更強大",
+    "social_posts": {
+      "threads": "你是否厭倦了小型企業的辛苦？\n現在，OpenAI 推出 ChatGPT 小型企業方案，讓創業者輕鬆打造 AI 技能，自動化工作，成長無限。\n#ChatGPT #小型企業 #AI",
+      "facebook": "小型企業的福音：ChatGPT 專屬方案讓您輕鬆擁抱 AI\n了解更多：[連結]",
+      "viral_hook": "小型企業的 AI 革命開始了！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2onTvcei0h9xmYqFdLEUBp/dccbb402d3ac3c112fbf4b17235e16f4/smb_launch_blog_16x9.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "date": "2026-07-22"
+  }
+]
