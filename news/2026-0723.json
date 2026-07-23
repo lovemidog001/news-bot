@@ -284,5 +284,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "date": "2026-07-23"
+  },
+  {
+    "id": "014",
+    "title": "AI開發新時代！Elastic 和 Cursor 合作讓開發更高效",
+    "summary": "Elastic 和 Cursor 合作將 Elasticsearch 的資料和工具整合到 Coding Agents 中，讓開發者可以更快速地開發 AI 應用",
+    "content": "<p>近日，Elastic 和 Cursor 宣布合作將 Elasticsearch 的資料和工具整合到 Coding Agents 中，讓開發者可以更快速地開發 AI 應用。</p>    <h2>什麼是 Context Engineering？</h2>    <p>Context Engineering 是指在開發 AI 應用時，需要給予 AI_agents 足夠的資料和工具，以便它們可以正確地完成複雜的任務。Elasticsearch 的資料和工具可以讓 Coding Agents 更加智能，讓開發者可以更快速地開發 AI 應用。</p>    <h2>如何使用 Elastic 的 plugin 來加速開發流程</h2>    <p>開發者可以使用 Elastic 的 plugin 來加速開發流程，讓 Coding Agents 可以直接存取 Elasticsearch 的資料和工具。這樣可以減少開發時間和成本，讓開發者可以更快速地推出 AI 應用。</p>    <h2>編輯悄悄話</h2>    <p>AI 開發新時代來了！透過 Elastic 和 Cursor 的合作，開發者可以更快速地開發 AI 應用。讓我們一起期待這個新時代的到來吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Elastic 和 Cursor 合作讓開發者可以更快速地開發 AI 應用",
+      "Elasticsearch 的資料和工具可以讓 Coding Agents 更加智能",
+      "開發者可以使用 Elastic 的 plugin 來加速開發流程"
+    ],
+    "punchline": "AI 開發新時代來了！",
+    "social_posts": {
+      "threads": "AI 開發新時代來了！透過 Elastic 和 Cursor 的合作，開發者可以更快速地開發 AI 應用。#AI #Elastic #Cursor",
+      "facebook": "近日，Elastic 和 Cursor 宣布合作將 Elasticsearch 的資料和工具整合到 Coding Agents 中，讓開發者可以更快速地開發 AI 應用。讓我們一起期待這個新時代的到來吧！#AI #Elastic #Cursor",
+      "viral_hook": "AI 開發新時代來了！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt03b6ba633c9f0960/69dd1e5777ac260703d2240d/getty-images-fkAaNWckMFc-unsplash.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/cursor",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "015",
+    "title": "Token 刺客來襲！快看你中槍了嗎？",
+    "summary": "你是否曾被 Token 刺客「暗殺」？讓我們來揭開這些隱藏的殺手，保護你的數位資產！",
+    "content": "<p>你是否曾經收到過來自陌生人的 Token 請求，然後就被「暗殺」了？這些 Token 刺客的出現，讓我們的數位資產面臨著極大的風險。</p>    <h2>什麼是 Token 刺客？</h2>    <p>Token 刺客是一種特殊的網路攻擊者，他們通過發送假的 Token 請求，來竊取用戶的敏感資訊和數位資產。這些攻擊者通常會使用社交工程術，來讓用戶放下警戒，然後進行攻擊。</p>    <h2>如何保護你的數位資產</h2>    <ul>      <li>永遠不要點擊來自陌生人的連結</li>      <li>使用強密碼和兩步驟驗證</li>      <li>保持你的作業系統和軟體更新</li>    </ul>    <p>別讓 Token 刺客偷走你的財富！請注意你的數位資產的安全，保護你的隱私和財產。</p>    <h2>編輯悄悄話</h2>    <p>別說我沒提醒你，Token 刺客隨時都可能出現，請保持警惕，保護好你的數位資產！</p>",
+    "score": 90,
+    "takeaways": [
+      "Token 刺客的常見手法",
+      "如何保護你的數位資產",
+      "Token 刺客的影響和風險"
+    ],
+    "punchline": "別讓 Token 刺客偷走你的財富！",
+    "social_posts": {
+      "threads": "你中槍了嗎？ Token 刺客來襲！快點了解一下如何保護你的數位資產吧！",
+      "facebook": "保護你的數位資產，避免 Token 刺客的攻擊！點擊連結了解更多：[連結]",
+      "viral_hook": "別讓 Token 刺客偷走你的財富！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802928&idx=1&sn=98b6bc4e64f5936316f262d627453c38",
+    "date": "2026-07-23"
   }
 ]
