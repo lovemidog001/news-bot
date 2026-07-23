@@ -1,0 +1,288 @@
+[
+  {
+    "id": "001",
+    "title": "物理AI模擬技術的現狀：你知道嗎？",
+    "summary": "物理AI模擬技術正在快速發展，了解其現狀可以幫助你掌握未來的趨勢",
+    "content": "<p>物理AI模擬技術是一種結合物理學和人工智慧的技術，旨在模擬和預測物理系統的行為。近年來，物理AI模擬技術的發展迅速，應用領域不斷擴大。</p>    <h2>物理AI模擬技術的應用領域</h2>    <p>物理AI模擬技術可以應用於各個領域，包括機械工程、電氣工程、材料科學等。它可以幫助研究人員模擬和預測複雜系統的行為，減少實驗成本和時間。</p>    <h2>物理AI模擬技術的發展前景</h2>    <p>物理AI模擬技術的發展對於各個行業都有深遠影響。它可以幫助企業提高效率、減少成本、改善產品質量。同時，物理AI模擬技術也可以幫助研究人員解決一些長期的科學問題。</p>    <h2>編輯悄悄話</h2>    <p>物理AI模擬技術是未來的趨勢，了解其現狀和發展前景可以幫助你掌握未來的機會。不要錯過這個機會，趕快了解物理AI模擬技術吧！",
+    "score": 85,
+    "takeaways": [
+      "物理AI模擬技術的應用領域不斷擴大",
+      "模擬技術可以大大減少實驗成本和時間",
+      "物理AI模擬技術的發展對於各個行業都有深遠影響"
+    ],
+    "punchline": "模擬技術是未來的關鍵",
+    "social_posts": {
+      "threads": "你知道物理AI模擬技術的現狀嗎？\n它可以幫助你掌握未來的趨勢\n了解其現狀可以幫助你提高效率、減少成本、改善產品質量",
+      "facebook": "物理AI模擬技術的現狀：你知道嗎？了解其現狀可以幫助你掌握未來的趨勢。點擊鏈接了解更多資訊。",
+      "viral_hook": "物理AI模擬技術是未來的關鍵，你準備好了嗎？"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6994dc99f850a10f03fd0b21/qW-EiAM1rpPTBCzGK-Cbx.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "002",
+    "title": "AI 團隊成員：monday.com 如何在 Amazon Bedrock 上運行生產級 AI",
+    "summary": "monday.com 的 AI 團隊成員已經成為工程團隊的重要助手，九成的工程師每月都在使用 AI 工具，生產力也大幅提升",
+    "content": "<p>monday.com 的 AI 團隊成員已經成為工程團隊的重要助手，九成的工程師每月都在使用 AI 工具，生產力也大幅提升。這是因為 monday.com 的 AI 團隊成員是基於 Amazon Bedrock 的，並且有著穩定的身份和工作流程。</p>    <h2>什麼是 AI 團隊成員？</h2>    <p>AI 團隊成員是指使用 AI 技術來協助工程團隊完成工作任務的工具。monday.com 的 AI 團隊成員是基於 Amazon Bedrock 的，並且有著穩定的身份和工作流程。這意味著 AI 團隊成員可以像人類工程師一樣工作，具有自己的身份、工作任務和性能評分。</p>    <h2>如何實現 AI 團隊成員</h2>    <p>monday.com 的 AI 團隊成員是通過 Amazon Bedrock 和 AWS 服務實現的。Amazon Bedrock 提供了 AI 模型的運行環境，而 AWS 服務提供了數據儲存、計算和安全等功能。monday.com 的 AI 團隊成員使用 Amazon Simple Notification Service (SNS) 和 Amazon Simple Queue Service (SQS) 來接收和處理工作任務，並使用 Amazon Elastic Kubernetes Service (EKS) 來運行 AI 模型。</p>    <h2>編輯悄悄話</h2>    <p>AI 團隊成員的出現標誌著工程團隊的工作方式正在發生根本性的變化。通過使用 AI 技術，工程團隊可以大幅提升生產力和效率。但是，AI 團隊成員的出現也帶來了新的挑戰和機會，我們需要繼續探索和學習如何更好地使用 AI 技術來提升工程團隊的工作效率和生產力。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 團隊成員可以大幅提升工程團隊的生產力",
+      "monday.com 的 AI 團隊成員是基於 Amazon Bedrock 的",
+      "AI 團隊成員需要一個穩定的身份和工作流程"
+    ],
+    "punchline": "AI 團隊成員：從裝飾到實際生產力",
+    "social_posts": {
+      "threads": "      monday.com 的 AI 團隊成員已經成為工程團隊的重要助手      九成的工程師每月都在使用 AI 工具，生產力也大幅提升      但你知道嗎？AI 團隊成員的出現也帶來了新的挑戰和機會    ",
+      "facebook": "      monday.com 的 AI 團隊成員是基於 Amazon Bedrock 的，並且有著穩定的身份和工作流程      這意味著 AI 團隊成員可以像人類工程師一樣工作，具有自己的身份、工作任務和性能評分      了解更多关于 monday.com 的 AI 團隊成員和如何提升工程團隊的生產力和效率    ",
+      "viral_hook": "AI 團隊成員：從裝飾到實際生產力"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/22/ML-21226.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/ai-teammates-how-monday-com-runs-production-ai-agents-on-amazon-bedrock/",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "003",
+    "title": "揭密 Meta 新廣告革命：Hierarchical Interest Representation 來了！",
+    "summary": "Meta 推出 Hierarchical Interest Representation，改善深度廣告排序，連結用戶真實興趣與廣告商產品，提升廣告效率！",
+    "content": "<p>Meta 推出 Hierarchical Interest Representation，改善深度廣告排序，連結用戶真實興趣與廣告商產品，提升廣告效率！</p>    <h2>什麼是 Hierarchical Interest Representation？</h2>    <p>Hierarchical Interest Representation 是一個上游表現層，連結用戶與廣告商，使用前沿 AI 技術，將用戶潛在興趣與廣告商產品對齊。</p>    <h2>如何工作？</h2>    <p>該技術使用圖結構數據，捕捉用戶與廣告商之間的長距離關係，將其編碼為表現層，從而改善深度廣告排序，提升廣告效率。</p>    <h2>編輯悄悄話</h2>    <p>廣告革命來了！ Hierarchical Interest Representation 是未來廣告趨勢，讓我們拭目以待！</p>",
+    "score": 90,
+    "takeaways": [
+      "Hierarchical Interest Representation 是一個上游表現層，連結用戶與廣告商",
+      "該技術使用前沿 AI 技術，將用戶潛在興趣與廣告商產品對齊",
+      "目的是改善深度廣告排序，提升廣告效率"
+    ],
+    "punchline": "廣告革命來了！",
+    "social_posts": {
+      "threads": "你知道嗎？ Meta 推出 Hierarchical Interest Representation，改善深度廣告排序，連結用戶真實興趣與廣告商產品，提升廣告效率！ #廣告革命 #Meta",
+      "facebook": "Meta 推出 Hierarchical Interest Representation，改善深度廣告排序，連結用戶真實興趣與廣告商產品，提升廣告效率！ 讓我們一起拭目以待未來的廣告趨勢！",
+      "viral_hook": "廣告革命來了！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "004",
+    "title": "揭秘 Azure Databricks 的商業價值：提升效率、節省成本",
+    "summary": "Azure Databricks 如何為企業帶來實際價值？透過這篇文章，了解它如何提升效率、節省成本，成為您的數據分析利器",
+    "content": "<p>您是否正在尋找一種方法來提升數據分析的效率和成果？Azure Databricks 是您的最佳選擇。作為 Microsoft 和 Databricks 共同開發的平台，它提供了第一方的 Databricks 優勢，為企業帶來實際價值。</p>    <h2>提升效率、節省成本</h2>    <p>Azure Databricks 的優勢在於其能夠與 Microsoft 工具、身份驗證和治理完全整合。這意味著企業可以簡化數據分析流程，減少成本和時間的浪費。同時，Azure Databricks 還提供了強大的安全性和合規性功能，讓企業可以放心地進行數據分析。</p>    <h2>實際案例和成果</h2>    <ul>      <li>提升數據分析效率：Azure Databricks 可以幫助企業加速數據分析流程，讓您更快速地獲得洞察和成果。</li>      <li>節省成本：通過 Azure Databricks，企業可以減少數據分析的成本，節省經費和資源。</li>      <li>獲得更好的商業成果：Azure Databricks 可以幫助企業獲得更好的商業成果，透過數據分析和洞察，讓您做出更好的決策。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>數據分析是企業的生命線，Azure Databricks 是您的最佳選擇。不要錯過這個機會，立即體驗 Azure Databricks 的強大功能和優勢，提升您的數據分析效率和成果吧！",
+    "score": 85,
+    "takeaways": [
+      "Azure Databricks 提供第一方的 Databricks 優勢，為企業帶來實際價值",
+      "該平台與 Microsoft 工具、身份驗證和治理完全整合，簡化了企業的數據分析流程",
+      "通過 Azure Databricks，企業可以提升效率、節省成本，獲得更好的商業成果"
+    ],
+    "punchline": "數據分析的新利器",
+    "social_posts": {
+      "threads": "大家好，我想分享一個關於數據分析的好工具 - Azure Databricks。它可以幫助您提升效率、節省成本，獲得更好的商業成果。有興趣的朋友可以看看這篇文章，了解更多關於 Azure Databricks 的優勢和功能。",
+      "facebook": "提升您的數據分析效率和成果，體驗 Azure Databricks 的強大功能和優勢。這篇文章將告訴您 Azure Databricks 如何為企業帶來實際價值，提升效率、節省成本，獲得更好的商業成果。",
+      "viral_hook": "數據分析的新利器：Azure Databricks"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Azure-Databricks-Forrester-2.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/azure-databricks-delivers-proven-business-value/",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "005",
+    "title": "Elastic 收購 Deductive AI，工程團隊的生產力革命即將來臨！",
+    "summary": "Elastic 收購 AI 驅動的調查平台 Deductive AI，讓工程團隊能夠更快速地解決生產問題，提升生產力！",
+    "content": "<p>Elastic 收購 Deductive AI，這是一個讓工程團隊的生產力革命即將來臨的消息！</p>    <h2>什麼是 Deductive AI？</h2>    <p>Deductive AI 是一個 AI 驅動的調查平台，幫助工程團隊識別和解決生產問題。它的 AI SRE 代理人可以連接客戶的代碼、遙測源和組織知識，進行根因分析、形成和測試假設、推理多個源的上下文，幫助團隊了解發生了什麼、為什麼發生、以及下一步該做什麼。</p>    <h2>收購的意義</h2>    <p>這次收購加速了 Elastic 的目標，將更多 AI 驅動的調查和自動化帶到 Elastic Observability。通過結合 Elastic 現有的 AI 能力和 Deductive AI 的知識圖和調查引擎，將幫助用戶更快地識別根因、減少手動調查時間、更高效地解決生產問題。</p>    <h2>編輯悄悄話</h2>    <p>這次收購是一個讓工程團隊的生產力革命即將來臨的消息！我們期待看到 Elastic 和 Deductive AI 如何合作，帶來更好的 AI 驅動的調查和自動化能力。</p>",
+    "score": 90,
+    "takeaways": [
+      "Elastic 收購 Deductive AI，加速 AI 驅動的調查和自動化",
+      "Deductive AI 的 AI SRE 代理人可以連接客戶的代碼、遙測源和組織知識，幫助工程團隊調查警報和生產問題",
+      "收購將加速 Elastic Observability 的發展，讓用戶能夠更快地識別根因、減少手動調查時間、更高效地解決生產問題"
+    ],
+    "punchline": "工程團隊的生產力革命即將來臨！",
+    "social_posts": {
+      "threads": "Elastic 收購 Deductive AI，這是一個讓工程團隊的生產力革命即將來臨的消息！\n我很期待看到這兩家公司如何合作，帶來更好的 AI 驅動的調查和自動化能力。\n你覺得這次收購會對工程團隊的生產力產生什麼影響？",
+      "facebook": "Elastic 收購 Deductive AI，加速 AI 驅動的調查和自動化！這次收購將加速 Elastic Observability 的發展，讓用戶能夠更快地識別根因、減少手動調查時間、更高效地解決生產問題。更多詳情：[連結]",
+      "viral_hook": "工程團隊的生產力革命即將來臨！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt24bb9f76ca333e02/6a5fd73108c1744e665ad40c/blog-1.png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/elastic-deductive-ai",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "006",
+    "title": "AI代碼革命：你可能錯過的幾分鐘，卻能改變你的人生軌跡",
+    "summary": "你是否曾想過，AI改變代碼的幾分鐘，對你的生活和工作有何影響？",
+    "content": "<p>你是否曾想過，AI改變代碼的幾分鐘，對你的生活和工作有何影響？在這個快速變化的世界中，AI技術正逐漸改變我們的工作方式，甚至可能取代一些傳統的職業。但是，AI也帶來了新的機會和挑戰。</p>    <h2>AI的潛力和限制</h2>    <p>AI技術已經可以完成許多複雜的任務，例如圖像識別、語言翻譯和數據分析。但是，AI也有一些限制，例如缺乏創造力和批判性思維。因此，了解AI的潛力和限制，是未來成功的關鍵。</p>    <ul>      <li>AI可以提高工作效率和準確性</li>      <li>AI可以提供新的商業機會和創新解決方案</li>      <li>AI也可能取代一些傳統的職業和工作</li>    </ul>    <h2>你需要做什麼</h2>    <p>在這個AI時代，你需要開始思考，如何將AI技術融入你的工作和生活中。你需要學習新的技能和知識，例如AI的基本原理和應用。同時，你也需要發展你的創造力和批判性思維，才能在這個快速變化的世界中保持競爭力。</p>    <h2>編輯悄悄話</h2>    <p>所以，下次你看到AI改變代碼的幾分鐘時，別再想著「這跟我有什麼關係？」，而是想著「這對我的未來有什麼影響？」。因為，在這個AI時代，人類的價值在於創造力和批判性思維，而不是單純的代碼和數據。",
+    "score": 90,
+    "takeaways": [
+      "AI技術正逐漸改變我們的工作方式",
+      "了解AI的潛力和限制，是未來成功的關鍵",
+      "你需要開始思考，如何將AI技術融入你的工作和生活中"
+    ],
+    "punchline": "AI時代，人類的價值在於創造力和批判性思維",
+    "social_posts": {
+      "threads": "你是否曾想過，AI改變代碼的幾分鐘，對你的生活和工作有何影響？\n我覺得AI技術正逐漸改變我們的工作方式...\n但也可能取代一些傳統的職業和工作...\n你需要開始思考，如何將AI技術融入你的工作和生活中...\n#AI #未來 #工作",
+      "facebook": "AI時代，人類的價值在於創造力和批判性思維。你需要學習新的技能和知識，例如AI的基本原理和應用。同時，你也需要發展你的創造力和批判性思維，才能在這個快速變化的世界中保持競爭力。分享你的想法和觀點吧！",
+      "viral_hook": "AI改變代碼的幾分鐘，竟然能改變你的人生軌跡？"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802917&idx=1&sn=dd6d58f349f4058ccc2ea90468092566",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "007",
+    "title": "AI 代理人開發的最佳實踐：讓你的代理人在生產環境中穩定運行",
+    "summary": "讓你的 AI 代理人在生產環境中穩定運行，了解開發最佳實踐的關鍵因素，避免代理人在真實流量下的表現不佳",
+    "content": "<p>AI 代理人已經成為現代企業的重要工具，但如何讓它們在生產環境中穩定運行仍然是一個挑戰。這篇文章將探討開發可靠的 AI 代理人的最佳實踐，包括上下文控制、控制流、狀態管理和範圍控制。</p>    <h2>十二因素代理人原則</h2>    <p>十二因素代理人原則是一套針對 AI 代理人開發的指導原則，旨在使代理人更加可靠和高效。這些原則包括代理人設計、開發和部署的各個方面，為開發人員提供了一個清晰的框架。</p>    <h2>代理人設計的關鍵因素</h2>    <p>代理人設計的關鍵因素包括上下文控制、控制流、狀態管理和範圍控制。上下文控制決定了代理人如何處理輸入和輸出，控制流則決定了代理人如何執行任務。狀態管理和範圍控制則確保代理人可以正確地管理狀態和範圍。</p>    <h2>編輯悄悄話</h2>    <p>開發可靠的 AI 代理人需要考慮許多因素，從代理人設計到部署和維護。通過了解十二因素代理人原則和代理人設計的關鍵因素，開發人員可以創建更加高效和可靠的 AI 代理人。讓你的 AI 代理人在生產環境中穩定運行，從最佳實踐開始！",
+    "score": 90,
+    "takeaways": [
+      "代理人開發需要考慮上下文控制、控制流、狀態管理和範圍控制",
+      "十二因素代理人原則為開發可靠的 AI 代理人提供了指導",
+      "代理人的設計需要在複雜度和可靠性之間取得平衡"
+    ],
+    "punchline": "讓你的 AI 代理人在生產環境中穩定運行，從最佳實踐開始",
+    "social_posts": {
+      "threads": "讓你的 AI 代理人在生產環境中穩定運行！了解十二因素代理人原則和代理人設計的關鍵因素，創建更加高效和可靠的 AI 代理人。",
+      "facebook": "AI 代理人開發的最佳實踐：讓你的代理人在生產環境中穩定運行。了解十二因素代理人原則和代理人設計的關鍵因素，提升你的 AI 代理人的性能和可靠性。",
+      "viral_hook": "讓你的 AI 代理人在生產環境中穩定運行！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!zNXl!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc232d4d2-34ca-4f1f-946a-16585ec93b8c_3082x1510.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/best-practices-for-building-ai-agents",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "008",
+    "title": "從維護到創新：Checkout.com 如何透過 Cloud Composer 3 達成數據平台的突破",
+    "summary": "Checkout.com 透過遷移至 Managed Service for Apache Airflow (Gen 3)，解決了數據平台的維護和擴展性問題，實現了效率、可擴展性和可靠性的提升",
+    "content": "<p>Checkout.com 的數據平台團隊曾面臨著維護自主式 Apache Airflow 環境的挑戰，包括維護、升級和伺服器管理等問題。</p>    <h2>從維護到創新</h2>    <p>透過遷移至 Managed Service for Apache Airflow (Gen 3)，Checkout.com 解決了數據平台的維護和擴展性問題，實現了效率、可擴展性和可靠性的提升。</p>    <p>Managed Airflow 提供了動態擴展、DAG 隔離和改善的可視性，幫助工程師們更好地管理數據平台。</p>    <h2>效率、可擴展性和可靠性的提升</h2>    <p>Checkout.com 透過遷移至 Managed Airflow，實現了效率、可擴展性和可靠性的提升，包括動態擴展、DAG 隔離和改善的可視性等。</p>    <p>工程師們可以更好地管理數據平台，實現更快速的部署和更低的成本。</p>    <h2>編輯悄悄話</h2>    <p>數據平台的未來，從維護到創新。透過 Managed Service for Apache Airflow (Gen 3)，您可以實現效率、可擴展性和可靠性的提升，讓您的數據平台更加強大和可靠。",
+    "score": 90,
+    "takeaways": [
+      "Managed Service for Apache Airflow (Gen 3) 提供了完全托管的 Airflow 服務，解決了維護和擴展性的問題",
+      "Checkout.com 透過遷移至 Managed Airflow，實現了效率、可擴展性和可靠性的提升",
+      "Managed Airflow 提供了動態擴展、DAG 隔離和改善的可視性，幫助工程師們更好地管理數據平台"
+    ],
+    "punchline": "數據平台的未來，從維護到創新",
+    "social_posts": {
+      "threads": " Checkout.com 如何透過 Cloud Composer 3 達成數據平台的突破？\n從維護到創新， Checkout.com 的數據平台團隊如何解決維護和擴展性的問題？",
+      "facebook": "Checkout.com 的數據平台團隊如何透過 Managed Service for Apache Airflow (Gen 3) 解決維護和擴展性的問題？",
+      "viral_hook": "數據平台的未來，從維護到創新"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/checkout-airflow-migration-google-cloud-2.max-2500x2500.png",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/how-checkout-com-tallies-data-with-cloud-composer-3/",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "009",
+    "title": "AI 新世代來臨！GPT-5.6、Grok 4.5、Muse Spark 1.1 亮相！",
+    "summary": "本週的 AI 新聞簡報，涵蓋 OpenAI 的 GPT-5.6、SpaceX AI 的 Grok 4.5、Meta 的 Muse Spark 1.1 等新模型的發佈，以及 AI 政策和安全發展的最新進展。",
+    "content": "<h2>AI 新世代來臨！</h2>    <p>本週的 AI 新聞簡報，涵蓋 OpenAI 的 GPT-5.6、SpaceX AI 的 Grok 4.5、Meta 的 Muse Spark 1.1 等新模型的發佈，以及 AI 政策和安全發展的最新進展。</p>    <h2>模型發佈</h2>    <ul>      <li>OpenAI 公佈 GPT-5.6，包括 Sol 和 Luna 兩個模型，同時重新命名其桌面編碼產品為 ChatGPT Work。</li>      <li>SpaceX AI 發佈 Grok 4.5，作為一個低成本的 Opus 類編碼模型，同時 Meta 發佈 Muse Spark 1.1，具有激進的定價和大幅度的編碼和網絡安全基準提升。</li>      <li>Meta 預覽了 Muse Video 和 Muse Image，後者因為容易生成公眾 Instagram 帳戶的圖像而引起爭議，隨後被撤回。</li>    </ul>    <h2>Ai 政策和安全發展</h2>    <p>本週還見證了 AI 政策和安全發展的最新進展，包括 Meta 探索將 AI 計算作為雲業務出售、美國能源監管機構對大型負載數據中心連接的壓力，以及 Anthropic 發佈了一種名為「全球工作區」的可解釋性方法，用于語言模型的內部表示。</p>    <h2>編輯悄悄話</h2>    <p>誰將成為未來的領導者？AI 新世代來臨，誰將成為未來的領導者？本週的新聞簡報將給您答案！</p>",
+    "score": 85,
+    "takeaways": [
+      "OpenAI 公佈 GPT-5.6，包括 Sol 和 Luna 兩個模型，同時重新命名其桌面編碼產品為 ChatGPT Work。",
+      "SpaceX AI 發佈 Grok 4.5，作為一個低成本的 Opus 類編碼模型，同時 Meta 發佈 Muse Spark 1.1，具有激進的定價和大幅度的編碼和網絡安全基準提升。",
+      "Meta 預覽了 Muse Video 和 Muse Image，後者因為容易生成公眾 Instagram 帳戶的圖像而引起爭議，隨後被撤回。"
+    ],
+    "punchline": "AI 新世代來臨！誰將成為未來的領導者？",
+    "social_posts": {
+      "threads": "AI 新世代來臨！誰將成為未來的領導者？本週的新聞簡報將給您答案！#AI #GPT-5.6 #Grok4.5 #MuseSpark1.1",
+      "facebook": "AI 新聞簡報：GPT-5.6、Grok 4.5、Muse Spark 1.1 亮相！誰將成為未來的領導者？",
+      "viral_hook": "AI 新世代來臨！誰將成為未來的領導者？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 安全漏洞大更新！別讓你的網站變成駭客的遊樂場",
+    "summary": "Next.js 的安全漏洞更新已經推出，別讓你的網站成為駭客的目標",
+    "content": "<p>Next.js 的安全漏洞更新已經推出，包含多個重要的安全修復。這些更新包含在 v16.2.11 和 v15.5.21 版本中，同時也包含在最新的 Next.js 16.3 canary 和 preview 版本中。</p>    <h2>什麼是安全漏洞?</h2>    <p>安全漏洞是指程式中存在的安全漏洞，可能會被駭客利用來攻擊你的網站。這次更新包含多個重要的安全修復，包括 CPU 使用量過高、middleware/proxy bypass 等。</p>    <h2>如何更新?</h2>    <p>更新 Next.js 的版本非常簡單，只需要執行以下命令：<code>npm install next@latest</code> 或 <code>yarn add next@latest</code>。然後，重新啟動你的網站，安全漏洞就會被修復。</p>    <h2>編輯悄悄話</h2>    <p>安全漏洞是每個網站都可能遇到的問題，但只要你保持你的網站是最新版本，駭客就很難攻擊你。所以，別讓你的網站變成駭客的遊樂場，保持更新，保持安全！",
+    "score": 90,
+    "takeaways": [
+      "Next.js 的安全漏洞更新已經推出，包含多個重要的安全修復",
+      "安全漏洞包括 CPU 使用量過高、 middleware/proxy bypass 等",
+      "更新包含在 v16.2.11 和 v15.5.21 版本中"
+    ],
+    "punchline": "別讓你的網站變成駭客的遊樂場",
+    "social_posts": {
+      "threads": "Next.js 的安全漏洞更新已經推出！\n包含多個重要的安全修復\n別讓你的網站變成駭客的遊樂場\n#Nextjs #安全漏洞",
+      "facebook": "Next.js 的安全漏洞更新已經推出！包含多個重要的安全修復。別讓你的網站變成駭客的遊樂場。點擊連結了解更多：[連結]",
+      "viral_hook": "Next.js 的安全漏洞更新已經推出！別讓你的網站變成駭客的遊樂場"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/july-2026-security-release/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/july-2026-security-release",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "011",
+    "title": "Google 投入 4,000 萬美元！AI 科學突破任務啟動，將如何改變我們的未來？",
+    "summary": "Google 宣布投入 4,000 萬美元支持美國 AI 科學突破任務，將提供先進 AI 工具加速科學研究，讓我們的未來變得更加美好",
+    "content": "<p>Google 宣布投入 4,000 萬美元支持美國 AI 科學突破任務，將提供先進 AI 工具加速科學研究。這項任務旨在加速科學研究的進展，解決能源、安全和科學挑戰。</p>    <h2>AI 科學突破任務的目標</h2>    <p>AI 科學突破任務的目標是加速科學研究的進展，解決能源、安全和科學挑戰。通過提供先進 AI 工具，研究人員可以加速科學研究的進展，發現新的知識和技術。</p>    <h2>實際案例</h2>    <p>例如，在 Pacific Northwest National Laboratory，研究人員使用 AlphaEvolve 進行複雜的數學研究，發現新的知識和技術。在 National Laboratory of the Rockies，研究人員使用 Gemini 進行材料科學研究，發現新的材料和技術。</p>    <h2>編輯悄悄話</h2>    <p>AI 科學突破任務是未來的關鍵，讓我們的未來變得更加美好。通過提供先進 AI 工具，研究人員可以加速科學研究的進展，解決能源、安全和科學挑戰。讓我們一起期待這項任務的成果吧！",
+    "score": 90,
+    "takeaways": [
+      "Google 投入 4,000 萬美元支持 AI 科學突破任務",
+      "提供先進 AI 工具加速科學研究",
+      "將改變科學研究的未來"
+    ],
+    "punchline": "AI 科學突破任務，讓未來變得更加美好",
+    "social_posts": {
+      "threads": "Google 投入 4,000 萬美元！AI 科學突破任務啟動，將如何改變我們的未來？#AI #科學 #未來",
+      "facebook": "Google 宣布投入 4,000 萬美元支持美國 AI 科學突破任務，將提供先進 AI 工具加速科學研究。讓我們一起期待這項任務的成果吧！#AI #科學 #未來",
+      "viral_hook": "Google 投入 4,000 萬美元！AI 科學突破任務啟動，將改變我們的未來？"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Genesis_Mission_40M_commitment.max-2600x2600.jpg",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "012",
+    "title": "警惕 AI 的陷阱！軟體開發大會揭露 5 大隱患",
+    "summary": "軟體開發大會上，專家們針對 AI 的發展提出了警告，強調其帶來的風險和挑戰，包括代碼生成、安全性和泡沫經濟等問題",
+    "content": "<h2>引言</h2>    <p>軟體開發大會是業界的一個重要活動，今年的大會上，專家們針對 AI 的發展提出了警告，強調其帶來的風險和挑戰。這些警告包括代碼生成、安全性和泡沫經濟等問題。</p>    <h2>核心問題</h2>    <p>AI 的發展是雙刃劍，既帶來機會，也伴隨著風險。代碼生成和安全性是 AI 開發中需要關注的重要問題。泡沫經濟和 AI 的發展之間存在著複雜的關係，需要業界人士保持警惕和關注。</p>    <ul>      <li>代碼生成：AI 可以快速生成代碼，但也可能帶來安全性和維護性的問題</li>      <li>安全性：AI 的安全性是個非常重要的問題，需要業界人士關注和解決</li>      <li>泡沫經濟：AI 的發展可能會引發泡沫經濟，需要業界人士保持警惕和關注</li>    </ul>    <h2>編輯悄悄話</h2>    <p>AI 的發展是個非常重要的話題，需要業界人士保持警惕和關注。同時，也需要業界人士關注 AI 的發展對社會和經濟的影響，共同努力促進 AI 的健康發展。",
+    "score": 90,
+    "takeaways": [
+      "AI 對軟體開發的影響是深遠的，但也伴隨著風險和挑戰",
+      "代碼生成和安全性是 AI 開發中需要關注的重要問題",
+      "泡沫經濟和 AI 的發展之間存在著複雜的關係"
+    ],
+    "punchline": "AI 的發展是雙刃劍，既帶來機會，也伴隨著風險",
+    "social_posts": {
+      "threads": "軟體開發大會上，專家們針對 AI 的發展提出了警告，強調其帶來的風險和挑戰。#AI #軟體開發",
+      "facebook": "軟體開發大會：AI 的發展是雙刃劍，既帶來機會，也伴隨著風險。關注 AI 的發展，共同努力促進其健康發展！#AI #軟體開發",
+      "viral_hook": "警惕 AI 的陷阱！軟體開發大會揭露 5 大隱患"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-07-21.html",
+    "date": "2026-07-23"
+  },
+  {
+    "id": "013",
+    "title": "人工智慧巨頭在美國小鎮投資！什麼是Project Camellia？",
+    "summary": "OpenAI宣布在美國喬治亞州的Effingham County投資Project Camellia，承諾負責任的能源使用、投資當地社區、創造就業機會和提供Codex存取權",
+    "content": "<p>近日，OpenAI宣布在美國喬治亞州的Effingham County投資Project Camellia，承諾負責任的能源使用、投資當地社區、創造就業機會和提供Codex存取權。這個項目將如何影響當地居民的生活？讓我們一起來探索。</p>    <h2>什麼是Project Camellia？</h2>    <p>Project Camellia是OpenAI在Effingham County設計和開發的一個長期數據中心項目。該項目將與Georgia Power Company簽訂3.2 gigawatts的電力合同，將在2028年至2032年之間分階段交付。</p>    <h2>OpenAI的承諾</h2>    <p>OpenAI承諾不會讓當地居民的電費增加，項目將使用封閉式水循環系統，減少水資源浪費。同時，OpenAI將提供8,000萬美元的社區福利和7,100萬美元的Codex學生信用，以支持當地居民的教育和就業。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧巨頭來到小鎮，帶來什麼樣的變化？這個問題值得我們深思。隨著Project Camellia的推進，我們將繼續關注其發展和影響。敬請期待！",
+    "score": 85,
+    "takeaways": [
+      "OpenAI承諾不會讓當地居民的電費增加",
+      "項目將使用封閉式水循環系統，減少水資源浪費",
+      "OpenAI將提供8,000萬美元的社區福利和7,100萬美元的Codex學生信用"
+    ],
+    "punchline": "人工智慧巨頭來到小鎮，帶來什麼樣的變化？",
+    "social_posts": {
+      "threads": "你們聽說過Project Camellia嗎？\n這個項目是由OpenAI在美國喬治亞州的Effingham County投資的\n承諾負責任的能源使用、投資當地社區、創造就業機會和提供Codex存取權\n什麼是你的看法？",
+      "facebook": "OpenAI宣布在美國喬治亞州的Effingham County投資Project Camellia，承諾負責任的能源使用、投資當地社區、創造就業機會和提供Codex存取權。點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "人工智慧巨頭來到小鎮，帶來什麼樣的變化？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2E055Vw112vq9W8h2im5nw/2e610c07e7da2a38a0a77c37ffa562d0/effingham_county_16x9.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "date": "2026-07-23"
+  }
+]
