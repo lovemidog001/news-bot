@@ -1,0 +1,288 @@
+[
+  {
+    "id": "001",
+    "title": "用 Nunchaku 4 位元擴散推論革命 Diffusers！",
+    "summary": "最新研究將 Nunchaku 4 位元擴散推論應用於 Diffusers，提升模型效能，了解這項技術對未來 AI 的影響",
+    "content": "<p>近期的一項研究將 Nunchaku 4 位元擴散推論應用於 Diffusers，取得了不錯的成果。這項技術的出現，對於 AI 的未來發展具有重要的意義。</p>    <h2>什麼是 Nunchaku 4 位元擴散推論？</h2>    <p>Nunchaku 4 位元擴散推論是一種新型的推論算法，透過將複雜的數據轉換為 4 位元的數據，從而提高模型的運算效率和準確度。</p>    <h2>Diffusers 的優勢和局限</h2>    <p>Diffusers 是一種常用的 AI 模型，但它也存在一些局限。透過將 Nunchaku 4 位元擴散推論應用於 Diffusers，研究人員希望能夠提高模型的效能和準確度。</p>    <h2>編輯悄悄話</h2>    <p>這項技術的出現，對於 AI 的未來發展具有重要的意義。讓我們拭目以待，未來 AI 研究的新突破！</p>",
+    "score": 80,
+    "takeaways": [
+      "Nunchaku 4 位元擴散推論的核心原理",
+      "Diffusers 模型的優勢和局限",
+      "未來 AI 研究的新方向"
+    ],
+    "punchline": "AI 研究的新革命！",
+    "social_posts": {
+      "threads": "你知道嗎？最新研究將 Nunchaku 4 位元擴散推論應用於 Diffusers，提升模型效能！\n了解這項技術對未來 AI 的影響",
+      "facebook": "發佈：用 Nunchaku 4 位元擴散推論革命 Diffusers！了解這項技術對未來 AI 的影響，請點擊連結查看詳細內容",
+      "viral_hook": "AI 研究的新革命！"
+    },
+    "image": "https://huggingface.co/blog/assets/nunchaku-diffusers/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "002",
+    "title": "別再讓 AI 寫出爛 code！Amazon Bedrock Guardrails 教你避坑",
+    "summary": "AI 寫 code 可以提高效率，但也可能帶來安全風險。Amazon Bedrock Guardrails 教你如何配置安全的 code 生成工作流程",
+    "content": "<p>AI 寫 code 可以提高效率，但也可能帶來安全風險。Amazon Bedrock Guardrails 教你如何配置安全的 code 生成工作流程，避免不安全的 code 模式和提高安全性。</p>    <h2>什麼是 Amazon Bedrock Guardrails？</h2>    <p>Amazon Bedrock Guardrails 是一套安全的 code 生成工作流程工具，可以偵測和過濾不安全的 code 模式，包括敏感資訊和惡意 code。</p>    <p>但是，配置安全的 code 生成工作流程需要考慮 throughput 和 latency，否則可能會導致 throttling 錯誤和提高成本。</p>    <h2>如何配置安全的 code 生成工作流程</h2>    <p>要配置安全的 code 生成工作流程，需要了解 guardrail 的消耗是如何計算的。每個 text unit 定義為 1,000 個字符，且消耗是 multiplicative 的。</p>    <p>因此，需要考慮 throughput 和 latency，選擇合適的 streaming 配置和 safeguard，以避免 throttling 錯誤和提高安全性。</p>    <h2>編輯悄悄話</h2>    <p>安全的 code 生成工作流程不是夢想，從 Amazon Bedrock Guardrails 開始，讓你的 code 更安全、更高效！",
+    "score": 90,
+    "takeaways": [
+      "Amazon Bedrock Guardrails 可以偵測和過濾不安全的 code 模式",
+      "配置安全的 code 生成工作流程需要考慮 throughput 和 latency",
+      "使用最佳實踐可以避免 throttling 錯誤和提高安全性"
+    ],
+    "punchline": "安全的 code 生成工作流程，從 Amazon Bedrock Guardrails 開始",
+    "social_posts": {
+      "threads": "你知道嗎？AI 寫 code 可以提高效率，但也可能帶來安全風險。Amazon Bedrock Guardrails 教你如何配置安全的 code 生成工作流程，避免不安全的 code 模式和提高安全性。",
+      "facebook": "安全的 code 生成工作流程不是夢想，從 Amazon Bedrock Guardrails 開始，讓你的 code 更安全、更高效！了解更多：https://example.com",
+      "viral_hook": "別再讓 AI 寫出爛 code！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/22/21149.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-applying-amazon-bedrock-guardrails-to-code-generation-workflows/",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "003",
+    "title": "揭開 Meta 廣告的秘密：層次式興趣表現如何提升廣告效率",
+    "summary": "Meta 正在研究層次式興趣表現，以提升廣告效率，讓用戶看到更相關的廣告",
+    "content": "<p>你是否曾經覺得廣告太多太雜，卻又找不到自己想要的東西？Meta 正在研究一項新的技術，叫做層次式興趣表現，旨在提升廣告效率，讓用戶看到更相關的廣告。</p>    <h2>什麼是層次式興趣表現？</h2>    <p>層次式興趣表現是一種新的廣告優化技術，旨在讓用戶看到更相關的廣告。它是通過分析用戶的行為和興趣，然後將其與廣告進行匹配，從而提高廣告的轉換率和用戶體驗。</p>    <h2>如何工作？</h2>    <p>層次式興趣表現是通過分析用戶的行為和興趣，然後將其與廣告進行匹配。它使用了一種新的圖形結構，叫做超圖，來表示用戶和廣告之間的關係。這種結構可以讓用戶看到更相關的廣告，提高廣告的轉換率和用戶體驗。</p>    <h2>編輯悄悄話</h2>    <p>廣告的未來將會是更智能、更個人化的。層次式興趣表現是其中的一個重要步驟。讓我們拭目以待，看看這項技術如何改變廣告的未來吧！",
+    "score": 90,
+    "takeaways": [
+      "層次式興趣表現是一種新的廣告優化技術",
+      "它可以讓用戶看到更相關的廣告",
+      "這項技術可以提高廣告的轉換率和用戶體驗"
+    ],
+    "punchline": "讓廣告更聰明，讓用戶更開心",
+    "social_posts": {
+      "threads": "你是否曾經覺得廣告太多太雜，卻又找不到自己想要的東西？Meta 正在研究一項新的技術，叫做層次式興趣表現，旨在提升廣告效率，讓用戶看到更相關的廣告。 #廣告 #Meta #層次式興趣表現",
+      "facebook": "Meta 正在研究一項新的技術，叫做層次式興趣表現，旨在提升廣告效率，讓用戶看到更相關的廣告。這項技術可以讓用戶看到更相關的廣告，提高廣告的轉換率和用戶體驗。 #廣告 #Meta #層次式興趣表現",
+      "viral_hook": "讓廣告更聰明，讓用戶更開心！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "004",
+    "title": "AT&T 和 Microsoft 如何處理一萬億個資料？",
+    "summary": "AT&T 和 Microsoft 搭配 AMD，成功處理了一萬億個資料，開啟了電信業人工智慧的新時代",
+    "content": "<p>你是否曾經想過，如何處理一萬億個資料？這是一個令人震驚的數字，幾乎難以想象。然而，AT&T 和 Microsoft 卻成功地實現了這一目標，開啟了電信業人工智慧的新時代。</p>    <h2>什麼是 Microsoft Foundry Managed Compute？</h2>    <p>Microsoft Foundry Managed Compute 是一種雲端計算平台，允許用戶使用開放式人工智慧模型和可擴展的基礎設施。這項技術使得用戶可以處理大量的資料，而不需要擔心基礎設施的限制。</p>    <h2>如何應用於電信業</h2>    <p>這項技術可以應用於各種領域，包括客戶服務、網路安全等。例如，電信公司可以使用這項技術來分析客戶的行為，提供更好的客戶服務。同時，也可以使用這項技術來檢測網路安全威脅，保護用戶的資料。</p>    <h2>編輯悄悄話</h2>    <p>一萬億個資料，新時代的開始。這項技術將會改變我們的生活方式，讓我們更好地享受科技帶來的便利。同時，也要注意，隨著科技的發展，資料安全也將成為一個重要的問題。讓我們一起關注這項技術的發展，創造一個更好的未來。</p>",
+    "score": 90,
+    "takeaways": [
+      "AT&T 和 Microsoft 使用 Microsoft Foundry Managed Compute 處理了一萬億個資料",
+      "開放式人工智慧模型和可擴展的基礎設施是實現生產級別電信人工智慧的關鍵",
+      "這項技術可以應用於各種領域，包括客戶服務、網路安全等"
+    ],
+    "punchline": "一萬億個資料，新時代的開始",
+    "social_posts": {
+      "threads": "你是否曾經想過，如何處理一萬億個資料？ AT&T 和 Microsoft 卻成功地實現了這一目標，開啟了電信業人工智慧的新時代。 #AI #電信業",
+      "facebook": "AT&T 和 Microsoft 搭配 AMD，成功處理了一萬億個資料，開啟了電信業人工智慧的新時代。這項技術可以應用於各種領域，包括客戶服務、網路安全等。讓我們一起關注這項技術的發展，創造一個更好的未來。",
+      "viral_hook": "一萬億個資料，新時代的開始！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Foundry-AT-T-OTel-2_2-2-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "005",
+    "title": "如何打造一個結合地理空間數據的強大RAG系統？",
+    "summary": "使用Elasticsearch、Amazon Bedrock和LangChain打造一個智能房地產助手，為用戶提供個人化房產推薦",
+    "content": "<p>近年來，人工智慧技術的發展使得房產搜尋變得更加智能。但是，傳統的搜尋引擎仍然存在一些限制，尤其是在處理地理空間數據方面。為了克服這些限制，我們需要結合地理空間數據和人工智慧技術來創建更智能的應用。</p>    <h2>什麼是RAG系統？</h2>    <p>RAG（Retrieval Augmented Generation）是一種強大的技術，通過整合外部知識來源來增強大型語言模型（LLM）的能力。它可以提高LLM輸出的準確性、相關性和可靠性，而無需重新訓練模型。RAG還可以增強文本生成，通過整合私有或專有數據來產生可讀的文本響應。</p>    <h2>如何打造一個強大的RAG系統？</h2>    <p>為了打造一個強大的RAG系統，我們需要結合Elasticsearch、Amazon Bedrock和LangChain等技術。Elasticsearch是一種強大的搜尋引擎，可以處理地理空間數據和向量數據。Amazon Bedrock是一種雲端平台，提供簡單的API來打造和擴展人工智慧應用。LangChain是一種強大的自然語言處理庫，可以幫助開發者打造智能應用。</p>    <p>通過結合這些技術，我們可以創建一個智能房地產助手，為用戶提供個人化房產推薦和其他智能服務。這個助手可以通過地理空間數據和人工智慧技術來搜尋和推薦房產，為用戶提供更好的搜尋體驗。</p>    <h2>編輯悄悄話</h2>    <p>打造一個強大的RAG系統需要結合多種技術和工具。但是，通過這種結合，我們可以創建更智能的應用，為用戶提供更好的服務。所以，不要害怕去嘗試新的技術和工具，創建你自己的智能應用吧！",
+    "score": 90,
+    "takeaways": [
+      "結合地理空間數據和人工智慧技術可以創建更智能的應用",
+      "Elasticsearch和Amazon Bedrock可以幫助開發者打造強大的RAG系統",
+      "這種系統可以為用戶提供個人化房產推薦和其他智能服務"
+    ],
+    "punchline": "讓房產搜尋變得更智能",
+    "social_posts": {
+      "threads": "      你們有沒有想過如何讓房產搜尋變得更智能？      使用Elasticsearch、Amazon Bedrock和LangChain，可以創建一個智能房地產助手，為用戶提供個人化房產推薦。      這個助手可以通過地理空間數據和人工智慧技術來搜尋和推薦房產，為用戶提供更好的搜尋體驗。    ",
+      "facebook": "      打造一個強大的RAG系統，為用戶提供個人化房產推薦和其他智能服務。      使用Elasticsearch、Amazon Bedrock和LangChain，可以創建一個智能房地產助手，讓房產搜尋變得更智能。      立即了解更多！    ",
+      "viral_hook": "讓房產搜尋變得更智能，從今天開始！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt4e527c4d30fc4d9d/6745ecd1278118edb95d6058/power-of-your-data.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/hybrid-geospatial-rag-application-elastic-amazon-bedrock",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "006",
+    "title": "Token 刺客來了！讓你直呼「為什麼會這樣？」的職場怪現象",
+    "summary": "職場上那些令人匪夷所思的Token 刺客，讓你感同身受嗎？",
+    "content": "<p>你是否曾經在職場上遇到過讓你感到困惑和無奈的Token 刺客？那些看似友善，但實際上卻在破壞團隊合作和氛圍的人。</p>    <h2>什麼是Token 刺客?</h2>    <p>Token 刺客是指那些在職場上，利用自己的言語和行為，來破壞他人工作成果和信心的人。他們可能會使用讚美和肯定來讓你感到舒服，但實際上卻在暗中破壞你的工作。</p>    <h2>如何避免被Token 刺客傷害?</h2>    <p>要避免被Token 刺客傷害，員工需要學會如何自我保護。首先，需要提高自己的覺察力，能夠快速發現Token 刺客的行為。其次，需要學會如何設定自己的界限，避免被Token 刺客的破壞行為所影響。</p>    <h2>編輯悄悄話</h2>    <p>職場上的Token 刺客，真的很可怕。但是，只要我們能夠提高自己的覺察力和設定界限，就可以避免被他們傷害。讓我們一起努力，創造一個更加和諧和高效的職場環境吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Token 刺客的出現，讓員工們感到困惑和無奈",
+      "這種現象背後，可能反映出公司的管理問題",
+      "員工需要學會如何自我保護，避免被Token 刺客傷害"
+    ],
+    "punchline": "Token 刺客來了，職場就變了",
+    "social_posts": {
+      "threads": "你有沒有在職場上遇到過Token 刺客？\n他們利用自己的言語和行為，來破壞他人工作成果和信心。\n如何避免被Token 刺客傷害？\n首先，需要提高自己的覺察力，能夠快速發現Token 刺客的行為。\n其次，需要學會如何設定自己的界限，避免被Token 刺客的破壞行為所影響。",
+      "facebook": "職場上的Token 刺客，真的很可怕。但是，只要我們能夠提高自己的覺察力和設定界限，就可以避免被他們傷害。讓我們一起努力，創造一個更加和諧和高效的職場環境吧！",
+      "viral_hook": "Token 刺客來了，職場就變了！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802928&idx=1&sn=98b6bc4e64f5936316f262d627453c38",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "007",
+    "title": "分布式系統的時間之謎：為什麼順序如此重要？",
+    "summary": "在單機環境中，時間是絕對的，但在分布式系統中，時間的順序卻變得複雜，甚至影響系統的正確性",
+    "content": "<p>你是否曾經想過，為什麼在分布式系統中，時間的順序會變得如此重要？在單機環境中，時間是絕對的，每個事件都可以按照時間順序排列。但是在分布式系統中，事情就變得複雜了，每個機器都有自己的時鐘，時鐘之間的同步就變得非常重要。</p>    <h2>分布式系統中的時間順序問題</h2>    <p>分布式系統中的時間順序問題主要是由於每個機器的時鐘都有自己的偏差，導致時鐘之間的同步變得困難。即使使用了NTP（Network Time Protocol）來同步時鐘，仍然不能完全消除時鐘之間的偏差。這就導致了事件的順序變得不確定，甚至可能導致系統的正確性受到影響。</p>    <h2>解決方案和應用</h2>    <p>為了解決分布式系統中的時間順序問題，人們提出了一些解決方案，例如邏輯時鐘和向量時鐘。邏輯時鐘是一種基於事件的時鐘，根據事件之間的因果關係來確定事件的順序。向量時鐘是一種基於向量的時鐘，使用向量來表示事件的順序。這些解決方案在實踐中得到了廣泛的應用，例如在Google Spanner等分布式數據庫中。</p>    <h2>編輯悄悄話</h2>    <p>時間的順序，決定了系統的正確性。在分布式系統中，時間的順序問題是一個非常重要的挑戰。但是，通過使用合適的解決方案和技術，人們可以有效地解決這個問題，從而構建更加可靠和高效的分布式系統。</p>",
+    "score": 90,
+    "takeaways": [
+      "分布式系統中的時間順序問題",
+      "時鐘同步的限制和挑戰",
+      "邏輯時鐘和向量時鐘的應用"
+    ],
+    "punchline": "時間的順序，決定了系統的正確性",
+    "social_posts": {
+      "threads": "你知道嗎？分布式系統中的時間順序問題是一個非常重要的挑戰！\n但為什麼時間的順序如此重要呢？\n讓我們一起探討這個問題吧！",
+      "facebook": "分布式系統中的時間順序問題：為什麼順序如此重要？\n發現分布式系統中的時間順序問題的挑戰和解決方案，讓我們一起探討這個問題吧！",
+      "viral_hook": "時間的順序，決定了系統的正確性！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!UKva!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0d40ba0-cfbd-443d-bb5a-dfd18c8cfeb1_2650x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/a-beginners-guide-to-clocks-causality",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "008",
+    "title": "🚀「爆炸性」技術突破！AI 研究人員的夢想終於實現：多個任務同時運行，效率提升 70%！",
+    "summary": "在大型語言模型 (LLM) 的增強學習 (RL) 後期訓練中，如何提高效率和降低成本一直是一個難題。近日，研究人員推出了「合作時間切片」（co-operative time-slicing）技術，能夠讓多個任務同時運行在同一硬體上，從而提高效率和降低成本。",
+    "content": "<h2>什麼是合作時間切片技術？</h2><p>合作時間切片技術是一種新型的技術，能夠讓多個任務同時運行在同一硬體上。該技術通過將任務切分成小塊，然後將這些小塊分配給不同的硬體資源，從而實現多個任務同時運行。</p><h2>合作時間切片技術的優點</h2><p>合作時間切片技術有以下優點：</p><ul><li>提高效率：該技術可以讓多個任務同時運行，從而提高整體效率。</li><li>降低成本：該技術可以讓多個任務共享硬體資源，從而降低成本。</li></ul><h2>合作時間切片技術的應用</h2><p>合作時間切片技術可以應用在大型語言模型的增強學習後期訓練中。該技術可以讓多個任務同時運行在同一硬體上，從而提高效率和降低成本。</p><h2>未來路線圖</h2><p>研究人員推出了該技術的詳細介紹和未來路線圖。未來，該技術將繼續發展和改進，從而實現更高的效率和更低的成本。</p><h2>編輯悄悄話</h2><p>合作時間切片技術是一種革命性的技術，能夠讓多個任務同時運行在同一硬體上。該技術的優點包括提高效率和降低成本。未來，該技術將繼續發展和改進，從而實現更高的效率和更低的成本。</p>",
+    "score": 90,
+    "takeaways": [
+      "合作時間切片技術可以提高大型語言模型的增強學習後期訓練效率",
+      "該技術可以讓多個任務同時運行在同一硬體上，從而提高效率和降低成本",
+      "研究人員推出了該技術的詳細介紹和未來路線圖"
+    ],
+    "punchline": "合作時間切片技術可以提高大型語言模型的增強學習後期訓練效率，讓多個任務同時運行在同一硬體上，從而提高效率和降低成本。",
+    "social_posts": {
+      "threads": "🚀「爆炸性」技術突破！AI 研究人員的夢想終於實現：多個任務同時運行，效率提升 70%！🤯",
+      "facebook": "合作時間切片技術：提高大型語言模型的增強學習後期訓練效率",
+      "viral_hook": "🚀「爆炸性」技術突破！AI 研究人員的夢想終於實現：多個任務同時運行，效率提升 70%！🤯"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/07_-_Containers__Kubernetes_iY4YTLa.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/introducing-co-operative-time-slicing-for-rl-in-llm-d/",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "009",
+    "title": "AI 新世代來了！GPT-5.6 和 Grok 4.5 會改變你的生活嗎？",
+    "summary": "最新的 AI 模型 GPT-5.6 和 Grok 4.5 正在挑戰傳統的智慧邊界，了解它們的優勢和潛在風險",
+    "content": "<p>最近，AI 的發展速度越來越快，新的模型層出不窮。其中，GPT-5.6 和 Grok 4.5 是兩個最受關注的模型，它們的出現將會對你的生活和工作產生深遠的影響。</p>    <h2>什麼是 GPT-5.6 和 Grok 4.5</h2>    <p>GPT-5.6 是 OpenAI 推出的最新模型，具有更強大的語言理解和生成能力。Grok 4.5 是 SpaceX AI 推出的模型，主要用於金融和法律應用，具有非常低的成本和高效的性能。</p>    <h2>AI 模型的發展對你的影響</h2>    <p>AI 模型的發展將會對你的工作和生活產生深遠的影響。例如，GPT-5.6 可以用於自動化的客戶服務和內容生成，而 Grok 4.5 可以用於金融和法律的分析和預測。然而，AI 模型的發展也存在風險和挑戰，例如安全性和道德性等問題。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來已經來臨，準備好迎接吧！雖然 AI 模型的發展存在風險和挑戰，但它們也將會為你的生活和工作帶來無窮的機會和便利。所以，讓我們一起關注 AI 的發展，共同迎接未來的挑戰和機會吧！</p>",
+    "score": 95,
+    "takeaways": [
+      "GPT-5.6 和 Grok 4.5 是什麼，和之前的模型有何不同",
+      "AI 模型的發展對你的工作和生活會有何影響",
+      "如何評估 AI 模型的安全性和風險"
+    ],
+    "punchline": "AI 的未來已經來臨，準備好迎接吧！",
+    "social_posts": {
+      "threads": "大家好！今天我們要聊聊 AI 的最新發展，包括 GPT-5.6 和 Grok 4.5。這些模型的出現將會對你的生活和工作產生深遠的影響，你準備好了嗎？",
+      "facebook": "AI 的未來已經來臨！了解 GPT-5.6 和 Grok 4.5 的優勢和潛在風險，準備好迎接 AI 的挑戰和機會吧！",
+      "viral_hook": "AI 的未來已經來臨，準備好迎接吧！"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 安全漏洞大揭秘！7 月更新來了，別再等了",
+    "summary": "Next.js 7 月安全更新釋出，修復多個嚴重漏洞，包括 CPU 過載、 middleware/proxy 繞過等，立即更新以確保應用安全",
+    "content": "<p>Next.js 7 月安全更新釋出，修復多個嚴重漏洞，包括 CPU 過載、middleware/proxy 繞過等。這些漏洞可能導致應用程式安全性受到影響，因此立即更新至最新版本是非常重要的。</p>    <h2>什麼是這次更新的內容？</h2>    <p>這次更新修復了多個安全漏洞，包括：</p>    <ul>      <li>CPU 過載漏洞：攻擊者可以製造請求，導致 CPU 過載，從而導致應用程式無法正常運行。</li>      <li>Middleware/Proxy 繞過漏洞：攻擊者可以繞過 middleware/proxy 的安全檢查，從而導致應用程式安全性受到影響。</li>      <li>Server-Side Request Forgery (SSRF) 漏洞：攻擊者可以製造請求，導致伺服器發送請求到惡意主機。</li>    </ul>    <h2>如何更新？</h2>    <p>更新非常簡單，只需要將 Next.js 更新至最新版本，即可修復這些安全漏洞。目前，更新適用於 v16.2.11 (Active LTS) 和 v15.5.21 (Maintenance LTS)。</p>    <h2>編輯悄悄話</h2>    <p>安全漏洞是每個開發者都需要關注的問題，Next.js 的這次更新就是一個很好的例子。立即更新，確保應用程式安全，別再等了！",
+    "score": 85,
+    "takeaways": [
+      "Next.js 安全更新修復多個嚴重漏洞，包括 CPU 過載和 middleware/proxy 繞過",
+      "更新適用於 v16.2.11 (Active LTS) 和 v15.5.21 (Maintenance LTS)",
+      "使用 App Router 和 Server Actions 的應用程式尤其需要更新"
+    ],
+    "punchline": "Next.js 安全更新來了，別再等了",
+    "social_posts": {
+      "threads": "大家好，我想跟大家分享一個重要的安全更新，Next.js 7 月安全更新釋出，修復多個嚴重漏洞，包括 CPU 過載、middleware/proxy 繞過等。立即更新，確保應用程式安全！",
+      "facebook": "Next.js 7 月安全更新釋出，修復多個嚴重漏洞，包括 CPU 過載、middleware/proxy 繞過等。立即更新，確保應用程式安全！點擊連結了解更多：[連結]",
+      "viral_hook": "Next.js 安全漏洞大揭秘！7 月更新來了，別再等了"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/july-2026-security-release/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/july-2026-security-release",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "011",
+    "title": "Google 投入 4,000 萬美元助力美國科學突破，什麼是 Genesis Mission?",
+    "summary": "Google 宣佈投入 4,000 萬美元支持美國科學研究，透過 AI 加速科學突破，改變研究方式",
+    "content": "<p>Google 宣佈投入 4,000 萬美元支持美國科學研究，透過 AI 加速科學突破，改變研究方式。這是 Google 對美國科學研究的重大投入，旨在加速科學突破，解決能源、安全和科學挑戰。</p>    <h2>什麼是 Genesis Mission?</h2>    <p>Genesis Mission 是一個國家級別的科學研究項目，旨在加速美國科學研究，解決能源、安全和科學挑戰。Google 的投入是對這個項目的重大支持，將有助於加速科學突破，改變研究方式。</p>    <h2>AI 加速科學突破</h2>    <p>AI 技術在科學研究中發揮著越來越重要的作用。透過 AI，我們可以加速科學突破，解決複雜的科學問題。Google 的投入將有助於加速 AI 在科學研究中的應用，改變研究方式，推動科學進步。</p>    <h2>編輯悄悄話</h2>    <p>Google 的投入是對科學研究的重大支持，將有助於加速科學突破，解決能源、安全和科學挑戰。讓我們拭目以待，看到 AI 和科學研究如何共同推動人類的進步。</p>",
+    "score": 85,
+    "takeaways": [
+      "Google 投入 4,000 萬美元支持美國科學研究",
+      "AI 技術加速科學突破，改變研究方式",
+      "Genesis Mission 項目旨在加速美國科學研究，解決能源、安全和科學挑戰"
+    ],
+    "punchline": "AI 加速科學突破",
+    "social_posts": {
+      "threads": "Google 投入 4,000 萬美元支持美國科學研究，你知道什麼是 Genesis Mission 嗎？#Google #科學研究 #GenesisMission",
+      "facebook": "Google 宣佈投入 4,000 萬美元支持美國科學研究，透過 AI 加速科學突破，改變研究方式。點擊鏈接了解更多：https://example.com",
+      "viral_hook": "Google 投入 4,000 萬美元助力美國科學突破，你準備好迎接科學革命了嗎？"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Genesis_Mission_40M_commitment.max-2600x2600.jpg",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "012",
+    "title": "LLM風暴：軟體開發的未來在哪裡？別讓AI把你拖下水！",
+    "summary": "軟體開發的未來正在被LLM風暴重塑，但在這個快速變化的時代，如何避免被拖下水？本文將帶你了解LLM的風險和機遇，讓你做出明智的選擇。",
+    "content": "<p>軟體開發的未來正在被LLM風暴重塑，但在這個快速變化的時代，如何避免被拖下水？</p>    <h2>LLM的風險和機遇</h2>    <p>LLM可以幫助軟體開發者提高生產力和效率，但也帶來了風險和挑戰。例如，LLM可能會產生安全漏洞、資料泄露等問題。</p>    <h2>軟體開發的未來需要平衡創新和控制</h2>    <p>在LLM風暴的時代，軟體開發者需要平衡創新和控制，既要利用LLM的優勢，又要避免其風險。這需要軟體開發者提高對LLM的認識和技能，同時也需要公司和組織建立相關的控制和管理機制。</p>    <h2>編輯悄悄話</h2>    <p>LLM風暴來了，別讓它把你拖下水！在這個快速變化的時代，需要謹慎評估LLM的風險和機遇，同時也需要提高對LLM的認識和技能。只有這樣，才能在LLM風暴中找到自己的位置和機遇。",
+    "score": 90,
+    "takeaways": [
+      "LLM的風險和機遇並存，需要謹慎評估",
+      "軟體開發的未來需要平衡創新和控制",
+      "人們需要提高對LLM的認識和技能"
+    ],
+    "punchline": "LLM風暴來了，別讓它把你拖下水！",
+    "social_posts": {
+      "threads": "LLM風暴來了！軟體開發的未來在哪裡？別讓AI把你拖下水！#LLM #軟體開發 #未來",
+      "facebook": "LLM風暴來了！軟體開發的未來需要平衡創新和控制。了解LLM的風險和機遇，提高對LLM的認識和技能。#LLM #軟體開發 #未來",
+      "viral_hook": "LLM風暴來了！別讓它把你拖下水！"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-07-21.html",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "013",
+    "title": "聊天機器人也能當健康助理？",
+    "summary": "ChatGPT 推出 Health 功能，讓用戶可以安全地連接醫療紀錄和 Apple Health，獲得更個性化的健康洞察和建議。",
+    "content": "<p>ChatGPT 推出 Health 功能，讓用戶可以安全地連接醫療紀錄和 Apple Health，獲得更個性化的健康洞察和建議。</p><h2>什麼是 Health 功能？</h2><p>Health 功能可以幫助用戶更好地了解自己的健康狀況，包括連接醫療紀錄和 Apple Health 等功能。</p><h2>如何使用 Health 功能？</h2><p>用戶可以在 ChatGPT 的 sidebar 中找到 Health 功能，然後按照指示連接醫療紀錄和 Apple Health。</p><p>ChatGPT 可以提供個性化的健康建議和洞察，包括比較新舊的檢查結果、總結變化、探索睡眠、活動和鍛煉與日常生活的關係等。</p><h2>編輯悄悄話</h2><p>聊天機器人也能當健康助理？ ChatGPT 的 Health 功能讓我們看到未來的健康管理可能會更加智能和便捷。</p>",
+    "score": 90,
+    "takeaways": [
+      "ChatGPT 的 Health 功能可以幫助用戶更好地了解自己的健康狀況",
+      "用戶可以安全地連接醫療紀錄和 Apple Health",
+      "ChatGPT 可以提供個性化的健康建議和洞察"
+    ],
+    "punchline": "聊天機器人也能當健康助理？",
+    "social_posts": {
+      "threads": "你知道嗎？聊天機器人也能當健康助理？ ChatGPT 推出 Health 功能，讓用戶可以安全地連接醫療紀錄和 Apple Health，獲得更個性化的健康洞察和建議。",
+      "facebook": "ChatGPT 推出 Health 功能！讓用戶可以安全地連接醫療紀錄和 Apple Health，獲得更個性化的健康洞察和建議。點擊連結了解更多：",
+      "viral_hook": "聊天機器人也能當健康助理？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4MfwY6ER1qh4OTf0QkI0p8/31fc4cfae157e5c755368e9dd3440b11/16_9_SEO_Blog.jpg?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "date": "2026-07-24"
+  }
+]
