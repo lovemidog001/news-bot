@@ -284,5 +284,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/health-in-chatgpt",
     "date": "2026-07-24"
+  },
+  {
+    "id": "014",
+    "title": "AI新時代：Google因AI生成內容被判須承擔法律責任，開發新型聊天機器人",
+    "summary": "AI技術的發展日新月異，Google因AI生成內容被德國法院判須承擔法律責任，同時OpenAI推出新型聊天機器人GPT-Live，能夠實現全雙工通訊",
+    "content": "<h2>AI新時代</h2>    <p>AI技術的發展日新月異，各大科技公司都在積極投入AI的研究和開發。近日，Google因AI生成內容被德國法院判須承擔法律責任，這對於AI的發展有著深遠的影響。</p>    <h2>Google因AI生成內容被判須承擔法律責任</h2>    <p>德國法院判決Google須承擔AI生成內容的法律責任，這是AI發展史上的一个重要里程碑。這意味著AI生成的內容不再只是機器的產物，而是需要有人承擔法律責任的內容。</p>    <h2>OpenAI推出新型聊天機器人GPT-Live</h2>    <p>OpenAI近日推出新型聊天機器人GPT-Live，能夠實現全雙工通訊。這意味著用戶可以與聊天機器人進行更加自然和流暢的對話。</p>    <h2>編輯悄悄話</h2>    <p>AI新時代，法律責任誰來承擔？這個問題將成為未來AI發展的重要課題。同時，AI技術的發展也對法律和社會有著深遠的影響。作為一名編輯，我們需要關注AI的發展，並思考如何在這個新時代中找到自己的位置。",
+    "score": 90,
+    "takeaways": [
+      "Google因AI生成內容被德國法院判須承擔法律責任",
+      "OpenAI推出新型聊天機器人GPT-Live，能夠實現全雙工通訊",
+      "AI技術的發展對法律和社會有著深遠影響"
+    ],
+    "punchline": "AI新時代，法律責任誰來承擔？",
+    "social_posts": {
+      "threads": "AI新時代，法律責任誰來承擔？\nGoogle因AI生成內容被德國法院判須承擔法律責任\nOpenAI推出新型聊天機器人GPT-Live，能夠實現全雙工通訊\n#AI #法律責任 #GPT-Live",
+      "facebook": "AI新時代，法律責任誰來承擔？Google因AI生成內容被德國法院判須承擔法律責任，OpenAI推出新型聊天機器人GPT-Live，能夠實現全雙工通訊。點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "AI新時代，法律責任誰來承擔？"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-362",
+    "date": "2026-07-24"
+  },
+  {
+    "id": "015",
+    "title": "Agent變可用產品？看騰訊WorkBuddy的實踐之道！",
+    "summary": "你是否曾經想過，Agent可以成為一種可用產品？騰訊WorkBuddy的實踐之道，將帶你了解如何設計好Agent的上下文與運行機制！",
+    "content": "<h2>Agent變可用產品？看騰訊WorkBuddy的實踐之道！</h2><p>你是否曾經想過，Agent可以成為一種可用產品？在我們的印象中，Agent一直是一種工具，幫助我們完成特定的任務。但是，騰訊WorkBuddy的實踐之道，卻將Agent提升到了新的高度。</p><h2>設計好Agent的上下文與運行機制</h2><p>騰訊WorkBuddy的實踐之道，告訴我們，設計好Agent的上下文與運行機制是關鍵。這包括了如何定義Agent的任務，如何設計Agent的界面，以及如何確保Agent的可用性。</p><p>在這個過程中，騰訊WorkBuddy的團隊遇到了許多挑戰。但是，通過不斷的嘗試和改進，他們最終成功地將Agent變成了可用產品。</p><h2>編輯悄悄話</h2><p>Agent不是只是工具，是可用產品！騰訊WorkBuddy的實踐之道，值得我們借鑑。讓我們一起探索，如何將Agent變成了可用產品！</p>",
+    "score": 85,
+    "takeaways": [
+      "Agent可以成為一種可用產品",
+      "設計好Agent的上下文與運行機制是關鍵",
+      "騰訊WorkBuddy的實踐之道值得借鑑"
+    ],
+    "punchline": "Agent不是只是工具，是可用產品！",
+    "social_posts": {
+      "threads": "你們有沒有想過，Agent可以成為一種可用產品？騰訊WorkBuddy的實踐之道，真的很值得借鑑！",
+      "facebook": "Agent變可用產品？看騰訊WorkBuddy的實踐之道！你們有沒有想過，Agent可以成為一種可用產品？騰訊WorkBuddy的實踐之道，真的很值得借鑑！",
+      "viral_hook": "Agent不是只是工具，是可用產品！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802931&idx=1&sn=d1a09a7e393f439886c13f84ea8dcde4",
+    "date": "2026-07-24"
   }
 ]
