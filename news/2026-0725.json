@@ -1,0 +1,244 @@
+[
+  {
+    "id": "001",
+    "title": "終於！4位元擴散推理登場！Nunchaku 將革命性改變 Diffusers",
+    "summary": "Nunchaku 4位元擴散推理技術即將登陸 Diffusers，為圖像生成帶來革命性變革！",
+    "content": "<p>近期，Nunchaku團隊宣布將4位元擴散推理技術引入Diffusers，為圖像生成領域帶來了一場革命性的變革。</p>    <h2>什麼是Nunchaku 4位元擴散推理技術？</h2>    <p>Nunchaku 4位元擴散推理技術是一種新的圖像生成方法，通過對圖像進行4位元的編碼和解碼，從而實現高質量的圖像生成。這種技術的出現，將大大提升Diffusers的性能和效率。</p>    <h2>新技術的影響</h2>    <p>新技術的出現，不僅將大大提升圖像生成的質量和效率，也將對圖像生成領域產生深遠的影響。它將使得圖像生成更加普及和便捷，為各個領域的應用提供新的機會。</p>    <h2>編輯悄悄話</h2>    <p>圖像生成的新時代來了！Nunchaku 4位元擴散推理技術的出現，將為我們帶來更加驚人的圖像生成體驗。讓我們一起期待這場革命性的變革吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Nunchaku 4位元擴散推理技術的出現",
+      " Diffusers 的性能和效率將大幅提升",
+      " 新技術對圖像生成領域的影響"
+    ],
+    "punchline": "圖像生成的新時代來了！",
+    "social_posts": {
+      "threads": "你們有沒有想過，圖像生成的未來會是什麼樣子？\n現在，Nunchaku 4位元擴散推理技術的出現，為我們帶來了一場革命性的變革！\n讓我們一起期待這場變革吧！",
+      "facebook": "【圖像生成的新時代】Nunchaku 4位元擴散推理技術即將登陸 Diffusers！為圖像生成帶來革命性變革！點擊鏈接了解更多！",
+      "viral_hook": "圖像生成的新時代來了！Nunchaku 4位元擴散推理技術即將登陸 Diffusers！"
+    },
+    "image": "https://huggingface.co/blog/assets/nunchaku-diffusers/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "002",
+    "title": "AI 新世代！Claude Opus 5 登場，讓你的工作更加高效",
+    "summary": "Claude Opus 5 是 Anthropic 的最新 AI 模型，提供更好的編碼、知識工作、視覺理解和長期任務能力，讓你的工作更加高效",
+    "content": "<p>Claude Opus 5 是 Anthropic 的最新 AI 模型，提供更好的編碼、知識工作、視覺理解和長期任務能力。這個模型是 Anthropic 第五代 Opus 模型的第一個版本，相比於之前的版本，有了顯著的改進。</p>    <h2>什麼是 Claude Opus 5？</h2>    <p>Claude Opus 5 是一個強大的 AI 模型，能夠理解和導航代碼庫，如同一個有經驗的工程師，並能夠寫出生產質量的代碼。它還能夠處理長期任務，找到路徑來避開障礙，從錯誤中恢復，達到目標。</p>    <h2>如何使用 Claude Opus 5</h2>    <p>您可以通過 Amazon Bedrock 和 Claude Platform on AWS 來使用 Claude Opus 5。這個模型支持零數據保留，讓企業能夠安全地使用 AI。您可以通過 Anthropic Messages API、bedrock-runtimetrough Anthropic SDK 或 bedrock-mantle endpoints 來訪問模型。</p>    <h2>編輯悄悄話</h2>    <p>AI 新世代來了！Claude Opus 5 是一個強大的 AI 模型，能夠幫助您提高工作效率。不要錯過這個機會，來試用 Claude Opus 5 吧！",
+    "score": 90,
+    "takeaways": [
+      "Claude Opus 5 是 Anthropic 的最新 AI 模型，提供更好的編碼和知識工作能力",
+      "該模型支持零數據保留，讓企業能夠安全地使用 AI",
+      "Claude Opus 5 可以用於各種行業，包括金融服務、生產力工作等"
+    ],
+    "punchline": "AI 新世代來了！",
+    "social_posts": {
+      "threads": "大家好！我想分享一個新的 AI 模型 - Claude Opus 5。這個模型能夠幫助您提高工作效率，讓您更容易地完成編碼、知識工作等任務。有興趣的話，可以來試用一下吧！",
+      "facebook": "發現了一個強大的 AI 模型 - Claude Opus 5！這個模型能夠幫助您提高工作效率，讓您更容易地完成編碼、知識工作等任務。來試用一下吧！",
+      "viral_hook": "AI 新世代來了！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/24/ml-21458.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "003",
+    "title": "揭開 Meta 廣告的秘密：如何打造更精準的廣告推薦？",
+    "summary": "Meta 正在研發 Hierarchical Interest Representation 技術，以改善廣告推薦的準確性，讓用戶看到更相關的廣告內容。",
+    "content": "<p>你是否曾經想過，為什麼在 Facebook 或 Instagram 上會看到一些廣告，卻完全不知道為什麼會出現在你的畫面上？這一切都與 Meta 的 Hierarchical Interest Representation 技術有關。</p>    <h2>什麼是 Hierarchical Interest Representation？</h2>    <p> Hierarchical Interest Representation是一種技術，它可以幫助 Meta 更好地了解用戶的興趣，並將其與廣告內容進行匹配。這項技術使用了一種特殊的演算法，來分析用戶的行為和偏好，從而打造出更精準的廣告推薦。</p>    <p>這項技術的核心是建立一個用戶興趣的階層結構，從而可以更好地了解用戶的需求和偏好。例如，如果用戶經常瀏覽旅行相關的內容，則 Hierarchical Interest Representation 技術可以將其歸類為「旅行愛好者」，並向其推薦相關的廣告內容。</p>    <h2>如何工作？</h2>    <p> Hierarchical Interest Representation 技術使用了一種特殊的圖形結構，來分析用戶的行為和偏好。這種圖形結構可以將用戶的興趣和偏好進行分類和匹配，從而可以更好地了解用戶的需求和偏好。</p>    <p>此外，Hierarchical Interest Representation 技術還可以使用機器學習演算法，來分析用戶的行為和偏好，從而可以更好地了解用戶的需求和偏好。</p>    <h2>編輯悄悄話</h2>    <p> Hierarchical Interest Representation 技術是 Meta 廣告平台的一個重要組成部分，它可以幫助用戶看到更相關的廣告內容，同時也可以幫助廣告主更好地了解用戶的需求和偏好。這項技術的發展，也標誌著 Meta 廣告平台的智能化和個人化的方向。</p>",
+    "score": 90,
+    "takeaways": [
+      "Hierarchical Interest Representation 技術可以幫助 Meta 更好地了解用戶的興趣",
+      "這項技術可以提高廣告的相關性和點擊率",
+      "Meta 的廣告平台每月為數十億用戶提供數百萬則廣告"
+    ],
+    "punchline": "讓廣告變得更聰明，讓用戶看到更想要的內容",
+    "social_posts": {
+      "threads": "你是否曾經想過，為什麼在 Facebook 或 Instagram 上會看到一些廣告，卻完全不知道為什麼會出現在你的畫面上？這一切都與 Meta 的 Hierarchical Interest Representation 技術有關。 #Meta #廣告 #HierarchicalInterestRepresentation",
+      "facebook": "了解 Meta 的 Hierarchical Interest Representation 技術，可以幫助你更好地了解用戶的需求和偏好，同時也可以幫助你打造出更精準的廣告推薦。 #Meta #廣告 #HierarchicalInterestRepresentation",
+      "viral_hook": "你是否曾經想過，為什麼在 Facebook 或 Instagram 上會看到一些廣告，卻完全不知道為什麼會出現在你的畫面上？"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "004",
+    "title": "AT&T 和 Microsoft 如何用 Microsoft Foundry 和 AMD 處理千億級別的工作負載？",
+    "summary": "AT&T 和 Microsoft 聯手，成功處理了約千億級別的工作負載，開啟了生產級別的電信人工智慧新時代。",
+    "content": "<p>近日，AT&T 和 Microsoft 聯手，成功處理了約千億級別的工作負載，開啟了生產級別的電信人工智慧新時代。這一切，都要歸功於 Microsoft Foundry Managed Compute 和開源 AI 模型的結合，以及 AMD 和 NVIDIA 的 GPU 基礎設施。</p>    <h2>什麼是 Microsoft Foundry Managed Compute？</h2>    <p>Microsoft Foundry Managed Compute，是一個基於雲端的計算平台，能夠提供高度的靈活性和擴展性。它允許用戶自行選擇最適合的 AI 模型和基礎設施，從而實現大規模的工作負載處理。</p>    <h2>千億級別的工作負載，對我們的意義是什麼？</h2>    <p>千億級別的工作負載，代表著一個新的里程碑。它意味著我們可以處理更多的數據，完成更多的任務，並且更好地服務於用戶。這一切，都要歸功於人工智慧和雲端計算的結合。</p>    <h2>編輯悄悄話</h2>    <p>千億級別的工作負載，不再是夢想！AT&T 和 Microsoft 的合作，開啟了新的可能性。讓我們一起，期待未來的發展！</p>",
+    "score": 90,
+    "takeaways": [
+      "Microsoft Foundry Managed Compute 和開源 AI 模型的結合，實現了高度的靈活性和擴展性。",
+      "AMD 和 NVIDIA 的 GPU 基礎設施，為大規模的工作負載提供了強大的計算能力。",
+      "生產級別的電信人工智慧，將徹底改變我們對於通訊和數據處理的想法。"
+    ],
+    "punchline": "千億級別的工作負載，不再是夢想！",
+    "social_posts": {
+      "threads": "你知道嗎？AT&T 和 Microsoft 聯手，成功處理了約千億級別的工作負載！\n這一切，都要歸功於 Microsoft Foundry Managed Compute 和開源 AI 模型的結合，以及 AMD 和 NVIDIA 的 GPU 基礎設施。\n千億級別的工作負載，不再是夢想！",
+      "facebook": "AT&T 和 Microsoft 聯手，成功處理了約千億級別的工作負載！這是一個新的里程碑，代表著我們可以處理更多的數據，完成更多的任務，並且更好地服務於用戶。點擊連結，了解更多！",
+      "viral_hook": "千億級別的工作負載，不再是夢想！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Foundry-AT-T-OTel-2_2-2-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "005",
+    "title": "用Elastic和Amazon Bedrock打造地理空間RAG應用，讓房產搜尋更智慧",
+    "summary": "利用Elastic和Amazon Bedrock打造地理空間RAG應用，讓房產搜尋更智慧、更個人化",
+    "content": "<p>你是否曾經想過如何利用地理空間資料來搜尋房產？現在，透過Elastic和Amazon Bedrock的整合，你可以打造地理空間RAG應用，讓房產搜尋更智慧、更個人化。</p>    <h2>什麼是RAG？</h2>    <p>RAG（Retrieval Augmented Generation）是一種強大的技術，透過整合外部知識來源來提高LLM（Large Language Model）的準確性和相關性。它可以提高LLM的準確性和相關性，同時也可以提高文本生成的質量。</p>    <h2>如何打造地理空間RAG應用</h2>    <p>要打造地理空間RAG應用，你需要利用Elastic和Amazon Bedrock的整合。Elastic可以儲存、查詢和分析地理空間資料，而Amazon Bedrock可以提供簡單、統一的API來建置和擴展生成AI應用。</p>    <ul>      <li>使用Elastic儲存和查詢地理空間資料</li>      <li>使用Amazon Bedrock建置和擴展生成AI應用</li>      <li>整合地理空間搜尋和RAG技術來提供更個人化的房產推薦</li>    </ul>    <h2>編輯悄悄話</h2>    <p>讓房產搜尋更智慧、更個人化，不再是夢想。透過Elastic和Amazon Bedrock的整合，你可以打造地理空間RAG應用，讓房產搜尋更方便、更快捷。",
+    "score": 90,
+    "takeaways": [
+      "Elastic和Amazon Bedrock的整合可以打造地理空間RAG應用",
+      "RAG技術可以提高LLM的準確性和相關性",
+      "地理空間搜尋可以提供更個人化的房產推薦"
+    ],
+    "punchline": "讓房產搜尋更智慧、更個人化",
+    "social_posts": {
+      "threads": "你是否曾經想過如何利用地理空間資料來搜尋房產？\n現在，透過Elastic和Amazon Bedrock的整合，你可以打造地理空間RAG應用，讓房產搜尋更智慧、更個人化。",
+      "facebook": "讓房產搜尋更智慧、更個人化！透過Elastic和Amazon Bedrock的整合，你可以打造地理空間RAG應用，讓房產搜尋更方便、更快捷。",
+      "viral_hook": "房產搜尋再也不一樣！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt4e527c4d30fc4d9d/6745ecd1278118edb95d6058/power-of-your-data.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/hybrid-geospatial-rag-application-elastic-amazon-bedrock",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "006",
+    "title": "Agent變可用產品的秘密：WorkBuddy的實戰經驗",
+    "summary": "想知道如何設計好Agent的上下文與運行機制？WorkBuddy的實戰經驗告訴你，讓你的產品更懂用戶",
+    "content": "<p>你是否曾想過，如何讓Agent變成可用的產品？WorkBuddy的實戰經驗告訴你，關鍵就在於設計好Agent的上下文與運行機制。</p>    <h2>上下文設計的重要性</h2>    <p>Agent的上下文設計是決定用戶體驗的關鍵。一個好的上下文設計可以讓用戶更容易使用Agent，從而提高用戶的滿意度。</p>    <ul>      <li>用戶需求的分析</li>      <li>Agent的功能設計</li>      <li>用戶體驗的優化</li>    </ul>    <h2>運行機制的簡單易用</h2>    <p>運行機制的簡單易用是決定Agent可用性的另一個關鍵。一個簡單易用的運行機制可以讓用戶更容易使用Agent，從而提高用戶的黏性。</p>    <p>WorkBuddy的實戰經驗告訴你，讓Agent變可用，從設計開始。通過優化上下文設計和運行機制，讓用戶體驗更好，讓Agent變成真正可用的產品。</p>    <h2>編輯悄悄話</h2>    <p>其實，讓Agent變可用並不難，只要你願意傾聽用戶的需求，優化設計，簡化運行機制。WorkBuddy的實戰經驗是個很好的參考，快來看看吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Agent的上下文設計是關鍵",
+      "運行機制要簡單易用",
+      "用戶體驗是王道"
+    ],
+    "punchline": "讓Agent變可用，從設計開始",
+    "social_posts": {
+      "threads": "你知道嗎？讓Agent變可用其實很簡單，只要從設計開始！WorkBuddy的實戰經驗告訴你，關鍵就在於上下文設計和運行機制的簡單易用。來看看吧！",
+      "facebook": "讓Agent變可用不是夢！WorkBuddy的實戰經驗告訴你，通過優化上下文設計和運行機制，可以提高用戶的滿意度和黏性。分享給你的朋友吧！",
+      "viral_hook": "讓Agent變可用，只需3個步驟！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802931&idx=1&sn=d1a09a7e393f439886c13f84ea8dcde4",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "007",
+    "title": "分佈式系統的時間問題：為什麼順序如此重要？",
+    "summary": "在單機系統中，時間是絕對的，但在分佈式系統中，時間的相對性會引發一系列問題，影響系統的正確性和穩定性。",
+    "content": "<p>在單機系統中，時間是絕對的，每個事件都可以用一個時鐘來衡量。但是在分佈式系統中，情況就不同了。由於多台機器之間的時鐘偏差，時間的相對性會引發一系列問題，影響系統的正確性和穩定性。</p>    <h2>時鐘同步的挑戰</h2>    <p>網路時間協定（NTP）嘗試將時鐘同步，但它無法完全解決時鐘偏差問題。這意味著在分佈式系統中，事件的順序可能會被錯誤地判斷，從而導致一系列問題。</p>    <h2>順序的重要性</h2>    <p>順序的重要性在於它會影響系統的正確性和穩定性。例如，在資料庫系統中，正確的順序可以保證資料的一致性和完整性。同時，在調試和審計中，正確的順序可以幫助開發人員快速地定位問題和追蹤變化。</p>    <h2>編輯悄悄話</h2>    <p>時間是相對的，順序是life和death的問題。在分佈式系統中，時間的不確定性會導致一系列問題。但是，通過使用邏輯時鐘和向量時鐘等技術，我們可以減少時鐘偏差的影響，保證系統的正確性和穩定性。所以，下次你看到時間問題的時候，不要輕易地忽略它，因為它可能會對你的系統產生深遠的影響。</p>",
+    "score": 90,
+    "takeaways": [
+      "分佈式系統中，時間的不確定性會導致順序混亂",
+      "時鐘同步技術如NTP無法完全解決時鐘偏差問題",
+      "邏輯時鐘和向量時鐘可以幫助解決順序問題，但仍有局限性"
+    ],
+    "punchline": "時間是相對的，順序是life和death的問題",
+    "social_posts": {
+      "threads": "你有沒有想過時間的相對性會對你的系統產生什麼影響？在分佈式系統中，時間的不確定性會導致一系列問題。但是，通過使用邏輯時鐘和向量時鐘等技術，我們可以減少時鐘偏差的影響，保證系統的正確性和穩定性。",
+      "facebook": "分佈式系統中的時間問題：為什麼順序如此重要？在這篇文章中，我們將探討時間的相對性對分佈式系統的影響，和如何使用邏輯時鐘和向量時鐘等技術來解決這個問題。",
+      "viral_hook": "時間是相對的，順序是life和death的問題！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!UKva!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0d40ba0-cfbd-443d-bb5a-dfd18c8cfeb1_2650x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/a-beginners-guide-to-clocks-causality",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "008",
+    "title": "Open Knowledge Format v0.2登場！解決AI時代的信任問題",
+    "summary": "Open Knowledge Format v0.2新增了五個關鍵問題的答案，包括provenance、trust、freshness、lifecycle和attestation，讓AI生成的內容更可信任",
+    "content": "<h2>什麼是Open Knowledge Format？</h2>    <p>Open Knowledge Format是一個開放的知識格式，旨在讓AI生成的內容更可信任。</p>    <h2>五個關鍵問題</h2>    <p>Open Knowledge Format v0.2新增了五個關鍵問題的答案，包括：</p>    <ul>      <li>provenance：什麼是這個內容的來源？</li>      <li>trust：應該如何信任這個內容？</li>      <li>freshness：這個內容是否仍然有效？</li>      <li>lifecycle：這個內容的生命週期是什麼？</li>      <li>attestation：這個內容是否按照規定的方式生成？</li>    </ul>    <h2>實例：acme_retail</h2>    <p>我們準備了一個小型的Open Knowledge Format v0.2 bundle，叫做acme_retail，來示範這些新的字段。</p>    <h2>編輯悄悄話</h2>    <p>Open Knowledge Format v0.2是個重要的更新，讓AI生成的內容更可信任。試試看吧！",
+    "score": 90,
+    "takeaways": [
+      "Open Knowledge Format v0.2新增了五個關鍵問題的答案",
+      "讓AI生成的內容更可信任",
+      "新增的字段包括provenance、trust、freshness、lifecycle和attestation"
+    ],
+    "punchline": "AI時代的信任問題，終於有解了！",
+    "social_posts": {
+      "threads": "Open Knowledge Format v0.2登場！\n解決AI時代的信任問題\n新增五個關鍵問題的答案\n讓AI生成的內容更可信任",
+      "facebook": "Open Knowledge Format v0.2登場！解決AI時代的信任問題，新增五個關鍵問題的答案，讓AI生成的內容更可信任。試試看吧！",
+      "viral_hook": "AI時代的信任問題，終於有解了！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/okf-v0-2-adds-trust-signals/",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "009",
+    "title": "Next.js 安全漏洞大曝光！你的網站是否會中招？",
+    "summary": "Next.js 的最新安全更新已經推出，修復多個嚴重漏洞，包括 CPU 使用率過高、 middleware/proxy 繞過等問題，立即更新以確保網站安全",
+    "content": "<p>Next.js 的最新安全更新已經推出，修復多個嚴重漏洞，包括 CPU 使用率過高、middleware/proxy 繞過等問題。這些漏洞可能會導致網站受到攻擊，導致網站崩潰或敏感資料被竊取。</p>    <h2>什麼是這些漏洞？</h2>    <p>其中一個漏洞是 CPU 使用率過高，當 Next.js 應用程式使用 App Router 和至少一個 Server Action 時，攻擊者可以製造請求，導致 CPU 使用率過高，從而導致網站無法處理其他請求。</p>    <p>另一個漏洞是 middleware/proxy 繞過，Next.js 應用程式使用 App Router 和 Turbopack 時，如果 config.i18n.locales 只有一個條目，攻擊者可以繞過 middleware/proxy，從而繞過任何身份驗證或安全檢查。</p>    <h2>如何保護你的網站？</h2>    <p>立即更新 Next.js 為最新版本，修復這些漏洞。另外，確保你的網站使用最新的安全配置和最佳實踐，以防止攻擊者利用這些漏洞。</p>    <h2>編輯悄悄話</h2>    <p>網站安全是每個開發者的責任，讓我們一起努力，保護我們的網站和用戶的安全吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 的安全更新修復多個嚴重漏洞",
+      "立即更新以確保網站安全",
+      "Vercel 的開源漏洞獎勵計畫為 Next.js 的安全做出貢獻"
+    ],
+    "punchline": "你的網站安全嗎？",
+    "social_posts": {
+      "threads": "Next.js 的安全漏洞大曝光！你的網站是否會中招？立即更新以確保網站安全 #Nextjs #網站安全",
+      "facebook": "Next.js 的最新安全更新已經推出，修復多個嚴重漏洞。立即更新以確保網站安全，並分享給你的朋友們！",
+      "viral_hook": "你的網站安全嗎？Next.js 的安全漏洞大曝光！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/july-2026-security-release/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/july-2026-security-release",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "010",
+    "title": "AI的黑暗面：為什麼工程師和經理對AI的看法不同？",
+    "summary": "近期的一場軟體開發研討會上，工程師和經理對於AI的看法存在巨大差異，主要原因在於對AI的風險認知不同，工程師擔心AI的安全性和可靠性，而經理則看重AI的生產力和成本節約。",
+    "content": "<p>近期的一場軟體開發研討會上，工程師和經理對於AI的看法存在巨大差異，主要原因在於對AI的風險認知不同，工程師擔心AI的安全性和可靠性，而經理則看重AI的生產力和成本節約。</p>    <h2>AI的安全性和可靠性</h2>    <p>工程師對AI的安全性和可靠性非常關心，因為AI的錯誤可能會導致嚴重的後果，例如數據泄露、系統崩潰等。工程師認為，AI的安全性和可靠性需要通過嚴格的測試和驗證來確保。</p>    <h2>經理對AI的看法</h2>    <p>經理對AI的看法往往是基於成本節約和生產力提高，經理認為AI可以幫助公司節省成本和提高生產力，但是經理往往忽略了AI的安全性和可靠性問題。</p>    <p>近期的一個案例中，一家公司使用AI來優化其空氣濾清器的更換頻率，結果導致公司節省了5000萬美元的成本，但是後來發現AI的模型是基於沙漠地區的數據訓練的，而公司的設備是在北極地區使用的，結果導致空氣濾清器更換頻率過低，導致火災事故，公司最終損失了100億美元。</p>    <h2>編輯悄悄話</h2>    <p>AI的發展需要工程師和經理之間的溝通和合作，工程師需要向經理解釋AI的安全性和可靠性問題，而經理需要向工程師解釋公司的需求和目標，通過溝通和合作，可以確保AI的發展是安全和可靠的。",
+    "score": 90,
+    "takeaways": [
+      "AI的安全性和可靠性是工程師最關心的問題",
+      "經理對AI的看法往往是基於成本節約和生產力提高",
+      "AI的發展需要工程師和經理之間的溝通和合作"
+    ],
+    "punchline": "AI的黑暗面在於其安全性和可靠性問題",
+    "social_posts": {
+      "threads": "你知道嗎？AI的安全性和可靠性是工程師最關心的問題！\n經理對AI的看法往往是基於成本節約和生產力提高，但是忽略了AI的安全性和可靠性問題。\n近期的一個案例中，一家公司使用AI來優化其空氣濾清器的更換頻率，結果導致公司損失了100億美元！\n#AI #安全性 #可靠性",
+      "facebook": "AI的安全性和可靠性是工程師最關心的問題！經理對AI的看法往往是基於成本節約和生產力提高，但是忽略了AI的安全性和可靠性問題。近期的一個案例中，一家公司使用AI來優化其空氣濾清器的更換頻率，結果導致公司損失了100億美元！你如何看待AI的安全性和可靠性問題？",
+      "viral_hook": "AI的黑暗面：為什麼工程師和經理對AI的看法不同？"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-07-21.html",
+    "date": "2026-07-25"
+  },
+  {
+    "id": "011",
+    "title": "ChatGPT 現已連結健康紀錄！讓你更好地掌握自己的健康",
+    "summary": "美國用戶現在可以連結自己的健康紀錄和 Apple Health，讓 ChatGPT 提供更個人化的健康洞察",
+    "content": "<p>你是否曾經感到自己的健康紀錄零碎難以管理？現在，ChatGPT 現已連結健康紀錄和 Apple Health，讓你可以更好地掌握自己的健康。</p>    <h2>什麼是 Health in ChatGPT？</h2>    <p>Health in ChatGPT 是一個新的功能，讓你可以連結自己的健康紀錄和 Apple Health，讓 ChatGPT 提供更個人化的健康洞察。這個功能可以幫助你更好地了解自己的健康，讓你可以做出更好的健康決策。</p>    <h2>如何使用 Health in ChatGPT？</h2>    <p>使用 Health in ChatGPT 非常簡單。你只需要連結自己的健康紀錄和 Apple Health，然後 ChatGPT 就可以開始提供更個人化的健康洞察。你可以控制連結的健康資料和 ChatGPT 的使用，讓你可以更好地掌握自己的健康。</p>    <h2>編輯悄悄話</h2>    <p>掌握自己的健康，從 ChatGPT 開始。別讓健康問題困擾你，立即開始使用 Health in ChatGPT，讓你可以更好地照顧自己的健康。",
+    "score": 90,
+    "takeaways": [
+      "ChatGPT 現已可以連結健康紀錄和 Apple Health",
+      "用戶可以控制連結的健康資料和 ChatGPT 的使用",
+      "ChatGPT 可以提供更個人化的健康洞察和建議"
+    ],
+    "punchline": "掌握自己的健康，從 ChatGPT 開始",
+    "social_posts": {
+      "threads": "你是否曾經感到自己的健康紀錄零碎難以管理？現在，ChatGPT 現已連結健康紀錄和 Apple Health，讓你可以更好地掌握自己的健康。 #ChatGPT #健康紀錄",
+      "facebook": "掌握自己的健康，從 ChatGPT 開始。立即開始使用 Health in ChatGPT，讓你可以更好地照顧自己的健康。 https://www.chatgpt.com/health",
+      "viral_hook": "你的健康紀錄現在可以連結到 ChatGPT！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4MfwY6ER1qh4OTf0QkI0p8/31fc4cfae157e5c755368e9dd3440b11/16_9_SEO_Blog.jpg?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "date": "2026-07-25"
+  }
+]
