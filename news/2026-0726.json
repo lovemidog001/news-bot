@@ -1,0 +1,288 @@
+[
+  {
+    "id": "001",
+    "title": "AI 突破！4 位元擴散推論來了，讓 Diffusers 更強大！",
+    "summary": "最新的 Nunchaku 4 位元擴散推論技術登場，將讓 AI 模型 Diffusers 性能大幅提升，了解這項突破對你的影響吧！",
+    "content": "<p>最近，人工智慧領域的一項重大突破——Nunchaku 4 位元擴散推論技術正式亮相，這項技術對於 AI 模型 Diffusers 來說是一大提升。那么，什麼是擴散推論？又如何影響 Diffusers 的性能呢？</p>    <h2>什麼是擴散推論？</h2>    <p>擴散推論是一種用於訓練和優化 AI 模型的方法，尤其是在生成模型中非常重要。通過這種方法，模型可以學習到更好的參數，從而提高其生成的質量和多樣性。</p>    <h2>4 位元擴散推論的意義</h2>    <p>Nunchaku 4 位元擴散推論技術的登場，代表著在這一領域的又一次突破。與過去的技術相比，4 位元擴散推論可以更精確地控制模型的輸出，從而提高 Diffusers 的性能和效率。這對於需要高質量生成結果的應用場景來說，具有非常重要的意義。</p>    <h2>編輯悄悄話</h2>    <p>未來，隨著人工智慧技術的不斷發展，我們可以預見，更多創新的技術將會應用在各個領域。這項 4 位元擴散推論技術的突破，讓我們對 AI 的未來充滿了期待。讓我們一起關注人工智慧的最新發展，共同探索這個領域的無限可能！</p>",
+    "score": 90,
+    "takeaways": [
+      "Nunchaku 4 位元擴散推論技術可以提高 AI 模型的準確度",
+      "這項技術對 Diffusers 來說是一大突破，將大幅提升其性能",
+      "未來這項技術可能會應用在更多領域，改善人工智慧的表現"
+    ],
+    "punchline": "AI 的未來，從 4 位元開始！",
+    "social_posts": {
+      "threads": "大家好！今天要跟你們聊一聊最新的 AI 突破——4 位元擴散推論技術！\n這項技術到底是什麼？又如何影響 AI 的未來？\n讓我們一起探索這個領域的最新發展！",
+      "facebook": "【AI 突破！】最新的 Nunchaku 4 位元擴散推論技術登場！了解這項技術對 Diffusers 的影響，和我們一起探索 AI 的未來！分享給你的朋友吧！",
+      "viral_hook": "AI 的未來，從 4 位元開始！"
+    },
+    "image": "https://huggingface.co/blog/assets/nunchaku-diffusers/thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nunchaku-diffusers",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "002",
+    "title": "AI 革命來了！ Claude Opus 5 登場： Anthropic 最強大模型",
+    "summary": "Claude Opus 5 是 Anthropic 最新的 AI 模型，能夠提供更好的 coding、知識工作、視覺理解和長期任務等功能，讓企業提高生產力和安全性",
+    "content": "<p>Claude Opus 5 是 Anthropic 最新的 AI 模型，能夠提供更好的 coding、知識工作、視覺理解和長期任務等功能。該模型能夠在 Amazon Bedrock 上運行，提供零數據保留和企業級安全性。</p>    <h2>什麼是 Claude Opus 5？</h2>    <p>Claude Opus 5 是 Anthropic 最強大模型，提供更好的 coding 和知識工作功能。該模型能夠理解和導航代碼庫，寫出高質量的代碼，並在工作過程中適應其策略。它還能夠提供更深入的推理和更高的準確性，特別是在文件密集的企業任務中。</p>    <h2>如何使用 Claude Opus 5</h2>    <p>Claude Opus 5 可以用於各種行業，包括金融服務、生產力工作和網絡安全。該模型能夠用於編碼、知識工作、視覺理解和長期任務等功能，並能夠提供更好的安全性和生產力。您可以在 Amazon Bedrock 上使用 Claude Opus 5，并可以通過 Anthropic Messages API 和 AWS SDK 啟用該模型。</p>    <h2>編輯悄悄話</h2>    <p>AI 革命來了！ Claude Opus 5 是 Anthropic 最強大模型，能夠提供更好的 coding 和知識工作功能。該模型能夠在 Amazon Bedrock 上運行，提供零數據保留和企業級安全性。不要錯過這個機會，立即體驗 Claude Opus 5 的強大功能吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Claude Opus 5 是 Anthropic 最強大模型，提供更好的 coding 和知識工作功能",
+      "該模型能夠在 Amazon Bedrock 上運行，提供零數據保留和企業級安全性",
+      "Claude Opus 5 可以用於各種行業，包括金融服務、生產力工作和網絡安全"
+    ],
+    "punchline": "AI 革命來了！",
+    "social_posts": {
+      "threads": "AI 革命來了！ Claude Opus 5 登場： Anthropic 最強大模型\n能夠提供更好的 coding 和知識工作功能\n在 Amazon Bedrock 上運行，提供零數據保留和企業級安全性\n立即體驗 Claude Opus 5 的強大功能吧！",
+      "facebook": "AI 革命來了！ Claude Opus 5 是 Anthropic 最強大模型，能夠提供更好的 coding 和知識工作功能。該模型能夠在 Amazon Bedrock 上運行，提供零數據保留和企業級安全性。點擊鏈接了解更多：",
+      "viral_hook": "AI 革命來了！ Claude Opus 5 登場： Anthropic 最強大模型"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/24/ml-21458.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-opus-5-on-aws-anthropics-most-capable-opus-model/",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "003",
+    "title": "揭開Facebook廣告背後的秘密：如何讓廣告更懂你？",
+    "summary": "Facebook正在研究新的技術，讓廣告更懂你的需求和興趣，透過人工智慧和圖形學習，打造更有效的廣告體驗。",
+    "content": "<p>你是否曾經在Facebook上看到一則廣告，覺得它完全懂你的需求和興趣？這不是巧合，Facebook正在研究新的技術，讓廣告更懂你。</p>    <h2>什麼是Hierarchical Interest Representation？</h2>    <p>Hierarchical Interest Representation是一種新的技術，透過人工智慧和圖形學習，學習用戶的潛在興趣和需求。這項技術可以打造更有效的廣告體驗，讓廣告更準確地瞄準用戶的需求。</p>    <h2>如何運作？</h2>    <p>透過圖形學習，廣告可以更準確地瞄準用戶的需求。這項技術可以學習用戶的潛在興趣和需求，打造更相關的廣告內容。同時，透過圖形學習，廣告也可以更好地瞄準用戶的需求，提高廣告的相關性和用戶的滿意度。</p>    <h2>編輯悄悄話</h2>    <p>所以，下次你看到一則廣告，覺得它完全懂你的需求和興趣時，不要感到驚訝。這只是Facebook的Hierarchical Interest Representation技術在運作。讓我們期待這項技術能夠帶來更好的廣告體驗吧！",
+    "score": 90,
+    "takeaways": [
+      "Facebook的Hierarchical Interest Representation技術可以學習用戶的潛在興趣",
+      "透過圖形學習，廣告可以更準確地瞄準用戶的需求",
+      "這項技術可以提高廣告的相關性和用戶的滿意度"
+    ],
+    "punchline": "讓廣告更懂你，打造更好的廣告體驗",
+    "social_posts": {
+      "threads": "你是否曾經在Facebook上看到一則廣告，覺得它完全懂你的需求和興趣？\n這不是巧合，Facebook正在研究新的技術，讓廣告更懂你。\n透過人工智慧和圖形學習，廣告可以更準確地瞄準用戶的需求。\n這項技術可以打造更有效的廣告體驗，讓廣告更相關的內容。\n#Facebook #廣告 #人工智慧",
+      "facebook": "Facebook的Hierarchical Interest Representation技術可以學習用戶的潛在興趣，透過圖形學習，廣告可以更準確地瞄準用戶的需求。這項技術可以提高廣告的相關性和用戶的滿意度。了解更多：https://www.facebook.com/",
+      "viral_hook": "廣告要更懂你？Facebook的Hierarchical Interest Representation技術讓廣告更準確地瞄準用戶的需求！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "004",
+    "title": "科技巨頭AT&T和Microsoft聯手，創造了人工智慧史上最強的「超級腦」",
+    "summary": "AT&T和Microsoft聯手，使用Microsoft Foundry和AMD技術，成功處理了約一萬億個token，開啟了生產級別的電信人工智慧新時代",
+    "content": "<p>近日，科技巨頭AT&T和Microsoft聯手，創造了人工智慧史上最強的「超級腦」。使用Microsoft Foundry和AMD技術，成功處理了約一萬億個token，開啟了生產級別的電信人工智慧新時代。</p>    <h2>什麼是Microsoft Foundry?</h2>    <p>Microsoft Foundry是一種雲端基礎的人工智慧平台，提供了高效能和彈性的解決方案，讓企業可以更容易地開發和部署人工智慧應用程式。</p>    <h2>這項技術的進步，將對電信業和人工智慧的未來產生深遠影響</h2>    <p>AT&T和Microsoft的合作，展現了人工智慧在電信業的巨大潛力。這項技術的進步，將對電信業和人工智慧的未來產生深遠影響，讓我們可以期待更先進的服務和應用程式。</p>    <h2>編輯悄悄話</h2>    <p>人工智慧的未來，已經來臨。讓我們一起期待，科技將如何改變我們的生活和世界。</p>",
+    "score": 90,
+    "takeaways": [
+      "AT&T和Microsoft的合作，展現了人工智慧在電信業的巨大潛力",
+      "Microsoft Foundry和AMD的技術，提供了高效能和彈性的解決方案",
+      "這項技術的進步，將對電信業和人工智慧的未來產生深遠影響"
+    ],
+    "punchline": "人工智慧的未來，已經來臨",
+    "social_posts": {
+      "threads": "AT&T和Microsoft聯手，創造了人工智慧史上最強的「超級腦」！\n使用Microsoft Foundry和AMD技術，成功處理了約一萬億個token，開啟了生產級別的電信人工智慧新時代。\n什麼是Microsoft Foundry？\n它是一種雲端基礎的人工智慧平台，提供了高效能和彈性的解決方案，讓企業可以更容易地開發和部署人工智慧應用程式。",
+      "facebook": "AT&T和Microsoft聯手，創造了人工智慧史上最強的「超級腦」！使用Microsoft Foundry和AMD技術，成功處理了約一萬億個token，開啟了生產級別的電信人工智慧新時代。讓我們一起期待，科技將如何改變我們的生活和世界。",
+      "viral_hook": "人工智慧的未來，已經來臨！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Foundry-AT-T-OTel-2_2-2-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "005",
+    "title": "解鎖人工智慧的新世代：如何讓 Chatbot 學習你的秘密？",
+    "summary": "發現如何透過語意搜尋和檢索增強生成技術（RAG），讓 Chatbot 學習你的私有資料，提供更好的答案。",
+    "content": "<p>你是否曾經想過，如何讓 Chatbot 學習你的私有資料，提供更好的答案？在這篇文章中，我們將探討語意搜尋和檢索增強生成技術（RAG）的核心概念，以及如何透過這些技術讓 Chatbot 學習你的私有資料。</p>    <h2>什麼是語意搜尋和 RAG 技術？</h2>    <p>語意搜尋是一種可以理解語言意義的搜尋技術，可以讓 Chatbot 更好地理解用戶的需求。RAG 技術則是可以讓 Chatbot 學習私有資料，提供更好的答案。</p>    <h2>如何讓 Chatbot 學習你的私有資料</h2>    <p>要讓 Chatbot 學習你的私有資料，你需要先準備好你的資料，然後透過 RAG 技術進行訓練。這個過程需要大量的高品質資料和強大的計算資源，但是結果是值得的。</p>    <p>透過 RAG 技術，你可以讓 Chatbot 學習你的私有資料，提供更好的答案。這不僅可以提高 Chatbot 的準確度，也可以讓用戶更好地理解你的產品或服務。</p>    <h2>編輯悄悄話</h2>    <p>讓 Chatbot 學習你的秘密，解鎖新世代的人工智慧。透過語意搜尋和 RAG 技術，你可以讓 Chatbot 提供更好的答案，提高用戶的滿意度。不要錯過這個機會，現在就開始探索語意搜尋和 RAG 技術的力量吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "語意搜尋和 RAG 技術可以讓 Chatbot 學習私有資料",
+      "大型語言模型（LLM）可以透過訓練學習特定的資料",
+      "透過 RAG 技術，可以讓 Chatbot 提供更好的答案"
+    ],
+    "punchline": "讓 Chatbot 學習你的秘密，解鎖新世代的人工智慧",
+    "social_posts": {
+      "threads": "你是否曾經想過，如何讓 Chatbot 學習你的私有資料，提供更好的答案？\n透過語意搜尋和 RAG 技術，你可以讓 Chatbot 提供更好的答案，提高用戶的滿意度。\n讓我們一起探索語意搜尋和 RAG 技術的力量吧！",
+      "facebook": "發現如何透過語意搜尋和檢索增強生成技術（RAG），讓 Chatbot 學習你的私有資料，提供更好的答案。點擊連結，了解更多！",
+      "viral_hook": "讓 Chatbot 學習你的秘密，解鎖新世代的人工智慧！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blta5c42d028c7ce43a/66eafb2f95860092d8f91923/Elastic_Banner_1.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/retrieval-augmented-generation-explained",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "006",
+    "title": "AI界的「開源革命」：Kimi K3挑戰封閉模型",
+    "summary": "Moonshot AI推出2.8兆參數的開源模型Kimi K3，挑戰封閉模型的霸主地位。與此同時，Meta推出Muse Spark 1.1，價格戰正式打響。Cloudflare則宣布將限制AI模型的網路抓取行為，開源模型的未來將如何發展？",
+    "content": "<h2>Kimi K3挑戰封閉模型</h2><p>Moonshot AI推出2.8兆參數的開源模型Kimi K3，挑戰封閉模型的霸主地位。Kimi K3的效能媲美頂級封閉模型，且具有開源的優勢，可以讓開發者自由修改和擴展。</p><h2>Muse Spark 1.1價格戰</h2><p>Meta推出Muse Spark 1.1，價格戰正式打響。Muse Spark 1.1的價格遠低於同級別的封閉模型，將對AI模型的市場產生重大影響。</p><h2>Cloudflare網路抓取限制</h2><p>Cloudflare宣布將限制AI模型的網路抓取行為，開源模型的未來將如何發展？Cloudflare的限制將對開源模型的發展產生影響，但也將推動開源模型的創新和發展。</p><h2>編輯悄悄話</h2><p>開源革命來臨，AI界將如何變革？開源模型的未來將充滿挑戰和機會，我們將繼續關注和報導開源模型的發展動態。</p>",
+    "score": 95,
+    "takeaways": [
+      "Kimi K3是目前最大型的開源模型，挑戰封閉模型的霸主地位",
+      "Muse Spark 1.1的價格戰將對AI模型的市場產生重大影響",
+      "Cloudflare的網路抓取限制將對開源模型的發展產生影響"
+    ],
+    "punchline": "開源革命來臨，AI界將如何變革？",
+    "social_posts": {
+      "threads": "開源革命來臨！Kimi K3挑戰封閉模型，Muse Spark 1.1價格戰正式打響，Cloudflare網路抓取限制將如何影響開源模型的發展？#AI #開源 #模型",
+      "facebook": "開源革命來臨！Kimi K3挑戰封閉模型，Muse Spark 1.1價格戰正式打響，Cloudflare網路抓取限制將如何影響開源模型的發展？點擊鏈接查看更多詳細信息！#AI #開源 #模型",
+      "viral_hook": "開源革命來臨！Kimi K3挑戰封閉模型，Muse Spark 1.1價格戰正式打響，Cloudflare網路抓取限制將如何影響開源模型的發展？"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-363",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "007",
+    "title": "WorkBuddy 的秘密：如何把 Agent 打造成爆款產品？",
+    "summary": "你知道嗎？Agent 的設計可以決定產品的成敗！WorkBuddy 的實踐告訴你，如何把 Agent 打造成可用產品，讓用戶愛不釋手！",
+    "content": "<p>你是否曾經想過，為什麼有些產品能夠如此成功，而其他的卻慘澹失敗？答案其實很簡單：就是因為 Agent 的設計！</p>    <h2>什麼是 Agent？</h2>    <p>Agent 是指在產品中扮演代理人的角色，幫助用戶完成特定的任務。然而，Agent 的設計並不容易，需要考慮到用戶的需求、行為和感受。</p>    <h2>如何設計好 Agent？</h2>    <p>根據 WorkBuddy 的實踐，設計好 Agent 的上下文與運行機制是關鍵。這需要對用戶有深入的了解，才能設計出符合用戶需求的 Agent。</p>    <ul>      <li>上下文設計：需要考慮到用戶的行為、感受和需求</li>      <li>運行機制：需要優化以提高用戶體驗</li>    </ul>    <h2>編輯悄悄話</h2>    <p> Agent 的設計決定產品的命運！所以，別再猶豫了，趕快行動起來，設計出屬於自己的爆款 Agent 吧！",
+    "score": 85,
+    "takeaways": [
+      "Agent 的上下文設計是關鍵",
+      "運行機制的優化可以提高用戶體驗",
+      "產品的成功需要用戶的參與和回饋"
+    ],
+    "punchline": "Agent 的設計決定產品的命運！",
+    "social_posts": {
+      "threads": "大家好！今天我要跟你們分享一個很重要的東西：Agent 的設計！你知道嗎？Agent 的設計可以決定產品的成敗！#Agent #產品設計",
+      "facebook": "你知道嗎？Agent 的設計可以決定產品的成敗！WorkBuddy 的實踐告訴你，如何把 Agent 打造成可用產品，讓用戶愛不釋手！分享給你的朋友吧！",
+      "viral_hook": "Agent 的設計決定產品的命運！你還在等什麼？"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802931&idx=1&sn=d1a09a7e393f439886c13f84ea8dcde4",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "008",
+    "title": "分布式系統中的時鐘、因果關係和排序：你以為時間是絕對的嗎？",
+    "summary": "分布式系統中，時間的順序性變得非常棘手，可能導致更新丟失、日誌順序錯亂等問題，了解時鐘和排序的原理對於系統設計至關重要",
+    "content": "<p>你是否曾經想過，時間在分布式系統中是如何工作的？答案可能會讓你感到驚訝。因為在分布式系統中，時間的順序性變得非常棘手，可能導致更新丟失、日誌順序錯亂等問題。</p>    <h2>時鐘和排序的基本原理</h2>    <p>在單機系統中，時間順序是明確的，每個事件都可以用一致的時鐘來衡量。但是在分布式系統中，各機器的時鐘可能不一致，導致排序問題。Network Time Protocol (NTP) 嘗試同步時鐘，但仍然不能完全解決問題。</p>    <h2>排序問題的實際影響</h2>    <p>排序問題可能導致許多實際問題，例如更新丟失、日誌順序錯亂等。例如，當兩個機器上的事件排序不同時，可能導致更新丟失或日誌順序錯亂。這些問題對於系統的正確性和可靠性至關重要。</p>    <h2>編輯悄悄話</h2>    <p>時間不是絕對的，排序才是王道。在分布式系統中，了解時鐘和排序的原理對於系統設計至關重要。所以，下次當你看到時間時，別忘了思考排序問題吧！",
+    "score": 90,
+    "takeaways": [
+      "單機系統中，時間順序是明確的，但分布式系統中，各機器的時鐘可能不一致",
+      "時鐘差異可能導致更新丟失、日誌順序錯亂等問題",
+      "邏輯時鐘和向量時鐘可以幫助解決排序問題，但仍有局限性"
+    ],
+    "punchline": "時間不是絕對的，排序才是王道",
+    "social_posts": {
+      "threads": "大家有沒有想過，時間在分布式系統中是如何工作的？\n答案可能會讓你感到驚訝...\n#分布式系統 #時間 #排序",
+      "facebook": "分布式系統中的時鐘、因果關係和排序：你以為時間是絕對的嗎？了解時鐘和排序的原理對於系統設計至關重要。點擊鏈接了解更多！",
+      "viral_hook": "時間不是絕對的，排序才是王道！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!UKva!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0d40ba0-cfbd-443d-bb5a-dfd18c8cfeb1_2650x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/a-beginners-guide-to-clocks-causality",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "009",
+    "title": "AI 新世代來襲！GPT-5.6、Grok 4.5 等你了解",
+    "summary": "最新的 AI 模型 GPT-5.6 和 Grok 4.5 已經問世，讓我們一起了解它們的功能和影響",
+    "content": "<p>最近，AI 的發展再次引起了大家的關注。OpenAI 公布了 GPT-5.6 和 Grok 4.5 等新模型，讓我們看看它們的功能和特點。</p>    <h2>什麼是 GPT-5.6 和 Grok 4.5?</h2>    <p>GPT-5.6 是 OpenAI 推出的最新自然語言處理模型，具有更強的語言理解和生成能力。Grok 4.5 是 SpaceX AI 推出的編程模型，具有低成本和高效的編程能力。</p>    <h2>AI 模型的發展和應用</h2>    <p>AI 模型的發展和應用將對我們的生活產生深遠的影響。從自然語言處理到編程和圖像生成，AI 模型可以幫助我們解決許多問題和完成許多任務。但是，AI 模型也存在著風險和挑戰，例如資料安全和偏見等問題。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來是什麼？我們該如何評估和使用 AI 模型，避免相關的風險和挑戰？讓我們一起探討這些問題，迎接 AI 的新時代。",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6 和 Grok 4.5 是什麼，並且它們的功能是什麼",
+      "AI 模型的發展和應用將對我們的生活產生什麼影響",
+      "如何評估和使用 AI 模型，避免相關的風險和挑戰"
+    ],
+    "punchline": "AI 的未來是什麼？",
+    "social_posts": {
+      "threads": "最近的 AI 發展讓我感到很興奮！GPT-5.6 和 Grok 4.5 等新模型將對我們的生活產生什麼影響？讓我們一起討論。",
+      "facebook": "AI 的發展和應用將對我們的生活產生深遠的影響。從自然語言處理到編程和圖像生成，AI 模型可以幫助我們解決許多問題和完成許多任務。但是，AI 模型也存在著風險和挑戰，例如資料安全和偏見等問題。讓我們一起探討這些問題，迎接 AI 的新時代。",
+      "viral_hook": "AI 的未來是什麼？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 安全漏洞大曝光！7 月更新來了，別等了，馬上升級吧！",
+    "summary": "Next.js 的 7 月安全更新已經推出，修復多個安全漏洞，包括 CPU 過載、 middleware/proxy 繞過等，立即升級以保護您的應用程式",
+    "content": "<p>Next.js 的 7 月安全更新已經推出，修復多個安全漏洞，包括 CPU 過載、middleware/proxy 繞過等。這些漏洞可能導致服務器崩潰，影響您的應用程式的安全性和可靠性。</p>    <h2>什麼是安全漏洞？</h2>    <p>安全漏洞是指軟件或系統中的弱點或缺陷，可能被攻擊者利用來獲取未經授權的存取權或進行惡意活動。Next.js 的安全更新旨在修復這些漏洞，保護您的應用程式的安全性和可靠性。</p>    <h2>如何升級？</h2>    <p>升級到最新版本的 Next.js 非常簡單，只需執行以下命令：<code>npm install next@latest</code> 或 <code>yarn add next@latest</code>。然後，重新啟動您的應用程式，即可享受最新的安全更新。</p>    <h2>編輯悄悄話</h2>    <p>安全漏洞不會自己修復，升級吧！別等到您的應用程式被攻擊，立即升級到最新版本的 Next.js，保護您的應用程式的安全性和可靠性。</p>",
+    "score": 85,
+    "takeaways": [
+      "Next.js 的安全更新修復多個嚴重漏洞",
+      "CPU 過載和 middleware/proxy 繞過漏洞可能導致服務器崩潰",
+      "立即升級到最新版本以保護您的應用程式"
+    ],
+    "punchline": "安全漏洞不會自己修復，升級吧！",
+    "social_posts": {
+      "threads": "Next.js 的 7 月安全更新已經推出，修復多個安全漏洞，包括 CPU 過載、middleware/proxy 繞過等。立即升級以保護您的應用程式！#Nextjs #安全更新",
+      "facebook": "Next.js 的 7 月安全更新已經推出，修復多個安全漏洞，包括 CPU 過載、middleware/proxy 繞過等。立即升級以保護您的應用程式！https://example.com/nextjs-security-update",
+      "viral_hook": "Next.js 安全漏洞大曝光！7 月更新來了，別等了，馬上升級吧！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/july-2026-security-release/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/july-2026-security-release",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "011",
+    "title": "Google 4億美元助力科學革命：Genesis Mission如何改變未來",
+    "summary": "Google 投入 4億美元助力科學研究，讓科學家能更快速地進行研發，改變未來",
+    "content": "<p>Google 近日宣佈投入 4億美元，助力科學研究計畫 Genesis Mission。這個計畫旨在加速美國的科學發現速度，讓科學家能更快速地進行研發，改變未來。</p>    <h2>什麼是 Genesis Mission?</h2>    <p>Genesis Mission 是一個國家級別的科學研究計畫，目的是利用 AI 技術加速科學發現的速度。該計畫由美國白宮發起，Google 是其中的一個重要合作夥伴。</p>    <p>Google 提供 4億美元的 AI 代幣和雲端計算時間給科學家，讓他們能夠使用最先進的 AI 技術進行研究。這些技術包括 AlphaEvolve 和 Gemini，能夠幫助科學家解決複雜的挑戰。</p>    <h2>科學家如何受益</h2>    <p>科學家可以透過 Genesis Mission 獲得先進的 AI 技術和雲端計算時間。這將能夠幫助他們加速研究速度，解決複雜的挑戰，甚至發現新的科學現象。</p>    <p>例如，太平洋西北國家實驗室的科學家 Dr. Henry Kvinge 使用 AlphaEvolve 進行研究，發現了新的數學模型和複雜的幾何結構。這些發現將能夠幫助科學家更好地了解自然界的運作。</p>    <h2>編輯悄悄話</h2>    <p>科學革命即將來臨，Google 的 4億美元投入將成為其中的一個重要推動力。讓我們一起期待這個計畫將帶來什麼樣的科學突破和發現吧!",
+    "score": 90,
+    "takeaways": [
+      "Google 提供 4億美元的 AI 代幣和雲端計算時間給科學家",
+      "Genesis Mission 旨在加速美國的科學發現速度",
+      "AI 技術可以幫助科學家解決複雜的挑戰"
+    ],
+    "punchline": "科學革命即將來臨",
+    "social_posts": {
+      "threads": "Google 4億美元助力科學革命！\nGenesis Mission 如何改變未來？\n讓我們一起期待這個計畫將帶來什麼樣的科學突破和發現吧！",
+      "facebook": "Google 宣佈投入 4億美元，助力科學研究計畫 Genesis Mission。這個計畫旨在加速美國的科學發現速度，讓科學家能更快速地進行研發，改變未來。點擊鏈接了解更多：",
+      "viral_hook": "科學革命即將來臨！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Genesis_Mission_40M_commitment.max-2600x2600.jpg",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "012",
+    "title": "AI泡沫即將破裂？軟體開發大會揭露LLM隱藏的風險",
+    "summary": "軟體開發大會上，專家們討論了LLM（Large Language Model）在軟體開發中的應用和風險。會議指出，LLM雖然能夠提高生產力，但也存在著安全性和可靠性問題。專家們呼籲企業和開發者們要謹慎使用LLM，避免因為過度依賴而導致的風險。",
+    "content": "<h2>軟體開發大會上，專家們討論了LLM的風險和挑戰</h2>    <p>軟體開發大會上，專家們討論了LLM（Large Language Model）在軟體開發中的應用和風險。會議指出，LLM雖然能夠提高生產力，但也存在著安全性和可靠性問題。</p>    <h2>LLM的風險和挑戰</h2>    <ul>      <li>安全性問題：LLM可能會產生安全漏洞，導致企業和用戶的資料被洩露。</li>      <li>可靠性問題：LLM可能會產生錯誤的結果，導致企業和用戶的損失。</li>      <li>過度依賴：企業和開發者們可能會過度依賴LLM，導致失去對軟體開發的控制權。</li>    </ul>    <h2>專家們的建議</h2>    <p>專家們呼籲企業和開發者們要謹慎使用LLM，避免因為過度依賴而導致的風險。同時，專家們也建議企業和開發者們要加強對LLM的安全性和可靠性的評估和測試。</p>    <h2>編輯悄悄話</h2>    <p>AI泡沫即將破裂？軟體開發大會揭露LLM隱藏的風險。企業和開發者們要謹慎使用LLM，避免因為過度依賴而導致的風險。同時，專家們也呼籲企業和開發者們要加強對LLM的安全性和可靠性的評估和測試。</p>",
+    "score": 85,
+    "takeaways": [
+      "LLM在軟體開發中的應用存在著安全性和可靠性問題",
+      "企業和開發者們要謹慎使用LLM，避免因為過度依賴而導致的風險",
+      "軟體開發大會上，專家們討論了LLM的風險和挑戰"
+    ],
+    "punchline": "AI泡沫即將破裂？軟體開發大會揭露LLM隱藏的風險",
+    "social_posts": {
+      "threads": "軟體開發大會上，專家們討論了LLM的風險和挑戰。企業和開發者們要謹慎使用LLM，避免因為過度依賴而導致的風險。#LLM #軟體開發 #安全性 #可靠性",
+      "facebook": "軟體開發大會上，專家們討論了LLM的風險和挑戰。企業和開發者們要謹慎使用LLM，避免因為過度依賴而導致的風險。點擊鏈接查看更多詳細資訊。",
+      "viral_hook": "AI泡沫即將破裂？軟體開發大會揭露LLM隱藏的風險。"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-07-21.html",
+    "date": "2026-07-26"
+  },
+  {
+    "id": "013",
+    "title": "用ChatGPT掌控健康：如何將醫療紀錄和Apple Health連結，讓你的健康更上一層樓？",
+    "summary": "ChatGPT推出Health功能，讓用戶可以安全地連結醫療紀錄和Apple Health，獲得更個人化的健康洞察",
+    "content": "<p>ChatGPT推出Health功能，讓用戶可以安全地連結醫療紀錄和Apple Health，獲得更個人化的健康洞察。這項功能允許用戶控制何時允許ChatGPT使用連結的健康信息，從而可以更好地理解自己的健康信息，進行更明智的健康決策。</p>    <h2>什麼是Health功能？</h2>    <p>Health功能是ChatGPT的一項新功能，允許用戶連結醫療紀錄和Apple Health。這項功能可以幫助用戶更好地理解自己的健康信息，進行更明智的健康決策。用戶可以控制何時允許ChatGPT使用連結的健康信息，從而可以更好地管理自己的健康。</p>    <h2>如何使用Health功能？</h2>    <p>使用Health功能非常簡單。用戶只需要在ChatGPT的側邊欄中點擊「Health」，然後按照提示連結醫療紀錄和Apple Health。之後，ChatGPT就可以使用連結的健康信息，提供更個人化的健康洞察和建議。</p>    <h2>編輯悄悄話</h2>    <p>Health功能是ChatGPT的一項非常實用的功能，尤其是對於那些有多重健康問題的人。它可以幫助用戶更好地理解自己的健康信息，進行更明智的健康決策。所以，如果你想要掌控自己的健康，從ChatGPT開始吧！",
+    "score": 90,
+    "takeaways": [
+      "ChatGPT的Health功能允許用戶連結醫療紀錄和Apple Health",
+      "用戶可以控制何時允許ChatGPT使用連結的健康信息",
+      "Health功能可以幫助用戶更好地理解自己的健康信息，進行更明智的健康決策"
+    ],
+    "punchline": "掌控健康，從ChatGPT開始",
+    "social_posts": {
+      "threads": "大家有沒有試過使用ChatGPT的Health功能？它可以幫助你更好地理解自己的健康信息，進行更明智的健康決策。分享一下你的經驗吧！",
+      "facebook": "ChatGPT推出Health功能，讓用戶可以安全地連結醫療紀錄和Apple Health，獲得更個人化的健康洞察。點擊鏈接了解更多：https://www.chatgpt.com/health",
+      "viral_hook": "用ChatGPT掌控你的健康，從今天開始！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4MfwY6ER1qh4OTf0QkI0p8/31fc4cfae157e5c755368e9dd3440b11/16_9_SEO_Blog.jpg?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "date": "2026-07-26"
+  }
+]
