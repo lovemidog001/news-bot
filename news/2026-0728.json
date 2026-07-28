@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "醫學革命！NVIDIA 帶來即時生成模擬技術，讓手術機器人更加精確",
+    "summary": "NVIDIA 的 Cosmos-H-Dreams 技術將讓手術機器人能夠即時模擬人體解剖結構，讓醫師能夠更精確地進行手術",
+    "content": "<p>近年來，醫學技術的進步讓我們看到了很多令人驚奇的發展。最近，NVIDIA 宣布推出了一項新的技術，名為 Cosmos-H-Dreams，旨在讓手術機器人能夠即時生成人體解剖結構模擬。</p>    <h2>什麼是 Cosmos-H-Dreams 技術？</h2>    <p>Cosmos-H-Dreams 技術是由 NVIDIA 研發的，旨在讓手術機器人能夠即時生成人體解剖結構模擬。這項技術可以讓醫師能夠更精確地進行手術，減少手術過程中的風險。</p>    <h2>這項技術的優點</h2>    <ul>      <li>可以即時生成人體解剖結構模擬</li>      <li>可以讓手術機器人更加精確地進行手術</li>      <li>可以減少手術過程中的風險</li>    </ul>    <h2>編輯悄悄話</h2>    <p>這項技術真的很令人驚奇，未來的醫學手術方式可能會因此而改變。讓我們繼續關注這項技術的發展，期待它能夠帶來更多的醫學突破！</p>",
+    "score": 90,
+    "takeaways": [
+      "NVIDIA Cosmos-H-Dreams 技術可以即時生成人體解剖結構模擬",
+      "這項技術可以讓手術機器人更加精確地進行手術",
+      "這項技術有可能改變未來的醫學手術方式"
+    ],
+    "punchline": "讓手術機器人更加精確",
+    "social_posts": {
+      "threads": "你知道嗎？NVIDIA 的 Cosmos-H-Dreams 技術可以讓手術機器人更加精確地進行手術！\n這項技術真的很令人驚奇，未來的醫學手術方式可能會因此而改變。\n讓我們繼續關注這項技術的發展，期待它能夠帶來更多的醫學突破！",
+      "facebook": "NVIDIA 的 Cosmos-H-Dreams 技術是一項革命性的技術，讓手術機器人能夠即時生成人體解剖結構模擬。這項技術可以讓醫師能夠更精確地進行手術，減少手術過程中的風險。分享這篇文章，讓更多人知道這項技術的優點！",
+      "viral_hook": "讓手術機器人更加精確！NVIDIA 的 Cosmos-H-Dreams 技術即將改變醫學手術方式"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/68c1279544f671330c604f4c/Cj0RZwvOSUhFGFEFKgyDw.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "002",
+    "title": "AI 新時代：Task-aware 知識壓縮技術，徹底解決企業分析難題",
+    "summary": "傳統 RAG 面臨分析任務瓶頸，Task-aware 知識壓縮技術來解決，將知識庫壓縮成任務特定表現",
+    "content": "<p>如果您使用 Retrieval-Augmented Generation (RAG) 進行複雜的分析任務，例如金融盡職調查或法規合規性審查，您可能已經遇到了它的瓶頸。傳統 RAG 面臨分析任務的挑戰，尤其是在需要跨多個文檔進行分析的情況下。</p>    <h2>Task-aware 知識壓縮技術</h2>    <p>Task-aware 知識壓縮技術是一種新的方法，它可以將知識庫壓縮成任務特定表現，從而解決傳統 RAG 的局限性。這種技術使用大型語言模型 (LLM) 來生成文檔的摘要，但與傳統的摘要不同，這種摘要是針對特定的任務而生成的。</p>    <h2>壓縮技術的優點</h2>    <p>Task-aware 知識壓縮技術有幾個優點。首先，它可以維持文檔之間的連接，保留有用信息。其次，它可以根據查詢複雜度調整壓縮層級，提供最合適的答案。最後，它可以大大減少分析任務的時間和成本。</p>    <h2>編輯悄悄話</h2>    <p>Task-aware 知識壓縮技術是一種革命性的技術，它可以徹底解決企業分析任務的難題。它可以幫助企業更快速、更準確地完成分析任務，從而提高生產力和競爭力。如果您想了解更多關於這種技術的信息，請不要猶豫，立即聯繫我們。",
+    "score": 90,
+    "takeaways": [
+      "Task-aware 知識壓縮技術可將知識庫壓縮成任務特定表現",
+      "壓縮技術可維持文檔之間的連接，保留有用信息",
+      "系統可根據查詢複雜度調整壓縮層級，提供最合適的答案"
+    ],
+    "punchline": "AI 分析任務的新時代",
+    "social_posts": {
+      "threads": "大家好，我要分享一個非常酷的技術，Task-aware 知識壓縮技術，可以徹底解決企業分析任務的難題！\n\n這種技術可以將知識庫壓縮成任務特定表現，維持文檔之間的連接，保留有用信息。\n\n它可以根據查詢複雜度調整壓縮層級，提供最合適的答案。\n\n大家有興趣了解更多嗎？",
+      "facebook": "Task-aware 知識壓縮技術是一種革命性的技術，可以徹底解決企業分析任務的難題。它可以幫助企業更快速、更準確地完成分析任務，從而提高生產力和競爭力。了解更多：[連結]",
+      "viral_hook": "AI 分析任務的新時代：Task-aware 知識壓縮技術來了！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/23/19433.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/beyond-rag-task-aware-knowledge-compression-for-enterprise-ai-on-aws/",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "003",
+    "title": "揭開 Meta 廣告的秘密：層級化興趣代表法如何改變你的廣告體驗",
+    "summary": "Meta 正在開發一種新的廣告技術，稱為層級化興趣代表法，旨在改善用戶和廣告之間的連接，提供更相關的廣告內容",
+    "content": "<p>你是否曾經感到廣告太不相關，浪費了你的時間和注意力？Meta 現在正在努力改善這個問題，開發了一種新的廣告技術，稱為層級化興趣代表法。</p>    <h2>什麼是層級化興趣代表法？</h2>    <p>層級化興趣代表法是一種新的廣告技術，旨在改善用戶和廣告之間的連接。這種技術使用人工智慧來分析用戶的興趣和行為，提供更相關的廣告內容。通過這種技術，Meta 可以更好地了解用戶的需求和偏好，提供更有效的廣告內容。</p>    <h2>如何運作？</h2>    <p>層級化興趣代表法使用人工智慧來分析用戶的興趣和行為，包括他們的搜索歷史、瀏覽記錄和社交媒體活動。這種技術可以學習用戶的興趣和偏好，提供更相關的廣告內容。另外，層級化興趣代表法還可以改善廣告的相關性和有效性，為用戶提供更好的體驗。</p>    <h2>編輯悄悄話</h2>    <p>層級化興趣代表法是一種革命性的廣告技術，將改善用戶和廣告之間的連接。通過這種技術，Meta 可以提供更相關的廣告內容，改善用戶的體驗。所以，下次你看到廣告時，不要感到厭煩，因為它可能是你真正需要的東西！",
+    "score": 90,
+    "takeaways": [
+      "層級化興趣代表法是一種新的廣告技術，旨在改善用戶和廣告之間的連接",
+      "這種技術使用人工智慧來分析用戶的興趣和行為，提供更相關的廣告內容",
+      "層級化興趣代表法可以改善廣告的相關性和有效性，為用戶提供更好的體驗"
+    ],
+    "punchline": "層級化興趣代表法：讓廣告變得更聰明",
+    "social_posts": {
+      "threads": "你們有沒有感到廣告太不相關？Meta 現在正在努力改善這個問題，開發了一種新的廣告技術，稱為層級化興趣代表法。讓我們一起探討這種技術的優點和缺點！",
+      "facebook": "Meta 正在開發一種新的廣告技術，稱為層級化興趣代表法。這種技術可以改善用戶和廣告之間的連接，提供更相關的廣告內容。點擊連結了解更多！",
+      "viral_hook": "廣告即將變得更聰明！Meta 的層級化興趣代表法將改變你對廣告的看法"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "004",
+    "title": "AT&T 和微軟如何處理一萬億個數據？",
+    "summary": "AT&T 和微軟聯手處理一萬億個數據，開發 OTel2.0，使用微軟 Foundry Managed Compute 和 AMD 及 NVIDIA GPU 基礎設施",
+    "content": "<p>你是否曾想過，一萬億個數據該如何處理？AT&T 和微軟聯手，成功處理了這個天文數字的數據，開發出 OTel2.0 項目。這個項目使用微軟 Foundry Managed Compute 和 AMD 及 NVIDIA GPU 基礎設施，展示了大規模 AI 應用的潛力。</p>    <h2>什麼是 OTel2.0?</h2>    <p>OTel2.0 是一個基於 AI 的項目，旨在提高電信業的效率和質量。這個項目使用了大量的數據，包括用戶行為、網路流量等，來優化電信服務。AT&T 和微軟的合作，讓這個項目成了一個現實。</p>    <h2>編輯悄悄話</h2>    <p>一萬億個數據，不再是夢想！AT&T 和微軟的合作，讓我們看到大規模 AI 應用的潛力。未來，誰知道會有什麼樣的突破？敬請期待！",
+    "score": 90,
+    "takeaways": [
+      "AT&T 和微軟合作處理大量數據",
+      "微軟 Foundry Managed Compute 和 AMD 及 NVIDIA GPU 基礎設施協助處理一萬億個數據",
+      "開發 OTel2.0 項目展示了大規模 AI 應用的潛力"
+    ],
+    "punchline": "一萬億個數據，不再是夢想!",
+    "social_posts": {
+      "threads": "你是否曾想過，一萬億個數據該如何處理？\nAT&T 和微軟聯手，成功處理了這個天文數字的數據，開發出 OTel2.0 項目。\n這個項目使用微軟 Foundry Managed Compute 和 AMD 及 NVIDIA GPU 基礎設施，展示了大規模 AI 應用的潛力。",
+      "facebook": "AT&T 和微軟聯手，成功處理了一萬億個數據，開發出 OTel2.0 項目。這個項目使用微軟 Foundry Managed Compute 和 AMD 及 NVIDIA GPU 基礎設施，展示了大規模 AI 應用的潛力。點擊鏈接，了解更多！",
+      "viral_hook": "一萬億個數據，不再是夢想！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/Foundry-AT-T-OTel-2_2-2-1.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "005",
+    "title": "AWS 封神！Elastic 獲得 AI 安全認證，讓你的 AI 系統更安全",
+    "summary": "Elastic 獲得 AWS AI Security Distinction 認證，證明其在 AI 安全領域的強大實力，讓企業能更好地保護自己的 AI 系統",
+    "content": "<p>近年來，AI 的發展速度越來越快，但是 AI 的安全性也越來越受到關注。Elastic 作為一家領先的安全公司，近期獲得了 AWS AI Security Distinction 認證，這是一個非常重要的里程碑。</p>    <h2>什麼是 AWS AI Security Distinction 認證？</h2>    <p>AWS AI Security Distinction 認證是 Amazon Web Services (AWS) 為了表彰其合作伙伴在 AI 安全領域的卓越成就而設立的。這個認證代表了 Elastic 在 AI 安全領域的技術深度和實際成效。</p>    <h2>為什麼 Elastic 能夠獲得這個認證？</h2>    <p>Elastic 的安全平台提供了統一的解決方案，包含 SIEM、EDR、雲安全和 AI驅動的工作流。這個平台可以幫助企業快速應對 AI 安全威脅，並提供了統一的安全監控和管理能力。</p>    <p>另外，Elastic 的 AI 安全平台還提供了多種工具和功能，例如 AI 工作流、實體分析和安全檢測等。這些工具和功能可以幫助企業更好地保護其 AI 系統，並提高其安全性。</p>    <h2>編輯悄悄話</h2>    <p>AI 的發展速度越來越快，但是 AI 的安全性也越來越受到關注。Elastic 的安全平台可以幫助企業更好地保護其 AI 系統，並提高其安全性。如果你正在尋找一種可靠的 AI 安全解決方案，Elastic絕對是值得考慮的選擇。</p>",
+    "score": 90,
+    "takeaways": [
+      "Elastic 的 AI 安全平台可以幫助企業保護其 AI 系統",
+      "Elastic 的平台提供了統一的安全解決方案，包含 SIEM、EDR、雲安全和 AI驅動的工作流",
+      "Elastic 的平台可以幫助企業快速應對 AI 安全威脅"
+    ],
+    "punchline": "AI 安全的未來，由 Elastic 來守護",
+    "social_posts": {
+      "threads": "你知道嗎？Elastic 獲得了 AWS AI Security Distinction 認證！這代表了 Elastic 在 AI 安全領域的技術深度和實際成效。 #AI #安全 #Elastic",
+      "facebook": "Elastic 獲得了 AWS AI Security Distinction 認證！這是一個非常重要的里程碑，代表了 Elastic 在 AI 安全領域的領導地位。點擊鏈接了解更多信息：https://www.elastic.co/",
+      "viral_hook": "AI 安全的未來，由 Elastic 來守護！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltc74c0126da02d256/6a58361610be6869dde84d3d/aws-ai-distinction-blog.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/aws-ai-security-distinction",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "006",
+    "title": "AI 自我進化時代來臨：會出題、會反思，還會自己長出新技能！",
+    "summary": "AI 自己學會成長會發生什麼？它會不斷進化，讓我們感受到科技的無限可能",
+    "content": "<p>你是否曾想過，AI 會不會有一天能夠自己學會成長和進化？現在，這個問題的答案已經出現了。最新的研究顯示，AI 能夠自己學會成長和進化，讓我們感受到科技的無限可能。</p>    <h2>什麼是 AI 自我進化？</h2>    <p>AI 自我進化是一種技術，讓 AI 能夠自己學會成長和進化。這項技術可以讓 AI 不斷地學習和改進，讓它能夠完成更多複雜的任務。這項技術的出現，可能會帶來新的工作機會和挑戰。</p>    <h2>AI 自我進化的影響</h2>    <p>AI 自我進化將會改變我們對於工作和生活的想法。它可能會讓我們有更多的時間和精力去做自己喜歡的事情，但是也可能會取代一些工作。因此，我們需要好好思考如何去應對這項技術的出現。</p>    <h2>編輯悄悄話</h2>    <p>最後，讓我們一起想想，AI 自我進化的未來會是什麼樣子？它會不斷地進化和改善，還是會停滯不前？無論如何，現在的我們，需要好好地思考和準備，才能在這個快速變化的世界中生存和發展下去。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 能夠自己學會成長和進化",
+      "這項技術可能會帶來新的工作機會和挑戰",
+      "AI 的自我進化將會改變我們對於工作和生活的想法"
+    ],
+    "punchline": "AI 自我進化，人類的工作會不會被取代？",
+    "social_posts": {
+      "threads": "你是否曾想過，AI 會不會有一天能夠自己學會成長和進化？現在，這個問題的答案已經出現了。最新的研究顯示，AI 能夠自己學會成長和進化，讓我們感受到科技的無限可能。\n\n但是，AI 自我進化的未來會是什麼樣子？它會不斷地進化和改善，還是會停滯不前？\n\n讓我們一起想想，如何去應對這項技術的出現，和如何去讓 AI 成為我們生活中的一部分。",
+      "facebook": "最新的研究顯示，AI 能夠自己學會成長和進化！這項技術可能會帶來新的工作機會和挑戰。讓我們一起想想，如何去應對這項技術的出現，和如何去讓 AI 成為我們生活中的一部分。分享你的想法和意見，讓我們一起討論這個話題！",
+      "viral_hook": "AI 自我進化來了！會出題、會反思，還會自己長出新技能！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802932&idx=1&sn=7d3d0536a3433b8848942c2a58b945ca",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "007",
+    "title": "SAP 和 Google Cloud 聯手！讓您的資料分析更上一層樓",
+    "summary": "SAP Business Data Cloud Connect for BigQuery 正式上市，讓您可以零複製地存取 SAP 和 Google Cloud 的資料，打破資料孤島，提升分析和 AI 的效能",
+    "content": "<h2>什麼是 SAP Business Data Cloud Connect for BigQuery？</h2>    <p>SAP Business Data Cloud Connect for BigQuery 是一項聯合 SAP 和 Google Cloud 的解決方案，讓您可以零複製地存取 SAP 和 Google Cloud 的資料，打破資料孤島，提升分析和 AI 的效能</p>    <h2>它的優點是什麼？</h2>    <ul>      <li>零複製的資料存取，減少資料複製和儲存的費用</li>      <li>提升分析和 AI 的效能，讓 AI 採取更複雜的商業任務</li>      <li>簡化資料管道，讓團隊快速建立功能性原型，加速 AI 投資的回報</li>    </ul>    <h2>編輯悄悄話</h2>    <p>別再讓資料孤島阻礙您的分析和 AI 的發展，趕快試用 SAP Business Data Cloud Connect for BigQuery 吧！",
+    "score": 90,
+    "takeaways": [
+      "零複製的資料存取，減少資料複製和儲存的費用",
+      "提升分析和 AI 的效能，讓 AI 採取更複雜的商業任務",
+      "簡化資料管道，讓團隊快速建立功能性原型，加速 AI 投資的回報"
+    ],
+    "punchline": "讓您的資料分析更上一層樓",
+    "social_posts": {
+      "threads": "SAP 和 Google Cloud 聯手！讓您的資料分析更上一層樓 #SAP #GoogleCloud #資料分析",
+      "facebook": "SAP Business Data Cloud Connect for BigQuery 正式上市！讓您可以零複製地存取 SAP 和 Google Cloud 的資料，打破資料孤島，提升分析和 AI 的效能",
+      "viral_hook": "讓您的資料分析更上一層樓！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/30_-_SAP_on_Google_Cloud_9UdZT2G.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/sap-google-cloud/sap-and-google-cloud-launch-bdc-connect-for-bigquery/",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "008",
+    "title": "AI 新世代來臨！GPT-5.6、Grok 4.5 等你來體驗",
+    "summary": "最新的 AI 模型 GPT-5.6 和 Grok 4.5 領先全球，帶來更強大的Coding 能力，但也引發了安全性和監管的爭議",
+    "content": "<p>近期，AI 界迎來了多個重磅消息，包括 GPT-5.6 和 Grok 4.5 的發佈。這些新一代的 AI 模型不僅在性能上有了顯著的提升，也引發了人們對其安全性和監管的關注。</p>    <h2>AI 新世代的到來</h2>    <p>GPT-5.6 是 OpenAI 推出的最新 AI 模型，具有更強大的 Coding 能力和更低的成本。同時，SpaceX AI 的 Grok 4.5 也以其低成本和高性能而受到關注。這些新一代的 AI 模型不僅能夠更好地輔助人們的工作，也引發了人們對其潛在風險的擔憂。</p>    <h2>安全性和監管的挑戰</h2>    <p>隨著 AI 模型的不斷發展和應用，其安全性和監管問題也日益受到關注。例如，GPT-5.6 的發佈就引發了人們對其潛在風險的擔憂，包括其可能被用於惡意目的。因此，如何有效地監管和管理 AI 模型的開發和應用成為了一個重要的挑戰。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來是誰的未來？這是一個值得每個人思考的問題。隨著 AI 模型的不斷發展和應用，我們需要更多地關注其安全性和監管問題，同時也需要思考如何讓 AI 更好地服務於人類的需求和價值觀。</p>",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6 和 Grok 4.5 等新一代 AI 模型的誕生",
+      "AI 模型的安全性和監管問題日益受到關注",
+      "中國開源模型的崛起和海外市場的擴張"
+    ],
+    "punchline": "AI 的未來是誰的未來？",
+    "social_posts": {
+      "threads": "最近的 AI 模型發佈讓我感到非常驚訝！GPT-5.6 和 Grok 4.5 等新一代的 AI 模型不僅在性能上有了顯著的提升，也引發了人們對其安全性和監管的關注。大家如何看待這些新一代的 AI 模型呢？",
+      "facebook": "AI 新世代來臨！GPT-5.6 和 Grok 4.5 等新一代的 AI 模型領先全球，帶來更強大的 Coding 能力，但也引發了安全性和監管的爭議。更多詳情請見連結：",
+      "viral_hook": "AI 的未來是誰的未來？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "009",
+    "title": "Next.js 安全漏洞大補丁！別等等，馬上更新吧！",
+    "summary": "Next.js 7 月份安全更新釋出，修復多個嚴重漏洞，包括 CPU 耗盡、服務器端請求偽造等，立即更新以確保應用安全",
+    "content": "<p>Next.js 7 月份安全更新釋出，修復多個嚴重漏洞，包括 CPU 耗盡、服務器端請求偽造等。這些漏洞可能導致應用崩潰，影響用戶體驗和資料安全。</p>    <h2>什麼是 Next.js 安全更新？</h2>    <p>Next.js 是一個流行的 React 框架，廣泛用於建置 Web 應用。安全更新是 Next.js 團隊釋出的補丁，修復已知的安全漏洞，確保用戶資料和應用安全。</p>    <h2>這次安全更新修復了哪些漏洞？</h2>    <ul>      <li>CPU 耗盡：攻擊者可以製造請求，導致 CPU 耗盡，阻止進一步的請求處理。</li>      <li>服務器端請求偽造：攻擊者可以製造請求，導致服務器發送請求到惡意主機。</li>      <li>中間件/代理繞過：攻擊者可以繞過中間件/代理的安全檢查。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>別等等，馬上更新吧！安全漏洞不是兒戲，立即更新 Next.js 以確保應用安全。同時，別忘了參與 Vercel 的開源漏洞獎勵計畫，共同維護開源框架的安全。</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 安全更新釋出，修復多個嚴重漏洞",
+      "CPU 耗盡、服務器端請求偽造等漏洞可能導致應用崩潰",
+      "立即更新 Next.js 以確保應用安全"
+    ],
+    "punchline": "別等等，馬上更新吧！",
+    "social_posts": {
+      "threads": "      Next.js 安全漏洞大補丁！      別等等，馬上更新吧！      #Nextjs #安全漏洞 #更新    ",
+      "facebook": "      Next.js 7 月份安全更新釋出，修復多個嚴重漏洞。立即更新以確保應用安全。      https://example.com/nextjs-security-update    ",
+      "viral_hook": "Next.js 安全漏洞大補丁！別等等，馬上更新吧！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/july-2026-security-release/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/july-2026-security-release",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "010",
+    "title": "谷歌40萬美元助力科學革命：前沿AI加速科學發現",
+    "summary": "谷歌宣布投資40萬美元，為科學家提供前沿AI工具，助力美國科學發現的進步。這項投資將提供給美國能源部的科學家，幫助他們加速科學發現，解決能源、安全和科學挑戰。",
+    "content": "<p>谷歌宣布投資40萬美元，為科學家提供前沿AI工具，助力美國科學發現的進步。這項投資將提供給美國能源部的科學家，幫助他們加速科學發現，解決能源、安全和科學挑戰。</p>  <h2>前沿AI的力量</h2>  <p>谷歌的前沿AI工具，包括AlphaEvolve和Gemini，將幫助科學家加速科學發現。這些工具可以自動化複雜的數學計算，快速探索數據，和提供安全的平台，讓科學家可以專注於研究。</p>  <h2>科學家的反應</h2>  <p>美國能源部的科學家對這項投資表示讚賞。Dr. Henry Kvinge，太平洋西北國家實驗室的高級科學家，表示：「前沿AI工具可以幫助我們加速科學發現，解決複雜的數學問題。」  Dr. Steven R. Spurgeon，洛磯山國家實驗室的高級材料數據科學家，表示：「Gemini工具可以幫助我們自動化實驗，減少手動操作的時間和步驟。」  </p>  <h2>編輯悄悄話</h2>  <p>科學革命正在進行中，谷歌的投資將推動科學發現的進步。讓我們一起期待這項投資的成果，和看到前沿AI如何改變科學的未來。</p>",
+    "score": 90,
+    "takeaways": [
+      "谷歌投資40萬美元，為科學家提供前沿AI工具",
+      "前沿AI將幫助科學家加速科學發現，解決能源、安全和科學挑戰",
+      "美國能源部的科學家將獲得這項投資，推動科學革命"
+    ],
+    "punchline": "前沿AI加速科學發現，推動科學革命",
+    "social_posts": {
+      "threads": "谷歌投資40萬美元，為科學家提供前沿AI工具！這項投資將推動科學發現的進步，解決能源、安全和科學挑戰。 #科學革命 #前沿AI",
+      "facebook": "谷歌宣布投資40萬美元，為科學家提供前沿AI工具！這項投資將提供給美國能源部的科學家，幫助他們加速科學發現，解決能源、安全和科學挑戰。點擊鏈接，了解更多！",
+      "viral_hook": "谷歌40萬美元助力科學革命！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Genesis_Mission_40M_commitment.max-2600x2600.jpg",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "011",
+    "title": "AI 的黑暗面：為什麼企業高層對 AI 的期望值太高了？",
+    "summary": "AI 的發展正在快速推進，但企業高層對 AI 的期望值太高，忽略了 AI 的風險和局限性，可能會帶來嚴重的後果。",
+    "content": "<h2>AI 的發展和應用</h2>    <p>AI 的發展正在快速推進，許多企業都在嘗試將 AI 融入自己的業務中。但是在這個過程中，企業高層對 AI 的期望值太高，忽略了 AI 的風險和局限性。</p>    <p>例如，一家公司使用 ML 訓練的軟體來優化空氣濾清器的更換，結果發現可以節省 50 萬美元。但是，問題是 ML 模型是基於沙漠地區的設備訓練的，而公司的設備是在北極地區使用的。結果，空氣濾清器沒有被及時更換，導致了 100 億美元的損失。</p>    <h2>AI 的風險和局限性</h2>    <p>AI 的發展需要謹慎和嚴格的控制，避免安全漏洞和誤用。例如，公民開發者使用 AI 的「氛圍編程」可能會導致安全風險和誤用。</p>    <p>另外，AI 的發展也需要企業建立明確的 AI 發展戰略和風險管理機制，避免 AI 的發展過程中出現意外的風險和問題。</p>",
+    "score": 90,
+    "takeaways": [
+      "企業高層對 AI 的期望值太高，忽略了 AI 的風險和局限性",
+      "AI 的發展需要謹慎和嚴格的控制，避免安全漏洞和誤用",
+      "企業需要建立明確的 AI 發展戰略和風險管理機制"
+    ],
+    "punchline": "AI 的黑暗面：期望值太高，風險太大",
+    "social_posts": {
+      "threads": "你有沒有注意到 AI 的黑暗面？\n企業高層對 AI 的期望值太高，忽略了 AI 的風險和局限性\n#AI #風險 #企業",
+      "facebook": "AI 的發展正在快速推進，但企業高層對 AI 的期望值太高，忽略了 AI 的風險和局限性。企業需要建立明確的 AI 發展戰略和風險管理機制，避免 AI 的發展過程中出現意外的風險和問題。",
+      "viral_hook": "AI 的黑暗面：為什麼企業高層對 AI 的期望值太高了？"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-07-21.html",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "012",
+    "title": "AI 正在改變你的工作內容！15% 的工作任務將被重塑",
+    "summary": "最新研究發現，AI 正在拓展工作內容，讓工作者跨越傳統角色界限，挑戰傳統的工作定義",
+    "content": "<p>你是否曾想過，AI 將如何改變你的工作內容？最新研究發現，AI 正在拓展工作內容，讓工作者跨越傳統角色界限，挑戰傳統的工作定義。</p>    <h2>AI 的工作任務重塑</h2>    <p>研究發現，16.8% 的工作相關資訊和 43.5% 的職業特定資訊涉及其他職業的工作任務，這意味著工作者可以跨越傳統角色界限，承擔更多樣化的工作任務。例如，一個小企業主可以使用 AI 獨立撰寫文案、審核合同或進行基本財務分析。</p>    <h2>工作任務的變化</h2>    <p>AI 將改變工作的內容和工作者的角色，讓一些工作任務可以由非專業人員完成。例如，銷售人員可以使用 AI 探索客戶數據，讓一些工作任務可以由非專業人員完成。這將改變工作的內容和工作者的角色，讓一些工作任務可以由非專業人員完成。</p>    <h2>編輯悄悄話</h2>    <p>AI 的工作任務重塑將帶來新的挑戰和機會，準備好迎接挑戰吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 讓工作者可以跨越傳統角色界限，承擔更多樣化的工作任務",
+      "16.8% 的工作相關資訊和 43.5% 的職業特定資訊涉及其他職業的工作任務",
+      "AI 將改變工作的內容和工作者的角色，讓一些工作任務可以由非專業人員完成"
+    ],
+    "punchline": "AI 正在改變你的工作內容，準備好迎接挑戰吧！",
+    "social_posts": {
+      "threads": "AI 正在改變你的工作內容，讓工作者跨越傳統角色界限，挑戰傳統的工作定義。你是否曾想過，AI 將如何改變你的工作內容？#AI #工作任務 #重塑",
+      "facebook": "最新研究發現，AI 正在拓展工作內容，讓工作者跨越傳統角色界限，挑戰傳統的工作定義。點擊連結了解更多！#AI #工作任務 #重塑",
+      "viral_hook": "AI 正在改變你的工作內容，準備好迎接挑戰吧！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/51KOQJ7hZMnLcRbLNaOE0f/114791b3b8b669c3a504f3159e8e30de/SEO_Card__6_.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "date": "2026-07-28"
+  }
+]
