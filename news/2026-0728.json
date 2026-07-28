@@ -262,5 +262,71 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
     "date": "2026-07-28"
+  },
+  {
+    "id": "013",
+    "title": "開源AI模型崛起：Kimi K3、Muse Spark 1.1挑戰業界",
+    "summary": "開源AI模型Kimi K3和Muse Spark 1.1的推出，挑戰了傳統的AI產業格局，為開源AI帶來了新的機會和挑戰。",
+    "content": "<h2>開源AI模型的崛起</h2>    <p>近年來，開源AI模型的發展迅速，Kimi K3和Muse Spark 1.1的推出，標誌著開源AI模型的崛起。這些模型具有高性能和低成本的特點，為開發者提供了新的選擇。</p>    <h2>挑戰傳統AI產業</h2>    <p>開源AI模型的崛起，將挑戰傳統AI產業的商業模式。傳統AI產業通常以專有模型和高昂的費用為特點，而開源AI模型則提供了低成本和高性能的替代方案。</p>    <h2>編輯悄悄話</h2>    <p>開源AI時代來臨，開發者們將有更多的選擇和機會。然而，開源AI模型的崛起，也將帶來新的挑戰和機遇。讓我們一起關注開源AI的發展，和探討其對未來的影響。</p>",
+    "score": 95,
+    "takeaways": [
+      "Kimi K3是目前最大的開源AI模型，具有2.8萬億參數",
+      "Muse Spark 1.1是一種低成本、高性能的AI模型，適合於開發者使用",
+      "開源AI模型的崛起，將挑戰傳統AI產業的商業模式"
+    ],
+    "punchline": "開源AI時代來臨",
+    "social_posts": {
+      "threads": "開源AI模型崛起，挑戰傳統AI產業！\nKimi K3和Muse Spark 1.1的推出，標誌著開源AI模型的崛起。\n開發者們將有更多的選擇和機會。\n然而，開源AI模型的崛起，也將帶來新的挑戰和機遇。",
+      "facebook": "開源AI模型的崛起，挑戰傳統AI產業！Kimi K3和Muse Spark 1.1的推出，標誌著開源AI模型的崛起。讓我們一起關注開源AI的發展，和探討其對未來的影響。",
+      "viral_hook": "開源AI時代來臨！"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-363",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "014",
+    "title": "NVIDIA 的 AI 秘密武器：如何建造最強的開源模型？",
+    "summary": "NVIDIA 不僅賣 GPU，也是世界上最大的開源 AI 模型發布商。了解他們的建模秘密和開源策略，讓你領先一步。",
+    "content": "<p>NVIDIA 的 AI 研究團隊由 Bryan Catanzaro 領導，致力於建造開源模型。這些模型不僅適用於語言和推理，也涵蓋了物理世界，例如自駕車和機器人。</p>    <h2>什麼是開源模型？</h2>    <p>開源模型是指那些可以自由使用、修改和分發的 AI 模型。NVIDIA 的開源模型包括語言模型、推理模型和世界模型等。這些模型可以用於各種應用，從聊天機器人到自駕車。</p>    <h2>為什麼 NVIDIA 要開源模型？</h2>    <p>NVIDIA 的 CEO Jensen Huang 說，開源模型是 AI 領域的未來。通過開源模型，NVIDIA希望促進 AI 研究和發展，讓更多的人能夠使用和貢獻 AI 技術。</p>    <h2>編輯悄悄話</h2>    <p>看完這篇文章，你可能會有新的思考：NVIDIA 的開源模型到底是如何建造的？為什麼他們要開源這些模型？這些問題的答案，可能會讓你對 AI 領域有新的認識和思考。</p>",
+    "score": 90,
+    "takeaways": [
+      "NVIDIA 的開源模型涵蓋語言、推理、世界模型等多個領域",
+      "他們的模型架構設計旨在平衡速度和強大功能",
+      "開源不僅僅是分享模型權重，還包括了數據和知識的共享"
+    ],
+    "punchline": "NVIDIA 的開源模型是 AI 領域的革命性力量",
+    "social_posts": {
+      "threads": "你知道 NVIDIA 不僅賣 GPU，也是世界上最大的開源 AI 模型發布商嗎？他們的開源模型涵蓋語言、推理、世界模型等多個領域。這些模型可以用於各種應用，從聊天機器人到自駕車。NVIDIA 的開源模型是 AI 領域的革命性力量。",
+      "facebook": "NVIDIA 的開源模型是 AI 研究和發展的重要推動力。通過開源模型，NVIDIA希望促進 AI 研究和發展，讓更多的人能夠使用和貢獻 AI 技術。了解更多關於 NVIDIA 的開源模型和開源策略。",
+      "viral_hook": "NVIDIA 的 AI 秘密武器：開源模型！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!UrK7!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a9d7afa-63e6-48ac-bf57-dd91a35a7ced_1554x2048.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/how-nvidia-builds-open-models-for",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "015",
+    "title": "爆炸性真相：全球CTO揭露自己不敢說的想法",
+    "summary": "Thoughtworks全球CTO Rachel Laycock坦白自己一直有很多想法，但不敢寫下來。現在，她決定開始寫博客，分享自己對未來軟體、人工智慧和領導力的看法",
+    "content": "<h2>全球CTO的覺醒</h2>    <p>Rachel Laycock是一位全球CTO，她一直有很多想法，但不敢寫下來。直到最近，她決定開始寫博客，分享自己對未來軟體、人工智慧和領導力的看法。</p>    <p>她坦白自己一直有很多想法，但不敢寫下來，因為害怕不夠完美。但是，她現在決定要將自己的想法變成現實，影響更多人。</p>    <h2>寫博客的目的</h2>    <p>通過寫博客，Rachel希望能夠將自己的想法變成現實，影響更多人。她相信，想法如果不寫下來，就會消失。她也希望能夠與讀者們分享自己的經驗和見解，幫助他們更好地理解未來軟體和領導力的發展趨勢。</p>    <p>她的博客將涵蓋多個領域，包括未來軟體、人工智慧、領導力和個人成長。她將分享自己對這些領域的看法和見解，同時也會分享自己遇到的挑戰和解決方法。</p>    <h2>編輯悄悄話</h2>    <p>其實，寫博客不僅僅是分享自己的想法，也是一種自我反思和成長的過程。通過寫博客，Rachel能夠更好地梳理自己的想法，同時也能夠與讀者們分享自己的經驗和見解。讓我們一起關注她的博客，看看她將會帶來什麼樣的精彩內容！</p>",
+    "score": 90,
+    "takeaways": [
+      "全球CTO Rachel Laycock決定開始寫博客，分享自己對未來軟體和領導力的看法",
+      "她坦白自己一直有很多想法，但不敢寫下來，因為害怕不夠完美",
+      "通過寫博客，她希望能夠將自己的想法變成現實，影響更多人"
+    ],
+    "punchline": "想法如果不寫下來，就會消失",
+    "social_posts": {
+      "threads": "全球CTO Rachel Laycock決定開始寫博客，分享自己對未來軟體和領導力的看法。讓我們一起關注她的博客，看看她將會帶來什麼樣的精彩內容！ #Thoughtworks #CTO #博客",
+      "facebook": "全球CTO Rachel Laycock決定開始寫博客，分享自己對未來軟體和領導力的看法。她的博客將涵蓋多個領域，包括未來軟體、人工智慧、領導力和個人成長。讓我們一起關注她的博客，看看她將會帶來什麼樣的精彩內容！",
+      "viral_hook": "全球CTO揭露自己不敢說的想法，你也想知道嗎？"
+    },
+    "image": "https://martinfowler.com/rachels-ramblings/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/rachels-ramblings/intro.html",
+    "date": "2026-07-28"
   }
 ]
