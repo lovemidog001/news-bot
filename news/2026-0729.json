@@ -1,0 +1,288 @@
+[
+  {
+    "id": "001",
+    "title": "地球大變局！OlmoEarth 平台如何改變我們看待地球的方式？",
+    "summary": "OlmoEarth 平台使用地理空間推理技術，讓我們可以更深入地了解地球的變化，從氣候變遷到自然災害，為我們提供了嶄新的視角",
+    "content": "<p>你是否曾經想過，如何才能更好地了解地球的變化？氣候變遷、自然災害、環境污染……這些問題都與我們的日常生活密切相關。現在，OlmoEarth 平台為我們提供了嶄新的視角。</p>    <h2>什麼是 OlmoEarth 平台？</h2>    <p>OlmoEarth 平台是一個使用地理空間推理技術的平台，讓我們可以更深入地了解地球的變化。通過這個平台，我們可以看到氣候變遷的影響、自然災害的預警、環境污染的分布……所有這些資訊都可以在這個平台上找到。</p>    <h2>如何使用 OlmoEarth 平台？</h2>    <p>使用 OlmoEarth 平台非常簡單。你可以在網上搜索 OlmoEarth 平台，然後註冊一個帳戶。接下來，你就可以開始探索這個平台的各種功能，從氣候變遷的分析到自然災害的預警，都可以在這個平台上找到。</p>    <h2>編輯悄悄話</h2>    <p> OlmoEarth 平台是一個非常棒的工具，讓我們可以更好地了解地球的變化。同時，也提醒我們，保護地球是每個人的責任。一起來使用 OlmoEarth 平台，讓我們為地球的未來做出貢獻吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "OlmoEarth 平台使用先進的地理空間推理技術",
+      "可以讓我們更深入地了解地球的變化",
+      "對氣候變遷和自然災害的研究有重要意義"
+    ],
+    "punchline": "地球的大變局，就從這裡開始！",
+    "social_posts": {
+      "threads": "你知道嗎？OlmoEarth 平台可以讓我們更深入地了解地球的變化！\n從氣候變遷到自然災害，所有這些問題都可以在這個平台上找到。\n一起來使用 OlmoEarth 平台，讓我們為地球的未來做出貢獻吧！",
+      "facebook": "發現一個非常棒的平台 - OlmoEarth！\n這個平台使用地理空間推理技術，讓我們可以更深入地了解地球的變化。\n快來註冊一個帳戶，開始探索這個平台的各種功能吧！",
+      "viral_hook": "地球的大變局，就從這裡開始！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/N27UuRDvcQy4CvmrzRKAE.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "002",
+    "title": "MCP 2026-07-28 更新：從有狀態到無狀態的革命，了解 AgentCore Gateway 如何支援",
+    "summary": "MCP 的最新更新將協議變成無狀態，增加了可擴展性和安全性，了解如何在 AgentCore Gateway 啟用新版本",
+    "content": "<p>MCP 的最新更新是自推出以來最大的變革，將協議變成無狀態，增加了可擴展性和安全性。</p>    <h2>什麼是無狀態協議？</h2>    <p>無狀態協議意味著每個請求都包含了所有必要的資訊，無需依賴於伺服器端的狀態，從而增加了可擴展性和安全性。</p>    <h2>如何在 AgentCore Gateway 啟用新版本</h2>    <p>您可以通過 UpdateGateway 呼叫啟用新版本，現有的客戶端不需要修改，仍然可以正常工作。</p>    <h2>編輯悄悄話</h2>    <p>MCP 的無狀態革命來了！別猶豫了，趕快升級您的 AgentCore Gateway，體驗最新的協議版本吧！",
+    "score": 90,
+    "takeaways": [
+      "MCP 的最新更新將協議變成無狀態，增加了可擴展性和安全性",
+      "AgentCore Gateway 可以通過 UpdateGateway 呼叫啟用新版本",
+      "現有的客戶端不需要修改，仍然可以正常工作"
+    ],
+    "punchline": "MCP 的無狀態革命來了！",
+    "social_posts": {
+      "threads": "MCP 的最新更新是自推出以來最大的變革，將協議變成無狀態，增加了可擴展性和安全性。您可以通過 UpdateGateway 呼叫啟用新版本，現有的客戶端不需要修改，仍然可以正常工作。",
+      "facebook": "MCP 的最新更新是自推出以來最大的變革，將協議變成無狀態，增加了可擴展性和安全性。了解更多：https://example.com/mcp-update",
+      "viral_hook": "MCP 的無狀態革命來了！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/28/21559.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-agentcore-gateway-supports-the-mcp-2026-07-28-spec/",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "003",
+    "title": "揭開Meta Ads的秘密：階層式興趣代表如何革新廣告優化",
+    "summary": "Meta Ads推出階層式興趣代表，透過學習使用者的潛在興趣與廣告主的產品服務進行匹配，提升廣告優化效果",
+    "content": "<p>你是否曾經感受到，廣告似乎總是能夠準確地捕捉到你的興趣？這一切都要歸功於Meta Ads的階層式興趣代表技術。</p>    <h2>什麼是階層式興趣代表？</h2>    <p>階層式興趣代表是一種新的廣告優化技術，透過學習使用者的潛在興趣與廣告主的產品服務進行匹配。這項技術可以提升廣告的相關性和點擊率，讓使用者看到更多符合他們興趣的廣告。</p>    <h2>如何實現階層式興趣代表</h2>    <p>Meta Ads的階層式興趣代表技術是基於圖形神經網路和深度學習算法。它可以學習使用者的潛在興趣與廣告主的產品服務進行匹配，透過一個複雜的圖形結構來表示使用者和廣告主之間的關係。</p>    <h2>編輯悄悄話</h2>    <p>階層式興趣代表是一項革命性的廣告優化技術，它可以讓廣告更懂你。透過這項技術，廣告主可以更有效地觸達目標受眾，使用者也可以看到更多符合他們興趣的廣告。未來，廣告優化將會更加智慧化和個性化，讓我們拭目以待。",
+    "score": 90,
+    "takeaways": [
+      "階層式興趣代表是一種新的廣告優化技術",
+      "它可以學習使用者的潛在興趣與廣告主的產品服務進行匹配",
+      "這項技術可以提升廣告的相關性和點擊率"
+    ],
+    "punchline": "讓廣告更懂你",
+    "social_posts": {
+      "threads": "你是否曾經感受到，廣告似乎總是能夠準確地捕捉到你的興趣？這一切都要歸功於Meta Ads的階層式興趣代表技術。 #MetaAds #廣告優化",
+      "facebook": "讓廣告更懂你！Meta Ads的階層式興趣代表技術可以提升廣告的相關性和點擊率。了解更多：https://example.com",
+      "viral_hook": "廣告將會更加智慧化和個性化！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "004",
+    "title": "AT&T 和微軟聯手創造人工智慧新紀元：一萬億個數據的處理力",
+    "summary": "AT&T 和微軟聯手，使用微軟 Foundry 和 AMD 技術，成功處理了一萬億個數據，創造人工智慧新紀元",
+    "content": "<p>你是否曾想過，什麼是人工智慧的極限？當我們說到一萬億個數據的處理力時，你會感到驚訝嗎？最近，AT&T 和微軟聯手，使用微軟 Foundry 和 AMD 技術，成功處理了一萬億個數據，創造人工智慧新紀元。</p>    <h2>什麼是微軟 Foundry？</h2>    <p>微軟 Foundry 是一個雲端計算平台，提供了強大的計算能力和彈性的模型選擇，讓開發者可以輕鬆地創建和部署人工智慧應用程式。使用微軟 Foundry，AT&T 和微軟可以處理大量的數據，創造出新的商業機會和價值。</p>    <h2>這項技術的影響</h2>    <p>這項技術將革命性地改變電信業和人工智慧的發展。使用一萬億個數據的處理力，電信業者可以創建出更加智能和高效的網路，提供更好的服務和體驗給用戶。同時，人工智慧的發展也將受到推動，新的應用程式和商業模式將被創造出來。</p>    <h2>編輯悄悄話</h2>    <p>這項技術的出現，讓我們感到既興奮又忐忑。因為，隨著人工智慧的發展，我們的工作和生活方式將會受到影響。然而，同時也帶來了新的機會和挑戰。讓我們一起關注這項技術的發展，和探索它將帶來的影響和機會吧。</p>",
+    "score": 90,
+    "takeaways": [
+      "AT&T 和微軟聯手創造人工智慧新紀元",
+      "使用微軟 Foundry 和 AMD 技術，成功處理了一萬億個數據",
+      "這項技術將革命性地改變電信業和人工智慧的發展"
+    ],
+    "punchline": "一萬億個數據的處理力，人工智慧新紀元來了",
+    "social_posts": {
+      "threads": "你是否曾想過，什麼是人工智慧的極限？當我們說到一萬億個數據的處理力時，你會感到驚訝嗎？#人工智慧 #電信業",
+      "facebook": "AT&T 和微軟聯手，使用微軟 Foundry 和 AMD 技術，成功處理了一萬億個數據，創造人工智慧新紀元。這項技術將革命性地改變電信業和人工智慧的發展。點擊連結，了解更多。#人工智慧 #電信業",
+      "viral_hook": "一萬億個數據的處理力，人工智慧新紀元來了！"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/att-and-microsoft-scale-trillion-token-workloads-with-microsoft-foundry-and-amd/",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "005",
+    "title": "Elastic Cloud Serverless 擴展全球！33 個地區等你來",
+    "summary": "Elastic Cloud Serverless 在 Google Cloud 和 Microsoft Azure 上新增兩個地區，讓你的資料更安全、更方便存取",
+    "content": "<p>你是否曾經為了資料存取的問題而煩惱？ Elastic Cloud Serverless 現在來解決你的問題了！</p>    <h2>全球擴展</h2>    <p>Elastic Cloud Serverless 已經在 Google Cloud 和 Microsoft Azure 上新增了兩個地區，分別是 Europe Southwest 1 (Madrid) 和 Asia Northeast 1 (Tokyo)。這意味著你現在可以在全球 33 個地區使用 Elastic Cloud Serverless 來存取你的資料。</p>    <p>Serverless 架構讓你不用擔心基礎設施的問題，你只需要創建一個專案並開始建置。 Elastic 會負責運行所有的基礎設施，你可以專注於你的業務邏輯。</p>    <h2>適用於任何使用案例</h2>    <p>Serverless 架構適用於任何基於雲端的 Elastic 使用案例。例如，在零售業中，Serverless 可以自動擴展計算資源以應對流量激增，在 ISVs 和 SaaS 平台中，Serverless 可以提供一個強大的多租戶基礎設施。</p>    <p>如果你想要試用 Elastic Cloud Serverless，你可以在 Google Cloud Marketplace 上找到它。只需要創建一個 Serverless 專案，選擇你的偏好地區，並開始使用。</p>    <h2>編輯悄悄話</h2>    <p>最後，告訴你一個小秘密：使用 Elastic Cloud Serverless，你不僅可以簡化你的資料存取流程，還可以節省你的成本。所以，還等什麼？趕快來試用 Elastic Cloud Serverless 吧！",
+    "score": 90,
+    "takeaways": [
+      "Elastic Cloud Serverless 現已在 33 個地區提供服務",
+      "Serverless 架構讓你不用擔心基礎設施，直接開始建置你的專案",
+      "適用於任何基於雲端的 Elastic 使用案例"
+    ],
+    "punchline": "告別基礎設施的煩惱，迎接 Serverless 的便利",
+    "social_posts": {
+      "threads": "你是否曾經為了資料存取的問題而煩惱？\n現在有解決方案了！\nElastic Cloud Serverless 現在可以在全球 33 個地區使用\n告別基礎設施的煩惱，迎接 Serverless 的便利",
+      "facebook": "Elastic Cloud Serverless 現在可以在全球 33 個地區使用！\n適用於任何基於雲端的 Elastic 使用案例\n節省你的成本，簡化你的資料存取流程\n趕快來試用 Elastic Cloud Serverless 吧！",
+      "viral_hook": "告別基礎設施的煩惱，迎接 Serverless 的便利"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltf72c6b638b40d122/6a678277b08d724f54bb7c90/Blog_image_Elastic_Cloud_Serverless_Region_Expansion_V1_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/elastic-cloud-now-available-madrid-tokyo-sweden-sao-paulo",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "006",
+    "title": "別再迷戀 Loop Engineering！ Graph Engineering 是未來王道？",
+    "summary": "從 Loop 到 Graph，工程師的新戰場！了解 Graph Engineering 的未來發展趨勢，別再被時代拋棄！",
+    "content": "<p>你還在迷戀 Loop Engineering 嗎？其實，Graph Engineering 才是未來的王道！在這篇文章中，我們將帶你了解 Graph Engineering 的基本概念、優點和未來發展趨勢。</p>    <h2>什麼是 Graph Engineering？</h2>    <p>Graph Engineering 是一種新的工程學科，主要研究如何使用圖形結構來解決複雜問題。它與 Loop Engineering 不同，後者主要關注的是迴圈結構的優化。</p>    <h2>Graph Engineering 的未來發展趨勢</h2>    <p>Graph Engineering 的未來發展趨勢非常廣闊，包括人工智慧、資料科學和網路安全等領域。它能夠幫助我們更好地理解和解決複雜問題，同時也能夠提高系統的效率和安全性。</p>    <h2>編輯悄悄話</h2>    <p>所以，你還在等什麼？趕緊來了解 Graph Engineering 吧！它是未來的王道，不要被時代拋棄哦！</p>",
+    "score": 90,
+    "takeaways": [
+      "Graph Engineering 是什麼？",
+      "Loop Engineering 的局限性",
+      " Graph Engineering 的未來發展趨勢"
+    ],
+    "punchline": "Graph Engineering 是未來的王道！",
+    "social_posts": {
+      "threads": "我發現了一個新的工程學科——Graph Engineering！\n它能夠幫助我們更好地理解和解決複雜問題。\n你們有聽過它嗎？",
+      "facebook": "Graph Engineering 是什麼？它的優點和未來發展趨勢是什麼？來了解一下這個新的工程學科吧！",
+      "viral_hook": "別再迷戀 Loop Engineering！ Graph Engineering 是未來的王道！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802937&idx=1&sn=3ecdb58a929806962d1b2455575d6b4a",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "007",
+    "title": "三大外送平台如何將AI融入搜尋？DoorDash、Instacart、Uber Eats各自的解法",
+    "summary": "了解DoorDash、Instacart、Uber Eats如何將LLMs整合到搜尋系統，解決用戶意圖與目錄不符的問題",
+    "content": "<p>近年來，DoorDash、Instacart、Uber Eats等三大外送平台都將LLMs整合到搜尋系統中，以解決用戶意圖與目錄不符的問題。但是，每個平台的解法都不同，值得我們探討。</p>    <h2> DoorDash的解法</h2>    <p>DoorDash使用了一種基於LLMs的搜尋引擎，能夠理解用戶的意圖並返回相關的結果。例如，當用戶輸入「something healthy for a rainy evening」時，系統會返回健康的食物選擇。</p>    <h2> Instacart和Uber Eats的解法</h2>    <p>Instacart和Uber Eats也使用了LLMs，但是他們的解法不同。Instacart使用了一種基於圖片的搜尋引擎，能夠返回相關的食物圖片。Uber Eats則使用了一種基於用戶評價的搜尋引擎，能夠返回高評價的食物選擇。</p>    <h2>編輯悄悄話</h2>    <p>AI搜尋的未來在於理解用戶意圖，三大外送平台的解法都值得我們學習。未來，AI搜尋將會更加智能化，能夠返回更加精確的結果。</p>",
+    "score": 90,
+    "takeaways": [
+      "三大外送平台各自的LLMs整合解法",
+      "如何解決用戶意圖與目錄不符的問題",
+      "LLMs在搜尋系統中的應用與挑戰"
+    ],
+    "punchline": "AI搜尋的未來在於理解用戶意圖",
+    "social_posts": {
+      "threads": "你知道嗎？DoorDash、Instacart、Uber Eats都將AI融入搜尋系統了！\n但是，每個平台的解法都不同，值得我們探討。",
+      "facebook": "了解DoorDash、Instacart、Uber Eats如何將LLMs整合到搜尋系統，解決用戶意圖與目錄不符的問題",
+      "viral_hook": "AI搜尋的未來在於理解用戶意圖，你知道嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!CzXk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd284093-159c-4301-b54b-465a6973c1a8_2048x1016.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/why-doordash-instacart-and-uber-eats",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "008",
+    "title": "爆炸性新聞！Google雲端對話式分析來了！",
+    "summary": "Google雲端對話式分析（Conversational Analytics）現在已經可以讓您輕鬆地分析您的資料，隨時隨地地取得洞察力！",
+    "content": "<p>您是否曾經想過如何輕鬆地分析您的資料？現在，Google雲端對話式分析（Conversational Analytics）已經可以讓您做到這一點！</p>    <h2>什麼是Conversational Analytics？</h2>    <p>Conversational Analytics是一種可以讓您輕鬆地分析您的資料的工具。它可以讓您取得隨時隨地的洞察力，幫助您做出更好的決策。</p>    <h2>如何使用Conversational Analytics？</h2>    <p>使用Conversational Analytics非常簡單。您只需要將您的資料上傳到Google雲端，然後使用Conversational Analytics工具來分析您的資料。您可以使用自然語言來詢問您的資料，然後Conversational Analytics會給您答案。</p>    <h2>Conversational Analytics的優點</h2>    <p>Conversational Analytics有很多優點。它可以讓您輕鬆地管理您的資料安全和治理，同時也可以讓您取得隨時隨地的洞察力。另外，Conversational Analytics還可以讓您使用自然語言來詢問您的資料，這使得您的工作更加容易。</p>    <h2>編輯悄悄話</h2>    <p>現在就來體驗Google雲端對話式分析的力量吧！它會讓您感到驚喜的！</p>",
+    "score": 90,
+    "takeaways": [
+      "Google雲端對話式分析可以讓您輕鬆地分析您的資料",
+      "Conversational Analytics可以讓您取得隨時隨地的洞察力",
+      "Google雲端對話式分析可以讓您輕鬆地管理您的資料安全和治理"
+    ],
+    "punchline": "現在就來體驗Google雲端對話式分析的力量吧！",
+    "social_posts": {
+      "threads": "現在就來體驗Google雲端對話式分析的力量吧！#GoogleCloud #ConversationalAnalytics",
+      "facebook": "您是否曾經想過如何輕鬆地分析您的資料？現在，Google雲端對話式分析（Conversational Analytics）已經可以讓您做到這一點！",
+      "viral_hook": "Google雲端對話式分析來了！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/conversational-analytics-in-google-data-cloud-in-q326/",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "009",
+    "title": "AI 大爆炸！GPT-5.6、Grok 4.5、Muse Spark 1.1 亮相！",
+    "summary": "AI 模型的更新換代愈來愈快！本週，OpenAI 公佈 GPT-5.6、SpaceX AI 推出 Grok 4.5、Meta 發佈 Muse Spark 1.1，各大廠商都在努力提升自己的 AI 能力。然而，這些新模型的安全性和監管問題也引發了廣泛關注。",
+    "content": "<h2>Ai 大爆炸！</h2><p>本週，AI 模型的更新換代愈來愈快！OpenAI 公佈 GPT-5.6、SpaceX AI 推出 Grok 4.5、Meta 發佈 Muse Spark 1.1，各大廠商都在努力提升自己的 AI 能力。</p><h2>安全性和監管問題</h2><p>然而，這些新模型的安全性和監管問題也引發了廣泛關注。業界人士擔心，這些模型可能會被用於惡意目的，例如生成假新聞或進行網絡攻擊。</p><p>為了應對這些問題，政府和業界組織正在努力制定新的監管措施，例如要求 AI 模型的開發者提供更好的安全性和透明度。</p><h2>編輯悄悄話</h2><p>AI 大爆炸！誰能成為最後的贏家？我們拭目以待！</p>",
+    "score": 85,
+    "takeaways": [
+      "GPT-5.6 和 Grok 4.5 的推出，標誌著 AI 模型的競爭愈來愈激烈。",
+      "Muse Spark 1.1 的發佈，顯示 Meta 在 AI 研發上的進步。",
+      "AI 模型的安全性和監管問題，成為業界關注的焦點。"
+    ],
+    "punchline": "AI 大爆炸！誰能成為最後的贏家？",
+    "social_posts": {
+      "threads": "AI 大爆炸！GPT-5.6、Grok 4.5、Muse Spark 1.1 亮相！誰能成為最後的贏家？#AI #GPT #Grok #MuseSpark",
+      "facebook": "AI 模型的更新換代愈來愈快！本週，OpenAI 公佈 GPT-5.6、SpaceX AI 推出 Grok 4.5、Meta 發佈 Muse Spark 1.1。然而，這些新模型的安全性和監管問題也引發了廣泛關注。點擊連結，了解更多！",
+      "viral_hook": "AI 大爆炸！誰能成為最後的贏家？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 安全漏洞大曝光！快來更新你的版本吧！",
+    "summary": "Next.js 的最新安全更新已經推出，修復了多個嚴重的安全漏洞，包括 CPU 使用率過高、伺服器端請求欺騙等問題。",
+    "content": "<p>Next.js 的最新安全更新已經推出，修復了多個嚴重的安全漏洞，包括 CPU 使用率過高、伺服器端請求欺騙等問題。</p>    <h2>什麼是這些安全漏洞呢？</h2>    <p>其中一個漏洞是 Crafted requests targeting Next.js applications using App Router with at least one Server Action，可以導致 CPU 使用率過高，從而導致服務器拒絕服務。</p>    <p>另一個漏洞是 Next.js applications using App Router built with Turbopack and a single entry in config.i18n.locales，可以被用來繞過中間件或代理的安全檢查。</p>    <h2>如何保護你的應用程式呢？</h2>    <p>使用 Next.js 的開發者應該盡快更新到最新版本，包括 v16.2.11 (Active LTS) 和 v15.5.21 (Maintenance LTS)。</p>    <p>此外，開發者也應該注意自己的應用程式的安全設定，例如設定正確的中間件和代理的安全檢查。</p>    <h2>編輯悄悄話</h2>    <p>安全漏洞大曝光！別等到你的應用程式被攻擊了，趕快更新你的版本吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 的安全更新修復了多個嚴重的安全漏洞",
+      "更新版本可以防止 CPU 使用率過高和伺服器端請求欺騙等問題",
+      "使用 Next.js 的開發者應該盡快更新到最新版本"
+    ],
+    "punchline": "安全漏洞大曝光！",
+    "social_posts": {
+      "threads": "Next.js 的安全更新推出囉！\n修復了多個嚴重的安全漏洞，包括 CPU 使用率過高和伺服器端請求欺騙等問題。\n使用 Next.js 的開發者應該盡快更新到最新版本！",
+      "facebook": "Next.js 的安全更新已經推出！修復了多個嚴重的安全漏洞，包括 CPU 使用率過高和伺服器端請求欺騙等問題。使用 Next.js 的開發者應該盡快更新到最新版本，保護你的應用程式的安全！",
+      "viral_hook": "安全漏洞大曝光！Next.js 的最新安全更新推出囉！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/july-2026-security-release/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/july-2026-security-release",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "011",
+    "title": "谷歌40億助力美國科學革命！用AI加速科學發現",
+    "summary": "谷歌承諾40萬美元AI代幣和雲端積分，支持美國科學革命，將AI應用於材料科學、能源和安全領域",
+    "content": "<p>谷歌宣布承諾40萬美元AI代幣和雲端積分，支持美國科學革命。這是一項國家級別的計劃，旨在利用AI加速科學發現，特別是在材料科學、能源和安全領域。</p>    <h2>什么是Genesis Mission?</h2>    <p>Genesis Mission是一項國家級別的計劃，旨在利用AI加速科學發現。該計劃由美國能源部領導，目的是利用AI加速科學發現，特別是在材料科學、能源和安全領域。</p>    <p>谷歌的承諾是該計劃的一部分，將提供AI代幣和雲端積分給科學家，幫助他們加速科學發現。這些AI工具可以幫助科學家自動化工作，減少手動操作時間，從而加速科學發現。</p>    <h2>AI在科學研究中的應用</h2>    <p>AI在科學研究中的應用非常廣泛。例如，在材料科學領域，AI可以幫助科學家發現新材料，設計新材料的結構和性能。在能源領域，AI可以幫助科學家優化能源生產和消耗。在安全領域，AI可以幫助科學家偵測和預防安全威脅。</p>    <p>例如，在太平洋西北國家實驗室，科學家使用AlphaEvolve這個AI工具，自動化地探索複雜的數學系統，發現新的連接和模式。在國家實驗室，研究人員使用Gemini這個AI工具，自動化地控制物理實驗硬件，減少手動操作時間，提高工作效率。</p>    <h2>編輯悄悄話</h2>    <p>AI加速科學革命，這是個令人興奮的消息！但同時，也要注意到，AI的發展和應用需要科學家和工程師的共同努力。讓我們一起努力，推動AI在科學研究中的應用，創造一個更美好的未來！</p>",
+    "score": 90,
+    "takeaways": [
+      "谷歌承諾40萬美元AI代幣和雲端積分，支持美國科學革命",
+      "AI可以加速科學發現，特別是在材料科學、能源和安全領域",
+      "谷歌的AI工具可以幫助科學家自動化工作，減少手動操作時間"
+    ],
+    "punchline": "AI加速科學革命",
+    "social_posts": {
+      "threads": "谷歌40億助力美國科學革命！用AI加速科學發現\n#AI #科學革命 #美國",
+      "facebook": "谷歌承諾40萬美元AI代幣和雲端積分，支持美國科學革命。這是個令人興奮的消息！讓我們一起努力，推動AI在科學研究中的應用，創造一個更美好的未來！",
+      "viral_hook": "AI加速科學革命，谷歌40億助力美國科學革命！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Genesis_Mission_40M_commitment.max-2600x2600.jpg",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "012",
+    "title": "關於『編排者稅』的爆炸性真相：你可能誤解了並行運算的真正價值",
+    "summary": "並行運算的價值不在於節省時間，而在於保護編排者的工作記憶，讓我們重新思考子代理人的角色和價值",
+    "content": "<p>你是否曾經想過，為什麼並行運算的價值不在於節省時間？原來，編排者的工作記憶才是最寶貴的資源。每個子代理人都在爭奪編排者的注意力，真正的價值在於它能夠保護編排者的工作記憶，讓它們專注於更重要的任務。</p>    <h2>重新思考子代理人的角色</h2>    <p>子代理人不應該被視為單純的並行運算工具，而是保護編排者的工作記憶的工具。它們能夠卸載編排者不需要持有的推理，讓編排者能夠專注於更重要的任務。明確的委派規則是高效編排的關鍵，讓編排者知道何時和如何委派任務給子代理人。</p>    <h2>編輯悄悄話</h2>    <p>下次你在思考並行運算的價值時，記得它不在於節省時間，而在於保護編排者的工作記憶。讓我們重新思考子代理人的角色和價值，讓編排者能夠更高效地工作。",
+    "score": 85,
+    "takeaways": [
+      "子代理人的價值在於保護編排者的工作記憶",
+      "並行運算的真正價值不在於時間節省，而在於減少編排者的工作負擔",
+      "明確的委派規則是高效編排的關鍵"
+    ],
+    "punchline": "並行運算的價值在於保護編排者的工作記憶",
+    "social_posts": {
+      "threads": "你知道並行運算的價值不在於節省時間嗎？真正的價值在於保護編排者的工作記憶！讓我們重新思考子代理人的角色和價值 #編排者稅 #並行運算",
+      "facebook": "並行運算的價值不在於節省時間，而在於保護編排者的工作記憶。讓我們重新思考子代理人的角色和價值，讓編排者能夠更高效地工作。分享你對並行運算的想法！",
+      "viral_hook": "並行運算的價值不在於節省時間？你知道真正的價值在於哪裡嗎？"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/orchestrator-tax.html",
+    "date": "2026-07-29"
+  },
+  {
+    "id": "013",
+    "title": "AI 代碼助手來了！科學研究將迎來革命性的變革？",
+    "summary": "科學家透過 AI 代碼助手加速軟體開發，讓基因組學等領域的研究更快速、更有效",
+    "content": "<p>科學研究的核心是數據分析，而數據分析的核心是軟體。但是，傳統的科學軟體開發方式已經跟不上數據生成的速度。許多研究工具都是由小型學術團隊開發的，缺乏工程經驗和時間進行包裝、測試、優化和長期支持。這導致了科學基礎設施常常依賴於緩慢、脆弱的工作流程，需要不斷的維護。</p>    <h2>AI 代碼助手的出現</h2>    <p>AI 代碼助手的出現正在改變這個局面。通過降低工程工作的成本和承擔枯燥的實施任務，AI 代碼助手可以幫助研究人員更快速地原型化想法、追求之前不切實際的項目、更容易地維護軟體。結果是科學軟體變得更高效、更好地維護，讓研究人員可以花更多時間在發現上。</p>    <h2>編輯悄悄話</h2>    <p>雖然 AI 代碼助手讓科學研究更快、更強，但仍需要人類的驗證和審核，以確保結果的正確性。讓我們一起期待科學研究的未來吧！",
+    "score": 90,
+    "takeaways": [
+      "AI 代碼助手可以幫助科學家加速軟體開發和維護",
+      "科學家可以專注於研究方向和質量控制，讓 AI 代碼助手處理實施細節",
+      "AI 代碼助手仍需要人類的驗證和審核，以確保結果的正確性"
+    ],
+    "punchline": "AI 代碼助手讓科學研究更快、更強",
+    "social_posts": {
+      "threads": "你知道嗎？AI 代碼助手可以幫助科學家加速軟體開發和維護！讓我們一起探討這個革命性的變革吧！#AI #科學研究",
+      "facebook": "發現！AI 代碼助手讓科學研究更快、更強！點擊連結了解更多：https://example.com",
+      "viral_hook": "AI 代碼助手來了！科學研究將迎來革命性的變革？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3m7mGKTN6V4kdfRQAyHV7A/08ebe953fb4e83fd9a843eb2ce06b111/16x9.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/scientific-computing-agentic-ai",
+    "date": "2026-07-29"
+  }
+]
