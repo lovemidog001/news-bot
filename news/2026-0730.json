@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "地球大變局！OlmoEarth 平台如何透過地理空間推理改變你我生活",
+    "summary": "OlmoEarth 平台透過地理空間推理技術，讓我們能夠洞悉地球變化，從氣候變遷到自然災害，了解這些變化如何影響你的生活",
+    "content": "<p>你是否曾經想過，地球的變化如何影響你的生活？從氣候變遷到自然災害，地球的變化對我們的日常生活有著深遠的影響。OlmoEarth 平台透過地理空間推理技術，讓我們能夠洞悉地球變化，從而更好地應對未來的挑戰。</p><h2>什麼是地理空間推理技術？</h2><p>地理空間推理技術是一種使用地理空間數據和演算法來分析和推理地球變化的技術。這項技術可以幫助我們了解地球的變化，從氣候變遷到自然災害，甚至可以預測未來的變化。</p><h2>OlmoEarth 平台如何使用地理空間推理技術</h2><p>OlmoEarth 平台使用地理空間推理技術來分析地球的變化，包括氣候變遷、自然災害、土地利用變化等。這項技術可以幫助我們了解地球的變化，從而更好地應對未來的挑戰。例如，OlmoEarth 平台可以幫助我們預測自然災害的發生，從而更好地防範和應對災害。</p><h2>編輯悄悄話</h2><p>地球的變化對我們的生活有著深遠的影響，了解這些變化是非常重要的。OlmoEarth 平台透過地理空間推理技術，讓我們能夠洞悉地球變化，從而更好地應對未來的挑戰。所以，地球大變局，你準備好了嗎？",
+    "score": 90,
+    "takeaways": [
+      "OlmoEarth 平台使用地理空間推理技術分析地球變化",
+      "了解氣候變遷和自然災害的實時動態",
+      "這項技術如何影響你的生活和未來"
+    ],
+    "punchline": "地球大變局，你準備好了嗎？",
+    "social_posts": {
+      "threads": "你知道嗎？地球的變化對我們的生活有著深遠的影響！OlmoEarth 平台透過地理空間推理技術，讓我們能夠洞悉地球變化，從氣候變遷到自然災害，了解這些變化如何影響你的生活",
+      "facebook": "地球大變局，你準備好了嗎？OlmoEarth 平台使用地理空間推理技術來分析地球的變化，了解氣候變遷和自然災害的實時動態，從而更好地應對未來的挑戰",
+      "viral_hook": "地球大變局，你準備好了嗎？"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/N27UuRDvcQy4CvmrzRKAE.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "002",
+    "title": "爆炸性新聞！AWS Bedrock AgentCore Identity 的 Private Key JWT 客戶端驗證",
+    "summary": "AWS Bedrock AgentCore Identity 現在支援 Private Key JWT 客戶端驗證，讓您的代理人能夠使用簽署的 JSON Web Token (JWT) 客戶端斷言來驗證身份提供者",
+    "content": "<p>您是否厭倦了使用共享的 OAuth 2.0 客戶端密碼來驗證您的代理人？現在，AWS Bedrock AgentCore Identity 支援 Private Key JWT 客戶端驗證，讓您的代理人能夠使用簽署的 JSON Web Token (JWT) 客戶端斷言來驗證身份提供者。</p>    <h2>什麼是 Private Key JWT 客戶端驗證？</h2>    <p>Private Key JWT 客戶端驗證是一種使用簽署的 JSON Web Token (JWT) 客戶端斷言來驗證身份提供者的方法。這種方法讓您的代理人能夠使用簽署的 JWT 來驗證身份提供者，而不需要使用共享的 OAuth 2.0 客戶端密碼。</p>    <h2>如何設定 Private Key JWT 客戶端驗證</h2>    <p>設定 Private Key JWT 客戶端驗證相當簡單。您需要創建一個簽署金鑰，並將其公鑰註冊到您的身份提供者。然後，您需要配置一個憑證提供者，並將其設定為使用 Private Key JWT 客戶端驗證。</p>    <ul>      <li>創建一個簽署金鑰</li>      <li>將公鑰註冊到您的身份提供者</li>      <li>配置一個憑證提供者</li>      <li>設定憑證提供者為使用 Private Key JWT 客戶端驗證</li>    </ul>    <h2>編輯悄悄話</h2>    <p>現在，您可以使用 Private Key JWT 客戶端驗證來驗證您的代理人。這種方法不僅安全，而且還可以讓您審核每次存取。所以，什麼是您還在等待的？立即開始使用 Private Key JWT 客戶端驗證吧！",
+    "score": 90,
+    "takeaways": [
+      "Private Key JWT 客戶端驗證讓代理人能夠使用簽署的 JSON Web Token (JWT) 客戶端斷言來驗證身份提供者",
+      "AWS KMS 支援創建和管理簽署金鑰",
+      "AWS CloudTrail 記錄所有的存取記錄，讓您能夠審核每次存取"
+    ],
+    "punchline": "無密碼、可審核的驗證方式",
+    "social_posts": {
+      "threads": "您是否厭倦了使用共享的 OAuth 2.0 客戶端密碼來驗證您的代理人？現在，AWS Bedrock AgentCore Identity 支援 Private Key JWT 客戶端驗證，讓您的代理人能夠使用簽署的 JSON Web Token (JWT) 客戶端斷言來驗證身份提供者。",
+      "facebook": "使用 Private Key JWT 客戶端驗證來驗證您的代理人！這種方法不僅安全，而且還可以讓您審核每次存取。立即開始使用 Private Key JWT 客戶端驗證吧！",
+      "viral_hook": "無密碼、可審核的驗證方式！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/29/ml-21480.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/authenticate-with-private-key-jwt-using-amazon-bedrock-agentcore-identity/",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "003",
+    "title": "揭秘 Meta 新一代廣告優化技術：Hierarchical Interest Representation",
+    "summary": "Meta 推出 Hierarchical Interest Representation 技術，旨在改善深層廣告優化，連接用戶與廣告主，提供更相關的廣告內容",
+    "content": "<p>Meta 近日推出了一項新的廣告優化技術，名為 Hierarchical Interest Representation。這項技術旨在改善深層廣告優化，連接用戶與廣告主，提供更相關的廣告內容。</p>    <h2>什麼是 Hierarchical Interest Representation？</h2>    <p>Hierarchical Interest Representation 是一種上游表示層，旨在學習用戶的潛在興趣。它可以連接用戶與廣告主，提供更相關的廣告內容。這項技術可以改善深層廣告優化，提高廣告主的投資回報率。</p>    <h2>如何實現 Hierarchical Interest Representation？</h2>    <p>Meta 的研究人員使用了一種圖形神經網路，來學習用戶的潛在興趣。這種網路可以學習用戶的行為模式，從而提供更相關的廣告內容。另外，Meta 還使用了一種多層次的表示方法，來學習用戶的興趣。</p>    <h2>編輯悄悄話</h2>    <p>廣告優化是一個很複雜的領域，但是 Hierarchical Interest Representation 技術可以讓廣告更懂你。這項技術可以改善深層廣告優化，提高廣告主的投資回報率。未來，Meta 將繼續改進這項技術，提供更好的廣告體驗給用戶。</p>",
+    "score": 90,
+    "takeaways": [
+      "Hierarchical Interest Representation 技術可以學習用戶的潛在興趣",
+      "技術可以連接用戶與廣告主，提供更相關的廣告內容",
+      "技術可以改善深層廣告優化，提高廣告主的投資回報率"
+    ],
+    "punchline": "Hierarchical Interest Representation：讓廣告更懂你",
+    "social_posts": {
+      "threads": "你知道嗎？Meta 的新廣告優化技術可以讓廣告更懂你！#HierarchicalInterestRepresentation #Meta",
+      "facebook": "Meta 推出 Hierarchical Interest Representation 技術，旨在改善深層廣告優化，連接用戶與廣告主，提供更相關的廣告內容。了解更多：https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+      "viral_hook": "讓廣告更懂你：Meta 的新廣告優化技術"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "004",
+    "title": "用家最看重的微軟資料庫優勢：從穩定性到AI準備度",
+    "summary": "每天，客戶都信賴微軟資料庫來運行最關鍵的應用程式、商業流程和AI驅動的體驗。",
+    "content": "<p>你是否曾經想過，為什麼客戶會選擇微軟資料庫來運行他們的應用程式和商業流程？答案其實很簡單：可靠性和穩定性。</p>    <h2>可靠性和穩定性</h2>    <p>微軟資料庫的可靠性和穩定性是客戶最看重的。因為資料庫是企業的核心，任何停機或錯誤都可能導致嚴重的後果。微軟資料庫的高可用性和自動備份功能可以確保客戶的資料安全和可靠。</p>    <h2>AI準備度</h2>    <p>AI準備度是微軟資料庫的一大優勢。微軟資料庫提供了強大的AI功能，讓客戶可以輕鬆地將AI應用到他們的商業流程中。這不僅可以提高生產力，也可以幫助客戶做出更好的決策。</p>    <h2>編輯悄悄話</h2>    <p>所以，下次你在選擇資料庫時，不要忘記考慮可靠性、穩定性和AI準備度。因為這些因素將決定你企業的未來。",
+    "score": 85,
+    "takeaways": [
+      "微軟資料庫的可靠性和穩定性是客戶最看重的",
+      "AI準備度是微軟資料庫的一大優勢",
+      "客戶對資料庫的安全性和合規性也有很高的要求"
+    ],
+    "punchline": "資料庫的未來是AI驅動的",
+    "social_posts": {
+      "threads": "你知道嗎？微軟資料庫的可靠性和穩定性是客戶最看重的！\n而且，AI準備度也是微軟資料庫的一大優勢！\n下次你在選擇資料庫時，不要忘記考慮這些因素哦！",
+      "facebook": "微軟資料庫：可靠性、穩定性和AI準備度的完美結合！\n點擊鏈接了解更多：https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+      "viral_hook": "資料庫的未來是AI驅動的！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/FY26AE-Azure-Composite-EnergyBlue-009-H.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "005",
+    "title": "AI 開發新革命：Elastic 和 Cursor 合作讓開發者更接地氣",
+    "summary": "Elastic 和 Cursor 的合作讓開發者可以更容易地使用 AI 技術，讓開發過程更高效、更接地氣",
+    "content": "<p>近年來，AI 技術在軟體開發領域的應用越來越廣泛。但是，開發者在使用 AI 技術時，往往需要面臨許多挑戰，例如如何將 AI 技術整合到開發流程中，如何確保 AI 技術的可靠性和安全性等。</p>    <h2>什麼是 Context Engineering？</h2>    <p>Context Engineering 是一種讓 AI 技術可以更好地理解開發者的需求和環境的方法。它通過提供開發者所需的工具和資料，讓 AI 技術可以更準確地完成開發任務。Elastic 和 Cursor 的合作就是要提供這種 Context Engineering 的解決方案。</p>    <h2>如何讓 AI 開發更接地氣</h2>    <p>通過 Elastic 和 Cursor 的合作，開發者可以更容易地使用 AI 技術。開發過程更高效、更接地氣，讓開發者可以更快速地開發出高品質的軟體。同時，Elastic 和 Cursor 的合作也提供了更好的安全性和可靠性，讓開發者可以更放心地使用 AI 技術。</p>    <h2>編輯悄悄話</h2>    <p>讓 AI 開發更接地氣，這是現在很多開發者的願望。通過 Elastic 和 Cursor 的合作，開發者可以更容易地使用 AI 技術，讓開發過程更高效、更接地氣。這是個很棒的開始，讓我們一起看看未來的發展吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Elastic 和 Cursor 的合作讓開發者可以更容易地使用 AI 技術",
+      "開發過程更高效、更接地氣",
+      "讓開發者可以更快速地開發出高品質的軟體"
+    ],
+    "punchline": "讓 AI 開發更接地氣",
+    "social_posts": {
+      "threads": "讓 AI 開發更接地氣，這是現在很多開發者的願望。通過 Elastic 和 Cursor 的合作，開發者可以更容易地使用 AI 技術，讓開發過程更高效、更接地氣。",
+      "facebook": "Elastic 和 Cursor 的合作讓開發者可以更容易地使用 AI 技術，讓開發過程更高效、更接地氣。這是個很棒的開始，讓我們一起看看未來的發展吧！",
+      "viral_hook": "AI 開發新革命：Elastic 和 Cursor 合作讓開發者更接地氣"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt03b6ba633c9f0960/69dd1e5777ac260703d2240d/getty-images-fkAaNWckMFc-unsplash.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/cursor",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "006",
+    "title": "從 Loop 到 Graph：工程師的新時代來臨！",
+    "summary": "了解 Graph Engineering 的崛起，和 Loop Engineering 的隱退，對未來的工作有何影響？",
+    "content": "<p>近年來，Graph Engineering 逐漸成為工程師們熱議的話題。那么，什麼是 Graph Engineering 呢？簡單來說，Graph Engineering 是一種基於圖結構的工程方法，旨在更好地處理複雜的數據關係和系統架構。</p>    <h2>Loop Engineering 的局限</h2>    <p>傳統的 Loop Engineering 方法，往往是基於迴圈和條件語句的，對於簡單的系統架構來說，Loop Engineering 是足夠的。但是，當系統變得越來越複雜，數據關係越來越密集時，Loop Engineering 就開始顯現出它的局限。</p>    <h2>Graph Engineering 的優勢</h2>    <p>Graph Engineering 的優勢在於它可以更好地處理複雜的數據關係和系統架構。通過圖結構，工程師可以更清晰地看到系統的架構，和數據之間的關係，从而更好地優化系統的性能和擴展性。</p>    <p>除此之外，Graph Engineering 還可以應用於多個領域，如社交網絡分析、推薦系統、自然語言處理等等。因此，Graph Engineering 的崛起，對於工程師來說，是一個不可忽視的趨勢。</p>    <h2>編輯悄悄話</h2>    <p>所以，工程師們，趕快適應這個變化吧！Graph Engineering 是未來，Loop Engineering 是過去。不要再猶豫，趕快提升自己的競爭力，成為 Graph Engineering 的專家吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Graph Engineering 是什麼，和 Loop Engineering 有何不同",
+      "Graph Engineering 的優勢和應用場景",
+      "工程師如何適應這個變化，提升自己的競爭力"
+    ],
+    "punchline": "Graph 是未來，Loop 是過去",
+    "social_posts": {
+      "threads": "你們有沒有發現，近年來 Graph Engineering 成為了熱議的話題？\n我也在思考，Graph Engineering 和 Loop Engineering 有何不同？\n讓我們一起探討這個話題吧！",
+      "facebook": " Graph Engineering 是什麼？如何應用於不同的領域？讓我們一起了解這個熱議的話題，並且提升自己的競爭力！",
+      "viral_hook": "Graph 是未來，Loop 是過去！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802937&idx=1&sn=3ecdb58a929806962d1b2455575d6b4a",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "007",
+    "title": "揭開 ChatGPT 優化之謎：解密 Agent Loop 的秘密",
+    "summary": "了解 ChatGPT 如何優化其 AI 應用，讓你體會到 AI 的未來",
+    "content": "<p>你是否曾經想過，ChatGPT 如何能夠如此快速地回應你的問題？其實，這背後有一個複雜的系統，讓 ChatGPT 能夠高效地運作。</p>    <h2>什麼是 Agent Loop?</h2>    <p>Agent Loop 是 ChatGPT 的核心系統，負責處理用戶的請求和回應。它包括三個層級：Harness 層、API 層和 Inference 層。</p>    <p>Harness 層負責接收用戶的請求，然後將其轉換為模型可以理解的格式。API 層則負責處理模型的輸出，然後將其轉換為用戶可以理解的格式。Inference 層則負責運行模型，產生輸出。</p>    <h2>如何優化 Agent Loop?</h2>    <p>優化 Agent Loop 的關鍵在於降低成本和提高效率。OpenAI 的工程師們通過優化每個層級，降低了 ChatGPT 的運行成本。例如，通過使用持續的 WebSockets 和延遲工具發現，Harness 層可以降低重複的工作。API 層可以通過並行運行安全檢查和推理，提高效率。</p>    <h2>編輯悄悄話</h2>    <p>ChatGPT 的優化之謎終於被揭開了。通過了解 Agent Loop 的工作原理，你可以更好地理解 AI 的未來。不要害怕，AI 並不會取代人類，而是會幫助我們更好地生活和工作。</p>",
+    "score": 85,
+    "takeaways": [
+      "ChatGPT 的 Agent Loop 是如何優化的",
+      "Harness 層、API 層和 Inference 層的作用",
+      "如何降低 AI 應用成本，提高效率"
+    ],
+    "punchline": "AI 的未來就在眼前",
+    "social_posts": {
+      "threads": "你是否曾經想過，ChatGPT 如何能夠如此快速地回應你的問題？\n其實，這背後有一個複雜的系統，讓 ChatGPT 能夠高效地運作。\n讓我們一起揭開 ChatGPT 優化之謎吧！",
+      "facebook": "了解 ChatGPT 的優化之謎，讓你體會到 AI 的未來。點擊鏈接，了解更多：",
+      "viral_hook": "你知道 ChatGPT 的秘密嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!VkzQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4314ac2-a739-4ae7-ab1d-2bc1bae512db_1695x2048.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "008",
+    "title": "終結數據孤島！Google 的無邊界湖倉（Borderless Lakehouse）讓 AI 直接存取您的 AWS、Databricks 和 Snowflake 數據",
+    "summary": "Google 的無邊界湖倉讓 AI 直接存取您的數據，無需複製數據，實現跨雲分析和無縫整合",
+    "content": "<p>近年來，數據湖倉（Data Lakehouse）不再只是簡單的數據儲存庫，而是一個可以主動執行任務的系統，通過 AI 代理（AI Agents）實現實時數據分析和商業工作流程的執行。</p>    <h2>無邊界湖倉的誕生</h2>    <p>Google 的無邊界湖倉（Borderless Lakehouse）是基於開源的 Apache Iceberg 所建構的，讓您可以直接存取和查詢您的數據，不論數據存儲在哪裡。這個無邊界湖倉可以連接您的本地數據中心、跨雲數據中心和 SaaS 應用程式，讓您可以在任何地方存取和查詢您的數據。</p>    <h2>跨雲分析和無縫整合</h2>    <p>無邊界湖倉可以實現跨雲分析和無縫整合，讓您可以直接查詢和分析您的數據，不論數據存儲在哪裡。這個功能可以讓您更好地利用您的數據，發現新的商業機會和提高數據的價值。</p>    <p>此外，無邊界湖倉還可以降低數據存儲和傳輸成本，提高數據安全性。通過使用無邊界湖倉，您可以避免數據孤島的問題，實現數據的無縫整合和共享。</p>    <h2>編輯悄悄話</h2>    <p>數據的力量，無處不在！無邊界湖倉讓 AI 直接存取您的數據，實現跨雲分析和無縫整合。這個技術可以讓您更好地利用您的數據，發現新的商業機會和提高數據的價值。所以，別等了，趕快體驗無邊界湖倉的力量吧！",
+    "score": 95,
+    "takeaways": [
+      "無邊界湖倉讓 AI 直接存取您的 AWS、Databricks 和 Snowflake 數據",
+      "實現跨雲分析和無縫整合，讓數據更有價值",
+      "降低數據存儲和傳輸成本，提高數據安全性"
+    ],
+    "punchline": "數據的力量，無處不在！",
+    "social_posts": {
+      "threads": "無邊界湖倉讓 AI 直接存取您的數據，無需複製數據，實現跨雲分析和無縫整合！#無邊界湖倉 #AI #數據分析",
+      "facebook": "Google 的無邊界湖倉（Borderless Lakehouse）讓 AI 直接存取您的 AWS、Databricks 和 Snowflake 數據，實現跨雲分析和無縫整合！",
+      "viral_hook": "數據的力量，無處不在！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/introducing-the-borderless-lakehouse/",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "009",
+    "title": "AI 新時代！GPT-5.6、Grok 4.5登場，誰將主導未來？",
+    "summary": "全球AI技術競爭加劇，GPT-5.6、Grok 4.5等新模型登場，帶來更強大的能力和更低的成本，但也引發了安全性和監管的疑慮。",
+    "content": "<p>近期，全球AI技術競爭加劇，各大公司都在投入資源發展AI技術。其中，GPT-5.6和Grok 4.5是最新的AI模型，具有更強大的能力和更低的成本。</p>    <h2>新模型的登場</h2>    <p>GPT-5.6是OpenAI最新推出的模型，具有更強大的語言理解能力和生成能力。同時，SpaceX AI的Grok 4.5也是最新推出的模型，具有更低的成本和更強大的編碼能力。</p>    <h2>安全性和監管的疑慮</h2>    <p>AI技術的快速發展引發了安全性和監管的疑慮。例如，GPT-5.6和Grok 4.5的出現，讓人們擔心其是否會被用於惡意目的。同時，全球AI技術競爭加劇，也引發了監管的疑慮，誰將主導未來的AI技術發展？</p>    <h2>編輯悄悄話</h2>    <p>AI的未來誰將主導？這個問題目前還沒有答案，但可以肯定的是，AI技術的發展將會對我們的生活產生深遠的影響。所以，讓我們繼續關注AI技術的發展，並一起探索其未來的可能性吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6和Grok 4.5是最新的AI模型，具有更強大的能力和更低的成本",
+      "AI技術的快速發展引發了安全性和監管的疑慮",
+      "全球AI技術競爭加劇，各大公司都在投入資源發展AI技術"
+    ],
+    "punchline": "AI的未來誰將主導？",
+    "social_posts": {
+      "threads": "AI新時代！GPT-5.6、Grok 4.5登場，誰將主導未來？\n\n近期，全球AI技術競爭加劇，各大公司都在投入資源發展AI技術。\n\n#AI #GPT-5.6 #Grok4.5",
+      "facebook": "AI新時代！GPT-5.6、Grok 4.5登場，誰將主導未來？近期，全球AI技術競爭加劇，各大公司都在投入資源發展AI技術。點擊鏈接了解更多：",
+      "viral_hook": "AI的未來誰將主導？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 安全漏洞大補洞！7 月份安全更新來了，別再等了！",
+    "summary": "Next.js 7 月份安全更新釋出，修復多個安全漏洞，包括 CPU 過載、 middleware/proxy 跳過等，立即更新以確保應用安全！",
+    "content": "<p>Next.js 7 月份安全更新釋出，修復多個安全漏洞，包括 CPU 過載、middleware/proxy 跳過等。</p>    <h2>什麼是安全漏洞？</h2>    <p>安全漏洞是指應用程式中的弱點，可能被攻擊者利用，導致應用程式的安全性受到影響。在這次更新中，Next.js 修復了多個安全漏洞，包括 CPU 過載、middleware/proxy 跳過等。</p>    <h2>如何更新 Next.js？</h2>    <p>更新 Next.js 非常簡單，只需執行以下命令：<code>npm install next@latest</code> 或 <code>yarn add next@latest</code>。立即更新以確保應用安全！</p>    <h2>編輯悄悄話</h2>    <p>安全漏洞是每個開發者的宿命，但我們可以透過更新和維護來降低風險。別等漏洞被利用，立即更新 Next.js，確保你的應用安全！</p>",
+    "score": 85,
+    "takeaways": [
+      "Next.js 7 月份安全更新修復多個安全漏洞",
+      "CPU 過載和 middleware/proxy 跳過是主要的安全風險",
+      "立即更新 Next.js 以確保應用安全"
+    ],
+    "punchline": "別等漏洞被利用，立即更新 Next.js！",
+    "social_posts": {
+      "threads": "Next.js 7 月份安全更新釋出！修復多個安全漏洞，包括 CPU 過載、middleware/proxy 跳過等。立即更新以確保應用安全！ #Nextjs #Security",
+      "facebook": "Next.js 7 月份安全更新釋出！修復多個安全漏洞，包括 CPU 過載、middleware/proxy 跳過等。立即更新以確保應用安全！ https://example.com/nextjs-security-update",
+      "viral_hook": "別等漏洞被利用，立即更新 Next.js！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/july-2026-security-release/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/july-2026-security-release",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "011",
+    "title": "音樂革命來了！Lyria 3.5登場，讓你的創作更上一層樓",
+    "summary": "Lyria 3.5音樂生成模型強勢登場，為你的音樂帶來全新的體驗，現在就來Google Flow Music試試吧！",
+    "content": "<p>你是否厭倦了千篇一律的音樂創作？現在，有了一個革命性的工具可以幫助你打破常規——Lyria 3.5！這是一個音樂生成模型，能夠為你的創作帶來全新的體驗。</p>    <h2>什麼是Lyria 3.5？</h2>    <p>Lyria 3.5是Google最新推出的音樂生成模型，旨在為用戶提供更好的音樂創作體驗。它可以生成高品質的音樂、歌詞和人聲，讓你可以專注於創作的核心——表達自己的情感和想法。</p>    <h2>體驗Lyria 3.5的創新</h2>    <ul>      <li>提升了音樂性：Lyria 3.5可以生成更豐富、更具層次的音樂，讓你的創作更具吸引力。</li>      <li>強化了歌詞創作：Lyria 3.5可以根據你的需求生成高品質的歌詞，讓你可以專注於音樂的其他方面。</li>      <li>增強了創作控制：Lyria 3.5提供了更多的創作控制權，讓你可以按照自己的想法打造理想的音樂。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>Lyria 3.5的登場，代表著音樂創作的新時代來了！現在，就來Google Flow Music試試吧，體驗音樂創作的全新可能性吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Lyria 3.5提升了音樂性、歌詞、人聲質量和創作控制",
+      "用Lyria 3.5，你可以創作出更豐富、更具個人特色的歌曲",
+      "Google Flow Music是體驗Lyria 3.5的最佳平台"
+    ],
+    "punchline": "音樂創作的新時代來了！",
+    "social_posts": {
+      "threads": "你們有沒有試過感到自己的音樂創作遇到瓶頸？\n現在，有了一個革命性的工具可以幫助你打破常規——Lyria 3.5！\n來試試吧，體驗音樂創作的新時代！",
+      "facebook": "音樂創作的新時代來了！Lyria 3.5強勢登場，為你的音樂帶來全新的體驗。現在就來Google Flow Music試試吧，體驗音樂創作的全新可能性吧！",
+      "viral_hook": "音樂革命來了！Lyria 3.5登場，讓你的創作更上一層樓！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-1440x810.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "date": "2026-07-30"
+  },
+  {
+    "id": "012",
+    "title": "2個神奇設定讓AI模型GPT-5.6在ARC-AGI-3benchmark上成績大躍進",
+    "summary": "透過調整2個API設定，GPT-5.6模型在ARC-AGI-3benchmark上的成績從7.8%躍升至38.3%，這代表什麼？",
+    "content": "<p>你是否曾經想過，AI模型的成績是如何被評估的？在ARC-AGI-3benchmark上，GPT-5.6模型初步成績不佳，僅得7.8%。但是在調整2個API設定後，成績從7.8%躍升至38.3%！這代表什麼？</p>    <h2>什麼是ARC-AGI-3benchmark？</h2>    <p>ARC-AGI-3benchmark是一種評估AI模型在2D遊戲上的表現的評估指標。這個benchmark的設計宗旨是測試AI模型的推理和學習能力。在這個benchmark上，AI模型需要在沒有明確指示的情況下，自行探索和學習遊戲規則。</p>    <h2>2個神奇設定</h2>    <p>研究人員透過調整2個API設定，讓GPT-5.6模型在ARC-AGI-3benchmark上的成績大躍進。這2個設定分別是「保留推理」和「壓縮」。啟用這2個設定後，GPT-5.6模型可以保留其過去的推理和行動記憶，從而更好地學習和推理遊戲規則。</p>    <h2>編輯悄悄話</h2>    <p>這項研究結果對於未來AI模型的開發和優化具有重要意義。它告訴我們，AI模型的成績不僅取決於模型本身，也取決於API設定和其他外部因素。所以，下次當你看到AI模型的成績時，不要只看表面數據，要多想想背後的故事。</p>",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6模型在ARC-AGI-3benchmark上初步成績不佳，原因除了模型本身外，也與API設定有關",
+      "啟用「保留推理」和「壓縮」兩個設定，可以大幅提升模型在benchmark上的成績",
+      "這項研究結果對於未來AI模型的開發和優化具有重要意義"
+    ],
+    "punchline": "2個設定讓AI模型成績大躍進",
+    "social_posts": {
+      "threads": "你知道嗎？2個神奇設定可以讓AI模型在ARC-AGI-3benchmark上成績大躍進！\n這2個設定分別是「保留推理」和「壓縮」。\n啟用這2個設定後，GPT-5.6模型可以保留其過去的推理和行動記憶，從而更好地學習和推理遊戲規則。",
+      "facebook": "AI模型的成績不僅取決於模型本身，也取決於API設定和其他外部因素。這項研究結果對於未來AI模型的開發和優化具有重要意義。點擊連結了解更多：",
+      "viral_hook": "2個設定讓AI模型成績大躍進，你知道是什么嗎？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3lr743fXRey8lYJgiaReEo/80b223beba7cf8fcd4108d533741a56b/ARC-AGI-3_art-card_16x9.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "date": "2026-07-30"
+  }
+]
