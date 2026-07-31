@@ -262,5 +262,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
     "date": "2026-07-31"
+  },
+  {
+    "id": "013",
+    "title": "開源AI模型崛起：Kimi K3、Muse Spark 1.1強勢登場，Cloudflare打擊網路爬蟲",
+    "summary": "開源AI模型Kimi K3和Muse Spark 1.1相繼登場，挑戰傳統的AI模型，Cloudflare則推出新功能打擊網路爬蟲",
+    "content": "<h2>開源AI模型崛起</h2>    <p>近期，開源AI模型Kimi K3和Muse Spark 1.1相繼登場，挑戰傳統的AI模型。Kimi K3是一個2.8萬億參數的開源AI模型，表現優於多個傳統模型。Muse Spark 1.1是一個低成本的AI模型，具有工具使用和調整推理等功能。</p>    <h2>Cloudflare打擊網路爬蟲</h2>    <p>Cloudflare推出新功能，允許網站管理員控制AI機器人訪問網站內容。這個功能可以幫助網站管理員保護自己的內容，防止AI機器人滥用。</p>    <h2>編輯悄悄話</h2>    <p>開源AI模型的崛起，代表著AI技術的進步和開放。然而，AI技術的發展也需要負責任的使用和管理。作為用戶，我們需要認識到AI技術的優點和缺點，合理使用AI技術，避免滥用。</p>",
+    "score": 95,
+    "takeaways": [
+      "Kimi K3是一個2.8萬億參數的開源AI模型，表現優於多個傳統模型",
+      "Muse Spark 1.1是一個低成本的AI模型，具有工具使用和調整推理等功能",
+      "Cloudflare推出新功能，允許網站管理員控制AI機器人訪問網站內容"
+    ],
+    "punchline": "開源AI模型崛起，挑戰傳統AI模型",
+    "social_posts": {
+      "threads": "開源AI模型崛起！Kimi K3和Muse Spark 1.1強勢登場，Cloudflare打擊網路爬蟲！#AI #開源 #機器學習",
+      "facebook": "開源AI模型的崛起，代表著AI技術的進步和開放。然而，AI技術的發展也需要負責任的使用和管理。點擊連結，了解更多！#AI #開源 #機器學習",
+      "viral_hook": "開源AI模型崛起，傳統AI模型要被淘汰了？"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-363",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "014",
+    "title": "歐洲人工智慧新紀元：OpenAI 如何確保 AI 的安全、透明與責任",
+    "summary": "OpenAI 分享其在歐洲推動負責任 AI 的做法，包括安全、透明和溯源等方面的努力",
+    "content": "<p>近年來，人工智慧（AI）技術的發展日新月異，OpenAI 作為領先的 AI 研發公司，致力於推動負責任的 AI 發展。在歐洲，OpenAI 已經開始了一系列的工作，包括安全、透明和溯源等方面的努力。</p>    <h2>安全第一</h2>    <p>OpenAI 認為，安全是 AI 發展的基礎。因此，公司已經制定了一系列的安全準則和框架，包括 <a href=\"https://www.example.com\">Preparedness Framework</a> 和 <a href=\"https://www.example.com\">Frontier Governance Framework</a>。這些框架幫助公司識別、評估和管理 AI 系統的風險。</p>    <h2>透明溯源</h2>    <p>除了安全，OpenAI 也非常重視 AI 的透明和溯源。公司已經開發了一系列的技術，包括 <a href=\"https://www.example.com\">Content Credentials</a> 和 <a href=\"https://www.example.com\">SynthID</a>，這些技術可以幫助用戶了解 AI 生成的內容的來源和背景。</p>    <h2>編輯悄悄話</h2>    <p>負責任的 AI 治理需要整個生態系統的共同努力。OpenAI 將繼續與其他公司、政府和組織合作，推動負責任的 AI 發展。讓我們一起努力，創建一個更加安全、透明和負責任的 AI 未來！</p>",
+    "score": 90,
+    "takeaways": [
+      "OpenAI 致力於確保 AI 的安全和透明",
+      "公司已制定了一系列的治理框架和準則",
+      "負責任的 AI 治理需要整個生態系統的共同努力"
+    ],
+    "punchline": "讓 AI 更安全、更加透明",
+    "social_posts": {
+      "threads": "讓我們聊聊 #AI 的未來！OpenAI 致力於推動負責任的 AI 發展，包括安全、透明和溯源等方面的努力。#負責任AI",
+      "facebook": "OpenAI 致力於推動負責任的 AI 發展，包括安全、透明和溯源等方面的努力。點擊鏈接了解更多：https://www.example.com",
+      "viral_hook": "你知道嗎？OpenAI 正在推動一個更加安全、透明和負責任的 AI 未來！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3wXKvwzV9IlUVcm3H8tcPb/3a66b4f38baf6c6f2594eddc0a8d6561/Frame.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "date": "2026-07-31"
   }
 ]
