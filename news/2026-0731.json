@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "閒置GPU成新型「待命飛機」？了解為何它們的管理成效比你想像中更重要",
+    "summary": "你知道閒置的GPU可能是資源浪費的罪魁禍首嗎？透過GPU管理，企業能減少能耗、提高運算效率，進而節省龐大的資源",
+    "content": "<p>在現代科技發展中，GPU（圖形處理器）扮演著日益重要的角色，尤其是在人工智慧、深度學習和高性能運算等領域。然而，隨著GPU的普及，閒置的GPU成了新的「待命飛機」，意味著它們可能成為資源浪費的源頭。</p>    <h2>閒置GPU的隱藏危機</h2>    <p>閒置的GPU不僅占用了寶貴的資源，還會增加能耗和降低整體運算效率。根據研究，閒置的GPU可能會導致企業浪費高達20%的運算資源。因此，如何有效地管理和利用GPU成了企業的一大挑戰。</p>    <h2>GPU管理的解決方案</h2>    <p>透過有效的GPU管理，企業可以減少閒置的GPU，提高運算效率，進而節省龐大的資源。GPU管理的解決方案包括實時監控GPU使用率、優化GPU配置、實施智能能耗管理等。這些措施可以幫助企業充分發揮GPU的潛力，同時減少浪費和成本。</p>    <h2>編輯悄悄話</h2>    <p>GPU管理不僅是一種技術挑戰，也是一種商業機會。企業能否有效地管理GPU，將直接影響到其未來的發展和競爭力。因此，企業必須重視GPU管理，投入必要的資源和技術，才能在未來的科技競爭中佔據先機。</p>",
+    "score": 90,
+    "takeaways": [
+      "閒置GPU可能導致資源浪費和能耗增加",
+      "有效的GPU管理可以提高運算效率和節省成本",
+      "GPU管理對於企業的長期發展和競爭力至關重要"
+    ],
+    "punchline": "GPU管理：從浪費到效率的轉變",
+    "social_posts": {
+      "threads": "你知道閒置的GPU可能是資源浪費的罪魁禍首嗎？\n透過GPU管理，企業可以減少能耗、提高運算效率，進而節省龐大的資源\n讓我們一起探討GPU管理的重要性和解決方案",
+      "facebook": "GPU管理：從浪費到效率的轉變\n了解閒置GPU的隱藏危機和GPU管理的解決方案\n點擊鏈接查看詳細內容",
+      "viral_hook": "閒置GPU成新型「待命飛機」？"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/Ih3Nn6Wc1U_w_QpvEMXRY.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "002",
+    "title": "驚艷！如何在 AWS 上部署 Kimi K3 模型，解鎖 2.8 萬億參數的強大智慧",
+    "summary": "Kimi K3 模型是 Moonshot AI 的最新傑作，具有 2.8 萬億參數，能夠處理複雜任務。這篇文章將教您如何在 AWS 上部署 Kimi K3 模型，解鎖其強大智慧",
+    "content": "<p>近年來，人工智慧模型的發展越來越迅速，能夠處理複雜任務的模型也越來越大。Kimi K3 模型就是其中之一，具有 2.8 萬億參數，能夠處理長期編碼任務、代理工作流和複雜推理等任務。</p>    <h2>什麼是 Kimi K3 模型？</h2>    <p>Kimi K3 模型是 Moonshot AI 的最新傑作，具有 2.8 萬億參數，能夠處理複雜任務。該模型採用了一種特殊的架構，包括 Kimi Delta Attention (KDA)、Gated Multi Head Latent Attention (MLA) 和 Stable LatentMoE 框架。這些技術使得 Kimi K3 模型能夠更有效地處理複雜任務。</p>    <h2>如何在 AWS 上部署 Kimi K3 模型</h2>    <p>AWS 提供兩種方法來部署 Kimi K3 模型：Amazon SageMaker HyperPod 和 Amazon Elastic Kubernetes Service (Amazon EKS) 集群。這兩種方法都能夠提供大量的 GPU 計算資源，能夠滿足 Kimi K3 模型的需求。</p>    <ul>      <li>Amazon SageMaker HyperPod：提供了一種簡單的方法來部署 Kimi K3 模型，無需手動配置容器和模型。</li>      <li>Amazon EKS 集群：提供了一種更靈活的方法來部署 Kimi K3 模型，能夠滿足更多的自定義需求。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>部署 Kimi K3 模型需要大量的 GPU 計算資源，如果您想要解鎖其強大智慧，請務必選擇合適的方法和資源。同時，也需要注意模型的大小和複雜度，才能夠更好地使用 Kimi K3 模型。</p>",
+    "score": 90,
+    "takeaways": [
+      "Kimi K3 模型具有 2.8 萬億參數，能夠處理複雜任務",
+      "AWS 提供兩種方法來部署 Kimi K3 模型：Amazon SageMaker HyperPod 和 Amazon Elastic Kubernetes Service (Amazon EKS) 集群",
+      "部署 Kimi K3 模型需要大量的 GPU 計算資源"
+    ],
+    "punchline": "解鎖 2.8 萬億參數的強大智慧",
+    "social_posts": {
+      "threads": "大家好！今天我要跟大家分享一篇關於 Kimi K3 模型的文章。這個模型具有 2.8 萬億參數，能夠處理複雜任務。大家可以在 AWS 上部署 Kimi K3 模型，解鎖其強大智慧。",
+      "facebook": "解鎖 2.8 萬億參數的強大智慧！Kimi K3 模型是 Moonshot AI 的最新傑作，能夠處理長期編碼任務、代理工作流和複雜推理等任務。大家可以在 AWS 上部署 Kimi K3 模型，體驗其強大智慧。",
+      "viral_hook": "2.8 萬億參數的強大智慧，你準備好了嗎？"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/30/ml-21615.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-aws/",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "003",
+    "title": "揭開 Meta 廣告新秘密：如何讓廣告更懂你?",
+    "summary": "Meta 研發了一種新的技術，叫做「層級興趣代表」，可以更好地了解用戶的興趣，讓廣告更有效",
+    "content": "<p>你是否曾經感到，廣告總是無法真正了解你的需求？ Meta 的最新研究成果，層級興趣代表，將為廣告帶來革命性的變化。</p>    <h2>什麼是層級興趣代表?</h2>    <p>層級興趣代表是一種新的技術，能夠更好地了解用戶的興趣。它通過分析用戶的行為和偏好，建立了一個複雜的興趣網絡，讓廣告更有效。</p>    <h2>如何工作?</h2>    <p>這種技術使用了一種特殊的圖形結構，將用戶和廣告實體（如廣告商、產品、服務等）連接起來。通過分析這些連接，系統可以學習到用戶的興趣和偏好，讓廣告更有效。</p>    <p>此外，層級興趣代表還可以讓用戶發現新的興趣和偏好，提高用戶的參與度和滿意度。</p>    <h2>編輯悄悄話</h2>    <p>層級興趣代表是一種令人興奮的技術，將為廣告帶來革命性的變化。它不僅可以讓廣告更有效，還可以提高用戶的參與度和滿意度。讓我們拭目以待，看到這種技術如何改變廣告的未來!</p>",
+    "score": 85,
+    "takeaways": [
+      "層級興趣代表是一種新的技術，能夠更好地了解用戶的興趣",
+      "這種技術可以讓廣告更有效，提高用戶的參與度",
+      "Meta 的廣告平台每月為數十億用戶提供數百萬個廣告"
+    ],
+    "punchline": "讓廣告更懂你",
+    "social_posts": {
+      "threads": "你是否曾經感到，廣告總是無法真正了解你的需求？ #Meta #廣告 #層級興趣代表",
+      "facebook": "Meta 的最新研究成果，層級興趣代表，將為廣告帶來革命性的變化。了解更多：https://example.com",
+      "viral_hook": "讓廣告更懂你！ #Meta #廣告 #層級興趣代表"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "004",
+    "title": "微軟資料庫的秘密武器：從穩定性到 AI 思維",
+    "summary": "用戶最看重的是什麼？從可靠性到 AI 領域，微軟資料庫的優勢在哪裡？",
+    "content": "<p>每天，數以千計的用戶都依靠微軟資料庫來支撐他們最關鍵的應用程式、商業流程和 AI 驅動的體驗。</p>    <h2>什麼是用戶最看重的？</h2>    <p>從可靠性到 AI 領域，微軟資料庫的優勢在哪裡？答案是：穩定性、安全性和合規性。這些都是企業在選擇資料庫時的首要考量。</p>    <p>微軟資料庫的可靠性和穩定性是用戶最看重的。因為它們能夠確保企業的應用程式和商業流程能夠不間斷地運行，從而帶來更好的用戶體驗和商業成果。</p>    <h2>未來的趨勢：AI 思維和資料庫的整合</h2>    <p>AI 思維和資料庫的整合是未來的趨勢。微軟資料庫的 AI 能力可以幫助企業更好地分析和利用資料，從而帶來更好的商業決策和成果。</p>    <h2>編輯悄悄話</h2>    <p>那麼，什麼是微軟資料庫的秘密武器呢？其實很簡單：就是用戶的需求和期望。微軟資料庫的優勢在於它能夠滿足用戶的需求和期望，從而帶來更好的用戶體驗和商業成果。</p>",
+    "score": 85,
+    "takeaways": [
+      "微軟資料庫的可靠性和穩定性是用戶最看重的",
+      "AI 思維和資料庫的整合是未來的趨勢",
+      "微軟資料庫的安全性和合規性是企業的首要考量"
+    ],
+    "punchline": "資料庫的未來是 AI 驅動的",
+    "social_posts": {
+      "threads": "什麼是用戶最看重的？\n從可靠性到 AI 領域，微軟資料庫的優勢在哪裡？\n答案是：穩定性、安全性和合規性。\n這些都是企業在選擇資料庫時的首要考量。",
+      "facebook": "微軟資料庫的秘密武器：從穩定性到 AI 思維\n了解用戶的需求和期望，滿足用戶的需求和期望，帶來更好的用戶體驗和商業成果。",
+      "viral_hook": "微軟資料庫的未來是 AI 驅動的！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/FY26AE-Azure-Composite-EnergyBlue-009-H.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "005",
+    "title": "Elastic 和 OpenAI 聯合！讓 AI 學會「懂事」並提升企業資料運用",
+    "summary": "Elastic 和 OpenAI 的合作將讓 AI 學會「懂事」並提升企業資料運用，讓企業能夠更好地運用 AI 技術",
+    "content": "<p>近年來，AI 技術 đã 進步神速，但是企業仍然面臨著一個大問題：如何讓 AI 學會「懂事」並提升企業資料運用。為了解決這個問題，Elastic 和 OpenAI 聯合推出了一個嶄新的合作計畫，旨在讓 AI 能夠更好地理解企業資料並提升企業資料運用。</p>    <h2>什麼是「懂事」的 AI？</h2>    <p>「懂事」的 AI 是指能夠理解企業資料並根據這些資料做出決策的 AI。這種 AI 能夠學習和改進，並且能夠根據企業的需求做出相應的調整。Elastic 和 OpenAI 的合作將讓 AI 能夠更好地學習和改進，並且能夠更好地理解企業資料。</p>    <h2>如何讓 AI 學會「懂事」</h2>    <p>讓 AI 學會「懂事」需要一個龐大的資料庫和一個強大的學習算法。Elastic 和 OpenAI 的合作將提供這兩個條件，讓 AI 能夠更好地學習和改進。同時，Elastic 的 Observability 平台將提供一個統一的觀察平台，讓企業能夠更好地監控和管理 AI 的運行。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來就在「懂事」。讓我們一起期待這個未來的到來吧！",
+    "score": 95,
+    "takeaways": [
+      "Elastic 和 OpenAI 的合作將讓 AI 能夠更好地理解企業資料",
+      "這個合作將讓企業能夠更好地運用 AI 技術",
+      "這個合作將讓 AI 能夠更好地學習和改進"
+    ],
+    "punchline": "AI 的未來就在「懂事」",
+    "social_posts": {
+      "threads": "你們有沒有想過，AI 的未來會是什麼樣子？\n現在，Elastic 和 OpenAI 的合作將讓 AI 能夠更好地學會「懂事」並提升企業資料運用。\n讓我們一起期待這個未來的到來吧！",
+      "facebook": "Elastic 和 OpenAI 的合作將讓 AI 能夠更好地學會「懂事」並提升企業資料運用。點擊連結了解更多：",
+      "viral_hook": "AI 的未來就在「懂事」！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt91d3f9b077793afb/6a6b32848b9d524c2c1f3ab7/partners-OpenAI_(1)_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/elastic-openai-partnership",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "006",
+    "title": "AI不再只是寫程式，未來是懂團隊的AI",
+    "summary": "AI Coding的新方向：從單純寫程式到懂團隊，QQ瀏覽器的工程實踐",
+    "content": "<p>AI Coding已經不再只是寫程式的工具，未來的發展方向是懂團隊。QQ瀏覽器的工程實踐就是一個例子，讓AI在團隊語境中持續進化。</p>    <h2>什麼是AI Coding</h2>    <p>AI Coding是使用人工智慧技術來協助程式設計和開發的工具。它可以幫助開發者自動完成程式碼的寫作、測試和除錯等工作。但是，AI Coding的未來發展方向不再只是寫程式，而是懂團隊。</p>    <h2>QQ瀏覽器的工程實踐</h2>    <p>QQ瀏覽器的工程實踐就是一個例子，讓AI在團隊語境中持續進化。通過讓AI學習團隊的溝通和合作模式，QQ瀏覽器的工程實踐使得AI可以更好地與團隊成員合作，提高開發效率和質量。</p>    <h2>編輯悄悄話</h2>    <p>AI不再只是工具，成為團隊的一員。未來，AI將會與人類更緊密地合作，創造出更多的價值和可能性。所以，讓我們一起期待AI的未來發展吧！",
+    "score": 90,
+    "takeaways": [
+      "AI Coding的未來發展方向是懂團隊",
+      "QQ瀏覽器的工程實踐是AI在團隊語境中進化的例子",
+      "AI需要學習團隊的溝通和合作模式"
+    ],
+    "punchline": "AI不再只是工具，成為團隊的一員",
+    "social_posts": {
+      "threads": "你知道嗎？AI不再只是寫程式的工具，未來的發展方向是懂團隊！QQ瀏覽器的工程實踐就是一個例子，讓AI在團隊語境中持續進化。#AI #Coding #Teamwork",
+      "facebook": "AI Coding的新方向：從單純寫程式到懂團隊。QQ瀏覽器的工程實踐是AI在團隊語境中進化的例子。點擊連結了解更多！https://example.com",
+      "viral_hook": "AI不再只是工具，成為團隊的一員！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802960&idx=1&sn=c62698da543f3bd37ba36b617bc92b80",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "007",
+    "title": "網路購物的隱藏陷阱：重複付款的風險與解決之道",
+    "summary": "當你網路購物時，付款請求超時了，你會不會被重複扣款？了解 idempotency、delivery semantics 和 deduplication，讓你遠離重複付款的風險",
+    "content": "<p>你是否曾經遇過網路購物付款請求超時的問題？這個問題不僅讓你感到沮喪，還可能導致重複付款的風險。今天，我們要來討論 idempotency、delivery semantics 和 deduplication 這三個重要的概念，讓你了解如何避免重複付款的風險。</p>    <h2>什麼是 idempotency？</h2>    <p>idempotency 是一個物件或操作在多次應用後仍保持相同狀態的性質。例如，設定帳戶餘額為 500，是 idempotent 的，因為無論你執行多少次，這個操作的結果都相同。相反，增加 500 到帳戶餘額則不是 idempotent 的，因為每次執行這個操作，帳戶餘額都會改變。</p>    <h2>delivery semantics 和 deduplication</h2>    <p>delivery semantics 有三種模式：at-most-once、at-least-once 和 exactly-once。at-most-once 模式可能導致丟失資料，而 at-least-once 模式可能導致重複資料。exactly-once 模式則是最理想的模式，但它需要更複雜的機制來實現。deduplication 是一種技術，用於消除重複資料，但它也有時間限制，一旦超過這個限制，重複資料就可能再次出現。</p>    <h2>編輯悄悄話</h2>    <p>別讓重複付款成為你的噩夢。了解 idempotency、delivery semantics 和 deduplication，讓你在網路購物中更安心、更安全。記住，安全永遠是第一位的，別讓小小的疏忽帶來大的麻煩。",
+    "score": 90,
+    "takeaways": [
+      "idempotency 是什麼，和網路購物有什麼關係",
+      "delivery semantics 的三種模式，哪一种最安全",
+      "deduplication 的時間限制，和 exactly-once 的真實含義"
+    ],
+    "punchline": "別讓重複付款成為你的噩夢",
+    "social_posts": {
+      "threads": "你有沒有遇過網路購物付款請求超時的問題？\n這個問題不僅讓你感到沮喪，還可能導致重複付款的風險。\n今天，我們要來討論 idempotency、delivery semantics 和 deduplication 這三個重要的概念，讓你了解如何避免重複付款的風險。",
+      "facebook": "網路購物的隱藏陷阱：重複付款的風險與解決之道\n了解 idempotency、delivery semantics 和 deduplication，讓你遠離重複付款的風險。點擊連結了解更多：[連結]",
+      "viral_hook": "別讓重複付款成為你的噩夢！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!eNRB!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F596dd981-be1c-46a5-bf6a-226c3ae393b9_2650x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/a-detailed-guide-to-idempotency-delivery",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "008",
+    "title": "用 GKE 把每個 agent 的成本砍 75%！",
+    "summary": "透過 GKE 的orchestration 和 Agent Sandbox，讓你的 AI 代理人更有效率、更省錢！",
+    "content": "<p>在今天的 AI 時代，雲端應用程式正從被動的工具演變成自主的數位工人，能夠在各種任務中進行推理、規劃和執行。</p>    <h2>什麼是 GKE Agent Sandbox？</h2>    <p>GKE Agent Sandbox 是一個 Kubernetes 原生功能，能夠提供安全、輕量級的代理人執行環境。它使用 gVisor 進行系統呼叫攔截和過濾，提供生產級的隔離和安全性。</p>    <h2>如何使用 GKE 來優化代理人工作負載</h2>    <p>透過 GKE 的 orchestration 和 Agent Sandbox，你可以將代理人工作負載優化到極致。GKE 支持不同類型的代理人工作負載，讓你可以根據需求進行優化。同時，GKE 的 suspend 和 resume 功能可以讓你在代理人閒置時將其凍結，節省計算資源。</p>    <h2>編輯悄悄話</h2>    <p>別讓你的代理人工作負載拖慢你的業務！使用 GKE 來優化你的代理人工作負載，今天就來體驗一下 GKE 的強大功能吧！",
+    "score": 90,
+    "takeaways": [
+      "GKE Agent Sandbox 可以讓你在相同的計算資源上跑 40%更多的代理人",
+      "使用 GKE 的 orchestration 和 Agent Sandbox，可以讓每個代理人的成本降低 75%!",
+      "GKE 支持不同類型的代理人工作負載，讓你可以根據需求進行優化"
+    ],
+    "punchline": "GKE 讓你用更少的錢，做更多的事情！",
+    "social_posts": {
+      "threads": "你知道嗎？GKE 可以讓你的代理人工作負載更有效率、更省錢！透過 GKE 的 orchestration 和 Agent Sandbox，你可以將代理人工作負載優化到極致。今天就來體驗一下 GKE 的強大功能吧！#GKE #AgentSandbox #CloudComputing",
+      "facebook": "使用 GKE 來優化你的代理人工作負載！透過 GKE 的 orchestration 和 Agent Sandbox，你可以將代理人工作負載優化到極致。今天就來體驗一下 GKE 的強大功能吧！ https://cloud.google.com/kubernetes-engine",
+      "viral_hook": "用 GKE 把每個代理人的成本砍 75%！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/07_-_Containers__Kubernetes_iY4YTLa.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/containers-kubernetes/reduce-your-agents-costs-with-gke-agent-sandbox/",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "009",
+    "title": "AI新世代來了！GPT-5.6、Grok 4.5、Nemotron-Labs-Diffusion，你準備好了嗎？",
+    "summary": "最新的AI模型GPT-5.6、Grok 4.5等接連登場，帶來了更多的可能性和挑戰，了解這些新技術對你的生活和工作的影響",
+    "content": "<p>最近，AI界接連出現了多個重磅消息，包括GPT-5.6、Grok 4.5、Nemotron-Labs-Diffusion等新模型的登場。這些新技術帶來了更多的可能性和挑戰，讓我們不得不思考其對我們生活和工作的影響。</p>    <h2>什麼是GPT-5.6和Grok 4.5？</h2>    <p>GPT-5.6是OpenAI最新推出的模型，具有更強大的語言理解和生成能力。Grok 4.5則是SpaceX AI推出的新模型，具有更低的成本和更高的效率。</p>    <h2>AI模型的發展對我們的影響</h2>    <p>AI模型的發展對我們的工作和生活有著深遠的影響。例如，AI可以幫助我們提高工作效率，自動化重複性的任務，同時也可以幫助我們進行創新的研發和設計。然而，AI也帶來了新的挑戰，例如工作崗位的流失和數據安全的問題。</p>    <h2>編輯悄悄話</h2>    <p>在這個快速變化的AI時代，我們需要保持警覺和學習的態度。只有通過不斷的學習和適應，才能在這個新時代中找到自己的位置和機會。所以，AI新時代來了，你準備好了嗎？",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6和Grok 4.5是什麼，以及它們的功能和特點",
+      "AI模型的發展對你的工作和生活有什麼影響",
+      "如何利用AI技術提高工作效率和競爭力"
+    ],
+    "punchline": "AI新時代來了，你準備好了嗎？",
+    "social_posts": {
+      "threads": "最近的AI消息讓我感到很興奮和擔憂，GPT-5.6和Grok 4.5的登場帶來了更多的可能性和挑戰，你們覺得呢？",
+      "facebook": "了解最新的AI模型和技術，提高你的工作效率和競爭力。點擊連結了解更多",
+      "viral_hook": "AI新時代來了，你準備好了嗎？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "010",
+    "title": "新一代機器人大腦：Gemini Robotics ER 2 讓機器人變得更聰明、更合作!",
+    "summary": "Gemini Robotics ER 2 是一個革命性的機器人大腦，讓機器人可以通過視頻理解、任務協調和多機器人合作來解決實際問題",
+    "content": "<p>Gemini Robotics ER 2 是一個新一代的機器人大腦，讓機器人可以通過視頻理解、任務協調和多機器人合作來解決實際問題。這個技術可以讓機器人更安全、更有效地協助人類在日常環境中。</p>    <h2>什麼是 Gemini Robotics ER 2？</h2>    <p>Gemini Robotics ER 2 是一個高級別的機器人大腦，允許機器人進行實時空間推理、多步驟任務規劃和合作。它可以讓機器人通過視頻理解來跟蹤自己的進度、適應錯誤和知道何時移動到下一步。</p>    <h2>如何使用 Gemini Robotics ER 2</h2>    <p>開發者可以通過 Gemini API、Google AI Studio 和 Gemini Enterprise Agent Platform 來使用 Gemini Robotics ER 2。該技術可以讓機器人更安全、更有效地協助人類在日常環境中。</p>    <h2>編輯悄悄話</h2>    <p>機器人大腦進化了！Gemini Robotics ER 2 讓機器人變得更聰明、更合作。這個技術將會改變我們的生活方式，讓機器人變得更安全、更有效地協助人類。",
+    "score": 90,
+    "takeaways": [
+      "Gemini Robotics ER 2 可以讓機器人進行實時空間推理、多步驟任務規劃和合作",
+      "該技術可以讓機器人更安全、更有效地協助人類在日常環境中",
+      "Gemini Robotics ER 2 透過 Gemini API、Google AI Studio 和 Gemini Enterprise Agent Platform 提供給開發者"
+    ],
+    "punchline": "機器人大腦進化了！",
+    "social_posts": {
+      "threads": "機器人大腦進化了！\nGemini Robotics ER 2 讓機器人變得更聰明、更合作。\n這個技術將會改變我們的生活方式，讓機器人變得更安全、更有效地協助人類。",
+      "facebook": "發現新一代機器人大腦：Gemini Robotics ER 2！\n這個技術可以讓機器人進行實時空間推理、多步驟任務規劃和合作，讓機器人變得更安全、更有效地協助人類。",
+      "viral_hook": "機器人大腦進化了！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "011",
+    "title": "重構的經濟效益：減少代碼成本的秘訣",
+    "summary": "研究指出，重構代碼可以減少代碼成本，提高開發效率，讓你少花錢，多做事",
+    "content": "<p>你是否曾經想過，重構代碼是否真的有用？現在，有一項研究指出，重構代碼可以減少代碼成本，提高開發效率，讓你少花錢，多做事。</p>    <h2>什麼是重構？</h2>    <p>重構是指對代碼進行重新設計和重寫，以提高代碼的質量和可維護性。它可以幫助你減少代碼的複雜度，提高代碼的可讀性和可維護性。</p>    <h2>重構的經濟效益</h2>    <p>研究指出，重構代碼可以減少代碼成本。通過重構代碼，你可以減少代碼的複雜度，提高代碼的可維護性，從而減少維護和更新代碼的成本。</p>    <p>另外，重構代碼還可以提高開發效率。通過重構代碼，你可以提高代碼的可讀性和可維護性，從而提高開發團隊的工作效率。</p>    <h2>編輯悄悄話</h2>    <p>所以，重構代碼不是一件無用的事情，它可以幫助你減少代碼成本，提高開發效率，讓你少花錢，多做事。所以，還等什麼？趕快重構你的代碼吧！",
+    "score": 90,
+    "takeaways": [
+      "重構代碼可以減少代碼成本",
+      "重構代碼可以提高開發效率",
+      "重構代碼可以讓你少花錢，多做事"
+    ],
+    "punchline": "重構，讓你少花錢，多做事",
+    "social_posts": {
+      "threads": "你是否曾經想過，重構代碼是否真的有用？現在，有一項研究指出，重構代碼可以減少代碼成本，提高開發效率，讓你少花錢，多做事。 #重構 #代碼",
+      "facebook": "重構代碼，可以減少代碼成本，提高開發效率，讓你少花錢，多做事。了解更多：[連結]",
+      "viral_hook": "重構代碼，讓你少花錢，多做事！"
+    },
+    "image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html",
+    "date": "2026-07-31"
+  },
+  {
+    "id": "012",
+    "title": "AI大突破！GPT-5.6降價80%，讓企業更省錢又更強大",
+    "summary": "OpenAI推出更高效的GPT-5.6模型，讓企業在AI應用上更有競爭力，同時降低成本。",
+    "content": "<p>OpenAI最新推出的GPT-5.6模型，不僅提供更高效的AI解決方案，同時也降低了成本。這對於企業來說，是一個難得的機會，可以讓他們在AI應用上更有競爭力。</p>    <h2>什麼是GPT-5.6？</h2>    <p>GPT-5.6是一種更高效的AI模型，讓企業可以更快速、更準確地完成工作。它可以使用工具和完成多步驟的工作流程，使得更多的AI應用變得可行。</p>    <h2>如何應用GPT-5.6？</h2>    <p>企業可以使用GPT-5.6來優化工作流程，例如使用Luna來完成高容量工作，使用Terra來完成日常工作。Fast mode API提供更快的處理速度，讓企業更快速地應對變化。</p>    <h2>編輯悄悄話</h2>    <p>AI不再是奢侈品，GPT-5.6讓企業更智能、更省錢。只要掌握了GPT-5.6的應用秘訣，企業就可以在AI應用上更有競爭力，同時降低成本。",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6 Luna降價80%，提供更高效的AI解決方案",
+      "GPT-5.6 Terra降價20%，滿足企業日常工作需求",
+      "Fast mode API提供更快的處理速度，讓企業更快速地應對變化"
+    ],
+    "punchline": "AI不再是奢侈品，GPT-5.6讓企業更智能、更省錢",
+    "social_posts": {
+      "threads": "AI大突破！GPT-5.6降價80%，讓企業更省錢又更強大\n什麼是GPT-5.6？\n如何應用GPT-5.6？",
+      "facebook": "OpenAI推出更高效的GPT-5.6模型，讓企業在AI應用上更有競爭力，同時降低成本。點擊連結了解更多。",
+      "viral_hook": "AI不再是奢侈品，GPT-5.6讓企業更智能、更省錢"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3YlohIkWAmTKqtreNc2Qwt/1ba93da6a8cb574aa0b299277874dbac/Frame__3_.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "date": "2026-07-31"
+  }
+]
