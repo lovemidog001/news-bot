@@ -1,0 +1,288 @@
+[
+  {
+    "id": "001",
+    "title": "GPU閒置大亂局：為什麼閒置的GPU就像被停飛的飛機？",
+    "summary": "GPU閒置問題正在影響全球，了解閒置GPU的原因和對產業的影響，才能找到解決方案",
+    "content": "<p>近年來，GPU閒置問題逐漸受到關注。什麼是GPU閒置？簡單來說，就是GPU沒有被充分利用，導致資源浪費和效率低下。</p>    <h2>GPU閒置的原因</h2>    <p>GPU閒置的原因有很多，包括計算需求和供應不平衡、軟體和硬體的不相容等。這些問題導致GPU沒有被充分利用，浪費了大量的資源和能源。</p>    <h2>GPU閒置的影響</h2>    <p>GPU閒置對環境和經濟有顯著的負面影響。根據估計，全球GPU閒置導致的能源浪費每年高達數十億度。同時，GPU閒置也導致了大量的電子垃圾，對環境造成了嚴重的污染。</p>    <p>對於產業來說，GPU閒置也是一個嚴重的問題。GPU閒置導致了資源浪費和效率低下，增加了企業的運營成本和降低了競爭力。</p>    <h2>編輯悄悄話</h2>    <p>GPU閒置問題是一個需要關注的問題。通過優化GPU管理和提高利用率，我们可以減少能源浪費和電子垃圾，同時也可以提高企業的效率和競爭力。讓我們一起努力，解決GPU閒置問題，創造一個更加可持續的未來！",
+    "score": 85,
+    "takeaways": [
+      "GPU閒置問題是由於計算需求和供應不平衡造成",
+      "閒置GPU對環境和經濟有顯著的負面影響",
+      "優化GPU管理是解決閒置問題的關鍵"
+    ],
+    "punchline": "閒置GPU就像被停飛的飛機，一無所用",
+    "social_posts": {
+      "threads": "你知道嗎？GPU閒置問題正在影響全球！\n讓我們一起努力，解決GPU閒置問題，創造一個更加可持續的未來！",
+      "facebook": "GPU閒置問題是什麼？如何解決？點擊了解更多！",
+      "viral_hook": "GPU閒置就像被停飛的飛機，一無所用！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/Ih3Nn6Wc1U_w_QpvEMXRY.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "002",
+    "title": "Amazon Quick 推出 Agentic Catalog Experience，讓 AI 資料分析更上一層樓！",
+    "summary": "Amazon Quick 的 Agentic Catalog Experience 是一個 AI 驅動的工作流程，讓資料策展人可以快速定義內容邊界，繼承上游語義，並啟用終端用戶進行基於事實的 Q&A 和信任的儀表板。",
+    "content": "<p>Amazon Quick 的 Agentic Catalog Experience 是一個 AI 驅動的工作流程，讓資料策展人可以快速定義內容邊界，繼承上游語義，並啟用終端用戶進行基於事實的 Q&A 和信任的儀表板。</p>    <h2>什麼是 Agentic Catalog Experience？</h2>    <p>Agentic Catalog Experience 是一個 AI 驅動的工作流程，幫助資料策展人快速定義內容邊界和繼承上游語義。它使用語義內容從目錄連接中總結整個目錄，與客戶進行自然語言對話，顯示最相關的表格和關係，並評估元數據的準備度。</p>    <h2>如何使用 Agentic Catalog Experience？</h2>    <p>使用 Agentic Catalog Experience 非常簡單。資料策展人只需描述他們需要什麼，然後 Quick Agent 會搜索整個目錄以顯示最相關的表格。然後，Quick Agent 會創建目錄生成的資料集和主題，具有繼承的元數據。</p>    <h2>編輯悄悄話</h2>    <p>Amazon Quick 的 Agentic Catalog Experience 是一個革命性的功能，讓 AI 資料分析更上一層樓！無需手動設定、無需切換內容、無需數周的設定，快速簡單地進行基於事實的 Q&A 和信任的儀表板。試試看吧！",
+    "score": 90,
+    "takeaways": [
+      "Agentic Catalog Experience 是一個 AI 驅動的工作流程，幫助資料策展人快速定義內容邊界和繼承上游語義",
+      "該功能可以讓終端用戶進行基於事實的 Q&A 和信任的儀表板",
+      "無需手動設定、無需切換內容、無需數周的設定"
+    ],
+    "punchline": "讓 AI 資料分析更上一層樓！",
+    "social_posts": {
+      "threads": "大家好！我剛剛發現了 Amazon Quick 的 Agentic Catalog Experience，這是一個 AI 驅動的工作流程，讓資料策展人可以快速定義內容邊界和繼承上游語義。無需手動設定、無需切換內容、無需數周的設定，快速簡單地進行基於事實的 Q&A 和信任的儀表板。試試看吧！#AgenticCatalogExperience #AmazonQuick",
+      "facebook": "Amazon Quick 推出 Agentic Catalog Experience，讓 AI 資料分析更上一層樓！這是一個 AI 驅動的工作流程，幫助資料策展人快速定義內容邊界和繼承上游語義。無需手動設定、無需切換內容、無需數周的設定，快速簡單地進行基於事實的 Q&A 和信任的儀表板。試試看吧！",
+      "viral_hook": "讓 AI 資料分析更上一層樓！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/31/Announcing-the-Agentic-Catalog-Experience-in-Amazon-Quick.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "003",
+    "title": "揭秘 Meta 新一代廣告優化技術：分層興趣表現",
+    "summary": "Meta 正在開發新的廣告優化技術，稱為分層興趣表現，旨在提高用戶與廣告之間的相關性，讓用戶看到更感興趣的廣告",
+    "content": "<p>Meta 正在開發新的廣告優化技術，稱為分層興趣表現，旨在提高用戶與廣告之間的相關性，讓用戶看到更感興趣的廣告。</p>    <h2>什麼是分層興趣表現？</h2>    <p>分層興趣表現是一種新的廣告優化技術，它使用人工智慧技術來學習用戶的興趣，並將其與廣告進行匹配。這種技術可以提高用戶與廣告之間的相關性，讓用戶看到更感興趣的廣告。</p>    <h2>如何實現分層興趣表現</h2>    <p>Meta 的研究人員使用了一種新的方法來實現分層興趣表現，稱為圖結構學習。這種方法可以學習用戶的興趣，並將其與廣告進行匹配。同時，Meta 也使用了其他技術，如自然語言處理和深度學習，來提高廣告的相關性。</p>    <h2>編輯悄悄話</h2>    <p>廣告優化是一個非常重要的領域，Meta 的分層興趣表現技術是其中的一個重要發展。這種技術可以提高用戶與廣告之間的相關性，讓用戶看到更感興趣的廣告。同時，也可以幫助廣告主提高廣告的效果，增加銷售額。</p>",
+    "score": 90,
+    "takeaways": [
+      "分層興趣表現是一種新的廣告優化技術",
+      "它可以提高用戶與廣告之間的相關性",
+      "它使用人工智慧技術來學習用戶的興趣"
+    ],
+    "punchline": "讓廣告變得更有趣",
+    "social_posts": {
+      "threads": "你知道嗎？Meta 正在開發新的廣告優化技術，稱為分層興趣表現！\n這種技術可以提高用戶與廣告之間的相關性，讓用戶看到更感興趣的廣告。\n#Meta #廣告優化 #分層興趣表現",
+      "facebook": "Meta 的分層興趣表現技術是最新的廣告優化技術，旨在提高用戶與廣告之間的相關性。這種技術可以讓用戶看到更感興趣的廣告，同時也可以幫助廣告主提高廣告的效果。了解更多：https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+      "viral_hook": "讓廣告變得更有趣！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "004",
+    "title": "什麼讓微軟資料庫成為企業的首選？從穩定性到 AI 準備度都有!",
+    "summary": "企業為什麼信賴微軟資料庫？從可靠的資料儲存到 AI 的發展，都有一個共同的目標：提升效率和創造力!",
+    "content": "<p>每天，企業都將最關鍵的應用程式、商業流程和 AI 驅動的體驗交給微軟資料庫來處理。那么，什麼讓微軟資料庫成為企業的首選呢？</p>    <h2>穩定性和安全性</h2>    <p>微軟資料庫提供高度的可靠性和資料安全，讓企業可以放心地儲存和管理其重要資料。這不僅可以降低資料丟失的風險，也可以確保企業的業務流程暢順運行。</p>    <h2>AI 準備度</h2>    <p>除了穩定性和安全性，微軟資料庫還提供企業輕鬆整合 AI 技術的能力。透過微軟資料庫，企業可以快速地開發和部署 AI 模型，從而提升其業務的效率和創造力。</p>    <h2>編輯悄悄話</h2>    <p>所以，什麼讓微軟資料庫成為企業的首選呢？答案其實很簡單：它不僅可以滿足企業的現在需求，也可以幫助企業打造未來的成功!</p>",
+    "score": 85,
+    "takeaways": [
+      "微軟資料庫提供高度的可靠性和資料安全",
+      "企業可以透過微軟資料庫輕鬆整合 AI 技術",
+      "微軟資料庫的彈性和可擴展性滿足企業的各種需求"
+    ],
+    "punchline": "資料庫不只是儲存資料，還是企業未來的關鍵!",
+    "social_posts": {
+      "threads": "大家好！今天我想跟大家分享一下什麼讓微軟資料庫成為企業的首選？\n從穩定性到 AI 準備度，都有一個共同的目標：提升效率和創造力！\n#微軟資料庫 #企業首選",
+      "facebook": "什麼讓微軟資料庫成為企業的首選？從可靠的資料儲存到 AI 的發展，都有一個共同的目標：提升效率和創造力！分享一下你的想法吧！",
+      "viral_hook": "資料庫不只是儲存資料，還是企業未來的關鍵！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/07/FY26AE-Azure-Composite-EnergyBlue-009-H.jpg",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "005",
+    "title": "72% 的政府機構都遇到 AI 擴展困難！了解下一代知識存取的關鍵",
+    "summary": "根據 IDC 的調查，72% 的政府機構領導人表示，擴展 AI 從試驗到生產環境相當困難。了解如何利用下一代知識存取技術解決這個問題。",
+    "content": "<p>政府機構正在努力應對 AI 的挑戰。根據 IDC 的調查，72% 的政府機構領導人表示，擴展 AI 從試驗到生產環境相當困難。這個問題的關鍵在於知識存取。政府機構需要一個有效的知識存取系統，才能讓 AI 應用程序提供更好的結果。</p><h2>下一代知識存取技術</h2><p>下一代知識存取技術是一種新的方法，能夠提供更好的知識存取、更高的安全性和合規性，以及更好的資料準備。這種技術可以幫助政府機構解決 AI 擴展的挑戰，提供更好的服務給公民。</p><h2>政府機構的挑戰</h2><p>政府機構面臨著許多挑戰，包括預算壓力、法規要求和公民期望的提高。同時，AI 正在改變政府機構的運作方式。政府機構需要找到新的方法，才能有效地應用 AI 技術，提供更好的服務給公民。</p><h2>編輯悄悄話</h2><p>AI 不再是選擇，而是政府機構的政策和服務交付優先事項。政府機構需要找到新的方法，才能有效地應用 AI 技術，提供更好的服務給公民。下一代知識存取技術是一種新的方法，能夠提供更好的知識存取、更高的安全性和合規性，以及更好的資料準備。</p>",
+    "score": 90,
+    "takeaways": [
+      "72% 的政府機構領導人表示，擴展 AI 從試驗到生產環境相當困難。",
+      "下一代知識存取技術可以幫助政府機構解決 AI 擴展的挑戰。",
+      "該技術可以提供更好的知識存取、更高的安全性和合規性，以及更好的資料準備。"
+    ],
+    "punchline": "AI 不再是選擇，而是政府機構的政策和服務交付優先事項。",
+    "social_posts": {
+      "threads": "政府機構正在努力應對 AI 的挑戰。根據 IDC 的調查，72% 的政府機構領導人表示，擴展 AI 從試驗到生產環境相當困難。這個問題的關鍵在於知識存取。政府機構需要一個有效的知識存取系統，才能讓 AI 應用程序提供更好的結果。",
+      "facebook": "政府機構正在努力應對 AI 的挑戰。根據 IDC 的調查，72% 的政府機構領導人表示，擴展 AI 從試驗到生產環境相當困難。這個問題的關鍵在於知識存取。政府機構需要一個有效的知識存取系統，才能讓 AI 應用程序提供更好的結果。",
+      "viral_hook": "72% 的政府機構領導人表示，擴展 AI 從試驗到生產環境相當困難！了解下一代知識存取的關鍵。"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt31422e125034fcf8/6a6ca1a7aacc0dd23c0b26c6/closing-the-ai-gap-blog_(1)_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/closing-ai-gap-government-knowledge-access",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "006",
+    "title": "開源AI模型崛起：Kimi K3挑戰傳統巨頭，Muse Spark 1.1引發價格戰",
+    "summary": "開源AI模型Kimi K3和Muse Spark 1.1的登場，挑戰了傳統AI巨頭的地位，引發了價格戰和技術創新的競爭",
+    "content": "<h2>開源AI模型的崛起</h2>    <p>近期，開源AI模型Kimi K3和Muse Spark 1.1的登場，挑戰了傳統AI巨頭的領先地位。Kimi K3是一個開源的2.8萬億參數AI模型，具有超高的性能和低成本。Muse Spark 1.1是一個低成本、高性能的AI模型，引發了價格戰和技術創新的競爭。</p>    <h2>技術創新和價格戰</h2>    <p>開源AI模型的崛起，推動了AI技術的進步和應用。Kimi K3和Muse Spark 1.1的登場，引發了傳統AI巨頭的關注和競爭。這些開源AI模型的低成本和高性能，將推動AI技術的普及和應用。</p>    <h2>編輯悄悄話</h2>    <p>開源AI模型的崛起，將改變AI的未來。隨著開源AI模型的不斷進步和應用，AI技術將更加普及和深入。讓我們一起關注和推動開源AI模型的發展，創造一個更加智能和美好的未來!</p>",
+    "score": 90,
+    "takeaways": [
+      "Kimi K3是一個開源的2.8萬億參數AI模型，挑戰了傳統AI巨頭的領先地位",
+      "Muse Spark 1.1是一個低成本、高性能的AI模型，引發了價格戰和技術創新的競爭",
+      "開源AI模型的崛起，將推動AI技術的進步和應用"
+    ],
+    "punchline": "開源AI模型將改變AI的未來",
+    "social_posts": {
+      "threads": "開源AI模型崛起！Kimi K3和Muse Spark 1.1挑戰傳統AI巨頭，引發價格戰和技術創新的競爭。開源AI模型的低成本和高性能，將推動AI技術的普及和應用。#開源AI #AI技術",
+      "facebook": "開源AI模型的崛起，將改變AI的未來。Kimi K3和Muse Spark 1.1的登場，推動了AI技術的進步和應用。讓我們一起關注和推動開源AI模型的發展，創造一個更加智能和美好的未來！",
+      "viral_hook": "開源AI模型將改變AI的未來！"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-363",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "007",
+    "title": "AI 會寫程式嗎？其實它的真正潛力在於『懂團隊』",
+    "summary": "AI 不只是會寫程式，還能懂團隊的需求，QQ 浏览器的工程實踐揭曉了 AI 在團隊語境中的進化",
+    "content": "<p>AI 的發展一直都是個熱門話題，很多人都在想，AI 會不會取代人類的工作？但是，QQ 浏览器的工程實踐告訴我們，AI 的真正潛力在於『懂團隊』。</p>    <h2>什麼是『懂團隊』？</h2>    <p>『懂團隊』是指 AI 能夠理解團隊的需求和語境，從而提供更好的協助和支持。這不僅僅是會寫程式，還需要 AI 能夠理解人類的溝通和合作方式。</p>    <h2>QQ 浏览器的工程實踐</h2>    <p>QQ 浏览器的工程實踐就是一個很好的例子。通過讓 AI 在團隊語境中持續進化，QQ 浏览器的工程團隊能夠更有效地開發和維護軟件。這不僅提高了團隊的效率，還能夠提供更好的用戶體驗。</p>    <h2>編輯悄悄話</h2>    <p>其實，AI 的發展不應該是取代人類的工作，而是應該是幫助人類更好地完成工作。通過『懂團隊』，AI 能夠提供更好的協助和支持，讓人類能夠專注於更重要的事情。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 的下一站是『更懂團隊』",
+      "QQ 浏览器的工程實踐是 AI 在團隊語境中的進化",
+      "AI 不只是會寫程式，還能提升團隊的效率"
+    ],
+    "punchline": "AI 的真正潛力在於『懂團隊』",
+    "social_posts": {
+      "threads": "你們有沒有想過，AI 的真正潛力在於『懂團隊』？\nQQ 浏览器的工程實踐告訴我們，AI 能夠理解團隊的需求和語境，從而提供更好的協助和支持。\n這不僅提高了團隊的效率，還能夠提供更好的用戶體驗。",
+      "facebook": "AI 的下一站是『更懂團隊』！QQ 浏览器的工程實踐是 AI 在團隊語境中的進化，讓 AI 能夠理解團隊的需求和語境，從而提供更好的協助和支持。點擊連結了解更多：",
+      "viral_hook": "AI 會寫程式嗎？其實它的真正潛力在於『懂團隊』！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802960&idx=1&sn=c62698da543f3bd37ba36b617bc92b80",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "008",
+    "title": "不會用AI寫程式？別再錯過這個時代！",
+    "summary": "你還在手動寫程式嗎？現在有機會成為AI程式教師！我們正在招募兼職教師，教導軟體工程師如何使用AI寫出高品質的程式碼。",
+    "content": "<p>你還在手動寫程式嗎？現在有機會成為AI程式教師！我們正在招募兼職教師，教導軟體工程師如何使用AI寫出高品質的程式碼。</p><h2>課程內容</h2><p>本課程將教導學生如何使用AI程式工具，例如Claude Code、Codex、Cursor等，來寫出高品質的程式碼。學生將學習如何委託AI程式工具執行實際工作，如何寫出AI程式工具可以執行的規格和計畫，以及如何驗證、審查和安全程式碼。</p><h2>課程目標</h2><p>課程的目標是讓學生能夠使用AI程式工具，來提升工作效率和程式碼質量。學生將學習如何使用AI程式工具，來解決複雜的工程問題，和如何維護長期的程式碼質量。</p><h2>編輯悄悄話</h2><p>不會用AI寫程式？別再錯過這個時代！現在有機會成為AI程式教師，分享自己的經驗和知識，幫助工程師們提升工作效率和程式碼質量。",
+    "score": 85,
+    "takeaways": [
+      "學習如何使用AI寫程式，提升工作效率",
+      "了解AI程式的優缺點，避免常見錯誤",
+      "成為AI程式教師，分享自己的經驗和知識"
+    ],
+    "punchline": "不會用AI寫程式？別再錯過這個時代！",
+    "social_posts": {
+      "threads": "你還在手動寫程式嗎？現在有機會成為AI程式教師！我們正在招募兼職教師，教導軟體工程師如何使用AI寫出高品質的程式碼。#AI程式 #程式教師 #軟體工程",
+      "facebook": "不會用AI寫程式？別再錯過這個時代！現在有機會成為AI程式教師，分享自己的經驗和知識，幫助工程師們提升工作效率和程式碼質量。",
+      "viral_hook": "不會用AI寫程式？別再錯過這個時代！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!AJAT!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbytebytego.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2058466732%26version%3D9",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/hiring-part-time-instructor-write",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "009",
+    "title": "AI 基礎設施最新進展：Google Cloud Managed Lustre、C4N 網路和儲存優化 VMs 等",
+    "summary": "Google Cloud 推出多項 AI 基礎設施和協調更新，包括 Google Cloud Managed Lustre、C4N 網路和儲存優化 VMs 等，助力企業加速 AI 創新和應用",
+    "content": "<h2>AI 基礎設施最新進展</h2>    <p>Google Cloud 推出多項 AI 基礎設施和協調更新，包括 Google Cloud Managed Lustre、C4N 網路和儲存優化 VMs 等，助力企業加速 AI 創新和應用。</p>    <h2>主要更新內容</h2>    <ul>      <li>Google Cloud Managed Lustre 現已推出，提供高性能儲存解決方案</li>      <li>C4N 網路和儲存優化 VMs 現已推出，消除數據傳輸瓶頸</li>      <li>GKE Dataplane V2 現已支持 15K 節點，提供大規模企業和 AI/ML 客戶的基礎設施需求</li>    </ul>    <h2>編輯悄悄話</h2>    <p>AI 創新和應用正以驚人的速度發展，基礎設施的更新和優化對於企業來說至關重要。Google Cloud 的最新更新將助力企業加速 AI 創新和應用，實現更大的價值和效益。</p>",
+    "score": 95,
+    "takeaways": [
+      "Google Cloud Managed Lustre 現已推出，提供高性能儲存解決方案",
+      "C4N 網路和儲存優化 VMs 現已推出，消除數據傳輸瓶頸",
+      "GKE Dataplane V2 現已支持 15K 節點，提供大規模企業和 AI/ML 客戶的基礎設施需求"
+    ],
+    "punchline": "加速您的 AI 創新和應用",
+    "social_posts": {
+      "threads": "最新的 AI 基礎設施更新！\nGoogle Cloud Managed Lustre、C4N 網路和儲存優化 VMs 等\n加速您的 AI 創新和應用",
+      "facebook": "Google Cloud 推出多項 AI 基礎設施和協調更新，助力企業加速 AI 創新和應用。了解更多：https://cloud.google.com/",
+      "viral_hook": "AI 基礎設施最新進展：Google Cloud Managed Lustre、C4N 網路和儲存優化 VMs 等"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Whats_new_in_AI_infrastructure.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "010",
+    "title": "Next.js 安全更新來了！別讓你的網站變成駭客的遊樂場",
+    "summary": "Next.js 的最新安全更新已經推出，修復多個高風險漏洞，包括 CPU 使用率過高、Middleware 繞過等問題",
+    "content": "<p>Next.js 的最新安全更新已經推出，修復多個高風險漏洞，包括 CPU 使用率過高、Middleware 繞過等問題。</p>    <h2>什麼是 Next.js 安全更新？</h2>    <p>Next.js 的安全更新是一個定期的更新，旨在修復已知的安全漏洞，確保使用 Next.js 的網站的安全性。</p>    <p>本次更新修復了多個高風險漏洞，包括 CPU 使用率過高、Middleware 繞過等問題。這些漏洞可能會導致網站的安全性受到影響，因此使用 Next.js 的開發者應盡快更新以確保網站安全。</p>    <h2>如何更新 Next.js</h2>    <p>更新 Next.js 相當簡單，只需要執行以下命令即可：</p>    <ul>      <li>更新到 v16.2.11 (Active LTS)</li>      <li>更新到 v15.5.21 (Maintenance LTS)</li>    </ul>    <p>使用 Next.js 的開發者應盡快更新以確保網站安全。</p>    <h2>編輯悄悄話</h2>    <p>網站安全是無時不重要的！不要等到出了問題才想起更新，現在就更新 Next.js，確保你的網站的安全性！</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 的安全更新修復了多個高風險漏洞",
+      "更新包括 CPU 使用率過高、Middleware 繞過等問題",
+      "使用 Next.js 的開發者應盡快更新以確保網站安全"
+    ],
+    "punchline": "網站安全是無時不重要的！",
+    "social_posts": {
+      "threads": "大家好！Next.js 的最新安全更新已經推出，修復多個高風險漏洞，包括 CPU 使用率過高、Middleware 繞過等問題。使用 Next.js 的開發者應盡快更新以確保網站安全。",
+      "facebook": "Next.js 的最新安全更新已經推出，修復多個高風險漏洞，包括 CPU 使用率過高、Middleware 繞過等問題。使用 Next.js 的開發者應盡快更新以確保網站安全。點擊連結了解更多：",
+      "viral_hook": "Next.js 安全更新來了！別讓你的網站變成駭客的遊樂場"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/july-2026-security-release/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/july-2026-security-release",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "011",
+    "title": "Gemini Robotics ER 2：讓機器人變得更聰明、更合作",
+    "summary": "Gemini Robotics ER 2 是一款可以讓機器人更好地理解視頻、協調任務和與其他機器人合作的模型，讓機器人在物理世界中更有用",
+    "content": "<p>Gemini Robotics ER 2 是一款可以讓機器人更好地理解視頻、協調任務和與其他機器人合作的模型。這款模型可以讓機器人在物理世界中更有用，讓機器人可以更好地協助人類完成日常任務。</p>    <h2>什麼是 Gemini Robotics ER 2？</h2>    <p>Gemini Robotics ER 2 是一款高級別的機器人大腦，可以讓機器人更好地理解視頻和協調任務。這款模型可以讓機器人與其他機器人合作，共同完成複雜任務。</p>    <h2>如何使用 Gemini Robotics ER 2</h2>    <p>開發者可以通過 Gemini API、Google AI Studio 和 Gemini Enterprise Agent Platform 來使用 Gemini Robotics ER 2。這款模型可以與其他工具和平台集成，讓開發者更容易地構建機器人應用。</p>    <h2>編輯悄悄話</h2>    <p>Gemini Robotics ER 2 是一款非常有用的模型，可以讓機器人變得更聰明、更合作。這款模型可以讓機器人在物理世界中更有用，讓機器人可以更好地協助人類完成日常任務。如果你是一名開發者，別錯過這個機會，來試試 Gemini Robotics ER 2 吧！",
+    "score": 90,
+    "takeaways": [
+      "Gemini Robotics ER 2 可以讓機器人更好地理解視頻和協調任務",
+      "Gemini Robotics ER 2 支持多機器人合作，讓機器人可以共同完成複雜任務",
+      "Gemini Robotics ER 2 可以與其他工具和平台集成，讓開發者更容易地構建機器人應用"
+    ],
+    "punchline": "讓機器人變得更聰明、更合作",
+    "social_posts": {
+      "threads": "你們知道嗎？Gemini Robotics ER 2 可以讓機器人變得更聰明、更合作！這款模型可以讓機器人在物理世界中更有用，讓機器人可以更好地協助人類完成日常任務。",
+      "facebook": "Gemini Robotics ER 2 是一款非常有用的模型，可以讓機器人變得更聰明、更合作。這款模型可以讓機器人在物理世界中更有用，讓機器人可以更好地協助人類完成日常任務。來試試 Gemini Robotics ER 2 吧！",
+      "viral_hook": "讓機器人變得更聰明、更合作！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "012",
+    "title": "軟體開發的新時代：開發者從程式設計師變成指揮家？",
+    "summary": "隨著AI的崛起，軟體開發的重心從程式設計轉移到人類的注意力，開發者需要學會如何管理自己的注意力和能量，以便更有效地與AI合作",
+    "content": "<h2>軟體開發的新時代</h2>    <p>隨著AI的崛起，軟體開發的重心從程式設計轉移到人類的注意力。開發者需要學會如何管理自己的注意力和能量，以便更有效地與AI合作。</p>    <p>傳統上，開發者被要求專注於寫程式碼，但現在，開發者需要學會如何整合和協調多個AI代理，以便更有效地完成任務。</p>    <h2>開發者從程式設計師變成指揮家</h2>    <p>就像指揮家一樣，開發者需要學會如何聽取整個系統的聲音，如何評估和選擇合適的AI代理，如何提供上下文和評估結果。</p>    <p>這需要開發者具備更高的自我管理能力，能夠有效地管理自己的注意力和能量，以便更好地與AI合作。</p>    <h2>編輯悄悄話</h2>    <p>軟體開發的未來可能需要更多像指揮家一樣的開發者，能夠整合和協調多個AI代理。開發者需要學會如何管理自己的注意力和能量，以便更有效地與AI合作。這是一個新的挑戰，也是一個新的機會。",
+    "score": 85,
+    "takeaways": [
+      "AI的出現並沒有改變軟體開發的本質，但改變了什麼是稀缺的：人類的注意力",
+      "開發者需要學會如何管理自己的注意力和能量，以便更有效地與AI合作",
+      "軟體開發的未來可能需要更多像指揮家一樣的開發者，能夠整合和協調多個AI代理"
+    ],
+    "punchline": "開發者從程式設計師變成指揮家",
+    "social_posts": {
+      "threads": "軟體開發的新時代：開發者從程式設計師變成指揮家？\n隨著AI的崛起，軟體開發的重心從程式設計轉移到人類的注意力...\n#軟體開發 #AI #指揮家",
+      "facebook": "軟體開發的新時代：開發者從程式設計師變成指揮家？\n隨著AI的崛起，軟體開發的重心從程式設計轉移到人類的注意力...\n點擊連結了解更多：https://example.com\n#軟體開發 #AI #指揮家",
+      "viral_hook": "開發者從程式設計師變成指揮家？"
+    },
+    "image": "https://martinfowler.com/rachels-ramblings/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "013",
+    "title": "歐洲AI新規：開啟負責任AI的新時代",
+    "summary": "OpenAI分享其在歐洲的安全、安全性、透明度和起源實踐，支持負責任AI治理，隨著EU AI Act的進展，OpenAI將繼續演進其實踐",
+    "content": "<p>隨著EU AI Act的進展，OpenAI分享其在歐洲的安全、安全性、透明度和起源實踐，支持負責任AI治理。OpenAI致力於確保人工智慧惠及整個人類，同時也承擔著最大化AI的益處、擴大訪問和管理風險的責任。</p>    <h2>安全與安全性</h2>    <p>OpenAI已經發展出一套嚴格的安全和安全性框架，包括內部治理和與外部專家、政府和同行組織的合作。OpenAI的Preparedness Framework和Frontier Governance Framework幫助將負責任的AI原則轉化為實際的風險評估、安全措施、模型報告、安全、事件響應、外部專家輸入和持續更新的決定。</p>    <h2>透明度和起源</h2>    <p>OpenAI支持Code of Practice on Transparency of AI-Generated Content，旨在改善AI生成媒體的起源。OpenAI的方法依賴於兩個系統：Content Credentials (C2PA)和SynthID watermarks。OpenAI將繼續擴大其起源措施，包括音頻輸出和文本，支持客戶和開發者滿足其透明度義務。</p>    <h2>編輯悄悄話</h2>    <p>負責任的AI不是一個終點，而是一個持續的過程。OpenAI將繼續演進其實踐，支持負責任的AI治理，讓人工智慧惠及整個人類。</p>",
+    "score": 85,
+    "takeaways": [
+      "OpenAI致力於確保人工智慧惠及整個人類",
+      "OpenAI支持歐盟的AI相關規則和準則，包括GPAI Code of Practice和Code of Practice on Transparency of AI-Generated Content",
+      "OpenAI將繼續加強其安全、安全性、透明度和起源實踐，支持負責任AI治理"
+    ],
+    "punchline": "負責任的AI是未來的關鍵",
+    "social_posts": {
+      "threads": "歐洲的AI新規即將出台！\nOpenAI分享其在歐洲的安全、安全性、透明度和起源實踐，支持負責任AI治理。\n讓我們一起探討負責任的AI是什麼意思？",
+      "facebook": "歐洲的AI新規即將出台！OpenAI分享其在歐洲的安全、安全性、透明度和起源實踐，支持負責任AI治理。點擊鏈接了解更多：",
+      "viral_hook": "AI的未來是負責任的！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/3wXKvwzV9IlUVcm3H8tcPb/3a66b4f38baf6c6f2594eddc0a8d6561/Frame.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "date": "2026-08-01"
+  }
+]
