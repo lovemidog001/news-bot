@@ -262,5 +262,27 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/ten-advances-in-mathematics",
     "date": "2026-08-02"
+  },
+  {
+    "id": "013",
+    "title": "AI 大戰：開源模型崛起，Cloudflare 打響反擊戰",
+    "summary": "開源AI模型Kimi K3和Muse Spark 1.1相繼推出，挑戰傳統的閉源模型。與此同時，Cloudflare發布新功能，限制AI訓練和代理機器人，引發業界熱議。",
+    "content": "<h2>開源AI模型崛起</h2>    <p>近期，開源AI模型Kimi K3和Muse Spark 1.1相繼推出，挑戰傳統的閉源模型。Kimi K3的性能和價格都超越了閉源模型，而Muse Spark 1.1則在工具使用和語言理解方面有著出色的表現。</p>    <h2>Cloudflare限制AI訓練和代理機器人</h2>    <p>與此同時，Cloudflare發布新功能，限制AI訓練和代理機器人。這一舉動引發業界關注，因為它可能會影響到AI模型的訓練和應用。</p>    <h2>開源模型和雲服務之間的競爭</h2>    <p>開源模型和雲服務之間的競爭將會更加激烈。開源模型的推出和雲服務的限制，將會推動AI技術的發展和應用。</p>    <h2>編輯悄悄話</h2>    <p>AI技術的發展和應用，需要開源模型和雲服務之間的競爭和合作。只有這樣，才能夠推動AI技術的進步和普及。</p>",
+    "score": 90,
+    "takeaways": [
+      "開源AI模型Kimi K3和Muse Spark 1.1推出，性能和價格都超越了閉源模型",
+      "Cloudflare限制AI訓練和代理機器人，引發業界關注",
+      "開源模型和雲服務之間的競爭將會更加激烈"
+    ],
+    "punchline": "開源AI模型崛起，雲服務競爭加劇",
+    "social_posts": {
+      "threads": "開源AI模型崛起，雲服務競爭加劇！#AI #開源 #雲服務",
+      "facebook": "開源AI模型Kimi K3和Muse Spark 1.1推出，挑戰傳統的閉源模型。Cloudflare限制AI訓練和代理機器人，引發業界關注。開源模型和雲服務之間的競爭將會更加激烈。",
+      "viral_hook": "開源AI模型崛起，雲服務競爭加劇！你準備好了嗎？"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-363",
+    "date": "2026-08-02"
   }
 ]
