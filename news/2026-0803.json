@@ -1,0 +1,266 @@
+[
+  {
+    "id": "001",
+    "title": "GPU閒置危機：為什麼閒置的GPU比停飛的飛機還可怕？",
+    "summary": "GPU閒置問題正在悄悄地影響著整個科技產業，你知道嗎？這不僅是效能的浪費，更是資源的巨大損失！",
+    "content": "<p>你是否曾經想過，閒置的GPU可能比停飛的飛機還可怕？這聽起來可能有些奇怪，但事實是，GPU閒置問題正在悄悄地影響著整個科技產業。</p>    <h2>什麼是GPU閒置問題？</h2>    <p>GPU閒置問題是指GPU在閒置時仍然消耗大量的能源和資源，導致效能的浪費和成本的增加。這個問題不僅對於科技產業有著重大的影響，也對於環境有著負面的影響。</p>    <h2>為什麼GPU閒置問題這麼嚴重？</h2>    <p>GPU閒置問題這麼嚴重的原因是因為GPU的設計使它們即使在閒置時仍然需要消耗大量的能源和資源。這是因為GPU需要保持其運作狀態，以便快速地響應任務的需求。然而，這也導致了大量的能源和資源被浪費了。</p>    <ul>      <li>GPU閒置問題對於科技產業的影響包括增加成本、降低效能和增加碳排放</li>      <li>GPU閒置問題對於環境的影響包括增加能源消耗、增加電子廢棄物和增加空氣污染</li>    </ul>    <h2>編輯悄悄話</h2>    <p>所以，下次你看到閒置的GPU時，不要只是想著「這是浪費」，也要想到這可能是對環境和科技產業的巨大損失。讓我們一起努力，解決GPU閒置問題，創造一個更美好的未來！</p>",
+    "score": 85,
+    "takeaways": [
+      "閒置的GPU可能比停飛的飛機還可怕，因為它們浪費了大量的資源和能源",
+      "GPU閒置問題對於科技產業和環境都有著重大的影響",
+      "解決GPU閒置問題可以帶來更好的效能、更低的成本和更環保的解決方案"
+    ],
+    "punchline": "閒置的GPU比停飛的飛機還可怕！",
+    "social_posts": {
+      "threads": "你知道嗎？閒置的GPU可能比停飛的飛機還可怕！\n這是因為GPU閒置問題正在悄悄地影響著整個科技產業...\n讓我們一起努力，解決GPU閒置問題，創造一個更美好的未來！",
+      "facebook": "GPU閒置危機：為什麼閒置的GPU比停飛的飛機還可怕？\n點擊鏈接了解更多：[鏈接]\n並且不要忘記分享你的想法和意見！",
+      "viral_hook": "閒置的GPU比停飛的飛機還可怕？！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/69d815b52c6db28cfdfdd422/Ih3Nn6Wc1U_w_QpvEMXRY.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "002",
+    "title": "Amazon Quick 推出 Agentic Catalog Experience：AI 助力資料分析革命",
+    "summary": "Amazon Quick 的 Agentic Catalog Experience 讓資料分析師能夠輕鬆地使用自然語言搜尋和建立資料集，節省時間和精力",
+    "content": "<p>Amazon Quick 推出 Agentic Catalog Experience，這是一個 AI 助力資料分析工具，能夠讓資料分析師使用自然語言搜尋和建立資料集。</p>    <h2>什麼是 Agentic Catalog Experience?</h2>    <p>Agentic Catalog Experience 是 Amazon Quick 的一個新功能，能夠讓資料分析師使用自然語言搜尋和建立資料集。這個功能使用 AI 技術，能夠自動建立資料集和主題，並且能夠繼承上游目錄的語義。</p>    <h2>如何使用 Agentic Catalog Experience?</h2>    <p>使用 Agentic Catalog Experience 很簡單，資料分析師只需要使用自然語言描述他們需要的資料，然後 Agentic Catalog Experience 就會自動搜索和建立資料集。例如，資料分析師可以說「我需要季度收入報告和成本分析的資料」，然後 Agentic Catalog Experience 就會自動搜索和建立相關的資料集。</p>    <h2>編輯悄悄話</h2>    <p>Agentic Catalog Experience 是一個革命性的資料分析工具，能夠讓資料分析師節省時間和精力。使用這個工具，資料分析師就可以專注於更重要的工作，例如資料分析和洞察。所以，如果你是一個資料分析師，千萬不要錯過這個工具！",
+    "score": 90,
+    "takeaways": [
+      "Agentic Catalog Experience 是 Amazon Quick 的 AI 助力資料分析工具",
+      "能夠使用自然語言搜尋和建立資料集",
+      "節省資料分析師的時間和精力"
+    ],
+    "punchline": "資料分析，不再是繁瑣的工作",
+    "social_posts": {
+      "threads": "Amazon Quick 推出 Agentic Catalog Experience！這個工具能夠讓資料分析師使用自然語言搜尋和建立資料集，節省時間和精力。 #AgenticCatalogExperience #AmazonQuick",
+      "facebook": "Amazon Quick 推出 Agentic Catalog Experience！這個工具能夠讓資料分析師使用自然語言搜尋和建立資料集，節省時間和精力。點擊連結了解更多：[連結] #AgenticCatalogExperience #AmazonQuick",
+      "viral_hook": "資料分析，不再是繁瑣的工作！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/07/31/Announcing-the-Agentic-Catalog-Experience-in-Amazon-Quick.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "003",
+    "title": "揭開Meta廣告的秘密：層次式興趣代表是什麼？",
+    "summary": "Meta正在研究層次式興趣代表，旨在改善廣告的深度優化，讓廣告更好地與用戶的興趣相符",
+    "content": "<p>你是否曾經感到廣告總是跟不上你的興趣？Meta正在研究一種新的技術，叫做層次式興趣代表，旨在改善廣告的深度優化，讓廣告更好地與用戶的興趣相符。</p>    <h2>什麼是層次式興趣代表？</h2>    <p>層次式興趣代表是一種新的廣告優化技術，旨在幫助廣告商更好地瞭解用戶的興趣。它可以將用戶的興趣分類為不同的層次，從而更好地瞭解用戶的需求和偏好。</p>    <h2>如何工作？</h2>    <p>層次式興趣代表使用了一種特殊的演算法，叫做圖神經網絡，來分析用戶的興趣和行為。它可以將用戶的興趣分類為不同的層次，從而更好地瞭解用戶的需求和偏好。</p>    <p>這項技術可以提高廣告的相關性和有效性，讓廣告商更好地瞭解用戶的需求和偏好。同時，它也可以幫助用戶發現更多符合他們興趣的廣告。</p>    <h2>編輯悄悄話</h2>    <p>層次式興趣代表是一種非常酷的技術，能夠幫助廣告商更好地瞭解用戶的興趣和需求。它可以提高廣告的相關性和有效性，讓廣告商更好地瞭解用戶的需求和偏好。同時，它也可以幫助用戶發現更多符合他們興趣的廣告。讓我們一起期待這項技術的發展吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "層次式興趣代表是一種新的廣告優化技術",
+      "它可以幫助廣告商更好地瞭解用戶的興趣",
+      "這項技術可以提高廣告的相關性和有效性"
+    ],
+    "punchline": "讓廣告更懂你",
+    "social_posts": {
+      "threads": "你知道嗎？Meta正在研究一種新的廣告優化技術，叫做層次式興趣代表！它可以幫助廣告商更好地瞭解用戶的興趣和需求，提高廣告的相關性和有效性。讓我們一起期待這項技術的發展吧！#Meta #廣告優化 #層次式興趣代表",
+      "facebook": "Meta正在研究一種新的廣告優化技術，叫做層次式興趣代表！它可以幫助廣告商更好地瞭解用戶的興趣和需求，提高廣告的相關性和有效性。點擊連結瞭解更多：https://example.com",
+      "viral_hook": "讓廣告更懂你！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/image2_6a0f44.jpg",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "004",
+    "title": "別再迷信！客戶最看重的Microsoft資料庫特點從可靠度到AI準備度全揭秘",
+    "summary": "想知道客戶為何信任Microsoft資料庫？從可靠度到AI準備度，了解客戶最看重的特點",
+    "content": "<p>每天，客戶都將他們最關鍵的應用程式、商業流程和AI驅動的體驗托付給Microsoft資料庫。</p>    <h2>什麼是客戶最看重的？</h2>    <p>答案其實很簡單：可靠度和AI準備度。客戶需要一個穩定可靠的資料庫來支撐他們的業務，而AI準備度則是未來發展的關鍵。</p>    <p>Microsoft資料庫致力於提供高性能和高安全性的服務，讓客戶可以安心地使用。同時，Microsoft也在不斷地研發和改進，讓客戶可以享受到最新的技術和功能。</p>    <h2>未來的發展</h2>    <p>隨著AI技術的發展，資料庫的角色將越來越重要。Microsoft資料庫將繼續致力於提供最佳的服務，讓客戶可以充分地利用AI技術，推動業務的發展和創新。</p>    <h2>編輯悄悄話</h2>    <p>其實，選擇一個好的資料庫就像找一個好的伴侶一樣，需要考慮很多因素。希望這篇文章可以幫助您找到最適合您的資料庫，並且可以讓您的業務更上一層樓喔！",
+    "score": 85,
+    "takeaways": [
+      "客戶對Microsoft資料庫的可靠度有很高的期望",
+      "AI準備度是客戶選擇資料庫的重要考量",
+      "Microsoft資料庫致力於提供高性能和高安全性的服務"
+    ],
+    "punchline": "可靠度和AI準備度是客戶選擇資料庫的王牌",
+    "social_posts": {
+      "threads": "大家好！今天要跟大家聊聊客戶最看重的Microsoft資料庫特點。從可靠度到AI準備度，到底什麼是客戶最看重的呢？一起來探討吧！",
+      "facebook": "了解客戶最看重的Microsoft資料庫特點，讓您的業務更上一層樓！從可靠度到AI準備度，Microsoft資料庫致力於提供高性能和高安全性的服務。",
+      "viral_hook": "別再迷信！客戶最看重的Microsoft資料庫特點全揭秘"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/what-customers-value-most-in-microsoft-databases-from-reliability-to-ai-readiness/",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "005",
+    "title": "72% 的政府機構難以擴大 AI 應用：解鎖下一代知識存取，打造任務成功的關鍵",
+    "summary": "IDC 研究報告顯示，72% 的美國公共部門領導人難以將 AI 由試點擴大到生產環境。了解如何透過聯邦式知識存取解鎖任務成果",
+    "content": "<p>近期的 IDC 研究報告指出，72% 的公共部門領導人難以將 AI 由試點擴大到生產環境。這個挑戰不僅僅是選擇合適的模型，還包括了資料準備和知識存取的問題。</p>    <h2>解鎖下一代知識存取</h2>    <p>成功應用 AI 的機構正在建構一個被治理的檢索層，連接授權知識和 AI 代理，並保留主權、可稽核性和公眾信任。這代表了先進的資訊搜尋和使用方法，讓 AI 系統和操作員能夠在正確的時間和背景下存取正確的知識。</p>    <h2>挑戰和機遇</h2>    <p>公共部門機構正面臨著預算緊縮、法規義務擴大和公民期待升高的挑戰。同時，AI 正在重塑可能性的界限。政府機構不再僅僅關注是否採用 AI，而是如何負責地擴大 AI 應用，同時保持治理和控制。下一代知識存取是解鎖任務成果的關鍵，也是公共部門領導人必須關注的優先事項。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來不再是選擇，而是政策和服務交付的優先事項。公共部門領導人必須了解如何透過聯邦式知識存取解鎖任務成果，才能在這個快速變化的世界中保持競爭力和公眾信任。</p>",
+    "score": 85,
+    "takeaways": [
+      "72% 的政府機構難以擴大 AI 應用",
+      "聯邦式知識存取是解鎖任務成果的關鍵",
+      "下一代知識存取代表了先進的資訊搜尋和使用方法"
+    ],
+    "punchline": "AI 不再是選擇，而是政策和服務交付的優先事項",
+    "social_posts": {
+      "threads": "你知道 72% 的政府機構難以擴大 AI 應用嗎？了解如何透過聯邦式知識存取解鎖任務成果，成為公共部門領導人的優先事項！#AI #公共部門 #知識存取",
+      "facebook": "IDC 研究報告指出，72% 的公共部門領導人難以將 AI 由試點擴大到生產環境。了解如何透過聯邦式知識存取解鎖任務成果，打造任務成功的關鍵！",
+      "viral_hook": "72% 的政府機構難以擴大 AI 應用：解鎖下一代知識存取的關鍵在哪裡？"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt31422e125034fcf8/6a6ca1a7aacc0dd23c0b26c6/closing-the-ai-gap-blog_(1)_(1).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/closing-ai-gap-government-knowledge-access",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "006",
+    "title": "爆料！腾讯员工的秘密AI玩法，你绝对想不到！",
+    "summary": "想知道腾讯员工如何利用AI进行创意发挥？原来他们有自己的秘密玩法！",
+    "content": "<p>你是否曾经想知道，腾讯的员工们如何利用AI技术进行创意发挥？原来，他们有自己的秘密玩法！</p>    <h2>艺术创作</h2>    <p>腾讯的员工们利用AI技术进行艺术创作，包括绘画、音乐和文学等。他们使用AI算法生成独特的艺术作品，甚至可以根据用户的偏好进行个性化定制。</p>    <p>例如，员工可以使用AI生成的音乐作为背景音乐，或者利用AI绘制的图像作为产品的封面。这些创意的应用不仅提高了工作效率，也让员工们的工作变得更加有趣。</p>    <h2>工作效率</h2>    <p>除了艺术创作，腾讯的员工们还利用AI技术提高工作效率。他们使用AI算法自动化重复性的工作，例如数据分析和文档处理等。这不仅节省了时间，也让员工们可以专注于更重要的任务。</p>    <p>例如，员工可以使用AI自动化的数据分析工具，快速获取所需的数据和洞察。这样，他们可以更好地做出决策和优化产品。</p>    <h2>编辑悄悄话</h2>    <p>所以，下次你看到腾讯的产品或服务时，不要忘记，他们的背后可能有一个秘密的AI玩法！</p>",
+    "score": 85,
+    "takeaways": [
+      "腾讯员工利用AI进行艺术创作",
+      "AI可以帮助员工提高工作效率",
+      "腾讯的AI技术在业界领先"
+    ],
+    "punchline": "AI不仅仅是工具，也是创意的翅膀！",
+    "social_posts": {
+      "threads": "你知道吗？腾讯员工有自己的秘密AI玩法！\n他们利用AI进行艺术创作和提高工作效率。\n下次你看到腾讯的产品或服务时，不要忘记，他们的背后可能有一个秘密的AI玩法！",
+      "facebook": "腾讯员工的秘密AI玩法！他们利用AI进行艺术创作和提高工作效率。点击链接了解更多！",
+      "viral_hook": "你绝对想不到的腾讯员工秘密AI玩法！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649802968&idx=1&sn=2d2ebd6412b2698bc6e5cb18446a13b9",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "007",
+    "title": "用 AI 寫出 production grade 的程式碼？這間公司正在找你！",
+    "summary": "一間公司正在找一位兼職教師，教導工程師如何使用 AI 寫出 production grade 的程式碼，這是一個非常有趣的工作機會！",
+    "content": "<p>你是否曾經想過如何使用 AI 來提高你的程式碼的品質和效率？現在有一間公司正在找一位兼職教師，教導工程師如何使用 AI 寫出 production grade 的程式碼。</p>    <h2>課程內容</h2>    <p>這個課程將教導工程師如何使用 AI 代理來撰寫規格和計劃，如何委派工作給 AI 代理，如何驗證、審查和確保 AI 生成的程式碼的正確性和安全性。</p>    <h2>工作機會</h2>    <p>這間公司正在找一位兼職教師，教導工程師如何使用 AI 寫出 production grade 的程式碼。如果你有 5 年以上的軟體工程經驗，熟悉 AI 代理的使用，了解如何將複雜的工程問題分解成清晰的規格和實現計劃，那麼這個工作機會非常適合你！<h2>編輯悄悄話</h2>    <p>這個工作機會非常適合那些想要提高程式碼品質和效率的工程師。使用 AI 來撰寫 production grade 的程式碼，可以讓你的工作更有效率，讓你有更多時間專注於其他重要的事情。所以，如果你感興趣的話，趕快申請吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "學習如何使用 AI 寫出 production grade 的程式碼",
+      "了解如何委派工作給 AI 代理，撰寫規格和計劃",
+      "學習如何驗證、審查和確保 AI 生成的程式碼的正確性和安全性"
+    ],
+    "punchline": "用 AI 寫出 production grade 的程式碼，讓你的工作更有效率！",
+    "social_posts": {
+      "threads": "你知道嗎？現在有一間公司正在找一位兼職教師，教導工程師如何使用 AI 寫出 production grade 的程式碼！\n這個工作機會非常適合那些想要提高程式碼品質和效率的工程師。\n使用 AI 來撰寫 production grade 的程式碼，可以讓你的工作更有效率，讓你有更多時間專注於其他重要的事情。\n所以，如果你感興趣的話，趕快申請吧！",
+      "facebook": "呼叫所有軟體工程師！你想要提高程式碼的品質和效率嗎？現在有一間公司正在找一位兼職教師，教導工程師如何使用 AI 寫出 production grade 的程式碼。申請吧，讓你的工作更有效率！",
+      "viral_hook": "用 AI 寫出 production grade 的程式碼？太棒了！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!AJAT!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbytebytego.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D2058466732%26version%3D9",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/hiring-part-time-instructor-write",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "008",
+    "title": "AI 未來的關鍵：Google 的 AI 基礎設施和編排最新進展",
+    "summary": "Google 的 AI 基礎設施和編排正在快速進步，為企業提供更強大的 AI 能力，包括 Google Cloud Managed Lustre、C4N 網路和儲存優化 VM 等新功能和更新。",
+    "content": "<h2>AI 基礎設施的進步</h2>    <p>Google 的 AI 基礎設施和編排正在快速進步，為企業提供更強大的 AI 能力。最近的更新包括 Google Cloud Managed Lustre、C4N 網路和儲存優化 VM 等新功能。</p>    <h2>新功能和更新</h2>    <ul>      <li>Google Cloud Managed Lustre 現已推出，提供高性能儲存解決方案</li>      <li>C4N 網路和儲存優化 VM 現已推出，提供高效能的資料傳輸</li>      <li>GKE Dataplane V2 現已支持 15K 個節點，提供大規模企業和 AI/ML 客戶的需求</li>    </ul>    <h2>編輯悄悄話</h2>    <p>Google 的 AI 基礎設施和編排正在重新定義未來，為企業提供更強大的 AI 能力。讓我們一起關注 Google 的最新進展，共同創造更美好的 AI 未來。</p>",
+    "score": 95,
+    "takeaways": [
+      "Google Cloud Managed Lustre 現已推出，提供高性能儲存解決方案",
+      "C4N 網路和儲存優化 VM 現已推出，提供高效能的資料傳輸",
+      "GKE Dataplane V2 現已支持 15K 個節點，提供大規模企業和 AI/ML 客戶的需求"
+    ],
+    "punchline": "Google 的 AI 基礎設施和編排正在重新定義未來",
+    "social_posts": {
+      "threads": "最新的 AI 基礎設施和編排更新！Google 的 AI 能力正在快速進步，為企業提供更強大的功能。#AI #GoogleCloud",
+      "facebook": "Google 的 AI 基礎設施和編排正在重新定義未來，為企業提供更強大的 AI 能力。了解更多：[連結]",
+      "viral_hook": "Google 的 AI 基礎設施和編排正在重新定義未來！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/Whats_new_in_AI_infrastructure.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/ai-infrastructure/whats-new-in-ai-infrastructure-this-month/",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "009",
+    "title": "AI 新世代來臨！GPT-5.6、Grok 4.5登場，人工智慧將如何改變你的生活？",
+    "summary": "AI 新世代來臨，GPT-5.6 和 Grok 4.5 等新型 AI 模型將如何改變你的生活？了解最新的 AI 發展趨勢和對你的影響",
+    "content": "<p>最近，人工智慧（AI）領域迎來了多個重大的發展。OpenAI 公開推出了 GPT-5.6，包括 Sol 和 Luna，並將其桌面編碼產品重新命名為 ChatGPT Work。同時，SpaceX AI 也推出了 Grok 4.5，作為一種低成本、Opus 類別的編碼模型。</p>    <h2>AI 新世代的特點</h2>    <p>這些新型 AI 模型的登場，標誌著人工智慧領域的新時代來臨。GPT-5.6 和 Grok 4.5 等模型具有更強大的編碼能力和更低的成本，將會對編碼和創意產業等領域產生深遠的影響。</p>    <h2>AI 對生活和工作的影響</h2>    <p>AI 的發展不僅會改變編碼和創意產業，也會對生活和工作的各個方面產生影響。從自動化工作流程到智能客服，AI 將會成為我們生活中的一部分。然而，AI 的發展也引發了安全性、監管和倫理等問題的關注。</p>    <h2>編輯悄悄話</h2>    <p>在 AI 新世代來臨的同時，人類將如何適應？我們需要重新思考自己的角色和價值，才能在這個快速變化的世界中找到自己的位置。讓我們一起關注 AI 的發展，共同探索這個領域的未來。</p>",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6 和 Grok 4.5 等新型 AI 模型的登場",
+      "AI 對生活和工作的影響：從編碼到創意產業",
+      "AI 的未來發展趨勢和挑戰：安全性、監管和倫理"
+    ],
+    "punchline": "AI 新世代來臨，人類將如何適應？",
+    "social_posts": {
+      "threads": "AI 新世代來臨！\nGPT-5.6 和 Grok 4.5 等新型 AI 模型的登場\n將如何改變你的生活？\n#AI #GPT-5.6 #Grok4.5",
+      "facebook": "AI 新世代來臨！了解最新的 AI 發展趨勢和對你的影響。點擊連結查看更多內容。",
+      "viral_hook": "AI 新世代來臨，人類將如何適應？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "010",
+    "title": "Gemini Robotics ER 2：讓機器人變得更聰明、更會合作！",
+    "summary": "谷歌推出的Gemini Robotics ER 2，讓機器人能夠理解視頻、合作完成任務，為機器人領域帶來革命性的變革！",
+    "content": "<p>你是否曾經想過，機器人也能夠像人類一樣，理解視頻、進行合作，完成複雜的任務？現在，谷歌推出的Gemini Robotics ER 2讓這一切變得可能！</p>    <h2>什麼是Gemini Robotics ER 2？</h2>    <p>Gemini Robotics ER 2是一種高級別的機器人大腦，能夠讓機器人理解視頻、進行合作，完成複雜的任務。它可以讓機器人在實際環境中更好地完成任務，例如在工廠中進行生產、在醫院中進行護理等。</p>    <h2>Gemini Robotics ER 2的應用</h2>    <p>Gemini Robotics ER 2已經被應用於Boston Dynamics的Spot機器人中，讓它能夠在實際環境中完成複雜的任務。例如，Spot可以使用Gemini Robotics ER 2來理解視頻、進行合作，完成物體-fetching任務。</p>    <h2>編輯悄悄話</h2>    <p>機器人也能夠「團隊合作」了！這是不是一個很棒的消息呢？讓我們一起期待機器人領域的未來發展吧！",
+    "score": 90,
+    "takeaways": [
+      "Gemini Robotics ER 2能夠讓機器人理解視頻和進行合作",
+      "該技術可以讓機器人在實際環境中更好地完成任務",
+      "Gemini Robotics ER 2已經被應用於Boston Dynamics的Spot機器人中"
+    ],
+    "punchline": "機器人也能夠「團隊合作」了！",
+    "social_posts": {
+      "threads": "你是否曾經想過，機器人也能夠像人類一樣，理解視頻、進行合作，完成複雜的任務？現在，谷歌推出的Gemini Robotics ER 2讓這一切變得可能！#機器人 #GeminiRoboticsER2",
+      "facebook": "谷歌推出的Gemini Robotics ER 2讓機器人能夠理解視頻、進行合作，完成複雜的任務！這是不是一個很棒的消息呢？讓我們一起期待機器人領域的未來發展吧！#機器人 #GeminiRoboticsER2",
+      "viral_hook": "機器人也能夠「團隊合作」了！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "011",
+    "title": "軟體開發的新紀元：開發者變成了指揮家？",
+    "summary": "隨著AI的崛起，軟體開發的模式正在改變。開發者不再只是寫程式，而是變成了指揮家，負責協調AI代理的工作。",
+    "content": "<p>軟體開發的世界正在經歷一場革命。隨著AI的崛起，開發者不再只是寫程式，而是變成了指揮家，負責協調AI代理的工作。</p>    <h2>從程式設計師到指揮家</h2>    <p>開發者的角色正在從程式設計師轉變為指揮家。這意味著開發者需要對整個系統有深入的了解，包括AI代理的工作、資料流動和系統的互動。</p>    <p>開發者需要學會如何協調AI代理的工作，提供context和評估結果。這需要開發者對整個系統有深入的了解和強大的管理能力。</p>    <h2>軟體開發的瓶頸</h2>    <p>軟體開發的瓶頸不再是程式設計，而是人類的注意力和能量。開發者需要學會如何管理自己的注意力和能量，才能有效地協調AI代理的工作。</p>    <p>這需要開發者對自己有深入的了解，包括自己的優點和缺點、自己的工作模式和習慣。開發者需要學會如何保護自己的注意力和能量，避免過度的工作和壓力。</p>    <h2>編輯悄悄話</h2>    <p>軟體開發的世界正在經歷一場革命，開發者的角色正在從程式設計師轉變為指揮家。這需要開發者對整個系統有深入的了解和強大的管理能力。同時，開發者需要學會如何管理自己的注意力和能量，才能有效地協調AI代理的工作。</p>",
+    "score": 90,
+    "takeaways": [
+      "AI的出現改變了軟體開發的模式，開發者需要學會如何協調AI代理的工作",
+      "開發者的角色正在從程式設計師轉變為指揮家，需要對整個系統有深入的了解",
+      "軟體開發的瓶頸不再是程式設計，而是人類的注意力和能量"
+    ],
+    "punchline": "開發者正在變成指揮家，協調AI代理的工作",
+    "social_posts": {
+      "threads": "軟體開發的新紀元：開發者變成了指揮家？\n開發者的角色正在從程式設計師轉變為指揮家，需要對整個系統有深入的了解和強大的管理能力。\n軟體開發的瓶頸不再是程式設計，而是人類的注意力和能量。\n開發者需要學會如何協調AI代理的工作，提供context和評估結果。",
+      "facebook": "軟體開發的新紀元：開發者變成了指揮家？開發者的角色正在從程式設計師轉變為指揮家，需要對整個系統有深入的了解和強大的管理能力。軟體開發的瓶頸不再是程式設計，而是人類的注意力和能量。開發者需要學會如何協調AI代理的工作，提供context和評估結果。",
+      "viral_hook": "軟體開發的新紀元：開發者變成了指揮家？"
+    },
+    "image": "https://martinfowler.com/rachels-ramblings/card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/rachels-ramblings/conductor-developer.html",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "012",
+    "title": "AI 革命性突破：10 個困擾數學家和電腦科學家的難題迎刃而解！",
+    "summary": "OpenAI 的新成果挑戰了數學和電腦科學的極限，包含幾何、密碼學和複雜性等領域的重大突破，讓我們重新思考 AI 的潛力！",
+    "content": "<p>近日，OpenAI 宣布了一系列令人震驚的成果，挑戰了數學和電腦科學的極限。這些成果包括 10 個困擾數學家和電腦科學家的難題的解決方案，涉及幾何、密碼學和複雜性等領域。</p>    <h2>什麼是這些難題？</h2>    <p>這些難題包括高維幾何、編碼理論、算術電路複雜性、群論、算子代數、量子複雜性、格子密碼學和極值組合學等領域的問題。這些問題對於各自的數學社群具有重要意義，並且對整個數學領域具有廣泛的影響。</p>    <h2>AI 如何解決這些難題？</h2>    <p>OpenAI 的 AI 系統通過內部版本的 Astra 模型解決了這些難題。這些模型需要大約 2,000 個令牌才能找到解決方案，相當於 Sol API 的費用。然後，人類使用相同的模型準備了稿件，並使用 Lean 證明了每個論點的正確性。</p>    <h2>編輯悄悄話</h2>    <p>AI 的發展對數學和電腦科學的未來產生了深遠的影響。雖然 AI 將對這些領域產生重大影響，但我們也需要關注 AI 的倫理問題和責任。讓我們一起探索 AI 的未來，並推動數學和電腦科學的進步！</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 已經能夠解決長期困擾數學家和電腦科學家的難題",
+      "這些突破涉及多個領域，包括幾何、密碼學和複雜性",
+      "AI 的發展將對數學和電腦科學的未來產生深遠影響"
+    ],
+    "punchline": "AI 革命性地改變了數學和電腦科學的面貌！",
+    "social_posts": {
+      "threads": "你知道嗎？AI 已經能夠解決長期困擾數學家和電腦科學家的難題！\n這些突破涉及多個領域，包括幾何、密碼學和複雜性...\n讓我們一起探索 AI 的未來，並推動數學和電腦科學的進步！",
+      "facebook": "OpenAI 宣布了一系列令人震驚的成果，挑戰了數學和電腦科學的極限。這些成果包括 10 個困擾數學家和電腦科學家的難題的解決方案，涉及幾何、密碼學和複雜性等領域。\n點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "AI 革命性地改變了數學和電腦科學的面貌！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5RUlCTeEvzWYd2DDpdcNgh/f38e144bf6f5911074b1939c1528ed2b/Frame__4_.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/ten-advances-in-mathematics",
+    "date": "2026-08-03"
+  }
+]
