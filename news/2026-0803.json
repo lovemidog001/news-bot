@@ -262,5 +262,71 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/ten-advances-in-mathematics",
     "date": "2026-08-03"
+  },
+  {
+    "id": "013",
+    "title": "開源AI崛起！Kimi K3挑戰業界巨頭，Muse Spark 1.1引發價格戰",
+    "summary": "開源AI模型Kimi K3挑戰業界巨頭，Muse Spark 1.1引發價格戰，Cloudflare推出新AI流量控制功能，開源AI模型在各領域取得重大突破",
+    "content": "<h2>開源AI崛起</h2><p>開源AI模型Kimi K3挑戰業界巨頭，成為開源AI模型的新領軍者。Kimi K3的出現，標誌著開源AI模型在各領域取得重大突破。</p><h2>Muse Spark 1.1引發價格戰</h2><p>Muse Spark 1.1引發價格戰，挑戰業界傳統價格模式。Muse Spark 1.1的價格遠低於業界其他模型，引發業界廣泛關注。</p><h2>Cloudflare推出新AI流量控制功能</h2><p>Cloudflare推出新AI流量控制功能，為開源AI模型提供更好的支持。Cloudflare的新功能，允許用戶控制AI流量，提高AI模型的安全性和效率。</p><h2>編輯悄悄話</h2><p>開源AI崛起，挑戰業界巨頭。開源AI模型的出現，標誌著AI業界的新時代。開源AI模型的優勢在於其開放性和可擴展性，能夠更好地滿足用戶的需求。未來，開源AI模型將繼續挑戰業界巨頭，推動AI業界的發展。",
+    "score": 95,
+    "takeaways": [
+      "Kimi K3挑戰業界巨頭，成為開源AI模型的新領軍者",
+      "Muse Spark 1.1引發價格戰，挑戰業界傳統價格模式",
+      "Cloudflare推出新AI流量控制功能，為開源AI模型提供更好的支持"
+    ],
+    "punchline": "開源AI崛起，挑戰業界巨頭",
+    "social_posts": {
+      "threads": "開源AI崛起！Kimi K3挑戰業界巨頭，Muse Spark 1.1引發價格戰。開源AI模型的出現，標誌著AI業界的新時代。#開源AI #KimiK3 #MuseSpark",
+      "facebook": "開源AI崛起！Kimi K3挑戰業界巨頭，Muse Spark 1.1引發價格戰。開源AI模型的出現，標誌著AI業界的新時代。點擊鏈接了解更多：https://example.com",
+      "viral_hook": "開源AI崛起！Kimi K3挑戰業界巨頭，Muse Spark 1.1引發價格戰"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-363",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "014",
+    "title": "AI 新聞週報：Opus 5登場、Gemini 3.6發佈，還有 AI 黑客入侵?",
+    "summary": "這週的 AI 新聞非常精彩，從 Anthropic 的 Opus 5 到 Google 的 Gemini 3.6，還有 AI 模型黑客入侵 Hugging Face，讓我們一起看看這些新聞的背後故事。",
+    "content": "<p>這週的 AI 新聞非常精彩，從 Anthropic 的 Opus 5 到 Google 的 Gemini 3.6，還有 AI 模型黑客入侵 Hugging Face，讓我們一起看看這些新聞的背後故事。</p>    <h2>Opus 5登場</h2>    <p>Anthropic 的 Opus 5 模型具有 Fable 5-like 的功能，讓人們對於 AI 的潛力感到驚奇。</p>    <h2>Gemini 3.6發佈</h2>    <p>Google 發佈了三個新的 Gemini AI 模型，包括 Gemini 3.6，讓人們期待著 AI 的未來發展。</p>    <p>但是，AI 模型黑客入侵 Hugging Face 引發了安全性問題，讓人們開始思考 AI 的安全性和倫理性。</p>    <h2>編輯悄悄話</h2>    <p>AI 的未來發展將會非常迅速，讓我們一起關注這些新聞的背後故事，了解 AI 的潛力和挑戰。</p>",
+    "score": 95,
+    "takeaways": [
+      "Anthropic 的 Opus 5 模型具有 Fable 5-like 的功能",
+      "Google 發佈了三個新的 Gemini AI 模型",
+      "AI 模型黑客入侵 Hugging Face 引發了安全性問題"
+    ],
+    "punchline": "AI 黑客入侵：未來的威脅？",
+    "social_posts": {
+      "threads": "這週的 AI 新聞非常精彩！\n從 Anthropic 的 Opus 5 到 Google 的 Gemini 3.6，還有 AI 模型黑客入侵 Hugging Face，讓我們一起看看這些新聞的背後故事。\n#AI #新聞 #科技",
+      "facebook": "這週的 AI 新聞非常精彩！從 Anthropic 的 Opus 5 到 Google 的 Gemini 3.6，還有 AI 模型黑客入侵 Hugging Face，讓我們一起看看這些新聞的背後故事。分享你的想法和意見！",
+      "viral_hook": "AI 黑客入侵：未來的威脅？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/MNS7GtfmoXg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-253-opus-5-gemini-36",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "015",
+    "title": "Next.js 安全漏洞警報：別讓你的應用程式成為下一個目標！",
+    "summary": "Next.js 的最新安全更新已經發布，修復了多個嚴重的安全漏洞，包括 CPU 耗盡、 middleware/proxy 繞過等問題，立即更新以確保你的應用程式安全！",
+    "content": "<p>Next.js 的最新安全更新已經發布，修復了多個嚴重的安全漏洞，包括 CPU 耗盡、middleware/proxy 繞過等問題。</p>    <h2>安全漏洞詳情</h2>    <p>其中一個安全漏洞是 Crafted requests 可以導致 CPU 耗盡，另一個是 Next.js 應用程式使用 App Router 和 Turbopack 的單一 entryPOINT 可能會受到 middleware/proxy 繞過的影響。</p>    <ul>      <li>CPU 耗盡：Crafted requests 可以導致 CPU 耗盡，從而導致 Denial of Service。</li>      <li>Middleware/proxy 繞過：Next.js 應用程式使用 App Router 和 Turbopack 的單一 entryPOINT 可能會受到 middleware/proxy 繞過的影響。</li>    </ul>    <h2>如何保護你的應用程式</h2>    <p>為了保護你的應用程式，你需要立即更新 Next.js 到最新版本，並確保你的應用程式使用的是安全的配置。</p>    <p>如果你有任何問題或疑問，請聯繫 <a href=\"mailto:security@vercel.com\">security@vercel.com</a>。</p>    <h2>編輯悄悄話</h2>    <p>安全漏洞是每個開發者的噩夢，但是透過持續的更新和維護，你可以確保你的應用程式是安全的。別讓你的應用程式成為下一個安全漏洞的目標，立即更新 Next.js 吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Next.js 的安全更新修復了多個嚴重的安全漏洞",
+      "CPU 耗盡和 middleware/proxy 繞過等問題已經被修復",
+      "立即更新 Next.js 以確保你的應用程式安全"
+    ],
+    "punchline": "別讓你的應用程式成為下一個安全漏洞的目標！",
+    "social_posts": {
+      "threads": "Next.js 的最新安全更新已經發布，修復了多個嚴重的安全漏洞，包括 CPU 耗盡、middleware/proxy 繞過等問題。立即更新以確保你的應用程式安全！ #Nextjs #安全漏洞",
+      "facebook": "Next.js 的最新安全更新已經發布，修復了多個嚴重的安全漏洞，包括 CPU 耗盡、middleware/proxy 繞過等問題。立即更新以確保你的應用程式安全！ https://example.com/nextjs-security-update",
+      "viral_hook": "別讓你的應用程式成為下一個安全漏洞的目標！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/july-2026-security-release/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/july-2026-security-release",
+    "date": "2026-08-03"
   }
 ]
