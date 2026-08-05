@@ -262,5 +262,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
     "date": "2026-08-05"
+  },
+  {
+    "id": "013",
+    "title": "AI 大戰：開源模型崛起，Kimi K3 領跑開源界！",
+    "summary": "開源模型崛起，Kimi K3 領跑開源界！Muse Spark 1.1 創造價格戰，Cloudflare 控制網路爬蟲！",
+    "content": "<h2>開源模型崛起</h2>    <p>近期，開源模型崛起，Kimi K3 成為領跑開源界的模型。Kimi K3 的出現，意味著開源模型的能力已經接近傳統模型。</p>    <h2>Muse Spark 1.1 創造價格戰</h2>    <p>Muse Spark 1.1 的出現，創造了價格戰，挑戰傳統模型的價格。Muse Spark 1.1 的價格遠低於傳統模型，讓開發者有更多選擇。</p>    <h2>Cloudflare 控制網路爬蟲</h2>    <p>Cloudflare 控制網路爬蟲，保護網站權益。Cloudflare 的新功能，讓網站主可以控制網路爬蟲的存取，保護自己的網站。</p>    <h2>編輯悄悄話</h2>    <p>開源模型崛起，未來是誰的天下？開源模型的崛起，代表著未來的發展方向。開發者應該關注開源模型的發展，抓住機會，創造未來。",
+    "score": 90,
+    "takeaways": [
+      "Kimi K3 成為領跑開源界的模型",
+      "Muse Spark 1.1 創造價格戰，挑戰傳統模型",
+      "Cloudflare 控制網路爬蟲，保護網站權益"
+    ],
+    "punchline": "開源模型崛起，未來是誰的天下？",
+    "social_posts": {
+      "threads": "開源模型崛起，Kimi K3 領跑開源界！Muse Spark 1.1 創造價格戰，Cloudflare 控制網路爬蟲！#AI #開源模型",
+      "facebook": "開源模型崛起，未來是誰的天下？關注開源模型的發展，抓住機會，創造未來！#AI #開源模型",
+      "viral_hook": "開源模型崛起，價格戰來了！Muse Spark 1.1 創造價格戰，挑戰傳統模型！"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-363",
+    "date": "2026-08-05"
+  },
+  {
+    "id": "014",
+    "title": "Next.js 16.3 來了！瞬間導航、更快的開發伺服器和 AI 工具等你發現",
+    "summary": "Next.js 16.3 推出 Instant Navigations、更快的開發伺服器和 AI 工具，提升開發效率和應用程式性能",
+    "content": "<p>Next.js 16.3 的發佈為開發者帶來了一系列的改進和新功能，包括 Instant Navigations、更快的開發伺服器和 AI 工具等。</p>    <h2>什麼是 Instant Navigations?</h2>    <p>Instant Navigations 是 Next.js 16.3 中的一個新功能，提供單頁應用程式的響應式導航。它允許開發者創建更加快速和響應式的應用程式，同時保留了服務器驅動模型的優點。</p>    <h2>其他新功能和改進</h2>    <p>Next.js 16.3 還包含了其他許多新功能和改進，包括更快的開發伺服器、更快的構建速度、改進的 AI 工具和文檔支持等。這些功能和改進將有助於提升開發效率和應用程式性能。</p>    <h2>編輯悄悄話</h2>    <p>Next.js 16.3 的發佈是對開發者的一個大禮，帶來了許多令人興奮的新功能和改進。不要等待，立即升級到 Next.js 16.3，體驗更加快速和強大的開發體驗吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Instant Navigations 提供單頁應用程式的響應式導航",
+      "更快的開發伺服器和構建速度",
+      "改進的 AI 工具和文檔支持"
+    ],
+    "punchline": "Next.js 16.3 讓你的應用程式更快、更強大、更智能",
+    "social_posts": {
+      "threads": "      哇，Next.js 16.3 來了！      Instant Navigations、更快的開發伺服器和 AI 工具等你發現      #Nextjs #WebDevelopment    ",
+      "facebook": "      Next.js 16.3 發佈了！包含 Instant Navigations、更快的開發伺服器和 AI 工具等新功能和改進。      立即升級到 Next.js 16.3，提升開發效率和應用程式性能吧！    ",
+      "viral_hook": "Next.js 16.3 來了！瞬間導航、更快的開發伺服器和 AI 工具等你發現"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/next-16-3/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/next-16-3",
+    "date": "2026-08-05"
   }
 ]
