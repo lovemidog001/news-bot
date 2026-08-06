@@ -262,5 +262,49 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
     "date": "2026-08-06"
+  },
+  {
+    "id": "013",
+    "title": "開源 AI 模型崛起：Kimi K3 領先業界、Muse Spark 1.1 價格戰",
+    "summary": "開源 AI 模型 Kimi K3 領先業界，Muse Spark 1.1 引發價格戰，Cloudflare 對 AI 交通控制新規",
+    "content": "<h2>開源 AI 模型崛起</h2>    <p>開源 AI 模型 Kimi K3 領先業界，提供更強大的 AI 能力。Muse Spark 1.1 引發價格戰，提供更低成本的 AI 解決方案。</p>    <h2>Cloudflare 對 AI 交通控制新規</h2>    <p>Cloudflare 對 AI 交通控制新規，限制 AI 交通的訪問，保護用戶的隱私和安全。</p>    <h2>編輯悄悄話</h2>    <p>開源 AI 模型的崛起，將會帶來更多的機會和挑戰。價格戰的來臨，將會使 AI 解決方案更加平易近人。Cloudflare 對 AI 交通控制新規，將會保護用戶的隱私和安全。但是，開源 AI 模型的未來，還需要更多的努力和創新。</p>",
+    "score": 90,
+    "takeaways": [
+      "Kimi K3 是目前最強大的開源 AI 模型，領先業界",
+      "Muse Spark 1.1 引發價格戰，提供更低成本的 AI 解決方案",
+      "Cloudflare 對 AI 交通控制新規，限制 AI 交通的訪問"
+    ],
+    "punchline": "開源 AI 模型崛起，價格戰來臨",
+    "social_posts": {
+      "threads": "開源 AI 模型崛起！Kimi K3 領先業界，Muse Spark 1.1 引發價格戰。Cloudflare 對 AI 交通控制新規，限制 AI 交通的訪問。#開源AI #價格戰 #Cloudflare",
+      "facebook": "開源 AI 模型的崛起，將會帶來更多的機會和挑戰。價格戰的來臨，將會使 AI 解決方案更加平易近人。Cloudflare 對 AI 交通控制新規，將會保護用戶的隱私和安全。",
+      "viral_hook": "開源 AI 模型崛起，價格戰來臨！"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-363",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "014",
+    "title": "AI 研究的新時代：Mirendil 搭上 Google Cloud AI Hypercomputer",
+    "summary": "Mirendil 進一步加速 AI 研究與開發，透過 Google Cloud 的 AI Hypercomputer，結合 TPU 和 NVIDIA AI 基礎設施，推動 AI 研究的新時代",
+    "content": "<p>Mirendil 進一步加速 AI 研究與開發，透過 Google Cloud 的 AI Hypercomputer，結合 TPU 和 NVIDIA AI 基礎設施，推動 AI 研究的新時代。</p>    <h2>什麼是 AI Hypercomputer?</h2>    <p>AI Hypercomputer 是 Google Cloud 的一項強大的 AI 基礎設施，結合 TPU 和 NVIDIA AI 基礎設施，提供更強大的計算能力，幫助加速 AI 研究與開發。</p>    <h2>Mirendil 的 AI 系統</h2>    <p>Mirendil 的 AI 系統可以幫助加速和民主化 AI 研究與開發，透過管理複雜的端到端訓練工作流程，從初始模型預訓練到後期訓練，和大規模的強化學習。</p>    <h2>編輯悄悄話</h2>    <p>AI 研究的新時代即將到來，透過 Google Cloud 的 AI Hypercomputer 和 Mirendil 的 AI 系統，未來的 AI 研究將會更加快速和有效。",
+    "score": 85,
+    "takeaways": [
+      "Mirendil 使用 Google Cloud 的 AI Hypercomputer 加速 AI 研究與開發",
+      "結合 TPU 和 NVIDIA AI 基礎設施，提供更強大的計算能力",
+      "Mirendil 的 AI 系統可以幫助加速和民主化 AI 研究與開發"
+    ],
+    "punchline": "AI 研究的新時代即將到來",
+    "social_posts": {
+      "threads": "大家好，我們來聊聊 AI 研究的新時代！Mirendil 透過 Google Cloud 的 AI Hypercomputer，加速 AI 研究與開發，結合 TPU 和 NVIDIA AI 基礎設施，提供更強大的計算能力。#AI #GoogleCloud",
+      "facebook": "AI 研究的新時代即將到來！Mirendil 透過 Google Cloud 的 AI Hypercomputer，加速 AI 研究與開發，結合 TPU 和 NVIDIA AI 基礎設施，提供更強大的計算能力。點擊連結了解更多！",
+      "viral_hook": "AI 研究的新時代即將到來！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/mirendil.max-2500x2500.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/startups/mirendil-selects-ai-hypercomputer/",
+    "date": "2026-08-06"
   }
 ]
