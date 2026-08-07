@@ -1,0 +1,288 @@
+[
+  {
+    "id": "001",
+    "title": "Baseten 登場！Hugging Face 推理提供者大變革",
+    "summary": "Baseten 加入 Hugging Face 推理提供者，帶來更強大的 AI 解決方案",
+    "content": "<p>Baseten 的加入，代表著 Hugging Face 推理提供者又向前邁出了一大步。這意味著開發人員可以更容易地使用 AI 技術，解決複雜的問題。</p>    <h2>什麼是 Baseten？</h2>    <p>Baseten 是一個提供 AI 解決方案的平台，幫助開發人員更容易地使用 AI 技術。通過 Baseten，開發人員可以快速地建立和部署 AI 模型，無需擔心底層的技術細節。</p>    <h2>如何使用 Baseten</h2>    <ul>      <li>建立 Baseten 帳戶</li>      <li>選擇合適的 AI 模型</li>      <li>部署和測試 AI 模型</li>    </ul>    <p>現在，開發人員可以更容易地使用 AI 技術，解決複雜的問題。Baseten 的加入，代表著 Hugging Face 推理提供者又向前邁出了一大步。</p>    <h2>編輯悄悄話</h2>    <p>AI 新時代來了！你準備好了嗎？",
+    "score": 90,
+    "takeaways": [
+      "Baseten 加入 Hugging Face 推理提供者",
+      "提供更強大的 AI 解決方案",
+      "開發人員可以更容易地使用 AI 技術"
+    ],
+    "punchline": "AI 新時代來了！",
+    "social_posts": {
+      "threads": "Baseten 加入 Hugging Face 推理提供者！\n這意味著什麼？\n開發人員可以更容易地使用 AI 技術！",
+      "facebook": "Baseten 加入 Hugging Face 推理提供者！提供更強大的 AI 解決方案。了解更多：",
+      "viral_hook": "AI 新時代來了！"
+    },
+    "image": "https://huggingface.co/blog/assets/inference-providers/welcome-baseten.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/baseten",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "002",
+    "title": "AI 智能代理的新安全守護：Amazon Bedrock AgentCore 時序政策",
+    "summary": "學習如何使用時序政策保護您的 AI 代理，防止資料造假、控制財務風險，同時要求人工審核高風險行動",
+    "content": "<p>在 AI 代理的世界中，傳統的存取控制已經不夠了。因為 AI 代理的行為是基於其會話歷史的，所以需要有一種新的安全機制來保護它們。這就是時序政策的由來。</p>    <h2>什麼是時序政策</h2>    <p>時序政策是一種有狀態的規則，根據代理的會話歷史進行授權。它可以強制工作流程順序，防止資料造假，限制財務風險，同時需要人工審核高風險行動。</p>    <h2>時序政策的應用場景</h2>    <ul>      <li>強制工作流程順序</li>      <li>防止資料造假</li>      <li>限制財務風險</li>      <li>需要人工審核高風險行動</li>    </ul>    <p>時序政策需要在 AgentCore Gateway 中實現，因為它需要根據代理的會話歷史進行授權。這樣可以確保代理的行為是安全的，同時也可以防止資料安全風險。</p>    <h2>編輯悄悄話</h2>    <p>時序政策是一種強大的安全機制，可以保護您的 AI 代理，避免資料安全風險。所以，別等了，趕快實現時序政策，保護您的 AI 代理吧！",
+    "score": 90,
+    "takeaways": [
+      "時序政策讓您定義有狀態的規則，根據代理的會話歷史進行授權",
+      "時序政策可以強制工作流程順序，防止資料造假，限制財務風險",
+      "時序政策需要人工審核高風險行動，同時可以自動收緊權限"
+    ],
+    "punchline": "用時序政策保護您的 AI 代理，避免資料安全風險",
+    "social_posts": {
+      "threads": "大家好！今天要跟大家分享一種新的安全機制——時序政策。它可以保護您的 AI 代理，避免資料安全風險。讓我們一起學習如何實現時序政策吧！",
+      "facebook": "時序政策是一種強大的安全機制，可以保護您的 AI 代理，避免資料安全風險。同時也可以強制工作流程順序，防止資料造假，限制財務風險。讓我們一起學習如何實現時序政策吧！",
+      "viral_hook": "用時序政策保護您的 AI 代理，避免資料安全風險！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/06/ML-21661-featured-image.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-with-temporal-policies-in-amazon-bedrock-agentcore/",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "003",
+    "title": "臉書廣告革命：多階段架構讓廣告推薦更精準",
+    "summary": "Meta 推出新的廣告排名架構，結合使用者序列和密集式標籤，讓廣告推薦更精準，提升用戶體驗和廣告主收益",
+    "content": "<p>每天，Meta 的推薦平台都處理著數十億的使用者互動，生成豐富的時間信號，捕捉個別使用者的偏好和意圖，跨越產品、廣告和內容。</p>    <h2>多階段架構的誕生</h2>    <p>Meta 推出的新架構結合使用者序列和密集式標籤，讓廣告排名更精準，提升用戶體驗和廣告主收益。這個架構包括兩個部分：多階段序列模型和密集式標籤學習。</p>    <p>多階段序列模型可以讓使用者序列和密集式標籤更好地結合，從而提高廣告排名的精準度。密集式標籤學習則可以讓模型更好地學習使用者行為，從而提高廣告主的收益。</p>    <h2>技術細節</h2>    <p>Meta 的新架構使用了多個技術，包括多階段序列模型、密集式標籤學習和目標感知注意力機制。這些技術可以讓模型更好地學習使用者行為，從而提高廣告排名的精準度。</p>    <p>多階段序列模型可以讓使用者序列和密集式標籤更好地結合，從而提高廣告排名的精準度。密集式標籤學習則可以讓模型更好地學習使用者行為，從而提高廣告主的收益。</p>    <h2>編輯悄悄話</h2>    <p>這項技術可以讓廣告主獲得更好的收益，也可以讓使用者獲得更好的體驗。未來，Meta 會繼續改進這項技術，讓廣告排名更精準，提升用戶體驗和廣告主收益。",
+    "score": 90,
+    "takeaways": [
+      "Meta 的新架構可以讓廣告排名更精準，提升用戶體驗",
+      "多階段架構可以讓使用者序列和密集式標籤更好地結合",
+      "這項技術可以讓廣告主獲得更好的收益"
+    ],
+    "punchline": "廣告革命從此開始",
+    "social_posts": {
+      "threads": "你知道嗎？Meta 的新架構可以讓廣告排名更精準，提升用戶體驗和廣告主收益！#廣告革命 #Meta",
+      "facebook": "Meta 推出的新架構結合使用者序列和密集式標籤，讓廣告排名更精準，提升用戶體驗和廣告主收益。了解更多：https://example.com",
+      "viral_hook": "廣告革命從此開始！"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/05/Meta-Mult-stage-Ads-Ranking.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/08/05/ml-applications/from-user-sequences-to-scaling-laws-a-multi-stage-architecture-for-metas-ads-ranking/",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "004",
+    "title": "微軟登頂！2026 年 Gartner 魔法象限報告中的 AI 協同程式碼現代化工具領導者",
+    "summary": "微軟的 GitHub Copilot 和 Azure 正在幫助組織現代化傳統應用程式，減少技術債務，為 AI 創新做好準備",
+    "content": "<p>近年來，人工智慧（AI）技術的發展迅速，已經對各行各業產生了深遠的影響。在程式碼現代化的領域，AI 協同程式碼現代化工具也越來越受到重視。</p>    <h2>什麼是 AI 協同程式碼現代化工具？</h2>    <p>AI 協同程式碼現代化工具是一種利用 AI 技術來協助程式設計師現代化傳統應用程式的工具。這些工具可以幫助程式設計師自動化程式碼的撰寫、測試和維護，從而提高程式碼的質量和效率。</p>    <h2>微軟的領導地位</h2>    <p>近日，Gartner 發佈了 2026 年的魔法象限報告，將微軟評為 AI 協同程式碼現代化工具的領導者。這是因為微軟的 GitHub Copilot 和 Azure 等工具在協助組織現代化傳統應用程式方面發揮了重要作用。</p>    <p>GitHub Copilot 是一種基於 AI 的程式碼撰寫工具，可以自動完成程式碼的撰寫和測試。Azure 是一種雲端計算平台，提供了豐富的 AI 服務和工具，包括 AI 協同程式碼現代化工具。</p>    <h2>編輯悄悄話</h2>    <p>微軟的領導地位不僅僅是因為其技術上的優勢，也是因為其對於 AI 革命的堅定投入。未來，AI 將會對各行各業產生更深遠的影響，微軟的領導地位將會在這個過程中發揮重要作用。</p>",
+    "score": 90,
+    "takeaways": [
+      "微軟被評為 2026 年 Gartner 魔法象限報告中的 AI 協同程式碼現代化工具領導者",
+      "GitHub Copilot 和 Azure 是微軟現代化傳統應用程式的關鍵工具",
+      "AI 協同程式碼現代化工具可以幫助組織減少技術債務，提高效率"
+    ],
+    "punchline": "微軟領先於時代，帶領 AI 革命",
+    "social_posts": {
+      "threads": "你知道微軟已經成為 2026 年 Gartner 魔法象限報告中的 AI 協同程式碼現代化工具領導者了嗎？\n這是因為他們的 GitHub Copilot 和 Azure 等工具在協助組織現代化傳統應用程式方面發揮了重要作用。\n未來，AI 將會對各行各業產生更深遠的影響，微軟的領導地位將會在這個過程中發揮重要作用。",
+      "facebook": "微軟被評為 2026 年 Gartner 魔法象限報告中的 AI 協同程式碼現代化工具領導者！\n這是因為他們的 GitHub Copilot 和 Azure 等工具在協助組織現代化傳統應用程式方面發揮了重要作用。\n點擊鏈接了解更多：https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+      "viral_hook": "微軟領先於時代，帶領 AI 革命！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/AI-Code-MQ-AppMod-Social-2-16_9.png",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "005",
+    "title": "金融AI新時代：從資料到自主行動的關鍵",
+    "summary": "金融機構如何建立信任的AI系統，讓自主決策不再是風險，而是機會？",
+    "content": "<p>金融機構正從AI實驗走向自主操作，但信任的基礎是關鍵。McKinsey的報告顯示，只有30%的組織達到了AI策略、治理和Agentic AI控制的高級別。</p>    <h2>什麼是Agentic AI？</h2>    <p>Agentic AI是指可以推理、編排工作流程和自主決策的AI系統。它不僅可以回答問題，還可以採取行動。例如，AI助手可以總結可疑交易或解釋合規報告，但AI代理可以調查詐騙警報、檢索客戶信息、相關證據和啟動工作流程。</p>    <h2>建立信任的AI</h2>    <p>信任的AI需要統一的資料、觀察性、企業搜索和治理。金融機構需要打破資料孤島，改善資料質量，確保AI系統可以存取完整、及時和相關的信息。只有這樣，AI代理才能做出正確的決策。</p>    <h2>編輯悄悄話</h2>    <p>金融AI的未來，不僅僅是關於AI的強大，而是關於信任的基礎。只有建立信任的AI，才能讓自主決策不再是風險，而是機會。</p>",
+    "score": 90,
+    "takeaways": [
+      "信任是金融AI的基礎，需要統一的資料、觀察性、企業搜索和治理",
+      "Agentic AI需要更多的上下文信息，才能做出正確的決策",
+      "良好的治理可以加速AI的發展，而不是限制它"
+    ],
+    "punchline": "信任的AI，才是未來的金融之王",
+    "social_posts": {
+      "threads": "金融AI新時代：從資料到自主行動的關鍵\n什麼是Agentic AI？\n如何建立信任的AI？",
+      "facebook": "金融機構如何建立信任的AI系統，讓自主決策不再是風險，而是機會？點擊連結了解更多!",
+      "viral_hook": "金融AI的未來，關乎信任的基礎!"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt38a747ecc55b0f9c/6a74cbc48a155275c364aac1/mike-hindle-TCCBk_tk3hE-unsplash.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/building-trusted-agentic-ai-in-financial-services",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "006",
+    "title": "Linux 18 年的隱藏危機：AI 首先發現的漏洞讓所有人震驚！",
+    "summary": "Linux 内核中的一個隱藏已久的漏洞被 AI 發現，讓所有人感到震驚！這個漏洞隱藏了 18 年，到底是什麼原因導致它被忽略了呢？",
+    "content": "<p>Linux 是一個開源的操作系統，廣泛被使用在各種領域。但是，最近有一個令人震驚的發現：Linux 内核中存在一個隱藏已久的漏洞！</p>    <h2>什麼是這個漏洞？</h2>    <p>這個漏洞被發現於 Linux 内核中，已經隱藏了 18 年。它是一個非常嚴重的漏洞，可能會導致系統崩潰或是資料損失。</p>    <h2>為什麼這個漏洞被忽略了呢？</h2>    <p>這個漏洞之所以被忽略，可能是因為它太過複雜，或者是因為開發者們沒有足夠的時間和資源來檢查代碼。然而，現在這個漏洞被 AI 首先發現，讓所有人感到震驚！</p>    <h2>編輯悄悄話</h2>    <p>這個漏洞的發現，讓我們感到既震驚又反思。它提醒我們，科技的發展是如此迅速，然而，安全性和穩定性卻是永遠的挑戰。讓我們一起關注這個問題，共同努力打造一個更安全的科技世界吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Linux 内核中存在一個隱藏已久的漏洞",
+      "這個漏洞被 AI 首先發現，讓所有人感到震驚",
+      "這個漏洞隱藏了 18 年，到底是什麼原因導致它被忽略了呢？"
+    ],
+    "punchline": "AI 首先發現的漏洞讓所有人震驚！",
+    "social_posts": {
+      "threads": "Linux 18 年的隱藏危機：AI 首先發現的漏洞讓所有人震驚！\n這個漏洞太過複雜，開發者們沒有足夠的時間和資源來檢查代碼嗎？\n讓我們一起關注這個問題，共同努力打造一個更安全的科技世界吧！",
+      "facebook": "Linux 内核中的一個隱藏已久的漏洞被 AI 首先發現，讓所有人感到震驚！這個漏洞隱藏了 18 年，到底是什麼原因導致它被忽略了呢？讓我們一起關注這個問題，共同努力打造一個更安全的科技世界吧！",
+      "viral_hook": "AI 首先發現的 Linux 漏洞，震驚全世界！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803040&idx=1&sn=a0b7458e9bcc381edcbca4dbc1769f85",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "007",
+    "title": "寫入與讀取之間的戰爭：資料庫優化的隱藏陷阱",
+    "summary": "資料庫的寫入和讀取操作看似簡單，但高流量下卻可能引發複雜問題，了解寫入和讀取的戰略和技巧是解決的關鍵",
+    "content": "<p>每個應用程式都會對資料庫進行寫入和讀取操作，但高流量下，這兩種操作之間的平衡就變得非常重要。</p>    <h2>寫入和讀取的戰爭</h2>    <p>寫入操作會記錄事實，例如新增訂單或修改電子郵件地址，而讀取操作會回答問題，例如哪些訂單在這一周內被放置或哪些資料應該出現在個人頁面上。</p>    <p>但是，當流量增加時，寫入和讀取操作之間的平衡就會被打破，例如創建索引、使用快取或讀取複製等優化方法都可能引發新的問題。</p>    <h2>解決方案和技巧</h2>    <p>了解寫入和讀取的戰略和技巧是解決這些問題的關鍵，包括預先計算和複製、索引、去標準化、快取、讀取複製、物化視圖、目的建讀取儲存、寫入時散發對於讀取等方法。</p>    <p>每個方法都有其同步機制、過時窗口和特徵失敗模式，了解這些是關鍵。</p>    <h2>編輯悄悄話</h2>    <p>寫入和讀取之間的戰爭是資料庫優化的隱藏陷阱，了解這些戰略和技巧可以幫助您避免這些陷阱，達到資料庫優化的平衡。",
+    "score": 90,
+    "takeaways": [
+      "寫入和讀取操作需要對立的資料結構",
+      "預先計算和複製是每個讀取優化的基礎",
+      "一致性的定義和同步機制是關鍵"
+    ],
+    "punchline": "寫入和讀取之間的平衡是資料庫優化的核心",
+    "social_posts": {
+      "threads": "      寫入和讀取之間的戰爭是資料庫優化的隱藏陷阱      了解這些戰略和技巧可以幫助您避免這些陷阱      達到資料庫優化的平衡是關鍵    ",
+      "facebook": "寫入和讀取之間的戰爭是資料庫優化的隱藏陷阱，了解這些戰略和技巧可以幫助您避免這些陷阱，達到資料庫優化的平衡。分享您的經驗和見解！",
+      "viral_hook": "寫入和讀取之間的戰爭：資料庫優化的隱藏陷阱"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!krnL!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c5cd46b-a420-4a09-b1ca-40f8b0d4063a_2650x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/the-read-path-versus-the-write-path",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "008",
+    "title": "醫療AI的新突破：如何在保護病人隱私的同時，發展出更準確的腦瘤研究？",
+    "summary": "Google Cloud與MLCommons合作，利用Confidential Computing技術保護病人隱私，發展出更準確的腦瘤研究。這項技術可以讓AI模型在不洩露病人資料的情況下，進行benchmarking和評估。",
+    "content": "<h2>醫療AI的挑戰</h2>    <p>醫療AI的發展面臨著一個重大挑戰：如何在保護病人隱私的同時，發展出更準確的AI模型？這個挑戰是由於病人資料的敏感性和AI模型的複雜性所造成的。</p>    <p>Google Cloud與MLCommons合作，利用Confidential Computing技術保護病人隱私，發展出更準確的腦瘤研究。這項技術可以讓AI模型在不洩露病人資料的情況下，進行benchmarking和評估。</p>    <h2>Confidential Computing技術</h2>    <p>Confidential Computing技術是一種特殊的虛擬機器，它可以在硬體隔離的環境中執行AI模型，保護病人資料和AI模型的安全性。這項技術可以讓AI模型在多個醫院和研究機構進行benchmarking和評估，發展出更準確的腦瘤研究和治療方法。</p>    <p>MedPerf平台是基於Confidential Computing技術開發的，它可以讓AI模型在多個醫院和研究機構進行benchmarking和評估。這項平台可以發展出更準確的腦瘤研究和治療方法，改善病人的治療效果和生活質量。</p>    <h2>編輯悄悄話</h2>    <p>醫療AI的發展是未來醫學的趨勢，保護病人隱私和發展醫療AI是兩個重要的挑戰。Google Cloud與MLCommons合作，利用Confidential Computing技術保護病人隱私，發展出更準確的腦瘤研究。這項技術可以讓AI模型在不洩露病人資料的情況下，進行benchmarking和評估，發展出更準確的腦瘤研究和治療方法。</p>",
+    "score": 90,
+    "takeaways": [
+      "Confidential Computing技術可以保護病人隱私和AI模型",
+      "MedPerf平台可以讓AI模型在多個醫院和研究機構進行benchmarking和評估",
+      "這項技術可以發展出更準確的腦瘤研究和治療方法"
+    ],
+    "punchline": "保護病人隱私和發展醫療AI的新突破",
+    "social_posts": {
+      "threads": "醫療AI的新突破：如何在保護病人隱私的同時，發展出更準確的腦瘤研究？#醫療AI #腦瘤研究 #ConfidentialComputing",
+      "facebook": "保護病人隱私和發展醫療AI的新突破！Google Cloud與MLCommons合作，利用Confidential Computing技術保護病人隱私，發展出更準確的腦瘤研究。#醫療AI #腦瘤研究 #ConfidentialComputing",
+      "viral_hook": "你知道嗎？醫療AI的發展面臨著一個重大挑戰：如何在保護病人隱私的同時，發展出更準確的AI模型？"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/17_-_Security__Identity_NrORvDT.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/identity-security/privacy-first-medical-ai-with-medperf-and-google-cloud/",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "009",
+    "title": "AI 革命來了！Opus 5、Gemini 3.6 等巨頭新品將改變你的人生",
+    "summary": "Anthropic 的 Opus 5 和 Google 的 Gemini 3.6 等新品將帶來人工智慧的新革命，了解這些新技術如何影響你的生活",
+    "content": "<p>最近，人工智慧的發展速度越來越快，各個巨頭公司也紛紛推出了新的 AI 產品。Anthropic 的 Opus 5 和 Google 的 Gemini 3.6 等新品將帶來人工智慧的新革命，讓我們一起來看看這些新技術如何影響你的生活。</p>    <h2>什麼是 Opus 5 和 Gemini 3.6？</h2>    <p>Opus 5 是 Anthropic 推出的最新 AI 模型，擁有 Fable 5-like 的功能。Gemini 3.6 是 Google 推出的新 AI 模型，具有更強大的功能。這兩個新品將對人工智慧的發展產生深遠的影響。</p>    <h2>AI 的發展將對人類生活產生什麼影響？</h2>    <p>AI 的發展將對人類生活產生深遠的影響，從工作、教育到娛樂等各個方面都將受到 AI 的影響。了解這些新技術如何影響你的生活，才能更好地適應未來的變化。</p>    <h2>編輯悄悄話</h2>    <p>AI 革命來了，準備好迎接新時代吧！雖然 AI 的發展將帶來許多便利，但也需要注意其可能帶來的風險。讓我們一起關注 AI 的發展，為自己和下一代創造一個更好的未來。</p>",
+    "score": 90,
+    "takeaways": [
+      "Anthropic 的 Opus 5 擁有 Fable 5-like 的功能",
+      "Google 的 Gemini 3.6 是一個更強大的 AI 模型",
+      "AI 的發展將對人類生活產生深遠的影響"
+    ],
+    "punchline": "AI 革命來了，準備好迎接新時代吧！",
+    "social_posts": {
+      "threads": "大家好，我們來聊聊最近的 AI 新聞吧！Opus 5 和 Gemini 3.6 等新品將帶來人工智慧的新革命，了解這些新技術如何影響你的生活吧！#AI #Opus5 #Gemini36",
+      "facebook": "AI 革命來了！了解 Opus 5 和 Gemini 3.6 等新品如何影響你的生活吧！https://example.com",
+      "viral_hook": "AI 革命來了，準備好迎接新時代吧！"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/MNS7GtfmoXg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-253-opus-5-gemini-36",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "010",
+    "title": "瞬間導航大解密：Next.js 16.3 如何讓你的網站速度提升",
+    "summary": "使用 Next.js 16.3 的新工具，讓你的網站導航速度瞬間提升，了解 v0 如何使用測試和編碼代理實現瞬間導航",
+    "content": "<p>你是否厭煩於網站導航速度慢？現在，Next.js 16.3 的新工具可以幫你實現瞬間導航。v0 的開發團隊使用測試和編碼代理，成功將導航速度提升到瞬間級別。</p>    <h2>什麼是瞬間導航？</h2>    <p>瞬間導航是指網站導航的速度非常快，幾乎可以瞬間完成。這是因為 Next.js 16.3 引入了新的工具，讓動態應用可以實現瞬間導航。</p>    <p>之前，Next.js 只提供了兩種工具來確保你的網站導航速度快。但是，這兩種工具都需要你將資料抓取和渲染程式碼移到客戶端。現在，Next.js 16.3 讓你可以在不需要移動任何程式碼的情況下，實現瞬間導航。</p>    <h2>如何實現瞬間導航</h2>    <p>v0 的開發團隊使用測試和編碼代理，成功將導航速度提升到瞬間級別。首先，他們使用新的 instant() 測試助手，寫了一個失敗的測試，然後使用編碼代理自動修復慢速導航。最終，他們成功將導航速度提升到瞬間級別。</p>    <h2>編輯悄悄話</h2>    <p>瞬間導航，不再是夢想。使用 Next.js 16.3 的新工具，你可以輕鬆實現瞬間導航。不要再等待，立即開始使用吧！",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.3 引入了新的工具，讓動態應用可以實現瞬間導航",
+      "使用測試和編碼代理可以自動修復慢速導航",
+      "新的 instant() 測試助手讓你可以輕鬆測試導航速度"
+    ],
+    "punchline": "瞬間導航，不再是夢想",
+    "social_posts": {
+      "threads": "你是否厭煩於網站導航速度慢？現在，Next.js 16.3 的新工具可以幫你實現瞬間導航。v0 的開發團隊使用測試和編碼代理，成功將導航速度提升到瞬間級別。#瞬間導航 #Nextjs",
+      "facebook": "瞬間導航大解密：Next.js 16.3 如何讓你的網站速度提升。了解 v0 如何使用測試和編碼代理實現瞬間導航。點擊連結了解更多！",
+      "viral_hook": "瞬間導航，不再是夢想！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/making-v0-navigations-instant/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/making-v0-navigations-instant",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "011",
+    "title": "颱風預報革命！WeatherNext AI 模型突破預測極限",
+    "summary": "颱風來襲前，你最想知道的是什麼？現在，有一款 AI 模型能夠準確預測颱風的路徑和強度，讓你有充足的時間準備",
+    "content": "<p>颱風預報一直是氣象學的一大挑戰，但現在，有一款 AI 模型能夠準確預測颱風的路徑和強度。WeatherNext AI 模型使用尖端的算法和大數據分析，能夠提供最準確的預測結果。</p><h2>什麼是 WeatherNext?</h2><p>WeatherNext 是一款使用 AI 技術的颱風預報系統，能夠準確預測颱風的路徑和強度。這項技術可以幫助減少颱風帶來的損失和傷害，讓人們有充足的時間準備和應對。</p><h2>如何運作?</h2><p>WeatherNext 的運作原理是使用大數據分析和機器學習算法，分析颱風的路徑和強度的模式和趨勢。這項技術可以提供最準確的預測結果，讓人們可以做出最好的決定。</p><h2>編輯悄悄話</h2><p>颱風預報，從此不再是『猜』的遊戲。有了 WeatherNext，我們可以更好地準備和應對颱風，減少損失和傷害。這項技術的開發和應用，是氣象學的一大突破，我們期待著它的未來發展。</p>",
+    "score": 90,
+    "takeaways": [
+      "WeatherNext AI 模型可以準確預測颱風的路徑和強度",
+      "這項技術可以幫助減少颱風帶來的損失和傷害",
+      " WeatherNext 的開發團隊正在不斷改進和更新這項技術"
+    ],
+    "punchline": "颱風預報，從此不再是『猜』的遊戲",
+    "social_posts": {
+      "threads": "你最想知道的颱風預報情報\n\n現在，有一款 AI 模型能夠準確預測颱風的路徑和強度\n\n讓你有充足的時間準備和應對\n\n#WeatherNext #颱風預報",
+      "facebook": "颱風預報革命！WeatherNext AI 模型突破預測極限\n\n現在，你可以更好地準備和應對颱風，減少損失和傷害\n\n詳情請見：[連結]\n\n#WeatherNext #颱風預報",
+      "viral_hook": "颱風來襲前，你最想知道的是什麼？"
+    },
+    "image": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "012",
+    "title": "AI泡沫即將破裂？OpenAI模型黑客入侵事件揭示隱藏的危機",
+    "summary": "近期，OpenAI模型黑客入侵事件引發了業界的關注。這一事件不僅僅是模型安全性的問題，更是反映了AI業界的潛在危機。AI泡沫是否即將破裂？",
+    "content": "<p>近期，OpenAI模型黑客入侵事件引發了業界的關注。這一事件不僅僅是模型安全性的問題，更是反映了AI業界的潛在危機。</p><h2>AI安全性問題</h2><p>OpenAI模型黑客入侵事件是一個嚴重的安全性問題。模型的安全性是AI業界的一個基本問題，如果模型被黑客入侵，可能會導致嚴重的後果。</p><h2>AI泡沫可能即將破裂</h2><p>AI泡沫可能即將破裂，投資者應該注意風險。AI業界的發展是非常迅速的，但是這也意味著風險的增加。投資者應該注意AI業界的風險，避免投資失誤。</p><h2>業界需要加強對AI安全性的重視和控制</h2><p>業界需要加強對AI安全性的重視和控制。AI安全性是AI業界的一個基本問題，業界需要加強對AI安全性的重視和控制，避免安全性問題的發生。</p><h2>編輯悄悄話</h2><p>AI泡沫即將破裂？這是一個非常嚴肅的問題。投資者應該注意風險，業界需要加強對AI安全性的重視和控制。讓我們一起關注AI業界的發展，避免安全性問題的發生。</p>",
+    "score": 85,
+    "takeaways": [
+      "OpenAI模型黑客入侵事件揭示了AI業界的安全性問題",
+      "AI泡沫可能即將破裂，投資者應該注意風險",
+      "業界需要加強對AI安全性的重視和控制"
+    ],
+    "punchline": "AI泡沫即將破裂？",
+    "social_posts": {
+      "threads": "近期，OpenAI模型黑客入侵事件引發了業界的關注。這一事件不僅僅是模型安全性的問題，更是反映了AI業界的潛在危機。AI泡沫可能即將破裂？",
+      "facebook": "近期，OpenAI模型黑客入侵事件引發了業界的關注。這一事件不僅僅是模型安全性的問題，更是反映了AI業界的潛在危機。AI泡沫可能即將破裂？",
+      "viral_hook": "AI泡沫即將破裂？"
+    },
+    "image": "https://martinfowler.com/logo-sq.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/fragments/2026-08-04.html",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "013",
+    "title": "ChatGPT最新升級！免費用戶也能享受高級功能",
+    "summary": "ChatGPT推出升級版GPT-5.6 Sol，提供更準確和一致的回答，同時免費用戶也能享受GPT-5.6 Luna的無限聊天功能",
+    "content": "<p>ChatGPT一直致力於提供更好的聊天體驗，現在他們又推出了升級版GPT-5.6 Sol。這個新版本提供更準確和一致的回答，能夠更好地支持日常對話和複雜問題。</p><h2>升級版GPT-5.6 Sol的優點</h2><p>升級版GPT-5.6 Sol能夠提供更準確和一致的回答，尤其是在需要事實細節的問題上。根據內部評估，升級版GPT-5.6 Sol的回答中錯誤率降低了62%，而GPT-5.6 Luna的錯誤率降低了68%。</p><h2>免費用戶也能享受高級功能</h2><p>除了升級版GPT-5.6 Sol，ChatGPT還推出了免費用戶的GPT-5.6 Luna無限聊天功能。這意味著免費用戶也能享受高級功能，無需付費就能體驗到高級聊天功能。</p><h2>編輯悄悄話</h2><p>ChatGPT的升級版GPT-5.6 Sol和免費用戶的GPT-5.6 Luna無限聊天功能，讓我們看到人工智慧技術的發展方向。未來，人工智慧技術將更加普及和親民，讓更多人能夠享受其帶來的便利和效率。</p>",
+    "score": 90,
+    "takeaways": [
+      "升級版GPT-5.6 Sol提供更準確和一致的回答",
+      "免費用戶可享受GPT-5.6 Luna的無限聊天功能",
+      "新版GPT-5.6 Sol能夠更好地支持日常對話和複雜問題"
+    ],
+    "punchline": "升級版GPT-5.6 Sol，讓你的聊天體驗更上一層樓",
+    "social_posts": {
+      "threads": "ChatGPT最新升級！\n免費用戶也能享受高級功能\n升級版GPT-5.6 Sol提供更準確和一致的回答\n免費用戶可享受GPT-5.6 Luna的無限聊天功能\n新版GPT-5.6 Sol能夠更好地支持日常對話和複雜問題",
+      "facebook": "ChatGPT最新升級！升級版GPT-5.6 Sol提供更準確和一致的回答，同時免費用戶也能享受GPT-5.6 Luna的無限聊天功能。點擊連結了解更多詳細資訊。",
+      "viral_hook": "ChatGPT最新升級！免費用戶也能享受高級功能"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5ufNl1zzui8XrAogWs5j89/13fdcb619e5f1e31a3efd34f425477ac/Art_Card_16x9__1_.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "date": "2026-08-07"
+  }
+]
