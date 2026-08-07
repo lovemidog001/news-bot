@@ -328,5 +328,93 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/hsp-gruppe",
     "date": "2026-08-07"
+  },
+  {
+    "id": "016",
+    "title": "AI 老師該出手時就出手？揭開 TutorMoments 的秘密",
+    "summary": "TutorMoments 的 AI 老師能否準確判斷學生何時需要幫助？一起探索這項教育科技的秘密",
+    "content": "<p>在教育科技的發展下，TutorMoments 的 AI 老師已經成為了一種趨勢。但是，大家都會疑問，AI 老師該出手時就出手嗎？</p>    <h2>什麼是 TutorMoments？</h2>    <p>TutorMoments 是一種基於 AI 的教育平台，旨在提供個性化的學習體驗給學生。這個平台使用機器學習算法來分析學生的表現，並根據需要提供幫助。</p>    <h2>AI 老師的出手時機</h2>    <p>那么，AI 老師該出手時就出手嗎？答案是，當學生需要幫助時，AI 老師就會出手。TutorMoments 的 AI 算法可以根據學生的表現調整幫助程度，讓學生得到最適合的幫助。</p>    <h2>編輯悄悄話</h2>    <p>其實，AI 老師的出手時機，決定學生的未來。所以，讓我們一起探索這項教育科技的秘密，為學生的未來加油吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "TutorMoments 的 AI 算法可以根據學生的表現調整幫助程度",
+      "這項科技有助於提高學生的自主學習能力",
+      "AI 老師的幫助時機對學生的學習成果有著重要影響"
+    ],
+    "punchline": "AI 老師的出手時機，決定學生的未來",
+    "social_posts": {
+      "threads": "你們有沒有想過，AI 老師該出手時就出手嗎？\n一起探索 TutorMoments 的秘密吧！\n#AI老師 #TutorMoments",
+      "facebook": "探索 TutorMoments 的秘密！這項教育科技如何幫助學生得到最適合的幫助？分享你的想法吧！",
+      "viral_hook": "AI 老師的出手時機，決定學生的未來！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/j9L73K19mkz-n8Rr8ZI_B.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/tutormoments",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "017",
+    "title": "醫療政策數位化的革命：Cohere Health 如何使用 Amazon Bedrock AgentCore 改變醫療行業",
+    "summary": "Cohere Health 利用 Amazon Bedrock AgentCore 建立多租戶代理架構，實現醫療政策數位化，提高工作效率和透明度",
+    "content": "<p>醫療行業中的前置授權流程一直是最手動的程序之一，主要原因是醫療政策被困在靜態、非結構化的格式中。Cohere Health，一家 致力於醫療智能的公司，使用 Amazon Bedrock AgentCore 建立了 Cohere Policy Studio，實現了醫療政策的數位化。</p>    <h2>什麼是 Cohere Policy Studio？</h2>    <p>Cohere Policy Studio是一個基於Amazon Bedrock AgentCore的多租戶代理架構，提供了安全的微虛擬機隔離、統一的工具存取和記憶體管理。這個平台可以加速醫療政策的數位化，同時保留透明度、版本控制和人工監督。</p>    <h2>如何實現醫療政策數位化</h2>    <p>數位化醫療政策可以通過將靜態文件和PDF轉換為結構化、機器可讀的數據來實現。Cohere Health使用AgentCore Runtime的安全微虛擬機隔離、統一工具存取和記憶體管理，建立了一個統一的代理系統，實現了醫療政策的數位化。</p>    <h2>編輯悄悄話</h2>    <p>醫療政策數位化是醫療行業的一個重要革命，通過Cohere Health和Amazon Bedrock AgentCore的合作，我們可以看到醫療政策數位化的未來。讓我們一起期待這個未來，讓醫療更智能、更高效。",
+    "score": 90,
+    "takeaways": [
+      "醫療政策數位化可以提高工作效率和透明度",
+      "Cohere Health 使用 Amazon Bedrock AgentCore 建立多租戶代理架構",
+      "數位化醫療政策可以改善患者的醫療服務"
+    ],
+    "punchline": "醫療政策數位化，讓醫療更智能",
+    "social_posts": {
+      "threads": "你知道嗎？醫療政策數位化可以提高工作效率和透明度！Cohere Health使用Amazon Bedrock AgentCore建立了多租戶代理架構，實現了醫療政策的數位化。讓我們一起期待這個未來，讓醫療更智能、更高效。",
+      "facebook": "醫療政策數位化的革命：Cohere Health如何使用Amazon Bedrock AgentCore改變醫療行業。點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "醫療政策數位化，讓醫療更智能！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/07/ml-19805.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-cohere-health-digitizes-clinical-policies-using-amazon-bedrock-agentcore/",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "018",
+    "title": "AI 讀懂老代码的逆襲：從胡言亂語到精準改碼",
+    "summary": "讓 AI 讀懂老項目，將真實債務項目重構成 AI 可維護項目，節省時間和成本",
+    "content": "<p>你是否曾經面臨過老項目的維護問題？老項目的代码亂七八糟，讓你頭痛不已？現在，AI 可以幫助你解決這個問題。</p>    <h2>什麼是 AI 可維護項目</h2>    <p>AI 可維護項目是指使用 AI 技術來維護和更新項目的代码。這樣可以節省時間和成本，讓你的項目更具競爭力。</p>    <p>但是，如何讓 AI 讀懂老項目的代码呢？這是很多人面臨的問題。現在，我們有了一個解決方案。</p>    <h2>如何讓 AI 讀懂老項目的代码</h2>    <p>首先，你需要將老項目的代码重構成 AI 可維護的格式。這需要一些技術和工具來完成。然後，你可以使用 AI 技術來維護和更新你的項目。</p>    <p>這樣，不僅可以節省時間和成本，還可以讓你的項目更具競爭力。</p>    <h2>編輯悄悄話</h2>    <p>讓 AI 讀懂老項目的代码，是一個非常酷的事情。它可以幫助你解決很多問題，節省時間和成本。所以，趕快來試試吧！",
+    "score": 90,
+    "takeaways": [
+      "AI 可以幫助重構老項目",
+      "重構老項目可以節省時間和成本",
+      "AI 可維護項目是未來的趨勢"
+    ],
+    "punchline": "AI 讀懂老代码，讓你的項目重生",
+    "social_posts": {
+      "threads": "你是否曾經面臨過老項目的維護問題？\n現在，AI 可以幫助你解決這個問題。\n讓 AI 讀懂老項目的代码，是一個非常酷的事情。\n它可以幫助你解決很多問題，節省時間和成本。",
+      "facebook": "讓 AI 讀懂老項目的代码，是一個非常酷的事情。它可以幫助你解決很多問題，節省時間和成本。分享給你的朋友吧！",
+      "viral_hook": "AI 讀懂老代码，讓你的項目重生！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803058&idx=1&sn=f3ed1b512d61666ebc7d4852a33911b5",
+    "date": "2026-08-07"
+  },
+  {
+    "id": "019",
+    "title": "AI 模型 Astra 將引發的網路安全革命：什麼會改變？",
+    "summary": "OpenAI 的最新模型 Astra 可能具備關鍵的網路安全能力，挑戰現有的防禦措施。了解這項技術的影響和公司的應對措施。",
+    "content": "<p>網路安全的世界即將面臨一場革命。OpenAI 的最新模型 Astra 可能具備關鍵的網路安全能力，挑戰現有的防禦措施。這項技術的影響不僅僅是網路安全，還可能改變整個數位世界。</p>    <h2>什麼是 Astra 模型？</h2>    <p>Astra 是 OpenAI 的最新模型，具有先進的網路安全能力。根據公司的初步評估，Astra 可能達到關鍵的網路安全能力，挑戰現有的防禦措施。這項技術的影響不僅僅是網路安全，還可能改變整個數位世界。</p>    <h2>OpenAI 的應對措施</h2>    <p>OpenAI 正在加強安全防護和控制措施以應對這項技術。公司已經擴大了強韌性測試和安全控制，確保 Astra 模型的安全部署。同時，公司也致力於與政府、安全機構和民間社會合作，負責地部署這項技術。</p>    <h2>編輯悄悄話</h2>    <p>網路安全的世界即將面臨一場革命。Astra 模型的網路安全能力即將超越人類！我們需要關注這項技術的影響和公司的應對措施，共同創建一個更安全的數位世界。</p>",
+    "score": 90,
+    "takeaways": [
+      "Astra 模型可能達到關鍵的網路安全能力，挑戰現有的防禦措施",
+      "OpenAI 正在加強安全防護和控制措施以應對這項技術",
+      "公司致力於與政府、安全機構和民間社會合作，負責地部署這項技術"
+    ],
+    "punchline": "AI 模型的網路安全能力即將超越人類！",
+    "social_posts": {
+      "threads": "你知道嗎？AI 模型的網路安全能力即將超越人類！\nOpenAI 的最新模型 Astra 可能具備關鍵的網路安全能力，挑戰現有的防禦措施。\n讓我們關注這項技術的影響和公司的應對措施，共同創建一個更安全的數位世界。",
+      "facebook": "AI 模型的網路安全能力即將超越人類！OpenAI 的最新模型 Astra 可能具備關鍵的網路安全能力，挑戰現有的防禦措施。了解這項技術的影響和公司的應對措施，共同創建一個更安全的數位世界。",
+      "viral_hook": "AI 模型的網路安全能力即將超越人類！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2OqBX7eh31rmzCVTZrZgb6/8c852b5a1f787c1fea8ac9de5a33d2db/Frame.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "date": "2026-08-07"
   }
 ]
