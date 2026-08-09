@@ -284,5 +284,27 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
     "date": "2026-08-09"
+  },
+  {
+    "id": "014",
+    "title": "Next.js 16.3 的 Instant Navigations：讓你的網頁瞬間載入！",
+    "summary": "Next.js 16.3 推出 Instant Navigations，讓你的網頁瞬間載入，沒有延遲！",
+    "content": "<p>你是否厭煩網頁載入的延遲？Next.js 16.3 推出 Instant Navigations，讓你的網頁瞬間載入，沒有延遲！</p>    <h2>什麼是 Instant Navigations？</h2>    <p>Instant Navigations 是 Next.js 16.3 的新功能，讓網頁可以瞬間載入，無需等待。這是通過使用新的 primitive 來實現的，讓開發者可以輕鬆實現 Instant Navigations。</p>    <p>Next.js 16.3 的 Instant Navigations 不僅可以提高用戶體驗，也可以提高網站性能。通過使用 Instant Navigations，開發者可以讓網頁載入更快，減少用戶等待時間，提高用戶滿意度。</p>    <h2>如何實現 Instant Navigations？</h2>    <p>要實現 Instant Navigations，開發者需要使用 Next.js 16.3 的新功能，包括 instant() 測試幫助器和 Instant Insights 功能。instant() 測試幫助器讓開發者可以寫測試來驗證網頁是否瞬間載入，而 Instant Insights 功能可以自動顯示非瞬間路由。</p>    <p>開發者可以使用這些功能來實現 Instant Navigations，讓網頁瞬間載入，無延遲！</p>    <h2>編輯悄悄話</h2>    <p>Next.js 16.3 的 Instant Navigations 是一個重大的突破，讓開發者可以輕鬆實現瞬間載入的網頁。不要再等待，立即使用 Next.js 16.3 的 Instant Navigations，讓你的網頁瞬間載入，無延遲！</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.3 提供 Instant Navigations，讓網頁瞬間載入",
+      "使用 Instant Navigations 可以提高用戶體驗和網站性能",
+      "Next.js 16.3 的新功能讓開發者可以輕鬆實現 Instant Navigations"
+    ],
+    "punchline": "瞬間載入，無延遲！",
+    "social_posts": {
+      "threads": "你是否厭煩網頁載入的延遲？\nNext.js 16.3 推出 Instant Navigations，讓你的網頁瞬間載入，沒有延遲！\n#Nextjs #InstantNavigations",
+      "facebook": "Next.js 16.3 的 Instant Navigations 讓你的網頁瞬間載入，無延遲！\n提高用戶體驗和網站性能，立即使用 Next.js 16.3 的 Instant Navigations！",
+      "viral_hook": "瞬間載入，無延遲！Next.js 16.3 的 Instant Navigations 讓你的網頁瞬間載入！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/making-v0-navigations-instant/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/making-v0-navigations-instant",
+    "date": "2026-08-09"
   }
 ]
