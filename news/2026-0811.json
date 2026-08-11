@@ -262,5 +262,93 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
     "date": "2026-08-11"
+  },
+  {
+    "id": "013",
+    "title": "用更少的Token也能實現ACE？最新研究成果揭曉",
+    "summary": "研究人員發現，用更少的Token也能達到ACE的效果，對於AI發展有重要意義",
+    "content": "<p>近期，一項最新的研究成果引起了廣泛關注。研究人員發現，用更少的Token也能達到ACE的效果，這對於AI發展有重要意義。</p>    <h2>什麼是ACE？</h2>    <p>ACE是一種高級的AI技術，需要大量的Token來實現。但是，研究人員發現，用更少的Token也能達到相同的效果，這項發現對於AI發展有重要意義。</p>    <h2>研究成果的意義</h2>    <p>這項研究成果意味著，未來AI應用將更加高效。用更少的Token，做更多的事，將成為未來AI發展的趨勢。</p>    <h2>編輯悄悄話</h2>    <p>這項研究成果真是太酷了！用更少的Token，做更多的事，真的是一個革命性的想法。未來AI發展將更加令人期待！</p>",
+    "score": 90,
+    "takeaways": [
+      "ACE可以用更少的Token實現",
+      "這項研究成果對於AI發展有重要意義",
+      "未來AI應用將更加高效"
+    ],
+    "punchline": "用更少的Token，做更多的事",
+    "social_posts": {
+      "threads": "你知道嗎？用更少的Token也能實現ACE？最新研究成果揭曉！\n這對於AI發展有重要意義\n未來AI應用將更加高效",
+      "facebook": "用更少的Token，做更多的事！最新研究成果揭曉！這項研究成果對於AI發展有重要意義，未來AI應用將更加高效。分享給你的朋友們，讓他們也知道這個酷炫的消息！",
+      "viral_hook": "用更少的Token，做更多的事？最新研究成果揭曉！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/G2z5bU66FNnhBf_UhSNij.jpeg",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "014",
+    "title": "AI 防護新時代：Daybreak Red 和 Daybreak Blue 登場，讓你的網路安全更上一層樓",
+    "summary": "OpenAI 和 AWS 聯手推出 Daybreak Red 和 Daybreak Blue，為網路安全帶來革命性的變革，讓你的敏感資料更安全",
+    "content": "<p>網路安全是一個越來越重要的議題，尤其是在現在的數位時代。隨著網路攻擊的不斷增加，網路安全人員需要更強大的工具來保護自己的系統和資料。這就是 OpenAI 和 AWS 聯手推出 Daybreak Red 和 Daybreak Blue 的原因。</p>    <h2>什麼是 Daybreak Red 和 Daybreak Blue？</h2>    <p>Daybreak Red 和 Daybreak Blue 是 OpenAI 推出的兩個網路安全模型，分別為 Daybreak Red 和 Daybreak Blue。Daybreak Red 提供了先進的網路安全功能，能夠快速發現和修復漏洞，而 Daybreak Blue 則提供了更強大的防護功能，能夠有效地防止網路攻擊。</p>    <h2>如何使用 Daybreak Red 和 Daybreak Blue</h2>    <p>Daybreak Red 和 Daybreak Blue 運行在 Amazon Bedrock 上，保證了資料的安全和控制。網路安全人員可以使用這兩個模型來快速發現和修復漏洞，同時也可以使用它們來進行網路安全研究和開發。</p>    <h2>編輯悄悄話</h2>    <p>網路安全是一個永無止境的戰爭，需要不斷地更新和改進自己的防護措施。Daybreak Red 和 Daybreak Blue 的出現，為網路安全帶來了一個新的時代。讓我們一起迎接這個挑戰，打造一個更安全的網路世界！",
+    "score": 90,
+    "takeaways": [
+      "Daybreak Red 和 Daybreak Blue 提供了先進的網路安全功能，能夠快速發現和修復漏洞",
+      "這兩個模型運行在 Amazon Bedrock 上，保證了資料的安全和控制",
+      "通過 Daybreak Red 和 Daybreak Blue，網路安全人員可以更快速和有效地反應和修復漏洞"
+    ],
+    "punchline": "AI 防護新時代來了！",
+    "social_posts": {
+      "threads": "大家好！今天我要分享一個非常重要的網路安全消息。OpenAI 和 AWS 聯手推出 Daybreak Red 和 Daybreak Blue，為網路安全帶來革命性的變革。這兩個模型能夠快速發現和修復漏洞，讓你的敏感資料更安全。讓我們一起迎接這個挑戰，打造一個更安全的網路世界！#網路安全 #DaybreakRed #DaybreakBlue",
+      "facebook": "網路安全是一個越來越重要的議題，尤其是在現在的數位時代。OpenAI 和 AWS 聯手推出 Daybreak Red 和 Daybreak Blue，為網路安全帶來革命性的變革。這兩個模型能夠快速發現和修復漏洞，讓你的敏感資料更安全。點擊連結了解更多：[連結]",
+      "viral_hook": "AI 防護新時代來了！Daybreak Red 和 Daybreak Blue 登場，讓你的網路安全更上一層樓！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/11/Screenshot-2026-08-11-at-4.37.01 PM-1130x630.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-cyber-defense-with-openai-and-aws-daybreak-red-daybreak-blue-now-available-to-eligible-customers-on-amazon-bedrock/",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "015",
+    "title": "AI 革命來了！Opus 5、Gemini 3.6 等新科技將改變你的未來",
+    "summary": "Anthropic 的 Opus 5 和 Google 的 Gemini 3.6 等新科技將帶來什麼變化？了解最新 AI 趨勢和發展，洞察未來的可能性",
+    "content": "<p>最近的 AI 新聞中，Anthropic 的 Opus 5 和 Google 的 Gemini 3.6 等新科技成為了焦點。這些新技術將如何改變我們的生活和工作？讓我們一起探討一下最新的 AI 趨勢和發展。</p>    <h2>Opus 5 和 Gemini 3.6 的登場</h2>    <p>Anthropic 的 Opus 5 擁有 Fable 5-like 的功能，能夠處理複雜的任務和問題。Google 的 Gemini 3.6 等新 Gemini AI 模型則提供了更好的性能和效率。這些新技術將如何改變我們的生活和工作？</p>    <h2>AI 將如何改變你的未來</h2>    <p>AI 的發展將帶來許多變化，從工作和生活到教育和娛樂。了解最新的 AI 趨勢和發展，能夠幫助你準備好迎接未來的挑戰和機會。所以，讓我們一起關注 AI 的最新發展，共同探討未來的可能性。</p>    <h2>編輯悄悄話</h2>    <p>AI 的革命來了，準備好迎接未來吧！雖然這些新技術將帶來許多變化，但也將提供許多機會和挑戰。讓我們一起面對未來，共同創造一個更好的世界。</p>",
+    "score": 90,
+    "takeaways": [
+      "Anthropic 的 Opus 5 擁有 Fable 5-like 的功能",
+      "Google 釋出三個新 Gemini AI 模型",
+      "AI 將如何改變你的生活和工作"
+    ],
+    "punchline": "AI 革命來了，準備好迎接未來吧！",
+    "social_posts": {
+      "threads": "最近的 AI 新聞中，Anthropic 的 Opus 5 和 Google 的 Gemini 3.6 等新科技成為了焦點。這些新技術將如何改變我們的生活和工作？讓我們一起探討一下最新的 AI 趨勢和發展。 #AI #Opus5 #Gemini36",
+      "facebook": "了解最新的 AI 趨勢和發展，洞察未來的可能性。Anthropic 的 Opus 5 和 Google 的 Gemini 3.6 等新科技將帶來什麼變化？加入討論，共同探討未來的可能性。",
+      "viral_hook": "AI 革命來了，準備好迎接未來吧！"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/MNS7GtfmoXg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-253-opus-5-gemini-36",
+    "date": "2026-08-11"
+  },
+  {
+    "id": "016",
+    "title": "ChatGPT開始測試廣告！你的對話還是安全的嗎？",
+    "summary": "OpenAI開始在ChatGPT測試廣告，強調廣告不會影響答案，並且會明確標示和保護用戶隱私",
+    "content": "<p>你是否曾擔心ChatGPT的廣告會影響你的對話體驗？現在，OpenAI開始在ChatGPT測試廣告，強調廣告不會影響答案，並且會明確標示和保護用戶隱私。</p>    <h2>廣告與隱私</h2>    <p>ChatGPT的廣告將根據用戶的對話內容和過往互動進行匹配，且廣告將明確標示為「贊助內容」，與回答內容分開顯示。此外，廣告商將不會有權存取用戶的對話內容、聊天記錄或個人詳細資料。</p>    <p>如果你對廣告感到擔憂，可以升級到無廣告的計畫，或者選擇不顯示廣告，並換取較少的每日免費訊息數量。</p>    <h2>編輯悄悄話</h2>    <p>雖然廣告的出現可能會對一些用戶造成影響，但OpenAI的廣告原則和實施方式值得肯定。讓我們一起關注ChatGPT廣告的發展，確保用戶的體驗和隱私受到保護吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "ChatGPT的廣告不會影響答案的內容",
+      "用戶可以控制是否顯示廣告，甚至可以升級到無廣告的計畫",
+      "廣告將根據用戶的對話內容和過往互動進行匹配"
+    ],
+    "punchline": "廣告不會影響答案，隱私仍然受到保護",
+    "social_posts": {
+      "threads": "你們是否擔心ChatGPT的廣告會影響你的對話體驗？\n現在，OpenAI開始在ChatGPT測試廣告，強調廣告不會影響答案，並且會明確標示和保護用戶隱私...\n#ChatGPT #廣告 #隱私",
+      "facebook": "ChatGPT開始測試廣告！你的對話還是安全的嗎？\n點擊連結了解更多：[連結]\n#ChatGPT #廣告 #隱私",
+      "viral_hook": "廣告不會影響答案，隱私仍然受到保護！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/21TdmlEzFwgoo7ZER7SNCV/001b3d542fd4d025a2dcd1a5ab9417fe/OAI_AdsTest_Blog_OpenGraph_1200x630.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "date": "2026-08-11"
   }
 ]
