@@ -262,5 +262,159 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "date": "2026-08-12"
+  },
+  {
+    "id": "013",
+    "title": "揭秘 OlmoEarth Embeddings：自訂模型出口的強大分析工具",
+    "summary": "想像一下，你可以輕鬆地將複雜的地球資料轉換成簡單的數據模型，進行深入分析。OlmoEarth Embeddings 讓這一切變得可能，讓你輕鬆掌握地球資料的奧祕",
+    "content": "<p>你是否曾經想過如何將複雜的地球資料轉換成簡單的數據模型，進行深入分析？現在，OlmoEarth Embeddings 讓這一切變得可能。這項革命性的技術提供自訂模型出口功能，讓用戶可以根據自己的需求進行分析。</p>    <h2>什麼是 OlmoEarth Embeddings?</h2>    <p>OlmoEarth Embeddings 是一種自訂模型出口技術，讓用戶可以將複雜的地球資料轉換成簡單的數據模型。這項技術可以應用於各種領域，包括環境監測、氣候變化研究等。</p>    <h2>如何使用 OlmoEarth Embeddings?</h2>    <p>使用 OlmoEarth Embeddings 非常簡單。用戶只需將自己的地球資料上傳到 OlmoEarth Studio，然後選擇所需的模型出口格式，就可以輕鬆地進行分析。</p>    <h2>編輯悄悄話</h2>    <p> OlmoEarth Embeddings 真的很強大，不是嗎？現在，你可以輕鬆地掌握地球資料的奧祕。快來試試吧！",
+    "score": 85,
+    "takeaways": [
+      "OlmoEarth Embeddings 提供自訂模型出口功能，讓用戶可以根據自己的需求進行分析",
+      "這項技術可以將複雜的地球資料轉換成簡單的數據模型，方便用戶進行分析",
+      "OlmoEarth Embeddings 的應用領域廣泛，包括環境監測、氣候變化研究等"
+    ],
+    "punchline": "讓地球資料變得簡單易懂",
+    "social_posts": {
+      "threads": "你知道嗎？現在有了一種超強大的工具，可以讓你輕鬆地將複雜的地球資料轉換成簡單的數據模型。它叫做 OlmoEarth Embeddings，有興趣的話可以去看看",
+      "facebook": "發現了一種革命性的技術 - OlmoEarth Embeddings！它可以讓你輕鬆地將複雜的地球資料轉換成簡單的數據模型。現在，讓我們一起探索地球資料的奧祕吧！",
+      "viral_hook": "地球資料變得簡單易懂了！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/u9KR_QjSYF7mJIbRE3Ni8.jpeg",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "014",
+    "title": "Amazon Bedrock 成本歸因大揭密：如何使用 Amazon Athena 和 CUDOS 來分析你的 AI 支出",
+    "summary": "了解如何使用 Amazon Athena 和 CUDOS 來分析 Amazon Bedrock 的成本歸因，讓你更好地控制你的 AI 支出",
+    "content": "<p>你是否曾經想過如何更好地控制你的 Amazon Bedrock 支出？現在，有了一個新的方法可以幫助你做到這一點。使用 Amazon Athena 和 CUDOS，你可以輕鬆地分析和視覺化你的 Bedrock 支出，讓你更好地了解你的 AI 支出情況。</p>    <h2>什麼是 Amazon Bedrock 成本歸因？</h2>    <p>Amazon Bedrock 的成本歸因功能可以自動追蹤每個推斷請求的 IAM 主體，這意味著你可以更好地了解你的 AI 支出是如何被使用的。使用這個功能，你可以輕鬆地追蹤你的 Bedrock 支出按團隊、項目或租戶。</p>    <h2>如何使用 Amazon Athena 和 CUDOS 來分析你的 Bedrock 支出</h2>    <p>要使用 Amazon Athena 和 CUDOS 來分析你的 Bedrock 支出，你需要先設定你的 Cost and Usage Report (CUR) 2.0，並將其連接到 Amazon Athena。然後，你可以使用 Amazon Athena 的 SQL 查詢功能來分析你的 CUR 數據，從而得到更深入的見解。</p>    <p>使用 CUDOS 來視覺化你的 Bedrock 支出，你可以輕鬆地看到你的支出趨勢和模式，從而做出更好的決策。</p>    <h2>編輯悄悄話</h2>    <p>掌控你的 AI 支出，從這裡開始。使用 Amazon Athena 和 CUDOS 來分析和視覺化你的 Bedrock 支出，你可以更好地了解你的 AI 支出情況，從而做出更好的決策。不要等待，現在就開始吧！",
+    "score": 90,
+    "takeaways": [
+      "Amazon Bedrock 的成本歸因功能可以自動追蹤每個推斷請求的 IAM 主體",
+      "使用 Amazon Athena 和 CUDOS 來分析和視覺化你的 Bedrock 支出",
+      "可以使用成本分配標籤來聚合支出按團隊、項目或租戶"
+    ],
+    "punchline": "掌控你的 AI 支出，從這裡開始",
+    "social_posts": {
+      "threads": "你知道嗎？Amazon Bedrock 的成本歸因功能可以自動追蹤每個推斷請求的 IAM 主體！使用 Amazon Athena 和 CUDOS 來分析和視覺化你的 Bedrock 支出，你可以更好地控制你的 AI 支出。#AmazonBedrock #CostAttribution #AIAccountability",
+      "facebook": "掌控你的 AI 支出，從這裡開始！使用 Amazon Athena 和 CUDOS 來分析和視覺化你的 Bedrock 支出，你可以更好地了解你的 AI 支出情況，從而做出更好的決策。點擊連結了解更多！",
+      "viral_hook": "你的 AI 支出正在失控嗎？"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/10/ML-21078-featured-image.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "015",
+    "title": "WhatsApp 新增反詐騙警報！用機器學習模型保護你的安全",
+    "summary": "WhatsApp 推出 Scam Alert 功能，使用機器學習模型識別詐騙訊息，保護用戶安全同時保留端到端加密",
+    "content": "<p>WhatsApp 正在努力保護用戶的安全，同時也要確保訊息的私密性。隨著詐騙手法的演變，WhatsApp 也在不斷進化，以保持領先於詐騙者的步伐。</p>    <h2>什麼是 Scam Alert?</h2>    <p>Scam Alert 是 WhatsApp 的一個新功能，使用機器學習模型識別詐騙訊息。該功能是可選擇的，當用戶啟用後，機器學習模型會下載到用戶的設備上，然後識別來自非聯繫人的訊息是否為詐騙。</p>    <h2>如何工作?</h2>    <p>當機器學習模型識別出一個可能的詐騙訊息時，會在聊天窗口中顯示一個警報。用戶可以自行決定如何處理這個訊息，是否阻止、報告或繼續聊天。如果用戶認為警報是錯誤的，可以標記為可信任的聊天，則警報會被移除。</p>    <h2>編輯悄悄話</h2>    <p>保護你的安全，是我們的責任。Scam Alert 是一個重要的功能，幫助你避免詐騙。記得要啟用這個功能，保護你的安全和私密性！</p>",
+    "score": 90,
+    "takeaways": [
+      "Scam Alert 是一個可選擇的功能，使用機器學習模型識別詐騙訊息",
+      "該功能不會將訊息內容傳送到伺服器，所有資料都在用戶設備上處理",
+      "用戶可以自行決定是否啟用 Scam Alert，並可以標記錯誤的警報"
+    ],
+    "punchline": "保護你的安全，不再是夢想！",
+    "social_posts": {
+      "threads": "你知道 WhatsApp 有一個新的反詐騙功能嗎？\nScam Alert 使用機器學習模型識別詐騙訊息，保護你的安全同時保留端到端加密。\n試試看吧！",
+      "facebook": "WhatsApp 新增反詐騙警報！用機器學習模型保護你的安全。點擊連結了解更多：https://www.facebook.com/WhatsApp/",
+      "viral_hook": "別再被詐騙了！WhatsApp 新增 Scam Alert 功能，幫助你避免詐騙。"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/WhatsApp-Scam-Alert.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "016",
+    "title": "WorkBuddy從入門到精通的終極指南！3萬字長文帶你輕鬆上手",
+    "summary": "你想成為WorkBuddy的高手嗎？這份指南將帶你從入門到精通，讓你輕鬆上手",
+    "content": "<p>你是否正在尋找一份WorkBuddy的完整指南？你是否想成為WorkBuddy的高手？這份指南將帶你從入門到精通，讓你輕鬆上手。</p>    <h2>WorkBuddy的基本功能和操作</h2>    <p>WorkBuddy是一款強大的工具，它可以幫助你提高工作效率和生產力。但是，你可能不知道如何使用它。這個章節將介紹WorkBuddy的基本功能和操作，讓你輕鬆上手。</p>    <ul>      <li>如何創建和管理工作任務</li>      <li>如何使用WorkBuddy的時間管理功能</li>      <li>如何與團隊成員合作</li>    </ul>    <h2>WorkBuddy的高級技巧和應用</h2>    <p>一旦你掌握了WorkBuddy的基本功能和操作，你就可以開始探索它的高級技巧和應用。這個章節將介紹WorkBuddy的高級技巧和應用，讓你可以更好地使用它。</p>    <p>例如，你可以使用WorkBuddy的自動化功能來簡化你的工作流程，你也可以使用WorkBuddy的分析功能來優化你的工作效率。</p>    <h2>編輯悄悄話</h2>    <p>這份指南不是只有理論，它還包含了實際的例子和案例。所以，你可以輕鬆地將WorkBuddy的功能和技巧應用到你的工作中。從入門到精通，只需一份指南。快來下載吧！",
+    "score": 90,
+    "takeaways": [
+      "WorkBuddy的基本功能和操作",
+      "如何使用WorkBuddy提高工作效率",
+      "WorkBuddy的高級技巧和應用"
+    ],
+    "punchline": "從入門到精通，只需一份指南",
+    "social_posts": {
+      "threads": "你想成為WorkBuddy的高手嗎？這份指南將帶你從入門到精通，讓你輕鬆上手。從基本功能到高級技巧，一步步帶你成為WorkBuddy的專家。",
+      "facebook": "分享這份WorkBuddy的完整指南給你的朋友和同事吧！讓他們也能輕鬆上手，提高工作效率和生產力。",
+      "viral_hook": "從入門到精通，只需一份指南！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803569&idx=1&sn=325170a0e2bd7117d51dfabbbd79539b",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "017",
+    "title": "AI 寫程式大爆炸：GitHub、Vercel、Replit 如何重新定位？",
+    "summary": "AI 寫程式技術大幅進步，讓 GitHub、Vercel、Replit 等平台必須重新思考自己的價值",
+    "content": "<p>AI 寫程式技術的進步讓我們可以輕易地生成代碼，但是這也意味著平台必須找到新的競爭優勢。GitHub、Vercel、Replit 分別著重於協調、生產和驗證等方面，以提供更全面的服務。</p>    <h2>GitHub 的協調策略</h2>    <p>GitHub 著重於協調，建立了一個控制層來路由工作給不同的代理人。這樣可以讓開發者更容易地管理自己的項目和團隊。</p>    <h2>Replit 的驗證策略</h2>    <p>Replit 著重於驗證，使用了一個自我測試的循環來 驗證代碼的正確性。這樣可以讓開發者更有信心地交付自己的項目。</p>    <h2>編輯悄悄話</h2>    <p>AI 寫程式技術的進步是個雙刃劍，一方面它讓我們可以更快速地生成代碼，另一方面它也意味著平台必須找到新的競爭優勢。作為開發者，我們需要關注這些變化，找到適合自己的平台和工具。",
+    "score": 90,
+    "takeaways": [
+      "AI 寫程式技術讓代碼生成成本大幅降低，平台必須找到新的競爭優勢",
+      "GitHub、Vercel、Replit 分別著重於協調、生產和驗證等方面",
+      "MCP 標準讓代理人可以存取任何工具，三大平台均已支持"
+    ],
+    "punchline": "AI 寫程式變得廉價，平台的價值在於協調、生產和驗證",
+    "social_posts": {
+      "threads": "你們有注意到 AI 寫程式技術的進步嗎？現在我們可以輕易地生成代碼，但是平台的價值在於協調、生產和驗證。#AI #程式設計",
+      "facebook": "AI 寫程式技術的進步讓我們可以更快速地生成代碼，但是平台必須找到新的競爭優勢。GitHub、Vercel、Replit 分別著重於協調、生產和驗證等方面，以提供更全面的服務。",
+      "viral_hook": "AI 寫程式技術大爆炸！你還在用舊的方式寫程式嗎？"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9Eez!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd89fdfc-1798-48d7-834a-600a9763fb95_2048x901.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "018",
+    "title": "【革命性】手語AI讓聾人也能輕鬆溝通！",
+    "summary": "最新的手語辨識AI技術，讓聾人和聽力障礙者能夠輕鬆溝通，改善生活品質",
+    "content": "<p>近年來，人工智慧技術在各個領域都有著廣泛的應用，而最新的手語辨識AI技術就是其中之一。該技術可以將手語轉換成文字，讓聾人和聽力障礙者能夠更容易地溝通。</p>    <h2>手語辨識AI技術的工作原理</h2>    <p>手語辨識AI技術使用深度學習算法來識別手語中的各個動作和手勢，並將其轉換成對應的文字。該技術可以學習到手語中的各個細節，並且能夠準確地識別出不同的手語動作。</p>    <h2>該技術的潛在應用</h2>    <p>手語辨識AI技術的潛在應用非常廣泛。例如，在教育領域，該技術可以幫助聾人和聽力障礙的學生更容易地學習和溝通。在醫療領域，該技術可以幫助醫生和護士更容易地與聾人和聽力障礙的患者溝通。在日常生活中，該技術也可以幫助聾人和聽力障礙者更容易地使用智能手機和其他電子設備。</p>    <h2>編輯悄悄話</h2>    <p>科技的進步讓我們看到了無障礙的可能性，讓我們一起努力，打造一個更友善、更包容的社會吧！",
+    "score": 90,
+    "takeaways": [
+      "手語辨識AI技術可以將手語轉換成文字",
+      "該技術可以幫助聾人和聽力障礙者更容易地溝通",
+      "該技術有望改善聾人和聽力障礙者的生活品質"
+    ],
+    "punchline": "科技讓無障礙變得更容易",
+    "social_posts": {
+      "threads": "你知道嗎？最新的手語辨識AI技術可以將手語轉換成文字！\n這項技術可以幫助聾人和聽力障礙者更容易地溝通\n讓我們一起努力，打造一個更友善、更包容的社會吧！",
+      "facebook": "【革命性】手語AI讓聾人也能輕鬆溝通！\n最新的手語辨識AI技術可以將手語轉換成文字，改善聾人和聽力障礙者的生活品質\n點擊鏈接了解更多：[鏈接]",
+      "viral_hook": "你知道嗎？手語AI技術可以將手語轉換成文字！"
+    },
+    "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "019",
+    "title": "AI助力企業從助手到執行者：企業如何真正發揮AI的價值",
+    "summary": "企業正在將AI應用從回答問題到執行工作，透過ChatGPT和Codex等工具，領先企業正拉開與其他企業的差距",
+    "content": "<p>企業正在將AI應用從回答問題到執行工作，透過ChatGPT和Codex等工具，領先企業正拉開與其他企業的差距。</p>    <h2>企業AI的新趨勢</h2>    <p>根據OpenAI的研究，企業正在將AI應用從助手到執行者的轉變，透過ChatGPT和Codex等工具，領先企業正拉開與其他企業的差距。這些企業正在使用AI來執行工作，而不僅僅是回答問題。</p>    <p>例如，員工可以要求AI收集相關資訊並草擬報告，而不是僅僅要求AI提供如何準備報告的建議。</p>    <h2>領先企業的成功秘訣</h2>    <p>領先企業的成功秘訣在於他們能夠提供正確的上下文和工具給AI，讓AI能夠有效執行工作。這需要企業進行相應的投資，例如員工培訓、資料基礎設施和治理等。</p>    <p>透過這些投資，企業可以讓AI發揮其最大價值，從而拉開與其他企業的差距。</p>    <h2>編輯悄悄話</h2>    <p>所以，企業要想真正發揮AI的價值，需要從助手到執行者的轉變，透過正確的上下文和工具讓AI能夠有效執行工作。這需要企業進行相應的投資和轉變，但回報是值得的。</p>",
+    "score": 90,
+    "takeaways": [
+      "企業AI應用正在從助手到執行者的轉變",
+      "領先企業正透過ChatGPT和Codex等工具拉開與其他企業的差距",
+      "AI需要正確的上下文和工具才能有效執行工作"
+    ],
+    "punchline": "AI助力企業從助手到執行者",
+    "social_posts": {
+      "threads": "企業如何真正發揮AI的價值？透過ChatGPT和Codex等工具，領先企業正拉開與其他企業的差距。#AI #企業",
+      "facebook": "企業正在將AI應用從回答問題到執行工作，透過ChatGPT和Codex等工具。這需要企業進行相應的投資和轉變，但回報是值得的。點擊鏈接了解更多：",
+      "viral_hook": "AI助力企業從助手到執行者，領先企業正拉開與其他企業的差距！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2If00wbX68BibN4DuBTlxC/32dc95f1c054f1c46a91179fef80b55c/Frame.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "date": "2026-08-12"
   }
 ]
