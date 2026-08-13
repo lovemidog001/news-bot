@@ -240,5 +240,137 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
     "date": "2026-08-13"
+  },
+  {
+    "id": "012",
+    "title": "AI代理人運行在哪裡都能被監控！使用Amazon Bedrock AgentCore Observability",
+    "summary": "透過Amazon Bedrock AgentCore Observability，無論您的AI代理人運行在AWS、Google Cloud Platform、Azure還是在本地伺服器，都能輕鬆監控其性能",
+    "content": "<p>您是否曾經擔心AI代理人運行在哪裡都能被監控？現在，透過Amazon Bedrock AgentCore Observability，您可以輕鬆地監控AI代理人的性能，不論它運行在AWS、Google Cloud Platform、Azure還是在本地伺服器。</p>    <h2>什麼是Amazon Bedrock AgentCore Observability</h2>    <p>Amazon Bedrock AgentCore Observability是一個平台，能夠讓您建立、連接和優化代理人在規模上的性能。它提供原生的追蹤、監控和分析功能，讓您可以輕鬆地監控AI代理人的性能。</p>    <h2>如何設定Amazon Bedrock AgentCore Observability</h2>    <p>設定Amazon Bedrock AgentCore Observability非常簡單，只需要幾個步驟就可以完成。首先，您需要安裝AWS Distro for OpenTelemetry (ADOT)和 IAM憑證。然後，您需要設定代理人的追蹤和監控，並將其導向到Amazon Bedrock AgentCore Observability dashboard。</p>    <h2>編輯悄悄話</h2>    <p>現在，您可以放心地運行AI代理人了，因為Amazon Bedrock AgentCore Observability可以幫您監控其性能。別忘了分享這個好消息給您的朋友和同事吧！",
+    "score": 90,
+    "takeaways": [
+      "使用Amazon Bedrock AgentCore Observability可以監控AI代理人的性能",
+      "支援多雲端平台和本地伺服器",
+      "能夠偵測代理人的異常行為和成本超支"
+    ],
+    "punchline": "讓AI代理人的運行無所遁形",
+    "social_posts": {
+      "threads": "大家好！今天我要分享一個非常酷的工具——Amazon Bedrock AgentCore Observability。它可以讓您監控AI代理人的性能，不論它運行在哪裡！#AI #Monitoring",
+      "facebook": "使用Amazon Bedrock AgentCore Observability，您可以輕鬆地監控AI代理人的性能。點擊連結了解更多！https://example.com",
+      "viral_hook": "AI代理人運行在哪裡都能被監控？"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/10/ML-20910-featured-image.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "013",
+    "title": "Elasticsearch 9.5 來了！打破搜尋極限、提升效能的新世代",
+    "summary": "Elasticsearch 9.5 推出，帶來 Columnar Mode、VectorDB 等強大功能，革新搜尋體驗和效能",
+    "content": "<p>你好，開發者們！在這次的 Elastic 社區新聞稿中，我們將為你介紹 Elasticsearch 9.5 的新功能、最新的博客和影片，以及即將舉行的活動。</p>    <h2>什麼是 Elasticsearch 9.5？</h2>    <p>Elasticsearch 9.5 是 Elasticsearch 和 Elastic Stack 的最新版本，推出多項強大的新功能，包括原生 PromQL、Dashboards API、Cases as Data 和自然語言作者等。其中，Columnar Mode 是一個新的索引模式，能夠減少儲存空間，提高搜尋效能。</p>    <h2>新功能解析</h2>    <p>VectorDB 和 Auto-calibration 功能簡化向量搜尋設定和優化，而新的 semantic field 則擴展語義搜尋到圖片、音頻、視頻和 PDF 文件。這些功能讓你能夠更輕鬆地搜尋和分析數據。</p>    <h2>編輯悄悄話</h2>    <p> Elasticsearch 9.5 是一個革命性的版本，讓搜尋不再只是文字，而是能夠搜尋世界。所以，別再等待，立即體驗 Elasticsearch 9.5 的強大功能吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Elasticsearch 9.5 引入 Columnar Mode，減少儲存空間，提高搜尋效能",
+      "VectorDB 和 Auto-calibration 功能簡化向量搜尋設定和優化",
+      "新的 semantic field 擴展語義搜尋到圖片、音頻、視頻和 PDF 文件"
+    ],
+    "punchline": "搜尋不再只是文字，Elasticsearch 9.5 讓你搜尋世界",
+    "social_posts": {
+      "threads": "你知道嗎？Elasticsearch 9.5 來了！\n帶來 Columnar Mode、VectorDB 等強大功能，革新搜尋體驗和效能\n#Elasticsearch #Search",
+      "facebook": "Elasticsearch 9.5 推出！\n簡化向量搜尋設定和優化，擴展語義搜尋到圖片、音頻、視頻和 PDF 文件\n點擊連結了解更多：[連結]",
+      "viral_hook": "搜尋不再只是文字，Elasticsearch 9.5 讓你搜尋世界！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltc83b061cbcc253e2/6a7e1d7c89eb5cd090ab512d/Blog_Header_Templates_(3).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/devrel-newsletter-august-2026",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "014",
+    "title": "API 組合的奧秘：你不知道的效能優化祕訣",
+    "summary": "在服務導向架構中，API 組合是個大挑戰，了解它可以幫助你優化效能、減少延遲",
+    "content": "<p>在服務導向架構中，單一產品螢幕可能需要顯示使用者資料、最近五筆訂單、每筆訂單的配送狀態和推薦清單等資料。這些資料可能分散在不同的服務中，每個服務只儲存自己的資料，因此需要將這些資料合併成一個完整的資料集。這就是 API 組合的挑戰。</p>    <h2>什麼是 API 組合？</h2>    <p>API 組合是指將多個服務的資料合併成一個完整的資料集。這個合併操作可以在客戶端、服務器端或 CDN邊緣位置執行。選擇合適的合併位置可以減少延遲、改善效能。</p>    <h2>API 組合的挑戰</h2>    <p>API 組合的挑戰不僅在於合併資料，還包括如何處理服務不可用、緩存和版本控制等問題。選擇合適的合併位置可以幫助你解決這些挑戰，優化你的應用程式的效能。</p>    <h2>編輯悄悄話</h2>    <p>API 組合是個大挑戰，但也是一個機會。了解 API 組合可以幫助你優化你的應用程式的效能、減少延遲。不要害怕這個挑戰，勇敢地去面對它，讓你的應用程式更快、更強大。",
+    "score": 90,
+    "takeaways": [
+      "API 組合是指將多個服務的資料合併成一個完整的資料集",
+      "合併操作可以在客戶端、服務器端或 CDN邊緣位置執行",
+      "選擇合適的合併位置可以減少延遲、改善效能"
+    ],
+    "punchline": "API 組合，讓你的應用程式更快、更強大",
+    "social_posts": {
+      "threads": "你知道 API 組合可以幫助你優化你的應用程式的效能嗎？讓我們一起探討 API 組合的奧秘！",
+      "facebook": "API 組合是個大挑戰，但也是一個機會。了解 API 組合可以幫助你優化你的應用程式的效能、減少延遲。分享給你的朋友，讓他們也能夠優化自己的應用程式！",
+      "viral_hook": "API 組合，讓你的應用程式更快、更強大！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!mC8C!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F355ac32b-31b1-4ad4-b329-9de462f1de0b_2650x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "015",
+    "title": "用BigQuery Graphs打造智慧型企業：從數據到洞察的革命",
+    "summary": "BigQuery Graphs幫助企業從簡單的聊天助手轉變為自主的工作負載，解決傳統數據結構的限制，讓AI代理能夠準確地做出決策",
+    "content": "<h2>什麼是BigQuery Graphs?</h2>    <p>BigQuery Graphs是Google Cloud的一項功能，讓企業能夠建立複雜的數據關係圖，解決傳統數據結構的限制。它讓企業能夠將數據組織成一個圖形結構，讓AI代理能夠準確地做出決策。</p>    <h2>為什麼關係圖很重要?</h2>    <p>傳統的數據結構是盲目的，無法捕捉到多個層面的商業背景，導致AI代理做出錯誤的決策。BigQuery Graphs解決了這個問題，讓企業能夠建立複雜的數據關係圖，從而得到更準確的洞察。</p>    <h2>BigQuery Graphs的優點</h2>    <ul>      <li>統一管理數據指標和關係映射</li>      <li>視覺化工具讓開發人員和商業用戶能夠輕鬆地管理和部署關係網路</li>      <li>能夠與Looker (LookML)整合，讓企業能夠定義邏輯一次，就能在核心層面上得到統一的管理</li>    </ul>    <h2>編輯悄悄話</h2>    <p>BigQuery Graphs是企業數據管理的一場革命，它讓企業能夠從數據到洞察的轉變，做出更準確的決策。如果您想要了解更多關於BigQuery Graphs的資訊，請關注我們的後續文章!</p>",
+    "score": 90,
+    "takeaways": [
+      "BigQuery Graphs讓企業能夠建立複雜的數據關係圖，解決傳統數據結構的限制",
+      "Measures in BigQuery Graphs讓企業能夠統一管理數據指標和關係映射",
+      "BigQuery Graphs的視覺化工具讓開發人員和商業用戶能夠輕鬆地管理和部署關係網路"
+    ],
+    "punchline": "從數據到洞察的革命",
+    "social_posts": {
+      "threads": "你知道嗎？BigQuery Graphs可以讓企業建立複雜的數據關係圖，解決傳統數據結構的限制！ #BigQueryGraphs #數據管理",
+      "facebook": "BigQuery Graphs是企業數據管理的一場革命！它讓企業能夠統一管理數據指標和關係映射，做出更準確的決策。了解更多：https://example.com",
+      "viral_hook": "從數據到洞察的革命：BigQuery Graphs是企業數據管理的未來！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "016",
+    "title": "Gemini 3.7 Flash登場！開發者工作效率大提升，價格卻是原來的一半？",
+    "summary": "Gemini 3.7 Flash是一款更智能的工作馬模型，能夠大幅提高開發者工作效率，尤其是在軟體工程、知識工作和網頁開發領域，且價格是原來的一半",
+    "content": "<h2>什麼是Gemini 3.7 Flash？</h2>    <p>Gemini 3.7 Flash是一款由Gemini團隊開發的工作馬模型，旨在提高開發者工作效率。它能夠更好地適應開發者工作流程，提高準確性和效率。</p>    <p>這款模型能夠進行軟體工程、知識工作和網頁開發等工作，且能夠更好地與開發者合作，提高工作效率。</p>    <h2>如何使用Gemini 3.7 Flash？</h2>    <p>Gemini 3.7 Flash能夠通過Gemini Spark平臺使用，該平臺提供了一個簡單易用的界面，讓開發者能夠輕鬆地使用Gemini 3.7 Flash。</p>    <p>開發者可以使用Gemini 3.7 Flash進行各種工作，例如代碼編寫、調試和優化等，且能夠更好地與其他開發者合作，提高工作效率。</p>    <h2>編輯悄悄話</h2>    <p> Gemini 3.7 Flash是一款非常強大的工具，能夠大幅提高開發者工作效率。若您是一名開發者，千萬不要錯過這款工具！",
+    "score": 90,
+    "takeaways": [
+      "Gemini 3.7 Flash能夠大幅提高開發者工作效率",
+      "價格是原來的一半，僅$0.75/1M輸入字元和$3.75/1M輸出字元",
+      "能夠更好地適應開發者工作流程，提高準確性和效率"
+    ],
+    "punchline": "Gemini 3.7 Flash：開發者工作效率的革命",
+    "social_posts": {
+      "threads": "大家好，我們來聊聊Gemini 3.7 Flash吧！它是一款非常強大的工具，能夠大幅提高開發者工作效率。若您是一名開發者，千萬不要錯過這款工具！",
+      "facebook": "Gemini 3.7 Flash登場！開發者工作效率大提升，價格卻是原來的一半？來了解更多吧！",
+      "viral_hook": "Gemini 3.7 Flash：開發者工作效率的革命！"
+    },
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "017",
+    "title": "最新GPT-5.6模型出爐！成本大幅降低，效能卻大幅提升？",
+    "summary": "了解如何使用GPT-5.6打造更快、更省錢的人工智慧代理，同時提升模型選擇和API控制能力。",
+    "content": "<p>你是否想打造更快、更省錢的人工智慧代理？現在，有了一個新的選擇：GPT-5.6模型家族。這個最新的模型不僅使得前沿級別的代理效能更加親民，而且還大幅降低了成本。</p>    <h2>什麼是GPT-5.6模型家族？</h2>    <p>GPT-5.6模型家族是最新的一代人工智慧模型，旨在提供更快、更省錢、更智能的代理效能。這個模型家族包括了多個不同的模型，例如Luna和Terra，每個模型都有其自己的優點和特點。</p>    <h2>如何使用GPT-5.6模型家族打造更快、更省錢的人工智慧代理</h2>    <p>要打造更快、更省錢的人工智慧代理，你需要使用GPT-5.6模型家族的新API控制和模型選擇能力。這些能力包括了程序化工具呼叫、多代理協調和模型選擇等。通過使用這些能力，你可以大幅降低成本，同時提升代理效能。</p>    <p>例如，使用GPT-5.6 Luna模型，你可以在BrowseComp基準測試中獲得84.04%的分數，而成本只有$1.33。這比之前的GPT-5.5模型節省了很多成本。</p>    <h2>編輯悄悄話</h2>    <p>總之，GPT-5.6模型家族是最新的一代人工智慧模型，提供了更快、更省錢、更智能的代理效能。如果你想打造更快、更省錢的人工智慧代理，現在是時候試試GPT-5.6模型家族了。",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6模型家族使得前沿級別的代理效能更加親民",
+      "新的API控制和模型選擇能力幫助代理更好地完成任務",
+      "成本大幅降低，效能卻大幅提升"
+    ],
+    "punchline": "省錢又省時，GPT-5.6是你的不二之選",
+    "social_posts": {
+      "threads": "你想打造更快、更省錢的人工智慧代理嗎？現在，有了一個新的選擇：GPT-5.6模型家族。這個最新的模型不僅使得前沿級別的代理效能更加親民，而且還大幅降低了成本。",
+      "facebook": "最新的GPT-5.6模型家族已經推出！這個模型家族提供了更快、更省錢、更智能的代理效能。了解更多關於如何使用GPT-5.6模型家族打造更快、更省錢的人工智慧代理。",
+      "viral_hook": "GPT-5.6模型家族：省錢又省時的不二之選"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/5z82x3gBSG1dfyQIIuHixn/083896e067097f3d7dd1ff5be0f51025/the-builder-s-guide-to-gpt-5-6-seo.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "date": "2026-08-13"
   }
 ]
