@@ -1,0 +1,244 @@
+[
+  {
+    "id": "001",
+    "title": "Amazon Bedrock 成本歸因大揭秘：如何使用 Amazon Athena 和 CUDOS 儀表板",
+    "summary": "了解如何使用 Amazon Athena 和 CUDOS 儀表板來視覺化和分析 Amazon Bedrock 成本歸因，讓您更好地掌握雲端成本",
+    "content": "<p>您是否曾經想過如何更好地掌握 Amazon Bedrock 的雲端成本？現在，通過使用 Amazon Athena 和 CUDOS 儀表板，您可以輕鬆地視覺化和分析 Amazon Bedrock 成本歸因。</p>    <h2>什麼是 Amazon Bedrock 成本歸因？</h2>    <p>Amazon Bedrock 成本歸因是一種功能，自動追蹤每個推理請求回到呼叫它的 IAM 主體。這樣，您可以根據使用者、應用程序、團隊、項目等不同的維度來查看 Amazon Bedrock 的成本。</p>    <h2>如何設置 Amazon Bedrock 成本歸因</h2>    <p>要設置 Amazon Bedrock 成本歸因，您需要先設置 CUR 2.0 数据导出和连接 Amazon Athena。然後，您可以使用 Amazon Athena 查询 CUR 数据以分析 Amazon Bedrock 成本。同時，您也可以使用 CUDOS 儀表板來視覺化和跟踪 Amazon Bedrock 成本和使用情況。</p>    <h2>編輯悄悄話</h2>    <p>掌握雲端成本從來不是一件容易的事，但通過使用 Amazon Athena 和 CUDOS 儀表板，您可以更好地掌握 Amazon Bedrock 的雲端成本。所以，不要再等待，現在就開始探索 Amazon Bedrock 成本歸因的世界吧！",
+    "score": 90,
+    "takeaways": [
+      "使用 Amazon Athena 查询 CUR 数据以分析 Amazon Bedrock 成本",
+      "使用 CUDOS 儀表板來視覺化和跟踪 Amazon Bedrock 成本和使用情況",
+      "通过設定 CUR 2.0 数据导出和连接 Amazon Athena 来实现 Amazon Bedrock 成本歸因"
+    ],
+    "punchline": "掌握雲端成本，從 Amazon Bedrock 成本歸因開始",
+    "social_posts": {
+      "threads": "大家好！今天我要跟你們分享一件很重要的事情：如何使用 Amazon Athena 和 CUDOS 儀表板來視覺化和分析 Amazon Bedrock 成本歸因。這是一件很複雜的事情，但我會一步一步地跟你們解釋。#AmazonBedrock #雲端成本",
+      "facebook": "了解如何使用 Amazon Athena 和 CUDOS 儀表板來視覺化和分析 Amazon Bedrock 成本歸因。這是一個很有用的工具，可以幫助你更好地掌握雲端成本。點擊鏈接了解更多！",
+      "viral_hook": "你知道嗎？Amazon Bedrock 成本歸因可以幫助你節省雲端成本！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/10/ML-21078-featured-image.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/part-2-amazon-bedrock-cost-attribution-with-amazon-athena-and-cudos/",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "002",
+    "title": "WhatsApp 新功能！用機器學習模型預防詐騙，保護你的隱私",
+    "summary": "WhatsApp 推出 Scam Alert 功能，使用機器學習模型預防詐騙，保護用戶隱私",
+    "content": "<p>WhatsApp 推出 Scam Alert 功能，使用機器學習模型預防詐騙，保護用戶隱私。這個功能在用戶設備上運行，不會將任何信息傳送到伺服器，保護用戶的隱私。</p>    <h2>什麼是 Scam Alert 功能？</h2>    <p>Scam Alert 功能使用機器學習模型預防詐騙，當用戶收到可疑信息時，功能會顯示警告，提醒用戶注意。用戶可以選擇忽略警告或將信息報告給 WhatsApp。</p>    <h2>如何保護用戶隱私</h2>    <p>Scam Alert 功能在用戶設備上運行，不會將任何信息傳送到伺服器，保護用戶的隱私。功能只會收集必要的信息，以確保功能正常運行。</p>    <h2>編輯悄悄話</h2>    <p>保護你的隱私，遠離詐騙。WhatsApp 的 Scam Alert 功能是保護用戶隱私的重要一步。記得要時刻注意你的信息安全，遠離詐騙。",
+    "score": 90,
+    "takeaways": [
+      "Scam Alert 功能使用機器學習模型預防詐騙",
+      "功能在用戶設備上運行，保護用戶隱私",
+      "用戶可以選擇啟用或停用此功能"
+    ],
+    "punchline": "保護你的隱私，遠離詐騙",
+    "social_posts": {
+      "threads": "保護你的隱私，遠離詐騙！WhatsApp 推出 Scam Alert 功能，使用機器學習模型預防詐騙。這個功能在用戶設備上運行，不會將任何信息傳送到伺服器，保護用戶的隱私。",
+      "facebook": "WhatsApp 推出 Scam Alert 功能，使用機器學習模型預防詐騙。這個功能在用戶設備上運行，不會將任何信息傳送到伺服器，保護用戶的隱私。點擊連結了解更多。",
+      "viral_hook": "保護你的隱私，遠離詐騙！WhatsApp 的 Scam Alert 功能是什麼？"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/WhatsApp-Scam-Alert.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "003",
+    "title": "微軟領導AI時代！Gartner評為2026年AI輔助程式碼現代化工具領導者",
+    "summary": "微軟的GitHub Copilot和Azure幫助組織現代化舊系統，減少技術債務，為AI創新做準備",
+    "content": "<p>近日，Gartner發佈了2026年AI輔助程式碼現代化工具的Magic Quadrant報告，微軟榮膺領導者地位！這是微軟在AI技術領域的又一重大突破。</p>    <h2>什麼是AI輔助程式碼現代化工具？</h2>    <p>這類工具利用AI技術幫助開發人員現代化舊系統，減少技術債務，提高開發效率。微軟的GitHub Copilot和Azure就是這類工具的代表。</p>    <h2>微軟的領導地位</h2>    <p>微軟的領導地位得益於其在AI技術領域的持續投入和創新。GitHub Copilot和Azure已經成為全球許多企業的首選工具，幫助他們現代化舊系統，為AI創新做準備。</p>    <h2>編輯悄悄話</h2>    <p>微軟領導AI時代，讓你的企業走在前沿！如果你還在使用舊系統，趕快現代化吧，否則你會被時代拋在後面！",
+    "score": 90,
+    "takeaways": [
+      "微軟的AI技術領導地位得到Gartner的認可",
+      "GitHub Copilot和Azure是現代化舊系統的關鍵工具",
+      "AI創新是未來的發展趨勢，企業需要做好準備"
+    ],
+    "punchline": "微軟領導AI時代，讓你的企業走在前沿",
+    "social_posts": {
+      "threads": "微軟領導AI時代！Gartner評為2026年AI輔助程式碼現代化工具領導者\n\n微軟的GitHub Copilot和Azure幫助組織現代化舊系統，減少技術債務，為AI創新做準備\n\n什麼是AI輔助程式碼現代化工具？\n\n微軟的領導地位得益於其在AI技術領域的持續投入和創新",
+      "facebook": "微軟領導AI時代！Gartner評為2026年AI輔助程式碼現代化工具領導者。微軟的GitHub Copilot和Azure幫助組織現代化舊系統，減少技術債務，為AI創新做準備。點擊鏈接了解更多：https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+      "viral_hook": "微軟領導AI時代，讓你的企業走在前沿！"
+    },
+    "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/AI-Code-MQ-AppMod-Social-2-16_9.png",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-augmented-code-modernization-tools/",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "004",
+    "title": "金融服務的AI革命：為什麼「信任」是AI成敗的關鍵？",
+    "summary": "金融服務業正在邁向AI的新時代，信任是AI成功的基石。了解如何建立信任的AI系統，讓您的企業在競爭中領先。",
+    "content": "<p>金融服務業正在邁向AI的新時代，Agentic AI是未來的發展趨勢。但是，AI的成功不僅僅取決於強大的模型，還需要信任的基石。</p>    <h2>什麼是Agentic AI？</h2>    <p>Agentic AI是指能夠自主地做出決定和行動的AI系統。它需要信任的上下文才能做出正確的決定。傳統的AI系統只能回答問題，Agentic AI可以主動地進行調查、收集信息、做出建議和啟動工作流程。</p>    <h2>建立信任的AI系統</h2>    <p>建立信任的AI系統需要統一的資料、可觀察性、企業搜索和治理。這些基礎可以讓AI系統做出正確的決定，同時也能夠為監管機構和審計師提供完整的信息。金融服務業一直以來都強調信任和風險管理，Agentic AI也不例外。</p>    <p>McKinsey的研究表明，投資於負責任的AI的組織也更有可能報告較高的AI成熟度和商業成果。治理不會減慢創新，而是使其更有效。</p>    <h2>編輯悄悄話</h2>    <p>AI革命正在來臨，金融服務業需要準備好迎接挑戰。建立信任的AI系統是成功的基石，讓您的企業在競爭中領先。記住，信任是AI的生命線！",
+    "score": 90,
+    "takeaways": [
+      "信任是AI成功的基石，特別是在金融服務業",
+      "統一的資料、可觀察性、企業搜索和治理是建立信任的AI系統的基礎",
+      "Agentic AI需要信任的上下文才能做出正確的決定"
+    ],
+    "punchline": "信任是AI的生命線",
+    "social_posts": {
+      "threads": "金融服務業的AI革命即將來臨！\n什麼是Agentic AI？\n如何建立信任的AI系統？\n讓我們一起探討AI的未來！",
+      "facebook": "金融服務業的AI革命：為什麼「信任」是AI成敗的關鍵？了解如何建立信任的AI系統，讓您的企業在競爭中領先。點擊鏈接了解更多！",
+      "viral_hook": "AI革命即將來臨，金融服務業準備好了嗎？"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt38a747ecc55b0f9c/6a74cbc48a155275c364aac1/mike-hindle-TCCBk_tk3hE-unsplash.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/building-trusted-agentic-ai-in-financial-services",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "005",
+    "title": "從零到英雄：3萬字WorkBuddy入門到精通終極指南",
+    "summary": "想成為WorkBuddy高手？這份超詳細指南帶你從入門到精通，讓你在工作中更高效、更自信！",
+    "content": "<p>你是否曾經覺得工作中有太多的事情需要做，但又不知道如何優先安排？WorkBuddy是一個能夠幫助你解決這個問題的工具。這篇文章將帶你從入門到精通WorkBuddy，讓你能夠充分利用它的功能，提升工作效率和生產力。</p>    <h2>WorkBuddy入門</h2>    <p>WorkBuddy是一個什麼樣的工具？它能夠幫助你做什麼？這些問題將在這個章節中得到解答。WorkBuddy的基本功能包括任務管理、時間管理和團隊合作等。通過這些功能，你可以輕鬆地管理你的工作任務、優先安排你的時間和與團隊成員合作。</p>    <h2>WorkBuddy高級技巧</h2>    <p>當你已經熟悉了WorkBuddy的基本功能後，接下來就是探索它的高級技巧了。這些技巧包括如何使用WorkBuddy的API、如何整合WorkBuddy和其他工具等。通過這些高級技巧，你可以更好地利用WorkBuddy，讓你的工作更加高效和自動化。</p>    <h2>編輯悄悄話</h2>    <p>WorkBuddy是一個非常實用的工具，但它的真正價值在於它能夠幫助你提升工作效率和生產力。所以，不要只是停留在入門階段，嘗試去探索它的高級技巧和應用場景，讓WorkBuddy真正成為你的工作伴侶！",
+    "score": 90,
+    "takeaways": [
+      "WorkBuddy的基本功能和操作",
+      "如何使用WorkBuddy提升工作效率",
+      "高級技巧和應用場景"
+    ],
+    "punchline": "從零到英雄，WorkBuddy陪你升級",
+    "social_posts": {
+      "threads": "大家好，我現在要分享一個超級實用的工具WorkBuddy！\n它可以幫助你管理任務、優先安排時間和與團隊成員合作。\n但是，WorkBuddy的真正價值在於它能夠幫助你提升工作效率和生產力。\n所以，不要只是停留在入門階段，嘗試去探索它的高級技巧和應用場景吧！",
+      "facebook": "WorkBuddy是什麼？它能夠幫助你做什麼？這篇文章將帶你從入門到精通WorkBuddy，讓你能夠充分利用它的功能，提升工作效率和生產力。點擊鏈接了解更多！",
+      "viral_hook": "從零到英雄，WorkBuddy陪你升級！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803569&idx=1&sn=325170a0e2bd7117d51dfabbbd79539b",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "006",
+    "title": "AI 寫程式大爆發：GitHub、Vercel、Replit 怎麼改變?",
+    "summary": "AI 寫程式技術大躍進，讓 GitHub、Vercel、Replit 等平台必須轉型，從而帶來全新的軟體開發模式",
+    "content": "<p>近年來，AI 寫程式技術已經取得了巨大的進步，讓軟體開發的重心從寫程式轉移到其他領域。GitHub、Vercel、Replit 等平台正在轉型，提供新的解決方案來滿足開發者的需求。</p>    <h2>GitHub 的協同工作</h2>    <p>GitHub 的協同工作平台提供了一個完整的工作流程，讓開發者可以合作完成項目。然而，隨著 AI 寫程式技術的出現，GitHub 也在轉型，提供新的功能來支持開發者。</p>    <h2>Replit 的驗證角度</h2>    <p>Replit 的驗證角度是通過自我測試循環來驅動真實瀏覽器，捕捉那些看起來有效但實際上無效的代碼。這個方法可以確保生成的代碼是可靠的和有效的。</p>    <h2>編輯悄悄話</h2>    <p>軟體開發的未來將更加注重協同工作、驗證和部署等方面。AI 寫程式技術的出現只是個開始，未來我們將看到更多創新的解決方案和技術的出現。所以，開發者們要保持警惕，隨時準備迎接新的挑戰和機遇！",
+    "score": 90,
+    "takeaways": [
+      "AI 寫程式技術已經成熟，讓軟體開發的重心從寫程式轉移到其他領域",
+      "GitHub、Vercel、Replit 等平台正在轉型，提供新的解決方案來滿足開發者的需求",
+      "軟體開發的未來將更加注重協同工作、驗證和部署等方面"
+    ],
+    "punchline": "AI 寫程式，大爆發！",
+    "social_posts": {
+      "threads": "AI 寫程式大爆發！GitHub、Vercel、Replit 怎麼改變？\n軟體開發的未來將更加注重協同工作、驗證和部署等方面\n開發者們要保持警惕，隨時準備迎接新的挑戰和機遇！",
+      "facebook": "AI 寫程式技術已經成熟，讓軟體開發的重心從寫程式轉移到其他領域。GitHub、Vercel、Replit 等平台正在轉型，提供新的解決方案來滿足開發者的需求。點擊鏈接了解更多！",
+      "viral_hook": "AI 寫程式，大爆發！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!9Eez!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd89fdfc-1798-48d7-834a-600a9763fb95_2048x901.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/github-vs-vercel-vs-replit-what-dev",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "007",
+    "title": "AI 新世代來臨！Opus 5、Gemini 3.6 等你來領略",
+    "summary": "Anthropic 推出 Opus 5，Google 釋出 Gemini 3.6，AI 技術突飛猛進，你準備好了嗎？",
+    "content": "<h2>AI 技術的最新發展</h2>    <p>Anthropic 推出 Opus 5，Google 釋出 Gemini 3.6，AI 技術突飛猛進，你準備好了嗎？這些新技術將會帶來什麼樣的變革？</p>    <ul>      <li>Opus 5 擁有 Fable 5-like 的功能，能夠進行更複雜的任務</li>      <li>Gemini 3.6 提供更強大的 AI 能力，能夠處理更多的資料</li>    </ul>    <h2>AI 對未來的影響</h2>    <p>AI 技術的發展速度超乎想像，未來將會帶來什麼樣的變革？是否會改變我們的生活方式？</p>    <p>隨著 AI 技術的進步，將會出現更多新的工作機會和挑戰，同時也會對社會和經濟產生深遠的影響</p>    <h2>編輯悄悄話</h2>    <p>AI 新世代來臨，你準備好了嗎？別再猶豫，趕快了解最新的 AI 技術和趨勢，才能在這個快速變化的世界中保持競爭力</p>",
+    "score": 90,
+    "takeaways": [
+      "Anthropic 的 Opus 5 擁有 Fable 5-like 的功能",
+      "Google 的 Gemini 3.6 提供更強大的 AI 能力",
+      "AI 技術的發展速度超乎想像，未來將會帶來什麼樣的變革"
+    ],
+    "punchline": "AI 新世代來臨，你準備好了嗎？",
+    "social_posts": {
+      "threads": "AI 新世代來臨，你準備好了嗎？\n\nAnthropic 推出 Opus 5，Google 釋出 Gemini 3.6，AI 技術突飛猛進，你準備好了嗎？\n\n這些新技術將會帶來什麼樣的變革？",
+      "facebook": "AI 技術的最新發展！Anthropic 推出 Opus 5，Google 釋出 Gemini 3.6，AI 技術突飛猛進，你準備好了嗎？",
+      "viral_hook": "AI 新世代來臨，你準備好了嗎？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/MNS7GtfmoXg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-253-opus-5-gemini-36",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "008",
+    "title": "Next.js 16.3瞬間導航大革命！讓你的網站速度提升10倍",
+    "summary": "Next.js 16.3帶來瞬間導航功能，讓你的網站速度提升10倍！通過測試和編碼代理，v0實現了瞬間導航，讓用戶體驗更流暢",
+    "content": "<p>你是否厭煩網站的慢速導航？Next.js 16.3帶來了瞬間導航功能，讓你的網站速度提升10倍！</p>    <h2>什麼是瞬間導航</h2>    <p>瞬間導航是指當用戶點擊連結時，網站可以立即顯示新的內容，而不需要等待頁面加載。這可以大幅提升用戶體驗和網站的轉換率。</p>    <h2>如何實現瞬間導航</h2>    <p>Next.js 16.3提供了測試和編碼代理來實現瞬間導航。通過這些工具，你可以寫出測試來驗證網站的導航是否瞬間，並使用編碼代理來自動修復慢速導航的問題。</p>    <p>v0通過Next.js 16.3實現了瞬間導航，讓用戶體驗更流暢。這是通過測試和編碼代理來實現的，讓網站的導航速度提升10倍。</p>    <h2>編輯悄悄話</h2>    <p>瞬間導航是提升用戶體驗的關鍵。如果你想要讓你的網站速度提升10倍，現在就來試試Next.js 16.3的瞬間導航功能吧！",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.3提供瞬間導航功能，讓網站速度提升",
+      "通過測試和編碼代理，可以實現瞬間導航",
+      "v0通過Next.js 16.3實現了瞬間導航，讓用戶體驗更流暢"
+    ],
+    "punchline": "瞬間導航，大幅提升用戶體驗",
+    "social_posts": {
+      "threads": "你是否厭煩網站的慢速導航？Next.js 16.3帶來了瞬間導航功能，讓你的網站速度提升10倍！ #Nextjs #瞬間導航",
+      "facebook": "提升用戶體驗的關鍵是瞬間導航！Next.js 16.3提供了測試和編碼代理來實現瞬間導航，讓你的網站速度提升10倍！ #Nextjs #瞬間導航",
+      "viral_hook": "瞬間導航，大幅提升用戶體驗！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/making-v0-navigations-instant/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/making-v0-navigations-instant",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "009",
+    "title": "革命性AI助手：讓手語用戶享受無障礙溝通",
+    "summary": "SL2T技術讓手語用戶能夠輕鬆地與他人溝通，結合AI力量，實現無障礙對話",
+    "content": "<p>隨著AI技術的進步，手語用戶的溝通方式也越來越多樣化。近日，SL2T技術的問世，讓手語用戶能夠輕鬆地與他人溝通，結合AI力量，實現無障礙對話。</p>    <h2>什麼是SL2T技術？</h2>    <p>SL2T技術是一種將手語轉換為文字的AI模型，該技術可以實時地將手語轉換為文字，讓聾人和聽力障礙用戶能夠更容易地溝通。</p>    <h2>SL2T技術的應用</h2>    <p>SL2T技術的應用非常廣泛，可以用於手語翻譯、手語教學等領域。同時，該技術也可以結合其他AI技術，實現更智能化的溝通方式。</p>    <h2>編輯悄悄話</h2>    <p>讓我們一起期待SL2T技術的未來發展，為手語用戶帶來更便捷、更智能化的溝通體驗吧！",
+    "score": 90,
+    "takeaways": [
+      "SL2T技術可以將手語轉換為文字",
+      "該技術可以幫助聾人和聽力障礙用戶更容易地溝通",
+      "AI助手可以讓手語用戶享受無障礙溝通"
+    ],
+    "punchline": "讓手語用戶擁有全新的溝通體驗",
+    "social_posts": {
+      "threads": "你知道嗎？SL2T技術可以讓手語用戶享受無障礙溝通！\n該技術可以將手語轉換為文字，讓聾人和聽力障礙用戶能夠更容易地溝通\n讓我們一起期待SL2T技術的未來發展吧！",
+      "facebook": "SL2T技術的問世，讓手語用戶能夠輕鬆地與他人溝通，結合AI力量，實現無障礙對話。該技術可以將手語轉換為文字，讓聾人和聽力障礙用戶能夠更容易地溝通。讓我們一起分享這個好消息吧！",
+      "viral_hook": "讓手語用戶擁有全新的溝通體驗！"
+    },
+    "image": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "010",
+    "title": "TDD 在 AI 專案中的迷思：實際價值還是劇場效果？",
+    "summary": "Thoughtworks 的 Birgitta Böckeler 進行了一系列實驗，探討 TDD 在 AI 專案中的作用，結果令人意外：TDD 並不一定能帶來更好的結果，反而可能限制 AI 的設計能力",
+    "content": "<p>近年來，AI 在軟體開發中的應用越來越廣泛，許多人開始探討如何將 TDD（Test-Driven Development）應用於 AI 專案中。Thoughtworks 的 Birgitta Böckeler 就是其中一位，她進行了一系列實驗以了解 TDD 在 AI 專案中的作用。</p>    <h2>實驗結果</h2>    <p>Birgitta 的實驗結果令人意外：TDD 並不一定能帶來更好的結果，反而可能限制 AI 的設計能力。在某些情況下，非 TDD 的方法甚至可能帶來更好的結果。</p>    <h2>設計能力的限制</h2>    <p> Birgitta 的實驗結果顯示，TDD 的工作流程可能限制 AI 的設計能力。AI 的設計能力可能被 TDD 的限制所影響，導致設計不夠完整或不夠優良。</p>    <h2>編輯悄悄話</h2>    <p>實際上，TDD 在 AI 專案中的作用遠比我們想像中複雜。這些實驗結果告訴我們，傳統的 TDD 工作流程可能需要重新評估以適應 AI 的需求。讓我們一起探討這個問題，並找到新的方法來提升 AI 專案的設計能力吧！",
+    "score": 85,
+    "takeaways": [
+      "TDD 在 AI 專案中可能不如預期般有效",
+      "AI 的設計能力可能被 TDD 的限制所影響",
+      "傳統的 TDD 工作流程可能需要重新評估以適應 AI 的需求"
+    ],
+    "punchline": "TDD 可能是 AI 專案的『劇場效果』",
+    "social_posts": {
+      "threads": "你是否曾經想過 TDD 在 AI 專案中的作用？實際上，TDD 並不一定能帶來更好的結果，反而可能限制 AI 的設計能力。讓我們一起探討這個問題吧！#TDD #AI #軟體開發",
+      "facebook": "Thoughtworks 的 Birgitta Böckeler 進行了一系列實驗，探討 TDD 在 AI 專案中的作用。結果令人意外：TDD 並不一定能帶來更好的結果，反而可能限制 AI 的設計能力。點擊連結了解更多：https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+      "viral_hook": "TDD 在 AI 專案中的『劇場效果』：你是否曾經想過 TDD 會限制 AI 的設計能力？"
+    },
+    "image": "https://martinfowler.com/articles/exploring-gen-ai/donkey-card.png",
+    "source": "Martin Fowler",
+    "url": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+    "date": "2026-08-13"
+  },
+  {
+    "id": "011",
+    "title": "AI革命來了！企業如何將AI從助手變成執行者？",
+    "summary": "企業AI從助手轉變為執行者，領先企業已經開始看到成果，你的公司還在等什麼？",
+    "content": "<p>你是否還在猶豫是否該將AI應用於你的企業？現在是行動的時候了！根據OpenAI的研究，領先企業已經開始使用AI代理來執行工作，而不是只是回答問題。</p>    <h2>企業AI的轉變</h2>    <p>企業AI從助手轉變為執行者，這是個革命性的變化。領先企業已經開始看到成果，例如使用ChatGPT和Codex來執行工作。這些工具可以幫助員工完成工作，而不是只是提供資訊。</p>    <h2>領先企業的秘訣</h2>    <p>領先企業在AI採用上已經拉開了其他公司的距離。根據研究，領先企業每月產生的輸出代碼是普通企業的8.3倍。這是因為領先企業已經開始使用AI代理來執行工作，而不是只是回答問題。</p>    <h2>編輯悄悄話</h2>    <p>AI革命來了，企業該如何應對？答案是：行動！不要猶豫，立即開始探索AI的可能性，並將其應用於你的企業。你會發現，AI可以幫助你提高效率，降低成本，甚至創造新的商機。所以，別等了，現在就開始吧！",
+    "score": 90,
+    "takeaways": [
+      "企業AI從回答問題轉變為執行工作",
+      "領先企業在AI採用上已經拉開了其他公司的距離",
+      "AI代理需要正確的.context和工具才能有效運作"
+    ],
+    "punchline": "AI革命來了，企業該如何應對？",
+    "social_posts": {
+      "threads": "你是否還在猶豫是否該將AI應用於你的企業？現在是行動的時候了！領先企業已經開始使用AI代理來執行工作，而不是只是回答問題。#AI #企業 #革命",
+      "facebook": "企業AI的轉變：從助手轉變為執行者。領先企業已經開始看到成果，你的公司還在等什麼？立即開始探索AI的可能性，並將其應用於你的企業。",
+      "viral_hook": "AI革命來了，企業該如何應對？"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2If00wbX68BibN4DuBTlxC/32dc95f1c054f1c46a91179fef80b55c/Frame.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "date": "2026-08-13"
+  }
+]
