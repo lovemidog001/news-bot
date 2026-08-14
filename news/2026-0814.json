@@ -1,0 +1,244 @@
+[
+  {
+    "id": "001",
+    "title": "AI 新世代！Strands Agents、LeRobot 和 Hugging Face Storage Buckets 讓你輕鬆錄製、訓練和部署模型",
+    "summary": "想成為 AI 大師？現在你可以從一處進行錄製、訓練和部署模型，Strands Agents、LeRobot 和 Hugging Face Storage Buckets 是你的最佳幫手",
+    "content": "<p>想成為 AI 大師？現在你可以從一處進行錄製、訓練和部署模型，Strands Agents、LeRobot 和 Hugging Face Storage Buckets 是你的最佳幫手。</p>    <h2>什麼是 Strands Agents？</h2>    <p>Strands Agents 是一個可以讓你輕鬆錄製和訓練模型的工具，讓你可以快速地建立和訓練模型。</p>    <h2>如何使用 LeRobot 和 Hugging Face Storage Buckets？</h2>    <p>LeRobot 提供了強大的模型部署功能，讓你可以輕鬆地部署模型，而 Hugging Face Storage Buckets 是你的模型儲存和管理好幫手，讓你可以輕鬆地管理和儲存模型。</p>    <h2>編輯悄悄話</h2>    <p>現在，你可以從一處開始你的 AI 之旅，成為 AI 大師！記得要善用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets，讓你的 AI 之旅更輕鬆、更愉快！</p>",
+    "score": 90,
+    "takeaways": [
+      "Strands Agents 可以讓你輕鬆錄製和訓練模型",
+      "LeRobot 提供了強大的模型部署功能",
+      "Hugging Face Storage Buckets 是你的模型儲存和管理好幫手"
+    ],
+    "punchline": "AI 新世代，從一處開始",
+    "social_posts": {
+      "threads": "想成為 AI 大師？\n現在你可以從一處進行錄製、訓練和部署模型，Strands Agents、LeRobot 和 Hugging Face Storage Buckets 是你的最佳幫手。\n讓我們一起成為 AI 大師！",
+      "facebook": "想成為 AI 大師？現在你可以從一處進行錄製、訓練和部署模型，Strands Agents、LeRobot 和 Hugging Face Storage Buckets 是你的最佳幫手。點擊連結了解更多！",
+      "viral_hook": "AI 新世代，從一處開始！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6a1dc0f2b4238bb17ff94794/St00mBynNYpgz93MpL17G.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "002",
+    "title": "用 Amazon Bedrock AgentCore Observability 解決 AI 辨識困擾！",
+    "summary": "現在，你可以透過 Amazon Bedrock AgentCore Observability 來監控和分析 AI 代理人的效能，無論它們是在 AWS、Google Cloud Platform、Azure，還是在本地運行。這篇文章將教你如何設定和使用這個強大的工具。",
+    "content": "<h2>什麼是 Amazon Bedrock AgentCore Observability？</h2>    <p>Amazon Bedrock AgentCore Observability 是一個強大的工具，讓你可以監控和分析 AI 代理人的效能。它支援多雲端和本地環境，包括 AWS、Google Cloud Platform、Azure。</p>    <p>透過這個工具，你可以獲得對 AI 代理人行為的洞察，包括它們的推理鏈、工具調用和模型輸出。這讓你可以偵測錯誤、監控有害或離題的回應、追蹤令牌使用情況以控制成本，並審計代理人行為跨不同的環境。</p>    <h2>如何設定 Amazon Bedrock AgentCore Observability</h2>    <p>為了設定 Amazon Bedrock AgentCore Observability，你需要先安裝 AWS Distro for OpenTelemetry (ADOT) 和 IAM 認證。然後，你可以按照以下步驟來配置和運行你的 AI 代理人：</p>    <ul>      <li>在你的非 AWS 環境中安裝 ADOT 自動儀表化和 OTLP 匯出器</li>      <li>設定你的 IAM 使用者認證為環境變數</li>      <li>運行你的 AI 代理人並路由遙測數據到 AgentCore Observability 儀表板</li>    </ul>    <h2>編輯悄悄話</h2>    <p>現在，你已經可以透過 Amazon Bedrock AgentCore Observability 來監控和分析你的 AI 代理人的效能了！不要再讓你的 AI 代理人在黑暗中運行，讓它們變得更聰明、更高效！</p>",
+    "score": 90,
+    "takeaways": [
+      "透過 Amazon Bedrock AgentCore Observability 監控和分析 AI 代理人的效能",
+      "支援多雲端和本地環境，包括 AWS、Google Cloud Platform、Azure",
+      "使用 AWS Distro for OpenTelemetry (ADOT) 和 IAM 認證來路由遙測數據"
+    ],
+    "punchline": "讓你的 AI 代理人更聰明、更高效！",
+    "social_posts": {
+      "threads": "你知道嗎？現在你可以透過 Amazon Bedrock AgentCore Observability 來監控和分析你的 AI 代理人的效能！\n讓你的 AI 代理人更聰明、更高效！",
+      "facebook": "透過 Amazon Bedrock AgentCore Observability 監控和分析你的 AI 代理人的效能，支援多雲端和本地環境！",
+      "viral_hook": "讓你的 AI 代理人更聰明、更高效！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/10/ML-20910-featured-image.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/monitor-on-premises-and-multi-cloud-ai-agents-with-agentcore-observability/",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "003",
+    "title": "別再被騙！WhatsApp 新推「詐騙警報」功能，讓你安全又安心",
+    "summary": "WhatsApp 推出「詐騙警報」功能，使用機器學習模型偵測詐騙訊息，保護用戶隱私和安全",
+    "content": "<p>WhatsApp 推出「詐騙警報」功能，使用機器學習模型偵測詐騙訊息，保護用戶隱私和安全。這個功能完全在用戶設備上運行，無需將訊息內容傳輸到伺服器。</p>    <h2>什麼是「詐騙警報」功能？</h2>    <p>「詐騙警報」功能使用機器學習模型偵測詐騙訊息，當模型認為某個訊息可能是詐騙時，會在聊天窗口中顯示警報。用戶可以自行控制是否啟用此功能，並且可以報告錯誤的警報。</p>    <h2>如何確保用戶隱私和安全？</h2>    <p>WhatsApp 的「詐騙警報」功能完全在用戶設備上運行，無需將訊息內容傳輸到伺服器。這意味著用戶的隱私和安全得到充分保護。另外，WhatsApp 還提供了多重保障機制，例如用戶可以自行控制是否啟用此功能，並且可以報告錯誤的警報。</p>    <h2>編輯悄悄話</h2>    <p>別再被騙！WhatsApp 的「詐騙警報」功能讓你安全又安心。現在，就去試試這個功能吧，讓你的 WhatsApp 使用體驗更加安全和舒適！",
+    "score": 90,
+    "takeaways": [
+      "WhatsApp 的「詐騙警報」功能使用機器學習模型偵測詐騙訊息",
+      "功能完全在用戶設備上運行，無需將訊息內容傳輸到伺服器",
+      "用戶可以自行控制是否啟用此功能，並且可以報告錯誤的警報"
+    ],
+    "punchline": "別再被騙！WhatsApp 的「詐騙警報」功能讓你安全又安心",
+    "social_posts": {
+      "threads": "你是否曾經被詐騙過？現在，WhatsApp 推出「詐騙警報」功能，使用機器學習模型偵測詐騙訊息，保護用戶隱私和安全。別再被騙！試試這個功能吧！",
+      "facebook": "WhatsApp 推出「詐騙警報」功能，使用機器學習模型偵測詐騙訊息，保護用戶隱私和安全。這個功能完全在用戶設備上運行，無需將訊息內容傳輸到伺服器。現在，就去試試這個功能吧，讓你的 WhatsApp 使用體驗更加安全和舒適！",
+      "viral_hook": "別再被騙！WhatsApp 的「詐騙警報」功能讓你安全又安心"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/WhatsApp-Scam-Alert.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "004",
+    "title": "AI成本優化大揭秘：從小試驗到實實在在的ROI",
+    "summary": "了解如何透過AI成本管理將小試驗轉化為實際ROI，讓您的組織邁向下一階段",
+    "content": "<p>你是否曾經為AI項目的成本而頭痛？你是否想知道如何將AI小試驗轉化為實際的ROI？</p>    <h2>什麼是AI成本管理？</h2>    <p>AI成本管理是指透過可視化、治理和優化等方式，幫助組織更好地管理AI項目的成本，從而提升AI的效率和產出。</p>    <p>透過AI成本管理，組織可以更好地了解AI項目的成本結構，找出浪費和低效的部分，從而進行優化和改進。</p>    <h2>如何實現AI成本優化</h2>    <p>要實現AI成本優化，組織需要採取以下步驟：</p>    <ul>      <li>建立清晰的AI戰略和目標</li>      <li>實施有效的AI成本管理和監控</li>      <li>透過數據分析和機器學習進行優化</li>    </ul>    <p>透過這些步驟，組織可以將AI小試驗轉化為實際的ROI，從而提升AI的效率和產出。</p>    <h2>編輯悄悄話</h2>    <p>AI成本管理是一個非常重要的課題，透過有效的管理和優化，組織可以將AI的小試驗轉化為實際的ROI。所以，別再猶豫了，開始你的AI成本管理之旅吧！",
+    "score": 90,
+    "takeaways": [
+      "AI成本管理的重要性",
+      "如何透過可視化和治理提升AI效率",
+      "優化AI成本的實務應用"
+    ],
+    "punchline": "AI成本管理：從小試驗到實際ROI",
+    "social_posts": {
+      "threads": "你知道嗎？AI成本管理可以幫助你將小試驗轉化為實際的ROI！\n透過可視化、治理和優化等方式，組織可以更好地管理AI項目的成本，從而提升AI的效率和產出。\n開始你的AI成本管理之旅吧！",
+      "facebook": "AI成本管理：從小試驗到實際ROI\n了解如何透過AI成本管理將小試驗轉化為實際ROI，讓您的組織邁向下一階段\n點擊連結了解更多：[連結]",
+      "viral_hook": "AI成本管理大揭秘：從小試驗到實際ROI！"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "005",
+    "title": "Elastic 9.5 來了！從搜尋到觀察，全面升級你的資料分析",
+    "summary": "Elastic 9.5 版本推出，帶來了多項重大的更新，包括原生 PromQL 支援、Columnar Mode 等，讓你的資料分析更上一層樓",
+    "content": "<p>你好，從 Elastic DevRel 團隊來的問候！在這個新聞稿中，我們將介紹 Elastic 9.5 版本的新功能，包括原生 PromQL 支援、Columnar Mode 等。</p>    <h2>什麼是 Columnar Mode？</h2>    <p>Columnar Mode 是一個新的索引模式，允許你以欄位為單位儲存資料，而不是傳統的以行為單位儲存。這樣可以減少儲存空間，提高查詢速度。</p>    <h2>原生 PromQL 支援</h2>    <p>原生 PromQL 支援讓你可以更容易地監控和分析資料。現在，你可以使用 PromQL 查詢語言來查詢你的資料，並且可以與 ES|QL 查詢語言一起使用。</p>    <p>另外，Elastic 9.5 版本還推出了多項其他新功能，包括 Agent Builder 的更新、新的 semantic field 等。這些新功能將會讓你的資料分析更上一層樓。</p>    <h2>編輯悄悄話</h2>    <p>所以，別再等待了，趕快升級你的 Elastic 9.5 版本，體驗全新的資料分析功能吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "Elastic 9.5 版本推出，帶來了多項重大的更新",
+      "Columnar Mode 可以減少儲存空間，提高查詢速度",
+      "原生 PromQL 支援讓你可以更容易地監控和分析資料"
+    ],
+    "punchline": "升級你的資料分析，從搜尋到觀察",
+    "social_posts": {
+      "threads": "Elastic 9.5 來了！從搜尋到觀察，全面升級你的資料分析\n\n#Elastic #資料分析 #升級",
+      "facebook": "Elastic 9.5 版本推出，帶來了多項重大的更新，包括原生 PromQL 支援、Columnar Mode 等。點擊連結了解更多：https://example.com",
+      "viral_hook": "升級你的資料分析，從搜尋到觀察"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltc83b061cbcc253e2/6a7e1d7c89eb5cd090ab512d/Blog_Header_Templates_(3).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/devrel-newsletter-august-2026",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "006",
+    "title": "WorkBuddy從入門到精通的終極指南，你絕不能錯過！",
+    "summary": "想掌握WorkBuddy的所有技巧嗎？這篇文章將帶你從入門到精通，讓你成為WorkBuddy大師！",
+    "content": "<p>你是否正在尋找一款可以幫助你提高工作效率的工具？WorkBuddy是你的最佳選擇！這款工具可以幫助你管理任務、跟蹤時間和提高生產力。</p>    <h2>WorkBuddy的基本功能</h2>    <p>WorkBuddy的基本功能包括任務管理、時間跟蹤和生產力分析。這些功能可以幫助你更好地管理你的工作和生活。</p>    <h2>WorkBuddy的進階技巧</h2>    <p>除了基本功能外，WorkBuddy還有許多進階技巧可以幫助你更高效地使用這款工具。例如，你可以使用WorkBuddy的API來整合其他工具和服務，或者使用WorkBuddy的移動應用來隨時隨地管理你的任務。</p>    <h2>編輯悄悄話</h2>    <p>WorkBuddy是一款非常強大的工具，但是它的真正價值在於它可以幫助你提高工作效率和生產力。所以，不要再猶豫了，立即下載WorkBuddy，開始你的高效工作之旅吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "了解WorkBuddy的基本功能",
+      "學習WorkBuddy的進階技巧",
+      "掌握WorkBuddy的最佳實踐"
+    ],
+    "punchline": "WorkBuddy從入門到精通，一步到位！",
+    "social_posts": {
+      "threads": "你們有沒有使用過WorkBuddy？\n我最近發現這款工具真的很強大！\n它可以幫助我管理任務、跟蹤時間和提高生產力。\n大家有沒有什麼好的使用技巧可以分享呢？",
+      "facebook": "WorkBuddy從入門到精通的終極指南，你絕不能錯過！這篇文章將帶你從入門到精通，讓你成為WorkBuddy大師！點擊連結，立即下載WorkBuddy，開始你的高效工作之旅吧！",
+      "viral_hook": "WorkBuddy從入門到精通，只需3分鐘！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803569&idx=1&sn=325170a0e2bd7117d51dfabbbd79539b",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "007",
+    "title": "API 組合的奧秘：如何讓你的應用程式更快、更穩定",
+    "summary": "在服務導向架構中，單一產品畫面需要從多個服務中取得資料，API 組合是解決這個問題的關鍵",
+    "content": "<p>在服務導向架構中，單一產品畫面需要從多個服務中取得資料，例如用戶檔案、最近的訂單、送貨狀態和推薦清單等。每個服務只儲存自己的資料，因此沒有任何一個服務可以獨自返回完整的資料集。這意味著呼叫者需要發出多個請求，並合併結果以滿足用戶介面的需求。這個合併步驟就是 API 組合，它存在於每個將資料分散在多個服務的系統中。</p>    <h2>API 組合的挑戰</h2>    <p>API 組合的位置會影響延遲、緩存和版本控制。例如，如果組合操作在手機應用程式中執行，可能會增加延遲；而如果在伺服器中執行，可能會減少延遲。但是，組合操作的位置也會影響緩存和版本控制的複雜度。</p>    <h2>解決方案和工具</h2>    <p>有多種解決方案和工具可以幫助解決 API 組合的挑戰，例如 GraphQL、Backends for Frontends 和 Composition、Aggregation、Orchestration 等。GraphQL 是一個強大的組合層工具，可以幫助減少延遲和提高效率。</p>    <h2>編輯悄悄話</h2>    <p>API 組合是解決服務導向架構的關鍵，但它也是一個複雜的問題。選擇合適的解決方案和工具需要仔細考慮延遲、緩存和版本控制的需求。所以，別害怕去探索和學習更多關於 API 組合的知識喔！",
+    "score": 90,
+    "takeaways": [
+      "API 組合可以讓應用程式更快、更穩定",
+      "組合的位置會影響延遲、緩存和版本控制",
+      "GraphQL 是一個強大的組合層工具"
+    ],
+    "punchline": "API 組合是解決服務導向架構的關鍵",
+    "social_posts": {
+      "threads": "大家好！今天要聊聊 API 組合的奧秘。API 組合是解決服務導向架構的關鍵，但它也是一個複雜的問題。讓我們一起探索和學習更多關於 API 組合的知識！",
+      "facebook": "API 組合是解決服務導向架構的關鍵。選擇合適的解決方案和工具需要仔細考慮延遲、緩存和版本控制的需求。點擊連結了解更多！",
+      "viral_hook": "API 組合是解決服務導向架構的關鍵，但你知道嗎？它也是一個複雜的問題！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!mC8C!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F355ac32b-31b1-4ad4-b329-9de462f1de0b_2650x3068.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/a-detailed-guide-to-api-composition",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "008",
+    "title": "爆炸性新聞：BigQuery Graph 讓 AI 更聰明！",
+    "summary": "BigQuery Graph 解決了 AI 在處理複雜資料關係時的痛點，讓企業能夠更好地管理和部署關係網絡",
+    "content": "<p>BigQuery Graph 是一個強大的工具，能夠讓企業更好地管理和部署關係網絡。它解決了傳統資料結構的限制，讓 AI 能夠更好地理解複雜的資料關係。</p>    <h2>什麼是 BigQuery Graph？</h2>    <p>BigQuery Graph 是一個基於圖形的資料庫，能夠讓企業更好地管理和部署關係網絡。它使用圖形的方式來表示資料之間的關係，讓 AI 能夠更好地理解複雜的資料關係。</p>    <h2>BigQuery Graph 的優點</h2>    <p>BigQuery Graph 有許多優點，包括能夠更好地管理和部署關係網絡、解決了傳統資料結構的限制、讓 AI 能夠更好地理解複雜的資料關係等。</p>    <h2>BigQuery Graph 與 Looker 的整合</h2>    <p>BigQuery Graph 與 Looker 的整合讓企業能夠更好地定義和管理商業邏輯。Looker 是一個商業智能平台，能夠讓企業更好地分析和理解資料。BigQuery Graph 與 Looker 的整合讓企業能夠更好地管理和部署關係網絡。</p>    <h2>編輯悄悄話</h2>    <p>BigQuery Graph 是一個強大的工具，能夠讓企業更好地管理和部署關係網絡。它解決了傳統資料結構的限制，讓 AI 能夠更好地理解複雜的資料關係。如果你想讓你的企業更好地管理和部署關係網絡，BigQuery Graph 是一個不錯的選擇。</p>",
+    "score": 90,
+    "takeaways": [
+      "BigQuery Graph 讓 AI 能夠更好地理解複雜的資料關係",
+      "BigQuery Graph 解決了傳統資料結構的限制，讓企業能夠更好地管理和部署關係網絡",
+      "BigQuery Graph 與 Looker 的整合讓企業能夠更好地定義和管理商業邏輯"
+    ],
+    "punchline": "BigQuery Graph 讓 AI 更聰明！",
+    "social_posts": {
+      "threads": "BigQuery Graph 讓 AI 更聰明！\n它解決了傳統資料結構的限制，讓企業能夠更好地管理和部署關係網絡\n#BigQueryGraph #AI",
+      "facebook": "BigQuery Graph 是一個強大的工具，能夠讓企業更好地管理和部署關係網絡。它解決了傳統資料結構的限制，讓 AI 能夠更好地理解複雜的資料關係。",
+      "viral_hook": "BigQuery Graph 讓 AI 更聰明！"
+    },
+    "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg",
+    "source": "Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/bigquery-graphs-with-measures-for-trusted-agentic-workloads/",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "009",
+    "title": "AI 新聞大爆炸！Opus 5、Gemini 3.6、Kimi K3，你該知道的都在這裡！",
+    "summary": "Anthropic 推出 Opus 5，Google 釋出 Gemini 3.6，Moonshot AI 發布 Kimi K3... 這週的 AI 新聞太多太精彩！",
+    "content": "<p>這週的 AI 新聞真是多到爆炸！Anthropic 推出 Opus 5，Google 釋出 Gemini 3.6，Moonshot AI 發布 Kimi K3... 每一則新聞都充滿了驚喜和期待。</p>    <h2>Opus 5 和 Gemini 3.6</h2>    <p>Anthropic 的 Opus 5 擁有 Fable 5-like 的能力，讓人們對於 AI 的未來充滿了期待。同時，Google 的 Gemini 3.6 包含 cyber 模型，讓人們對於 AI 的安全性感到擔憂。</p>    <h2>Kimi K3 和其他新聞</h2>    <p>Moonshot AI 的 Kimi K3 可以進行 advanced reasoning 和 coding，讓人們對於 AI 的潛力感到驚嘆。另外，OpenAI 的 ChatGPT Health 也開始推出，讓人們對於 AI 在健康領域的應用感到期待。</p>    <h2>編輯悄悄話</h2>    <p>AI 的進步速度太快，你還跟得上嗎？如果你還沒有開始關注 AI 的發展，那就趕快開始吧！因為在這個迅速變化的世界中，誰都可能成為 AI 的主人。</p>",
+    "score": 90,
+    "takeaways": [
+      "Anthropic 的 Opus 5 擁有 Fable 5-like 的能力",
+      "Google 的 Gemini 3.6 包含 cyber 模型",
+      "Moonshot AI 的 Kimi K3 可以進行 advanced reasoning 和 coding"
+    ],
+    "punchline": "AI 的進步速度太快，你還跟得上嗎？",
+    "social_posts": {
+      "threads": "這週的 AI 新聞太多太精彩！\nAnthropic 推出 Opus 5\nGoogle 釋出 Gemini 3.6\nMoonshot AI 發布 Kimi K3...\n每一則新聞都充滿了驚喜和期待。\n你還跟得上嗎？",
+      "facebook": "AI 新聞大爆炸！Opus 5、Gemini 3.6、Kimi K3，你該知道的都在這裡！點擊連結了解更多：[連結]",
+      "viral_hook": "AI 的進步速度太快，你還跟得上嗎？"
+    },
+    "image": "https://substackcdn.com/image/youtube/w_728,c_limit/MNS7GtfmoXg",
+    "source": "Last Week in AI",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-253-opus-5-gemini-36",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "010",
+    "title": "瞬間導航大革新！Next.js 16.3 如何幫 v0 實現秒開頁面",
+    "summary": "Next.js 16.3 的新工具讓 v0 的導航瞬間完成，採用測試和編碼代理的方法，實現了導航的極速體驗",
+    "content": "<p>最近，Next.js 16.3 的新工具讓 v0 的導航瞬間完成，採用測試和編碼代理的方法，實現了導航的極速體驗。</p>    <h2>什麼是瞬間導航？</h2>    <p>瞬間導航是指當用戶點擊鏈接時，頁面能夠立即加載和顯示，無需等待。這對於用戶體驗有著巨大的影響，能夠大幅提升用戶的滿意度和留存率。</p>    <h2>如何實現瞬間導航</h2>    <p>Next.js 16.3 的新工具提供了一種方法，讓開發者能夠實現瞬間導航。這種方法採用測試和編碼代理的方式，自動修復導航的問題，實現導航的極速體驗。</p>    <p>在 v0 的例子中，開發者使用了一個編碼代理，採用測試和修復的循環方式，實現了導航的瞬間完成。代理會自動寫入失敗的測試，修復導航的問題，然後重新運行測試，直到測試通過為止。</p>    <h2>編輯悄悄話</h2>    <p>瞬間導航的實現，對於用戶體驗有著巨大的影響。開發者可以採用 Next.js 16.3 的新工具和測試、編碼代理的方法，實現導航的極速體驗。這樣，不僅能夠提升用戶的滿意度和留存率，也能夠讓開發者更加輕鬆地實現瞬間導航的功能。</p>",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.3 的新工具實現了導航的瞬間完成",
+      "使用測試和編碼代理的方法可以自動修復導航的問題",
+      "v0 的導航速度得到了顯著提升"
+    ],
+    "punchline": "瞬間導航，大幅提升用戶體驗",
+    "social_posts": {
+      "threads": "你知道嗎？Next.js 16.3 的新工具可以讓你的頁面瞬間加載和顯示！採用測試和編碼代理的方法，實現導航的極速體驗。#瞬間導航 #Nextjs",
+      "facebook": "提升用戶體驗，實現瞬間導航！Next.js 16.3 的新工具提供了一種方法，讓開發者能夠實現瞬間導航。採用測試和編碼代理的方式，自動修復導航的問題，實現導航的極速體驗。",
+      "viral_hook": "瞬間導航，大幅提升用戶體驗！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/making-v0-navigations-instant/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/making-v0-navigations-instant",
+    "date": "2026-08-14"
+  },
+  {
+    "id": "011",
+    "title": "GPT-5.6 大革命：AI 建設指南，讓你的智慧更上一層樓！",
+    "summary": "最新的 GPT-5.6 模型讓 AI 建設更快、更省錢、更智能，了解它的秘密吧！",
+    "content": "<p>你是否想知道如何使用 GPT-5.6 模型來建構更好的 AI 代理？這篇文章將為你揭開 GPT-5.6 的秘密，讓你了解如何使用這個模型來提升你的 AI 建設能力。</p>    <h2>什麼是 GPT-5.6？</h2>    <p>GPT-5.6 是一個新一代的 AI 模型，它可以讓 AI 代理更加快速和成本效益。這個模型使用了新的 API 控制和模型選擇技術，讓 AI 可以更好地完成複雜任務。</p>    <h2>如何使用 GPT-5.6</h2>    <p>要使用 GPT-5.6，你需要了解如何選擇合適的模型和 API 控制。這篇文章將為你提供詳細的指導，讓你可以快速上手 GPT-5.6。</p>    <ul>      <li>模型選擇：了解如何選擇合適的模型來完成你的任務</li>      <li>API 控制：了解如何使用新的 API 控制來讓 AI 更加智能</li>      <li>多代理和工具呼叫：了解如何使用多代理和工具呼叫功能來完成複雜任務</li>    </ul>    <h2>編輯悄悄話</h2>    <p>最後，編輯想說，GPT-5.6 是一個革命性的 AI 模型，它可以讓你的 AI 建設變得更快、更省錢、更智能。別錯過這個機會，趕快來了解 GPT-5.6 的秘密吧！</p>",
+    "score": 90,
+    "takeaways": [
+      "GPT-5.6 模型使得 AI 建設更加快速和成本效益",
+      "新的 API 控制和模型選擇讓 AI 更加智能",
+      "多代理和工具呼叫功能讓 AI 可以更好地完成複雜任務"
+    ],
+    "punchline": "GPT-5.6 讓 AI 建設變得更快、更省錢、更智能！",
+    "social_posts": {
+      "threads": "你知道嗎？GPT-5.6 是一個新一代的 AI 模型，它可以讓 AI 代理更加快速和成本效益！\n來了解它的秘密吧！",
+      "facebook": "最新的 GPT-5.6 模型讓 AI 建設更快、更省錢、更智能！了解它的秘密，提升你的 AI 建設能力！",
+      "viral_hook": "GPT-5.6 讓 AI 建設變得更快、更省錢、更智能！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4BXdV1bAQE16SMC7CjzCyn/a4bb2a0a0433b2b449b6cf9bce7b7fda/the-builders-guide-to-gpt-5-6-option-075-open-graph.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "date": "2026-08-14"
+  }
+]
