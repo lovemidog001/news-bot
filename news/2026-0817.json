@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "id": "001",
+    "title": "NVIDIA Nemotron 3.5 Lightning登場！讓你的AI模型更快更強",
+    "summary": "NVIDIA Nemotron 3.5 Lightning是一個開源模型，適用於高容量代理工作負載。它可以提供高達4倍的吞吐量和高達30%的任務完成速度。現在，你可以通過Amazon SageMaker JumpStart部署這個模型。",
+    "content": "<h2>NVIDIA Nemotron 3.5 Lightning登場！</h2><p>NVIDIA Nemotron 3.5 Lightning是一個開源模型，適用於高容量代理工作負載。它可以提供高達4倍的吞吐量和高達30%的任務完成速度。現在，你可以通過Amazon SageMaker JumpStart部署這個模型。</p><h2>什麼是NVIDIA Nemotron 3.5 Lightning？</h2><p>NVIDIA Nemotron 3.5 Lightning是一個開源模型，適用於高容量代理工作負載。它使用混合Mixture-of-Experts（MoE）架構，特別針對代理工具使用進行訓練。它可以在單個支持的GPU上運行，無需前沿級別的基礎設施。</p><p>以下是NVIDIA Nemotron 3.5 Lightning的關鍵規格和性能特徵的總結。</p><h2>如何部署NVIDIA Nemotron 3.5 Lightning？</h2><p>你可以通過Amazon SageMaker JumpStart部署NVIDIA Nemotron 3.5 Lightning。首先，確保你已經安裝了必要的軟件和硬件。然後，按照以下步驟進行部署。</p><ul><li>登錄Amazon SageMaker JumpStart。</li><li>選擇NVIDIA Nemotron 3.5 Lightning模型。</li><li>設定模型參數和部署選項。</li><li>啟動模型部署。</li></ul><h2>編輯悄悄話</h2><p>現在，你可以體驗NVIDIA Nemotron 3.5 Lightning的強大功能！部署這個模型，讓你的AI模型更快更強！</p>",
+    "score": 90,
+    "takeaways": [
+      "NVIDIA Nemotron 3.5 Lightning是一個開源模型，適用於高容量代理工作負載。",
+      "它可以提供高達4倍的吞吐量和高達30%的任務完成速度。",
+      "你可以通過Amazon SageMaker JumpStart部署這個模型。"
+    ],
+    "punchline": "讓你的AI模型更快更強！",
+    "social_posts": {
+      "threads": "NVIDIA Nemotron 3.5 Lightning登場！讓你的AI模型更快更強！",
+      "facebook": "NVIDIA Nemotron 3.5 Lightning登場！讓你的AI模型更快更強！你可以通過Amazon SageMaker JumpStart部署這個模型。",
+      "viral_hook": "讓你的AI模型更快更強！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-21710-featured-image.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "002",
+    "title": "AI 成本管理大揭密！從小試驗到實實在在的 ROI",
+    "summary": "了解如何透過 AI 成本管理，讓企業從小試驗走向實實在在的 ROI 回報，透過更好的可視性、治理和最佳化。",
+    "content": "<h2>什麼是 AI 成本管理？</h2>    <p>AI 成本管理是指企業透過各種工具和策略來最佳化其 AI 投資的過程。透過 AI 成本管理，企業可以實現從小試驗到實實在在的 ROI 回報。</p>    <h2>如何透過 AI 成本管理來實現 ROI 回報？</h2>    <p>企業可以透過以下幾個步驟來實現 ROI 回報：</p>    <ul>      <li>提高可視性：企業需要對其 AI 投資有更好的可視性，以便更好地管理和最佳化。</li>      <li>實施治理：企業需要實施治理機制，以便確保其 AI 投資是符合其戰略目標的。</li>      <li>最佳化：企業需要透過最佳化來提高其 AI 投資的效率和效果。</li>    </ul>    <h2>編輯悄悄話</h2>    <p>AI 成本管理是企業實現從小試驗到實實在在的 ROI 回報的關鍵。透過提高可視性、實施治理和最佳化，企業可以優化其 AI 投資，實現更好的效果和更高的 ROI 回報。</p>",
+    "score": 85,
+    "takeaways": [
+      "AI 成本管理可以幫助企業實現從小試驗到實實在在的 ROI 回報",
+      "透過更好的可視性、治理和最佳化，可以提高 AI 成本管理的效率",
+      "企業可以透過 AI 成本管理來優化其 AI 投資"
+    ],
+    "punchline": "AI 成本管理是企業實現從小試驗到實實在在的 ROI 回報的關鍵",
+    "social_posts": {
+      "threads": "AI 成本管理大揭密！從小試驗到實實在在的 ROI 回報。企業可以透過提高可視性、實施治理和最佳化來優化其 AI 投資。#AI #成本管理 #ROI",
+      "facebook": "了解如何透過 AI 成本管理，讓企業從小試驗走向實實在在的 ROI 回報。點擊連結，查看完整文章！",
+      "viral_hook": "AI 成本管理大揭密！從小試驗到實實在在的 ROI 回報。"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "003",
+    "title": "Next.js 16.3 如何讓你的應用瞬間反應？",
+    "summary": "Next.js 16.3 帶來了 Instant Navigations 的新工具，讓你的應用瞬間反應！我們如何使用這些工具讓 v0 的導航瞬間反應？",
+    "content": "<h2>Instant Navigations 的新工具</h2>    <p>Next.js 16.3 帶來了 Instant Navigations 的新工具，讓你的應用瞬間反應！這些工具包括 Prerendering、Caching 和 Instant Insights 等功能。</p>    <h2>如何使用這些工具</h2>    <p>我們使用這些工具讓 v0 的導航瞬間反應，並且分享了我們的經驗。首先，我們使用 Prerendering 和 Caching 來讓 v0 的導航瞬間反應。然後，我們使用 Instant Insights 來自動地檢測非瞬間反應的路由。</p>    <p>我們還使用了一個代理來自動地修復慢導航。代理會寫一個失敗的測試，然後修復導航，最後重新運行測試直到通過。</p>    <h2>編輯悄悄話</h2>    <p>讓你的應用瞬間反應，不再是夢想！使用 Next.js 16.3 的新工具，你可以讓你的應用瞬間反應，並且提高用戶體驗。",
+    "score": 90,
+    "takeaways": [
+      "Next.js 16.3 引入了 Instant Navigations 的新工具",
+      "這些工具讓你可以在不移動任何數據獲取或渲染代碼的情況下，讓你的應用瞬間反應",
+      "我們使用這些工具讓 v0 的導航瞬間反應，並且分享了我們的經驗"
+    ],
+    "punchline": "讓你的應用瞬間反應，不再是夢想！",
+    "social_posts": {
+      "threads": "讓你的應用瞬間反應！使用 Next.js 16.3 的新工具，你可以讓你的應用瞬間反應，並且提高用戶體驗。#Nextjs #InstantNavigations",
+      "facebook": "讓你的應用瞬間反應！使用 Next.js 16.3 的新工具，你可以讓你的應用瞬間反應，並且提高用戶體驗。點擊連結了解更多！",
+      "viral_hook": "讓你的應用瞬間反應！"
+    },
+    "image": "https://h8dxkfmaphn8o0p3.public.blob.vercel-storage.com/static/blog/making-v0-navigations-instant/twitter-card.png",
+    "source": "Next.js Blog",
+    "url": "https://nextjs.org/blog/making-v0-navigations-instant",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "004",
+    "title": "AI 將改變網路安全？OpenAI 如何強化防禦，讓你也能做到！",
+    "summary": "AI 正在改變網路安全的格局，OpenAI 如何強化防禦，讓你也能做到！了解 AI 如何幫助防禦者和攻擊者，並學習如何提高網路安全。",
+    "content": "<h2>AI 將改變網路安全？</h2><p>AI 正在改變網路安全的格局，讓防禦者和攻擊者都需要適應新的挑戰。OpenAI 如何強化防禦，讓你也能做到！</p><h2>OpenAI 的防禦戰略</h2><p>OpenAI 正在使用 AI 技術來強化防禦，包括訓練模型來寫安全代碼和進行數學證明。這些技術可以幫助防禦者找到和修復安全漏洞，並提高網路安全。</p><p>例如，OpenAI 的模型可以在短時間內找到和修復安全漏洞。它可以檢查網站的安全設定，找到安全漏洞，並提供修復建議。這些功能可以幫助防禦者提高網路安全，並保護網站免受攻擊。</p><h2>編輯悄悄話</h2><p>網路安全是一場持續的戰爭，AI 技術可以幫助防禦者和攻擊者都需要適應新的挑戰。讓我們一起迎接新的挑戰，提高網路安全，並保護網站免受攻擊！</p>",
+    "score": 90,
+    "takeaways": [
+      "AI 正在改變網路安全的格局，讓防禦者和攻擊者都需要適應新的挑戰。",
+      "OpenAI 如何強化防禦，讓你也能做到！",
+      "了解 AI 如何幫助防禦者和攻擊者，並學習如何提高網路安全。"
+    ],
+    "punchline": "AI 將改變網路安全？讓我們一起迎接新的挑戰！",
+    "social_posts": {
+      "threads": "AI 將改變網路安全？讓我們一起迎接新的挑戰！#網路安全 #AI",
+      "facebook": "了解 AI 如何幫助防禦者和攻擊者，並學習如何提高網路安全。點擊連結，閱讀更多！",
+      "viral_hook": "AI 將改變網路安全？讓我們一起迎接新的挑戰！"
+    },
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/yYqBqvM2uvc7B9HulIW4O/a3fa616ce523411cc59534295c4e6ec9/the-defenders-window-seo.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/the-defenders-window",
+    "date": "2026-08-17"
+  }
+]
