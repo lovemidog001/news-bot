@@ -130,5 +130,115 @@
     "source": "腾讯技术工程",
     "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803612&idx=1&sn=13be122cb61484933486e146d5724e37",
     "date": "2026-08-18"
+  },
+  {
+    "id": "007",
+    "title": "【破解支付難題】Amazon Bedrock AgentCore Payments 正式上線！",
+    "summary": "Amazon Bedrock AgentCore Payments 現已正式上線，讓 AI 代理人可以自主、安全地進行交易，帶來更高的效率和彈性。",
+    "content": "<p>Amazon Bedrock AgentCore Payments 現已正式上線，讓 AI 代理人可以自主、安全地進行交易，帶來更高的效率和彈性。這項技術可以讓代理人自主地進行微交易支付，帶來更高的效率和彈性。</p><h2>支付難題的解決方案</h2><p>AgentCore Payments 支援多種支付協議，包括 x402 和 Machine Payment Protocol (MPP)，讓企業可以選擇最適合自己的支付方案。代理人可以自主地進行微交易支付，帶來更高的效率和彈性。</p><h2>安全和可靠的支付體驗</h2><p>AgentCore Payments 提供安全和可靠的支付體驗，讓企業可以放心使用。代理人可以自主地進行支付，同時也可以設定支付上限和過期時間，確保支付的安全性。</p><h2>編輯悄悄話</h2><p>Amazon Bedrock AgentCore Payments 的正式上線，標誌著 AI 代理人的支付新時代的開始。這項技術可以帶來更高的效率和彈性，讓企業可以更好地利用 AI 代理人進行支付。同時，也可以讓代理人自主地進行支付，帶來更高的安全性和可靠性。</p>",
+    "score": 90,
+    "takeaways": [
+      "AgentCore Payments 支援多種支付協議，包括 x402 和 Machine Payment Protocol (MPP)。",
+      "代理人可以自主地進行微交易支付，帶來更高的效率和彈性。",
+      "AgentCore Payments 提供安全和可靠的支付體驗，讓企業可以放心使用。"
+    ],
+    "punchline": "【支付革命】Amazon Bedrock AgentCore Payments 正式上線，帶來 AI 代理人的支付新時代！",
+    "social_posts": {
+      "threads": "【支付革命】Amazon Bedrock AgentCore Payments 正式上線！帶來 AI 代理人的支付新時代！ #AgentCore #Payments #AI",
+      "facebook": "Amazon Bedrock AgentCore Payments 現已正式上線！讓 AI 代理人可以自主、安全地進行交易，帶來更高的效率和彈性。點擊鏈接了解更多！ #AgentCore #Payments #AI",
+      "viral_hook": "【支付難題的解決方案】Amazon Bedrock AgentCore Payments 正式上線！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/13/ML-21677-featured-image-1.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "008",
+    "title": "AI 代理人崛起！5 個關鍵考量，打造可靠的生產環境",
+    "summary": "企業從搜尋驅動體驗轉向代理人 AI 時，需求正在改變。了解如何透過上下文工程和檢索層打造可靠、生產就緒的 AI 代理人。",
+    "content": "<p>企業從搜尋驅動體驗轉向代理人 AI 時，需求正在改變。了解如何透過上下文工程和檢索層打造可靠、生產就緒的 AI 代理人。</p><h2>代理人 AI 的演進</h2><p>代理人 AI 的演進正在快速改變傳統搜尋基準。客戶不再評估平台基於傳統搜尋基準或指標，而是問：『這個解決方案能否成為代理人的檢索和上下文層？』</p><h2>上下文工程和檢索層的重要性</h2><p>上下文工程和檢索層對於打造可靠的 AI 代理人至關重要。代理人需要信任的檢索層來提供即時數據，而這需要實時數據攝取、精確度、延遲和數據新鮮度等關鍵指標。</p><h2>編輯悄悄話</h2><p>代理人 AI 的崛起正在改變企業的搜尋策略。了解如何透過上下文工程和檢索層打造可靠、生產就緒的 AI 代理人，將是您未來的關鍵競爭力。",
+    "score": 85,
+    "takeaways": [
+      "代理人 AI 的演進正在快速改變傳統搜尋基準",
+      "上下文工程和檢索層對於打造可靠的 AI 代理人至關重要",
+      "實時數據攝取不再是選擇，而是必要的基礎設施"
+    ],
+    "punchline": "您的檢索層需要提供即時數據，否則代理人的決策將迅速惡化。",
+    "social_posts": {
+      "threads": "代理人 AI 的崛起正在改變企業的搜尋策略！了解如何透過上下文工程和檢索層打造可靠、生產就緒的 AI 代理人，將是您未來的關鍵競爭力。",
+      "facebook": "企業從搜尋驅動體驗轉向代理人 AI 時，需求正在改變。了解如何透過上下文工程和檢索層打造可靠、生產就緒的 AI 代理人。",
+      "viral_hook": "代理人 AI 的崛起正在改變企業的搜尋策略！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt6f0dcbf444da0368/6a84581a06e3dd7205fe2323/idc-foundry-blog.jpg",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/context-engineering-agentic-ai",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "009",
+    "title": "開源模型的逆襲！Kimi K3、Muse Spark 1.1、Cloudflare 的反擊",
+    "summary": "開源模型 Kimi K3、Muse Spark 1.1 的推出，挑戰了傳統的封閉模型。Cloudflare 的新功能，讓網站主人可以控制 AI 代理的訪問權限，進一步改變了 AI 模型的發展方向。",
+    "content": "<h2>開源模型的逆襲</h2><p>近期，開源模型 Kimi K3、Muse Spark 1.1 的推出，挑戰了傳統的封閉模型。這些開源模型提供了更好的性能和價格優勢，進一步改變了 AI 模型的發展方向。</p><h2>Cloudflare 的反擊</h2><p>Cloudflare 的新功能，讓網站主人可以控制 AI 代理的訪問權限。這個功能可以幫助網站主人保護自己的內容和數據，進一步改善網站的安全性。</p><h2>開源模型和封閉模型之間的競爭</h2><p>開源模型和封閉模型之間的競爭，將推動 AI 模型的發展和創新。開源模型可以提供更好的性能和價格優勢，而封閉模型可以提供更好的安全性和控制權。這個競爭將推動 AI 模型的發展，為用戶提供更好的選擇。</p><h2>編輯悄悄話</h2><p>開源模型的時代來臨！開源模型的推出，挑戰了傳統的封閉模型。Cloudflare 的新功能，進一步改善了網站的安全性。開源模型和封閉模型之間的競爭，將推動 AI 模型的發展和創新。讓我們拭目以待，未來的 AI 模型將會如何發展！</p>",
+    "score": 95,
+    "takeaways": [
+      "開源模型 Kimi K3、Muse Spark 1.1 的推出，提供了更好的性能和價格優勢",
+      "Cloudflare 的新功能，讓網站主人可以控制 AI 代理的訪問權限",
+      "開源模型和封閉模型之間的競爭，將推動 AI 模型的發展和創新"
+    ],
+    "punchline": "開源模型的時代來臨！",
+    "social_posts": {
+      "threads": "開源模型的時代來臨！\n開源模型 Kimi K3、Muse Spark 1.1 的推出，挑戰了傳統的封閉模型。\nCloudflare 的新功能，進一步改善了網站的安全性。\n開源模型和封閉模型之間的競爭，將推動 AI 模型的發展和創新。\n#AI #開源模型 #封閉模型",
+      "facebook": "開源模型的時代來臨！\n開源模型 Kimi K3、Muse Spark 1.1 的推出，挑戰了傳統的封閉模型。\nCloudflare 的新功能，進一步改善了網站的安全性。\n開源模型和封閉模型之間的競爭，將推動 AI 模型的發展和創新。\n點擊連結，了解更多！\n#AI #開源模型 #封閉模型",
+      "viral_hook": "開源模型的時代來臨！"
+    },
+    "image": "",
+    "source": "deeplearning.ai",
+    "url": "https://www.deeplearning.ai/the-batch/issue-363",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "010",
+    "title": "TencentDB Agent Memory 的团队记忆实践：如何从 60% 提升到 80%",
+    "summary": "TencentDB Agent Memory 团队通过实践团队记忆，成功将任务完成率从 60% 提升到 80%。他们是如何做到的？",
+    "content": "<p>在软件开发领域，团队记忆是一个非常重要的概念。它指的是团队成员之间共享的知识和经验。TencentDB Agent Memory 团队通过实践团队记忆，成功将任务完成率从 60% 提升到 80%。</p><h2>团队记忆的实践</h2><p>那么，他们是如何做到的？首先，他们制定了清晰的目标和流程。他们将团队记忆分为三个阶段：知识共享、经验共享和技能共享。</p><p>在知识共享阶段，他们通过定期的知识分享会和文档记录来共享知识。在经验共享阶段，他们通过分享成功和失败的经验来帮助团队成员避免重复犯错。在技能共享阶段，他们通过培训和指导来帮助团队成员提高技能。</p><h2>效果和挑战</h2><p>通过实践团队记忆，TencentDB Agent Memory 团队成功将任务完成率从 60% 提升到 80%。但是，他们也面临了一些挑战。例如，如何保持团队成员的积极性和参与度，如何确保团队记忆的有效性和实用性。</p><h2>编辑悄悄话</h2><p>团队记忆是一个非常重要的概念，它可以帮助团队成员避免重复犯错，提高任务完成率。通过实践团队记忆，TencentDB Agent Memory 团队成功将任务完成率从 60% 提升到 80%。如果你也想提高你的团队的效率和效果，不妨试试团队记忆吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "团队记忆可以显著提高任务完成率",
+      "实践团队记忆需要制定清晰的目标和流程",
+      "团队记忆可以帮助团队成员避免重复犯错"
+    ],
+    "punchline": "团队记忆：让错误只犯一次",
+    "social_posts": {
+      "threads": "你知道吗？团队记忆可以显著提高任务完成率！TencentDB Agent Memory 团队通过实践团队记忆，成功将任务完成率从 60% 提升到 80%。他们是如何做到的？#团队记忆 #任务完成率",
+      "facebook": "TencentDB Agent Memory 团队通过实践团队记忆，成功将任务完成率从 60% 提升到 80%。他们的实践经验可以帮助你的团队提高效率和效果。阅读全文了解更多！#团队记忆 #任务完成率",
+      "viral_hook": "团队记忆：让错误只犯一次！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803679&idx=1&sn=910b29493df93cadf43078846d630cef",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "011",
+    "title": "爆炸！ Thinking Machines 新推 AI 模型 Inkling：讓人工智慧更懂你",
+    "summary": "Thinking Machines 推出全新 AI 模型 Inkling，讓人工智慧更懂你。Inkling 擁有 66 層結構，每層有 256 個專家，且可根據使用者需求進行自定義。了解 Inkling 的秘密，讓你與 AI 合作更順暢！",
+    "content": "<p>Thinking Machines 推出全新 AI 模型 Inkling，讓人工智慧更懂你。Inkling 擁有 66 層結構，每層有 256 個專家，且可根據使用者需求進行自定義。</p><h2>什麼是 Inkling？</h2><p>Inkling 是 Thinking Machines 研發的全新 AI 模型，旨在讓人工智慧更懂你。Inkling 擁有 66 層結構，每層有 256 個專家，且可根據使用者需求進行自定義。</p><h2>Inkling 的優點</h2><p>Inkling 可以處理長文本輸入，且能夠學習使用者偏好。Inkling 還可以根據使用者需求進行自定義，讓你與 AI 合作更順暢！</p><h2>編輯悄悄話</h2><p>你想與 AI 合作更順暢嗎？Inkling 是你的最佳選擇！",
+    "score": 85,
+    "takeaways": [
+      "Inkling 擁有 66 層結構，每層有 256 個專家",
+      "Inkling 可根據使用者需求進行自定義",
+      "Inkling 可以處理長文本輸入，且能夠學習使用者偏好"
+    ],
+    "punchline": "Inkling 讓人工智慧更懂你，讓你與 AI 合作更順暢！",
+    "social_posts": {
+      "threads": "Thinking Machines 新推 AI 模型 Inkling！讓人工智慧更懂你！Inkling 擁有 66 層結構，每層有 256 個專家，且可根據使用者需求進行自定義。了解 Inkling 的秘密，讓你與 AI 合作更順暢！",
+      "facebook": "Thinking Machines 推出全新 AI 模型 Inkling！Inkling 可以處理長文本輸入，且能夠學習使用者偏好。Inkling 還可以根據使用者需求進行自定義，讓你與 AI 合作更順暢！",
+      "viral_hook": "Inkling 讓人工智慧更懂你，讓你與 AI 合作更順暢！"
+    },
+    "image": "https://substackcdn.com/image/fetch/$s_!k8q-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F193f0af3-398a-40c4-8e46-8c0bb319ca4b_1754x2048.png",
+    "source": "ByteByteGo Newsletter",
+    "url": "https://blog.bytebytego.com/p/the-new-american-ai-model-designed",
+    "date": "2026-08-18"
   }
 ]
