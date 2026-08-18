@@ -1,0 +1,134 @@
+[
+  {
+    "id": "001",
+    "title": "【反直覺型】為什麼相同的叢集，卻多了 33 個點的利用率？",
+    "summary": "相同的叢集，卻有不同的利用率？這到底是怎麼回事？我們來深入探討一下叢集的秘密。",
+    "content": "<h2>叢集的秘密</h2>    <p>叢集是一種常見的資料結構，常用於資料庫和檔案系統。它是一個包含多個資料項目的集合，資料項目之間可以有不同的關係。叢集的利用率是指叢集中有多少資料項目被使用。</p>    <p>相同的叢集，卻可以有不同的利用率？這到底是怎麼回事？我們來深入探討一下叢集的秘密。</p>    <h2>順序的重要性</h2>    <p>叢集的順序，對於利用率有著重要的影響。不同的順序，可以使得資料項目被使用的機會不同。例如，當叢集中有多個相同的資料項目時，順序可以使得其中一個資料項目被使用的機會更高。</p>    <p>改變叢集的順序，可以提高利用率。這是因為不同的順序，可以使得資料項目被使用的機會不同。例如，當叢集中有多個相同的資料項目時，順序可以使得其中一個資料項目被使用的機會更高。</p>    <h2>編輯悄悄話</h2>    <p>相同的叢集，不同的順序，竟然可以多了 33 個點的利用率！這讓我們想起了那句話：「順序是王道！」</p>",
+    "score": 85,
+    "takeaways": [
+      "相同的叢集，可以有不同的利用率。",
+      "叢集的利用率，與其順序有關。",
+      "改變叢集的順序，可以提高利用率。"
+    ],
+    "punchline": "相同的叢集，不同的順序，竟然可以多了 33 個點的利用率！",
+    "social_posts": {
+      "threads": "相同的叢集，不同的順序，竟然可以多了 33 個點的利用率！你知道為什麼嗎？",
+      "facebook": "相同的叢集，不同的順序，竟然可以多了 33 個點的利用率！你想知道為什麼嗎？",
+      "viral_hook": "相同的叢集，不同的順序，竟然可以多了 33 個點的利用率！"
+    },
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6a725daa5ca641a21ab61956/wOnyrU6-UQAM5hOwpaw3-.jpeg",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "002",
+    "title": "NVIDIA Nemotron 3.5 Lightning登陸Amazon SageMaker JumpStart！",
+    "summary": "NVIDIA Nemotron 3.5 Lightning是一個開源模型，設計用於高容量代理工作負載。現在，它已經登陸Amazon SageMaker JumpStart，讓您可以輕鬆部署並享受高達4倍的吞吐量和30%的任務完成速度提升。",
+    "content": "<p>NVIDIA Nemotron 3.5 Lightning是一個開源模型，設計用於高容量代理工作負載。它可以在單個支持的GPU上運行，提供高達4倍的吞吐量和30%的任務完成速度提升。</p>  <h2>什麼是NVIDIA Nemotron 3.5 Lightning？</h2>  <p>NVIDIA Nemotron 3.5 Lightning是一個開源模型，設計用於高容量代理工作負載。它使用混合Mixture-of-Experts（MoE）架構，專門為代理工具使用而訓練。它可以在單個支持的GPU上運行，提供高達4倍的吞吐量和30%的任務完成速度提升。</p>  <h2>如何部署NVIDIA Nemotron 3.5 Lightning？</h2>  <p>您可以通過Amazon SageMaker JumpStart部署Nemotron 3.5 Lightning，無需手動配置服務框架。只需確保您已經安裝了必要的工具和框架，即可開始部署。</p>  <h2>編輯悄悄話</h2>  <p>NVIDIA Nemotron 3.5 Lightning是高容量代理工作負載的最佳選擇。它提供高達4倍的吞吐量和30%的任務完成速度提升，讓您可以輕鬆處理高容量工作負載。現在，就來試試NVIDIA Nemotron 3.5 Lightning吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "NVIDIA Nemotron 3.5 Lightning是一個開源模型，設計用於高容量代理工作負載。",
+      "它可以在單個支持的GPU上運行，提供高達4倍的吞吐量和30%的任務完成速度提升。",
+      "您可以通過Amazon SageMaker JumpStart部署Nemotron 3.5 Lightning，無需手動配置服務框架。"
+    ],
+    "punchline": "NVIDIA Nemotron 3.5 Lightning：高容量代理工作負載的最佳選擇！",
+    "social_posts": {
+      "threads": "NVIDIA Nemotron 3.5 Lightning登陸Amazon SageMaker JumpStart！\n\n什麼是NVIDIA Nemotron 3.5 Lightning？\n\n如何部署NVIDIA Nemotron 3.5 Lightning？\n\n來試試NVIDIA Nemotron 3.5 Lightning吧！",
+      "facebook": "NVIDIA Nemotron 3.5 Lightning登陸Amazon SageMaker JumpStart！\n\n您可以通過Amazon SageMaker JumpStart部署Nemotron 3.5 Lightning，無需手動配置服務框架。只需確保您已經安裝了必要的工具和框架，即可開始部署。\n\n來試試NVIDIA Nemotron 3.5 Lightning吧！",
+      "viral_hook": "NVIDIA Nemotron 3.5 Lightning：高容量代理工作負載的最佳選擇！"
+    },
+    "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/14/ML-21710-featured-image.png",
+    "source": "AWS Machine Learning Blog",
+    "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-5-lightning-now-available-in-amazon-sagemaker-jumpstart/",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "003",
+    "title": "WhatsApp 新增反詐騙功能！保護你的隱私，遠離詐騙",
+    "summary": "WhatsApp 宣布推出新的反詐騙功能 Scam Alert，透過在裝置上運行機器學習模型，識別可能的詐騙訊息，並在不犧牲終端加密的情況下提供用戶控制的選擇。",
+    "content": "<p>WhatsApp 宣布推出新的反詐騙功能 Scam Alert，透過在裝置上運行機器學習模型，識別可能的詐騙訊息，並在不犧牲終端加密的情況下提供用戶控制的選擇。</p><h2>什麼是 Scam Alert？</h2><p>Scam Alert 是一種新的反詐騙功能，透過在裝置上運行機器學習模型，識別可能的詐騙訊息。該功能設計符合終端加密原則，保護用戶隱私，並提供用戶控制的選擇。</p><h2>如何工作？</h2><p>當用戶啟用 Scam Alert 時，系統會下載機器學習模型到裝置上，並運行在裝置上識別可能的詐騙訊息。模型會根據用戶報告的詐騙對話進行訓練，並根據對話結構和語言信號進行概率分類。如果模型識別出一條訊息為詐騙嘗試，系統會在聊天中顯示警告，讓用戶決定如何處理。</p><h2>編輯悄悄話</h2><p>在今天的互聯網時代，詐騙是個不斷演變的問題。WhatsApp 的 Scam Alert 功能是保護用戶隱私和安全的一個重要步驟。讓我們一起努力，遠離詐騙，保護我們的隱私！</p>",
+    "score": 90,
+    "takeaways": [
+      "WhatsApp 推出 Scam Alert，透過在裝置上運行機器學習模型識別詐騙訊息",
+      "功能設計符合終端加密原則，保護用戶隱私",
+      "用戶可以選擇啟用或關閉此功能，並控制其工作方式"
+    ],
+    "punchline": "保護你的隱私，遠離詐騙！",
+    "social_posts": {
+      "threads": " WhatsApp 新增反詐騙功能！保護你的隱私，遠離詐騙！ #ScamAlert #WhatsApp #隱私保護",
+      "facebook": "WhatsApp 宣布推出新的反詐騙功能 Scam Alert！透過在裝置上運行機器學習模型，識別可能的詐騙訊息，並在不犧牲終端加密的情況下提供用戶控制的選擇。點擊鏈接了解更多！",
+      "viral_hook": " WhatsApp 新增反詐騙功能！保護你的隱私，遠離詐騙！ #ScamAlert #WhatsApp #隱私保護"
+    },
+    "image": "https://engineering.fb.com/wp-content/uploads/2026/07/WhatsApp-Scam-Alert.png",
+    "source": "Engineering at Meta",
+    "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "004",
+    "title": "AI 成本管理大解密：從試驗到實際回報的關鍵",
+    "summary": "了解如何透過 AI 成本管理，讓組織從 AI 試驗走向可衡量的 ROI，實現更好的成本控制和效率提升。",
+    "content": "<p>你是否曾經試圖在組織中推動 AI 項目，但卻苦於難以衡量其效益？你是否曾經感到 AI 成本管理是一個難以克服的挑戰？</p><h2>AI 成本管理的重要性</h2><p>在現今的商業環境中，AI 成本管理是一個越來越重要的議題。隨著 AI 技術的不斷進步，組織越來越需要有效地管理 AI 成本，以實現更好的成本控制和效率提升。</p><p>但是，AI 成本管理並不容易。它需要組織具備深入的理解和專業知識，才能有效地管理 AI 成本。這就是為什麼我們需要一個全面的 AI 成本管理解決方案。</p><h2>從試驗到實際回報的關鍵</h2><p>要讓 AI 成本管理真正有效，需要從試驗到實際回報的整個過程中，實現更好的成本控制和效率提升。這需要組織具備以下幾個關鍵要素：</p><ul><li>更好的成本控制：透過實施有效的成本管理策略，組織可以更好地控制 AI 成本。</li><li>更好的效率提升：透過實施有效的效率提升策略，組織可以更好地提升 AI 的效率。</li><li>更好的 ROI 衡量：透過實施有效的 ROI 衡量策略，組織可以更好地衡量 AI 的效益。</li></ul><h2>編輯悄悄話</h2><p>AI 成本管理是一個複雜的議題，但它也是讓 AI 成功的關鍵。透過實施有效的 AI 成本管理策略，組織可以更好地控制 AI 成本，提升 AI 的效率，和衡量 AI 的效益。所以，別再猶豫了，讓我們一起開始探索 AI 成本管理的世界吧！",
+    "score": 85,
+    "takeaways": [
+      "AI 成本管理可以幫助組織實現更好的成本控制和效率提升",
+      "透過 AI 成本管理，可以讓組織從 AI 試驗走向可衡量的 ROI",
+      "AI 成本管理是實現 AI 成功的關鍵因素之一"
+    ],
+    "punchline": "AI 成本管理是讓 AI 成功的關鍵！",
+    "social_posts": {
+      "threads": "你是否曾經試圖在組織中推動 AI 項目，但卻苦於難以衡量其效益？\n你是否曾經感到 AI 成本管理是一個難以克服的挑戰？\n別再猶豫了，讓我們一起開始探索 AI 成本管理的世界吧！",
+      "facebook": "了解如何透過 AI 成本管理，讓組織從 AI 試驗走向可衡量的 ROI，實現更好的成本控制和效率提升。",
+      "viral_hook": "AI 成本管理大解密：從試驗到實際回報的關鍵！"
+    },
+    "image": "",
+    "source": "Microsoft Azure Blog",
+    "url": "https://azure.microsoft.com/en-us/blog/the-economics-of-agent-optimization-from-pilots-to-measurable-returns/",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "005",
+    "title": "Elastic Stack 9.5.1 來了！升級吧！",
+    "summary": "Elastic Stack 9.5.1 正式釋出！升級到最新版本，避免潛在問題。查看發布筆記，了解詳細變更內容。",
+    "content": "<p>Elastic Stack 9.5.1 正式釋出！升級到最新版本，避免潛在問題。</p><h2>升級理由</h2><p>升級到 9.5.1 可以避免之前版本的潛在問題。查看發布筆記，了解詳細變更內容。</p><h2>編輯悄悄話</h2><p>升級到 Elastic Stack 9.5.1，避免潛在問題！別等到出問題了才後悔哦！</p>",
+    "score": 80,
+    "takeaways": [
+      "Elastic Stack 9.5.1 正式釋出，建議升級到最新版本。",
+      "升級到 9.5.1 可以避免之前版本的潛在問題。",
+      "查看發布筆記，了解詳細變更內容。"
+    ],
+    "punchline": "升級到 Elastic Stack 9.5.1，避免潛在問題！",
+    "social_posts": {
+      "threads": "Elastic Stack 9.5.1 來了！升級吧！避免潛在問題！",
+      "facebook": "Elastic Stack 9.5.1 正式釋出！升級到最新版本，避免潛在問題。查看發布筆記，了解詳細變更內容。",
+      "viral_hook": "升級到 Elastic Stack 9.5.1，避免潛在問題！"
+    },
+    "image": "https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt9dbb4e0ea4b3ba9b/6a7f5c12c260237374b38d26/Blog_Header_Templates_(6).png",
+    "source": "Elastic Blog",
+    "url": "https://www.elastic.co/blog/elastic-stack-9-5-1-released",
+    "date": "2026-08-18"
+  },
+  {
+    "id": "006",
+    "title": "Agent 的上限：團隊知識底座才是關鍵！",
+    "summary": "AI 知識底座建設實踐，讓你了解 Agent 的真正上限在哪裡！",
+    "content": "<p>AI 知識底座建設實踐，讓你了解 Agent 的真正上限在哪裡！</p><h2>什麼是知識底座建設？</h2><p>知識底座建設是指建立一個能夠儲存、管理和應用知識的基礎架構。這個基礎架構可以幫助團隊成員更好地分享和應用知識，從而提升團隊的效率和效果。</p><h2>為什麼知識底座建設對 Agent 重要？</h2><p>Agent 的上限不是模型，而是團隊知識。知識底座建設可以幫助團隊成員更好地分享和應用知識，從而提升 Agent 的效率和效果。同時，知識底座建設也可以幫助團隊成員更好地合作和溝通，從而提升團隊的整體效率和效果。</p><h2>編輯悄悄話</h2><p>你還在為 Agent 的效率和效果煩惱嗎？其實，答案就在團隊知識底座建設上！快來建立你的知識底座吧！</p>",
+    "score": 85,
+    "takeaways": [
+      "Agent 的上限不在模型，而在團隊知識",
+      "團隊知識底座建設是 AI 發展的關鍵",
+      "知識底座建設可以提升 Agent 的效率和效果"
+    ],
+    "punchline": "Agent 的上限不是模型，而是團隊知識！",
+    "social_posts": {
+      "threads": "你知道嗎？Agent 的上限不是模型，而是團隊知識！知識底座建設可以幫助團隊成員更好地分享和應用知識，從而提升 Agent 的效率和效果。快來建立你的知識底座吧！",
+      "facebook": "提升 Agent 效率和效果的關鍵在哪裡？答案是團隊知識底座建設！快來了解更多吧！",
+      "viral_hook": "Agent 的上限不是模型，而是團隊知識！"
+    },
+    "image": "",
+    "source": "腾讯技术工程",
+    "url": "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649803612&idx=1&sn=13be122cb61484933486e146d5724e37",
+    "date": "2026-08-18"
+  }
+]
