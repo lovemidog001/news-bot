@@ -1,15 +1,15 @@
- {
-   "max_articles": 60,
-   "fallback_chain": [
-     "deepseek",
-     "gemini",
-     "groq",
-     "nvidia"
-   ],
-   "models": {
-     "deepseek": "deepseek-chat",
-     "gemini": "gemini-1.5-flash",
-     "groq": "llama-3.3-70b-versatile",
-     "nvidia": "nvidia/llama-3.1-nemotron-ultra-253b-v1"
-   }
- }
+{
+  "max_articles": 60,
+  "fallback_chain": [
+    "deepseek",
+    "gemini",
+    "groq",
+    "nvidia"
+  ],
+  "models": {
+    "deepseek": "deepseek-chat",
+    "gemini": "gemini-2.5-flash",
+    "groq": "llama-3.3-70b-versatile",
+    "nvidia": "nvidia/llama-3.1-nemotron-ultra-253b-v1"
+  }
+}
