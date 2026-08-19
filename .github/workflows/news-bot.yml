@@ -47,3 +47,7 @@ jobs:
       - name: Clear Serv00 Cache
         run: |
           curl -s "https://ailoom.ccwu.cc/cache_clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clear failed (non-critical)"
+
+      - name: Clear bountygo.qzz.io Cache
+        run: |
+          curl -s "https://bountygo.qzz.io/api/cache/clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clear failed (non-critical)"
