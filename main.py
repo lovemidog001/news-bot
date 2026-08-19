@@ -15,7 +15,7 @@ with open("config.json", "r", encoding="utf-8") as f:
 # ===== Fallback 順序 =====
 fallback_chain = config.get(
     "fallback_chain",
-    ["deepseek", "gemini", "groq"]
+    ["gemini", "groq", "deepseek", "nvidia"]
 )
 
 
