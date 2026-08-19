@@ -61,9 +61,11 @@ def build_prompt(text):
 """
 
 # ── NVIDIA ──
-def call_nvidia(text, model="meta/llama-3.1-70b-instruct"):
+def call_nvidia(text, model="nvidia/llama-3.1-nemotron-ultra-253b-v1"):
 
     api_key = os.getenv("NVIDIA_API_KEY")
+    if not api_key:
+        raise ValueError("NVIDIA_API_KEY 環境變數未設定")
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -96,9 +98,11 @@ def call_nvidia(text, model="meta/llama-3.1-70b-instruct"):
 
 
 # ── Gemini ──
-def call_gemini(text, model="gemini-1.5-flash"):
+def call_gemini(text, model="gemini-2.5-flash"):
 
     api_key = os.getenv("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("GEMINI_API_KEY 環境變數未設定")
 
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
 
@@ -133,6 +137,8 @@ def call_gemini(text, model="gemini-1.5-flash"):
 def call_deepseek(text, model="deepseek-chat"):
 
     api_key = os.getenv("DEEPSEEK_API_KEY")
+    if not api_key:
+        raise ValueError("DEEPSEEK_API_KEY 環境變數未設定")
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -167,6 +173,8 @@ def call_deepseek(text, model="deepseek-chat"):
 def call_groq(text, model="llama-3.3-70b-versatile"):
 
     api_key = os.getenv("GROQ_API_KEY")
+    if not api_key:
+        raise ValueError("GROQ_API_KEY 環境變數未設定")
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -232,9 +240,15 @@ def safe_json_parse(output: str):
 # ── Fallback ──
 def call_ai_with_fallback(
     text,
-    fallback_chain=["deepseek", "gemini", "groq", "nvidia"]
+    fallback_chain=["deepseek", "gemini", "groq", "nvidia"],
+    models=None
 ):
-
+    """
+    嘗試多個 AI Provider 直到成功
+    :param text: 輸入文字
+    :param fallback_chain: provider 名稱列表
+    :param models: dict，對應 provider -> model name
+    """
     last_error = None
 
     for provider in fallback_chain:
@@ -244,11 +258,14 @@ def call_ai_with_fallback(
         if not fn:
             continue
 
+        # 取得該 provider 的 model 設定
+        model = models.get(provider) if models else None
+
         try:
 
-            print(f"[Fallback] 嘗試 {provider}...")
+            print(f"[Fallback] 嘗試 {provider} (model: {model or 'default'})...")
 
-            result = fn(text)
+            result = fn(text, model=model) if model else fn(text)
 
             parsed = safe_json_parse(result)
 
