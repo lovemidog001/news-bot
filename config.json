@@ -10,6 +10,6 @@
      "deepseek": "deepseek-chat",
      "gemini": "gemini-1.5-flash",
      "groq": "llama-3.3-70b-versatile",
-     "nvidia": "meta/llama-3.1-70b-instruct"
+     "nvidia": "nvidia/llama-3.1-nemotron-ultra-253b-v1"
    }
  }
