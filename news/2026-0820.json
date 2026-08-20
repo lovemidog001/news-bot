@@ -1,0 +1,62 @@
+[
+  {
+    "id": "001",
+    "title": "Gemini 3.7 Flash 登場 寫代效能漲價減半",
+    "summary": "Google 推出 Gemini 3.7 Flash，程式開發與代理任務表現大幅躍升，輸入成本較前代減半，重塑 AI 開發成本效益新常態。",
+    "content": "<p>Google 這波不藏私，直接把 <strong>Gemini 3.7 Flash 丟給開發者當主力模型</strong>，上一代 3.6 Flash 才剛喘口氣三週，新版本就帶著演算法創新與開發者回饋殺回來。重點不只是聰明，而是「便宜大碗」——輸入 Token 價格直接砍半至每百萬 0.75 美元，輸出 3.75 美元，這讓想把 AI Agent 落地量產的團隊，終於能算得過帳。</p>\n\n<h2>寫代神器進化：除錯、生成一次到位</h2>\n<p>別再拿舊眼光看 Flash 系列，<strong>3.7 Flash 在程式工程基準測試上直接把 3.6 Flash 甩在身後</strong>。FrontierCode 測試從 34.4% 衝到 43.6%，DeepSWE 更是從 49% 狂飆至 65.3%，意思就是：丟給它的 Issue，它真能幫你解掉，不用你在旁邊當保母一行行修。更誇張的是 Arena.ai WebDev Arena 分數來到 1588，生成的前端版面不只長得像，功能還能動，一個 Prompt 就能出完整互動式 Landing Page，連視差滾動效果都能用 Sub-agent 協作搞定。</p>\n<ul>\n<li><strong>除錯與議題解決能力大幅強化</strong>，減少人工介入次數。</li>\n<li><strong>首次生成代碼準確率提升</strong>，生產級代碼產出更穩定。</li>\n<li><strong>多步驟規劃與工具調用更紀律</strong>，開發流程少踩雷、少重來。</li>\n</ul>\n\n<h2>不只寫代：網頁、知識工作、機器人都難不倒</h2>\n<p>能力邊界被推得更遠，<strong>知識密集型領域如金融、法律、生物科技的推理準確度顯著提升</strong>。GDP.pdf 複雜文件處理基準從 22% 衝到 34%，AutomationBench 實務工作流完成率更是從 17% 衝破 30%。連機器人訓練都能透過多模態理解在三代理圖循環中加速學習，靜態年報 PDF 更能一鍵變身互動式數據故事。對於訂閱 Google AI Pro/Ultra 的用戶，Gemini Spark 今天起就換裝 3.7 Flash，整理檔案、寫信、更新狀態文，這個 24/7 私人代理終於能當得起「好用」兩個字。</p>\n<p><strong>開發者體驗質變：它開始懂得「思考」再動手</strong>，遇到阻礙會繞路、意圖不明會反問、指令執行更忠實，這才是讓人敢把產品推上線的關鍵。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前覺得 Flash 系列是「快但不夠聰、便宜但怕出錯」，這回 3.7 Flash 直接打破刻板印象，把效能拉到接近 Pro 等級，價格卻只要一半。對寫代的工程師來說，這不只是省錢，更是省命——少改幾次 Bug、少熬幾個夜，換來的睡眠時間才是最實在的回報。Google 這招「高質低價」若能持續穩定輸出，未來半年 AI 應用層的創業門檻恐怕要被徹底拉低，想玩 Agent 的團隊，現在正是入場最好時機。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "002",
+    "title": "HoverAir Versa 偽裝相機鑽漏洞 FCC 30天內可翻盤",
+    "summary": "HoverAir Versa 以「相機加裝螺旋槳」規避 FCC 無人機禁令，但相機被列為關鍵組件，認證恐在 30 天內被撤銷。",
+    "content": "<p>這年頭連無人機都要學會「偽裝」才能過關了。<strong>Zero Zero Robotics 推出的 HoverAir Versa，標價 750 美元，自稱是「會飛的穩定器」，而非無人機。</strong> 它的核心邏輯很簡單：本體只是一台類 DJI Pocket 的手持相機，要飛時再扣上「飛行套件」——一對透過銅觸點實體連接的螺旋槳。這招「相機加翅膀」，讓它在去年 12 月美國聯邦通訊委員會（FCC）祭出外製無人機禁令後，竟然還能在 8 月拿到認證，上週還在 Indiegogo 開賣。</p>\n\n<h2>「相機加翅膀」的絕妙邏輯</h2>\n<p><strong>HoverAir 向 FCC 申請認證時，只送審相機本體，完全繞過無人機的無線電審查。</strong> 全球行銷總監 Anita Facundo 理直氣壯：「飛行套件只是擴充配件，我們完全合規。」話說得漂亮，因為螺旋槳沒有無線電晶片，透過銅觸點供電通訊，確實可能不屬於 FCC 認證範圍。這招「切香腸」策略，讓 Versa 成為禁令下少數能合法上市的外製飛行裝置，目前已有不少創作者跃跃欲試。</p>\n\n<h2>FCC 手中的翻盤王牌</h2>\n<p><strong>但別太早慶祝，FCC 的禁令不只針對「無人機」，還包含「UAS 關鍵組件」，而相機明確列在清單上。</strong> 2025 年國防授權法案點名 DJI 和 Autel，但條文寬泛到足以涵蓋任何具備飛控核心的裝置。Versa 相機內建無線電、飛控演算法、影像傳輸，妥妥的關鍵組件。更關鍵的是，FCC 將認證外包給民間機構（TCB）初審，但保留 30 天複核權——一旦認定 Versa 屬於關鍵組件，<strong>FCC 可以直接撤銷認證，不需漫長程序。</strong> 目前距離 8 月 9 日認證日還在 30 天窗口期內，隨時可能生變。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>誠實說，這台會飛的穩定器我看了也想買，畢竟塞進口袋就能飛的快感誰不愛？</strong> 但身為在美港台讀者的代言人，我得潑盆冷水：目前 Indiegogo 只有 12 人選購「純相機版」，顯然大家都在賭 FCC 睜一隻眼閉一隻眼。Zero Zero 之前 Aqua 無人機被禁時有退款機制，這次 Versa 若翻車，錢能不能退回來還是個問號。<strong>建議各位先別急著刷卡，等 30 天平安期過了、FCC 沒出聲再入手，畢竟買個「可能變磚」的飛行相機，比失手摔機更心痛。</strong></p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.webp?quality=90&strip=all&crop=0%2C17.731265983107%2C100%2C64.537468033785&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "003",
+    "title": "TrueFoundry推TrueForge開源AI代理 成本較Claude省3成起跳",
+    "summary": "TrueFoundry開源TrueForge重塑AI代理成本結構，實測完成企業級任務比Claude Managed Agents便宜30%至75%，讓企業自主部署不綁定廠商。",
+    "content": "<p>又有新AI代理框架出爐了，但這回不一樣——<strong>TrueFoundry由前Meta工程師創辦，推出的TrueForge直接把成本問題擺上檯面</strong>。他們實測用開源模型GLM-5.2跑DevRev企業級基準測試，完成14項任務中的11項，花費只要2.9美元，同樣任務換Anthropic的Claude Managed Agents配Opus 4.8卻要11.8美元，<strong>直接砍掉75%成本</strong>。就算換同一個模型比較，TrueForge還是能省下30%左右，這筆帳對企業主來說算得很清楚。</p>\n\n<h2>為什麼這款開源框架能讓大企業省大錢？</h2>\n<p>TrueForge的核心在於「上下文工程」，<strong>把不必要的token塞進模型視窗的動作全砍掉</strong>。工具schema等到需要才載入、龐大結果存成檔案不塞進對話、長對話自動壓縮、沙箱只在需要執行代碼時才啟動，這些設計讓單台伺服器能跑更多代理實例。COO Anuraag Gutgutia直說：<strong>客戓早就問他們能不能自己跑受管代理，不想綁死在雲端廠商手裡</strong>，TrueForge就是回應這個需求，MIT授權、自架、想改就改，完全廠商中立。</p>\n\n<h2>開源不等於免管 企業級治理才是TrueFoundry的生意經</h2>\n<p>別以為拿了開源碼就萬事大吉，<strong>TrueForge本體不包含企業級權限控管，那是TrueFoundry賣AI Gateway的錢</strong>。Gutgutia坦承：只用開源版得自己加控制層，或者接自家系統；接上Gateway才能繼承既有SSO、身分驗證、細粒度權限。這招「免費框架+付費治理層」很聰明——NetApp、Siemens Healthineers、Nvidia等大廠都是客戶，TrueFoundry去年ARR破150萬美元，每月處理超過100億請求，<strong>真正的商業模式是做所有AI流量底下的共同管控層</strong>，不管你上層跑TrueForge、Claude還是自研代理，流量都得經過他們的Gateway。</p>\n\n<h2>編輯悄悄話</h2>\n<p>AI代理戰場現在比的不只是模型聰不聰明，而是<strong>誰能讓企業在不綁手綁腳、不被宰價的前提下，把代理真正用進生產線</strong>。TrueForge開源釋出，看似送人頭，實則是把「執行層」標準化，把「治理層」留給自己收費——這盤算盤打得精，也正是台灣企業導入生成式AI時最該留意的陷阱與機會：別只盯著模型效能，<strong>架構自主權與成本可控性，才是長遠部署的關鍵</strong>。</p>",
+    "image": "",
+    "source": "VentureBeat",
+    "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "004",
+    "title": "Algolia 入駐 Vercel Marketplace 搜尋部署零配置上線",
+    "summary": "Vercel Marketplace 整合 Algolia 搜尋平台，推進前端開發者零配置接入毫秒級搜尋體驗，環境變數自動注入、AI 排序開箱即用，重塑搜尋功能部署流程。",
+    "content": "<p>這陣子前端圈最熱鬧的消息，莫過於 <strong>Algolia 正式進駐 Vercel Marketplace</strong>。不用再跑去官網申請帳號、手動複製 API Key、還得自己塞進環境變數裡，現在在 Vercel 控制台幾下點擊，搜尋服務就能跟專案綁在一起，重新部署一次就生效。</p>\n\n<h2>為什麼這對前端工程師很重要</h2>\n<p><strong>Algolia 本身就是個托管搜尋平台</strong>，把資料丟給它，它幫你建索引，查詢時直接打索引不打資料庫，回應速度毫秒級，還內建錯字容錯、同義詞、面向計數。這次整合更進一步，連 <strong>Algolia Crawler 可以直接指向 Vercel 網域自動爬索引</strong>，文檔站、電商目錄不用寫腳本同步，推一下就好。</p>\n<ul>\n<li><strong>InstantSearch 函式庫開箱即用</strong>，搜尋介面不用從頭刻</li>\n<li><strong>AI 排序與推薦功能內建</strong>，相關性調教省去大量人工規則</li>\n<li><strong>Agent Skills 同步安裝</strong>，Cursor、Copilot 這類編程助手馬上懂怎麼呼叫 API</li>\n</ul>\n\n<h2>實際開發體驗怎麼變了</h2>\n<p>以前串搜尋最麻煩的是「配置地獄」：建索引、設權重、寫同步邏輯、處理部署時機。現在 <strong>安裝指令只要 <code>vc i algolia</code> 一行</strong>，憑證自動寫進環境變數，重新部署撈到新變數就能動。團隊新人不用看文件也能上手，<strong>專注在「搜尋體驗怎麼設計」而不是「搜尋服務怎麼串起來」</strong>，這才是生產力真正被釋放的地方。</p>\n\n<h2>編輯悄悄話</h2>\n<p>別小看這個「上架」動作，它其實把搜尋基礎設施從「後端工程師的領地」拉回「前端工程師的掌控範圍」。下次 PM 要加搜尋、加推薦、加自動完成，你不用再推說要排期、要找後端協作、要管索引同步，直接在 Vercel 點兩下、跑個指令、改幾行前端元件，功能就上線了。這才是所謂的 Developer Experience 進化，把基礎設施變成隱形水電，讓我們專心蓋房子就好。</p>",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/60lq31Fag5ByKAvFdbV2XA/745abb4f8599795b4307b4a602a8cb20/image.png",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/algolia-vercel-marketplace",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "005",
+    "title": "遊戲合約全面禁AI！律師揭機器產出不受著作權保護，省錢反賠心血",
+    "summary": "遊戲產業合約現普遍寫入反AI條款，律師警告純AI生成素材無著作權保護，恐陷入被抄襲卻無法維權的法律真空，倒逼業界回歸原創價值。",
+    "content": "<p>別以為用 <strong>生成式 AI</strong> 做素材能省大錢，現在遊戲圈的合約早就把這條路堵死了。專攻遊戲智財的律師海莉·麥克林（Haley MacLean）爆料，這一年來她手上的開發發行合約，<strong>「禁用 AI 條款」已從大廠專屬變成全行業標配</strong>，連小型獨立工作室都得簽。這不是裝樣子，而是關乎你的遊戲資產到底屬不屬於你。</p>\n\n<h2>玩家用錢包投票：AI 素材就是「廉價感」代名詞</h2>\n<p>為什麼連發行商都主動要求禁 AI？<strong>市場端的壓力比法律條文更直接</strong>。麥克林直球說：「客戶不想用 AI，因為玩家會憎恨它。」這句話聽起來刺耳，但看看《幻獸帕魯》公關當年喊「玩家不想要 AI」，再看 Steam 強制揭露 AI 內容機制，就知道玩家用錢包投出的不信任票有多重。演算法拼湊出來的圖、音、文，玩家一眼就能看出那種「廉價同質化」的味道，上市換來的不是讚賞，是差評如潮與退款潮，品牌聲譽一夜歸零。</p>\n<ul>\n<li><strong>獨立開發者最怕發行商自作主張</strong>：合約若沒寫死，發行商為了趕行程、省預算，在行銷素材、移植測試、本地化時偷偷塞 AI 內容，後果由開發者背。</li>\n<li><strong>平台審查機制收緊</strong>：Steam 等主流平台已建立強制申報制，藏著掖著終究會被挖出來，到時下架重來連哭都來不及。</li>\n</ul>\n\n<h2>法律真空最致命：你做的樹，別人偷去賣你告不贏</h2>\n<p>市場不買單還是小事，<strong>著作權法根本不承認機器是「作者」</strong> 才是核彈級隱憂。麥克林舉例超清楚：「你生成一棵樹放進遊戲，別人拿去用，你大概率告不贏——著作權法保護的是人類創作，不是機器輸出。」意思就是，純 AI 產出的場景、角色、音效，法律上屬於「無主物」，競對全盤抄襲你完全沒轍，投入幾百萬行銷預算打造的核心資產，瞬間變成公共領域資源任人取用。大廠裁員壓成本想用 AI 偷工減料（像傳聞中《古墓奇兵：亞特蘭提斯遺跡》那樣），麥克林預言未來幾年<strong>相關訴訟一定會爆發</strong>，想又快又省的公司遲早栽大跟頭。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這波反 AI 條款潮，說白了就是業界被現實毒打後的清醒時刻。以前以為 AI 是萬能省錢神器，現在發現是「版權黑洞」加「玩家公敵」。簽合約時多看一眼那行禁 AI 條款，不是法律洁癖，是保命符。下次若聽誰說「用 AI 就能快上線省一筆」，請幫我回一句：<strong>「省下的錢，可能不夠打官司的律師費。」</strong> 堅守人類創作靈魂，在這個演算法氾濫的時代，反而是最硬的護城河。</p>",
+    "image": "https://cdn2.techbang.com/system/excerpt_images/132421/original/4475663a0fe006c0e88b1aa35171f3f1.jpg?1786963400",
+    "source": "T客邦",
+    "url": "https://www.techbang.com/posts/132421-game-industry-anti-ai-clauses-copyright-issues",
+    "date": "2026-08-20"
+  },
+  {
+    "id": "006",
+    "title": "免費神器 DecryptAds 上線 一鍵揭露 ESPN 等網站 143 個追蹤夥伴",
+    "summary": "新服務整合廣告供應鏈公開檔案，顛覆以往資料分散難查現況，讓使用者秒懂誰在蒐集定位與裝置指紋。",
+    "content": "<p>你以為瀏覽體育新聞只是看個比分？其實背後有一百多雙眼睛在盯著你的定位、裝置指紋甚至敏感個資。廣告科技供應鏈向來像個黑箱，<strong>ads.txt、app-ads.txt、sellers.json 這些公開檔案雖然早就存在，卻散落在各角落，一般人根本無法串聯</strong>。現在情況變了，資安研究員 Zach Edwards 聯手創辦的 <strong>DecryptAds 正式上線，免費且開放使用，專門把這些碎片化資料抓出來交叉比對，幫你畫出完整的追蹤地圖</strong>。</p>\n\n<h2>廣告供應鏈的「斷層」終於被補齊</h2>\n<p>Edwards 指出，<strong>單一檔案根本看不出供應鏈完整性問題，惡意廣告、AI 垃圾站、高風險國家節點，往往藏在跨檔案的斷裂參考、克隆聲明或消失的賣方名單裡</strong>。DecryptAds 的價值在於「跨檔案關聯」：它持續爬蟲網站與 App 公開的授權清單，自動偵測異常模式，像是同組聲明出現在無關網域、競價日誌出現未授權路徑，這些都是人工肉眼絕對漏掉的細節。</p>\n<ul>\n<li><strong>可視化呈現廣告夥伴國籍</strong>，標記俄、中、阿聯、賽普勒斯等「地緣風險」區域實體</li>\n<li><strong>整合四州資料經紀人登記法</strong>，直接顯示誰在買賣你的地理位置與裝置指紋</li>\n<li><strong>針對惡意廣告溯源、AI 濫生內容農場偵測</strong>，提供隱私與資安調查的新武器</li>\n</ul>\n\n<h2>實測 ESPN：143 夥伴、19 經紀人、4 家高風險實體</h2>\n<p>以 ESPN.com 為例，DecryptAds 秒吐出 <strong>143 個廣告合作夥伴與 19 個已登記資料經紀人網域</strong>，其中近半蒐集地理位置，三家更承認收集裝置指紋與敏感個資。更驚人的是，<strong>查出四家廣告實體註冊地落在俄、中、阿聯，包含掛紐約地址實為俄資的 Between Digital，其發票竟經由受制裁的 Alfa Bank 處理</strong>。這種「掛羊頭賣狗肉」的供應鏈偽裝，過去幾乎無法被發現，現在卻赤裸裸擺在儀表板上。</p>\n\n<h2>編輯悄悄話</h2>\n<p>下次打開網頁前，不妨先丟進 DecryptAds 查個底朝天。別以為只有大網站才複雜，連你手機裡那個不知名天氣 App，背後可能藏著比 ESPN 更誇張的追蹤聯盟。資安不再是專業人士的專利，這套工具把門檻踩低到只要會打網址就能用，真正把「知情同意」從口號變成可執行的動作。下次看到精準廣告嚇一跳時，記得：是你自己沒去查清單，別怪演算法太懂你。</p>",
+    "image": "https://krebsonsecurity.com/wp-content/uploads/2026/08/quietremovalsfeed.png",
+    "source": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "date": "2026-08-20"
+  }
+]
