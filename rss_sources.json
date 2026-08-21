@@ -15,8 +15,7 @@
      { "name": "Ollama Blog", "url": "https://ollama.com/blog/rss.xml", "category": "AI & Machine Learning" },
      { "name": "Perplexity Blog", "url": "https://www.perplexity.ai/blog/rss.xml", "category": "AI & Machine Learning"
  },
-     { "name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "category": "AI & Machine
- Learning" },
+     { "name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "category": "AI & Machine Learning" },
 
      { "name": "TechCrunch", "url": "https://techcrunch.com/feed/", "category": "General Tech" },
      { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "General Tech" },
@@ -41,8 +40,7 @@
      { "name": "PC Gamer", "url": "https://www.pcgamer.com/rss/", "category": "Gaming" },
      { "name": "Rock Paper Shotgun", "url": "https://www.rockpapershotgun.com/feed", "category": "Gaming" },
      { "name": "Polygon", "url": "https://www.polygon.com/rss/index.xml", "category": "Gaming" },
-     { "name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/rss/gamesindustry_news.rss", "category":
- "Gaming" },
+     { "name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/rss/gamesindustry_news.rss", "category": "Gaming" },
      { "name": "4Gamers", "url": "https://www.4gamers.com.tw/rss", "category": "Gaming (Local)" },
      { "name": "巴哈姆特 GNN", "url": "https://gnn.gamer.com.tw/rss.xml", "category": "Gaming (Local)" }
    ]
