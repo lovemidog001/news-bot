@@ -28,5 +28,195 @@
     "source": "電腦王阿達",
     "url": "https://www.kocpc.com.tw/archives/666047",
     "date": "2026-08-21"
+  },
+  {
+    "id": "004",
+    "title": "OpenAI新團隊警告：AI可能讓國家不再需要人民，自由社會面臨最大挑戰",
+    "summary": "OpenAI成立戰略未來團隊，推出AI Futures部落格，深入探討轉型AI如何重塑權力結構。研究指出，當AI能自主執行國家職能，傳統依賴人民合作的權力基礎將被顛覆，個人自由可能面臨前所未有的威脅。",
+    "content": "<h2>權力本質正在被重新定義</h2>\n<p><strong>過去幾百年，國家機器離不開人民的合作與同意。</strong>OpenAI新成立的戰略未來團隊在AI Futures部落格中提出一個令人警醒的觀點：現代國家的權力基礎，本質上建立在人類的大規模協作之上。從軍隊、警察到龐大的文官體系，所有這些維持國家運轉的機構，都需要大量人力來支撐。更關鍵的是，這些體系的資金來自於人民繳納的稅收，而稅收又來自於人類的勞動與生產。正如大衛·休謨所言，政治領袖「除了民意之外，沒有任何支撐」。</p>\n<p><strong>但AI時代可能徹底打破這個邏輯。</strong>團隊指出，自主系統的發展可能讓國家在國內和國際上投射武力時，不再依賴願意合作的士兵或警察。機器智能的進步也可能讓政府從資料中心的產出中獲取稅收，而非依賴人類的勞動成果。當官僚體系也能被大規模自動化，權力可能不再需要與社會達成協議就能持續運作。</p>\n\n<h2>羊皮紙屏障擋不住結構性變革</h2>\n<p><strong>憲法文字再完美，也無法單獨保護自由。</strong>部落格引用美國國父詹姆斯·麥迪遜在《聯邦黨人文集》第48篇中的警告：「僅靠羊皮紙的屏障，就能抵擋權力的侵蝕嗎？」這句話寫於美國建國初期，當時的先賢們已經意識到，僅僅把權利寫在文件上是不夠的。OpenAI團隊認為，這個問題在AI時代變得更加迫切——即使投票制度照常運作，即使紙上寫著人人自由，人類仍可能逐步失去實質的自主權。</p>\n<p><strong>這不是 partisan 政治問題，而是結構性挑戰。</strong>團隊強調，這種焦慮超越了當前的政黨政治，甚至超越了共和民主制的形式與儀式。許多人对AI的擔憂，核心都在於同一個問題：「我會不會失去坐在談判桌旁的資格？」AI放大了人們對個人與集體自主權的既有焦慮，而這種焦慮是合理的。</p>\n\n<h2>編輯悄悄話</h2>\n<p>讀完這篇OpenAI的部落格，我第一個念頭是：我們總以為自由是寫在憲法裡的，但這篇文章提醒我們，自由其實是一種「動態平衡」——它需要人民持續參與、協商、爭取才能維持。當AI讓國家機器可以不再依賴人民就能運轉，我們失去的不只是工作機會，更是那個「坐在談判桌旁」的資格。這不只是科技問題，這是關於我們這代人能不能守住自由底線的生存課題。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6WlY42vdkXE14U0aa8nt0V/cd49d61e13eca65e29063d298ca8cec8/introducing-ai-futures-seo-ocean-blue-1920x1080.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "005",
+    "title": "Waymo自研晶片問世 自動駕駛不再看Nvidia臉色",
+    "summary": "Waymo自研晶片顛覆自動駕駛格局，徹底擺脫Nvidia與AMD供貨依賴。新晶片由台積電5奈米製程打造，算力突破1,000 TOPS，與Nvidia現役產品並駕齊驅，更將大幅降低營運成本。",
+    "content": "<h2>自研晶片問世 不再看Nvidia臉色</h2>\n<p><strong>Waymo這次不靠別人，自己動手做晶片。</strong> Alphabet旗下的自動駕駛子公司Waymo，終於開發出自家專屬晶片，已經裝在最新一代的自駕車上跑。過去Waymo一直仰賴Nvidia和AMD的晶片，現在終於可以挺直腰桿說：「我們有自己的武器了。」</p>\n\n<h2>台積電5奈米 算力破千TOPS</h2>\n<p><strong>這顆晶片由台積電5奈米製程打造，算力超過1,000 TOPS。</strong> 根據Waymo官方說法，這顆自研晶片處理感測器資料的速度更快，也能更流暢地運行AI模型，讓自駕車能更精準地理解周遭環境並做出反應。這個算力表現，已經跟Nvidia現役的自動駕駛系統並駕齊驅。</p>\n\n<p><strong>成本大降才是真正目的。</strong> Waymo這次自研晶片的背後，其實是想把成本壓下來。新晶片已經開始裝在與中國廠商Zeekr合作的新一代自駕車上，未來規模化後，營運成本有望大幅降低。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>自動駕駛這盤棋，Waymo終於自己下子了。</strong> 過去一直看Nvidia臉色，現在終於有自己的武器。這就像你一直買人家麵包，終於學會自己烤了。雖然味道可能還不如人家，但至少不用擔心人家漲價。未來自動駕駛競爭越來越激烈，誰能控制成本，誰就能笑到最后。</p>",
+    "image": "https://the-decoder.com/wp-content/uploads/2025/12/waymo_press_shot-scaled.jpg",
+    "source": "The Decoder",
+    "url": "https://the-decoder.com/waymo-builds-its-own-chip-for-its-robotaxis-cutting-its-reliance-on-nvidia/",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "006",
+    "title": "LFM2.5-DSpark推理速度飆升3.2倍，AI應用門檻大降",
+    "summary": "LFM2.5-DSpark技術顛覆現有推理效能，將AI模型運算速度大幅提升3.2倍，有望重塑邊緣裝置與即時應用的發展格局，讓高效能AI普及化成為可能。",
+    "content": "<h2>技術突破：3.2倍速度不是口號</h2>\n<p><strong>這次升級不是小修小補，而是直接顛覆現有推理效能的極限。</strong>LFM2.5-DSpark透過架構重構與運算路徑最佳化，讓大型語言模型的推論速度達到過往的3.2倍。這意味著同樣的硬體資源，現在能處理更複雜的任務，反應時間大幅縮短。</p>\n<p><strong>對開發者來說，這代表什麼？</strong>以往需要雲端高階伺服器才能流暢運行的模型，現在在邊緣裝置上也能應付。手機、IoT設備、甚至嵌入式系統，都有機會內建更聰明的AI能力，不用再仰賴網路連線與遠端資料中心。</p>\n\n<h2>實際影響：從實驗室走向日常應用</h2>\n<p><strong>速度提升直接降低使用門檻，AI普及化不再是遙遠的願景。</strong>過去推理速度慢、能耗高的問題，讓許多即時應用難以落地。現在3.2倍的效能躍升，讓語音助理、即時翻譯、影像辨識等場景，能在裝置端完成，不僅反應更快，也更保護使用者隱私。</p>\n<p><strong>產業鏈將迎來什麼改變？</strong>晶片設計商、雲端服務業者、終端設備廠，都必須重新評估產品定位。邊緣AI市場可能迎來爆發期，而依賴高階運算的雲端服務，則需要轉向提供更高階的訓練與協同服務，而非單純的推理託管。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>3.2倍速度聽起來很爽，但真正厲害的是「讓AI不再只活在雲端」。</strong>以後你的手機、眼鏡、甚至家電，都能跑得動以前只有超級電腦才能處理的模型。這不只是技術升級，更是把AI從高階實驗室拉進日常生活的關鍵一步。下次手機卡卡的別只怪網速，可能是AI推理還沒跟上你的期待。</p>",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/ZMoThfdqzAz8cbxweVQfO.gif",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "007",
+    "title": "GeForce NOW 支援 Firefox！瀏覽器直玩 3A 大作，硬碟終於能喘口氣",
+    "summary": "GeForce NOW 重塑雲端遊戲體驗，Firefox 瀏覽器直接開玩，徹底顛覆下載安裝的傳統流程，讓高畫質遊戲觸手可及。",
+    "content": "<h2>瀏覽器直接開玩，硬碟終於能喘口氣</h2><p><strong>不用再苦等下載進度條，打開 Firefox 就能開戰。</strong> NVIDIA 這次把 GeForce NOW 雲端遊戲平台正式支援 Firefox 瀏覽器，Windows 用戶終於能跟 Chrome、Edge、Opera 並肩作戰。無論是學校借來的老筆電，還是家裡那台硬碟早就亮紅燈的桌上型電腦，只要瀏覽器版本夠新，就能直接流暢遊玩支援的 PC 遊戲。<strong>雲端負責扛下所有運算壓力，你的裝置只負責顯示畫面跟接收操作指令。</strong>Ultimate 會員更能享受 RTX 技術加持的 1440p 解析度與 120 幀高畫質體驗，完全不用擔心硬體規格跟不上。</p><h2>一戰戰場搬上雲端，25v25 激戰不用裝</h2><p><strong>《Gallipoli》這週率先登場，歷史戰爭迷絕對不能錯過。</strong>這款由 BlackMill Games 開發的遊戲，帶你親臨加里波利半島的戰壕與沙灘，扮演英軍或鄂圖曼帝國士兵進行 25 對 25 的目標制戰鬥。遊戲內建 10 種歷史兵種與 50 多件真實武器裝備，強調團隊分工與一槍一命的緊張感。<strong>從指揮官到機槍手、狙擊手再到擔架兵，每個角色都在戰場上扮演關鍵角色。</strong>更棒的是，雲端儲存功能讓你的進度隨時同步，換裝置玩也完全不受影響。</p><h2>編輯悄悄話</h2><p>以前玩遊戲最怕的就是硬碟空間告急，現在雲端遊戲直接把這個問題丟給 NVIDIA 的伺服器處理。Firefox 用戶終於不用再為了玩遊戲特別裝 Chrome，瀏覽器一開就能上線，這種「即開即玩」的便利性，簡直是跟儲存空間說再見的最佳方案。不過記得確認遊戲上架時間，畢竟雲端遊戲的到貨速度還是得看官方安排。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "008",
+    "title": "NVIDIA 推出 Nemotron 3.5 Lightning，本地 AI 模型更隱私高效",
+    "summary": "NVIDIA 推出 Nemotron 3.5 Lightning 模型，顛覆本地 AI 應用模式。此模型專為持續運行的 agent 設計，讓資料留在裝置上，同時提升多步驟任務效率。",
+    "content": "<h2>本地運行 AI 模型，隱私與效能兼顧</h2>\n<p><strong>NVIDIA Nemotron 3.5 Lightning 專為本地裝置優化，讓 AI 模型不再依賴雲端伺服器。</strong>這款 30B 參數（3B 活躍）的開放模型，能直接在個人電腦上運行，適合需要持續運行的 agent 任務。無論是讀取檔案、呼叫工具或處理失敗重試，都能高效完成。</p>\n<p><strong>數據留在裝置上，不再擔心隱私外洩。</strong>對於重視資料安全的用戶來說，這意味著所有運算都在本地完成，無需將敏感資訊傳送至外部伺服器。</p>\n\n<h2>多步驟任務處理，效能提升顯著</h2>\n<p><strong>相比同規模開放模型，Nemotron 3.5 Lightning 吞吐量提升 4 倍，任務完成時間縮短 30%。</strong>這對於需要執行多步驟操作的 agent 尤其重要，因為更高的吞吐量代表每分鐘能處理更多步驟，長任務也能更快完成。</p>\n<p><strong>支援 Apple Silicon 裝置，提供最佳化版本。</strong>使用 Ollama 的用戶可以透過 nemotron-3.5-lightning:30b-mlx 指令下載模型，享受領先同級的效能表現。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這就像在家裡裝了一台小型發電機，不用依賴外部電網也能自給自足。AI 模型本地運行，不僅讓資料更安全，還能讓你的電腦變得更聰明。以後處理複雜任務，再也不用擔心網路延遲或隱私問題，就像擁有一個專屬的 AI 助理，隨時待命又可靠。</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/nemotron-3-5-lightning",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "009",
+    "title": "VentureBeat挖角资深分析师 首推企业AI深度研究",
+    "summary": "VentureBeat任命Rob Strechay为首任首席分析师，重塑企业AI研究格局。此举填补技术决策者对客观数据的需求缺口，推动企业AI部署从实验阶段迈向规模化应用。",
+    "content": "<h2>分析师背景：从实务到研究的全方位经验</h2>\n<p><strong>Strechay拥有近三十年跨领域经验，从实务操作到行业分析皆有所涉猎。</strong>他曾任Zerto等初创公司高管，参与AWS分析服务建设，后转任企业基础设施高管。近年担任Enterprise Strategy Group资深分析师，并在theCUBE Research担任董事总经理兼首席分析师，主持云端、数据与AI基础设施相关访谈。</p>\n<p><strong>他的研究将聚焦云端基础设施、数据架构、平台工程与AI安全交叉领域。</strong>这种从技术决策者到分析师的视角转换，正是企业AI研究最需要的专业深度。</p>\n\n<h2>研究重点：GPU利用率与AI基础设施</h2>\n<p><strong>Strechay已着手分析企业GPU利用率问题，揭露AI基础设施中的计算资源浪费。</strong>他参与审查VentureBeat的AI基础设施与计算调查，并在VB Pulse月度调查中追踪企业AI采用五大领域：代理编排、可靠性评估、安全身份、基础设施与上下文层。</p>\n<p><strong>六月发布的代理编排报告指出，三分之二企业采取多模型策略而非单一供应商。</strong>这种策略在Anthropic Claude服务中断时显现其价值，凸显企业AI部署的现实挑战。</p>\n\n<h2>编辑悄悄话</h2>\n<p>企业AI从实验走向实战，就像从试菜变成正式上菜，每个环节都得经得起考验。Strechay的加入，等于给企业技术决策者请了位懂行的参谋，帮他们避开那些听起来很美、用起来很痛的AI部署陷阱。毕竟在AI基建上砸钱，可不是买盲盒，得知道钱花在哪、效果在哪。</p>",
+    "image": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "010",
+    "title": "特斯拉、Uber、Waymo齊獲內華達無人車執照，8000輛即將上路",
+    "summary": "內華達州放寬無人計程車規範，特斯拉、Uber、Waymo三家公司同時獲准部署，預計未來12個月內將有高達8000輛robotaxi上路，**這項政策將徹底重塑美國無人駕駛汽車的商業化進程**，為消費者帶來更便宜、更便利的出行選擇。",
+    "content": "<h2>內華達州開綠燈，無人車時代正式來臨</h2>\n<p><strong>這不是一紙空文的許可證，而是真正讓無人計程車跑上街道的通行证。</strong>內華達州政府近日同時批准特斯拉、Uber和Waymo三家公司在該州運營無人駕駛計程車服務，總數可達8000輛，時間跨度為未來12個月。這意味著拉斯維加斯等城市的街頭，將出現大量沒有駕駛人的車輛載著乘客穿梭。</p>\n<p>過去幾年，各州對無人車的態度謹慎許多，部分原因是安全疑慮與事故爭議。內華達這次大手筆放寬規範，顯示政府對技術成熟度有了更高的信心。<strong>這不僅是政策鬆綁，更是對整個產業的一次重大賭注。</strong></p>\n<p>值得注意的是，這三家公司各自代表不同的技術路線與商業模式：特斯拉主打純視覺方案，Waymo隸屬Alphabet旗下擁有多年實測經驗，Uber則以平台整合見長。三家同時獲准，代表內華達州願意給不同技術路線公平的測試機會。</p>\n\n<h2>對你我生活有什麼影響？</h2>\n<p><strong>對一般消費者來說，最直接的改變就是叫車成本可能大幅下降。</strong>無人車省去了司機薪資，營運成本顯著降低，這筆錢最終會反映在叫車費用上。未來在拉斯維加斯這樣的旅遊城市，遊客可能花更少的錢就能享受門到門的無人載客服務。</p>\n<p>同時，這也意味著更多偏遠地區或深夜時段，乘客不再需要因為司機短缺而叫不到車。<strong>無人車的優勢不在於取代人類司機的情懷，而在於填补人力無法覆蓋的空白。</strong></p>\n<p>不過，這波擴張也伴隨風險。8000輛車同時上路，監管壓力與安全挑戰不容小覷。一旦發生重大事故，整個產業可能面臨嚴峻的公眾信任危機。<strong>技術再成熟，也經不起一次致命事故的考驗。</strong></p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>以前我們看無人車新聞，總覺得是十年後的未來科技；現在發現，未來其實已經悄悄開到樓下了。</strong>內華達這一步跨出去，等於給全美其他州打了一針強心針。接下來就看各州會不會跟進，以及這8000輛車能不能平安無事地跑完這一年。畢竟，無人車最怕的不是技術問題，而是「出事了怎麼辦」的公眾信任問題。我們就拭目以待吧。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "011",
+    "title": "ChatGPT登陸Mac！直連iMessage，對話新革命",
+    "summary": "OpenAI推出插件顛覆人機互動，ChatGPT能讀取並回應Apple iMessage，重塑日常通訊體驗。",
+    "content": "<h2>技術突破：插件打通Apple生態</h2><p><strong>ChatGPT首次獲得Mac系統級權限</strong>，OpenAI透過新插件讓AI直接存取iMessage資料。這項更新打破以往AI僅能透過網頁互動的限制，讓使用者能在原生通訊軟體中即時調用AI能力。</p><h2>應用場景：對話效率全面升級</h2><p><strong>從回覆簡訊到行程規劃一次搞定</strong>，AI能分析對話內容並提供建議回應。上班族可讓ChatGPT草擬工作郵件，學生族則能請AI整理課程訊息重點，生活應用層面大幅擴展。</p><h2>編輯悄悄話</h2><p>以後跟朋友聊天時，背後可能藏著個AI軍師在幫你打草稿。科技進步讓工具越來越無感，但也要記得：再聰明的AI，也取代不了你親自敲下那句「今晚吃什麼？」的溫度。</p>",
+    "image": "",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2241390/openai-chatgpt-imessage-integration/",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "012",
+    "title": "DeepSeek 推視覺模型，圖像分析成本大降？",
+    "summary": "DeepSeek 推出支援圖像處理的 v4-flash-vision-exp 模型，顛覆傳統 AI 視覺服務成本結構，讓企業與開發者能以更低門檻整合圖片分析能力。",
+    "content": "<h2>圖片進，答案出：DeepSeek 視覺模型能幹嘛？</h2>\n<p><strong>這模型能看懂圖、讀截圖、分析圖表，甚至幫你解讀複雜視覺內容。</strong>DeepSeek 這次推出的 v4-flash-vision-exp 支援 JPEG、PNG、GIF、WebP 等格式，不管你是上傳本地檔案、貼上公開網址，還是用 Files API 預先上傳，都能輕鬆處理。最方便的是，它完全相容 OpenAI 和 Anthropic 的 API 格式，開發者不用重新寫程式就能接入。</p>\n\n<h2>計費新邏輯：圖片尺寸再大，token 成本不變？</h2>\n<p><strong>所有圖片統一按 384 tokens 計費，不管原始解析度多高。</strong>這意味著 2000×2000 和 5000×5000 的圖片，費用完全相同。對於需要大量處理高解析度圖像的應用來說，這套計費方式大幅降低了成本不確定性。不過要注意，單次請求的圖片總大小仍受 48 MiB 限制，超過的話得改用 Files API。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前用 AI 看圖，總擔心費用會像無底洞；現在 DeepSeek 直接把價格打下來，<strong>「圖片再大也只要 384 tokens」</strong>這招簡直是給開發者發紅包。當然，功能強不強還要看實際表現，但至少讓「AI 視覺分析」這詞不再那麼高不可攀。接下來就看各家怎麼跟進，這場價格戰恐怕要熱鬧了。</p>",
+    "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+    "source": "Hacker News",
+    "url": "https://api-docs.deepseek.com/guides/vision/",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "013",
+    "title": "GitHub 8月17日大當機！CTO親揭修復進度與未來對策",
+    "summary": "GitHub 8月17日遭遇嚴重宕機，全球開發者集體崩潰。CTO Vladimir Fedorov 親自說明事件經過，並承諾從架構與流程雙管齊下，全面重塑系統可靠性，避免類似事件再次發生。",
+    "content": "<h2>當機風波：GitHub 全球開發者集體崩潰</h2>\n<p><strong>8月17日的宕機事件讓全球開發者集體崩潰，GitHub 官方終於出面說明。</strong>這場持續數小時的服務中斷，不僅讓無數程式碼倉儲無法存取，更讓依賴 GitHub Actions 的自動化流程全面停擺。對於靠版本控制吃飯的開發者來說，這簡直是末日級別的災難。</p>\n<p>GitHub CTO Vladimir Fedorov 在部落格發文，坦承這次事件暴露了系統架構上的盲點。<strong>他強調，團隊已經啟動全面檢視，從基礎設施到應急預案逐一盤點。</strong>這不是一次普通的當機，而是讓整個開發社群重新思考可靠性的警訊。</p>\n\n<h2>CTO 親揭修復路徑：從根因到長期對策</h2>\n<p><strong>Fedorov 擁有超過十年的工程領導經驗，曾在 Meta 帶領超過 2,000 人的團隊。</strong>他這次親自出面說明，顯示 GitHub 對此事的重視程度。根據他的說法，修復工作分為短期與長期兩階段：短期著重於快速恢復服務穩定性，長期則要從架構層面徹底解決單點故障問題。</p>\n<ul>\n<li><strong>架構升級</strong>：重新評估資料中心間的負載分擔機制，避免單一節點故障影響全局。</li>\n<li><strong>監控強化</strong>：建立更即時的健康狀態預警系統，讓異常在擴大前就被發現。</li>\n<li><strong>應急演練</strong>：定期進行災難復原演練，確保團隊在真正危機來臨時能快速反應。</li>\n</ul>\n\n<h2>編輯悄悄話</h2>\n<p><strong>當機事件就像汽車拋錨，誰都不想遇到，但發生時才知道備胎有多重要。</strong>GitHub 這次沒有選擇沉默，而是公開說明並提出具體改善計畫，這種態度值得肯定。對開發者來說，與其抱怨，不如趁機檢查自己的備援方案——畢竟，雲端服務再穩，也抵不過意外來敲門。下次當機時，至少你知道該從哪裡開始應變。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-left.png",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "014",
+    "title": "CAPTCHA 即將退場，AI 機器人時代來臨，網站架構將迎來大洗牌",
+    "summary": "WordPress VIP 技術長 Brian Alvey 指出，AI 機器人正在顛覆網站商業模式，傳統驗證機制與建站方式將被淘汰，唯有結構化內容才是未來網站的生存關鍵。",
+    "content": "<h2>CAPTCHA 要過氣了，機器人才是未來</h2>\n<p><strong>你每天點選交通號誌、辨識機車的驗證圖，可能很快就會成為歷史。</strong>WordPress VIP 的 CTO Brian Alvey 在最新訪談中直言，AI 機器人正在重塑整個網路生態，而 CAPTCHA 這種老派驗證機制，將逐漸失去存在的必要。這不是危言聳聽，而是技術演進的自然結果——當 AI 已經能理解圖片內容、甚至模擬人類行為時，要求人類證明自己是人，反而成了效率的絆腳石。</p>\n<p><strong>網站不再只是給人看的，更是給機器人讀的。</strong>這意味著過去我們花大量時間設計的互動流程、驗證步驟，未來可能會被更智慧的方式取代。與其防堵機器人，不如讓網站更容易被 AI 理解與利用。</p>\n\n<h2>建站方式將迎來大洗牌，結構化內容才是王道</h2>\n<p><strong>過去建站講究視覺效果與互動體驗，未來網站的「可讀性」將比「好看」更重要。</strong>Brian Alvey 強調，在 AI 機器人主導的網路環境中，網站內容必須具備清晰的結構，才能讓機器準確抓取與理解。這不代表設計師要失業，而是提醒所有網站經營者：內容的組織方式，將直接決定你的網站在 AI 時代能否被看見。</p>\n<p><strong>WordPress VIP 作為企業級內容平台，正在推動這種轉變。</strong>他們服務的客戶都是大型企業，這些組織早已意識到，結構化內容不只是一種技術選擇，更是戰略優勢。當 AI 能夠自動整理、分析、甚至生成內容時，擁有良好結構的資料庫將成為最珍貴的資產。</p>\n\n<h2>商業模式將被重塑，網站經營者必須提前布局</h2>\n<p><strong>網站的變現邏輯正在改變，從「吸引人流」轉向「吸引 AI」。</strong>過去網站經營者專注於 SEO 與使用者體驗，未來則需要同時考慮如何让 AI 機器人更容易理解與引用自己的內容。這是一場從底層邏輯開始的變革，而非表面的技術升級。</p>\n<p><strong>這場數位演進不會一夜之間完成，但趨勢已經明確。</strong>對於網站經營者來說，現在正是重新檢視內容架構、思考如何讓網站在 AI 時代保持競爭力的最佳時機。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>以前我們花錢請人寫網站，以後網站可能要寫給機器人看。</strong>這聽起來有點荒謬，但想想看，當你下次在 Google 搜尋時，那些被 AI 直接引用的答案，背後都是結構清晰的內容在支撐。與其抱怨機器人搶飯碗，不如趁早把自家網站的資料整理好，讓 AI 願意幫你打工。畢竟，未來最值錢的不是流量，而是讓機器人也覺得「這內容值得引用」的品質。</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "015",
+    "title": "架構設計不是做一次就完的事：為什麼好設計也會悄悄失效",
+    "summary": "資訊架構的「適配度」從來不是固定目標，隨著法規、技術與市場不斷變化，再好的設計也可能在無聲中失去適用性。這套文章重塑了架構師對演化的認知。",
+    "content": "<h2>好設計也會悄悄失效，這不是你的錯</h2>\n<p><strong>架構不是做一次就完的事，而是不斷演化的技藝。</strong>我們習慣把架構設計想像成一道一次性考試：畫好邊界、交付上線，然後被評分。但問題在於，這個假設悄悄預設了「目標不會動」，而現實從不這麼配合。法規在變、競爭對手在動、新技術幾乎在你剛決定方案的那一刻就重新定義了什麼叫「好」。</p>\n<p><strong>系統兩年前設計得很完美，今天卻可能已經不再適用，而且中間沒有人犯過任何錯誤。</strong>這聽起來很殘酷，但正是演化架構的核心洞察：適配度是一個移動的目標，演化不是意外狀況，而是常態。越早接受這一點，架構團隊的日子就越輕鬆。</p>\n\n<h2>七篇文章，七個角度，同一個 conviction</h2>\n<p><strong>這套文章從 AI 上下文儲存、閘道器、團隊組織、邊界漂移到平台融合序列，角度各異卻指向同一個結論。</strong>它們都來自 InfoQ 認證架構師培訓計畫的學員，是這屆學員集體學習的結晶。七篇文章共同主張：架構是一門社會技術技藝，真正做得好的團隊，會主動感知並塑造摩擦、適配度與流動性，而不是把一切都交給運氣。</p>\n<ul>\n<li><strong>AI 上下文儲存與閘道器</strong>：探討 AI 時代下架構如何回應新的資料存取需求。</li>\n<li><strong>團隊組織與邊界漂移</strong>：分析團隊結構如何影響系統邊界的穩定性。</li>\n<li><strong>平台融合序列</strong>：理解平台演進的節奏與架構決策的時機。</li>\n</ul>\n<p><strong>架構師的角色不是做出完美的一次性決策，而是持續感知環境變化並調整方向。</strong></p>\n\n<h2>編輯悄悄話</h2>\n<p>以前我們總以為架構師是那種拍板定案、一勞永逸的人，現在才明白，真正厲害的架構師更像是個園丁——不是種下去就不管，而是持續觀察、修剪、調整，讓系統在變化中保持健康。下次當你覺得某個設計「明明當初很完美」卻開始出問題時，別急著怪自己，也許只是目標已經悄悄移動了。</p>",
+    "image": "https://res.infoq.com/minibooks/architect-sociotechnical-craft/en/card_header_image/generatedCard-1786541438804.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/minibooks/architect-sociotechnical-craft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "016",
+    "title": "Vercel 常駐追蹤上線，生產環境問題不用再猜",
+    "summary": "Vercel 推出 Always-on tracing 功能，直接採樣生產與預覽環境即時流量，讓開發者無需重現問題就能除錯，徹底顛覆傳統偵錯方式，為團隊帶來更高效的排錯體驗。",
+    "content": "<h2>不用再模擬，直接看真實流量</h2>\n<p><strong>以前除錯要靠猜，現在直接看真實用戶請求。</strong>Vercel 這次推出的 Always-on tracing 功能，讓開發者可以持續收集生產環境和預覽環境的即時流量追蹤。跟之前的 session tracing 不同，這個新功能不會只捕捉你瀏覽器裡的請求，而是直接採樣真實用戶的流量。這意味著你不用再花時間重現問題，直接就能看到真實情況，排錯效率大幅提升。</p>\n\n<h2>用多少付多少，價格透明好控制</h2>\n<p><strong>沒有設定規則就不會收費，完全由你掌控。</strong>這個功能透過 sampling rules 讓你控制收集內容，每個規則可以設定追蹤率，針對特定環境（All、Production 或 Preview），也可以限定特定路徑前綴像是 /checkout。關鍵是，在你加入規則之前，系統不會收集任何資料，所以你只需要為實際追蹤的內容付費。追蹤費用是每百萬 span units 0.5 美元，價格相當透明。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>這個功能對開發者來說簡直是救星。</strong>以前遇到問題要重現，花時間又傷腦筋，現在直接看真實流量就能除錯，效率提升不是一點點。而且價格透明，用多少付多少，對小團隊來說也很友善。Infrastructure 和 outbound fetch spans 會自動捕捉，如果想加 framework 和 custom spans，只要用 @vercel/otel 儀表化你的應用程式就好。目前這個功能還在 beta 階段，所有方案的團隊都能使用，Hobby 保留 1 小時、Pro 保留 1 天、Enterprise 保留 3 天。如果你還在用舊的偵錯方式，這個新功能絕對值得試試看。</p>",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/HPhn9pntS6skI90XakRaL/e7fcce99b41c5fb1c450c8675e7f1c76/og-always-on-tracing.png",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/always-on-tracing-for-production-and-preview-traffic",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "017",
+    "title": "NASA太空指令軟體曝重大漏洞 未認證攻擊者可遠端下達指令",
+    "summary": "NASA地面控制軟體AIT-GUI曝嚴重漏洞，未認證攻擊者或能遠端下達指令，挑戰太空任務安全，已發布修補版本。",
+    "content": "<h2>漏洞本質：開源軟體的資安隱憂</h2>\n<p><strong>缺乏身分驗證的開源框架，可能成為攻擊者的跳板。</strong>這套由NASA與JPL共同開發的AMMOS Instrument Toolkit網頁介面，本質上是用來傳輸太空船指令與下載遙測資料的關鍵工具。問題出在2.5.1版及更早版本完全沒有身分驗證機制，伺服器還預設監聽所有網路介面，等於讓任何能連上網路的人都能嘗試發送指令。</p>\n\n<h2>影響範圍與修補措施</h2>\n<p><strong>CVSS評分9.4分，代表漏洞嚴重性已達「Critical」等級。</strong>攻擊者只需誘使操作人員開啟惡意網頁，就能透過瀏覽器觸發指令，直接對太空船與科學儀器的指令匯流排下達任意命令，甚至執行伺服器端的指令碼。目前GitHub漏洞追蹤編號已公開，專案方也在8月12日緊急發布2.5.2修補版，但尚未取得CVE編號。</p>\n\n<h2>編輯悄悄話</h2>\n<p>看來連NASA的開源軟體也有翻車的時候，以後升級軟體前，還是多檢查一下版本比較保險。畢竟誰也不想讓太空船收到來自網頁的奇怪指令吧！</p>",
+    "image": "https://www.ithome.com.tw/sites/default/files/field/image/ait-gui.png",
+    "source": "iThome",
+    "url": "https://www.ithome.com.tw/news/178350",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "018",
+    "title": "Panasonic Eneloop Lite 輕量登場！11g超輕電池專為手燈遙控器而生",
+    "summary": "Panasonic Eneloop Lite 充電電池以輕量設計顛覆傳統，專為低功耗設備打造，兼具防漏液與低自放電技術，讓遙控器、手燈等設備更持久耐用。",
+    "content": "<h2>輕量設計，專為低功耗設備而生</h2>\n<p><strong>Eneloop Lite 以「輕」為核心訴求，4號電池僅重11克，比標準版輕了2克，3號電池更是從27克大幅降至19克。</strong>這款電池不追求大容量，而是針對遙控器、手燈、簡報器等需要長時間手持或低功耗運作的設備設計。雖然容量較小（4號600mAh、3號1000mAh），但對於不常耗電的裝置來說，實際使用差異並不明顯。</p>\n<p><strong>輕量化背後是材料密度的巧妙調整，讓電池在維持穩定性能的同時，大幅減輕負擔。</strong>對於演唱會拿手燈、戶外用簡報器或家中遙控器這類「偶爾用、長期放」的設備，Eneloop Lite 的輕盈手感與低自放電特性，正是最貼心的解決方案。</p>\n\n<h2>低自放電技術，長久存放也不怕</h2>\n<p><strong>充飽電後放置5年，仍能保留約70%電量，這是Eneloop Lite 低自放電技術的實力展現。</strong>傳統鹼性電池放久容易漏液損壞設備，而Eneloop Lite 採用鎳氫（Ni-MH）設計並加入防漏液機制，即使數月才使用一次，也能直接啟動供電，省去頻繁更換的麻煩。</p>\n<p><strong>3000次重複充電的耐用度，讓這款電池成為環保與經濟兼備的選擇。</strong>不過需注意，1.2V的電壓比常見乾電池的1.5V略低，部分高功耗裝置（如遊戲手把、滑鼠）可能會出現電量偵測誤差，這類設備仍建議選擇標準版Eneloop。</p>\n\n<h2>編輯悄悄話</h2>\n<p>電池這東西，平時不起眼，壞了才驚覺離不開。Eneloop Lite 把「輕」做到極致，專為那些「放很久才用一次」的設備量身打造，遙控器、手燈、時鐘用戶可以安心入手。不過如果你家滑鼠天天狂點、遊戲手把頻繁使用，還是標準版更對味。買電池別只看容量，選對場景才是聰明消費！</p>",
+    "image": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/08/54d3617a-5299-425a-8444-c09a27c0c79d.webp",
+    "source": "癮科技",
+    "url": "https://www.cool3c.com/article/251172",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "019",
+    "title": "免費工具DecryptAds揭開廣告追蹤黑箱 誰在監控你的網路足跡",
+    "summary": "全新免費服務DecryptAds整合分散的廣告技術資料，重塑使用者掌握自身隱私狀況的能力，同時揭露潛在的資安與地理風險威脅。",
+    "content": "<h2>誰在背後窺探你的網路足跡？</h2>\n<p><strong>你每天瀏覽網站、使用手機App時，背後有多少公司正在悄悄收集你的資料？</strong>過去這塊資訊就像被大型廣告平台鎖在保險庫裡，一般人根本摸不清頭緒。現在不一樣了——全新免費工具DecryptAds橫空出世，直接把這些散落在各處的廣告技術檔案全部挖出來、交叉比對，讓你一眼看穿誰在追蹤你。</p>\n<p><strong>DecryptAds會持續爬取網站和App公開披露的檔案，</strong>包含ads.txt（列出允許在網站上投放廣告或收集資料的廣告技術公司）、app-ads.txt（針對手機和智慧電視App的相同資訊），以及buyers.json和sellers.json（記錄廣告庫存買賣與轉售的實體）。單一檔案看起來枯燥難懂，但一旦交叉比對，整個廣告生態系的輪廓就浮現了。</p>\n<h2>從ESPN案例看廣告供應鏈的複雜真相</h2>\n<p><strong>以熱門體育網站ESPN為例，DecryptAds一查就挖出143家廣告合作夥伴和19個註冊資料仲介域名。</strong>這些數字背後藏著什麼？原來有近一半的資料仲介正在收集不擋廣告的ESPN訪客地理位置資料，還有三家明確標示會收集裝置指紋與敏感個人資訊。更驚人的是，ESPN還與四家位於俄羅斯、中國或阿聯酋的廣告公司合作，其中Between Digital雖然掛著紐約地址，但文件顯示其業務實際透過俄羅斯Alfa Bank處理。</p>\n<p><strong>DecryptAds的獨特之處在於從資安角度切入廣告技術領域。</strong>創辦人之一的Zach Edwards指出，單一檔案根本看不出來問題在哪裡——供應鏈的完整性漏洞通常出現在多個檔案之間的交叉比對斷點上，像是ads.txt、app-ads.txt和sellers.json之間的參照不一致，或是不同網域之間出現複製的宣告資料。這些問題單看一份檔案完全無從察覺，但整合分析後就一目了然。</p>\n<p><strong>這個工具還能幫你揪出來自「地理風險區域」的廣告商。</strong>當某個網站或App的廣告合作夥伴位於中國、俄羅斯，或是與這兩個國家有緊密金融政治聯繫的賽普勒斯、阿聯酋等地時，DecryptAds會直接顯示醒目警告，讓使用者對潛在的資安威脅保持高度警覺。</p>\n<h2>編輯悄悄話</h2>\n<p>說實話，看完這個工具真的讓人背脊發涼——原來我們每天滑手機、逛網站時，背後有這麼多公司正在默默記錄我們的一舉一動。更誇張的是，有些廣告商明明掛著美國地址，實際營運卻藏在俄羅斯銀行體系裡。DecryptAds就像一面照妖鏡，把這些藏在幕後的追蹤者全部揪出來。下次再看到網頁上跳出來的廣告，你可能會忍不住想：「這到底是誰在盯著我看？」</p>",
+    "image": "https://krebsonsecurity.com/wp-content/uploads/2026/08/decryptads-ESPN.png",
+    "source": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "020",
+    "title": "魔界版狼人殺！黑暗奇幻RPG《Among Shadows》把背叛玩到極致",
+    "summary": "《Among Shadows》將《Elden Ring》的黑暗奇幻與《Among Us》的社交推理融合，玩家深入被詛咒的領地執行任務，卻要防範隊友是地下世界派來的叛徒，顛覆傳統合作玩法。",
+    "content": "<h2>當黑暗奇幻遇上狼人殺，這組合聽起來很怪但莫名帶感</h2>\n<p><strong>《Among Shadows》是一款把《Elden Ring：Nightreign》風格與《Among Us》社交推理元素結合的奇幻動作RPG</strong>，聽起來像是把熱門元素湊在一起的拼貼遊戲，但開發團隊TMXN Games似乎真的抓到了一些有趣的东西。玩家扮演「秘火教團」的成員，被派往一片被超自然瘟疫侵蝕的領地，追查腐敗源頭，同時撿裝備、練等級，走的是經典的黑暗奇幻路線。</p>\n<p>遊戲的核心機制在血月升起時啟動——你必須護送當地領主與百姓撤離到地圖邊緣，沿途要抵擋殭屍、狂信徒、幽靈以及各種被魔法瘟疫催生的怪物。但問題來了：<strong>你的隊伍中，有一到兩名是地下世界派來的叛徒</strong>，他們的任務是培育瘟疫、佈置陷阱，並悄悄除掉其他玩家。每天晚上，玩家可以召開會議，互相對質、揪出內鬼。這種設定讓傳統合作玩法瞬間變得充滿猜忌與緊張感。</p>\n\n<h2>從《黑暗靈魂》到《Among Shadows》，背叛的氛圍被推到更遠</h2>\n<p><strong>《黑暗靈魂》系列中充滿了背叛與欺騙的經典橋段</strong>，從那些滿臉壞笑的NPC到《黑暗靈魂3》裡假裝成友好召喚者、實則收割玩家脊椎的「玩家墓園建造者」，FromSoftware早就把不信任感寫進遊戲DNA裡。《Among Shadows》顯然想在這條路上走得更遠，直接把背叛從NPC行為升級成玩家之間的對立。</p>\n<p>當然，Steam頁面的實機影片顯示，這款遊戲的戰鬥表現還沒達到FromSoft級別的水準，但服裝設計確實有種貴族氣息。開發團隊把《Balatro》《Vampire Survivors》等熱門類型的玩法元素重新包裝，這種「跟風混色」的做法在遊戲圈屢見不鮮，但社交推理加上黑暗奇幻的組合，確實讓人對這款遊戲的後續表現抱持謹慎的期待。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>說實話，這遊戲聽起來就像是你朋友聚會時硬拉你玩的那種「我們來玩個超刺激遊戲」的開場</strong>——表面上是合作打怪，實際上每個人都懷疑身邊的人下一秒會捅你一刀。這種設計把「信任」變成最昂貴的資源，比任何裝備都珍貴。如果你曾經在《黑暗靈魂》裡被假召喚坑過，那這款遊戲絕對會喚醒你所有的創傷回憶，只是這次，敵人不再是NPC，而是你曾經並肩作戰的隊友。</p>",
+    "image": "https://assetsio.gnwcdn.com/KV-16%EF%BC%9A9.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/among-shadows-is-a-nightreign-style-dark-fantasy-rpg-with-a-touch-of-among-us-that-makes-me-think-wistfully-of-dark-souls-at-its-most-treacherous",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "021",
+    "title": "GTA 6洩漏風波：黑客自稱羅賓漢，實為加密貨幣計畫？",
+    "summary": "GTA 6洩漏者Cyberleek自稱反抗Rockstar政策，但調查顯示其可能透過推銷meme coin $CYBERLEEK獲利，顛覆玩家對洩漏動機的認知，揭露一場精心策劃的加密貨幣賺錢計畫。",
+    "content": "<h2>洩漏者自稱羅賓漢，玩家卻發現背後動機可疑</h2>\n<p><strong>Rockstar正全力刪除洩漏內容，但Cyberleek的備用帳號持續釋出資訊。</strong>這位神秘洩漏者聲稱自己是「數位羅賓漢」，反抗Rockstar和Take-Two Interactive的政策，包括取消實體版、高定價，以及讓最新預告片在Netflix首發。然而，玩家社群逐漸發現，這套說詞可能只是掩護其真正目的的煙幕彈。</p>\n\n<h2>加密貨幣計畫浮現：24小時賺進3萬美元</h2>\n<p><strong>Cyberleek在洩漏期間同步推銷自己發行的meme coin $CYBERLEEK。</strong>根據GTAForums用戶Vice Cit的調查，Cyberleek投入2.9萬美元創建代幣與網站，並在Solana區塊鏈上透過交易手續費獲利。僅洩漏首日，手續費收入就突破3萬美元。更關鍵的是，10億枚代幣中有2.7億枚被轉至知名交易所KuCoin的私人錢包，疑似準備在價格上漲後分批拋售。</p>\n\n<h2>最終洩漏可能是「收割前奏」</h2>\n<p><strong>調查者警告，洩漏者可能在被發現前釋出最後一波震撼性內容，推高代幣價格後套現。</strong>若2.7億枚代幣全數售出，按當前價值計算可獲利約39.1萬美元。這也引發更大疑問：Cyberleek如何取得近十年最受矚目遊戲的內部資料？Rockstar與Take-Two必須盡快給出答案。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這波GTA 6洩漏風波就像一場數位時代的羅賓漢故事，但仔細一看，主角可能只是個拿著加密貨幣當武器的「現代俠盜」。玩家們別只盯著遊戲畫面流口水，小心自己的錢包也被「洩漏」一空。畢竟，當Robin Hood開始推幣，這世界就只剩韭菜在收割了。</p>",
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ultimate_edition_electric_fang_02.jpg?w=1600&h=900&fit=crop",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/gta-6-leaks-cyberleek-crypto-scheme/",
+    "date": "2026-08-21"
+  },
+  {
+    "id": "022",
+    "title": "《快打6》神技曝光！看側乳反擊成功率近100%",
+    "summary": "《快打旋風6》社群瘋傳「側乳反擊法」，玩家實測發現只要看到不知火舞側乳就按反擊，成功率近100%，顛覆傳統frame分析，成為新手最易學的對策。",
+    "content": "<h2>側乳反擊法從哪來？日本玩家實測爆紅</h2>\n<p><strong>這招跟專業frame分析完全無關，卻讓高手們驚為天人。</strong>日本玩家こじか近日發布實測影片，原本只是隨興嘗試觀眾留言的「看到側乳就反擊」建議，沒想到竟能成功擋下不知火舞的集氣花蝶扇。另一名職業選手MAGO也特別製作實驗影片驗證，發現若對手穿預設服裝或黑色緊身outfit 2，反擊命中率幾乎百分百；但若是outfit 3外套造型，側乳被遮擋後成功率就大幅下降。</p>\n\n<h2>職業選手為何都穿外套？側乳反擊法的盲點</h2>\n<p><strong>目前主玩不知火舞的職業選手幾乎清一色選擇outfit 3出戰。</strong>中國選手Xiaohai、法國選手Kilzyou、香港選手Micky等頂級玩家，不約而同穿上外套造型，彷彿默契十足地避開這招視覺陷阱。有玩家笑稱「男人的脊髓反射終於派上用場」，但也有技術派指出，這方法本質上是利用角色動畫的視覺破綻，而非真正理解招式判定框。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這波側乳反擊風潮，說穿了就是玩家用生活直覺破解遊戲機制。不過職業選手早就看穿這招，紛紛換上外套「物理防禦」。看來以後對戰不知火舞，與其盯著螢幕看胸部，不如多練練反應速度——畢竟遊戲公司下次更新，可能直接給角色穿長袖呢！</p>",
+    "image": "https://img.4gamers.com.tw/news-image/e7db6a53-4b64-4d6e-92f7-a7ce7f954b10.jpg",
+    "source": "4Gamers",
+    "url": "https://www.4gamers.com.tw/news/detail/81550/street-fighter-6-tests-viral-countermeasure-against-mais-charged-kachosen",
+    "date": "2026-08-21"
   }
 ]
