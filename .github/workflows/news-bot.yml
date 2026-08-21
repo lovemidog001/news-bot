@@ -44,10 +44,25 @@ jobs:
           git commit -m "Auto update news $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push
 
-      - name: Clear Serv00 Cache
+      - name: Sync News to Website
+        env:
+          NEWS_SYNC_TOKEN: ${{ secrets.NEWS_SYNC_TOKEN }}
+          SITE_URL: https://bountygo.qzz.io
+        run: |
+          DATE=$(date +%Y-%m%d)
+          FILE="news/${DATE}.json"
+          if [ -f "$FILE" ]; then
+            echo "Syncing $FILE to website..."
+            curl -X POST "${SITE_URL}/api/sync_news.php?token=${NEWS_SYNC_TOKEN}" \
+              -H "Content-Type: application/json" \
+              -d @"$FILE" \
+              -w "\nHTTP %{http_code}" \
+              -s -o /dev/null || echo "Sync failed (non-critical)"
+          else
+            echo "No news file for today ($DATE), skipping sync"
+          fi
+          
+      - name: Clear Old Cache Endpoints (Deprecated)
         run: |
           curl -s "https://ailoom.ccwu.cc/cache_clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clear failed (non-critical)"
-
-      - name: Clear bountygo.qzz.io Cache
-        run: |
           curl -s "https://bountygo.qzz.io/api/cache/clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clear failed (non-critical)"
