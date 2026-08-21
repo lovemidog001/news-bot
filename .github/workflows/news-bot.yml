@@ -1,48 +1,53 @@
-   name: AI News Bot
+name: AI News Bot
 
-   on:
-     schedule:
-       - cron: '5 11,23 * * *'
-     workflow_dispatch:
+on:
+  schedule:
+     # UTC 03:00 → 台灣 11:00 → 美國東部 23:00
+     # UTC 11:00 → 台灣 19:00 → 美國東部 07:00
+     # UTC 15:00 → 台灣 23:00 → 美國東部 11:00
+     # UTC 23:00 → 台灣 07:00（隔天） → 美國東部 19:00  
+    - cron: '5 11,23 * * *'
+  workflow_dispatch:
 
-   permissions:
-     contents: write
+permissions:
+  contents: write
 
-   jobs:
-     build:
-       runs-on: ubuntu-latest
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-       steps:
-         - name: Checkout Repository
-           uses: actions/checkout@v4
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-         - name: Setup Python
-           uses: actions/setup-python@v5
-           with:
-             python-version: '3.11'
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-         - name: Install Dependencies
-           run: pip install -r requirements.txt
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
 
-         - name: Run News Generator
-           env:
-             AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
-             GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-             NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-             GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-           run: python main.py
+      - name: Run News Generator
+        env:
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python main.py
 
-         - name: Commit JSON Files
-           run: |
-             git config --global user.name "github-actions"
-             git config --global user.email "actions@github.com"
-             git add news/
-             git commit -m "Auto update news $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
-             git push
+      - name: Commit JSON Files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add news/
+          git commit -m "Auto update news $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
+          git push
 
-         - name: Clear Serv00 Cache
-           run: |
-             curl -s "https://ailoom.ccwu.cc/cache_clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clearfailed (non-critical)"
-         - name: Clear bountygo.qzz.io Cache
-           run: |
-             curl -s "https://bountygo.qzz.io/api/cache/clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cacheclear failed (non-critical)"
+      - name: Clear Serv00 Cache
+        run: |
+          curl -s "https://ailoom.ccwu.cc/cache_clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clear failed (non-critical)"
+
+      - name: Clear bountygo.qzz.io Cache
+        run: |
+          curl -s "https://bountygo.qzz.io/api/cache/clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clear failed (non-critical)"
