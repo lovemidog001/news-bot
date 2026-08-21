@@ -61,7 +61,7 @@ def build_prompt(text):
 """
 
 # ── NVIDIA ──
-def call_nvidia(text, model="nvidia/llama-3.1-nemotron-ultra-253b-v1"):
+def call_nvidia(text, model="nvidia/nemotron-3-ultra"):
 
     api_key = os.getenv("NVIDIA_API_KEY")
     if not api_key:
@@ -98,7 +98,7 @@ def call_nvidia(text, model="nvidia/llama-3.1-nemotron-ultra-253b-v1"):
 
 
 # ── Gemini ──
-def call_gemini(text, model="gemini-2.5-flash"):
+def call_gemini(text, model="gemini-1.5-flash"):
 
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
@@ -133,44 +133,8 @@ def call_gemini(text, model="gemini-2.5-flash"):
     return response.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 
-# ── DeepSeek ──
-def call_deepseek(text, model="deepseek-chat"):
-
-    api_key = os.getenv("DEEPSEEK_API_KEY")
-    if not api_key:
-        raise ValueError("DEEPSEEK_API_KEY 環境變數未設定")
-
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
-    }
-
-    payload = {
-        "model": model,
-        "messages": [
-            {
-                "role": "user",
-                "content": build_prompt(text)
-            }
-        ],
-        "temperature": 0.6,
-        "max_tokens": 2000
-    }
-
-    response = requests.post(
-        "https://api.deepseek.com/chat/completions",
-        headers=headers,
-        json=payload,
-        timeout=60
-    )
-
-    response.raise_for_status()
-
-    return response.json()["choices"][0]["message"]["content"]
-
-
 # ── Groq ──
-def call_groq(text, model="llama-3.3-70b-versatile"):
+def call_groq(text, model="llama-3.1-70b-versatile"):
 
     api_key = os.getenv("GROQ_API_KEY")
     if not api_key:
@@ -205,12 +169,48 @@ def call_groq(text, model="llama-3.3-70b-versatile"):
     return response.json()["choices"][0]["message"]["content"]
 
 
+# ── Agnes AI ──
+def call_agnes(text, model="agnes-2.0-flash"):
+
+    api_key = os.getenv("AGNES_API_KEY")
+    if not api_key:
+        raise ValueError("AGNES_API_KEY 環境變數未設定")
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+
+    payload = {
+        "model": model,
+        "messages": [
+            {
+                "role": "user",
+                "content": build_prompt(text)
+            }
+        ],
+        "temperature": 0.3,
+        "max_tokens": 2000
+    }
+
+    response = requests.post(
+        "https://apihub.agnes-ai.com/v1/chat/completions",
+        headers=headers,
+        json=payload,
+        timeout=60
+    )
+
+    response.raise_for_status()
+
+    return response.json()["choices"][0]["message"]["content"]
+
+
 # ── Provider 對應表 ──
 PROVIDER_MAP = {
-    "deepseek": call_deepseek,
-    "gemini": call_gemini,
+    "agnes": call_agnes,
     "groq": call_groq,
     "nvidia": call_nvidia,
+    "gemini": call_gemini,
 }
 
 
@@ -240,7 +240,7 @@ def safe_json_parse(output: str):
 # ── Fallback ──
 def call_ai_with_fallback(
     text,
-    fallback_chain=["deepseek", "gemini", "groq", "nvidia"],
+    fallback_chain=["agnes", "groq", "nvidia", "gemini"],
     models=None
 ):
     """
@@ -286,5 +286,3 @@ def call_ai_with_fallback(
             continue
 
     raise Exception(f"所有 AI Provider 均失敗：{last_error}")
-
-  
