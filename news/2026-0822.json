@@ -118,5 +118,125 @@
     "source": "4Gamers",
     "url": "https://www.4gamers.com.tw/news/detail/81556/take-two-subpoenas-microsoft-discord-gta-6-leaker-cyberleek",
     "date": "2026-08-22"
+  },
+  {
+    "id": "013",
+    "title": "AI 世界模型忽略人心，預測全跑偏！",
+    "summary": "新研究指出當前世界模型只模擬物理層面，忽略人類信念與意圖，導致預測行為錯誤。引入「心智世界建模」框架後，即使較弱語言模型也能超越強模型，顛覆 AI 預測邏輯。",
+    "content": "<h2>物理模型再強，也猜不中人心？</h2>\n<p><strong>現有世界模型只懂物理，不懂人心。</strong>像 Sora、Genie 這些系統，能精準模擬物體移動、遮擋與運動軌跡，卻完全忽略人類背後的想法、慾望或社會規範。研究團隊舉了個生活化例子：當杯子被悄悄移進櫥櫃，純物理模型會認為場景沒變，但實際上當事人會去錯誤位置找杯子——因為模型沒追蹤他的「信念狀態」。</p>\n<p><strong>心智變數才是關鍵盲點。</strong>論文指出，服務機器人、醫療助手或協作型 AI 若缺乏對人類意圖的推測，根本無法應對真實場景。同一個「推杯子」動作，可能是道歉、欺騙或關懷，物理層面完全一樣，只有結合心智變數才能區分。</p>\n\n<h2>加入「心智變數」，AI 預測力大躍進</h2>\n<p><strong>MWM 框架把信念、目標、情緒等變數納入建模。</strong>研究團隊開發的 MENTIS 管線不需額外訓練，直接將動作拆解為「物理載體」與「心智載荷」兩條並行路徑，再從物理合理性、心智一致性與社會適切性三維度評分。測試數據集 Menti-Bench 包含 448 個決策場景，七成以上涉及多角色互動。</p>\n<p><strong>弱模型搭 MWM 反殺強模型。</strong>實驗結果顯示，即使是最弱的 GPT-4.1 加上完整心智建模，F1 分數仍達 84.9，超越僅用直接提問的 GPT-5.6-Sol（83.6）。移除心智通道平均掉 12.1 分，移除物理通道掉 16.5 分，證明兩者缺一不可。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這研究就像提醒 AI 別當「物理直男」——光會算軌跡沒用，得懂人心才能真懂世界。以後你家機器人要是連你藏零食的位置都猜不準，可能該考慮升級心智模組了。</p>",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/08/mental-world-model-nano-banana-pro.jpg",
+    "source": "The Decoder",
+    "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "014",
+    "title": "GeForce NOW支援Firefox瀏覽器，雲端遊戲免下載直接開玩",
+    "summary": "NVIDIA GeForce NOW正式支援Firefox瀏覽器，讓玩家無需下載專用應用程式，直接在瀏覽器中體驗高畫質PC遊戲，徹底顛覆雲端遊戲的存取方式，讓更多設備都能輕鬆暢玩。",
+    "content": "<h2>Firefox也能玩雲端遊戲，不用再跟下載賽跑</h2>\n<p><strong>GeForce NOW這次把Firefox也拉進支援名單，跟Chrome、Edge、Opera平起平坐。</strong>以後玩家不用為了玩遊戲硬裝某個瀏覽器，也不用擔心電腦儲存空間被塞爆。只要下載最新版的Firefox，直接進play.geforcenow.com就能開玩，雲端負責扛重責大任，你的裝置只要負責顯示畫面就好。</p>\n<p>對於Ultimate會員來說，體驗更是升級到1440p解析度加上120幀每秒的流暢度，RTX技術加持下畫面細節毫不馬虎。<strong>這意味著即使是一台學校配發的筆電，也能流暢跑大型PC遊戲，不用再花錢升級硬體。</strong>遊戲不用下載、不用更新，打開瀏覽器就玩，對儲存空間有限的人來說簡直是救星。</p>\n<h2>本週12款新遊戲上線，一戰戰場等你來指揮</h2>\n<p><strong>本週最引人注目的新作是BlackMill Games推出的Gallipoli，一戰題材的25對25objective-based戰鬥遊戲。</strong>玩家將化身英國或鄂圖曼帝國的士兵，在海岸、沙漠與城市戰場上展開激烈對抗。遊戲內建10種歷史兵種與超過50種真實武器裝備，從指揮官到重機槍手、狙擊手再到擔架兵，每個角色都有明確的定位與玩法。</p>\n<p>這款遊戲強調團隊合作與一槍一命的真實感，戰術配合比個人槍法更重要。<strong>GeForce NOW的雲端儲存功能讓你能在PC、Mac、Chromebook或掌上型裝置之間無縫切換，進度隨時保留。</strong>此外本週還有其他11款遊戲陸續上線，具體名單可關注GeForce NOW官方頻道與GFN Thursdays取得最新資訊。</p>\n<p>想試試看Firefox版GeForce NOW的玩家，可以先購買一日通行證體驗，之後升級Performance或Ultimate會員時，一日通行證的費用還能抵扣首月訂閱費。<strong>這對於猶豫要不要長期訂閱的玩家來說，是個相當實用的試水溫方案。</strong></p>\n<h2>編輯悄悄話</h2>\n<p>以前玩遊戲最怕的就是下載半天，結果發現硬碟不夠用，最後只能眼睜睜看著遊戲躺在資料夾裡吃灰。現在Firefox也能直接玩雲端遊戲，等於把遊戲庫從硬碟裡解放出來，你的裝置終於不用當倉庫管理員了。週末有空不妨打開Firefox試試看，說不定你會發現家裡那台老筆電還有第二春。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/GFN_Thursday-Firefox.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "015",
+    "title": "VentureBeat 首聘首席分析师 深耕企业 AI 基础建设",
+    "summary": "VentureBeat 延揽资深分析师 Rob Strechay 担任首位首席分析师，**重塑企业 AI 研究格局**。他将以三十年实战经验，专注剖析 GPU 利用率、多供应商架构与企业 AI 安全等核心议题，为技术决策者提供可落地的深度分析。",
+    "content": "<h2>从实战派到分析师：三十年经验全用上</h2>\n<p><strong>Strechay 不是纯理论派，而是真正在产业里摸爬滚打过的实战家。</strong>他曾在 AWS 协助打造新分析服务，也担任过 Zerto 等初创公司高管，更在 Enterprise Strategy Group 与 theCUBE Research 担任资深分析师。这种横跨产品、执行与研究的多重身份，让他能精准切入企业 AI 部署时的真实痛点。</p>\n<p><strong>企业决策者现在最关心的，早已不是「AI 能做什么」，而是「怎么在复杂环境里稳定跑起来」。</strong>多供应商编排、代理管道安全缺口、基础设施预算被利用率问题吞噬——这些才是让 CIO 与 CTO 夜不能寐的现实挑战。Strechay 的专长领域，正是云基础建设、资料架构、DevOps 编排，以及 AI 与企业资安的交界地带。</p>\n\n<h2>GPU 浪费、多供应商困境：他先啃硬骨头</h2>\n<p><strong>早在正式上任前，Strechay 就已经交出成绩单。</strong>今年五月，他发表了一篇关于企业 GPU 利用率的分析，直指内部 AI 基础建设里沉睡的算力浪费问题。他也参与审查了 VentureBeat 的 AI 基础建设与算力调查，确保数据扎实、结论经得起检验。</p>\n<p><strong>VB Pulse 月度调查显示，三分之二的企业采取「多模型对冲策略」，而非押注单一供应商。</strong>六月 Anthropic Claude 的大当机事件，让这种策略的实际价值一目了然。Strechay 将透过 VB In Conversation 影音访谈系列，深入访谈企业 AI 系统的架构师与产品负责人，揭开生产环境下的真实部署障碍与工具表现。</p>\n\n<h2>编辑悄悄话</h2>\n<p>企业 AI 早就过了「演示很炫、上线就跪」的阶段，现在拼的是谁能把基础建设打稳、把成本算清楚、把安全漏洞补好。VentureBeat 请来的这位首席分析师，身上没有学术光环，只有三十年踩过的坑与解过的题。对正在企业里硬扛 AI 落地压力的技术主管来说，这种「懂行的人说内话」的分析，或许比任何趋势报告都来得实在。</p>",
+    "image": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "016",
+    "title": "特朗普太空新政 2030年每年千次發射 美增建第三座重型發射場",
+    "summary": "特朗普簽署國家太空運輸政策，目標2030年每年超過1000次發射與再入，推動國防部與NASA協調基礎建設投資，並尋找第三座重型發射場以突破現有場地限制。",
+    "content": "<h2>發射次數暴增10倍 舊政策根本跟不上</h2>\n<p>回想2013年歐巴馬簽署太空政策的時候，美國一年大概才幾十次發射，現在呢？去年176次，幾乎是當時的10倍。SpaceX一家就貢獻了165次獵鷹9號發射，還順手試飛了5次星艦。這速度，連火箭都來不及造。</p>\n<p><strong>特朗普新政明確喊話：到2030年，美國太空運輸範圍必須支援每年超過1000次發射與再入。</strong>這不是開玩笑，背後是商業通訊、軍事偵察、太空目標定位，還有最近超紅的「太空資料中心」需求在推波助瀾。</p>\n\n<h2>第三座重型發射場 刻不容緩</h2>\n<p>目前美國聯邦發射場只有佛羅里達和加州兩座具備重型發射能力，但場地空間早就塞爆了。空軍部長特洛伊·梅尼克在國會聽證會上直言：<strong>「我們大概需要另一個能執行重型和超重型發射的場地，這不僅是容量問題，更是戰備韌性的關鍵。」</strong></p>\n<p>太空軍最高將領錢斯·薩爾茨曼也附和，強調需要地理上的分散佈局，不能把所有雞蛋放在佛州和加州兩個籃子裡。白宮已指示內政部尋找適合的聯邦土地，甚至考慮把海上石油平台改造成發射場。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前看火箭發射，一年沒幾次，新聞還得特別報導。現在發射頻繁到快變成家常便飯，連太空垃圾再入大氣層都成了常態。美國這波政策升級，說白了就是：發射場不夠用，得趕快蓋新的。畢竟當SpaceX把發射成本打下來之後，誰還想排隊等發射窗口？這不只是太空競賽，更是商業與軍事的雙重焦慮。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "017",
+    "title": "GitHub 8/17 大當機！CTO 親自出面說明修復進度與未來對策",
+    "summary": "GitHub 8月17日發生大規模服務中斷，CTO Vladimir Fedorov 親自撰文說明事件經過，並承諾推動多項可靠性改進措施，將徹底重塑開發者日常協作體驗。",
+    "content": "<h2>一次當機，全球開發者集體崩潰</h2>\n<p><strong>8月17日的 GitHub 當機事件，影響範圍遠超一般使用者的想像。</strong>對無數依賴 GitHub 進行版本控管、CI/CD 流水線與協作開發的團隊來說，這不只是一次短暫的網路斷線，而是直接衝擊專案進度與團隊溝通的嚴重事故。Vladimir Fedorov 以 CTO 身份親自撰文回應，顯示 GitHub 高層對此次事件的重視程度。他提到，團隊正在全面檢視系統架構中的弱點，並推動一系列可靠性提升方案，目標是讓類似事件不再重演。</p>\n<p><strong>這次當機暴露出雲端服務在高度集中化後的脆弱性。</strong>當全球數百萬開發者同時依賴同一個平台，任何單點故障都可能引發連鎖反應。Fedorov 在文中坦承，GitHub 過去在容錯設計與分散式架構上的投入仍有不足，未來將把系統韌性列為工程團隊的首要優先事項，並引入更嚴格的壓力測試與災難復原演練機制。</p>\n\n<h2>CTO 的履歷背後，藏著 GitHub 的技術底氣</h2>\n<p><strong>Fedorov 的資歷本身就是一張技術保證書。</strong>他在加入 GitHub 之前，曾在 Meta（原 Facebook）擔任資深副總裁，統籌超過 2,000 人的工程團隊，負責隱私、廣告與平台三大核心部門。更早之前，他也在 Microsoft 與加州理工學院累積了深厚的工程底蘊。這樣的背景讓 GitHub 在高層技術決策上，具備處理大規模分散式系統的實戰經驗。</p>\n<p><strong>他目前也在 Codepath.org 擔任董事，致力於培養 AI 世代的工程師。</strong>這意味著 Fedorov 不僅關注當前的系統修復，更著眼於長遠的技術人才培育與開發者工具創新。GitHub 未來的方向，將不只是修復漏洞，而是從根本上重新思考如何讓開發者工具更穩定、更智能、更貼近開發者的實際需求。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>當機不可怕，可怕的是當機之後裝沒事。</strong>GitHub 這次選擇讓 CTO 親自出面說明，至少展現了負責任的態度。但開發者們心裡都清楚，平台穩定性不是靠一篇部落格文章就能重建的，真正的考驗在於後續的改進措施能不能落實到位。下次當機的時候，希望我們能說：「這次 GitHub 真的學乖了。」</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-left.png",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "018",
+    "title": "DoorDash 用 AI 攔截惡意訊息，每天處理百萬級聊天量",
+    "summary": "DoorDash 以混合架構顛覆純 LLM 內容審核模式，用快速內部模型過濾明顯案例，再搭配多軸評分處理細微判斷，成功在每天數百萬則訊息中降低安全事件，同時維持即時通話體驗。",
+    "content": "<h2>為什麼純靠 LLM 不夠用？</h2>\n<p><strong>DoorDash 每天要處理超過 400 萬則聊天訊息，還有 40 萬通通話與 20 萬張圖片。</strong>這還是在一個極度即時的情境下——消費者、外送員與商家之間的對話，往往只有幾分鐘到幾十分鐘的短暫交集。Bruna Pereira 在 QCon AI 分享時提到，團隊最初的想法很直覺：直接把 LLM 丟上去，問它這則訊息安不安全，安全就放行，不安全就擋掉。聽起來很合理，但現實很殘酷。<strong>LLM 的延遲在生產環境中波動極大，平均要 2 到 10 秒才能給出回應。</strong>在即時聊天場景裡，這樣的延遲根本不可接受，用戶體驗會直接崩盤。</p>\n\n<h2>混合架構的聰明解法</h2>\n<p><strong>DoorDash 最終選擇了一套混合模式，把速度與準確性兼顧。</strong>第一層是快速內部模型，專門負責過濾掉那些明顯安全或明顯違規的訊息，把大頭先處理掉。第二層才是 LLM 多軸評分，針對那些邊界模糊、需要細微判斷的案例進行深度分析。這樣的分工讓系統既能快速回應，又不會在複雜情境下失準。此外，團隊還搭配了無程式碼工作流與回溯測試機制，讓營運人員可以靈活調整規則，而不必每次都依賴工程師重新部署。<strong>這套架構在擴展到每天數百萬則訊息的同時，成功降低了安全事件發生率。</strong></p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>這就像你去超市買東西，入口有快速掃描機幫你擋掉明顯違規的貨品，然後才輪到店員細心檢查那些模稜兩可的商品。</strong>DoorDash 的 SafeChat 系統正是這種思路的體現——不是什麼單一技術能解決所有問題，而是把對的工具放在對的層級上。下次你外送點餐時，那則「你快點來，我餓死了」的訊息能順利送達，背後可能就有這套系統在默默運作。</p>",
+    "image": "https://res.infoq.com/presentations/doordash-llm-ai-moderation-platform/en/card_header_image/bruna-pereira-twitter-card-1786539036040.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "019",
+    "title": "Ora實測AI agent：99%網站不合格，eve框架勝出",
+    "summary": "Ora平台實測主流AI agent，發現99%網站無法支援自動化操作，eve框架以7%更少步驟、2倍原生成功率重塑使用者體驗。",
+    "content": "<h2>實測現場：AI agent的網站兼容性大考驗</h2>\n<p><strong>Ora把AI agent丟進真實網站測試，結果多數直接卡關。</strong>創辦人Assaf Elovic指出，搜尋只能解決一半問題，agent找到商品後仍要能完成註冊、整合、付款等動作。目前平台已測試Claude Code、ChatGPT、Gemini等主流框架，每個agent的運作環境各不相同，Ora必須為每個harness建立獨立執行環境，才能完整追蹤每個步驟。</p>\n<p><strong>當agent在註冊流程卡住，客戶能清楚看到卡在哪一步。</strong>工程師Ido Finder強調，這種並行測試能力是Ora的核心價值。平台完全建置在Vercel上，前後端與agent執行環境共享部署路徑與日誌系統，讓測試數據能即時回饋給網站開發者。</p>\n\n<h2>eve框架勝出，Ora決定全面採用</h2>\n<p><strong>與Claude Code實測對比，eve展現顯著優勢。</strong>在相同模型與任務條件下，eve完成目標所需步驟減少7%，原生成功率達2倍，有效端點數提升9%。更關鍵的是，測試過程發現的prompt快取問題，經eve團隊修復後，Ora的整體成本下降約15%。</p>\n<p><strong>沙箱覆蓋功能成為關鍵抉擇。</strong>eve遵循Next.js架構，配置彈性高，其沙箱覆蓋功能讓Ora能在不修改原始環境的情況下，將agent執行軌跡完整記錄。如今journey.ora.ai平台同時用eve進行測試與執行，形成完整的閉環驗證。</p>\n\n<h2>編輯悄悄話</h2>\n<p>看來AI agent要真正融入日常，還得過網站兼容性這關。eve框架能勝出，或許就是因為它更懂「接地氣」吧！畢竟再聰明的AI，遇到不給機會的網站也只能乾瞪眼。</p>",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3hsbCzI9fuQjGavgNeXqbg/f66996f2310f01896778fd605da988ef/customer_story_og_card_og_card.jpg",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "020",
+    "title": "森海塞爾MOMENTUM 5真無線耳機登場，耳機充電盒電池都能換",
+    "summary": "森海塞爾推出MOMENTUM True Wireless 5，顛覆傳統設計，耳機與充電盒電池皆可自行更換，重新定義真無線耳機的耐用性與便利性。",
+    "content": "<h2>外觀與音質雙重升級</h2><p>這款耳機不僅外觀圓潤可愛，還搭載7mm TrueResponse動圈單體，**音質表現延續森海塞爾一貫的高水準**。藍牙6.0晶片支援aptX Lossless，遊戲玩家也能享受低延遲體驗。</p><h2>降噪與通話技術突破</h2><p>4麥克風陣列搭配AI演算法，**通話品質大幅提升**，即使在風大的戶外也能清晰對話。Dolby Atmos空間音訊支援頭部追蹤，看電影就像在私人影院。</p><h2>電池可換設計創先例</h2><p>最特別的是耳機和充電盒電池都能自行更換，**只需小螺絲起子就能完成**，12小時續航加快速充電功能，讓使用者不再擔心電池老化問題。</p><h2>編輯悄悄話</h2><p>以後耳機沒電不用慌，自己換電池就能續命，森海塞爾這招真是既環保又貼心，讓消費者真正感受到科技帶來的便利。</p>",
+    "image": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/08/16d0a833-4855-4ef7-8a9e-7c7456c32e09.webp",
+    "source": "癮科技",
+    "url": "https://www.cool3c.com/article/251184",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "021",
+    "title": "谁在偷看你的上网足迹？免费工具一键揪出追踪你的广告商",
+    "summary": "颠覆传统广告追踪黑箱，免费工具DecryptAds让数据贩子无所遁形。透过解析网站公开文件，揭露谁在收集你的浏览习惯、地理位置甚至设备指纹，隐私保护从此不再靠猜。",
+    "content": "<h2>广告追踪黑箱，一键透明化</h2><p><strong>过去查广告商像在玩寻宝游戏，现在DecryptAds直接给你藏宝图。</strong>这个新上线的免费服务专攻广告科技数据，把散落在各网站的ads.txt、app-ads.txt等声明文件全部挖出来交叉比对。就像把原本锁在保险箱里的账本直接摊在桌上，让你清楚看到哪些公司有权在你访问的网站或APP里塞广告、收集数据。</p><p>创办人Zach Edwards本身是资安研究员，他点出关键：<strong>单一文件根本看不出门道，必须跨档案交叉验证才能发现异常。</strong>比如某个广告商同时出现在三个不相关的网站声明里，或是报价路径跟授权名单对不上，这些供应链漏洞传统工具根本抓不到。</p><h2>从ESPN案例看数据贩子的网络</h2><p><strong>连ESPN这种大站都有143个广告伙伴，其中19家是数据中介。</strong>DecryptAds拿ESPN当案例演示，直接列出哪些公司在收集访客的地理位置、设备指纹甚至敏感个人信息。更惊人的是，系统会自动标出「地缘政治风险」——像ESPN合作的广告商里，就有四家背景涉及俄罗斯、中国或阿联酋。</p><p>其中Between Digital这家标榜纽约地址的公司，文件显示实际透过俄罗斯 Alfa Bank 处理业务。这种跨国数据流转的猫腻，<strong>过去普通用户根本无从查证，现在连点两下就能看到完整关系图谱。</strong>加州、德州等四个州刚通过的数据中介登记法，也让这类信息逐渐浮出水面。</p><h2>编辑悄悄话</h2><p>这工具就像给上网行为装了X光机，以后看到网站广告不再只能默默忍受。不过话说回来，知道谁在盯你之后，下一步该用广告拦截器还是乖乖付费订阅，可就看你跟自己的钱包和隐私哪个更舍不得了。</p>",
+    "image": "https://krebsonsecurity.com/wp-content/uploads/2026/08/decryptads-ESPN.png",
+    "source": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "022",
+    "title": "Arkane 只剩四個月資金！《Dishonored》如何逆轉命運",
+    "summary": "Arkane Studios 瀕臨破產邊緣，只剩四個月資金，團隊決定不再接外包案，全力投入自創遊戲，最終以《Dishonored》完成職業生涯最大翻盤，也為沉浸式模擬類型注入強心針。",
+    "content": "<h2>從九案並發到破釜沉舟</h2>\n<p><strong>當時的 Arkane 同時進行九個專案，根本是人力出租公司。</strong>前 Arkane Austin 主管 Harvey Smith 最近宣布成立新工作室 Black Pony Immersive，專注打造沉浸式模擬遊戲，而他過去就曾經歷過一場賭上一切的豪賭。Smith 回憶那段歲月時說，當時不斷有人來勸他們接外包案，「為了讓公司活下去，你最好接點案子。」他們試過，但感覺不對勁。</p>\n<p>儘管曾經有《Half-Life 2》續章這樣令人期待的計畫，但現實很殘酷。Smith 透露：<strong>「我們當時只剩四個月資金，同時在做《Boom Blox》、向 Ubisoft 提案、還有幾個人被派去寫殭屍射擊遊戲。」</strong>九個專案並行，團隊被拆得七零八落，公司眼看就要倒閉。</p>\n<h2>不追趨勢，只追熱情</h2>\n<p><strong>與其追隨市場熱點，不如賭上所有做自己想做的遊戲。</strong>最終，Arkane 決定停止接第三方的外包案，專注於他們真正想做的東西，「就算因此倒閉也沒關係。」結果就是《Dishonored》——Smith 職業生涯最大的翻盤之作。這個決定不僅拯救了公司，也確立了 Arkane 在沉浸式模擬 RPG 領域的領導地位。</p>\n<p>這段經歷讓 Smith 堅信，遊戲產業裡最穩的成功的做法，就是做你真正熱愛的東西。新成立的 Black Pony Immersive 已明確表示不會追趕潮流，而《Redfall》正是 Arkane 追趨勢的失敗教訓。Smith 的堅持，也讓人對沉浸式模擬類型的前景重新充滿期待。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>有時候，把後路斷掉反而是最好的出路。</strong>Arkane 的故事就像那種「反正都要輸了，不如賭一把」的經典翻盤劇。四個月資金、九個專案、一堆外包案，換作一般人早就投降了。但他們選擇了最難走的那條路，結果《Dishonored》不僅救了自己，還讓整個沉浸式模擬類型起死回生。這告訴我們一件事：與其什麼都接、什麼都做，不如專注做好一件事，運氣往往會站在賭對的人那邊。</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/KPDJMjTNy3o9PnrPsBDgDa-1920-80.jpg",
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/action/dishonored-was-a-last-ditch-effort-by-arkane-studios-after-years-of-fruitless-contract-work-according-to-the-games-co-creator-i-think-we-had-four-months-of-money-left/",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "023",
+    "title": "Gamescom前最後週末！編輯團隊私藏遊戲清單大公開",
+    "summary": "Gamescom展會前夕，Rock Paper Shotgun編輯團隊趁最後週末各自埋伏遊戲。有人抱病堅守戰線，有人偷偷藏起秘密新作，這個週末的遊戲地圖比想像中精彩。",
+    "content": "<h2>抱病堅守與展會前哨戰</h2>\n<p><strong>過去十天，主編Ollie正在跟一場嚴重的胸部感染搏鬥。</strong>伴侶被派去採購熱蜂蜜檸檬薑茶、紙巾，還有鸡汤——據說還需要「充滿希望的青春之血」，這形容實在夠接地氣。隨著咳嗽聲逐漸平息，他開始感覺好轉，但緊接著就是週末一堆被擱置的家務要補，外加一場一歲小孩的生日派對。</p>\n<p><strong>他最擔心的是，Gamescom展會就在下週，這時候如果再感染什麼就太掃興了。</strong>免疫系統現在必須進入戰鬥狀態，不然整個遊戲圈的焦點就要從他身上移開。這不只是生病而已，這是戰略性的健康危機。</p>\n\n<h2>編輯團隊的週末遊戲地圖</h2>\n<p><strong>James選擇在床上抱著一杯熱蜂蜜檸檬薑茶，同時兼顧Mortal Shell 2的攻略。</strong>咳嗽發作間隙，他還是堅持要完成遊戲進度，這種敬业精神令人敬佩——或者說，他只是沒有別的事情可做。</p>\n<p><strong>Julian在週五午休時被Edwin推薦的沙地遊戲吸引，結果忘記午休只有一小時，又玩了一個小時。</strong>這週末他準備繼續滿足這個癮，當然前提是不要忘記一歲小孩的生日派對。</p>\n<p><strong>Jeremy則是Mortal Shell 2的忠實粉絲，即使偶爾遇到bug和卡頓，他還是堅持這款遊戲「做得不錯」。</strong>他特別提到那些在Soulslike社群抱怨「 hype過度」的人——抱歉，我需要去拿我的Axetana（這是一把斧頭與太刀混合的武器，遊戲中確實存在這種東西）去清理一些敵人。</p>\n<p><strong>Edwin則在Sandustry中融化冰山來供應他的淘金作業，同時還想玩CleanFall這款關於機器人女僕組裝巨大飛艇飛往地底的遊戲。</strong>這兩款遊戲都夠顛覆常識，一個是沙地生存，一個是地底冒險，編輯們的品味果然多元。</p>\n<p><strong>Mark則保持神秘，要求大家「非常安靜，這是我們之間的秘密」。</strong>這種保密態度讓人好奇，難道是準備在Gamescom上發布什麼大新聞？還是只是單純不想被打擾？</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>這個週末，編輯團隊用各自的方式詮釋什麼是「工作與生活的平衡」。</strong>有人抱病堅守，有人沉迷遊戲忘記午休，有人守著秘密像個間諜。Gamescom展會即將展開，這週末的遊戲時光或許就是他們最後的悠閒。而你，讀者大人，這個週末準備埋伏哪款遊戲？</p>",
+    "image": "https://assetsio.gnwcdn.com/sick-bed.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-396",
+    "date": "2026-08-22"
+  },
+  {
+    "id": "024",
+    "title": "巴哈姆特ACG創作大賽揭曉 戀愛教練大翔平奪金賞",
+    "summary": "巴哈姆特ACG創作大賽邁入第15屆，漫畫組金賞由《戀愛教練大翔平》奪得，銀賞《石頭腦袋》、銅賞《電玩兒童》與《午後雷陣雨》同獲肯定，展現台灣原創漫畫創作實力持續攀升。",
+    "content": "<h2>漫畫組獎項揭曉 創作實力備受矚目</h2>\n<p><strong>巴哈姆特ACG創作大賽今年邁入第15屆，漫畫組最終由《戀愛教練大翔平》奪得金賞。</strong>今（22）日正式舉行頒獎典禮，評審對今年參賽作品給予高度肯定，展現台灣原創漫畫創作者的實力持續提升。</p>\n\n<h2>銀銅賞作品各有特色 多元題材受青睞</h2>\n<p><strong>銀賞由《石頭腦袋》獲得，銅賞則由《電玩兒童》與《午後雷陣雨》兩部作品共同拿下。</strong>今年參賽作品題材多元，從戀愛喜劇到生活日常，皆能看見創作者們獨特的視角與表現手法，為台灣漫畫圈注入新活力。</p>\n\n<h2>編輯悄悄話</h2>\n<p>看完這場頒獎典禮，不得不說台灣漫畫創作者的實力真的越來越強了。從戀愛喜劇到生活日常，每個作品都有獨特的魅力，讓人期待未來會有更多好作品問世。</p>",
+    "image": "https://p2.bahamut.com.tw/B/2KU/24/7ab7198750dc56f1e0adb720af1zyu45.JPG",
+    "source": "巴哈姆特 GNN",
+    "url": "https://gnn.gamer.com.tw/detail.php?sn=310276",
+    "date": "2026-08-22"
   }
 ]
