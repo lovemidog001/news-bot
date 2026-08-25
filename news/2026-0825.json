@@ -148,5 +148,175 @@
     "source": "4Gamers",
     "url": "https://www.4gamers.com.tw/news/detail/81588/tplink-new-release-robot-vacuum-and-mop-security-camera",
     "date": "2026-08-25"
+  },
+  {
+    "id": "016",
+    "title": "OpenAI 自研晶片 Jalapeño 亮相，AI 效能與成本雙贏秘訣揭密",
+    "summary": "OpenAI 揭開 AI 全棧技術底牌，自研晶片 Jalapeño 與多元合作夥伴策略，重塑高效能與低成本並存的 AI 服務新常態。",
+    "content": "<h2>晶片、模型、軟體一體成型，AI 進步不再單點突破</h2>\n<p><strong>OpenAI 的祕密武器是「全系統協同優化」，不是單一技術的領先。</strong>過去大家以為 AI 進步靠的是晶片算力或模型參數單點突破，但 OpenAI CFO Sarah Friar 點出關鍵：真正加速的是整個系統一起變強。從資料中心、自研晶片、推論軟體、模型到終端產品，每一層都在互相加持。這就像組裝一台賽車，引擎、底盤、空力套件必須完美匹配，單靠換大馬力引擎反而可能失控。</p>\n<p><strong>自研晶片 Jalapeño 已交出實測成績單。</strong>在 InferenceX 基準測試中，使用 GPT-OSS 120B 模型時，Jalapeño 在每千瓦特峰值吞吐量與 token 延遲上，都優於對比的商業系統。更關鍵的是，它在 DeepSeek R1 和 Kimi K2 等不同模型家族上也表現出色，證明這套設計不是只為單一模型量身打造，而是具備廣泛適配性。</p>\n\n<h2>合作夥伴組合拳，兼顧頂尖效能與成本紀律</h2>\n<p><strong>OpenAI 不把所有雞蛋放在同一個籃子。</strong>除了自研晶片，他們同時與 Microsoft、NVIDIA、AWS、AMD、Cerebras 等多家合作夥伴保持合作。每個夥伴在不同維度有專長：有的擅長雲端基礎設施，有的專精低延遲推論，有的則在數據中心開發與能源供應上有優勢。這種策略讓 OpenAI 能根據不同工作負載，靈活選擇最合適的組合。</p>\n<p><strong>數據中心也是戰略要地。</strong>位於喬治亞州的 Project Camellia 示範了如何以客戶工作負載為核心來設計設施，同時兼顧就業創造、地方經濟支持、水資源循環利用，並接受年度獨立公開稽核。這種做法讓基礎建設不再只是成本中心，而是能產生多重價值的戰略資產。</p>\n\n<h2>編輯悄悄話</h2>\n<p>看完這篇，突然覺得 AI 競爭已經從「誰的模型參數多」進入「誰的系統整合強」的階段。OpenAI 這招全棧打法，就像把餐廳從只賣招牌菜，升級成自己種菜、自己燒爐、自己設計菜單的全方位體驗。下次當你覺得 AI 回應又快又準又省錢時，背後可能正有一群工程師在調整晶片與軟體的默契呢！</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/4GNoZzKGA2BcJzgrWwNF7Y/6e1be14f38acf95416d1c165f7ed7730/index-full-stack-behind-abundant-intelligence--seo-v001.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "017",
+    "title": "Google DeepMind 15年遊戲AI研究結晶，SIMA 2能與玩家同場推理學習",
+    "summary": "Google DeepMind 攜手遊戲工作室，將15年遊戲AI研究推向新里程碑。SIMA 2 能在3D虛擬世界中與玩家共同遊玩、推理與學習，有望重塑遊戲AI互動體驗。",
+    "content": "<h2>從Atari到EVE Online，15年磨一劍</h2>\n<p><strong>Google DeepMind 這次不是來開玩笑的。</strong>他們把15年遊戲AI研究的成果，一口氣攤在檯面上。從早期在Atari遊戲中展現學習能力，到如今能操作像EVE Online這樣複雜的3D虛擬世界，這條路走得可不輕鬆。SIMA 2 的核心突破在於，它不再只是「打遊戲」的機器，而是能在遊戲中與玩家一起推理、一起學習的夥伴。這意味著AI不再只是被動回應指令，而是主動理解遊戲目標、規劃行動，甚至與人類協作。</p>\n<p><strong>這背後是DeepMind長期投入的累積。</strong>過去遊戲AI多半專注於單一任務，比如下棋或射擊，但SIMA 2 的目標是通用性——能在不同遊戲中快速適應、學習新規則。這對遊戲產業來說，代表未來NPC不再只是背台詞的程式，而是能與玩家產生真實互動的智能體。</p>\n\n<h2>與玩家同場，AI不再是對手而是夥伴</h2>\n<p><strong>SIMA 2 最吸引人的地方，是它「與你一起」的設定。</strong>傳統遊戲AI的設計邏輯是對抗或服從，但SIMA 2 被設計成能在3D虛擬世界中與玩家共同完成目標。它可以理解玩家的意圖、學習玩家的風格，甚至在不同遊戲中遷移所學的技能。這種能力讓AI從「工具」升級為「合作者」，對遊戲設計、教育模擬，甚至虛擬社交場景，都可能帶來顛覆性的改變。</p>\n<p><strong>不過，這項技術要真正落地，還有一段路要走。</strong>目前DeepMind是與遊戲工作室合作進行原型開發，代表實際應用還需要時間驗證。玩家是否願意與AI夥伴互動、遊戲公司是否願意投入資源整合，都是未知數。但可以確定的是，這15年的研究已經為遊戲AI打開了一扇新的大門。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>說真的，看到AI從Atari一路走到EVE Online，感覺像看著一個孩子長大成人。</strong>以前我們看AI打遊戲，覺得很酷但跟自己無關；現在它開始學著跟我們一起玩，那種感覺就像家裡多了一個會讀書、會思考的室友。未來遊戲會不會變成AI與人類共同創作的舞台？這問題值得每個玩家好好想想。</p>",
+    "image": "https://lh3.googleusercontent.com/ymmK0Dgovn-_MGlnQJffYxKdTe5LAnkAZr-GNnIjiFzsGOAAmOmUDuVACbNgIy-tqrJhGBdaQ_PaElc8EKRKRWtYg4eWx8HVcaVzdYy7hg7Q_8k=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "018",
+    "title": "IBM Granite 4.2 大模型揭密：訓練背後有什麼秘密武器？",
+    "summary": "IBM 推出 Granite 4.2 系列大型語言模型，從訓練架構到數據處理全面升級，挑戰現有 AI 模型性能極限，為企業級應用帶來全新解決方案。",
+    "content": "<h2>訓練架構大升級</h2>\n<p><strong>IBM 這次在 Granite 4.2 的訓練架構上做了重大革新</strong>，採用更高效的資料處理流程，讓模型學習速度大幅提升。新架構不僅縮短了訓練時間，也顯著降低了運算成本，對於企業來說意味著更親民的 AI 部署方案。</p>\n<p><strong>這次升級的重點在於分散式訓練技術的優化</strong>，IBM 團隊重新設計了資料分割與參數同步的機制，讓多張 GPU 能更緊密地協同工作，避免資源浪費。</p>\n\n<h2>數據品質決定模型表現</h2>\n<p><strong>數據是 AI 模型的糧食，IBM 這次特別強調數據清洗的重要性</strong>。Granite 4.2 採用了更嚴格的數據篩選機制，確保訓練資料的品質與多樣性，讓模型在各種情境下都能保持穩定的表現。</p>\n<p><strong>IBM 還引入了多語言數據的平衡策略</strong>，避免模型過度偏向單一語言或文化背景，讓 Granite 4.2 在全球市場更具競爭力。</p>\n\n<h2>編輯悄悄話</h2>\n<p>AI 模型訓練就像做菜，食材新不新鮮、處理得乾不乾淨，直接影響最後的味道。IBM 這次在 Granite 4.2 上花的心思，就是要把「食材」準備到最好，讓企業用戶吃到最道地的 AI 料理。</p>",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/65cc2c288ebd392213e58899/XHWV2L_wZsFe3ekksCgvQ.webp",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "019",
+    "title": "NVIDIA RTX Spark 秋季登場，EA、育碧、Embark 三大廠遊戲強勢支援",
+    "summary": "NVIDIA 以 RTX Spark 重塑 PC 遊戲體驗，秋季正式推出，整合 DLSS、Reflex 與個人 AI 代理，EA、育碧、Embark 等大作同步支援，反作弊技術也全面升級。",
+    "content": "<h2>三大遊戲廠齊聚，RTX Spark 遊戲陣容超豪華</h2>\n<p><strong>NVIDIA 這次在德國科隆 Gamescom 展會上，直接把 RTX Spark 的遊戲支援名單攤開給大家看。</strong>EA、育碧、Embark Studios 這三家重量級廠商，已經確認會把旗下大作移植到 RTX Spark 平台。EA 的《EA SPORTS F1 25》和《Apex 英雄》，育碧的《Anno 117：Pax Romana》，以及 Embark 的《ARC Raiders》和《THE FINALS》，全部都會在秋季發售時同步支援。這陣容說起來，幾乎是 PC 遊戲圈半邊天的級數。</p>\n<p>育碧的執行製作人 Stéphane Jankowski 公開表示，他們開發《Anno 117：Pax Romana》時就著眼於寬廣的場景與大量細節，而 RTX Spark 能從單一晶片就撐起這種畫質，確實令人印象深刻。這話聽起來不只是客套，而是實打實的技術肯定。</p>\n\n<h2>RTX Spark 不只是遊戲機，是個人 AI 代理的載體</h2>\n<p><strong>RTX Spark 的定位不只是遊戲裝置，它把個人 AI 代理、進階內容創作與高效能遊戲整合在同一個平台上。</strong>這套平台從底層就是為下一代 Windows PC 設計的，遊戲玩家能直接享受 DLSS 與 Reflex 這兩項 NVIDIA 招牌技術帶來的效能提升。簡單來說，它不是把舊架構換個殼，而是從零開始打造的全新架構。</p>\n<p>反作弊部分也不容小覷。NVIDIA 與 EA 合作，將 EA Javelin 反作弊技術原生整合進 RTX Spark，涵蓋《F1 25》等大作。對線上競技遊戲來說，反作弊已經是核心體驗的一環，這項整合意味著 RTX Spark 玩家在公平性上不會有落差。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>RTX Spark 這招其實挺聰明的，把遊戲、AI、反作弊一次打包，等於告訴玩家：以後買一台就夠了。</strong>不過真正考驗還在後面，秋季上市之後，硬體價格、遊戲優化程度、還有玩家實際體驗，才是決定它能不能真的翻轉市場的关键。畢竟 PC 遊戲圈不是沒看過新東西，能留下來才叫本事。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "020",
+    "title": "NVIDIA 推出本地 AI 模型，資料全留自己裝置不外送",
+    "summary": "NVIDIA Nemotron 3.5 Lightning 登陸 Ollama，30B參數模型專為本地 Agent 任務設計，數據完全留在個人裝置，顛覆雲端 AI 依賴，4倍吞吐量讓多步驟任務更快完成。",
+    "content": "<h2>自己的 AI 助手，資料再也不用外送</h2>\n<p><strong>NVIDIA Nemotron 3.5 Lightning 已經在 Ollama 上推出，而且完全跑在你自己的裝置上。</strong>這意味著你不用再擔心把敏感資料傳到雲端，所有處理都在本地完成。這個模型擁有 300 億參數，但每次只啟用 30 億，專為長期運行的 Agent 任務設計，像是讀取檔案、呼叫工具、排序結果，甚至重試失敗的步驟。</p>\n<h2>效能表現亮眼，本地跑也能打</h2>\n<p><strong>相比同級別的開源模型，Nemotron 3.5 Lightning 的吞吐量高出 4 倍，任務完成時間快了 30%。</strong>對於需要持續運行的 Agent 來說，吞吐量是最關鍵的指標——每分鐘能處理更多步驟，代表長任務能更快完成。Apple Silicon 用戶可以透過 Ollama 的 nemotron-3.5-lightning:30b-mlx 版本體驗最佳效能。如果你需要處理更複雜的步驟，也可以將個別任務轉發到雲端的大型模型，不需要改變其他設定。</p>\n<h2>編輯悄悄話</h2>\n<p>以前我們總覺得 AI 助手都要靠雲端，現在 NVIDIA 直接讓我們在家裡就能跑，資料安全問題一次解決。以後你的電腦不只是電腦，還是一個隨時待命的私人 AI 助手，想想就覺得很酷。</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/nemotron-3-5-lightning",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "021",
+    "title": "X 發律師函逼 Nitter 下架 隱私版介面恐消失",
+    "summary": "X 向開源專案 Nitter 發律師函，要求下架其伺服器與程式碼倉庫，涉嫌未經授權抓取資料。這將衝擊大量依賴隱私版介面的使用者，也凸顯平台對內容控制權的執著。",
+    "content": "<h2>X 正式出手 開源專案面臨下架危機</h2>\n<p><strong>X 向 Nitter 開源專案發出律師函，要求立即下架所有執行個體與程式碼倉庫。</strong>這起事件讓許多習慣使用隱私版 X 介面的使用者感到不安。Nitter 是一個開源專案，提供不依賴官方 App 的 X 瀏覽介面，讓使用者可以在不登入的情況下查看貼文，同時避開廣告追蹤與演算法干擾。現在 X 正式出手了，他們認為 Nitter 未經授權大量抓取 X 的資料，構成侵權行為。</p>\n<p><strong>這不只是技術爭議，更是平台控制權與使用者隱私之間的拉鋸戰。</strong>X 近年來不斷收緊對資料存取的限制，從 API 收費到法律手段，目的都是讓使用者回到官方平台。Nitter 的存在，等於是在 X 的生態系外提供了一個替代方案，這讓平台方難以接受。</p>\n<h2>開源專案的命運 取決於誰的資源多</h2>\n<p><strong>即使 X 成功下架 Nitter 的官方倉庫，開源專案的程式碼早已分散在全球各地。</strong>這意味著即使主倉庫被刪除，仍可能有熱心的開發者繼續維護與執行個體。不過，律師函帶來的法律壓力不容小覷，許多執行個體的營運者可能選擇主動關閉，以避免捲入訴訟。</p>\n<p><strong>這起事件也提醒我們，開源專案並非完全免於法律風險。</strong>雖然開源精神強調資訊自由流通，但當專案涉及商業平台的資料時，開發者與使用者都必須承擔潛在的法律後果。X 這次出手，或許無法徹底消滅 Nitter，但確實會讓這個專案的未來更加不確定。</p>\n<h2>編輯悄悄話</h2>\n<p>說真的，X 這招律師函發得挺狠的，但開源專案就像野草，拔了一株還有下一株。使用者想要隱私、不想被追蹤，這種需求不會因為一封律師函就消失。與其花錢打官司，不如想想怎麼讓官方平台做得更好用，不然大家還是會自己找路走。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "022",
+    "title": "Garmin Fenix 9 亮燈！螢幕亮度翻倍，戶外手錶再掀革命",
+    "summary": "Garmin Fenix 9 正式亮相，OLED 螢幕亮度飆升至 3,000 尼特，**顛覆**前代兩倍表現，內建 Epic 功能與升級地圖引擎，重新定義戶外智慧手錶的標竿。",
+    "content": "<h2>螢幕亮到爆，記憶體也升級</h2>\n<p><strong>Garmin Fenix 9 這次在硬體上動了大手術。</strong>基礎款直接換上 OLED 螢幕，最高亮度衝上 3,000 尼特，是前代的兩倍。戶外愛好者最頭痛的問題——陽光底下看不清楚——這次終於有解了。43mm 版本售價 999.99 美元起跳，記憶體比上一代多 50%，地圖引擎也全面升級，滑動地圖時流暢度大幅提升。另外還配備防刮藍寶石鏡面與 64GB 儲存空間，對喜歡在戶外記錄大量資料的使用者來說，絕對是實打實的升級。</p>\n<h2>新功能實用，續航力更驚人</h2>\n<p><strong>軟體層面這次推出 Garmin Epic 功能，把幾天到幾個月內的運動紀錄整合成一份完整報告。</strong>無論是健身、跑步還是健行，都能一次看到健康與表現數據的完整輪廓。另外也新增耐力追蹤指標，以及擴充的负重行軍功能，使用者可以在運動中調整背包重量設定。續航力方面，51mm 最大尺寸在智慧手錶模式下可達 29 天。Pro 版本則提供鈦金屬錶殼，起價 1,099.99 美元，並可選配 InReach 衛星或 LTE 連線功能，每月訂閱費 7.99 美元。51mm Pro 更首次搭載 1.5 吋 OLED 螢幕，而 47mm 與 51mm Pro 的太陽能版本，在每天戶外三小時、50,000 勒克斯光照條件下，續航力可達 57 天。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>買手錶就像挑伴侶，亮度夠高才看得清對方的真心。</strong>Fenix 9 這次把螢幕亮度翻倍，還加碼 Epic 功能幫你整理運動成績單，對戶外玩家來說簡直是量身打造。不過太陽能版那 57 天續航力有個小條件——你得每天曬足三小時太陽。台灣夏天倒是剛好符合，只是出門記得別忘了擦防曬，不然手錶續航有了，皮膚可就要報銷了。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/garmin-fenix-9.png?quality=90&strip=all&crop=0,16.342557965595,100,67.314884068811",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "023",
+    "title": "星艦未到，佛州太空港將「靜音」一年",
+    "summary": "SpaceX將大幅縮減佛州發射量，轉向加州發射Starlink，衝擊全球太空港格局。星艦若延至2027年，將重塑商業航天版圖。",
+    "content": "<h2>佛州太空港進入「淡季」</h2><p><strong>SpaceX宣布佛州發射頻率將從每月8-9次驟降至2次。</strong>過去十年霸佔全球最忙太空港寶座的佛州Space Coast，今年起要進入休養期。公司副總裁Kiko Dontchev確認，最後一次Falcon 9發射後，佛州發射場將進入「冬眠」，直到星艦（Starship）到位。這意味著未來一年，佛州天空將少見火箭尾焰，而加州范登堡基地將接手Starlink衛星發射任務。</p><h2>星艦跳票？2027年才是正牌主角</h2><p><strong>原定年底試飛的星艦，現實可能拖到2027年中。</strong>雖然SpaceX堅持年底從39A發射台試飛，但場地整备進度與德州工廠的運輸時程，都顯示這個目標過於樂觀。不過Falcon 9仍持續寫下紀錄——最新一枚助推器已累積37次飛行，刷新歷史紀錄。8月底的Falcon Heavy將搭載NASA羅馬太空望遠鏡升空，9月還有載人任務接棒，佛州發射場並未完全停擺。</p><h2>編輯悄悄話</h2><p>SpaceX這招「調虎離山」玩得挺溜，把佛州發射場讓給星艦，自己轉戰加州繼續鋪網。不過星艦若真延到2027年，客戶們怕是要開始算利息了。畢竟太空界的「預計年底」，往往比台灣房市交屋還難捉摸。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/f9_streak1-1152x648.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "024",
+    "title": "Instagram主管驚爆：員工竟限制我接觸青少年安全數據",
+    "summary": "Instagram負責人首度出庭作證，揭露內部員工限制高層接觸青少年安全數據，此舉或將推動社交媒體平台責任重塑，引發對青少年網路安全監管的重大爭議。",
+    "content": "<h2>高層出庭：數據限制引發信任危機</h2>\n<p><strong>內部數據限制高層接觸，引發外界對平台透明度的質疑</strong>。Instagram主管Adam Mosseri在社交媒體成癮訴訟中首度出庭，坦言對員工限制其接觸青少年安全數據一事感到驚訝。此舉不僅挑戰平台內部治理的合理性，更凸顯科技巨頭在青少年保護上的潛在盲點。</p>\n\n<h2>青少年安全：平台責任再受 scrutiny</h2>\n<p><strong>數據限制背後，或藏平台對負面資訊的刻意淡化</strong>。訴訟聚焦於社交媒體如何影響青少年心理健康，而Mosseri的證詞進一步揭示，高層管理可能因內部機制而無法全面掌握風險數據。這不僅衝擊Instagram的公信力，更促使業界重新檢視數據透明度與用戶安全的平衡。</p>\n\n<h2>編輯悄悄話</h2>\n<p>看來連主管都被蒙在鼓裡，這平台的安全數據管理簡直像密室逃脫。下次孩子滑Instagram，爸媽們可得睜大眼睛了——畢竟連大老闆都看不到的東西，咱們普通人哪知道算法背後藏了多少驚喜（或惊吓）啊！</p>",
+    "image": "",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2244270/adam-mosseri-says-its-news-to-me-that-instagram-employees-limited-his-exposure-to-teen-safety-data/",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "025",
+    "title": "免費LaTeX編輯器！瀏覽器內直接編譯PDF，無後端零付費",
+    "summary": "TeXbrain顛覆傳統LaTeX編輯體驗，純前端編譯PDF，無帳號、無後端，檔案留本地，Git同步免費開放。",
+    "content": "<h2>瀏覽器裡跑LaTeX？技術細節全解析</h2>\n<p><strong>把整個LaTeX環境塞進瀏覽器，還能直接讀寫本機資料夾，這聽起來像魔法但其實是WebAssembly的傑作。</strong>作者用SwiftLaTeX將pdfTeX編譯成WASM模組，搭配Service Worker攔截檔案請求，自動從快取、內建套件庫到jsDelivr鏡像伺服器逐層解析。整個編譯過程完全在客戶端完成，你的.tex檔案從來沒有離開過電腦。</p>\n<p><strong>Git功能內建且完全免費，這直接打臉Overleaf把版本控制鎖在付費牆後的商業模式。</strong>透過isomorphic-git實作純JavaScript版Git，配合LightningFS在IndexedDB上建立記憶體檔案系統，使用者能在瀏覽器裡直接clone、branch、commit、push。CORS代理伺服器解決了瀏覽器無法直接執行git協議的限制，讓GitHub同步變得像點按鈕一樣簡單。</p>\n\n<h2>學生、上班族救星？無安裝 hassle 的寫作體驗</h2>\n<p><strong>在公司筆電或學校實驗室電腦上，終於不用哀嚎著安裝TeX Live了。</strong>整個應用程式預先編譯成靜態HTML/CSS/JS，部署在GitHub Pages上。首次載入後離線也能使用，核心套件會在背景預先快取。對於經常換機器的研究人員來說，這種「打開瀏覽器就能寫論文」的體驗，簡直是救贖。</p>\n<p><strong>雖然目前僅支援pdfTeX，但對多數學術寫作需求已經足夠。</strong>作者坦承不支援XeTeX/LuaTeX和bibtex是現階段限制，但強調這是為特定使用情境設計的解決方案。對於已經有完整本地環境的使用者，這套工具定位是「備用方案」而非替代品。目前已有學生用它完成論文，社群回報的bug成為開發主力。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這就像發現家門口的便利商店突然變成24小時營業，而且老闆還說「不用會員卡、不用加運費、貨品直接放你廚房」。技術宅用愛發電做出的工具，往往最能解決真實痛點。下次在實驗室電腦前哀嚎著要裝TeX Live時，記得還有這條退路。</p>",
+    "image": "https://opengraph.githubassets.com/889652028e71ed68bb3bacd950c6c1eeb76391caa9f4101acd2f5dc9383c993c/swimmingbrain/texbrain",
+    "source": "Hacker News",
+    "url": "https://github.com/swimmingbrain/texbrain",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "026",
+    "title": "AI 模型上線前必考！GitHub 揭密機密掃描評估秘訣",
+    "summary": "GitHub 團隊分享在真實世界機密掃描中評估大型語言模型的實戰經驗，這些教訓將重塑企業導入 AI 的安全標準，避免模型上線後出現致命漏洞，讓開發者能更安心地將 AI 應用於敏感場景。",
+    "content": "<h2>為什麼評估 LLM 這麼難？</h2>\n<p><strong>模型再強，上線前不經過嚴格測試就是賭博。</strong>GitHub 的科學團隊在開發用於機密掃描的 AI 系統時，發現了一個關鍵問題：實驗室裡的完美表現，往往在真實環境中大打折扣。Mariko 作為 Microsoft 的首席應用科學家，帶領團隊將前沿 AI 研究轉化為實際產品，她深知這個過程充滿挑戰。<strong>評估大型語言模型不能只看準確率，更要看它在真實場景中的穩定性與可靠性。</strong>這意味著需要設計更全面的測試框架，涵蓋各種邊緣案例與潛在風險。</p>\n\n<h2>實戰教訓：從機密掃描學到的事</h2>\n<p><strong>真實世界的機密掃描需要模型具備極高的精確度。</strong>GitHub 團隊在評估過程中發現，傳統的基準測試無法完全反映模型在生產環境中的表現。他們必須考慮模型是否會產生誤報、漏報，以及在不同情境下的穩定性。<strong>這套評估方法論已經被應用於多個 AI 工作流，幫助團隊在上線前識別潛在問題。</strong>透過反覆測試與迭代，團隊建立了更完善的評估標準，確保 AI 系統在處理敏感資訊時既能保持高效，又能維持足夠的安全性。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>AI 不是萬能藥，用錯地方反而會幫倒忙。</strong>GitHub 這套評估方法其實適用於任何想要將 AI 導入生產環境的團隊。別以為模型分數好看就万事 OK，真實世界的複雜度遠超想像。與其上線後忙著救火，不如在開發階段就把評估做足，這樣才能讓 AI 真正成為助力而不是絆腳石。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/01/4ba0cd42388a255e04c78e5143548f22e577d68e0f15f68e6a3c76c18b927981-1920x1080-1.png",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "027",
+    "title": "JDK 27 首發候選版出爐，macOS x64 將被淘汰、JSON API 終於內建",
+    "summary": "JDK 27 正式進入 Release Candidate 階段，預計 9 月 GA；OpenJDK 同時推進 JDK 28 多項 JEP，macOS x64 架構將被棄用，內建 JSON API 終於來臨，Java 生態系正經歷一波重要重塑。",
+    "content": "<h2>JDK 27 邁向 GA，JDK 28 三項 JEP 升格</h2>\n<p><strong>JDK 27 首個 Release Candidate 版本已正式亮相，Oracle Java 平台首席架構師 Mark Reinhold 確認 Build 35 已無任何 P1 級未解決缺陷，預計 2026 年 9 月 15 日發布正式版本。</strong>這意味著 Java 開發者即將迎來一版穩定且功能完整的 JDK，屆時將包含九項核心功能。同時，JDK 28 的早期存取版本也已推出 Build 12，持續吸收 Build 11 的各項修正。</p>\n<p><strong>JDK 28 方面，三項 JEP 相繼升格，顯示 OpenJDK 社群的開發節奏正加速推進。</strong>JEP 541 將 macOS/x64 端口從「提案」階段提升至「目標」階段，理由是 Apple 已不再支援該架構，與先前棄用 Windows 32 位元 x86 端口的策略如出一轍，目的在於節省維護成本。JEP 540 同樣升格為目標，這項提案為 JSON 文件的解析與生成提供一套簡潔的標準 API，無需依賴外部函式庫，並正式取代已關閉的 JEP 198。JEP 542 則從「候選」升格為「目標」，經過 JDK 25 至 27 共三個預覽版本的打磨，終於準備正式定案，為加密金鑰、憑證與憑證撤銷清單提供 PEM 編碼與解碼的標準 API。</p>\n\n<h2>生態系多線進展，安全補丁同步跟上</h2>\n<p><strong>Apache Tika 4.0 正式發布，Helidon 推出維護版本，Micrometer Metrics 1.18 與 Tracing 1.8 也相繼推出首個里程碑版本。</strong>Tika 作為檔案內容萃取的經典工具，4.0 版本的 GA 發布對依賴其進行文件解析的開發者而言是一大福音。Helidon 的維護更新則持續鞏固其在微服務架構中的地位。Micrometer 的兩項里程碑版本，為可觀測性與追蹤領域帶來更穩定的基礎建設。</p>\n<p><strong>Jakarta EE 12 的核心規格進度順利，目標在 JakartaOne Livestream 2026 前發布，Web Profile 與 Platform 規格則預計明年上半年推出。</strong>同時，Jakarta Agentic AI 1.0 規格在 2025 年 11 月獲准後，近期已交付 M1 版本並啟用新專案網站，顯示 Java 生態系正積極往 AI 應用領域拓展。BellSoft 則配合 Oracle 2026 年 8 月關鍵安全補丁，針對 Liberica JDK 多個版本發布 CPU 補丁，涵蓋從 6u513 到 26.0.2.1 等七個版本，總計 29 項修正，確保企業級用戶的運行環境不受漏洞威脅。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>Java 這棵老樹最近開的新花還真不少，從 macOS x64 的告別到內建 JSON API 的到來，每一步都踩在開發者最痛的點上。</strong>JDK 27 即將 GA，想升級的朋友不妨先把候選版裝起來試試水溫；而 JEP 540 終於把 JSON 拉進標準庫，以後寫程式不用再為了讀個 JSON 裝一堆第三方套件，這波更新確實值得關注。</p>",
+    "image": "https://res.infoq.com/news/2026/08/java-news-roundup-aug17-2026/en/headerimage/java-news-roundup-image-1787671034283.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/news/2026/08/java-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "028",
+    "title": "太空建資料中心！SpaceX NVIDIA聯手，小米晶片進軍3奈米",
+    "summary": "SpaceX攜手NVIDIA打造太空AI運算中心，顛覆傳統資料中心格局；小米自研Xring O3晶片交台積電3奈米代工，手機性能與自駕技術雙雙躍升。",
+    "content": "<h2>太空運算新紀元：SpaceX與NVIDIA聯手打造軌道資料中心</h2>\n<p><strong>馬斯克要把AI伺服器送上天，太空資料中心不再是科幻劇情。</strong>NVIDIA宣布與SpaceX合作，將Vera中央處理器與Vera Rubin平台延伸至太空，首批Starmind AI衛星預計2027年第四季發射。馬斯克強調，太空運算系統比地面機架更輕、成本更低，但NVIDIA也點出軌道環境的供電、散熱與通訊頻寬挑戰。SpaceX已向FCC申請部署百萬顆衛星，不過仍需核准。</p>\n\n<h2>小米自研晶片進軍3奈米，手機與自駕雙線佈局</h2>\n<p><strong>小米Xring O3傳由台積電3奈米量產，旗艦摺疊機將率先搭載。</strong>路透社引述知情人士指出，這款晶片出貨目標約20萬至30萬顆，小米確認已進入量產階段。同時，Xring O100神經處理器與Xring D100自動駕駛晶片也委託台積電生產，分別採用6奈米與3奈米製程，規劃明年部署。小米先前宣布10年內投入至少500億人民幣發展自研晶片。</p>\n\n<h2>AI公司上市潮湧現，民眾卻對資料中心說不</h2>\n<p><strong>Anthropic傳擬募資千億美元上市，美國61%民眾反對住家區建資料中心。</strong>AI模型與晶片研發燒錢力道驚人，美國Anthropic、中國燧原科技等公司相繼籌備IPO。但賓州大學調查顯示，美國民眾反對資料中心進駐社區的比例從春季49%升至61%，加拿大民調也有81%民眾擔心推高電費。AI狂飆背後，基礎建設與在地居民的衝突正浮上檯面。</p>\n\n<h2>編輯悄悄話</h2>\n<p>太空建資料中心聽起來很炫，但衛星在軌道上散熱可比在地面難多了，NVIDIA得想辦法讓晶片別在太空「中暑」。小米這波自研晶片布局，從手機到自駕一條龍，台積電3奈米產能又更緊張。AI公司拼命募資擴充，民眾卻擔心電費漲、環境受影響，這就像你家隔壁突然蓋了個巨型電器行，雖然科技進步了，但鄰居可能只想安靜看電視。</p>",
+    "image": "https://techorange.com/app/uploads/2026/08/d8602260a14ebc56.png",
+    "source": "TechOrange",
+    "url": "https://techorange.com/2026/08/26/spacex-nvidia-space-ai-data-center-xiaomi-tsmc-3nm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "029",
+    "title": "NVIDIA RTX Spark秋季登場 攜手三大遊戲商解決防作弊難題",
+    "summary": "NVIDIA RTX Spark即將於秋季上市，攜手EA、Ubisoft等遊戲開發商，顛覆Arm架構執行PC遊戲的防作弊相容性難題，推動跨平台遊戲體驗。",
+    "content": "<p>Gamescon展場裡，NVIDIA這次沒直接公布RTX Spark的上市日期，但秋季就要跟硬體夥伴一起把終端產品端出來了。他們這次重點擺在遊戲相容性上，尤其是Arm CPU架構執行特定遊戲時，防作弊和防盜版檢測常常卡關的問題。</p>\n\n<h2>Arm架構遊戲相容性挑戰</h2>\n<p><strong>微軟Windows 11的Prism x86模擬工具雖然進步不少，但許多遊戲的防作弊機制為了防堵作弊，根本不接受模擬執行。</strong>這就像你明明有鑰匙，但鎖孔設計就是不接受複製品，只能找原廠配合。微軟跟高通早就為Snapdragon X跟遊戲開發商合作解決部分問題，而NVIDIA把遊戲能力當作重點，自然更重視這個問題。</p>\n\n<h2>攜手三大遊戲商攻堅</h2>\n<p><strong>NVIDIA這次直接宣布跟EA、Ubisoft、Embark Studios合作，確保這三家開發商的遊戲內容能在RTX Spark上順利執行。</strong>EA的Javelin反作弊檢測機制、Ubisoft的檢測機制，還有Embark的《Arc Raiders》和《The Finals》都確定支援。這等於把遊戲性能優化跟防作弊相容性一起搞定，讓玩家不用擔心Arm裝置玩不到熱門遊戲。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>RTX Spark這波操作，等於在告訴玩家：Arm架構不是遊戲的邊緣選擇，而是主流體驗的一部分。</strong>防作弊機制跟新架構的磨合，從來不是技術單方面能解決的事，得靠開發商、晶片廠、作業系統三方一起配合。NVIDIA這次直接拉攏三大遊戲商，等於把相容性問題提前排雷，讓秋季上市時玩家能直接玩到完整體驗。這不只是技術展示，更是生態系的佈局。</p>",
+    "image": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/08/5927d8ef-bcd9-468c-8f1d-42d8cf5379f6.webp",
+    "source": "癮科技",
+    "url": "https://www.cool3c.com/article/251219",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "030",
+    "title": "巫師3免費重製版來了！含兩部DLC，CD Projekt Red這次大方到讓人懷疑",
+    "summary": "CD Projekt Red宣布《巫師3》將推出免費重製版，不僅畫面全面升級，更將兩部經典擴充套件一併送給玩家，徹底重塑經典RPG的遊戲體驗。",
+    "content": "<h2>畫面升級不是口號，是實打實的視覺翻新</h2>\n<p><strong>這次重製不是換皮，而是從根上重新打磨。</strong>九月二十九日上線的重製版，最顯而易見的改變就是光影效果，直接對齊當前世代遊戲的標準。原作畫面本來就相當出色，但這次把光照系統全面翻新，讓史凱傑爾的夜色和威倫的霧氣看起來更有層次感。除了畫面，戰鬥系統也做了調整，新增了一些處決動作，移動與騎乘手感也經過重新調校，傑洛特的法印特效看起來更炫，怪物的行為模式也標榜「增強」，雖然具體內容還得等實際體驗才能確認。</p>\n\n<h2>技能樹重做加幻化系統，RPG玩家的夢寐以求</h2>\n<p><strong>技能樹全面重做，加上裝備幻化功能，這才是真正懂玩家要什麼。</strong>這次更新把技能樹整個重新設計，讓玩家有更多配裝選擇。更實用的是新增了幻化系統，你可以把撿到但外觀醜陋的裝備屬性，套用到自己喜歡的armor外觀上，再也不用為了屬性犧牲美感。照片模式也進一步擴充，加上光線追蹤強化、無障礙功能、介面優化、新的任務追蹤系統，以及更順暢的選單操作，這些細節加起來，讓整體體驗更貼近現代玩家的習慣。</p>\n\n<h2>兩部經典DLC免費送，CD Projekt Red這次真的不藏私</h2>\n<p><strong>石之心與血與酒這兩部神級擴充套件，這次直接免費打包送給你。</strong>這才是這次更新最讓人心動的地方。許多玩家當年只玩到本體就停下來，錯過這兩部被譽為RPG史上最佳DLC的作品。這次CD Projekt Red直接把兩部DLC全部納入免費更新範圍，等於讓老玩家能完整體驗整個狩魔獵人故事，也讓新玩家能以零成本進入這個世界。這是繼二〇二二年之後，遊戲迎來的第二次重大更新，而距離《巫師四》預計二〇二八年發售還有很長一段時間，CD Projekt Red用這份大禮，讓玩家在這段等待期裡有足夠的內容可以回味。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>免費重製加兩部DLC，這種做法在遊戲圈真的不多見。</strong>通常廠商只會把經典遊戲重新包裝賣錢，但CD Projekt Red選擇把整份家當送給玩家，說明了他們對《巫師3》這套遊戲的自信，也顯示出他們真的在乎玩家體驗。對於還沒玩過這兩部DLC的玩家來說，這絕對是入坑的最佳時機，九月二十九日記得把時間留出來。</p>",
+    "image": "https://assetsio.gnwcdn.com/the-witcher-3-remastered.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/cd-projekt-red-sweeten-the-witcher-3-songs-of-the-past-honeypot-with-a-free-base-game-remaster-and-oh-yeah-both-original-expansions-too",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "031",
+    "title": "Steam神作《The Longing》：400天真實倒數，玩家被迫學會等待",
+    "summary": "這款顛覆遊戲常規的冒險作品，以400個真實天數作為進度核心，挑戰玩家對「玩遊戲」的認知。當等待成為玩法本身，你願意為了一個虛擬角色付出整整一年時間嗎？",
+    "content": "<h2>遊戲機制：把等待變成一種藝術</h2>\n<p><strong>這款遊戲最瘋狂的地方在於，進度完全由真實時間驅動，而不是你的操作技術。</strong>主角Shade是一個住在洞穴裡的小生物，它的唯一使命就是等待國王從400天的沉睡中甦醒。你不需要打怪、不需要解謎，只需要在洞穴裡裝飾、用煤炭畫畫，甚至可以在遊戲裡讀完《白鯨記》《秘密花園》或《查拉圖斯特拉如是說》。蘑菇需要整整一個月成熟，苔蘚要兩週才能長到足夠柔軟讓Shade摔上去不會受傷，鐘乳石會在遊戲自己的時程表上掉落搭成橋樑——這些都不是靠玩家努力就能加速的。</p>\n<p><strong>遊戲的「放置」元素做得極其徹底：關掉遊戲，Shade依然會繼續完成你交代的任務。</strong>你可以把遊戲開在背景，讓它陪你處理現實生活中的瑣事，偶爾聽聽它喃喃自語關於水滴聲的感想。這種設計讓玩家產生一種奇妙的連結感，甚至有人因為離開太久，選擇從頭開始400天的倒數，因為覺得自己「拋棄」了Shade。</p>\n<h2>玩家評價：愛它的人極度沉迷，嫌它的人完全無法理解</h2>\n<p><strong>Steam上的評價目前維持在「非常正面」，但兩極分化相當明顯。</strong>支持者認為這是一款前所未有的藝術實驗，把「等待」這個日常中最令人煎熬的經驗，轉化為遊戲的核心體驗。有評論者將它與約翰·凱吉的《4分33秒》相提並論——那首由鋼琴家靜坐沉默構成的作品，同樣在探討藝術的本質與我們對注意力的認知。但也有批評者直言這是「悲傷版動物森友會」，質疑這款遊戲存在的意義。</p>\n<p><strong>遊戲沒有地圖、沒有傳統物品欄、不會餓死或渴死，卻有多種結局等你探索。</strong>你能在400天內準時喚醒國王嗎？還是會觸發那些沒有明確解釋的模糊結局？這些問題固然有趣，但真正讓人著迷的是：為什麼一款關於「等待」的遊戲，會讓玩家如此投入？或許正是因為它把等待從背景推到了舞台中央，讓我們重新審視這段在現實生活中總是被視為浪費的時間。</p>\n<h2>編輯悄悄話</h2>\n<p>說實話，如果這遊戲放在十年前，我大概直接關掉。但現在想想，我們每天刷手機、等載入、追更新，哪一件不是在「等待」？《The Longing》只是把這件事攤開來讓你面對而已。與其說它在考驗玩家的耐心，不如說它在問你一個更根本的問題：當遊戲不再用刺激不斷轟炸你的大腦，你還願意留下嗎？這或許才是這款遊戲最值得一玩的原因。</p>",
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-longing-title-screen.jpg?w=1600&h=900&fit=crop",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/the-longing-steam/",
+    "date": "2026-08-25"
+  },
+  {
+    "id": "032",
+    "title": "經典恐龍獵人回歸！圖洛克起源2027年春季震撼登場",
+    "summary": "Saber Interactive以《戰鎚40K》經驗重塑經典IP，圖洛克起源即將顛覆第三人稱動作射擊格局，恐龍獵人故事正式揭開序幕。",
+    "content": "<h2>經典IP煥然一新，恐龍獵人故事正式啟動</h2>\n<p><strong>圖洛克這個名字對老玩家來說絕對不陌生，如今終於迎來全新篇章。</strong>由開發《戰鎚40K：星際戰士2》的Saber Interactive操刀，這款第三人稱動作射擊冒險遊戲《圖洛克：起源》在GC 26展會上公開了最新故事宣傳影片，讓玩家對這款作品有了更具體的想像。遊戲預計於2027年春季正式上市，距離現在還有不少時間可以慢慢期待。</p>\n<p><strong>從公開的宣傳影片來看，本作主打第三人稱視角的動作射擊體驗，結合了冒險元素與史前恐龍戰鬥。</strong>圖洛克系列自1990年代問世以來，一直是動作遊戲領域中相當具代表性的作品，而這次以《起源》為名重新出發，顯然是要從系列根源重新講述這個經典故事。</p>\n<h2>恐龍獵人重返叢林，動作射擊迎來新選擇</h2>\n<p><strong>Saber Interactive過往在《戰鎚40K》系列展現的動作設計功力，這次將全面應用於圖洛克的世界觀中。</strong>第三人稱視角讓玩家能更清楚感受戰鬥的臨場感，而史前叢林環境也為射擊玩法提供了豐富的戰術變化。遊戲預計在2027年春季推出，屆時將為動作射擊類型市場帶來一股全新的風潮。</p>\n<p><strong>對於喜歡恐龍題材與動作射擊的玩家來說，這款作品無疑是值得密切關注的焦點。</strong>從宣傳影片展現的畫面與玩法來看，圖洛克：起源不僅保留了系列原有的刺激戰鬥節奏，更在視覺表現與操作手感上進行了全面升級，有望成為明年春季最值得期待的動作遊戲之一。</p>\n<h2>編輯悄悄話</h2>\n<p>說真的，看到圖洛克這個經典IP重新活過來，老玩家心裡應該都有點感動吧！畢竟當年玩著這款遊戲的時光，現在想起來都是滿滿的回憶。Saber Interactive這次接棒製作，加上他們在戰鎚40K累積的經驗，讓人對2027年春季的成品充滿期待。恐龍獵人又要出發了，這次會帶來什麼樣的驚喜，就讓我們拭目以待吧！</p>",
+    "image": "https://p2.bahamut.com.tw/B/2KU/11/cc7de925c7bb57c8f4c8669455200275.JPG",
+    "source": "巴哈姆特 GNN",
+    "url": "https://gnn.gamer.com.tw/detail.php?sn=310419",
+    "date": "2026-08-25"
   }
 ]
