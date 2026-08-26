@@ -1,0 +1,192 @@
+[
+  {
+    "id": "001",
+    "title": "人人都是開發者！loveholidays 用 Codex 打破工程壁壘",
+    "summary": "loveholidays 導入 OpenAI Codex，顛覆軟體開發模式，讓非工程師也能直接貢獻程式碼，AI 輔助變更比例一年內從 7% 飆升至 79%，重塑企業創新效率。",
+    "content": "<h2>『人人都是建構者』：當產品經理也能寫程式</h2>\n<p><strong>AI 輔助程式碼變更比例一年內從 7% 飆升至 79%</strong>，這不是科幻電影情節，而是線上旅遊平台 loveholidays 正在實踐的現實。這家服務歐洲八個市場的旅遊代理商，每天處理 60 兆種旅遊組合，背後靠的是多年打造的技術平台。現在，OpenAI Codex 正在改變誰能參與建構——產品經理、設計師、商業團隊都能直接貢獻程式碼，不再需要排隊等工程師接案。</p>\n<p>工程主管 Dmitri Lerko 說得直接：「改變應用程式、基礎設施、部署程式碼，不再只是工程師的專職。」這意味著一個點子從構想到上線，不用再經過冗長的工程排期，而是能直接由提出者推動。這種轉變不僅加速創新，更讓跨領域人才有機會將想法轉化為實際產品。</p>\n\n<h2>從 Search Playground 到數據平台：AI 如何下放技術權力</h2>\n<p><strong>工程師將最佳實踐編碼進工作流，讓 Codex 引導非技術員工完成複雜變更</strong>。loveholidays 打造的 Search Playground 就是典型例子——任何人能用公司既有的設計系統和前端技術，快速原型化客戶體驗。目前已有超過 10 個新搜尋體驗透過 Playground 誕生，其中至少 3 個已上線運作，多數由非工程師開發。</p>\n<p>後台數據平台也經歷同樣改造。過去修改數據需要熟悉專業工具、版本控制等複雜流程，現在工程師把最佳實踐和檢查機制編進工作流，Codex 就能引導使用者逐步完成變更。支援請求中的數據平台變更數量顯著增加，變更成功率從 58% 提升，顯示技術門檻正在被 AI 實質降低。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前想試試新點子，得先說服工程師「這個值得做」，現在自己就能動手做原型、驗證價值。這不是要取代工程師，而是讓技術團隊能專注在更難的問題上。當每個人都能參與建構，創新就不再是少數人的遊戲，而是整間公司的日常。下次聽到「這個功能工程師排到下個月」，或許可以問問：我們有沒有讓對的人直接用對的工具？</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6ZqGa10JytlgICOk7fAw59/793cf94c3be496cc73aa0451a05aad78/loveholidays-seo-image-v4.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/loveholidays",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "002",
+    "title": "蓋茲驚曝AI危機：科技業刻意隱瞞，生物恐怖威脅迫在眉睫",
+    "summary": "比爾·蓋茲公開警告，AI將顛覆人類就業市場並降低生物武器門檻，他直指科技業為募資金刻意淡化風險，呼籲建立核武級監管機制並課徵AI使用稅。",
+    "content": "<h2>蓋茲眼中的AI三大地獄級威脅</h2>\n<p><strong>就業市場即將迎來史上最大洗牌，連藍領階級都無法倖免。</strong>微軟創辦人比爾·蓋茲在近六千字的長文與《紐約時報》專訪中，把AI時代形容為「人類歷史上最動盪的時期之一」。他點出科技業私下其實很擔心，公開卻互相打氣說「別亂講，會影響下一兆募資」。</p>\n<p><strong>AI與過去科技革命完全不同，它不需要人類適應，而是它來適應我們。</strong>蓋茲舉例，個人電腦花了二十年重塑工作，AI卻跑在人們已經擁有的裝置上，用自然語言溝通。更可怕的是，這是首次技術不僅能取代人類認知，還能超越它，而且是在十年內跨產業完成，不是幾代人。</p>\n<p><strong>生物恐怖威脅比想像中更近，幾個人就能用AI開發新病原體。</strong>蓋茲警告，AI讓網路攻擊、詐騙、假訊息變容易，但最嚴重的是降低生物武器門檻。有用與危險的能力難以區分，同一個能找安全漏洞的模型，也能幫人利用它。AI系統甚至可能越來越自主地對抗人類利益。</p>\n<h2>蓋茲的解方：課稅、監管、保留人類專區</h2>\n<p><strong>自願監管？蓋茲直接拒絕，「史上最具危險性的工具，拜託。」</strong>他主張透過民主程序建立新機構，類似核武管控、航空安全、保護臭氧層的監管體制。具體提案包括對AI使用與機器人課徵象徵性稅賦，現在雇用人要付薪資稅，買機器人卻能立刻抵稅，稅制幾乎逼企業用機器取代人。</p>\n<p><strong>某些工作應該保留給人類，蓋茲提出「人類專屬」概念。</strong>他特別點出照護工作應由人類擔任，同時擔憂AI伴侶的成癮風險。史丹佛與卡內基美隆大學研究顯示，人們對聊天機器人投入越深、越情緒化，感受越差。他尤其擔心孩子與批判性思考的流失，這將是深偽時代的生存技能。</p>\n<p><strong>蓋茲並非只看壞處，AI在科學、醫療、農業、教育有巨大潛力。</strong>但這些好處不會自動到來，必須透過政策爭取。史丹佛研究已顯示，AI普及後，年輕勞工在高度暴露職務的就業率明顯下降，年長同事暫時倖免。</p>\n<h2>編輯悄悄話</h2>\n<p>蓋茲這番話聽起來像極了那個當年預言個人電腦革命的預言家，如今又站出來警告AI災難。科技業嘴上說「別擔心」，心裡可能早就嚇壞了。畢竟誰願意自砸金飯碗？但蓋茲點出一個殘酷現實：當技術跑得比法規快，當獲利比安全重要，我們只能靠制度來踩煞車。下次聽到科技新貴說「AI很安全」，記得想想蓋茲的警告。</p>",
+    "image": "https://the-decoder.com/wp-content/uploads/2023/10/bill_gates_gates_foundation.png",
+    "source": "The Decoder",
+    "url": "https://the-decoder.com/bill-gates-warns-ai-is-more-dangerous-than-the-tech-industry-will-admit/",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "003",
+    "title": "IBM Granite 4.2 大模型底牌曝光：訓練秘辛一次看懂",
+    "summary": "IBM 推出 Granite 4.2 系列大語言模型，從訓練資料篩選到架構設計，每一步都經過精密計算，有望重塑企業級 AI 應用的發展格局。",
+    "content": "<h2>Granite 4.2 從哪來？訓練資料的「淨化」工程</h2>\n<p><strong>大模型的實力，七成取決於喂了什麼資料。</strong>IBM 在 Granite 4.2 的開發過程中，特別強調訓練資料的品質管控。他們並未直接使用網際網路上未經篩選的原始資料，而是建立了一套多層過濾機制，將偏見、錯誤資訊與低品質內容盡可能排除在外。這種做法讓 Granite 4.2 在企業場景中表現得更穩定，也降低了模型產生不當輸出的風險。</p>\n<p><strong>資料清洗不是簡單刪檔，而是一門科學。</strong>IBM 團隊針對不同領域的資料制定了差異化的處理流程，包含語法校正、來源驗證與知識完整性檢查。這套流程讓 Granite 4.2 在程式碼生成、技術文件理解等專業任務上，表現明顯優於前代版本。</p>\n\n<h2>架構設計：為什麼 Granite 能同時兼顧效率與精準？</h2>\n<p><strong>模型架構直接決定了推理速度與成本。</strong>Granite 4.2 採用混合注意力機制與稀疏訓練策略，讓模型在處理長文本時能更有效率地分配運算資源。IBM 特別針對企業常見的 RAG（檢索增強生成）應用進行了優化，讓模型在結合外部知識庫時，能更準確地提取相關資訊並生成回應。</p>\n<p><strong>開放權重意味著企業可以自行微調。</strong>Granite 4.2 全系列模型均提供開放權重，涵蓋不同規模的參數量，讓開發者能根據自身需求選擇最適合的版本。這種做法打破了大型模型只能仰賴雲端 API 的現狀，讓資料敏感度高、需要在地部署的企業也能安心採用。</p>\n\n<h2>編輯悄悄話</h2>\n<p>說真的，現在大模型競爭打得火熱，但 IBM 選擇走一條比較務實的路——不追參數數字，而是把訓練資料和架構設計做到極致。對企業來說，這或許比什麼都重要，畢竟模型再強，用起來不順手也是白搭。</p>",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/65cc2c288ebd392213e58899/XHWV2L_wZsFe3ekksCgvQ.webp",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "004",
+    "title": "NVIDIA RTX Spark 秋季登場，EA、Ubisoft 大作齊聚 Gamescom",
+    "summary": "NVIDIA 在 Gamescom 展示 RTX Spark 技術，支援 EA、Ubisoft 等廠商的 blockbuster 遊戲，並強化反作弊功能，重塑個人電腦遊戲體驗。",
+    "content": "<h2>RTX Spark 秋季來襲，遊戲大作全面支援</h2>\n<p><strong>NVIDIA 這次在 Gamescom 展場帶來 RTX Spark 技術，讓玩家期待已久的秋季新品終於要登場。</strong>這次與 EA、Ubisoft、Embark Studios 等知名遊戲廠商合作，確保《EA SPORTS F1 25》、《Apex Legends》、《Anno 117: Pax Romana》、《ARC Raiders》和《THE FINALS》等大作都能在 RTX Spark 裝置上順暢運行。</p>\n<p><strong>Ubisoft 的執行製作人 Stéphane Jankowski 表示，看到 RTX Spark 能在單一晶片上呈現遊戲中數千個細節，確實令人印象深刻。</strong>這款技術將個人 AI 代理、進階內容創作與高效能遊戲整合在同一平台上，專為新一代 Windows PC 設計。</p>\n<h2>反作弊技術升級，公平遊戲環境更完善</h2>\n<p><strong>NVIDIA 與 EA 合作，為 RTX Spark 帶來原生的 EA Javelin 反作弊支援，涵蓋《EA SPORTS F1 25》等熱門多人遊戲。</strong>現代線上遊戲依賴複雜的反作弊技術來確保跨平台公平性，這項合作讓玩家能在更安全的環境中享受遊戲樂趣。</p>\n<p><strong>RTX Spark 不僅支援 DLSS 和 Reflex 技術，更整合 Windows 裝置與 NVIDIA RTX 技術，為玩家提供完整的遊戲體驗。</strong>這項技術在五月 COMPUTEX 期間就已獲得 KRAFTON、NetEase、Riot Games 和 XBOX 等廠商的支援，如今在 Gamescom 上進一步擴展合作陣容。</p>\n<h2>編輯悄悄話</h2>\n<p>RTX Spark 這次帶來的不只是硬體升級，更是整個遊戲生態系的整合。從反作弊到畫質提升，NVIDIA 顯然想讓玩家在新世代 PC 上體驗到更完整的遊戲樂趣。秋季上市後，玩家們可以期待更流暢、更公平的遊戲環境，這波技術革新值得關注。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/Gamescom-RTX-Spark-Key-Visual.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "005",
+    "title": "Claude Desktop 新增 Ollama 支援，本機模型自由切換無負擔",
+    "summary": "Anthropic 讓 Claude Desktop 支援 Ollama 作為第三方閘道器，使用者可無縫切換雲端與本機模型，同時保障資料隱私，重塑 AI 工具使用體驗。",
+    "content": "<h2>本地模型不再遙不可及</h2>\n<p><strong>開發者終於能將 Claude Desktop 與 Ollama 無縫接軌</strong>，無論是大型編碼任務還是研究專案，都能靈活運用雲端或本機模型。切換回原有設定只需一鍵，操作直覺得像換手機殼一樣簡單。現在，你不用再為模型選擇煩惱，本地運行既快速又安全，雲端資源則隨時待命。</p>\n\n<h2>隱私與彈性兼顧，AI 工具新選擇</h2>\n<ul>\n<li><strong>所有提示與資料預設不上傳至 Anthropic 或 Ollama 伺服器</strong>，Telemetry 功能關閉，Ollama 更承諾零資料保留政策，確保你的創意不被洩漏。</li>\n<li><strong>使用者可隨時在 Anthropic 模型與 Ollama 之間切換</strong>，透過 Ollama 內建開關即可實現，無需重新安裝或複雜設定，真正實現一鍵切換。</li>\n<li><strong>本地模型支援已全面開放</strong>，只需進入設定頁面即可配置，讓個人化 AI 工作流成為現實，連隔壁鄰居的 AI 都能幫你打工。</li>\n</ul>\n\n<h2>編輯悄悄話</h2>\n<p>這次更新就像給 Claude Desktop 裝上「雙引擎」，雲端與本機模型隨你切換，隱私還被鎖得死死的。以後寫程式或查資料，再也不用擔心資料外洩，連隔壁鄰居的 AI 都能幫你打工了！</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/claude-desktop",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "006",
+    "title": "VentureBeat首聘首席分析师 Rob Strechay深耕企业AI研究",
+    "summary": "VentureBeat首聘首席分析师Rob Strechay，专注企业AI基础架构与安全，填补技术决策者所需深度分析缺口，推动产业研究专业化。",
+    "content": "<h2>从实战派到分析师：Rob Strechay的跨界履历</h2>\n<p><strong>这位老哥可不是纸上谈兵的类型。</strong>Strechay拥有近三十年经验，从Zerto初创公司高管到AWS Analytics服务奠基人，再到企业基础架构主管，最后才转战分析师领域。这种「从战场到讲台」的背景，让他能精准拆解企业AI部署的架构难题。</p>\n<p>他即将主攻的四大领域——云端基础架构、进阶资料基础架构、平台工程与DevOps编排，以及AI与企业安全的交叉地带——全是企业CIO/CTO们深夜失眠的主因。</p>\n\n<h2>不只是写报告，还要挖出AI部署的真实困境</h2>\n<p><strong>企业现在最头疼的不是「要不要用AI」，而是「怎么用才不会烧钱又翻车」。</strong>Strechay早在五月的分析文章就直指企业GPU利用率问题，揭露那些躺在资料中心吃电的闲置算力。而VentureBeat六月的VB Pulse调查更显示，三分之二的企业采取「多供应商策略」——Anthropic Claude六月当机事件，让这种谨慎态度显得尤为明智。</p>\n<p>未来透过VB In Conversation系列访谈，读者将看到AI系统架构师们不藏私的实战经验，从部署障碍到后端基础架构的真相，全数摊开。</p>\n\n<h2>编辑悄悄话</h2>\n<p>说到底，企业AI现在就像在搭乐高，光有积木不够，还得知道哪块承重、哪块一碰就倒。VentureBeat这次请来的可是个老手，以后看报告不用怕被厂商软文糊弄了。毕竟在AI军备竞赛里，能帮你省下预算又避开地雷的人，才是真正的幕后英雄。</p>",
+    "image": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "007",
+    "title": "Runable 募2100萬美元，AI 代理從建公司到養公司",
+    "summary": "Runable 宣布募得2100萬美元，並透露近90天超過1兆 token 用量中，60%至70%來自付費客戶，顯示 AI 代理正顛覆企業營運模式，從輔助工具躍升為核心成長引擎。",
+    "content": "<h2>AI 代理不只是寫程式，還能幫你養公司</h2>\n<p><strong>Runable 這次募資的核心理念，是把 AI 從「建工具的人」變成「幫你賺錢的人」。</strong>過去我們習慣把 AI 當成助手，寫程式、查資料、整理文件，但 Runable 想做的更大膽——讓 AI 代理真正參與企業營運，從搭建業務架構到持續成長，一條龍全包辦。這不只是技術升級，而是商業邏輯的根本轉變。</p>\n<p><strong>近90天超過1兆 token 用量，其中60%至70%來自付費客戶，這個數字相當扎實。</strong>也就是說，不是大家在玩票，而是真的有人願意為 AI 代理付費。對一家新創來說，這種付費轉換率代表產品已經跨過早期採用者的門檻，開始進入主流市場。</p>\n<h2>從 Flash Sale 看 Disrupt 2026 的市場野心</h2>\n<p><strong>Runable 趁機推出 Disrupt 2026 早鳥優惠，最高省300美元，顯示他們對這場活動的市場定位相當有自信。</strong>Flash Sale 這種促銷手法在科技圈不算新鮮，但能吸引媒體關注並形成話題，本身就是一種品牌勢能的展現。對投資人而言，這代表 Runable 不僅有技術，也有商業操作能力。</p>\n<p><strong>AI 代理市場正在從「能不能用」進入「好不好用」的階段。</strong>Runable 這2100萬美元的資金，將用於擴展產品線與客戶服務，目標是讓更多企業相信：AI 不只是成本中心，而是可以帶來實質營收成長的資產。這場競賽才剛開始。</p>\n<h2>編輯悄悄話</h2>\n<p>以前我們請助理是請人來幫忙，現在開始要請 AI 來幫忙。Runable 這招「AI 代理養公司」的構想，聽起來像科幻小說，但付費客戶的數據告訴我們，這已經不是夢了。下次你的 AI 幫你寫完報告，別忘了問它一句：「你還能幫我賺多少錢？」</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "008",
+    "title": "IBM推 Granite 4.2 本地模型，推理能力升級搶攻企業部署市場",
+    "summary": "IBM 推出 Granite 4.2 系列本地大型語言模型，主打推理能力與可預測的企業部署，在雲端模型費用飆升的風暴中，為開發者與企業提供一條更務實的路徑。",
+    "content": "<h2>推理能力升級，本地模型不再只是噱頭</h2>\n<p><strong>IBM 這次把 Granite 4.2 定位為「推理導向」的發布，不是口號，而是實打實的技術調整。</strong>新模型提供 3B、8B 和 30B 三種參數規模，全部支援 128,000 token 的上下文視窗。其中 8B 和 30B 版本經過代理式強化學習訓練，能操作終端機、搜尋網頁、使用外部工具，3B 版本雖然也能接工具，但訓練深度較淺。IBM 強調的「推理」並非人類式的意識理解，而是透過 chain-of-thought 逐步推導、保留中間結果的功能性推理。對使用者來說，這意味著回答更嚴謹準確，代價是回應速度較慢、運算需求較高。</p>\n\n<h2>企業部署的隱形痛點，IBM 選擇穩紮穩打</h2>\n<p><strong>Granite 系列從來不是以速度或激進創新取勝，IBM 的賣點是「可預測的部署」。</strong>在 Anthropic 和 OpenAI 等雲端模型頻繁調漲費用的背景下，開發者與企業開始轉向本地模型尋找替代方案。Nvidia 的 Nemotron 等競爭對手同樣瞄準這個市場，但 IBM 的策略更偏向務實——讓企業知道花多少錢、跑在多快的硬體上、能穩定產出什麼品質的結果。同時，模型路由工具（model routers）也因為這種需求而興起，它們能根據任務複雜度自動將請求分派到合適的模型，平衡效能、速度與成本。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>本地模型這波熱潮，本質上是企業和開發者對雲端費用失控的一次集體反彈。</strong>IBM 不追最強的推理、不搶最快的速度，而是把「穩定可預期」當成核心價值，這在講求變現的 AI 市場裡反而像一股清流。對小團隊和個人開發者來說，能在自家機器上跑模型、不用看 API 計費單臉色，這種自由感，或許比任何 benchmark 數字都來得實在。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "009",
+    "title": "SpaceX斥資千億美元 路易斯安那州打造科幻級星艦基地",
+    "summary": "SpaceX宣布在路易斯安那州興建耗資千億美元的星艦基地，這座太空港規模之大堪稱科幻小說場景，將徹底重塑美國太空發射產業格局，引發全球矚目。",
+    "content": "<h2>千億美元太空夢 落地路易斯安那</h2>\n<p><strong>SpaceX這次真的把科幻變成現實。</strong>馬斯克旗下的太空公司宣布，要在路易斯安那州打造一座耗資高達1000億美元的星艦基地（Starbase）。這座太空港的規模之大，讓許多業內人士都驚嘆不已。過去這種場景只存在於科幻小說中，如今卻要成為真實存在的基础設施。</p>\n\n<h2>太空發射產業將迎來劇變</h2>\n<p><strong>這不僅僅是一個新的發射場，更是整個太空產業的里程碑。</strong>路易斯安那州的地理位置優越，靠近墨西哥灣，有利於發射軌道的選擇。一旦建成，這裡將成為美國東南部最重要的太空發射樞紐，與現有的佛羅里達太空海岸形成互補。</p>\n\n<p><strong>星艦基地的建設將創造數萬個工作機會。</strong>從工程設計到發射營運，整個產業鏈將帶動當地經濟發展。同時，這也意味著SpaceX在商業發射市場的競爭力將進一步提升。</p>\n\n<p><strong>這座太空港的建成將重新定義我們對太空產業的想像。</strong>從發射頻率到載荷能力，星艦基地都將帶來前所未有的突破。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>當科幻小說中的場景逐漸成為現實，我們不禁要問：這到底是進步還是挑戰？</strong>千億美元的投資背後，是人類對太空探索的無限憧憬，但也引發了對環境影響和資源分配的擔憂。無論如何，這座太空港的建成將重新定義我們對太空產業的想像。</p>",
+    "image": "",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2244379/spacex-is-building-a-100-billion-starbase-launch-site-in-louisiana/",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "010",
+    "title": "GitHub公開LLM實戰評估秘訣，安全掃描不再踩雷",
+    "summary": "GitHub部落格公開大語言模型實戰評估經驗，揭示如何在部署前精準測試AI效能。這套方法將重塑企業導入AI的標準流程，讓技術落地不再靠運氣。",
+    "content": "<h2>為什麼LLM評估這麼重要？</h2>\n<p><strong>模型再強，不用對場合也是白搭。</strong>許多企業一聽到LLM就迫不及待上線，結果在生產環境栽了大跟頭。GitHub部落格這篇文章分享他們在秘密掃描（secret scanning）專案中，如何一步步驗證模型是否真的能上戰場。他們發現，評估LLM不是跑個分數就完事，而是要模擬真實場景，看模型在關鍵任務上表現如何。</p>\n<p><strong>秘密掃描是什麼？簡單說就是找出程式碼裡不小心洩漏的密碼、金鑰。</strong>這可是資安領域的硬仗，一旦漏掉一個API key，後果不堪設想。GitHub讓AI來幫忙偵測，但前提是模型必須夠精準，不能誤判太多，也不能漏掉真正的威脅。</p>\n\n<h2>實戰評估的三大關鍵</h2>\n<p><strong>第一，建立真實的測試資料集。</strong>GitHub團隊收集了實際專案中的秘密樣本，包含各種格式、各種編碼方式，甚至故意放入一些混淆選項，測試模型能不能在混亂中找出真正的目標。</p>\n<ul>\n<li>測試資料必須涵蓋真實世界的多樣性，不能只靠乾淨的範例</li>\n<li>要加入邊緣案例，看模型在模糊地帶的判斷力</li>\n<li>評估指標不只是準確率，還要看誤報率和漏報率的平衡</li>\n</ul>\n<p><strong>第二，設定明確的成敗標準。</strong>在資安場景中，誤報太多會讓工程師疲於奔命，漏報太嚴重則可能釀成大禍。GitHub團隊在部署前就定義了可接受的誤報上限，確保AI不會成為團隊的負擔。</p>\n<p><strong>第三，持續監控與迭代。</strong>模型上線不代表結束，GitHub強調要建立回饋機制，讓實際使用中的錯誤能回流到訓練資料，持續優化模型表現。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這篇文章最實用的地方在於，它把LLM評估從「跑分遊戲」拉回「實戰檢驗」。很多公司花大錢買模型，卻沒想過測試資料跟真實場景差多少。GitHub用秘密掃描這個高風險場景當例子，提醒我們：AI上線前，先問自己三個問題——測試資料夠真實嗎？失敗代價能承受嗎？有持續改進的機制嗎？想清楚這三點，你的AI專案才不會從上線那天開始踩雷。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/01/4ba0cd42388a255e04c78e5143548f22e577d68e0f15f68e6a3c76c18b927981-1920x1080-1.png",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "011",
+    "title": "LinkedIn打造招聘AI記憶體，四層架構顛覆人才搜尋體驗",
+    "summary": "LinkedIn推出認知記憶代理系統，以四層架構重塑招聘助手的個人化體驗，讓AI真正記住每位求職者的偏好與互動歷史，顛覆傳統搜尋邏輯。",
+    "content": "<h2>記憶體不是快取，是AI的長期記憶</h2>\n<p><strong>LinkedIn的招聘助手不再只是每次重新開始，而是真正擁有記憶的AI助手。</strong>Praveen Bodigutla帶領的團隊發現，招募人員在使用AI助手時，會不斷表達自己的招聘偏好，也會針對推薦的候選人給出直接回饋。這些偏好具有高度黏著性，會延伸到他們對類似職缺的定義上。因此，團隊決定打造一個能管理記憶生命週期的系統，從理解什麼被 ingestion、什麼被 retrieval，到如何組織與更新，形成完整的記憶飛輪。</p>\n<p><strong>這套系統的核心在於四層記憶架構，每一層負責不同的時間尺度與存取需求。</strong>最底層是長期記憶，儲存招募人員的穩定偏好與歷史決策；往上是情境記憶，記錄當前招聘任務的相關資訊；再往上則是工作記憶，處理即時互動中的短期狀態；最頂層則是元記憶，負責監控與調整記憶本身的品質與組織方式。</p>\n\n<h2>從GraphRAG到樹狀記憶的技術轉型</h2>\n<p><strong>團隊最初採用GraphRAG架構，但發現它在增量更新上存在明顯瓶頸。</strong>GraphRAG適合處理高度關聯的知識圖譜，但在招聘場景中，招募人員的偏好會隨著時間持續演變，需要頻繁的局部更新。樹狀記憶結構讓系統能夠快速定位並更新特定分支，而不必重新處理整個圖譜，大幅提升了更新效率。</p>\n<p><strong>在LinkedIn的規模下，這套系統必須同時兼顧檢索新鮮度、延遲預算與存取控制。</strong>團隊設計了多層級的快取策略，讓高频存取的记忆片段能快速回應，而較舊的記憶則以壓縮形式儲存。同時，存取控制機制確保每位招募人員只能看到自己的記憶內容，不會與其他用戶的資料產生交叉。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>這就像你換了個新助理，但他會記住你上次說過的每一句話。</strong>以前用AI找工作，每次都要重新交代偏好，現在它會自己記住你喜歡什麼類型的候選人、對哪些技能特別在意。這種記憶力不是靠快取堆出來的，而是真正理解你的招聘風格。未來AI競爭的關鍵，可能不在於模型多聰明，而在於它有多記得住你。</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "012",
+    "title": "Anthropic工程師揭秘：Claude能否自我修復？AI事件響應實戰經驗談",
+    "summary": "Anthropic可靠性工程師分享實戰經驗，指出AI在日誌觀察上表現超群，但根因分析仍難區分因果與相關，挑戰傳統事件響應流程，重塑人機協作模式。",
+    "content": "<h2>AI觀察日誌超人類，但根因分析仍吃力</h2>\n<p><strong>Anthropic的可靠性工程師Alex Palcuie坦言，AI在監控日誌和追蹤方面展現超人類能力，但面對複雜的根因分析時，仍難以準確區分因果與相關性。</strong>他分享自己從年初開始，在查看監控儀表板前先向Claude求助的習慣，這反映AI已成為事件響應的重要輔助工具。</p>\n<p><strong>然而，AI無法完全取代人類工程師。</strong>Anthropic團隊成立一週年，持續在倫敦、都柏林和美國招聘，證明即使擁有無限token和近距離研究員支援，AI仍無法獨立承擔on-call輪值任務。</p>\n\n<h2>人機協作新範式：AI輔助而非取代</h2>\n<p><strong>工程師強調，關鍵在於如何將AI整合到工作流程中，同時保留人類專業判斷。</strong>AI擅長快速處理大量數據，但理解系統深層邏輯和因果關係仍需人類經驗。這種協作模式既能提升效率，又能避免過度依賴AI導致專業能力退化。</p>\n<p><strong>對於工程領導者而言，這意味著需要重新設計on-call流程，讓AI處理常規監控，人類專注於複雜決策。</strong>這種分工不僅能減輕工程師壓力，還能促進團隊知識傳承。</p>\n\n<h2>編輯悄悄話</h2>\n<p>AI就像個超強的新同事，能幫你翻閱海量日誌，但遇到真正棘手的系統故障，還是得靠人類工程師的經驗和直覺。與其擔心被取代，不如學會與AI協作，讓它處理瑣碎工作，你專注於解決真正有價值的問題。畢竟，再聰明的AI也無法理解為什麼老闆總在週末發訊息問「系統怎麼又掛了」。</p>",
+    "image": "https://res.infoq.com/presentations/claude-sre-incidents/en/card_header_image/alex-palcuie-twitter-card-1786539336984.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/presentations/claude-sre-incidents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "013",
+    "title": "Vercel 快閃修補！Next.js 八月安全漏洞，託管用戶安心無憂",
+    "summary": "Next.js 八月安全更新揭露兩項關鍵漏洞，Vercel 已預先防護，託管應用無需升級或重部署，徹底免除資安風險。",
+    "content": "<h2>漏洞詳情：AVIF 與 Windows 雙重危機</h2>\n<p><strong>Next.js 八月安全更新剛發布，就爆出兩個嚴重漏洞，但別慌，用 Vercel 託管的夥伴們可以鬆一口氣了。</strong>第一個漏洞（GHSA-2xp9-vwfh-vxw4）來自上游的 libheif 函式庫，攻擊者只要傳入惡意構造的 AVIF 圖片，就能在 Image Optimization 處理時發動遠端程式碼執行攻擊，完全不用身份驗證。</p>\n<p><strong>第二個漏洞（CVE-2026-75604）則專挑 Windows 主機下手</strong>，只要應用同時使用 Pages Router 和 App Router（且未啟用 Cache Components），就可能被入侵。不過 Vercel 的 Next.js 執行環境基於 Linux，根本不在攻擊範圍內，算是僥倖逃過一劫。</p>\n\n<h2>Vercel 已預先防護，用戶無需動作</h2>\n<p><strong>Vercel 在發現 AVIF 漏洞後，立刻關閉了託管 Image Optimization 服務的 AVIF 優化功能。</strong>現在所有 AVIF 圖片都會直接原樣輸出，不再經過有問題的處理路徑。雖然圖片優化功能暫時犧牲，但安全性完全有保障。</p>\n<p><strong>對於自己架設 Next.js 的開發者，請務必盡快升級到 patched 版本。</strong>Next.js 15.x 及以下版本、16.x 版本都有對應的修補發行版。 patched 版本中 AVIF 圖片同樣會直接輸出，直到上游函式庫修復為止。Windows 漏洞則沒有其他 workaround，升級是唯一解方。</p>\n\n<h2>編輯悄悄話</h2>\n<p>看來 Vercel 這次又當了隱形守護者，默默把漏洞擋在門外，讓開發者可以繼續安心寫程式，不用半夜被資安警報吵醒。自己架設伺服器的朋友們，記得趕緊升級，別讓 Windows 成為攻擊者的溫床。科技圈的攻防戰永遠不打烊，但有人幫你擋子彈的感覺，還挺安心的。</p>",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/70GWzw6wSuk8mHIXADKsdB/759434b0880dc4a1dcc704450b36e072/next-security-august-2025-changelog.png",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/nextjs-august-2026-security-release",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "014",
+    "title": "OpenAI自研晶片Jalapeño首測出爐，推論速度飆升近2倍挑戰Nvidia",
+    "summary": "OpenAI公布自研推論晶片Jalapeño首批效能測試，在三大語言模型上每瓦吞吐量達Nvidia系統的1.5至1.9倍，端到端延遲減少逾40%，預計2026年底部署，將重塑AI運算基礎架構。",
+    "content": "<h2>晶片設計突破：資料不亂跑，速度自然快</h2>\n<p><strong>Jalapeño的核心設計理念，就是讓資料盡量留在本地，減少搬移造成的等待時間。</strong>OpenAI解釋，大型語言模型在接收問題時，需要先處理整段輸入內容，之後再逐一產生回應詞元，這兩個階段對運算與記憶體的需求完全不同。他們讓生成回應時需要反覆使用的KV快取等資料盡量留在本地，這樣不同運算單元之間就不需要頻繁搬移資料，等待時間自然大幅縮短。</p>\n<p><strong>測試結果顯示，Jalapeño在GPT-OSS 120B模型上，峰值每瓦吞吐量約為Nvidia GB200的1.9倍。</strong>執行DeepSeek R1時約為GB300的1.7倍，完整請求的回應時間從5.99秒降至1.65秒。Kimi K2.5的峰值每瓦吞吐量約為GB300的1.5倍，回應時間則從5.31秒降至1.56秒。這些數據來自SemiAnalysis公開的InferenceX基準測試，比較的是從系統接收使用者請求到完成回應的完整推論流程。</p>\n<h2>AI協同開發：兩個月優化三款模型</h2>\n<p><strong>OpenAI利用自家AI工具Codex搭配GPT-Astra，在兩個月內把三款原先未列入生產規畫的開放權重模型最佳化到高效能水準。</strong>其中GPT-OSS部分注意力機制與混合專家模型運算區塊，由AI產生的實作速度較既有人類專家版本快1.5至1.8倍。這顯示OpenAI不僅在晶片設計上有所突破，在軟體最佳化方面也展現了強大的AI協同開發能力。</p>\n<p><strong>OpenAI預計今年底開始部署第一代Jalapeño，第二代已進入深入開發階段，第三代也已開始規畫。</strong>該公司同時也表示，未來仍會持續使用Nvidia及其他合作夥伴的加速器，支援AI模型訓練與推論。這意味著OpenAI並非要完全取代Nvidia，而是透過自研晶片來優化推論階段，讓整體運算基礎架構更加高效。</p>\n<h2>編輯悄悄話</h2>\n<p>這場晶片大戰就像是在比誰家的車更省油還更快，OpenAI這次拿出來的Jalapeño確實讓人大開眼界。不過話說回來，Nvidia也不會就此睡大覺，未來兩家的競爭肯定越來越精彩。對我們這些吃瓜群眾來說，唯一要做的就是期待AI服務能越來越快、越來越便宜，畢竟這才是真正對我們生活有影響的事。</p>",
+    "image": "https://www.ithome.com.tw/sites/default/files/field/image/jalapeno-chip-final.jpg",
+    "source": "iThome",
+    "url": "https://www.ithome.com.tw/news/178457",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "015",
+    "title": "Mac 選單列藏寶圖！AI 額度一目了然，Claude、Cursor 剩多少抬頭就知",
+    "summary": "OpenUsage 免費開源工具顛覆 AI 額度管理方式，Mac 選單列即時顯示 Claude、Cursor 等多款工具剩餘用量，讓使用者隨時掌握重置時間與 Token 消耗，徹底解決多工具切換的繁瑣痛點。",
+    "content": "<h2>選單列藏寶圖：AI 額度一目了然</h2>\n<p>用過 Claude、Cursor 的人都知道，每次要查剩餘額度就得切到網頁或 App，超麻煩的。OpenUsage 這個免費開源工具直接把所有 AI 服務的用量資訊集中在 Mac 選單列，<strong>抬頭就能掌握 Claude、Codex、Grok、OpenRouter 等九款熱門工具的剩餘額度與重置時間</strong>，再也不用頻繁切換視窗。</p>\n<p>不同平台的顯示內容各有差異：Claude 和 Codex 會標示 Session、Weekly 限制，Cursor 則細分總用量、Auto Usage、API Usage 等項目，部分服務還能看到 Token 數量和花費紀錄。<strong>使用者可自訂選單列顯示的服務與指標</strong>，把最重要的資訊固定在可視範圍內。</p>\n\n<h2>跨裝置同步，雲端掌握你的 AI 用量</h2>\n<p>除了即時顯示額度，OpenUsage 還內建 iCloud 同步功能，<strong>多台 Mac 之間的用量數據會自動同步</strong>，無論換哪台電腦都能隨時掌握整體使用狀況。安裝過程非常簡單，下載後直接拖曳至應用程式資料夾，選單列就會自動出現對應的 AI 工具圖示。</p>\n<p>對於同時使用多款 AI 代理工具的人來說，這個工具簡直是救星。<strong>不用再記住每個平台的查詢路徑，選單列一次看齊</strong>，連額外用量（Extra Usage）這種細節都能清楚掌握，真正實現 AI 工具的高效管理。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以後再也不用在多個 AI 工具之間頻繁切換查額度了，OpenUsage 讓選單列變成你的 AI 用量指揮中心。抬頭一看，就知道今天還能用多少 Token，省時又省心，絕對是 Mac 用戶的必備神器！</p>",
+    "image": "https://www.kocpc.com.tw/wp-content/uploads/2026/08/20260826184836_0_c84286.jpg",
+    "source": "電腦王阿達",
+    "url": "https://www.kocpc.com.tw/archives/666597",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "016",
+    "title": "Suica企鵝25年榮退，實體與數位卡面將全面換裝無圖案",
+    "summary": "JR東日本宣布Suica企鵝即將退任，實體卡賣完即停產，iPhone數位卡也同步改為無圖案卡面，直到新形象大使出爐。這波變動將重塑數百萬用戶的日常通勤體驗。",
+    "content": "<h2>企鵝退位，卡面歸零</h2>\n<p><strong>從2001年陪伴大家走到現在的小企鵝，終於要交棒。</strong>JR東日本無預警宣布，Suica企鵝將結束長達25年的形象大使生涯，並啟動全新代言人選拔。實體Suica卡目前仍在販售，但一旦庫存清空，就會暫時改為無圖案卡面，直到新形象大使正式亮相為止。更讓粉絲崩潰的是，iPhone裡的Mobile Suica也一樣會跟著換掉，Apple Wallet裡的企鵝卡面將直接消失，變成純白底色。</p>\n<p><strong>這不是普通的卡面改版，而是整整一代人的集體記憶被連根拔起。</strong>Suica企鵝由插畫家坂崎千春設計，幾乎與Suica畫上等號，周邊商品更是收藏家爭相搶購的熱門單品。如今JR東日本突然宣布退任，許多長期支持者都感到錯愕，甚至有人開始瘋狂掃貨實體卡，就怕以後再也看不到這隻可愛的小企鵝。</p>\n<h2>Penguin Years最後狂歡，周邊搶購熱潮開跑</h2>\n<p><strong>JR東日本這次動作頗有章法，一邊宣布退任，一邊大推紀念活動。</strong>自2026年11月起，官方將舉辦「Penguin Years」年度紀念活動，同步開放專屬網站，回顧Suica企鵝25年來的歷年特別版卡面設計，並推出多款新周邊商品。這波操作被外界解讀為「趁退任前最後一波收割」，但對粉絲來說，這也是一次難得的懷舊機會。</p>\n<p><strong>數位卡的處理方式更顯JR東日本的商業算盤。</strong>過去他們就曾經推出過限時抽選的卡面活動，活動結束後卡面直接恢復標準版本，毫不留情。這次公告一出，不少喜愛企鵝卡的消費者開始擔心，如果沒趕在實體卡售罄前入手，連最後的實體收藏機會也會消失。數位卡更是沒有緩衝空間，新大使沒選出來之前，手機裡的Suica就只能是素卡一張。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>說到底，這就是一場「告別式」與「促銷戰」同時開跑的經典案例。</strong>Suica企鵝陪伴了日本民眾二十五年，從通勤卡變成文化符號，如今說換人就換人，連數位卡都不給你留個念想。喜歡這隻小企鵝的朋友，與其嘆氣，不如趕緊去便利店掃幾張實體卡回來收藏，畢竟過了這村可就沒這店了。</p>",
+    "image": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2025/08/16951078-e4ed-4899-b8cb-786a046d117f.jpg",
+    "source": "癮科技",
+    "url": "https://www.cool3c.com/article/251312",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "017",
+    "title": "DecryptAds免費工具揭密：誰在暗中追蹤你的網路足跡？",
+    "summary": "免費新服務DecryptAds顛覆廣告產業資訊黑箱，將散落在各網站的廣告技術資料整合比對，讓一般用戶也能快速揪出追蹤自己的企業與數據仲介。",
+    "content": "<h2>廣告追蹤黑箱被掀開，免費工具讓數據透明化</h2>\n<p><strong>每天滑手機、逛網站，卻不知道誰在背後收集你的資料？</strong>過去這塊資訊就像被大型廣告平台鎖在保險庫裡，一般人根本無從得知。現在，一個名為DecryptAds的免費新服務，正把這扇門硬生生踹開。這個工具會自動爬取網站和應用程式公開的廣告技術檔案，包括ads.txt、app-ads.txt，以及 buyers.json 和 sellers.json，然後把這些分散的資料交叉比對，拼湊出一張完整的追蹤地圖。</p>\n<p><strong>單一檔案看不出問題，但交叉比對就能揪出供應鏈漏洞。</strong>DecryptAds的研究長Zach Edwards指出，這些檔案裡的資料單獨看幾乎沒有用處，只有互相參照才能看出真正的廣告生態系全貌。這種做法源自安全研究的角度，專門處理過去長期被忽視的隱私與安全需求。</p>\n\n<h2>ESPN案例曝光：143家廣告夥伴、19個數據仲介暗中運作</h2>\n<p><strong>以ESPN為例，DecryptAds挖出143家廣告合作夥伴和19個註冊數據仲介域名。</strong>更驚人的一項發現是，幾乎一半的數據仲介正在收集不擋廣告的ESPN訪客地理位置資料，另有三家明確披露會蒐集裝置指紋和敏感個人資訊。這些數據仲介之所以浮上檯面，是因為加州、俄勒岡、德州和佛蒙特州近期通過法律，要求買賣本州消費者資料的仲介必須登記。</p>\n<p><strong>地缘風險警示功能更是這套工具的亮點。</strong>DecryptAds會特別標記那些位於中國、俄羅斯，或與兩國有緊密金融政治聯繫的國家（如賽普勒斯和阿拉伯聯合大公國）的廣告技術合作夥伴。ESPN就與四家位於俄國、中國或UAE的廣告實體合作，其中Between Digital雖然掛著紐約地址，但DecryptAds的文件顯示其實際營運透過俄羅斯Alfa Bank處理，供應鏈的真實面貌一覽無遺。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>以前我們只能猜測誰在偷看我們的網路足跡，現在免費工具直接幫你畫出地圖。</strong>DecryptAds這套服務最厲害的地方，不是技術多高深，而是把原本只有安全專家才看得懂的廣告供應鏈檔案，變成一般人都能輕鬆理解的視覺化報告。下次當你打開某個網站或App，不妨先上去查一下，看看背後有多少雙眼睛正在盯著你。這世界本來就該透明一點，對吧？</p>",
+    "image": "https://krebsonsecurity.com/wp-content/uploads/2026/08/decryptads-ESPN.png",
+    "source": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "018",
+    "title": "《Crimson Desert》2.0更新：Kliff從硬漢變思想家",
+    "summary": "《Crimson Desert》2.0更新重塑主角Kliff角色深度，回應玩家對故事淺薄的批評，新增劇情反思與技能調整，推進遊戲敘事品質。",
+    "content": "<h2>免費更新狂潮中的敘事翻身仗</h2>\n<p><strong>Pearl Abyss這次又發免費更新啦！</strong>《Crimson Desert》的「Crimson Desert Enhanced」補丁已在PC上線，這次不僅調整技能點分配機制讓玩家不用精打細算，還給主角Kliff新增八個技能。但最引人注目的，是主線劇情的重新調校——開發商終於正面回應玩家長期抱怨的「故事太淺」問題。</p>\n<p><strong>從無腦硬漢到會嘆氣的哲學家。</strong>更新後的劇情裡，Kliff首次踏入深淵時，竟開始回憶與灰鬍同伴的往事，語氣裡帶著哀傷。數個月後的場景中，他也不再只是對NPC嘮叨，而是獨自沉思那些離譜的魔法事件。這種角色內省，在過去MMO裡可不多見。</p>\n\n<h2>認錯改錯，比嘴硬可愛多了</h2>\n<p><strong>開發商這次沒選擇裝死。</strong>雖然作者還沒時間深入體驗改版劇情，但Pearl Abyss願意正視開局「散亂 overwhelming」的批評，並用實際行動重塑Kliff的立體感，這種態度值得肯定。畢竟在遊戲圈，肯認錯的公司比會推卸責任的少太多了。</p>\n<p><strong>角色深度提升，玩家會買單嗎？</strong>Kliff從工具人變成會思考的「哲學戰士」，或許能吸引更重視敘事的玩家。不過對部分只愛打怪的用戶來說，這改變可能像額外贈品——但至少，遊戲世界多了一個會嘆氣的英雄，而不是只會說「好的老大」的複製貼上。</p>\n\n<h2>編輯悄悄話</h2>\n<p>遊戲公司肯認錯改錯，比那些死鴨子嘴硬的可愛多了。Kliff這次從只會說「好的老大」變成會思考的「哲學戰士」，看來以後打怪之餘還能參加讀書會。玩家們，這次你們買單了嗎？</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/hZS6AmJbYzwtWwjDeL6g2C-1920-80.jpg",
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/action/crimson-deserts-2-0-updates-most-surprising-change-is-an-effort-to-make-kliff-a-fully-realised-character-with-thoughts-and-opinions/",
+    "date": "2026-08-26"
+  },
+  {
+    "id": "019",
+    "title": "地牢跑酷新作《地牢大出血》發售 血腥戰鬥挑戰生存極限",
+    "summary": "獨立遊戲團隊 Messhof 推出全新 2D 平台動作遊戲《地牢大出血》，支援繁體中文，玩家將在地牢中跑酷與戰鬥，挑戰存活到最後的極限體驗，顛覆傳統地牢遊戲玩法。",
+    "content": "<h2>地牢不再只是打怪 跑酷元素讓生存更刺激</h2>\n<p><strong>這款遊戲把地牢玩法徹底翻轉，跑酷加上戰鬥的組合讓每次闖關都充滿未知。</strong>獨立遊戲工作室 Messhof 推出的《地牢大出血》（Blood Dungeon），今日正式發售並支援繁體中文。遊戲將 2D 平台動作與跑酷元素完美融合，玩家需要在血腥的地牢環境中不斷前進，一邊閃避陷阱一邊與敵人搏鬥，目標只有一個——活到最後。</p>\n<p><strong>舊名《血地牢》的它，改名後更突顯了遊戲中血液橫飛的暴力美學。</strong>官方表示，遊戲發售後將陸續公布更多新消息及合作內容，讓玩家對這款作品保持期待。對於喜歡挑戰高難度動作遊戲的玩家來說，這絕對是不可錯過的新作。</p>\n<h2>繁體中文支援讓台灣玩家上手無障礙</h2>\n<p><strong>支援繁體中文意味著台灣玩家能更完整體驗遊戲的劇情與操作細節。</strong>《地牢大出血》雖然是一款獨立遊戲，但在玩法設計上卻毫不馬虎。2D 平台動作的基本框架搭配跑酷元素，讓遊戲節奏緊湊且充滿張力。玩家必須精準掌握跳躍時機與戰鬥節奏，稍有不慎就可能命喪地牢深處。</p>\n<p><strong>Messhof 團隊選擇以血腥風格呈現地牢世界，為玩家帶來視覺與操作上的雙重衝擊。</strong>這款遊戲不僅考驗玩家的反應速度，更考驗策略規劃能力。在地牢中每一步都可能是生死之別，讓玩家在緊張刺激的氛圍中體驗極致的生存挑戰。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>這款遊戲就像在刀尖上跳舞，每一步都充滿風險卻讓人欲罷不能。</strong>喜歡挑戰高難度遊戲的玩家，這次可別再錯過。地牢深處等著你，就看你有沒有本事活著走出來了。</p>",
+    "image": "https://p2.bahamut.com.tw/B/2KU/05/690308dcb612a815079eae4b3d200tt5.JPG",
+    "source": "巴哈姆特 GNN",
+    "url": "https://gnn.gamer.com.tw/detail.php?sn=310495",
+    "date": "2026-08-26"
+  }
+]
