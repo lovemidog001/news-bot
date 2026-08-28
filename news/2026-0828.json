@@ -1,0 +1,152 @@
+[
+  {
+    "id": "001",
+    "title": "ChatGPT加批判思考訓練，學生作業質與量雙飆升",
+    "summary": "博科尼大學研究顯示，ChatGPT能提升作品連貫性，批判思考訓練則激發原創性，兩者結合將重塑未來學習模式。",
+    "content": "<h2>AI助手讓作業更專業，但別以為是抄襲</h2><p><strong>ChatGPT讓學生作品更接近專家水準</strong>，但研究指出學生仍需自己判斷如何提問、評估建議，並非直接交卷。使用AI的學生在五點評分制中接近滿分，邏輯更清晰、想法更豐富，且與專家建議相似度更高。</p><h2>批判思考訓練帶來意外收穫</h2><p><strong>因果推理練習讓學生提出更多元且獨特的想法</strong>，雖然評分未直接提升，但文字分析顯示其創意廣度明顯優於其他組別。這提醒教育者，傳統評分標準可能忽略學生的原創性貢獻。</p><h2>編輯悄悄話</h2><p>這場實驗就像在教學生「用AI當導航，但自己握方向盤」。未來教育或許該同時培養兩項能力：善用工具的實用技能，以及獨立思考的韌性。畢竟，AI能給答案，但好問題永遠來自人類的大腦。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6ZXqBy6YHRAp7pZUlmTbKY/c5520708839c4add08cde7eb2346041f/what-students-gain-chatgpt-critical-thinking--seo-clean-edges-v3.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "002",
+    "title": "Sentence Transformers 多向量嵌入模型訓練秘訣大公開",
+    "summary": "Sentence Transformers 技術正重塑多向量嵌入模型的訓練方式，讓開發者能更精準地微調語意搜尋系統，大幅提升資料檢索的準確度與效率。",
+    "content": "<h2>什麼是 Sentence Transformers？</h2>\n<p><strong>Sentence Transformers 是一套基於 Hugging Face Transformers 的 Python 庫，專門用於將文字轉換成高維度的向量表示。</strong>簡單來說，它能把一段話、一個句子，甚至整篇文章，轉化成電腦容易理解的數字序列。這些向量不僅保留了文字的字面意思，更能捕捉深層的語意關係，讓相似內容在向量空間中彼此靠近。</p>\n<p>過去訓練這類模型需要深厚的深度學習背景，但 Sentence Transformers 大幅降低了門檻。開發者只需準備好訓練資料，就能利用現成的預訓練模型進行微調，快速打造出符合自身需求的語意搜尋引擎。</p>\n\n<h2>多向量嵌入模型的優勢與應用</h2>\n<p><strong>多向量嵌入模型能同時產生多個向量來代表一段文字，讓檢索系統從不同角度理解內容。</strong>傳統單向量模型往往只能捕捉單一面向的語意，而多向量架構則能兼顧主題、情感、實體關係等多重維度，大幅提升搜尋的精準度。</p>\n<ul>\n<li><strong>語意搜尋：</strong>使用者輸入查詢時，系統能理解意圖而非僅匹配關鍵字。</li>\n<li><strong>推薦系統：</strong>根據用戶行為向量，推薦高度相關的商品或內容。</li>\n<li><strong>文件分類：</strong>自動將大量文件依語意分群，省去人工標註的繁瑣工作。</li>\n</ul>\n<p>這些應用場景涵蓋電商、媒體、金融等多個產業，顯示多向量嵌入技術的廣泛潛力。</p>\n\n<h2>編輯悄悄話</h2>\n<p>技術再厲害，最終還是要落地解決問題。Sentence Transformers 讓多向量嵌入模型的訓練變得親民，但關鍵仍在於資料品質與微調策略。選對訓練資料、設定合理的超參數，才能讓模型真正發揮實力。別急著追新技術，先想清楚你的搜尋需求是什麼，再決定要不要投入這套方案。</p>",
+    "image": "https://huggingface.co/blog/assets/train-sentence-transformers/st-hf-thumbnail.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "003",
+    "title": "Claude Desktop 接入 Ollama，本地跑開放模型不再是夢",
+    "summary": "Claude Desktop 正式支援 Ollama 作為第三方閘道，讓使用者能在本地或雲端自由切換開放模型，徹底顛覆以往只能依賴 Anthropic 雲端模型的框架，為開發者帶來更彈性的 AI 工作流。",
+    "content": "<h2>Claude 與 Ollama 聯手，開放模型進駐桌面</h2>\n<p><strong>Anthropic 這次把門打開了。</strong>Claude Desktop 現在可以直接透過 Ollama 作為第三方閘道，讓你在熟悉的 Claude 介面裡，自由選用 Ollama 上的開放模型。不管是本地端跑的小模型，還是 Ollama 雲端上的大型模型，都能一鍵切換，不用在多個工具之間來回奔波。</p>\n<p>設定過程相當直覺。打開 Ollama 後選擇 Claude，開啟功能後 Ollama 會自動幫你完成閘道配置。想切回原本的 Claude 設定？只要關閉這個功能就恢復原狀，完全不用擔心搞壞既有環境。</p>\n<h2>隱私與彈性兼顧，開發者最愛的功能</h2>\n<p><strong>資料安全是這次整合的最大亮點。</strong>預設情況下遙測功能已經關閉，Ollama 更承諾在所有模型與服務上實施零資料保留政策，無論你用的是雲端還是本地端，你的提示詞與資料都不會留下痕跡。對於重視隱私的開發者來說，這簡直是夢想成真。</p>\n<p>同時，你依然可以繼續使用 Anthropic 的模型。只要在 Ollama 內切換開關，就能在 Claude 模型與開放模型之間自由往來。如果你有自己的本地模型，也能到設定頁面自行配置，完全不受限。</p>\n<p><strong>這項整合意味著什麼？</strong>以往想用開放模型，你得自己架設介面、處理串接，現在 Claude Desktop 直接把這條路鋪好。大型編碼與研究任務可以丟給雲端模型，日常小任務則在本地端跑，資源配置變得更加靈活。</p>\n<h2>編輯悄悄話</h2>\n<p>以前想用開放模型，得自己當半個工程師，架伺服器、調參數、修 bug，搞到頭髮掉一堆。現在 Claude Desktop 直接把門打開，你只需要點幾個按鈕，就能在 Claude 的介面裡自由切換模型。這就像你原本只能去一家餐廳吃飯，現在整條美食街都變成你的後花園，想吃什么就吃什么，還不用擔心廚師把你的食譜偷走。科技進步的意義，大概就是讓複雜的事情變簡單吧。</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/claude-desktop",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "004",
+    "title": "Anthropic推出MHS標準，讓AI代理直接操控實體設備",
+    "summary": "Anthropic推出Model Hardware Standard，顛覆傳統實驗設定流程，讓AI代理能透過統一介面直接操控物理設備，將數週的整合工作縮短至數分鐘。",
+    "content": "<h2>從實驗室出發，AI開始摸得到實體世界</h2>\n<p><strong>過去一年AI代理系統風靡，但多數仍侷限在文字、影像、程式碼等數位領域。</strong>Anthropic這次推出的Model Hardware Standard（MHS），就是要打破這道牆。這個標準化驅動介面讓AI代理能直接與各種實體設備溝通，不用再為每台機器寫一套專屬翻譯程式。Anthropic表示，過去需要數週甚至數月才能完成的實驗設備整合，現在只要幾分鐘就能搞定。</p>\n<p><strong>MHS的靈感來自一位神經科學家。</strong>Anthropic技術人員Alek Kemeny在HHMI Janelia研究園區觀察到神經科學家Arco Bast如何讓旋轉雷射光束、顯微鏡、攝影機等眾多設備透過統一介面協同運作，當下就想到：如果AI也能這樣操作任何科學實驗，會是什麼樣子？</p>\n<h2>自然語言下指令，AI自己調參數、修錯誤</h2>\n<p><strong>MHS不只是讓設備互相對話，更能讓AI用自然語言直接操控硬體。</strong>透過Model Context Protocol，研究人員可以用口語指令與設備互動，AI模型能逐步推理實驗流程、即時更新參數，甚至在硬體出錯時自行修復，不需要人工介入。Anthropic舉例，Claude可以調整雷射角度、透過攝影機檢查結果、再反覆校準整套系統，全程自動完成。</p>\n<p><strong>硬體限制也能被AI理解。</strong>MHS內建一套標準化標籤系統，把設備的物理特性、可調參數、測量選項和安全限制都編碼進去。即使AI模型從未接觸過某台設備，也能透過參考檔案快速掌握關鍵資訊，避免做出超出硬體負荷的動作。</p>\n<p><strong>首批合作夥伴已經上線測試。</strong>Anthropic正與AWS、Hugging Face、Raspberry Pi、Automata和Universal Robots等實驗室與製造商合作，共同建立安全評估與最佳實踐。未來MHS計畫開放原始碼，成為業界通用的標準。</p>\n<h2>編輯悄悄話</h2>\n<p>以前我們看科幻電影，總覺得AI操控實體機器是遙遠的事。現在Anthropic直接把這扇門打開了，而且從最嚴謹的科學實驗室開始。想像一下，未來你的實驗室助理可能不只幫你跑資料，還能親自調顯微鏡、校準儀器，甚至在你喝咖啡的功夫就把實驗做完。這不只是省時間，更是把人類從繁瑣操作中解放出來，專注在真正重要的思考上。AI從數位世界跨進實體世界，這一步走得穩，後面會發生什麼事，真的值得盯著看。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "005",
+    "title": "Stripe領軍收購PayPal案破局，背後原因曝光",
+    "summary": "Stripe與私募巨頭Advent放棄收購PayPal，此舉將衝擊全球支付市場格局，原本可能顛覆PayPal市場地位的併購案如今畫下句點。",
+    "content": "<h2>收購案為何突然熄火？</h2>\n<p><strong>Stripe領軍的PayPal收購案突然破局，原本被視為支付市場的重大變局，如今卻無疾而終。</strong> 據了解，Stripe與私募股權公司Advent已決定不再推進這項收購，這意味著PayPal將繼續保持獨立，而市場格局也可能因此維持現狀。</p>\n<ul>\n<li><strong>估值分歧可能是關鍵因素。</strong> 雙方在收購價格上未能達成共識，Stripe可能認為PayPal的估值偏高，而Advent則對投資回報率有所顧慮。</li>\n<li><strong>監管環境的不確定性。</strong> 全球對科技巨頭的監管趨嚴，支付市場的併購案可能面臨更嚴格的審查，這讓收購方卻步。</li>\n<li><strong>PayPal自身的戰略調整。</strong> 公司近期積極推動AI技術與新業務拓展，或許認為獨立發展比被收購更有利。</li>\n</ul>\n\n<h2>對PayPal與支付市場的影響</h2>\n<p><strong>PayPal將繼續獨立發展，支付市場的競爭格局可能維持現狀。</strong> 這項收購案的破局，讓市場對PayPal的未來走向有了更多想像空間。公司原本可能透過併購獲得Stripe的技術與資源，如今則需自行尋找成長動能。</p>\n<ul>\n<li><strong>市場競爭格局未變。</strong> PayPal仍將面對Square、Apple Pay等競爭對手的挑戰，獨立發展意味著需持續投入創新以維持市場地位。</li>\n<li><strong>Stripe專注核心業務。</strong> 放棄收購後，Stripe可將資源集中於支付基礎設施與新市場拓展，強化其在全球支付領域的領導地位。</li>\n<li><strong>投資者情緒穩定。</strong> 收購案的破局避免了市場對PayPal被併購的猜測，股價與投資者信心可能因此獲得支撐。</li>\n</ul>\n\n<h2>編輯悄悄話</h2>\n<p><strong>這場收購案的破局，就像一場精彩的電影突然換了結局。</strong> 原本以為會看到支付市場的大洗牌，結果卻維持原狀。PayPal和Stripe各自繼續走自己的路，市場競爭依然激烈。或許，保持獨立發展才是這兩家公司最好的選擇。畢竟，感情的事強求不得，商業併購也是同樣的道理。</p>",
+    "image": "",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2246144/stripe-led-group-is-reportedly-abandoning-paypal-acquisition/",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "006",
+    "title": "OpenClaw 病毒式爆紅！GitHub 史上成長最快專案幕後推手揭密",
+    "summary": "OpenClaw 以驚人速度成為 GitHub 歷史上成長最快的專案，其維護團隊如何在六個月內應對安全與發展挑戰，重塑開源協作模式？",
+    "content": "<h2>從零到爆紅：OpenClaw 的六個月奇蹟</h2>\n<p><strong>GitHub 歷史上從未有過如此陡峭的成長曲線。</strong>OpenClaw 專案在短短半年內累積數萬個 star，成為開發者社群的現象級存在。維護團隊成員 Peter Steinberger 回憶初期狀況：「我們連自己都沒料到會這麼快爆紅，每天開啟 GitHub 都像在拆炸彈。」</p>\n<p>專案核心功能聚焦於 AI 輔助開發工具，但真正讓它脫穎而出的，是維護團隊建立的「透明化協作機制」。所有程式碼審查流程、安全漏洞通報、功能討論全部公開在 GitHub Discussions，這種做法顛覆了傳統開源專案的閉門作業模式。</p>\n\n<h2>維護者心聲：安全與協作的平衡術</h2>\n<p><strong>爆紅背後是嚴峻的安全挑戰。</strong>團隊在前三個月就處理了超過 200 個潛在資安漏洞，Peter 坦言：「我們學會了用自動化掃描搭配人工審查的雙重把關，但這過程幾乎耗盡所有維護者的休假時間。」</p>\n<ul>\n<li>建立「安全賞金計畫」吸引外部白帽駭客協助檢測</li>\n<li>每週固定舉辦公開技術會議，讓社群參與決策</li>\n<li>制定分級回應機制，區分緊急漏洞與一般建議</li>\n</ul>\n<p>這種開放式治理模式不僅沒有拖慢開發進度，反而吸引更多優秀開發者貢獻程式碼，形成正向循環。</p>\n\n<h2>編輯悄悄話</h2>\n<p>看來開源專案爆紅不只是運氣，背後是維護者們熬夜修 bug、應付社群需求的辛勞。下次看到 GitHub 上的熱門專案，別只點讚，記得感謝那些默默付出的幕後英雄！畢竟，<strong>每個爆紅專案背後，都有一群被 issue 淹沒的維護者</strong>。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/08/OpenClaw-1.png",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "007",
+    "title": "AWS科學家揭密：用Lean語言打造零錯誤AI代理",
+    "summary": "AWS資深科學家Leo de Moura展示如何用Lean語言驗證AI代理的數學正確性，顛覆傳統機率模型限制，推動AI系統向形式化驗證邁進。",
+    "content": "<h2>Lean語言：讓AI不再「猜」對錯</h2><p><strong>Lean不只是程式語言，更是數學證明助手</strong>，開發者能在同一系統中寫程式並驗證數學正確性。這就像給AI裝上「邏輯驗鈔機」，每次運算都能揪出隱藏的數學漏洞。</p><h2>從理論到實務：AWS如何重塑AI驗證流程</h2><p><strong>自動化推理與機率模型不再是對頭冤家</strong>，Leo de Moura分享實例證明兩者結合能同時兼顧效率與準確性。就像讓快車道和慢車道共享同一條公路，AI代理的決策過程從此有跡可查。</p><h2>編輯悄悄話</h2><p>以前寫程式像在玩密室逃脫，現在Lean直接給你地圖標記所有陷阱。下次看到AI犯錯，記得問問它有沒有裝「邏輯保險絲」——畢竟連AWS科學家都說，保持Lean才能保持清醒啊！</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "008",
+    "title": "Spring 生態系大更新！十個核心專案首發里程碑版本，修復近百漏洞",
+    "summary": "Spring 生態系迎來密集更新，十個核心專案同步推出首個里程碑版本，並修復近百個安全漏洞，為開發者帶來更穩定高效的開發體驗。",
+    "content": "<h2>Spring 家族齊發力，新功能讓開發更順手</h2>\n<p>這次 Spring 生態系一口气推出了十個核心專案的首個里程碑版本，從 Spring Boot 到 Spring Batch，每個專案都帶來了實用的更新。比如 Spring Boot 4.2.0-M1 支援了 AMQP 1.0 規格，讓 RabbitMQ 的整合更直覺；還改用 Eclipse JettyGracefulHandler 來處理優雅關閉，避免服務突然中斷。<strong>這些更新就像給開發者準備了一套更順手的工具，讓日常編碼更輕鬆。</strong>Spring Framework 7.1.0-M1 新增了 forParameter() 方法，讓型別解析更方便；Spring Data 2026.1.0 則引入了 RedisJsonTemplate，為 Redis JSON 操作提供初步支援。</p>\n\n<h2>近百 CVE 一網打盡，安全防護再升級</h2>\n<p>除了新功能，這次更新還重點修復了超過 90 個 CVE 漏洞，涵蓋多個 Spring 專案。安全問題從來不是小事，尤其是像 Spring Security 這樣的核心組件，任何漏洞都可能讓應用程式暴露在風險中。<strong>這次修復包括隱式檢測 CorsConfigurationSource 和 PreFlightRequestHandler 介面的一致性問題，以及 OneTimeTokenAuthenticationProvider 中缺失的預認證檢查。</strong>這些細節的改進，就像在應用程式的防線上加裝了更多鎖頭，讓駭客難以找到突破口。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這次 Spring 的密集更新，就像給你的開發工具箱來了一輪大掃除，舊的漏洞補上了，新的工具也到位了。對於每天跟 Java 打交道的開發者來說，這無疑是個好消息。畢竟，誰不想用更穩定、更安全的框架來寫程式呢？下次當你執行 mvn spring-boot:run 的時候，記得感謝一下這些默默修復漏洞的開發者。</p>",
+    "image": "https://res.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/en/headerimage/spring-news-roundup-image-1787845727439.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/news/2026/08/spring-news-roundup-aug17-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "009",
+    "title": "Vercel 推新招，Claude 研究機器人上線",
+    "summary": "Vercel 推出 Chat SDK 整合 Claude Managed Agents，重塑企業內部研究工具開發方式。開發者無需自建後端，即可快速部署跨平台 AI 機器人，大幅降低技術門檻。",
+    "content": "<h2>不用寫後端，機器人自己會跑</h2>\n<p><strong>這次 Vercel 把 Claude 的 agent loop 全部 server-side 處理掉，開發者終於不用自己架資料庫了。</strong>以前寫一個研究機器人，光是處理 session state、工具呼叫、沙盒網頁研究就夠頭疼了，現在這些 Claude Managed Agents 全包辦。你只需要專注在 front-end 跟使用者互動的部分，剩下的交給平台。</p>\n<p><strong>串流回應是 token-by-token 的，不是等整段生成完才顯示。</strong>這意味著使用者看到的文字會像打字機一樣一個字一個字蹦出來，體驗更接近真人對話。同時還有 live activity feed，工具呼叫跟模型請求的過程都能即時追蹤，開發者可以在聊天視窗裡直接展示整個思考軌跡。</p>\n\n<h2>換平台就像換衣服一樣簡單</h2>\n<p><strong>同一套 agent，改幾行 handler 就能搬到 Teams、Google Chat、Discord、WhatsApp 等 30 幾個平台。</strong>這設計理念很聰明，不用為每個平台重複開發一套邏輯。對於企業來說，這代表可以根據不同團隊的使用習慣，靈活部署研究機器人，而不必被單一通訊軟體綁死。</p>\n<p><strong>每個 Slack 對話線程都有獨立的持久 session，簡報還附來源出處。</strong>這解決了過去 AI 機器人常有的問題——每次重新開始對話，歷史記錄就丟了。現在每個 thread 都有自己的記憶，研究結果也能追溯來源，對需要查證資料的商業場景特別實用。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前寫機器人像蓋房子，現在像組裝 IKEA 家具。Vercel 這招把最麻煩的後端邏輯都打包好，開發者只要負責「裝飾」就好。對於想快速驗證想法的團隊，這絕對是省時省力的好選擇。不過也要提醒，依賴平台服務意味著要把部分控制權交出去，選擇前還是得評估一下資料敏感度跟長期成本。</p>",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5J9K0yMb2QBjhFEDYAIVU8/bc58a86473c508356dafb852ff04617c/Claude_-_ChatSDK.png",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/claude-managed-agents-with-chat-sdk",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "010",
+    "title": "APT24入侵台灣廣告供應鏈，新聞小說網站遭殃",
+    "summary": "中國駭客組織APT24持續入侵台灣數位行銷業者，透過廣告聯播對新聞與小說網站發動供應鏈攻擊，並針對特定使用者投放惡意程式BadAudio，同時政府網站轉寄功能也被濫用發送釣魚信，衝擊台灣網路安全防線。",
+    "content": "<h2>廣告聯播藏毒，網站流量變攻擊入口</h2>\n<p><strong>台灣廣告供應鏈再遭APT24滲透，知名新聞與小說網站淪為攻擊跳板。</strong>繼去年11月Google揭露中國駭客組織APT24入侵台灣數位行銷業者後，資安公司Gen Digital近日警告新一波攻勢已經出現。攻擊者利用廣告聯播系統，在太報（TaiSounds）與小說狂人（CZBooks）等網站上傳惡意程式碼，針對造訪網站的使用者蒐集瀏覽器指紋，並透過Beacon通訊回傳資料，最終對特定Windows用戶投放惡意酬載BadAudio。雖然該廣告業者已清除惡意程式碼，但後續影響仍值得持續觀察。</p>\n<p><strong>第三方廣告服務看似無害，實則可能成為攻擊者的最佳載體。</strong>這次事件凸顯供應鏈攻擊的隱蔽性，企業往往只關注自身系統安全，卻忽略了合作夥伴的防護能力。廣告聯播系統本質上是第三方程式碼嵌入，一旦遭入侵，所有採用該廣告服務的網站都會受到波及，形成連鎖效應。</p>\n<h2>政府網站轉寄功能被濫用，釣魚信披著gov.tw外衣</h2>\n<p><strong>資安院示警，政府網站轉寄好友功能遭攻擊者利用，發送披著官方網域外衣的釣魚信。</strong>資安院發布第56期《資安週報》指出，攻擊者利用機關網站的文章轉寄與分享功能，搭配.gov.tw網域信譽發送釣魚信。由於郵件直接由公務伺服器寄出，能輕易通過SPF、DKIM與DMARC等驗證機制，不僅影響民眾資訊安全，更損害政府公信力。資安院建議網站服務提供者限制使用者可輸入的內容、調整郵件呈現方式，若無業務需求應關閉或停用該功能。</p>\n<p><strong>委外開發功能時，必須將資安風險納入設計考量。</strong>政府網站的轉寄功能原本是為了便利民眾分享資訊，卻被有心人士利用官方網域信譽發送釣魚信。這提醒所有資訊或委外單位，在開發新功能時應全面評估潛在風險，特別是涉及郵件發送、網域信譽等環節，不能只顧功能便利而忽略安全防護。</p>\n<h2>編輯悄悄話</h2>\n<p>這次APT24的攻擊手法再次證明，資安防線最怕的就是「別人家的門沒鎖好」。廣告聯播系統和政府轉寄功能，本來都是提升體驗的便利工具，卻因為防護不足變成攻擊者的利器。企業與機關在追求數位便利的同時，別忘了第三方服務和既有功能都可能成為攻擊入口，唯有持續檢視、快速修補，才能真正守住自己的網路門戶。</p>",
+    "image": "https://www.ithome.com.tw/sites/default/files/field/image/zi_an_zhou_bao_20260828.jpg",
+    "source": "iThome",
+    "url": "https://www.ithome.com.tw/news/178489",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "011",
+    "title": "停产两年后重出，RTX 3060 12GB 价格暴涨逼近 RTX 5060",
+    "summary": "RTX 3060 12GB 停产两年后重新上市，价格从329美元飙涨至近500美元，涨幅高达45%，竟比2025年推出的 RTX 5050 还贵，彻底颠覆玩家对新品定价的认知。",
+    "content": "<h2>老卡重生，价格却比新卡还离谱</h2>\n<p><strong>RTX 3060 12GB 在2021年首发时定价329美元，两年后停产，如今重出江湖价格却飙到近500美元。</strong>这张显卡在2024年就已经正式停产，原本以为会慢慢淡出市场，没想到今年六月底 NVIDIA 为了缓解显卡荒，把新生产库存重新推上货架，定价跟五年前一模一样。当时玩家还调侃说「都这么老的卡还卖原价，真的是很敢」，结果没想到，<strong>首发价竟然成了最低价，两个月后价格直接暴涨45%</strong>，Newegg 上 MSI RTX 3060 Ventus 2X 12G OC 从329.99美元涨到479.99美元，Gigabyte WindForce OC 也站上459.99美元。</p>\n<h2>新卡比老卡便宜，这行情谁懂</h2>\n<p><strong>最尴尬的是，NVIDIA 自家新一代 RTX 5050 只要299.99美元，比五年前的 RTX 3060 12GB 还便宜180美元。</strong>RTX 5050 不仅效率更高，还支援 DLSS 多帧生成等最新功能，性能实测也明显快过 RTX 3060。台湾市场同样离谱，MSI RTX 3060 VENTUS 2X 12G OC 开卖时定价 NT$10,990，最低曾降到 NT$10,550，现在却飙到 NT$15,590，涨幅高达47.77%。相比之下，RTX 5050 同规格卡只要 NT$13,590，<strong>花更多钱买一张性能更弱、年份更老的卡，这账怎么算都不对劲。</strong></p>\n<p>欧洲市场走势也如出一辙，ASUS Dual RTX 3060 OC V2 从六月底的333.64欧元涨到379欧元，部分德国通路逼近400欧元，换算新台币约14,600元。二手市场也没放过这张卡，GPU Poet 今年二月的报告显示，RTX 3060 在 eBay 的平均挂牌价从2025年12月到2026年1月涨了12.4%。<strong>新卡涨、旧卡也涨，玩家只能默默流泪。</strong></p>\n<p>RTX 3060 12GB 唯一的优势就是12GB 显存，跑本地 AI 模型、影片剪辑或吃显存的遊戲时确实有它的价值，但<strong>以现在这个价位，真的很难推荐任何人入手。</strong></p>\n<h2>编辑悄悄话</h2>\n<p>这行情真的让人哭笑不得，一张停产两年的老卡，重生后价格比新一代产品还贵，NVIDIA 这波操作只能说「很敢」。玩家想省钱买张性价比高的卡，结果发现新卡反而更便宜，这市场逻辑已经让人看不懂了。下次再看到老卡重出江湖，记得先算算账，别被情怀冲昏头。</p>",
+    "image": "https://www.kocpc.com.tw/wp-content/uploads/2024/08/20240804131643_0_ee8699.jpg",
+    "source": "電腦王阿達",
+    "url": "https://www.kocpc.com.tw/archives/666796",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "012",
+    "title": "Sennheiser聯手Mercedes-AMG 打造電競耳機新標竿",
+    "summary": "Sennheiser與Mercedes-AMG跨界合作，以HD 620S為基礎推出電競耳機，顛覆傳統監聽耳機定位，將專業音質帶入競技場。",
+    "content": "<h2>當德國工藝遇上賽車速度</h2><p>提到Sennheiser，多數人腦中浮現的是發燒級音響設備，但這次他們決定把<strong>德國精密工藝直接搬進電競戰場</strong>。2026年Gamescon展場上，這副以HD 620S為藍本的特別版耳機，不僅在外殼印上Mercedes-AMG三芒星標誌，更用紅色縫線點綴出賽車等級的運動感。</p><h2>電競耳機的新標竿</h2><p>這副耳機最特別的地方在於<strong>可替換式麥克風線設計</strong>。原本HD 620S採用單邊2.5mm四極連接器，這次特別版直接升級為HD 500 BAM懸臂式麥克風線，讓玩家能隨時切換成專業電競配置。更貼心的是，原廠仍保留立體聲線，想當監聽耳機用也完全沒問題。</p><p>399歐元的定價在電競耳機市場算中上階層，但考慮到Mercedes-AMG的聯名加持與Sennheiser一貫的音質調校，這個價格倒也不算離譜。<strong>德國工程思維遇上賽車文化</strong>，這副耳機想顛覆的不只是音頻設備，更是玩家對電競周邊的想像。</p><h2>編輯悄悄話</h2><p>說實在的，現在耳機市場競爭這麼激烈，連德國音響大廠都要拉攏賽車品牌來加分。不過這副耳機確實把「專業」和「競技」兩個元素融合得挺巧妙，下次在遊戲裡聽到腳步聲時，或許還能感受到Mercedes-AMG的引擎聲浪呢！</p>",
+    "image": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/08/ee9e2a95-3539-4bd2-a181-f6c40186adf8.webp",
+    "source": "癮科技",
+    "url": "https://www.cool3c.com/article/251402",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "013",
+    "title": "澳洲逮捕TeamPCP黑客 全球千企遭勒索",
+    "summary": "澳洲警方逮捕兩名涉嫌TeamPCP組織成員，這個長期進行軟體供應鏈攻擊的黑客集團，透過惡意開源程式竊取企業資料，衝擊全球數千家企業資安，也揭露開源生態系潛在風險。",
+    "content": "<h2>開源軟體背後的黑手</h2>\n<p><strong>TeamPCP這個組織可不是普通黑客，他們專挑開發者最信任的開源工具下手。</strong>澳洲聯邦警察（AFP）最近宣布逮捕兩名來自西澳的21歲和23歲男子，指控他們是這個臭名昭彰的網路犯罪集團成員。這個集團被認為是史上持續時間最長的軟體供應鏈攻擊幕後黑手，他們在數百個開源軟體工具中植入惡意程式碼，然後向受害者勒索金錢。</p>\n<p><strong>他們最出名的武器叫Shai-Hulud，是一種自我傳播的蠕蟲病毒。</strong>這種病毒會透過被釣魚或竊取的GitHub、NPM等程式碼倉庫憑證，入侵開發者的環境，然後在開源程式中植入惡意程式碼。更可怕的是，這種攻擊會形成一個循環：黑客先取得一個開源工具的開發網路存取權，植入惡意程式碼，再透過這個工具竊取更多開發者的憑證，繼續擴大攻擊範圍。</p>\n<h2>從競賽到逮捕的線索</h2>\n<p><strong>TeamPCP甚至辦過競賽來招募人才，用1000元門羅幣當獎金，鼓勵參與者用他們的蠕蟲程式進行供應鏈攻擊。</strong>根據安全公司Dataminr的分析，這場競賽的真正目的是識別人才和大量取得惡意存取權限。他們還曾攻擊AI基礎設施，透過入侵開源AI閘道器LiteLLM，竊取超過2500家組織的雲端服務金鑰，其中包括許多世界頂尖科技大廠。</p>\n<p><strong>澳洲警方雖然沒有公開被告姓名，但KrebsOnSecurity在六月就得知21歲嫌疑犯的真實身份，並持續與他溝通。</strong>安全專家指出，TeamPCP更像是一個由多個網路犯罪集團組成的威脅行為者聯盟，而非單一操縱者的結構化犯罪組織。這次逮捕行動顯示，即使是最隱蔽的供應鏈攻擊集團，也難逃執法單位的追蹤。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>開源軟體本來是開發者的福音，現在卻成了黑客的溫床。</strong>這次澳洲逮捕TeamPCP成員的事件，提醒我們在使用開源工具時，也要多留一個心眼。畢竟，你下載的每個套件，都可能藏著你不知道的驚喜——只是這個驚喜通常不是好事。以後安裝套件前，不妨多看看社群評價和更新頻率，別讓黑客趁虛而入。</p>",
+    "image": "https://krebsonsecurity.com/wp-content/uploads/2026/07/teampcp-shai-hulud.png",
+    "source": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "014",
+    "title": "GTA 6 首支實機畫面曝光！Netflix 獨家影片免費看",
+    "summary": "Netflix 釋出 GTA 6 長達 26 分鐘的「Extended Look」影片，隨後登陸 YouTube 免費觀看。新畫面顛覆玩家對開放世界遊戲的想像，更揭露 Lucia 单手上霰彈槍的帥氣模樣。",
+    "content": "<h2>Netflix 放寬獨家限制，GTA 6 影片免費公開</h2><p><strong>Rockstar 這次沒藏私，Netflix 獨家影片六小時後就上架 YouTube。</strong>原本只有訂閱 Netflix 的玩家才能搶先看 GTA 6 的 26 分鐘實機畫面，但這次 Rockstar 和 Netflix 默契十足，讓影片在獨家首播後迅速開放免費觀看。對那些沒訂閱串流服務、又不想看盜錄重傳影片的玩家來說，這簡直是福音。</p><p><strong>影片內容比預期中更豐富，幾乎涵蓋半小時的全新畫面。</strong>從角色切換機制到各種活動類型，包括賽車、獨木舟和潛水，每個細節都經過精心設計。最讓人印象深刻的是 Lucia 单手架起霰彈槍的畫面，瞬間證明她是這對搭檔中比較酷的那一個。</p><h2>玩家社群反應熱烈，期待值持續攀升</h2><p><strong>自上次網路洩密事件以來，GTA 6 的實機畫面已經不是新聞。</strong>但這次 Netflix 的正式釋出讓玩家社群再次沸騰，大家紛紛在社群媒體上分享自己的觀察與感想。從任務設計到車輛陣容，每個細節都成為討論焦點。</p><p><strong>PC Gamer 團隊也趁勢推出完整攻略指南，涵蓋所有已知資訊。</strong>從遊戲版本到價格區間，從車輛陣容到武器配置，玩家現在可以一次掌握所有關於 GTA 6 的細節。這種全方位資訊整合，讓等待新作的過程變得更加充實。</p><h2>編輯悄悄話</h2><p><strong>這場遊戲界的盛事，讓玩家再次感受到 Rockstar 的用心。</strong>從 Netflix 獨家到 YouTube 免費，這種策略既照顧了訂閱用戶，也滿足了廣大玩家的需求。畢竟，能在大螢幕上體驗 Lucia 的帥氣模樣，誰會拒絕呢？這或許就是為什麼 GTA 系列能持續吸引數百萬玩家的原因。</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/QrmEa9S8KWhju6BepCxS3d-1392-80.jpg",
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/action/gta-6-netflix-extended-look-youtube/",
+    "date": "2026-08-28"
+  },
+  {
+    "id": "015",
+    "title": "本週末追劇清單出爐 八部新片網飛Apple TV齊發力",
+    "summary": "本週末八部新劇上線，顛覆你的追劇清單，從喜劇到科幻片應有盡有，串流平台競爭白熱化。",
+    "content": "<h2>喜劇科幻齊發力 本週末追劇不無聊</h2>\n<p><strong>FX的《Adults》第二季回歸，繼續講述皇后區二十幾歲室友們面對成人生活的故事。</strong>這部劇在Gen-Z觀眾中人氣超高，首季就因為一群朋友在童年故居同居的設定引起話題。劇中笑料來自他們初次面對成人世界的各種窘境，像是美國醫療體系、穩定職涯發展等，每週四播出。</p>\n<p>另一邊則是科幻片《Dark Matter》，根據Blake Crouch的小說改編，講述物理學家Jason Dessen被邪惡的自己傳送到平行現實的故事。第二季本週五首播，新集數每週五更新，繼續探索多元宇宙的秘密。</p>\n\n<h2>懸疑驚悚齊上陣 Netflix新片搶先看</h2>\n<p><strong>Netflix最新 binge 片《Mousetrap》是一部韓國驚悚片，講述隱居小說家身份被神秘人物The Rat盜走的故事。</strong>為了奪回人生，他與前放貸者和私家偵探合作，兩人意外捲入一場陰謀。全片本週五上線。</p>\n<p>紀錄片《Death of a Pastor's Wife》探討30歲Mica Miller在北卡羅來納州死亡的案件，揭露她相信自己被跟蹤，而丈夫John Paul Miller牧師是警方主要嫌疑人。《Revival》則講述小鎮居民突然復活的詭異事件，警察在處理兇殺案謎團的同時，也必須應對個人生活的挑戰。</p>\n\n<h2>編輯悄悄話</h2>\n<p>本週末追劇清單豐富，從喜劇到科幻片應有盡有，無論是喜歡輕鬆笑料還是緊張刺激的觀眾都能找到適合的節目。建議大家根據自己的喜好選擇，享受這個週末的追劇時光，別讓好劇等太久。</p>",
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/dark-matter-1.jpg?w=1600&h=900&fit=crop",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-apple-tv-august-28-30/",
+    "date": "2026-08-28"
+  }
+]
