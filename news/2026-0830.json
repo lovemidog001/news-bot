@@ -1,0 +1,192 @@
+[
+  {
+    "id": "001",
+    "title": "OpenAI終止Cursor合作 太空公司違約疑慮引爆AI圈震動",
+    "summary": "OpenAI宣布終止與Cursor的合作合約，因擔憂SpaceX可能違反服務條款，此舉將重塑開發者使用AI模型的生態，引發業界關注。",
+    "content": "<h2>OpenAI的艱難決定：為何要終止合作？</h2>\n<p><strong>OpenAI基於過往經驗，認為SpaceX可能無法遵守服務條款，因此決定提前終止合約。</strong>這項決定並非一時衝動，而是經過深思熟慮。OpenAI指出，Elon Musk旗下的公司過去曾多次違反合約，包括Twitter和xAI，這讓OpenAI對SpaceX能否遵守條款感到擔憂。為了保護開發者的權益，OpenAI選擇在2026年11月12日前終止合作，並提供最大通知期給Cursor的開發者。</p>\n\n<h2>開發者怎麼辦？OpenAI的後續支援方案</h2>\n<p><strong>OpenAI承諾將全力協助開發者過渡，確保他們能繼續使用AI模型。</strong>儘管合作即將結束，OpenAI仍表示對Cursor團隊和產品高度尊重，並願意提供額外支援。對於依賴OpenAI模型的開發者來說，這意味著他們將有更多時間適應變化，同時OpenAI也會確保未來模型Astra的使用符合服務條款。</p>\n\n<h2>編輯悄悄話</h2>\n<p>科技圈的合約就像愛情，信任一旦破產，再好的關係也得說掰掰。OpenAI這次選擇「長痛不如短痛」，雖然讓開發者有點措手不及，但或許能促使整個業界更重視合約精神。畢竟，AI再強，也得有人管得住才行啊！</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/6RFKP8tysuxOLxVaiCRlu/ac31b03c2aeb6e3da620f2db89c7b6e9/index-our-decision-on-cursor-following-its-acquisition-by-spacex.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "002",
+    "title": "Google 推出 Gemini Omni 1.1 Flash，AI 剪片進入專業級時代",
+    "summary": "Google DeepMind 推出 Gemini Omni 1.1 Flash，讓開發者能用 AI 精準控制影片生成，支援場景延伸、首尾幀插值與 4K 高畫質輸出，直接顛覆傳統影片製作流程。",
+    "content": "<h2>AI 剪片不再只是玩票，這次是動真格的</h2>\n<p><strong>Google DeepMind 這次把 Gemini Omni 1.1 Flash 定位為「生產就緒」的開發者工具，意思很明確：這不是玩具，是來搶專業市場。</strong>以往 AI 生成影片最大的痛點就是「控制感太差」——你給它一個提示詞，它愛怎麼剪就怎麼剪，導演完全無法介入。這次 Omni 1.1 直接解決這個問題，讓開發者能指定起始幀與結束幀，AI 自動生成中間過渡，等於把關鍵幀控制權還給創作者。</p>\n<p><strong>場景延伸功能更是這次最大的亮點。</strong>你可以把一段影片丟進去，讓 AI 從結尾繼續生成後續內容，每次最多延伸 10 秒，總長度可累積到 40 秒。更重要的是，模型現在能分析前 10 秒的上下文，比起之前只能參考最後 1 秒，畫面連貫性和敘事一致性大幅提升。這意味著你不再只能做短片段，而是能真正「編故事」。</p>\n<h2>4K 輸出與快速原型，一次滿足專業與效率</h2>\n<p><strong>高解析度 4K 輸出直接支援，讓 AI 生成影片終於能進入商業製作流程。</strong>過去 AI 影片多數停留在低解析度，拿出來根本無法商用。現在 Omni 1.1 能直接輸出清晰 4K 畫質，對於需要高品質素材的團隊來說，等於省掉一整個後製升級環節。</p>\n<p><strong>快速原型功能則讓開發者能用低解析度先測試構想，確認無誤再渲染高畫質版本，節省時間與運算成本。</strong>這套組合拳打下來，從構思、測試到成品輸出，整個流程都被重新定義。無論是搭建生成式影片工作流、開發創意工具，還是製作媒體編輯軟體，Omni 1.1 Flash 都提供了更可控、更快速、也更成熟的解決方案。目前可透過 Google AI Studio 與 Gemini Enterprise Agent Platform 直接存取。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>以前剪影片靠手，現在剪影片靠提示詞，這世界變化真的太快。</strong>Google 這次把 AI 影片工具從「好玩但不可控」推到「專業且可精確操控」，等於在告訴所有內容創作者：你的剪接軟體，可能很快就不只是軟體了。下次看到 AI 生成的影片，別再懷疑是不是真的，因為那可能真的是你朋友用提示詞剪出來的。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "003",
+    "title": "OpenAI 斷交 Cursor！SpaceX 收購後，Musk 合約紀錄成導火線",
+    "summary": "OpenAI 以 Musk 過往違約紀錄為由，終止與 AI 編碼工具 Cursor 的合作，**衝擊開發者生態**。Cursor 創辦人反擊稱 OpenAI 模型僅佔 5% 流量，Anthropic 趁機搶攻市場，AI 編碼工具格局面臨重塑。",
+    "content": "<h2>OpenAI 翻臉不認人，Musk 舊帳全算出來</h2>\n<p><strong>OpenAI 宣布 2026 年 11 月 12 日起終止與 Cursor 的合作協議</strong>，理由很直接——SpaceX 收購了 Cursor，而 Musk 過去多次違約的紀錄讓 OpenAI 無法放心。OpenAI 的 Thibault Sottiaux 公開表示，這純粹是信任問題，不是針對整個 AI 編碼工具領域。但明眼人都看得出來，這是一記打向 Musk 的耳光。</p>\n<p>回顧 Musk 的合約紀錄，確實不太好看。收購 Twitter 後，他砍斷了 OpenAI 每年 200 萬美元購買完整推文數據流的授權，理由是「價格太低」。更誇張的是，Musk 在法庭上承認用其他 AI 模型的數據來訓練自己的 Grok，這種「蒸餾」做法直接違反 OpenAI 的服務條款。</p>\n<p>OpenAI 還拿即將推出的 Astra 模型說事，聲稱該模型具備先進的網路能力，因此需要「更高層級的問責」。不過，一家多年來不斷警告 AI 風險的公司，現在才說之前的問責標準不夠，這說法多少有點尷尬。</p>\n\n<h2>Cursor 不慌，Anthropic 趁火打劫</h2>\n<p><strong>Cursor 創辦人 Michael Truell 反應很快，直接點出 OpenAI 模型只佔 Cursor AI 流量的 5%</strong>，意思很明確：你斷我的 OpenAI，我根本不在乎。他同時透露公司正與 OpenAI 團隊協商解決方案，並強調 Cursor 是 OpenAI 最早期的使用者之一，多年來一直信任對方的平台 neutrality。</p>\n<p>不過最精彩的還是 Anthropic 的動作。Anthropic 聯合創辦人 Tom Brown 直接在 X 上發文，說 Cursor 一直是他們信任的夥伴，從 Sonnet 3.5 開始就合作愉快，未來會繼續擴大 Claude 模型在 Cursor 的運算容量。這手牌打得漂亮，但仔細想想，Anthropic 自己也不是省油的燈——2025 年 6 月他們砍過 Windsurf 的 API 存取，因為傳出 OpenAI 想收購 Windsurf；同年 8 月又反過來撤掉 OpenAI 的 API 權限，理由是 OpenAI 未經授權用 Claude 做內部基準測試。這叫「只許州官放火」嗎？</p>\n<p>這場風波本質上是 Musk 與 OpenAI 多年恩怨的最新篇章，從法庭打到商業戰場，雙方都毫不留情。對開發者來說，這意味著 AI 編碼工具的生態系正在經歷一場大洗牌，誰能成為下一個受益者，值得持續觀察。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>商業世界的友誼小船說翻就翻，尤其是當 Musk 出現在畫面裡。</strong>OpenAI 這次拿合約說事，說得義正辭嚴，但 Anthropic 的歷史紀錄擺在那邊，誰也不是什麼好東西。對一般開發者而言，最實際的問題是：你的程式碼工具明天還能正常運作嗎？建議大家別把雞蛋放在同一個籃子裡，多備幾套方案，畢竟在 AI 圈，今天的夥伴可能就是明天的對手。</p>",
+    "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_background_dark.png",
+    "source": "The Decoder",
+    "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "004",
+    "title": "GeForce NOW 升級！DLSS 4.5 技術讓雲端遊戲更順暢",
+    "summary": "NVIDIA Gamescom 2026 宣布 GeForce NOW 重大升級，DLSS 4.5 技術讓玩家自訂畫質與流暢度，新增 Steam 裝置、GOG 整合與 Firefox 支援，重塑雲端遊戲體驗。",
+    "content": "<h2>DLSS 4.5 技術：雲端遊戲的畫質革命</h2>\n<p><strong>NVIDIA 這次在 Gamescom 2026 帶來 DLSS 4.5 技術，讓雲端遊戲玩家終於能自己調整畫質與流暢度。</strong>過去玩雲端遊戲總是被動接受設定，現在 Ultimate 會員可以根據自己的網路狀況和螢幕需求，自由切換 DLSS 超級解析度、動態幀生成或光線重建等功能。這意味著即使沒有頂級顯示卡，也能在雲端享受高畫質遊戲體驗。</p>\n\n<h2>裝置與平台大擴充：隨時隨地玩大作</h2>\n<p><strong>GeForce NOW 這次宣布支援更多裝置，包括 Steam Machine、Firefox 瀏覽器與 Amazon Fire TV。</strong>Steam 玩家終於能用熟悉的 Steam Controller 玩雲端遊戲，GOG 遊戲也實現單點登入，不用每次都重新輸入帳號。Firefox 使用者現在可以直接在瀏覽器玩遊戲，不用額外下載應用程式，讓遊戲觸手可及。</p>\n\n<h2>遊戲陣容與優惠：Gamescom 限定好康</h2>\n<p><strong>這次 Gamescom 帶來多款大作雲端版，包括 CONTROL Resonant、Gears of War: E-Day 等。</strong>購買一年 Ultimate 會員還能免費獲得 CONTROL Resonant，相當划算。GeForce NOW 也準備了超過 40 份贈品，包含遊戲硬體與會員資格，讓玩家有機會免費體驗雲端遊戲的便利。</p>\n\n<h2>編輯悄悄話</h2>\n<p>雲端遊戲這幾年一直在進步，這次 NVIDIA 的升級確實讓玩家更有選擇權。以前總是要買 expensive 硬體才能玩高畫質遊戲，現在只要網路夠快，什麼裝置都能玩。不過還是要提醒玩家，雲端遊戲還是需要穩定的網路環境，不然再好的技術也會卡卡的。你準備好嘗試雲端遊戲了嗎？</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-27-nv-blog-1280x680-logo.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "005",
+    "title": "Claude Desktop 迎 Ollama 整合，本地模型輕鬆上手",
+    "summary": "Claude Desktop 新增 Ollama 第三方閘道器支援，顛覆本地模型使用體驗。開發者可自由切換雲端與本地模型，同時保障資料隱私，重塑 AI 工具應用場景。",
+    "content": "<h2>一鍵切換，本地模型不再是難事</h2>\n<p><strong>過去想在本機跑開放模型，總要手動設定一堆參數，現在只要打開 Ollama 選取 Claude，系統自動完成閘道器配置。</strong>這項整合讓開發者能直接將 Ollama 雲端或本地的模型接入 Claude Desktop，無論是大型編碼任務還是研究分析，都能靈活調用不同模型資源。切換回原有設定也只需在 Ollama 中關閉功能，完全不用擔心設定衝突。</p>\n\n<h2>隱私與彈性兼顧，資料安全有保障</h2>\n<p><strong>Ollama 明確標示採用零資料保留政策，所有模型請求不會留存於伺服器，且遥測功能預設關閉。</strong>這意味著使用者在切換至本地模型時，無需擔心提示詞或敏感數據被第三方獲取。同時，Anthropic 官方模型仍可正常使用，兩種模式透過單一開關即可自由切換，滿足不同情境需求。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這波整合就像給 Claude Desktop 裝上「變形金剛」套件——要雲端算力時它是高效助手，要本地隱私時秒變安全堡壘。以後寫程式卡關，與其對著螢幕發呆，不如讓本地模型幫你腦力激盪，反正資料不會外流，放心大膽用就對了。</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/claude-desktop",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "006",
+    "title": "企業AI部署百個代理，複雜性才是真正噩夢",
+    "summary": "企業AI真正風險不在單一代理，而是百個代理互相呼叫形成的複雜網絡，顛覆了傳統治理模式，讓企業陷入無法掌控的治理黑洞，規模與責任感難以兼顧。",
+    "content": "<h2>代理群戰，複雜性比想像中恐怖</h2>\n<p><strong>企業部署的不是一個AI代理，而是整個代理軍團</strong>，這才是真正讓人睡不著覺的地方。想像一下，你公司裡有十個AI代理，每個都能呼叫API、呼叫其他代理，還深入那些根本沒為機器決策者設計的應用程式。複雜性不是隨著代理數量線性增長，而是指數爆炸——加第二個代理只多一條連線，加到第十個，可能多出幾十條路徑，因為任何代理都可能呼叫任何其他代理，每個呼叫又可能觸發另一個呼叫。</p>\n<p><strong>一個支援工單現在可能經過四個代理才到人類眼裡</strong>，每一次交接都是沒人批准的決策點。問資安團隊：哪個代理能存取哪個系統？沉默。問哪個代理在三個跳躍前觸發了哪個下游動作？更多沉默。這不是因為他們不知道，是因為根本沒人畫過這張圖。</p>\n\n<h2>治理基礎設施，還沒追上代理的腳步</h2>\n<p><strong>權限蔓延是最常見的隱患</strong>，有人為了省一個衝刺時間，給代理寬鬆的API權限，六個月後這個代理已經能存取付款系統，但沒人記得簽過這個授權，也沒人真的簽過。所有權也在鏈條延伸中稀釋，五個代理觸及一個工作流程，第四步出問題，你問誰負責？組織圖只畫到「部署代理」，從沒寫到「指定為它負責的人類」。</p>\n<p><strong>解決之道從身份開始</strong>，每個代理需要有自己的身份，不是借用部署者的影子權限，要有自己的名字、自己的範圍化權限、一個為它行為負責的人類贊助者。但這遠遠不夠，你還需要跨整條鏈的監督，不是只看單一節點，而是即時看到代理做了什麼、觸發了什麼下游動作、鏈條在哪裡結束。</p>\n<p><strong>監督只能告訴你已經發生什麼，強制執行才能阻止問題</strong>。能在呼叫執行前就攔下違規動作的系統，才是治理；只能事後記錄的儀表板，只是監控。企業需要兩者，但多數只建了第一個。</p>\n\n<h2>編輯悄悄話</h2>\n<p>企業AI就像開一家連鎖餐廳，開第一家店容易，開十家、一百家，後勤、品管、人員調度全亂套。AI代理也是同樣道理，單一代理再聰明都沒問題，一百個代理同時運作，複雜性會讓你懷疑人生。關鍵不在於要不要用，而在於你能不能掌控。別讓你的AI軍團變成無人能管的黑暗森林，那時候再想治理，可能已經太遲了。</p>",
+    "image": "",
+    "source": "VentureBeat AI",
+    "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "007",
+    "title": "索尼、華納聯手告AI新創 指控Claude訓練涉盜版",
+    "summary": "音樂出版商集體起訴Anthropic，指控其大規模非法盜版行為將顛覆AI產業訓練數據的取得方式，並可能重塑版權保護的界線。",
+    "content": "<h2>音樂出版商聯手告AI新創</h2><p><strong>索尼音樂與華納查佩爾等出版商集體提告，直指Anthropic進行大規模版權侵權。</strong>這起訴訟於上週五提交至美國加州北方地區法院，指控Anthropic及其共同創辦人Dario Amodei與Benjamin Mann，透過非法torrenting、爬蟲技術與下載方式，取得數以千計的版權作品來訓練Claude模型。出版商們強調，這並非單一案例，而是「大膽的盜版運動」，並要求法院介入制止。</p><h2>Claude訓練涉盜版爭議</h2><p><strong>這已非Anthropic首次面臨版權訴訟，但本次指控範圍更為廣泛。</strong>此前在Bartz案中，法院雖認定AI使用版權內容訓練屬合法，但明確指出「透過盜版取得內容」違法，並判賠15億美元。本次訴訟進一步指控Anthropic透過非法種子下載取得數百萬本書籍，包含歌詞與樂譜等敏感內容。Anthropic回應表示將全力抗辯，並強調對指控內容無法認同。</p><h2>編輯悄悄話</h2><p>AI訓練數據的來源爭議，就像在版權邊緣走鋼索。出版商這次聯手出擊，不僅是為保護自己的作品，更是想為整個AI產業立下新的界線。Claude能不能繼續「偷吃步」，這場官司將是關鍵試金石。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "008",
+    "title": "像素重現阿帕拉契步道，這款互動日記讓你宅家暢遊荒野",
+    "summary": "Moliski兄弟以像素藝術與遊戲介面，重塑徒步旅行的記錄方式，讓無法親上步道的民眾也能沉浸式體驗阿帕拉契長途健行的點滴。",
+    "content": "<h2>像素風的阿帕拉契，90年代遊戲魂回來了</h2>\n<p><strong>這款作品把阿帕拉契步道變成了一場視覺與聽覺的盛宴。</strong>創作者Andy Moliski攜手兩位兄弟Adam和Alex，打造出一個互動式步道日記，整體風格靈感來自90年代Sierra公司的點按冒險遊戲，以及經典的《Oregon Trail》。每一個步道段落都以精緻的像素藝術呈現，搭配Alex親自譜寫的配樂——自然環境音、木吉他、弦樂，甚至還有類似單簧管的音色交織其中，營造出彷彿置身山林的沉浸感。</p>\n\n<h2>點一點就能探索，遊戲機制讓徒步故事活起來</h2>\n<p><strong>操作方式簡單直覺，點擊每一天就能解鎖新的風景與故事。</strong>介面設計部分參考了《Oregon Trail》的遊戲邏輯，但這次沒有人會因為痢疾掛掉。點擊主角Andy的頭像，會展開選單顯示旅程細節、他的心理狀態，甚至穿插詩句。天氣變化、壯麗景色等元素都會影響他的毅力與士氣數值，讓整個徒步過程充滿遊戲化的趣味。讀者可以輕鬆沉浸其中數小時，彷彿親身走過那條漫長的小徑。</p>\n\n<h2>編輯悄悄話</h2>\n<p>說實話，看完這個作品我差點就想把登山背包翻出來。誰說一定要親上步道才能感受山野的魅力？這款互動日記用像素和音樂重新詮釋了徒步旅行的精神，讓被工作、家庭綁住的成年人也能在螢幕前來場心靈遠足。也許下次該考慮的不只是「去不去」，而是「用什麼方式去」。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-29-at-4.57.57-PM.png?quality=90&strip=all&crop=0.51847977684798%2C0%2C98.963040446304%2C100&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "009",
+    "title": "手機帳單瘦身術！MVNO讓你省出下午茶基金",
+    "summary": "MVNO以極低價格顛覆傳統電信市場，讓消費者用更少錢享受同等服務，挑戰大廠定價策略。",
+    "content": "<h2>什麼是MVNO？小字體的大智慧</h2><p><strong>MVNO（行動虛擬網路業者）就像電信市場的隱藏版好物</strong>，它們不自己蓋基地台，而是租用四大電信商的網路架構，把省下的建設成本直接轉嫁給消費者。台灣常見的山羊行動、台灣大哥大旗下的一些副牌，其實都是這種模式。你花三分之一的錢，卻能吃到跟大廠同樣的4G/5G頻寬，這招「借殼上市」的商業模式，正在悄悄重塑市場格局。</p><h2>如何挑選你的省錢神器？</h2><p><strong>選MVNO就像挑隱形戰袍，關鍵在「網路覆蓋」和「客戶服務」</strong>。建議先用手機測速APP確認常去區域的訊號強度，再比較月費方案是否含通話分鐘數。有些業者主打年輕人市場，提供無限社群軟體流量；有些則專攻銀髮族，搭配實體門市服務。記住：<strong>最便宜的方案未必最適合你</strong>，先算清楚自己每月實際用量，才能避免「省小錢花大錢」的窘境。</p><h2>編輯悄悄話</h2><p>省錢不是偷，是聰明消費。MVNO就像隱藏版好物，用對方法，手機帳單也能瘦身成功。下次看到電信廣告時，不妨先問問自己：「我真的需要那些花俏功能嗎？」</p>",
+    "image": "",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2246399/how-to-save-money-phone-bill-with-mvno/",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "010",
+    "title": "GitHub史上最快成長！OpenClaw爆紅背後的維護者故事",
+    "summary": "OpenClaw以驚人速度成為GitHub史上增長最快的專案，維護團隊在六個月內累積寶貴經驗，這些實戰心得將重塑開源專案的開發與安全實踐方式。",
+    "content": "<h2>爆紅速度創GitHub紀錄</h2>\n<p><strong>OpenClaw在短短六個月內就登上GitHub史上成長最快的專案寶座</strong>，這個數字背後代表的不只是技術實力，更是整個社群對這個專案的高度關注。維護團隊成員Peter Steinberger與多位核心貢獻者，在專案爆紅後面臨了前所未有的挑戰——如何在流量暴增的情況下，維持專案的穩定性與安全性。</p>\n<p>對於許多開源專案來說，突然爆紅往往意味著維護者要面對海量的問題回報、程式碼貢獻，以及潛在的安全漏洞。OpenClaw的團隊在這段期間學會了如何快速篩選有效資訊，同時不讓真正重要的問題被淹沒。</p>\n\n<h2>維護者的實戰教訓</h2>\n<p><strong>維護一個爆紅專案，就像在暴風雨中駕駛一艘大船</strong>，Peter Steinberger分享道。團隊在六個月的實戰中，逐漸建立起一套有效的流程，包括如何處理貢獻者的程式碼審查、如何優先處理安全問題，以及如何與快速擴張的使用者社群溝通。</p>\n<p>這些經驗不僅對OpenClaw有幫助，也為整個開源社群提供了寶貴的參考。維護者們發現，透明的溝通機制和明確的貢獻指南，是應對流量暴增的關鍵。同時，他們也強調了自動化測試和安全掃描在專案成長過程中的重要性。</p>\n\n<h2>編輯悄悄話</h2>\n<p>說真的，看著一個開源專案從默默無聞到爆紅，就像看著鄰居家的孩子突然考上第一志學一樣，既興奮又擔心。OpenClaw的維護者們用六個月的時間證明了一件事：爆紅不可怕，可怕的是沒有準備好如何應對爆紅帶來的挑戰。下次你的專案也突然爆紅時，記得先深呼吸，然後檢查一下你的安全機制夠不夠強。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/08/OpenClaw-1.png",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "011",
+    "title": "Lean語言重塑AI驗證，正確性不再靠猜",
+    "summary": "AWS科學家Leo de Moura揭示Lean語言如何顛覆AI驗證流程，自動化推理與機率模型互補，重塑AI開發的正確性標準。",
+    "content": "<h2>Lean語言：不只是程式碼，更是數學證明工具</h2>\n<p>Lean這套功能型程式語言，背後藏著一個超狂的設定——<strong>寫程式的同時就能驗證數學正確性</strong>。AWS資深科學家Leo de Moura分享，這就像給AI裝上「邏輯驗鈔機」，每次程式執行前都會自動檢查有沒有偷藏錯誤。過去AI開發者最怕遇到「機率模型猜對答案，但過程完全沒邏輯」的窘境，現在Lean直接把證明過程寫進程式裡，<strong>錯誤率從根源被掐斷</strong>。</p>\n\n<h2>AI與自動化推理的黃金組合</h2>\n<p>機率模型擅長處理模糊情境，但遇到關鍵決策時容易翻車。Lean的自動化推理系統就像給AI配了個「邏輯軍師」，<strong>用嚴謹推論補強機率猜測的盲點</strong>。Leo舉例，當AI要執行醫療診斷或金融決策時，Lean能即時驗證每一步推論是否符合醫學指南或法規，<strong>讓AI不再只是「猜得準」，而是「證明得對」</strong>。這種互補模式正在改變AI開發者的工作流，程式碼審查從人工檢查變成系統自動驗證。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前寫AI像賭博，現在有Lean當裁判，錯誤率直接砍半。下次你的AI又當機，記得先問問它「證明過嗎？」</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "012",
+    "title": "AI Agent吃數據如虎？TOTVS的數據革命，從交易系統到語義模型",
+    "summary": "TOTVS顛覆傳統數據架構，將企業級資料重塑為AI Agent可即時讀取的語義模型，在精確性、安全與成本間取得平衡，推動企業級AI應用邁向實用化。",
+    "content": "<h2>數據太多，卻沒人懂AI要什麼</h2>\n<p><strong>TOTVS擁有龐大企業數據，卻發現所有資料都未為AI Agent預留接口。</strong>Fabiane Nardon指出，公司四十年来累積的交易系統資料，原本只為應用程式設計；資料湖則服務分析師與報表。當AI Agent開始以不確定性推理、數分鐘內發出數百次查詢時，傳統架構根本跟不上。<strong>問題不在缺乏數據，而在數據從未為「吃token如虎」的推理循環做好準備。</strong></p>\n\n<h2>確定性與非確定性的界線怎麼劃？</h2>\n<p><strong>企業級AI必須在99.99%精確度的交易邏輯與機率性LLM之間找到平衡點。</strong>Nardon強調，過去四十年軟體建立在確定性計算模型上，現在則要與非確定性模型共存。<strong>成敗關鍵在於：哪些環節交給傳統確定性邏輯，哪些讓AI接手。</strong>這需要嚴格的治理、安全機制與token使用優化，而非單純堆砌模型能力。</p>\n\n<p><strong>數據網格、低延遲資料庫與語義本體成為三大支柱。</strong>TOTVS透過動態MCP工具選擇，精準控制上下文視窗大小，減少無謂的token開銷。<strong>語義層讓Agent理解資料關係，而非盲目掃描原始表單。</strong>這種架構不僅降低延遲，也確保敏感交易資料不會被不當暴露給非確定性推理過程。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前我們擔心電腦不夠快，現在擔心AI太能吃。TOTVS這套做法就像把整間倉庫的貨物重新分類、貼上標籤，還配上自動導引車——Agent進來不用滿地找資料，直接拿對的就好。企業上AI，數據準備功夫才是真正的大頭。</p>",
+    "image": "https://res.infoq.com/presentations/enterprise-data-architecture-ai-agents/en/card_header_image/fabiane-nardon-twitter-card-1787218382028.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "013",
+    "title": "Cloudflare推BotBase operator工具 機器人提交不再黑盒子",
+    "summary": "Cloudflare推出BotBase for Operators，讓機器人業者能追蹤提交狀態、查看審核結果並隨時更新資料，打破過去提交後無從得知進展的黑盒子困境，重塑雙向協作的機器人管理生態。",
+    "content": "<h2>機器人提交不再黑盒子</h2>\n<p><strong>過去提交機器人資料就像把信投進郵筒，完全不知道後續發生了什麼事。</strong>Cloudflare這次推出BotBase for Operators，就是要解決這個讓業者困擾已久的痛點。以往機器人業者在Dashboard裡提交資料後，只能乾等，沒有管道查詢審核進度，也不知道為什麼被拒絕，甚至想更新資料就只能重新填表再送一次，簡直是折磨。</p>\n<p>現在，提交表單的位置也搬到了更直覺的地方——Protect & Connect → Application Security → BotBase，讓業者一眼就能找到。這個調整不只是換個位置，而是明確傳達一個訊息：機器人業者也是這個生態系的重要成員，不是被邊緣化的旁觀者。</p>\n\n<h2>提交記錄全透明</h2>\n<p><strong>Submission history頁面讓每一次提交都有跡可查，審核結果不再是一筆糊塗帳。</strong>業者現在可以清楚看到每筆提交的狀態，包括已接受、已拒絕或已調整分類。如果遭到拒絕，系統會直接說明原因，不用再寄信問客服等回覆。Cloudflare也提到，過去業者需要透過電子郵件聯繫支援團隊才能查詢進度，這個空白現在正式被填補。</p>\n<p>此外，業者還能從Bots目錄頁面篩選「My bots」，快速查看所有以當前帳號提交的機器人清單。這種設計讓管理大量機器人的業者也能輕鬆掌握整體狀況，不用在海量資料中大海撈針。</p>\n\n<h2>資訊更新更彈性</h2>\n<p><strong>機器人資料隨時可能變動，現在業者可以直接編輯既有提交記錄，不用推倒重來。</strong>無論是IP清單的端點位置變更，還是從IP白名單轉向使用Web Bot Auth來簽署流量，業者都能即時更新資料，讓提交內容與實際運作保持一致。對於還在審核中的提交，業者也能直接取消，不用再擔心資料過時造成誤判。</p>\n<p>Cloudflare強調，準確的機器人資訊是取得並維持Verified狀態的關鍵，而這個驗證狀態正越來越影響網路上的網站是否願意放行該機器人的流量。當然，最終決定權仍在各網站所有者手中，但透明化的資訊管理無疑讓雙方溝通的成本大幅降低。</p>\n\n<h2>編輯悄悄話</h2>\n<p>機器人管理這件事，過去就像在跟一台不會說話的機器對話——你丟出資料，然後什麼回應都沒有。Cloudflare這次把門打開，讓業者能看到裡面發生了什麼事，等於把黑盒子變成了玻璃屋。對業者來說，這不只是功能升級，更是被正視的象徵。畢竟在這個機器人遍地的時代，能好好溝通，比什麼都重要。</p>",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M0GDDRNYEY2WV6QQ3VR05V7D.png",
+    "source": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/botbase-for-operators/",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "014",
+    "title": "騰訊 Hy4 Preview 登陸 AI Gateway，百萬 token 上下文挑戰編程極限",
+    "summary": "騰訊開源模型 Hy4 Preview 正式上架 Vercel AI Gateway，770B 參數、百萬 token 上下文，將重塑長程編程與科學推理的開發體驗，且完全無加價抽成。",
+    "content": "<h2>百萬 token 上下文，一次讀完一整本程式碼</h2>\n<p><strong>Hy4 Preview 是騰訊推出的開源 Mixture-of-Experts 模型，總參數高達 770B，每次 token 實際激活 49B，支援 100 萬 token 的上下文視窗。</strong>這個數字什麼概念？一般模型上下文通常在幾萬到十幾萬 token，Hy4 直接把門檻拉到百萬級距，意味著你可以把整個專案的程式碼、文件、甚至遊戲資源一次丟進去，讓模型完整理解你的架構，而不是只看到片段。對於需要長程推理的編程任務、文件分析、遊戲開發和科學研究來說，這絕對是一次重大推進。</p>\n\n<h2>一鍵串接主流編程代理，開發者直接上手</h2>\n<p><strong>透過 AI SDK 設定 model 為 tencent/hy4-preview，就能直接呼叫，搭配 coding-agents setup 指令，可串接 Claude Code、Codex、OpenCode、Cursor、Pi 等主流編程代理。</strong>對開發者而言，這代表不需要額外架設複雜的中介層，就能在熟悉的開發環境中直接使用這個強大模型。Vercel 也提供了模型遊樂場，讓開發者可以先免費試用，確認效果後再正式上線。這種低門檻的整合方式，讓新模型的採用速度大幅加快。</p>\n\n<h2>零抽成、零資料留存，企業級控管一次到位</h2>\n<p><strong>AI Gateway 採用供應商原價計費，不加成、不收取推理平台費，並支援 BYOK 自帶金鑰模式，同時內建自訂報表、API 金鑰預算控管和路由規則。</strong>對企業來說，這解決了過去使用多個模型供應商時，成本難以追蹤、資料隱私難以保障的痛點。加上重試、故障轉移和效能最佳化功能，整體可用率甚至超越單一供應商的水準，讓 AI 應用的穩定性有了更高保障。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前寫程式遇到大專案，模型讀不完就等於瞎子摸象；現在 Hy4 直接把百萬 token 上下文端上桌，等於讓 AI 一次看完你的整間公司。加上 Vercel 不抽成、不存資料，開發者與企業都能安心用。這波整合，算是把開源模型和商業部署之間的牆，又拆掉了一塊。</p>",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/iajKgHHs29vQXYUZMuMOy/061c4066e956c6ecb840b3a697cd97d2/image__100_.png",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/hy4-preview-now-available-on-ai-gateway",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "015",
+    "title": "油花四濺的廚房噩夢？宜得利這招讓煎炸變身輕鬆事",
+    "summary": "宜得利防油噴網顛覆傳統煎炸體驗，阻擋油濺同時保持可視性，讓廚房清潔不再頭疼，重塑日常料理的安心節奏。",
+    "content": "<h2>油濺痛點：廚房裡的隱形戰爭</h2>\n<p><strong>煎肉炸物時，熱油四濺幾乎是每個人的共同記憶。</strong>高溫與油脂相遇的瞬间，不僅容易燙傷，更讓流理台、牆面沾滿油漬，事後清理更是讓人卻步。這款防油噴網正是為解決此痛點而生，採用細緻網狀設計，在阻擋油濺的同時保留可視性，讓你清楚觀察食材上色與熟度，無需頻繁掀蓋確認。</p>\n\n<h2>設計巧思：細節提升料理流暢度</h2>\n<p><strong>附帶腳架設計讓使用後可直接放置桌面，避免沾油面弄髒檯面。</strong>30公分尺寸適合多數家庭常用的平底鍋或炒鍋，無論是日常煎蛋、煎魚，還是高溫料理肉類，都能輕鬆搭配。這個小工具不再只是特定情境的備用品，而是融入每天料理節奏的實用夥伴。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>廚房裡的幸福，往往藏在這些小細節中。</strong>當油濺的緊張感消失，清理壓力減輕，下廚自然回到原本應有的放鬆節奏。對於注重生活品質的人而言，這類看似簡單的工具，正是提升日常滿意度的關鍵所在。</p>",
+    "image": "https://bucket-image.inkmaginecms.com/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/08/61120f01-853d-4340-9092-0b048398c72f.jpg",
+    "source": "癮科技",
+    "url": "https://www.cool3c.com/article/251381",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "016",
+    "title": "星際大戰零號連隊隱藏設定曝光，XCOM老玩家終於能安心上手",
+    "summary": "Star Wars Zero Company 的環形選單讓玩家頻繁切換視角，遊戲內建選項直接支援線性選單，顛覆操作體驗，讓這款星戰戰術遊戲更貼近經典 XCOM 的玩法。",
+    "content": "<h2>環形選單的痛，玩過就懂</h2>\n<p><strong>Star Wars Zero Company 被玩家暱稱為 ZCOM，因為它跟 XCOM 實在太像了。</strong>不過，遊戲預設的環形選單（radial menu）讓不少玩家感到困擾。這個為控制器設計的系統，會把所有技能以圓環形式環繞在角色周圍，看起來很有中世紀鑰匙圈的感覺，但實際操作上卻有點麻煩。當你鎖定敵人、準備攻擊時，還得把視角拉回角色身上，才能從環形選單裡挑出要用的技能，來回切換的動作讓人有點崩潰。</p>\n\n<h2>一個設定，瞬間回到經典手感</h2>\n<p><strong>遊戲其實早就藏了一個選項，讓玩家切換成傳統的線性選單。</strong>只要進入遊戲設定，找到「遊戲玩法」區塊，往下捲動到「技能選擇方式」，就能把預設的環形選單改成線性模式。切換之後，移動、射擊、警戒等所有指令都會出現在畫面底部的數字方格列中，操作邏輯完全回歸經典 XCOM 的風格，讓玩家在瞄準角度、規劃戰術時不再被選單干擾。如果你還在猶豫，遊戲也提供混合模式，讓你兩個都要。</p>\n<p><strong>作者表示，用滑鼠鍵盤遊玩時，線性選單的順手程度明顯勝過環形選單。</strong>雖然他還在遊戲初期，但這個調整已經讓整體體驗提升不少。加上遊戲裡還能跟 gonk 機器人互動，這款星戰戰術遊戲的完成度似乎已經達到九成水準。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>有時候好遊戲就差那麼一個設定，讓不同習慣的玩家都能找到舒服的玩法。</strong>Star Wars Zero Company 願意在遊戲裡藏一個讓 XCOM 老玩家會心一笑的選項，說明了開發團隊確實聽得進玩家的心聲。下次當你卡在環形選單的切換痛點時，記得去設定裡找找看，那個隱藏的線性模式，可能就是你從新手變戰術大師的關鍵一步。</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/yxRkVfvs6ZvLHLXENChd3m-1920-80.jpg",
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/games/strategy/psa-swap-the-radial-ability-menu-in-star-wars-zero-company-for-more-of-a-trad-xcom-style-experience/",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "017",
+    "title": "水晶蟹襲擊公墓！《Usual June》打造最對味的萬聖節動作冒險",
+    "summary": "《Usual June》以經典動作冒險為基底，融合《Hades》式流暢戰鬥與《王國之心》般的打擊感，10月底萬聖節檔期強勢登場，重塑秋季遊戲選擇。",
+    "content": "<h2>大學畢業生的迷茫，從公墓水晶蟹開始</h2>\n<p><strong>主角 June 是個對人生毫無方向的大學生，暑假原本平靜無奇，卻被一群水晶螃蟹襲擊公墓的怪事徹底打破。</strong>更詭異的是，鬼魂開始頻繁出現，而 June 的其中一位朋友——本身就是一個鬼魂。於是，這群各懷鬼胎的夥伴被迫攜手調查，揭開背後隱藏的真相。這款遊戲由曾為 Rock Paper Shotgun 撰寫文章的 Cara Ellison 參與編劇，故事基調走的是《Over the Garden Wall》那種表面溫馨、底下暗藏玄機的風格，非常適合秋天這個季節。</p>\n\n<h2>無格擋、無跳躍，靠閃避與反擊打出連段快感</h2>\n<p><strong>戰鬥系統捨棄了傳統格擋機制，完全依賴走位、閃避與精準反擊來應對敵人。</strong>玩家手持一把可以變形的扳手，透過串聯連段來擊退水晶蟹與各種鬼魂敵人。整體節奏帶有《王國之心》般的俐落打擊感，同時融入《Hades》式的流暢移動設計，讓每場戰鬥都充滿張力。不過，遊戲完全沒有平台跳躍元素，這種缺失對習慣了跳躍操作的玩家來說，確實會像背後癢卻抓不到一樣，偶爾打斷遊戲的流暢感。開發團隊預計在正式發售前進一步微調，讓體驗更加順暢。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>這款遊戲就像秋天裡的一杯熱可可，表面溫暖療癒，喝下去卻發現裡面藏著一點苦味。</strong>10月28日這個發售檔期選得相當精明，萬聖節氛圍直接拉滿，水晶蟹、鬼魂、公墓，元素齊全到讓人懷疑開發團隊是不是專門為這個季節量身打造。如果你也厭倦了無限重玩的 Roguelike 和卡牌遊戲，想找回動作冒險最純粹的樂趣，《Usual June》值得加入你的願望清單，畢竟秋天不玩點嚇人的東西，還等什麼時候？</p>",
+    "image": "https://assetsio.gnwcdn.com/usual-june.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/usual-june-mixes-hades-esque-action-crystal-crabs-and-ghosts-to-make-for-a-game-thatll-do-well-in-your-halloween-rotation",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "018",
+    "title": "《來自深淵》官網暗藏隱藏訊息 網友挖出原始碼發現7層驚悚留言",
+    "summary": "竹書房為《來自深淵》推出互動式特設網站，網頁下滑後觸發「上升負荷」扭曲特效，網友從原始碼中解碼出各層隱藏訊息，重塑粉絲與作品的互動體驗。",
+    "content": "<h2>網頁下滑就「中毒」？《來自深淵》官網實裝深界力場</h2>\n<p><strong>竹書房這次把漫畫裡的深淵力場，直接搬進網頁設計裡了。</strong>《來自深淵》官方推出特設網站「DIVE INTO THE ABYSS」，只要使用者往下捲動到一定深度再往上滑，畫面就會出現扭曲特效，文字變成難以辨識的扎爾戈文字（Zalgo Text），同時出現關於該層數負面影響的註記。下降層數越深，文字就越難讀，完全呼應原作中探窟家承受「上升負荷」的設定。</p>\n<p><strong>這個設計不只是視覺噱頭，而是真正把作品核心機制轉化成網頁互動體驗。</strong>原作中，探窟家從深淵向上返回超過十公尺後，會受到深淵力場影響產生副作用，輕則暈眩嘔吐、流血不止，重則直接喪命。網站把這種「越深越危險」的恐懼感，用文字扭曲的方式呈現，讓讀者親手體驗一次探窟家的絕望。</p>\n\n<h2>原始碼藏秘密 網友解碼發現各層探窟家意識留言</h2>\n<p><strong>有眼尖的網友直接從 HTML 原始碼中提取原文，解碼後發現每一層都藏著一段隱藏訊息。</strong>這些訊息被解讀為承受上升負荷的探窟家意識，隨著層數加深，留言內容也越來越詭異。尤其第七層的訊息「私はアビスだ」（我是深淵）讓不少粉絲背脊發涼，彷彿深淵本身正在透過文字與讀者對話。</p>\n<p><strong>原作者土筆章也在社群上親自留言讚嘆，更透露是探窟家組合的吐槽讓網站資訊得以更新。</strong>他在推文中寫道：「網站更新了探窟家一行人的新進度。沒想到竹書房真的『實裝』這個功能了……」這句話不僅呼應遊戲術語，也顯示官方與粉絲之間的互動已經深入到作品世界的核心設定裡。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>看完這個網站，我終於明白為什麼《來自深淵》的粉絲這麼狂熱了。</strong>一家出版社願意把漫畫裡的虛構力場，用網頁技術實作出來，還藏了七層解謎內容等你挖，這種用心程度已經不是行銷，而是真正把作品世界觀當成一個可以探索的空間。下次如果你看到某個官網設計特別用心的時候，記得往下捲捲看，說不定深淵也在看著你。</p>",
+    "image": "https://img.4gamers.com.tw/news-image/d9d59846-7100-4456-9852-788295e4cb8c.jpg",
+    "source": "4Gamers",
+    "url": "https://www.4gamers.com.tw/news/detail/81730/made-in-abyss-promotional-site-ascending-burden-seventh-layer-hidden-message",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "019",
+    "title": "MVK爆冷出局LCP決賽！SofM預警CFO苦戰TSW在即",
+    "summary": "MVK雖已鎖定世界大賽門票，卻在敗部決賽遭CFO擊退，無緣晉級冠軍戰。SofM點出決策慢半拍是敗因，更預警CFO明日對上TSW將是硬仗。",
+    "content": "<h2>MVK爆冷出局，SofM自曝決策慢半拍</h2>\n<p><strong>MVK雖然提前拿到世界大賽門票，但今天這場敗部決賽還是栽了。</strong>面對CFO，MVK以1比3吞下敗仗，無緣晉級明天的LCP冠軍戰。SofM賽後坦承，他們其實看破對手的Ban/Pick意圖，但真正打起來的時候，隊伍的決策速度明顯慢了一拍。CFO的營運節奏嚴謹又流暢，MVK在防守端沒有做好應對，最終只能目送對手前進。</p>\n<p><strong>這场比赛最關鍵的，不是技術差距，而是臨場反應的落差。</strong>SofM提到，MVK在比賽中多次出現猶豫不決的情況，讓CFO有機可乘。這種細節上的差距，往往就是冠軍與亞軍之間的界線。</p>\n<h2>SofM預警：CFO對上TSW將是一場苦戰</h2>\n<p><strong>SofM並不認為CFO明天會輕鬆過關。</strong>他直言，TSW在敗部組的表現相當強勢，隊伍狀態正熱。CFO雖然今天贏了，但連續高强度對戰下來，體力和精神消耗都不小。SofM認為，明天的冠軍戰將是真正的硬仗，兩隊都有機會翻盤。</p>\n<p><strong>LCP的競爭強度，從來不是紙上談兵那麼簡單。</strong>從小組賽到敗部決賽，每一場都是實打實的消耗戰。CFO能不能在明天保持狀態，將是決定冠軍歸屬的關鍵。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>英雄聯盟的比賽，從來不是拿到門票就万事大吉。</strong>MVK這次雖然提前鎖定世界大賽席位，但LCP內戰還是教他們上了一課。SofM眼光挺準，CFO明天對TSW絕對不會輕鬆，這屆LCP的冠軍戰，恐怕比想像中更刺激。</p>",
+    "image": "https://p2.bahamut.com.tw/B/2KU/61/92f6db5bbd9ed2fa53840871f7202kh5.JPG",
+    "source": "巴哈姆特 GNN",
+    "url": "https://gnn.gamer.com.tw/detail.php?sn=310701",
+    "date": "2026-08-30"
+  }
+]
