@@ -178,5 +178,145 @@
     "source": "巴哈姆特 GNN",
     "url": "https://gnn.gamer.com.tw/detail.php?sn=310791",
     "date": "2026-09-01"
+  },
+  {
+    "id": "019",
+    "title": "OpenAI挺加州青少年AI保護法，ChatGPT青少年版強制上線防護罩",
+    "summary": "OpenAI公開支持加州SB 1119法案，推動青少年AI防護標準，重塑科技巨頭與政府合作模式，為全球青少年數位安全樹立新標竿。",
+    "content": "<h2>青少年與AI的相遇，不是兒戲</h2>\n<p><strong>近九成的青少年使用ChatGPT是為了學習，這背後藏著巨大的機會與風險。</strong>OpenAI全球政策副總裁Ann O'Leary公開表態支持加州SB 1119法案，這份立場並非臨時起意，而是延續創辦人Sam Altman去年提出的青少年AI使用原則。加州在聯邦政府尚未行動的情況下，正試圖成為全球青少年AI安全的標竿州。</p>\n<p>法案的核心精神很明確：青少年使用AI時，應該有符合其發展階段的防護機制，同時保留他們學習、創作與探索的機會。這不是要封殺科技，而是要讓科技更負責任。</p>\n\n<h2>防護罩不是選項，是基本配備</h2>\n<p><strong>OpenAI的ChatGPT for Teens已經上線，針對13至17歲用戶自動啟用防護機制，且這些保護是強制性的，用戶無法自行關閉。</strong>當系統判斷使用者年齡在13到17歲之間，就會自動進入青少年專屬模式。這個設計背後的理念很簡單：安全防護不應該是可選配備，而應該是基本門檻。</p>\n<p>青少年版內建了測驗、學習視覺化、讀書模式等功能，這些功能都是與教育專家共同開發，目的是引導學生一步步理解問題。更特別的是記憶功能，它能延續之前的對話脈絡，讓青少年在長期學習計畫中不必每次都從頭開始，同時也能幫助系統識別潛在風險模式，提供更適切的協助。</p>\n<p>SB 1119也明確區分了AI與社群媒體的差異，法案設計者特別保留了教育與安全關鍵功能，確保青少年不會因為防護而失去學習工具。</p>\n\n<h2>科技巨頭與政府的合作新範式</h2>\n<p><strong>OpenAI在信中讚揚加州州長Newsom與參議員Padilla、眾議員Wicks和Bauer-Kahan的領導，並鼓勵簽署法案成為法律。</strong>這顯示科技巨頭開始主動與政府合作，共同制定青少年AI使用的規範。過去一年，OpenAI陸續推出了家長控制、年齡預測、青少年安全藍圖以及Under-18原則，這些都已經納入模型規範中，成為AI與青少年互動的新標準。</p>\n<p>這種公私協力的模式，或許會是未來科技治理的重要方向。當技術發展速度遠超法規制定速度時，企業主動配合政府立法，反而能為整個產業建立更穩固的信任基礎。</p>\n\n<h2>編輯悄悄話</h2>\n<p>說實在的，這波法案讓我看見科技巨頭終於願意把防護罩當成基本配備，而不是賣完產品再說。青少年用AI學東西已經是常態，與其讓他們在沒有保護的情況下亂闖，不如把安全機制直接寫進產品裡。這不只是加州的事，未來其他州甚至其他國家，很可能都會跟進。科技發展再快，也不能忘了保護最脆弱的族群，這才是負責任的創新。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/1TiOpLKAHwIkAjjCEWO0TQ/543dc5595a6ca55a5e5801281b38f264/california-youth-ai-safety-seo-figma-v6.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "020",
+    "title": "NVIDIA Gamescom 2026 大動作：GeForce NOW 推 DLSS 4.5，雲端遊戲體驗全面升級",
+    "summary": "NVIDIA 在 Gamescom 2026 宣布 GeForce NOW 多項重大更新，DLSS 4.5 技術讓玩家能自由調整畫面與效能，Firefox 瀏覽器與 GOG 單點登入同步上線，重塑雲端遊戲的存取方式與體驗。",
+    "content": "<h2>DLSS 4.5 技術上雲，畫面與效能隨你調</h2>\n<p><strong>NVIDIA 這次把 DLSS 4.5 技術直接搬上雲端，Ultimate 會員終於能自己決定遊戲要畫質還是流暢度。</strong>過去雲端遊戲最大的痛點就是畫面壓縮嚴重，現在透過 DLSS Super Resolution 提升解析度、Dynamic Frame Generation 降低延遲與卡頓，再加上 Ray Reconstruction 強化光線追蹤效果，玩家不用花大錢買新顯卡，也能在雲端享受高畫質遊戲體驗。這項技術讓雲端遊戲不再只是「能玩」，而是真正能「玩得好」。</p>\n\n<h2>瀏覽器、串流裝置全面支援，遊戲觸手可及</h2>\n<p><strong>GeForce NOW 這次把支援範圍擴大到 Firefox 瀏覽器與 Amazon Fire TV 設備，讓玩家在任何裝置上都能隨時開玩。</strong>Firefox 使用者終於不用再為了玩遊戲專門下載專屬應用程式，直接打開瀏覽器就能進入遊戲世界，而且 Ultimate 會員還能享受 1440p 120 幀的高畫質串流。同時，GOG 單點登入功能上線後，玩家只要綁定一次帳號，就能自動同步遊戲庫，不用每次都重新登入，整個流程變得更加順暢。加上即將支援的 Steam Machine 與 Steam Controller，Steam 老玩家也能用熟悉的硬體輕鬆上手雲端遊戲。</p>\n\n<h2>五款大作同步上雲，遊戲庫持續擴充</h2>\n<p><strong>Gamescom 期間，GeForce NOW 宣布 CONTROL Resonant、Gears of War: E-Day、Onimusha: Way of the Sword、The Blood of Dawnwalker 與 STAR WARS Zero Company 五款遊戲將同步登陸雲端。</strong>其中 CONTROL Resonant 還可在購買一年 Ultimate 會員期間免費獲得。此外，本週還有 13 款遊戲加入 GeForce NOW 遊戲庫，玩家可隨時在 GFN Thursdays 關注最新上架動態。為了慶祝 Gamescom，GeForce NOW 也推出超過 40 份獎品抽獎活動，包含遊戲硬體與 Ultimate 會員資格，讓玩家有更多機會體驗雲端遊戲的魅力。</p>\n\n<h2>編輯悄悄話</h2>\n<p>雲端遊戲這幾年一直在追趕本地遊玩的體驗，這次 NVIDIA 直接把 DLSS 4.5 搬上雲端，等於告訴玩家：你不需要花大錢買新顯卡，也能享受高畫質遊戲。再加上 Firefox 和 GOG 的支援，整個存取流程越來越順，雲端遊戲正在從「備選方案」變成「主流選擇」。這波更新，值得關注。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/gfn-thursday-8-27-nv-blog-1280x680-logo.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "021",
+    "title": "Microsoft 365 故障進入第二天，上班族郵件癱瘓苦等修復",
+    "summary": "Microsoft 365 與 Outlook 服務故障持續，企業用戶工作深受衝擊。公司狀態頁面顯示情況正逐步改善，但全面恢復仍需時間，凸顯雲端依賴風險。",
+    "content": "<h2>上班族最痛：郵件發不出、雲端檔案存取困難</h2>\n<p><strong>Microsoft 365 服務故障進入第二天，企業用戶的日常工作節奏全被打亂。</strong>從 Outlook 郵件延遲送達，到 OneDrive 檔案無法同步，這場持續的異常讓不少公司行號陷入癱瘓狀態。根據微軟官方狀態頁面顯示，雖然部分服務已開始恢復，但整體穩定性仍待觀察。許多上班族無奈表示，平時覺得雲端工具方便，真正當機時才發現離不開。</p>\n\n<h2>技術面分析：雲端服務一旦當機，連鎖效應驚人</h2>\n<p><strong>現代企業高度依賴雲端協作工具，一旦 Microsoft 365 出現問題，影響層面遠超想像。</strong>從電子郵件溝通到即時協作編輯文件，再到線上會議系統，整個工作鏈條都可能中斷。這次故障持續超過24小時，凸顯了單一雲端供應商集中風險的隱憂。專家建議企業應建立多雲策略，避免過度依賴單一平台。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這場故障再次提醒我們，把雞蛋放在同一個籃子裡有多危險。<strong>建議企業準備備用通訊方案，比如備用郵件系統或離線協作工具，才能在雲端服務當機時不至於完全癱瘓。</strong>畢竟，技術再先進，也敵不過偶爾的系統抽風。與其事後補救，不如事前做好準備，讓工作不因技術問題而停擺。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1185699748-e1697104507888.jpg?resize=1200,676",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "022",
+    "title": "Shelly 推出 49 美元攝影機 免訂閱費監控居家",
+    "summary": "Shelly 推出首款安全攝影機，售價僅 49.99 美元，顛覆傳統監控設備需訂閱的慣例。免訂閱即可直播與本地儲存，重塑居家安防市場格局。",
+    "content": "<h2>免訂閱費的居家監控新選擇</h2>\n<p><strong>Shelly 這次不玩訂閱制，直接讓消費者省下一筆長期費用。</strong>這款售價 49.99 美元的攝影機，主打「無需額外付費」就能完整使用核心功能。用戶可透過 Wi-Fi 即時串流畫面至手機，或將事件錄影儲存至 microSD 卡。若選擇訂閱方案，則能解鎖雲端儲存與 AI 物體辨識（區分人、寵物、車輛），讓警報與自動化情境更精準。</p>\n<p><strong>安裝時需注意電源線佈線問題。</strong>與同價位競爭對手 Wyze 的 2K 攝影機相比，Shelly Camera 僅支援 1080P 解析度，但擁有 110 度廣角視野與夜視功能。不過，這款攝影機內建電池，需額外連接 USB-C 線供電，安裝位置需靠近電源插座。</p>\n\n<h2>1080P 畫質 vs. 2K 競爭，安裝要注意什麼</h2>\n<p><strong>廣角視野彌補解析度差距，適合多數家庭場景。</strong>110 度水平與 70 度垂直的視角，能覆蓋客廳或玄關大部分區域。夜視功能在低光源環境下仍清晰，但畫質上限不如 2K 機種。對於重視隱私、不想雲端資料外流的用戶，本地儲存方案已足夠實用。</p>\n<p><strong>訂閱制非強制，但進階功能仍具吸引力。</strong>若家中已有 Shelly 智慧家電（如感測器、開關），可透過自動化設定觸發聯動，例如偵測移動時自動開啟戶外燈。訂閱方案則提供物體分類，避免寵物誤觸警報，適合有養寵家庭。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這款攝影機就像買機車不強制綁約加油卡，基本功能已夠用，但升級版能讓你少煩惱。不過安裝時記得預留電源線長度，別像上次我裝智慧插座，結果線不夠長只能「懸空掛著」，畫面太殘酷不敢看。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/shellycamera1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/987436/shelly-smart-home-hd-security-camera-automation",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "023",
+    "title": "NASA火星計畫大轉向：不再派火星車，改派直升機群",
+    "summary": "NASA近30年來首次沒有明確的火星著陸器或火星車計畫，轉而押注無人直升機。SkyFall任務將派出三架直升機隨核電推進載具抵達火星，顛覆傳統探索模式，開創火星空拍新紀元。",
+    "content": "<h2>火星探索換玩法，直升機上場</h2>\n<p><strong>NASA這次不玩傳統的火星車了，改派三架直升機去火星探路。</strong>過去三十多年來，人類探索火星的主力一直是著陸器和火星車，但如今這個格局正在被打破。SkyFall任務預計在2028年底發射，三架直升機將搭乘NASA的Space Reactor-1「自由號」任務一起前往紅色星球。這趟任務的主要目標是驗證核電推進技術在深空的應用，而直升機則是順道搭車的科學載具。這個計畫六個月前還不存在，現在卻已經進入實質推進階段，速度之快令人咋舌。</p>\n\n<h2>從Ingenuity到SkyFall，直升機進化史</h2>\n<p><strong>SkyFall的技術根基來自2021年成功在火星飛行的Ingenuity直升機。</strong>那架實驗性直升機原本只計劃執行五次測試飛行，結果硬是飛了72次，直到2024年初才因降落失敗結束任務。這次SkyFall的三架直升機加上一架備用機，由NASA噴射推進實驗室與AeroVironment公司合作設計製造，正是同一個團隊。新直升機重量約2.5公斤，比Ingenuity的1.8公斤稍重，旋翼也經過升級，能承載更多科學儀器。與Ingenuity只有兩台相機不同，SkyFall每架直升機都配備了探地雷達，用來搜尋火星地表淺層的冰層，同時搭載相機與感測器收集大氣數據。</p>\n<p><strong>通訊方式也全面升級，不再依賴火星車當中繼站。</strong>Ingenuity必須透過「毅力號」火星車才能與地球通訊，SkyFall則可以直接與火星軌道上飛行的通訊衛星聯繫，傳輸與接收資料的能力大幅提升。這意味著每架直升機都能獨立執行科學任務，不再需要綁在一輛火星車身上。</p>\n\n<h2>脫離載具自主降落，新招式登場</h2>\n<p><strong>SkyFall將採用全新的降落方式，不再搭火星車的順風車。</strong>過去Ingenuity是搭著「毅力號」火星車一起降落在火星表面，但隨著火星採樣返回計畫的變數，NASA發現近期可能沒有其他載具會降落到火星。於是工程師想出了新方案：SkyFall直升機將在接近火星時從「自由號」載具上分離，包裹在防護熱盾中進入火星大氣層，然後自主降落。這個被稱為「SkyFall機動」的動作，工程師認為完全可行。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>以前去火星要開車，現在改坐直升機，這畫面想想就覺得科幻。</strong>NASA這次把核電推進和無人直升機湊在一起，等於一次任務同時驗證兩項關鍵技術。雖然2.1億美元的預算聽起來不少，但還沒算直升機的部分，後續花費恐怕還有文章。不過話說回來，能在火星上空飛行的探測器，這才是真正讓人覺得「哇，我們真的在探索太陽系」的時刻。</p>",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/photo-2-1152x648.jpg",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "024",
+    "title": "Perplexity 混合運算上線，敏感資料不再全丟雲端",
+    "summary": "Perplexity 推出 Hybrid Compute 功能，顛覆傳統雲端 AI 一次處理所有任務的模式，讓敏感資料留在本地、一般查詢交給雲端，重新定義使用者對隱私與效率的期待。",
+    "content": "<h2>雲端與本地 AI 分工，敏感資料終於不用裸奔</h2>\n<p><strong>Perplexity 這次推出的 Hybrid Compute，核心概念很簡單：把任務拆開來做。</strong>過去你用 AI 助手，不管問的是天氣還是公司機密，全部資料都丟進雲端伺服器處理，這就像把家裡的保險箱鑰匙交給陌生人保管，說不擔心是騙人的。現在 Perplexity 讓你自行決定哪些任務走雲端、哪些留在本地裝置上執行，敏感資料不再被迫上傳，這在隱私意識高漲的時代，絕對是重大突破。</p>\n<p><strong>這個設計背後反映了一個現實：使用者對 AI 隱私的焦慮已經累積到某個臨界點。</strong>企業用戶尤其敏感，他們不願意把商業機密、客戶資料直接送進第三方雲端，Hybrid Compute 正好解決了這個痛點。本地模型處理敏感內容，雲端模型處理一般查詢，兩邊分工合作，既保住隱私又不犧牲效能。</p>\n<h2>技術實現不複雜，但意義重大</h2>\n<p><strong>Hybrid Compute 的運作方式並不神秘，關鍵在於任務分流機制。</strong>系統會根據你輸入的內容自動判斷，哪些屬於敏感資訊，哪些是一般性問題，然後將它們分別送達對應的處理端。這意味著你不需要手動設定複雜的規則，Perplexity 會在後台幫你做好分類，使用者體驗上幾乎沒有額外負擔。</p>\n<p><strong>對一般消費者來說，這代表你的個人對話紀錄、搜尋歷史，不再需要全部存放在雲端伺服器上。</strong>對於自由工作者、小型企業主，或是任何對資料隱私有要求的使用者而言，這個功能無疑是多了一層保障。AI 工具越來越普及，但隱私保護的配套往往跟不上，Perplexity 這一步算是補上了關鍵缺口。</p>\n<h2>編輯悄悄話</h2>\n<p>以前用 AI 助手，總覺得自己像住在玻璃屋裡，什麼都被人看得一清二楚。現在 Perplexity 終於想到把敏感任務留在本地，就像在家裡裝了防彈玻璃，外面的人看不進來，裡面的人也能安心做事。AI 越來越聰明是好事，但聰明之餘，能不能先學會尊重使用者的隱私，這才是真正值得關注的課題。</p>",
+    "image": "",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2248548/perplexitys-hybrid-compute-splits-sensitive-tasks-between-cloud-and-local-ai/",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "025",
+    "title": "EEOC與基督教僱主聯盟和解 跨性別員工權益遭衝擊",
+    "summary": "EEOC與基督教僱主聯盟達成永久和解，將不再調查基於性別認同的歧視案件，此舉可能顛覆跨性別員工的職場權益保障，引發社會廣泛關注。",
+    "content": "<h2>和解協議的驚人細節</h2>\n<p><strong>這項和解協議的範圍遠超一般案件</strong>，EEOC承諾永久不追究基督教僱主聯盟（CEA）及其成員的性別認同歧視指控。更關鍵的是，保護範圍涵蓋「現有及未來所有成員」，意味著任何企業只要加入該聯盟，就能獲得免於EEOC調查的保護傘。</p>\n<p>前EEOC總法律顾问Karla Gilbride直言：「我從未見過這種永久免於調查的和解協議。」她更比喻這如同「銷售EEOC調查的保險商品」，質疑此舉可能鼓勵企業為规避歧視訴訟而加入該聯盟。</p>\n\n<h2>對跨性別員工的實際影響</h2>\n<p><strong>跨性別或非二元性別員工將失去重要的法律救濟途徑</strong>。過去若遭遇歧視，可透過EEOC免費調查甚至提訴；如今若僱主是CEA成員，這項管道將直接關閉。協議還無效期限制，即使未來EEOC主席換人，協議仍將持續生效。</p>\n<p>CEA在官網宣傳時更直接寫著「加入即受保護」，將法律保護包裝成會員權益。這種做法被批評為將歧視行為「保險化」，可能削弱職場平等權利的實質保障。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這項協議就像給歧視行為發了張「免死金牌」，讓企業花會員費就能買斷法律責任。當職場權益變成可購買的保險商品，弱勢族群的抗爭空間只會越來越窄。這不僅是法律協議，更是社會價值觀的拉鋸戰。</p>",
+    "image": "https://theintercept.com/wp-content/uploads/2026/08/GettyImages-1201696532-e1788212156548.jpg?fit=5000%2C2500&w=1200&h=800",
+    "source": "Hacker News",
+    "url": "https://theintercept.com/2026/09/01/christian-employers-settlement-gender-discrimination-eeoc/",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "026",
+    "title": "GitHub史上成長最快專案OpenClaw，背後維護團隊揭祕六個月奮戰紀實",
+    "summary": "OpenClaw以驚人速度成為GitHub歷史上成長最快的專案，維護團隊在首六個月累積的經驗，正挑戰開源社群的維運模式，重塑大眾對熱門專案背後運作方式的理解。",
+    "content": "<h2>爆紅背後：六個月衝上GitHub歷史紀錄</h2>\n<p><strong>OpenClaw從零開始，六個月內竄升為GitHub史上成長最快的專案，這背後是一群默默耕耘的維護團隊。</strong>Peter Steinberger與多位核心維護者近日分享他們在這段期間的真實經歷，從技術架構到社群維運，每一個環節都充滿挑戰。當一個專案突然爆紅，帶來的不只是榮耀，更是龐大的維護壓力與安全風險。</p>\n<p>開源專案爆紅的案例並不少見，但像OpenClaw這樣在極短時間內吸引海量關注的，確實罕見。維護團隊必須在極短時間內建立完善的流程，否則專案很可能在喧囂中崩潰。</p>\n\n<h2>安全與維運：熱門專案最容易被忽視的課題</h2>\n<p><strong>專案越紅，攻擊面越大，OpenClaw團隊將安全維運視為重中之重。</strong>在首六個月裡，他們面對的不只是功能開發，更包括漏洞修補、權限控管、貢獻者審核等複雜議題。維護團隊建立了一套嚴格的審查機制，確保每一筆提交都經過充分驗證，避免惡意程式碼混入核心程式庫。</p>\n<ul>\n<li>建立多層級的程式碼審查流程，確保品質與安全</li>\n<li>設定明確的貢獻者準則，過濾不良意圖的提交</li>\n<li>持續監控依賴套件的安全漏洞，即時更新防護</li>\n</ul>\n<p>這些措施看似繁瑣，卻是維持專案長期健康的必要投資。許多爆紅專案倒下的原因，正是忽視了安全維運這個環節。</p>\n\n<h2>維護者心聲：熱情與責任並存的日子</h2>\n<p><strong>OpenClaw的維護團隊坦言，這段時間既是熱情驅使，也是責任扛壓的過程。</strong>Peter Steinberger表示，團隊成員大多在正職工作之外投入大量時間，只因為相信這個專案的價值。他們希望透過公開分享經驗，讓更多開源專案能從中借鏡，避免重蹈覆轍。</p>\n<p>開源社群的力量在於自發性，但自發性也意味著缺乏制度保障。OpenClaw團隊的經驗提醒所有專案維護者：爆紅不是終點，而是另一個更艱難階段的開始。</p>\n\n<h2>編輯悄悄話</h2>\n<p>OpenClaw的故事就像一場開源界的狂風暴雨，來得快、去得也快，但留下的經驗卻值得細細品味。維護團隊用六個月的時間證明，爆紅不是靠運氣，而是靠紮實的維運與安全意識。下次當你看到某個專案突然爆紅時，別只盯著星數看，想想背後那群默默扛壓的維護者，他們才是真正的英雄。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/08/OpenClaw-1.png",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "027",
+    "title": "Java 誕生秘辛：跨平台 ABI 如何顛覆 Windows NT 霸權",
+    "summary": "Java 語言早期開發者 Tim Lindholm 回憶 Sun Microsystems 如何以跨平台 ABI 挑戰 Windows NT 市場，並揭露 Applet 最初只是技術展示，卻意外重塑整個網頁生態。這段歷史顛覆了我們對程式語言發展的想像。",
+    "content": "<h2>回到 Java 草創年代</h2>\n<p><strong>Java 不是天上掉下來的，是一群工程師在 Sun Microsystems 一磚一瓦蓋出來的。</strong>最近 Cult.Repo 推出了一部紀錄片，專訪了 Java 語言的早期貢獻者 Tim Lindholm，帶我們回到那個程式語言競爭激烈的年代。當時的 Java 團隊面臨一個嚴峻挑戰：Windows NT 正在快速崛起，如果 Java 只能跑在單一平台上，根本沒有機會與之抗衡。</p>\n<p><strong>跨平台 ABI 是當時最關鍵的戰略決策。</strong>ABI 指的是應用程式介面，簡單來說就是讓程式碼能在不同作業系統上運行的橋樑。Tim Lindholm 回憶，這個決策背後有著明確的市場考量——他們需要一個能真正跨平台的解決方案，而不只是口號。這也解釋了為什麼 Java 從誕生之初就強調「寫一次，到處跑」的理念。</p>\n<h2>Applet 的意外轉折</h2>\n<p><strong>Applet 最初只是個有趣的技術展示，沒想到後來成了網頁世界的關鍵角色。</strong>很多人以為 Applet 從一開始就是 Java 的核心戰略，但 Tim Lindholm 透露，它最初只是團隊用來展示 Java 能力的Demo。當時的開發者們可能沒想到，這個看似隨興的實驗，會在後續的網頁發展中扮演如此重要的角色。</p>\n<p><strong>這段歷史提醒我們，技術的演進往往充滿意外。</strong>Java 從一個企業級程式語言，到後來滲透到網頁、行動裝置，甚至嵌入式系統，每一步都充滿了當時無法預期的轉折。Tim Lindholm 在 LinkedIn 上也有個人頁面，有興趣的讀者可以進一步追蹤他的分享。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>看完這部紀錄片，我最大的感觸是：偉大的技術從來不是設計出來的，而是在解決問題的過程中自然長出來的。</strong>Java 團隊當初只是想做出能跟 Windows NT 競爭的產品，結果意外創造了影響整個資訊產業的程式語言。下次當你寫 Java 程式時，不妨想想那些在 Sun 辦公室裡熬夜討論的開發者們，他們可能也沒想到自己寫出的東西會改變世界。</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "028",
+    "title": "Cloudflare 用 Zstandard 壓縮快取，硬碟空間直接省出 petabytes",
+    "summary": "Cloudflare 在快取系統中內建 Zstandard 壓縮，讓相同硬體能儲存更多內容，顛覆傳統儲存方式，同時大幅減少跨資料中心頻寬消耗，為雲端基礎設施帶來全新思路。",
+    "content": "<h2>快取壓縮不是新招，但 Cloudflare 玩出新花樣</h2>\n<p><strong>記憶體價格一年內暴漲，Cloudflare 決定從快取下手。</strong>他們開發了一套名為 Cache Transcoding 的原型系統，在 Pingora 架構中對符合條件的資產進行 Zstandard（zstd）壓縮。當資料進入快取時，系統會先用 zstd 編碼後才寫入磁碟，直到要交付給客戶端時才解壓縮。這個做法讓原本佔據大量空間的資料，平均縮小到原來的三分之一，等於用同樣的硬體多存了三倍的內容。</p>\n<p><strong>壓縮成本只付一次，但省下的空間和頻寬是持續性的。</strong>每次快取填充時需要付出約 4.31 ns/byte 的編碼成本，但每次服務請求只需約 1.56 ns/byte 的解碼成本。由於資產被服務的次數遠多於填充次數，這個投資報酬率相當划算。</p>\n\n<h2>不是什麼都能壓，選對對象才是關鍵</h2>\n<p><strong>圖片、影片、字型這些已經壓縮過的格式，Cloudflare 直接放過。</strong>在他們的流量樣本中，這類媒體檔案佔了 21.4% 的請求，卻消耗了 63.3% 的位元組。再壓一次只會白白浪費 CPU，毫無意義。</p>\n<p><strong>真正值得壓縮的是文字類資料。</strong>HTML、JSON、CSS 和 JavaScript 佔了 67.3% 的請求，但只有 22.3% 的位元組。其中約有 71% 的文字資料在原始請求中沒有設定 Content-Encoding，壓縮效果極佳。在受控測試中，這些符合條件的資產平均壓縮了 2.8 倍。</p>\n<p><strong>Zstandard 的選擇也有學問。</strong>這個由 Yann Collet 在 Facebook 開發的無損壓縮演算法，在速度與壓縮率之間取得了良好平衡。測試顯示，zstd 壓縮速度比 Brotli 快了 42%，檔案大小卻幾乎相同；比 gzip 小 11.3%，速度卻相近。原型系統採用 zstd level 3，在保留大部分壓縮效益的同時，避免快取填充變成 CPU 瓶頸。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>這招就像把棉被抽真空，同樣大小的袋子能裝更多東西。</strong>Cloudflare 這套做法告訴我們，面對硬體成本飆升，與其砸錢買更多硬碟，不如從軟體層面挖掘潛力。壓縮技術早就存在，但把它內建到快取架構中，讓省下的空間和頻寬成為持續收益，這個思路確實聰明。下次當你覺得網路變快時，也許背後就有 zstd 默默在幫你省空間。</p>",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M1DAPGD3MF590TVQC32X12TX.01M1DAPH1P5MKSPDY4VF9A3H3T.png",
+    "source": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/cache-transcoding/",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "029",
+    "title": "勒索軟體Aurora綁架AI工具，專挑VMware ESXi下手加密企業資料",
+    "summary": "勒索軟體Aurora從四月起大舉活動，駭客不僅用俄語與AI對話，更將Cursor與Claude Sonnet變成攻擊利器，直接顛覆傳統勒索軟體的攻擊模式，讓企業資安防護面臨全新挑戰。",
+    "content": "<h2>駭客把AI當幫手，俄語對話規劃攻擊</h2>\n<p><strong>勒索軟體Aurora從今年四月開始大舉活動，駭客直接用俄語跟AI工具對話，把Cursor和Claude Sonnet變成攻擊計畫的智囊團。</strong>資安公司CloudSEK與Gambit Security陸續發現，這群駭客不只濫用Cursor進行滲透測試，還搭配Claude Sonnet來完成更複雜的攻擊流程。他們刻意排除獨立國家國協（CIS）地區，截至七月已有超過二十家企業組織受害。這種把AI工具當成攻擊協同平台的作法，等於把原本用來提升生產力的軟體，直接翻轉成駭客的得力助手。</p>\n<p><strong>駭客會把Cursor和Claude Sonnet的憑證或路由器資訊提供給AI，讓程式碼助手自動執行多種滲透行為。</strong>有些時候，操作員只是簡單問Cursor：「這個使用者有哪些權限？」AI就會列出詳細資訊。但更進階的攻擊中，操作員會直接下達指令，讓AI根據攻擊計畫一步步執行，包括植入VPN用戶端、掃描網路環境，甚至嘗試利用PetitPotam、Coerce Plus、PrinterBug等工具進行NTLM中繼攻擊。</p>\n<h2>鎖定VMware ESXi，加密虛擬機器後寫勒索訊息</h2>\n<p><strong>Aurora攻擊的核心目標是VMware ESXi虛擬機監控程式與vCenter伺服器，駭客用自製的NetExec LDAP模組在企業網路中搜尋目標。</strong>這個惡意模組會先向網域控制員查詢並解析物件，接著掃描443與902埠，讀取TLS憑證來取得ESXi簽章，再拉取ESXi的系統指紋，擷取精確的系統資訊。一旦掌握足夠資料，駭客就能在這些系統上部署勒索軟體，加密虛擬機器，最後在SSH橫幅寫入勒索訊息，讓受害者一眼就看到自己被鎖定了。</p>\n<p><strong>Gambit Security指出，從四月八日到五月二十一日，Aurora操作員借助Cursor與Claude Sonnet，在十家企業組織從事手動操作的攻擊活動。</strong>這種結合AI輔助與手動操作的混合模式，讓攻擊既具備自動化效率，又保留人工判斷的彈性，等於把勒索軟體攻擊推進到一個更精密、更難防禦的新階段。企業如果還在用傳統邊防思維防護VMware環境，恐怕要重新思考資安策略了。</p>\n<h2>編輯悄悄話</h2>\n<p>以前駭客要自己寫程式、自己研究漏洞，現在直接問AI就搞定，連俄語對話都能讓AI幫忙規劃攻擊流程。這就像小偷不再自己撬鎖，而是打電話問 locksmith 怎麼開比較快。企業資安團隊得趕緊跟上，不然下次被鎖定的，可能就是你的虛擬機器。</p>",
+    "image": "https://www.ithome.com.tw/sites/default/files/field/image/_mhcjsrflks.jpg",
+    "source": "iThome",
+    "url": "https://www.ithome.com.tw/news/178592",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "030",
+    "title": "NVIDIA DLSS 5震撼登場！3D神經渲染重塑遊戲畫面，NBA 2K27率先體驗",
+    "summary": "NVIDIA DLSS 5技術以3D引導神經渲染顛覆遊戲畫面，NBA 2K27成為首款支援遊戲，讓玩家體驗電影級視覺效果。",
+    "content": "<h2>DLSS 5的3D神經渲染是什麼？</h2>\n<p><strong>這項技術讓遊戲畫面更逼真，同時保持低延遲。</strong>DLSS 5的核心是「3D引導神經渲染」，透過GPU的AI即時處理遊戲畫面，但不會改變原始美術設計的多邊形、紋理與光線。簡單來說，它像是一位超級修圖師，能在不破壞原作的情况下，讓畫面更細膩、更流暢。</p>\n<p><strong>RTX 50系列顯示卡是最佳搭檔。</strong>為了確保低延遲，NVIDIA專為RTX 50的Blackwell架構開發了緊湊型AI模型，讓玩家在4K高更新率下也能享受流暢體驗。即使同時啟用其他DLSS功能，也不會影響效能。</p>\n\n<h2>NBA 2K27如何成為首款支援遊戲？</h2>\n<p><strong>球員角色與細節更栩栩如生。</strong>NBA 2K27作為首款導入DLSS 5的遊戲，透過3D引導神經渲染技術，讓球員形象、衣著、頭髮等細節更加真實。即使啟用完整DLSS 5功能，RTX 50系列顯示卡仍能保持流暢，視覺效果堪比電影。</p>\n<p><strong>性能數據驚人，4K Ultra特效也能跑滿幀。</strong>在4K解析度下，RTX 5090可達到370fps，RTX 5080也有233fps；1440p解析度下，RTX 5070 Ti可達353fps，RTX 5070則有252fps。即使是FullHD解析度，RTX 5060系列也能突破240fps。</p>\n\n<h2>編輯悄悄話</h2>\n<p>DLSS 5的出現，讓遊戲畫面從「看得過去」進化到「看得驚艷」。NBA 2K27作為首款支援遊戲，無疑是展示這項技術的最佳舞台。未來，隨著更多遊戲加入，玩家們將能體驗到更真實、更流暢的遊戲世界。不過，這也意味著顯示卡的升級需求可能會增加，準備好你的錢包了嗎？</p>",
+    "image": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/09/8510bf57-712f-4d5a-8383-827b8cb27488.webp",
+    "source": "癮科技",
+    "url": "https://www.cool3c.com/article/251555",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "031",
+    "title": "RPS八月訂閱大揭密：胖貓夾吐司、GTA6迷思與一堆沒洗的蘿蔔",
+    "summary": "RPS揭曉八月Premium訂閱者專屬獎勵，編輯團隊用胖貓玩遊戲、盤點GTA6跨平台報導難題，還不忘在遊戲展上挖出蔬菜驚奇，徹底重塑遊戲媒體的內容玩法。",
+    "content": "<h2>胖貓夾吐司也能玩遊戲？編輯團隊的脑洞有多深</h2>\n<p><strong>Sin Vega這次把貓綁在吐司上，硬是擠出夠玩一個解謎平台的遊戲 juice。</strong>這聽起來像瘋子行為，但人家真的做出来了，而且還挺像那麼回事。編輯團隊的實驗精神從來不講道理，反正就是玩，玩到做出點什麼為止。這種把日常物品跟遊戲機制硬湊在一起的玩法，反而讓人看到遊戲創意的另一種可能。</p>\n<p><strong>Julian則繼續他的編輯室巡禮系列，這次還多了一隻Sherma小擺設。</strong>他本來想裝作很專業，但擺設一加，整個畫面就破功了。編輯室巡禮這種東西，看的就是那種「原來你們平時長這樣」的偷窺快感，誰說媒體人上班都很嚴肅？</p>\n<h2>GTA6還沒發，報導難題先來了</h2>\n<p><strong>在GTA VI即將登上Netflix的前幾天，Julian開始苦思：如果這十年最大作根本不是PC遊戲，我們該怎麼報導？</strong>這個問題問得實在，也問到痛處。遊戲媒體的生態本來就圍繞著PC平台，但當最重磅的作品偏偏不在上面，報導策略就得重新盤點。讀者留言區也炸開了，大家各抒己見，氣氛相當熱烈。</p>\n<p><strong>Mark則在《上古卷軸5》裡把自己mod成釣魚職業，魚類見了他就閃。</strong>這已經不是遊戲了，這是另一種生活。編輯們下班後的玩法，往往比正經報導還精彩。而Gamescom展會上，居然出現了蔬菜這種 finger food，讓編輯驚呼連連——原來遊戲展的吃的也能有營養。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>看完這堆八月獎勵清單，我只想说：這群編輯根本是把遊戲媒體玩壞了。</strong>胖貓夾吐司都能成遊戲，GTA6不在PC也能讓編輯抓狂，連遊戲展的蔬菜都能寫成一篇報導。他們用這種不按牌理出牌的態度，證明遊戲媒體不只是寫新聞，而是真的在「玩」遊戲。九月見，希望別又突然說「喔靠」就結束了。</p>",
+    "image": "https://assetsio.gnwcdn.com/rps_welcomepost_2_JcYD937.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-august-2026-fatty-felines-gta-6-pondering-and-a-heap-of-barely-washed-radishes",
+    "date": "2026-09-01"
+  },
+  {
+    "id": "032",
+    "title": "Blizzard手機新作《鬥陣特攻 Rush》實機曝光，快節奏英雄對決來了",
+    "summary": "Blizzard旗下《鬥陣特攻》世界觀手機遊戲《鬥陣特攻 Rush》正式展開搶先體驗，電玩瘋搶先釋出實機試玩影片，顛覆傳統手機射擊遊戲節奏，帶來更高速的英雄對決體驗。",
+    "content": "<h2>手機上的英雄對決，節奏快到你反應不過來</h2>\n<p><strong>Blizzard這次把《鬥陣特攻》的精髓濃縮進手機裡了。</strong>《鬥陣特攻 Rush》作為系列首款手機遊戲，從實機畫面就能看出製作團隊的野心——他們不想只是把端遊搬上行動裝置，而是要重新設計一套專為手機打造的快節奏體驗。電玩瘋這次搶先拿到實機試玩，影片裡可以看到英雄技能流暢度相當高，每場對戰時間明顯比端遊短，適合碎片時間開幾局。</p>\n<p><strong>操作介面針對觸控螢幕做了優化，技能按鈕配置讓手指不會打架。</strong>從畫面來看，遊戲保留了原版《鬥陣特攻》的英雄特色，但技能效果經過簡化，讓手機玩家也能快速上手。這種設計思路很聰明——不是什麼都砍，而是把核心玩法提煉出來，讓手機玩家也能感受到英雄射擊的爽快感。</p>\n<h2>搶先體驗揭開面纱，正式上線還有多遠？</h2>\n<p><strong>目前遊戲還處於搶先體驗階段，Blizzard顯然想透過玩家回饋來調整平衡性。</strong>從實機影片觀察，遊戲模式以5v5為主，地圖設計也延續了原作經典場景的縮小版。製作團隊在訪談中提到，他們希望每場對戰能控制在三到五分鐘內，這對於手機玩家來說相當友善，通勤路上就能打幾局，不用像端遊那樣一坐就是一小時。</p>\n<p><strong>英雄選單目前公開的數量還不算多，但已能看出職業分工的輪廓。</strong>坦克、輸出、輔助三大定位都有對應角色，技能連招也保留了原作中「連招combo」的樂趣。對於《鬥陣特攻》老玩家來說，看到熟悉的英雄以手機版的形式出現，應該會勾起不少回憶；而新玩家則可以透過這種輕量化的方式，快速進入這個英雄射擊的世界。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>Blizzard這次在手機遊戲市場下了一盤大棋。</strong>《鬥陣特攻 Rush》能不能在競爭激烈的手機射擊遊戲市場中殺出一條血路，關鍵就在於他們能不能把端遊的精髓完美移植到觸控操作上。從目前的實機畫面來看，他們交出的成績單還算及格，但真正要見真章，還是得等正式上線後玩家們的口碑檢驗。畢竟手機玩家的時間比黃金還珍貴，能讓他們願意掏時間玩的遊戲，絕對不是靠IP就能唬爛的。</p>",
+    "image": "https://p2.bahamut.com.tw/B/2KU/53/25bc121b64dc4049bc40a96687203vh5.JPG",
+    "source": "巴哈姆特 GNN",
+    "url": "https://gnn.gamer.com.tw/detail.php?sn=310858",
+    "date": "2026-09-01"
   }
 ]
