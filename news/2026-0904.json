@@ -1,0 +1,22 @@
+[
+  {
+    "id": "001",
+    "title": "Google 天氣 AI 升級 5 倍解析度，衛星即時數據重塑精準預測",
+    "summary": "Google 推出 WeatherNext 3，以即時衛星數據取代傳統物理模擬，解析度提升 5 倍，每小時更新。這項技術將顛覆農業、再生能源與日常規劃，讓天氣預報從「大概會下雨」邁向「你家後院幾點下雨」。",
+    "content": "<h2>從 25 公里到 5 公里，天氣預報的像素革命</h2>\n<p><strong>以前看天氣像看馬賽克畫，現在終於能看清細節。</strong>Google DeepMind 與 Google Research 推出的 WeatherNext 3，把天氣預報的解析度從原本的 25 公里網格，直接提升到 5 公里。什麼意思？簡單說，以前模型預測「台北會下雨」，現在能告訴你「信義區下午三點開始下，內湖還沒」。</p>\n<p>這項升級的關鍵在於資料來源的改變。過去 AI 天氣模型主要依賴歷史數據和數值天氣預報（NWP），但 WeatherNext 3 直接吞食<strong>即時地球同步衛星影像</strong>，每小時更新一次。這就像從看舊照片猜天氣，變成直接開窗看外面。</p>\n<ul>\n<li>溫度與濕度：5 公里解析度</li>\n<li>其他地表變數：10 公里解析度</li>\n<li>風速等大氣變數：25 公里解析度</li>\n</ul>\n<p>整體而言，預測畫質約為前代 WeatherNext 2 的<strong>5 倍 sharper</strong>，而且能完整保留從全球風系到局部地形的高物理一致性。</p>\n\n<h2>不只是看天，更是產業決策的神兵利器</h2>\n<p><strong>天氣不只在影響你帶不帶傘，更在影響全球供應鏈與能源生產。</strong>一場熱浪可能讓電網崩潰，一輪乾旱可能讓糧價飆升。WeatherNext 3 的即時性與精準度，讓農業、再生能源、物流等產業能做出更及時的決策。</p>\n<p>例如風力發電廠可以根據每小時更新的風速預測，調整葉片角度與發電策略；農夫能提前預知局部降雨，決定灌溉或收割時機。這些應用過去受限于解析度不足，現在終於有了可行的技術基礎。</p>\n<p>目前 WeatherNext 3 已整合進 Google Search、Google Maps、Gemini 與 Google Cloud 平台，用戶可以直接在搜尋結果或地圖中查看高解析度天氣預報，開發者也能透過 Cloud API 將數據應用於自己的專案。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前我們罵天氣預報「說好晴天結果下暴雨」，現在 Google 終於把解析度拉到能看清你家後院的程度。雖然還不是 100% 準確，但從「大概會下雨」進化到「信義區三點開始下」，這進步幅度堪比從黑白電視跳到 4K 螢幕。下次出門前，不妨多看一眼 Google 天氣，也許真的能少淋一場雨。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.width-1300.png",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "002",
+    "title": "《Obsession》爆紅女星接下 Apple 科幻驚悚片！Waffle House 女服務生夜遇外星人？",
+    "summary": "《Obsession》爆紅女星 Inde Navarrette 將主演 Apple 科幻驚悚片《The Waffle House Index》，顛覆真實的餐廳災難指標，融合外星人、核爆與殺人鱷魚，打造極致荒誕的生存戰役。",
+    "content": "<h2>從《Obsession》到 Waffle House：女星的不設限演藝路</h2>\n<p><strong>《Obsession》的爆紅讓她成為好萊塢矚目新星，而《The Waffle House Index》正是她挑戰科幻驚悚的下一步。</strong>Inde Navarrette 憑藉恐怖片《Obsession》中令人毛骨悚然的演出闖出名號，如今接下的新項目卻完全跳脫恐怖框架。這部由 Apple Original Films 與 Plan B Entertainment 聯合製作的科幻驚悚片，將她從驚悚類型推向更荒誕的宇宙。</p>\n<p><strong>Plan B 團隊這次選擇了極具話題性的題材，結合真實社會指標與外星入侵元素。</strong>由布萊德·彼特領軍的製作公司過去曾與 Apple 合作《F1》賽車電影，如今再度攜手打造這部風格迥異的作品。Navarrette 同時身兼執行製作人，顯示她在專案中擁有相當的話語權。</p>\n\n<h2>Waffle House 指數化身科幻災難：真實指標的荒誕轉化</h2>\n<p><strong>這部片將日常餐廳的營運狀態，轉化為衡量外星入侵與核災難的指標，極具創意。</strong>現實中，「Waffle House 指數」是美國用於評估颶風災情的非正式標準：餐廳正常營業代表影響輕微，縮減菜單表示中度災害，關門則意味著嚴重災難。電影將這個概念推向極致，讓女服務生遭遇的不再只是普通暴徒，而是鱷魚、核爆與外星生物交織的末日場景。</p>\n<p><strong>從恐怖驚悚到科幻災難，Navarrette 的選片策略展現突破類型的企圖心。</strong>她目前已完成拍攝的《Invertigo》描寫青少年被困遊樂設施，加上傳聞中的漫威《X-Men》項目，顯示她正積極拓展戲路。這部《The Waffle House Index》雖然題材詭譎，卻與她過往擅長的壓迫感敘事一脈相承。</p>\n\n<h2>編輯悄悄話</h2>\n<p>看來以後颶風來襲，除了看氣象預報，還得留意 Waffle House 的菜單有沒有縮減——畢竟，這可能意味著外星鱷魚已經準備好開飯了！好萊塢編劇的腦洞，真是比颶風還讓人措手不及。</p>",
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/obsession-nikki.jpg?w=1600&h=900&fit=crop",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/inde-navarrette-apple-waffle-house-index/",
+    "date": "2026-09-04"
+  }
+]
