@@ -18,5 +18,185 @@
     "source": "Polygon",
     "url": "https://www.polygon.com/inde-navarrette-apple-waffle-house-index/",
     "date": "2026-09-04"
+  },
+  {
+    "id": "003",
+    "title": "百萬美元級AI防禦計畫啟動，關鍵基礎設施迎戰網路攻擊",
+    "summary": "OpenAI砸下10億美元推出Daybreak計畫，重塑水電、金融等關鍵服務的安全防護。此舉顛覆傳統防禦模式，讓資源有限的基層防禦者也能運用前沿AI技術抵禦日益複雜的網路攻擊。",
+    "content": "<h2>百萬美元級AI防禦計畫啟動</h2>\n<p><strong>OpenAI宣布投入10億美元，讓基層防禦者也能使用前沿AI網路安全工具。</strong>這項名為「Daybreak for Frontline Defenders」的全球計畫，專為保護美國及世界各地關鍵基礎設施而設。從自來水系統、電網到地方政府服務，這些日常依賴的系統正面臨更先進的AI攻擊威脅。</p>\n<p>許多基層防禦團隊長期在預算與人力不足的情況下，守護著複雜且老化的系統。隨著AI驅動攻擊日益普及，防禦者必須搶先測試系統弱點、強化防護。OpenAI強調，這是一扇正在縮小的窗口——防禦者必須在攻擊者之前行動。</p>\n\n<h2>從水電到銀行，關鍵基礎設施迎戰AI攻擊</h2>\n<p><strong>計畫優先支援水務、電網營運商、地方政府、社區銀行及非營利組織。</strong>這些機構往往缺乏大企業級的預算與專業知識，卻承擔著保護民眾日常生活的重任。透過 subsidized Daybreak 存取權限，防禦團隊能審查舊有程式碼、分析可疑活動、驗證漏洞並開發修復方案。</p>\n<p>此舉延續OpenAI先前對受攻擊水系統的支援模式。此前他們提供高達100萬美元的免費API額度與技術協助，幫助相關單位在系統持續運作的情況下完成修補。未來六個月內，這項模式將擴展至合作國家，讓更多基層防禦者受惠。</p>\n\n<h2>編輯悄悄話</h2>\n<p>想像一下，如果某天你家水龍頭突然沒水、電燈全滅，背後可能是個AI攻擊在搗鬼。OpenAI這招10億美元的「防禦升級包」，就像給基層網路保安員發了把AK-47——雖然槍還是那把槍，但子彈終於夠用了。畢竟，保護我們日常生活的系統，不該只靠大企業施捨的剩餘資源。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/lvizepLUAiputffdSjtue/f89a11ed639405a45b491f70c882f0de/SEO_Card___short_copy_example__1_.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "004",
+    "title": "NVIDIA推本地AI新方案，RTX Spark PC十月上市",
+    "summary": "NVIDIA在IFA 2026宣布與微軟合作，推出RTX Spark Windows PC及簡化本地AI代理設定工具，讓AI推理更快、更簡單，**數據隱私更安全**，徹底顛覆雲端AI依賴現狀。",
+    "content": "<h2>本地AI不再難搞，一鍵搞定</h2>\n<p><strong>過去要跑本地AI模型，得自己挑模型、找相容的推理伺服器、調量化設定，還得隨時更新，簡直是技術人的噩夢。</strong>現在NVIDIA與微軟攜手，把這些繁瑣步驟全部打包，讓普通用戶也能輕鬆上手。Perplexity Portable Computer、Hermes Agent、OpenClaw這三大熱門代理應用程式，都已經針對Windows平台優化，只要一張一鍵設定，就能在RTX顯示卡上跑起來。</p>\n<p><strong>Perplexity Portable Computer支援至少24GB VRAM的RTX顯示卡，Linux版本已可體驗，Windows版本即將推出。</strong>用戶可以完全在本機執行完整工作流程，不用消耗雲端額度，只有在需要額外研究或推理時，才會詢問使用者是否要呼叫雲端模型，而且發送內容前一定會先取得授權，敏感資料完全留在裝置上。</p>\n<h2>效能大躍進，llama.cpp與vLLM雙劍合璧</h2>\n<p><strong>NVIDIA持續與開源社群合作，讓本地推理速度大幅提升。</strong>llama.cpp在GeForce RTX 5090上透過核心優化、增強的推測解碼技術和更快的預填充處理，吞吐量最高可提升1.9倍。vLLM在RTX PRO 6000 Blackwell工作站上也帶來1.2倍效能成長，讓本地AI代理的回應速度更接近雲端體驗。</p>\n<p><strong>Hermes Agent由Nous Research開發，是一款通用型代理，強調可靠性與自我改進能力。</strong>它採用一鍵設定，自動偵測NVIDIA GPU、選擇合適的模型與配置，並透過整合的llama.cpp與NVIDIA推理優化直接運行，完全不需要手動下載模型或調整參數。Linux支援即將推出。</p>\n<p><strong>OpenClaw是GitHub上最受歡迎的開源代理專案，星數超過38萬，社群持續開發各種研究、工程、專案管理和日常生產力工具。</strong>NVIDIA、微軟與OpenClaw合作推出的Windows應用程式，大幅降低設定門檻，讓更多開發者能在本地環境中運行高效能AI代理。</p>\n<h2>編輯悄悄話</h2>\n<p>以前跑本地AI就像在廚房裡自己磨豆子做咖啡，麻煩又費時；現在NVIDIA直接把整套設備送到你家，開蓋就能喝。這波操作不只是技術升級，更是把AI從雲端神壇拉回桌面，讓每個人都有機會擁有自己的私人AI助理，而且資料不用上傳到別人的伺服器，安心又自在。十月RTX Spark PC上市後，不妨親手試試看，感受看看本地AI的便利與魅力。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "005",
+    "title": "Ollama改採透明計費！AI模型用量不再霧裡看花",
+    "summary": "Ollama推出全新定價方案，以業界標準的per-token計費取代GPU時間計費，每月提供固定額度，用盡後仍可依相同費率繼續使用，徹底重塑AI服務成本的可預測性。",
+    "content": "<h2>定價透明化，AI用量不再霧裡看花</h2>\n<p><strong>Ollama這次把計費方式掰掰舊模式，改用業界標準的per-token計費，讓每筆請求的花費都清清楚楚。</strong>過去GPU時間計費讓很多使用者摸不著頭緒，特別是現在開源模型越做越大，像Kimi K3就有2.8兆參數，根本算不清楚到底花了多少錢。現在每個月都有固定額度，用完還是可以繼續用，只是要按token費率收費，這樣大家心裡就有底了。</p>\n\n<h2>免費方案也升級，加值更彈性</h2>\n<p><strong>免費方案這次也跟上，每月提供少量額度讓使用者體驗入門模型，想解鎖全部模型只要加值就好，不用綁訂閱也不用付服務費。</strong>這招很聰明，讓想試試看的使用者可以先上手，覺得好用再付費，對Ollama來說也能擴大用戶群。Pro、Max和Team方案都一樣，每月額度會自動刷新，不用擔心忘記續約或額度被吃掉。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>說真的，這種透明計費才是對使用者負責的態度。</strong>以前那種GPU時間計費，根本是讓使用者猜謎，現在終於不用靠運氣算帳了。Ollama這招算是把AI服務定價拉回正軌，讓更多人敢用、敢玩、敢投入。畢竟AI不是玩具，但也不該是黑箱收費的冤大頭遊戲。</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/transparent-pricing",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "006",
+    "title": "Apple 9月9日大發布會！iPhone 18 Pro、摺疊Ultra來了",
+    "summary": "Apple新任CEO John Ternus首秀，iPhone 18系列有望顛覆市場，摺疊手機與健康功能升級引發關注。",
+    "content": "<h2>iPhone 18系列亮點搶先看</h2><p><strong>這次發布會不只是新手機，更是Apple在新領導下的戰略轉向。</strong>9月9日的活動將是John Ternus接任CEO後的首場大型發表，預計推出iPhone 18 Pro與Pro Max，兩者都將搭載更大電池與更小的Dynamic Island，還有傳聞已久的變光圈相機升級。不過，入門款iPhone 18可能要等到明年才會登場，搭配iPhone 18E與更新版的iPhone Air一起推出。</p><p><strong>摺疊手機iPhone Ultra終於要來了！</strong>這款被傳聞已久的摺疊機型將採用類似Samsung Galaxy Z Fold 8的 Passport 風格設計，雖然晚於競爭對手推出，但Apple一向擅長在市場成熟後推出更穩健的產品。 leaked 的模型圖顯示，新機可能提供黑、銀、淺藍與深櫻桃紫等配色選擇。</p><h2>Apple Watch與AirPods同步升級</h2><p><strong>手錶與耳機也將迎來更新，健康功能成為重點。</strong>Apple Watch Series 12有望恢復高端陶瓷錶殼選項，並推出新錶帶配色，但整體設計不會有大幅改變。此外，持續心率監測等新健康功能可能加入。AirPods 5預計也會登場，搭載新晶片與健康感應器，但配備相機的AirPods可能要等到2027年才會問世。</p><p><strong>價格上漲可能是這次發布會的另一個焦點。</strong>Apple今年已對多數產品調漲價格，iPhone 18 Pro系列可能跟進，消費者需評估是否值得升級。</p><h2>編輯悄悄話</h2><p>這次發布會不只是新手機，更是Apple在新領導下的戰略轉向。摺疊手機遲來但可能更穩，消費者得看價格和實用性再決定要不要升級。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-26-at-9.17.30-AM.png?quality=90&strip=all&crop=4.9206194690266%2C0%2C90.158761061947%2C94.827045012242&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "007",
+    "title": "Tesla Cybercab上路即遭聯邦調查，自認證流程成焦點",
+    "summary": "Tesla Cybercab甫上路便引發監管單位關注，聯邦調查將重新檢視該車自認證的數據與流程，這將重塑自動駕駛車輛的監管標準。",
+    "content": "<h2>上路即上新聞，監管單位沒閒著</h2>\n<p><strong>Tesla Cybercab 剛亮相不久，就成為聯邦調查的對象。</strong>這輛被視為未來出行關鍵的無人計程車，從上路第一天起就引發監管單位的注意。美國聯邦當局將全面檢視 Tesla 用來自認證這輛車的數據與流程，這意味著過去由車廠自行把關的模式，可能即將迎來重大轉變。</p>\n<p><strong>自認證制度原本是為了加速新技術上市，但如今成為爭議核心。</strong>監管單位認為，涉及公共安全的新興交通工具，不應該由單一企業自行決定合規性。這次調查將釐清 Tesla 在提交數據時是否有遺漏或選擇性呈現，這不僅影響 Cybercab 的未來，也可能波及整個自動駕駛產業。</p>\n<h2>自動駕駛的監管十字路口</h2>\n<p><strong>這起事件凸顯自動駕駛技術與現有法規之間的落差。</strong>過去幾年，各大車廠紛紛推出自駕功能，但監管框架始終跟不上技術發展的速度。Cybercab 作為首款標榜完全無方向盤的商用車輛，其自認證過程成為業界關注的焦點。調查結果將決定未來類似產品是否還能沿用相同途徑。</p>\n<p><strong>消費者對自動駕駛的期待與擔憂，也在這次事件中浮上檯面。</strong>一方面，無人計程車代表著更便捷、更安全的出行願景；另一方面，監管單位的介入提醒大眾，技術再先進，安全仍是不可妥協的底線。這次調查的結果，將為整個產業樹立一個重要的先例。</p>\n<h2>編輯悄悄話</h2>\n<p>新東西一出來，監管單位就緊跟在後頭，這其實不是壞事。想想看，如果今天上路的是你每天搭的公車，你希望誰來確保它安全？Tesla 這次面對的不只是調查，而是整個自動駕駛產業必須正視的課題：創新不能只靠企業自說自話，公開透明才是長久之道。</p>",
+    "image": "",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2251066/tesla-cybercab-under-federal-investigation-almost-immediately-after-hitting-streets/",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "008",
+    "title": "GitHub Copilot 新功能上線！一次啟動多個 AI 助手，開發效率直接飆升",
+    "summary": "GitHub Copilot 推出平行執行多 agents 功能，顛覆單一路徑的開發模式，讓程式碼生成從單打獨鬥升級為團隊協作，大幅提升開發效率。",
+    "content": "<h2>一次叫多個 AI 助手來幫你寫程式</h2>\n<p><strong>GitHub Copilot 這次真的放大招了。</strong>過去我們用 Copilot 都是單槍匹馬，一個問題一個問題慢慢問，現在終於可以一次啟動多個 agents，讓它們同時幫你處理不同的任務。這就像從一個人搬磚變成一支工程隊齊上，效率當然不一樣。</p>\n<p>這個新功能讓開發者可以同時啟動多個 AI 代理，每個 agent 負責不同的子任務，最後再把結果整合起來。對於需要同時處理多個功能模組的專案來說，這簡直是救星。</p>\n\n<h2>從害怕到上手，只差一個平行功能</h2>\n<p><strong>很多新手對 AI 寫程式還是充滿戒心。</strong>畢竟把程式碼交給機器，誰會不擔心出包？但 GitHub 這次特別強調，平行 agents 的設計就是要讓使用者感受到「這東西真的有用」，而不是只會講廢話。當多個 agent 同時運作、互相驗證結果時，錯誤率自然降低，信任感也就建立了。</p>\n<p>這種設計思路很聰明，不是硬推功能，而是讓使用者在實際操作中感受到價值，從「這有什麼用」變成「這真的幫上忙」。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>說真的，這功能就像請了幾個實習生同時幫你趕工。</strong>以前一個 Copilot 忙不過來，現在直接開個小團隊，各做各的再匯總。開發者不用再一個一個問題慢慢問，效率直接拉開一個時代。不過也要提醒，多 agent 並行雖然快，但整合結果時還是得自己把关，AI 再強還是需要人類最後一雙眼睛。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-12.28.34-PM.png?fit=1242%2C698",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "009",
+    "title": "AI 寫程式也要講安全？Anaconda 副總裁揭密：預設安全才是真本事",
+    "summary": "Anaconda 副總裁 Greg Jennings 提出「預設安全」理念，**挑戰業界將提示詞當作安全護城河的迷思**，並透過策略性收購重塑 AI 軟體供應鏈，為企業 AI 開發帶來根本性改變。",
+    "content": "<h2>提示詞不是護城河，別把安全交給 AI 自己決定</h2>\n<p>現在 AI 寫程式已經不是新鮮事了，GitHub Copilot、Claude Code 這些工具幾乎人手一個。但很多人忽略了一個關鍵問題：<strong>AI 生成的程式碼，真的安全嗎？</strong>Anaconda 副總裁 Greg Jennings 直接點出業界一個危險的迷思——把提示詞（prompt）當成安全防護的萬靈丹。他認為，提示詞本質上是給 AI 的指令，不是安全邊界。你寫「不要產生漏洞」，AI 不見得真的會遵守，因為它根本不知道什麼是漏洞。</p>\n<p>Jennings 主張的「預設安全」（secure-by-default）理念，意思是<strong>安全機制要內建在工具底層，而不是依賴使用者的提示詞來約束 AI 的行為</strong>。這就像你買房子，不能只靠鄰居自願不偷窺，而是要有門鎖、監視器、保全系統。Anaconda 的做法是把安全檢查嵌入到 Python 開發環境的每一個環節，讓開發者在不知不覺中就被保護著。</p>\n\n<h2>收購是手段，供應鏈安全才是目的</h2>\n<p>Anaconda 近年來透過一系列策略性收購，正在悄悄建構一套完整的 AI 軟體供應鏈治理體系。<strong>他們看準的痛點很明確：AI 開發依賴的第三方套件、模型、工具鏈，每一個環節都可能成為安全漏洞的入口。</strong>Jennings 在訪談中強調，單純靠人工審查根本來不及，必須用自動化治理工具來監控整個供應鏈的完整性。</p>\n<p>這套思路對企業級 AI 開發尤其重要。想像一下，你的公司用了一個 AI 程式碼助手，它幫你從 PyPI 下載了某個套件，但那個套件背後藏了惡意程式碼——這種風險在傳統開發中已經存在，但 AI 加速了開發速度，也放大了潛在危害。<strong>Anaconda 的作法是讓安全治理成為基礎設施的一環，而不是事後補丁。</strong></p>\n\n<h2>編輯悄悄話</h2>\n<p>說實在的，現在大家對 AI 寫程式都抱著「好用就對了」的心態，但 Jennings 這番話像一盆冷水——<strong>方便和安全能兼顧嗎？答案是可以，前提是要從設計階段就把安全嵌進去。</strong>與其等出了事再亡羊補牢，不如一開始就讓工具「天生安全」。這不只是 Anaconda 的商業策略，更是整個 AI 開發產業該認真思考的方向。下次你的 AI 助手幫你寫完程式碼，別急著複製貼上，先問自己一句：這東西真的安全嗎？</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "010",
+    "title": "Cloudflare联手OpenAI，AI漏洞扫描帮你优先修最危险的洞",
+    "summary": "Cloudflare推出漏洞发现与修复服务，结合OpenAI Daybreak模型与WAF数据，让安全团队不再面对数千个漏洞无从下手，直接锁定生产环境中真正危险的弱点优先修补。",
+    "content": "<h2>漏洞太多修不过来？这是每个资安团队的噩梦</h2>\n<p><strong>你的扫描器刚报了4,000个新漏洞，其中78个是严重等级，你该先修哪一个？</strong>这个问题听起来简单，实际操作起来却让人抓狂。大型语言模型现在能在几分钟内扫描整个代码库，找出弱点，这意味着漏洞数量只会越来越多。更麻烦的是，攻击者也开始用AI加速漏洞发现和利用，安全团队的时间窗口越来越窄。</p>\n<p>传统扫描器只会告诉你「这里有个洞」，但不会告诉你这个代码是否已经部署上线、有没有人真的在访问这个路由、周围有什么安全活动、或者你已经有哪些防护措施。你只能在没有生产环境证据的情况下，凭感觉决定优先级。</p>\n<h2>Cloudflare用流量数据给漏洞「加权」，让修补不再盲猜</h2>\n<p><strong>Cloudflare这次推出的漏洞发现与修复服务，核心思路是把漏洞发现和实际生产流量数据结合起来。</strong>通过OpenAI Daybreak模型，包括GPT-5.6 Cyber，对授权访问的代码库进行侦察、狩猎和验证。一旦发现漏洞，系统会自动检查每个建议的补丁和缓解措施，然后才呈现给团队审核。</p>\n<p>关键在于Cloudflare的全球网络能看到哪些路由是活跃的、流量有多大、以及周围有什么安全事件。当客户同时启用Web应用防火墙（WAF）时，系统还能看到哪些规则已经生效、哪些攻击正在被拦截。这些信息把一条通用的漏洞报告，转化成了具体的优先级判断：这个漏洞在上线的代码里、在热门路由上、有最近的攻击活动、而且没有任何现有防护。</p>\n<p>这个服务目前以邀请制方式提供，属于Cloudflare Managed Defense的一部分。客户始终掌握最终决定权——系统可以提出代码补丁和其他缓解方案，但是否实施由客户自己决定。</p>\n<h2>编辑悄悄话</h2>\n<p>以前修漏洞像大海捞针，现在有了AI加流量数据的双重加持，至少知道哪根针最扎手。不过话说回来，工具再聪明，最终拍板还是得靠人。毕竟AI可以告诉你哪个洞最危险，但要不要改、什么时候改、改成什么样，这些决策还是得你们团队自己扛。与其焦虑漏洞数量，不如先把最重要的那几个搞定，剩下的慢慢来。</p>",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M1M93F7AEJ7GBHA2V4NNP3XK.01M1M93G208121NF47SS8DRCZ6.png",
+    "source": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "011",
+    "title": "Cursor 雲端代理現可部署於 Vercel Sandbox，執行環境大升級",
+    "summary": "Cursor 雲端代理程式現可部署於 Vercel Sandbox，顛覆傳統託管模式，提供隔離環境與自動縮放，大幅提升開發效率與安全性。",
+    "content": "<h2>技術底層：Firecracker 微虛擬機打造隔離沙盒</h2>\n<p><strong>這次合作讓 Cursor 的 AI 代理不再依賴自家伺服器，改住 Vercel 的隔離小屋。</strong>Vercel Sandbox 為每個代理請求提供獨立的 Firecracker 微虛擬機，就像給每個程式員配發專屬的透明工作間，彼此不干擾。Cursor 負責管理代理框架與推理循環，而 Vercel 則透過 Functions 和 Workflow 組成持久控制平面，自動處理請求排隊、工作節點配置、會話監控與清理。</p>\n\n<h2>三大優勢：零擴展、持久重試、短期憑證</h2>\n<p><strong>不用養長期虛擬機，資源隨用隨放，失敗自動重來。</strong>新架構支援 worker pool 縮放至零，避免閒置成本；每個代理請求享有獨立沙盒，安全性大幅提升；工作節點或會話失敗時，系統會自動重試，確保任務不中斷。此外，每個沙盒內僅生成短期、使用者權限的憑證，進一步降低資安風險。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這次合作就像讓 Cursor 的 AI 助理搬進 Vercel 的共享辦公空間，不用自己蓋房子，也不用擔心隔壁同事（其他代理）偷看你的檔案。以後寫程式就像叫外送一樣方便，點一下就有隔離沙盒幫你跑程式，還不用擔心資源浪費。技術圈這種「各展所長、互不搶飯碗」的合作模式，看來是越來越多人愛了。</p>",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5KmgvmWZwaaPFGskgNOJAu/6b3659ba24e56f6bf4fe2c181d6d95e5/run_cursor_cloud_agents_in_vercel_sandbox_og_card.jpg",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/run-cursor-cloud-agents-vercel-sandbox",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "012",
+    "title": "Google AI天气预报升级！卫星数据每小时更新，解析度达5公里",
+    "summary": "Google推出WeatherNext 3模型，直接整合地球同步卫星每小时观测资料，解析度提升至5公里，颠覆传统数值天气预报模式，已全面应用于Google搜寻、地图及云端服务。",
+    "content": "<h2>卫星数据直接喂给AI，天气预报不再\"慢半拍\"</h2>\n<p><strong>传统天气预报靠超级电脑算物理公式，现在Google让AI直接看卫星实时画面。</strong>WeatherNext 3突破性地跳过传统数值模式的中间环节，把每小时更新的地球同步卫星影像直接输入AI模型。过去遇到快速生成的降雨或锋面，传统系统从观测到分析需要时间，最新状况往往跟不上变化。现在模型能根据较新的云层与大气状态重新计算，相当于让天气预报从\"看旧地图找新路\"变成\"实时导航\"。</p>\n\n<h2>解析度提升到5公里，局部天气看得更清楚</h2>\n<p><strong>温度、湿度等近地表资料解析度从25公里精进到5公里，山区海岸的天气差异不再被模糊处理。</strong>WeatherNext 3的细部解析度能捕捉地形造成的局部天气差异，比如山谷的冷空气堆积、海岸线的海陆风变化。Google基准测试显示，在温度、风速、气压等多项气象变量上，新模型表现优于欧洲中期天气预报中心（ECMWF）的营运系统。降水预报也加入NASA卫星数据与自建卫星雷达资料训练，中期降水评估有所改善。</p>\n\n<h2>从个人生活到再生能源，天气预报全面升级</h2>\n<p><strong>100公尺高度的风速、云量、太阳辐射数据，让风力与太阳能发电估算更精准。</strong>WeatherNext 3已导入Google搜寻、Gemini、Google Maps及Google Cloud等服务。一般用户透过搜寻或地图就能获得更即时的天气资讯，研究人员与企业则可通过BigQuery、Earth Engine查询预报资料，或从Google Cloud Storage批次取得数据。这种从个人生活到产业应用的全面覆盖，显示AI天气预报正从\"预测工具\"转变为\"基础设施\"。</p>\n\n<h2>编辑悄悄话</h2>\n<p>以前等天气预报就像等朋友回讯息，总是要拖好久；现在Google直接让AI当你的天气管家，每小时更新、看得更细。下次出门前查天气，说不定比你看自己脸书更新还快呢！</p>",
+    "image": "https://www.ithome.com.tw/sites/default/files/field/image/fireshot_capture_102_-_weathernext_3_our_most_advanced_global_weather_ai_model_-_blog.google.jpg",
+    "source": "iThome",
+    "url": "https://www.ithome.com.tw/news/178715",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "013",
+    "title": "合泉系安攜手 BMC 推 SOAP 平台，企業自動化升級新引擎",
+    "summary": "合泉系安成為 BMC 亞太首家特許合作夥伴，引入 SOAP 平台推動企業從 IT 維運邁向核心業務自動化，重塑營運韌性與效率。",
+    "content": "<h2>從 IT 維運到業務自動化，SOAP 平台如何顛覆企業營運？</h2>\n<p><strong>企業自動化正從單點工具升級為跨系統的智慧協調核心。</strong>過去企業自動化多聚焦在 IT 工作負載，但隨著混合雲、SaaS 與 AI 代理普及，單一平台已無法滿足需求。SOAP（Service Orchestration and Automation Platform）透過整合跨系統、跨資料源的服務流程，讓企業能從 IT 維運延伸至核心業務營運，實現端到端的智慧協調。</p>\n<p><strong>市場需求已從「自動化」轉向「服務編排」。</strong>傳統自動化僅處理特定任務，而 SOAP 強調以業務視角串聯流程，例如金融業的貸款審核、製造業的供應鏈調度，都能透過單一平台實現跨部門協作。這種轉變不僅提升效率，更強化企業應對複雜營運挑戰的韌性。</p>\n\n<h2>合泉系安攜手 BMC，在地支援讓導入更順暢</h2>\n<p><strong>合泉系安成為 BMC 亞太區首家特許經營策略合作夥伴，負責台灣市場營運。</strong>原廠授權落地後，合泉系安將主導業務推廣與技術支援，提供涵蓋 POC 驗證、顧問諮詢、系統導入到教育訓練的完整服務。董事長何玉雲強調，團隊已通過原廠核心認證，能提供最頂級的 Tier 1 技術支援。</p>\n<p><strong>在地化服務降低跨境溝通成本，符合台灣法規與資安要求。</strong>BMC 東北亞區董事總經理戎浩指出，透過本地夥伴合作，企業能更快獲得符合產業稽核標準的解決方案。目標客戶鎖定金融、高科技製造、政府、醫療等高度依賴 IT 穩定性的產業，協助其建構現代化營運架構。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前企業自動化像請了個專職司機，只負責把車開到目的地；現在 SOAP 平台更像一位總管，不僅開車，還得兼顧導航、加油、甚至幫乘客安排行程。合泉系安這次攜手 BMC，等於把這位「總管級」人才直接請進台灣企業，讓 IT 與業務不再各玩各的。畢竟在 AI 時代，誰能先讓系統「懂業務」，誰就能在營運競賽中搶先一步。</p>",
+    "image": "https://techorange.com/app/uploads/2026/09/59325d80e305968b-1024x683.jpg",
+    "source": "TechOrange",
+    "url": "https://techorange.com/2026/09/04/cosprings-bmc-ai-soap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "014",
+    "title": "AMD推出Threadripper Halo Station，576GB VRAM工作站挑戰NVIDIA",
+    "summary": "AMD於IFA展出Threadripper Halo Station，以96核CPU搭配4張Instinct加速卡，目標打造576GB VRAM的AI工作站，直接挑戰NVIDIA DGX Station的市場地位，有望重塑專業工作站格局。",
+    "content": "<h2>AMD的AI工作站新戰力</h2><p><strong>Threadripper Halo Station採用96核Ryzen Threadripper PRO 9995WX處理器，搭配最高4張Instinct MI350P加速卡</strong>，示範機已安裝2TB系統記憶體與288GB HBM3E顯存。AMD這次選擇務實路線，用成熟架構組合出強悍規格，而非像NVIDIA那樣追求超級晶片整合。</p><h2>與NVIDIA DGX Station的差異</h2><p><strong>AMD目前架構不支援CPU與加速卡共享記憶體，因此選擇獨立配置方式達成576GB VRAM目標</strong>。這種設計讓系統更具彈性，使用者可依需求擴充加速卡數量，從2張到4張都能穩定運作，適合不同規模的AI開發需求。</p><h2>編輯悄悄話</h2><p>AMD這次拿出Threadripper Halo Station，明顯是要在AI工作站市場分一杯羹。雖然還沒達到NVIDIA那種晶片級整合的境界，但用現有技術拼出576GB VRAM的規格，已經足夠讓許多開發者眼睛為之一亮。未來能不能真正撼動市場，就看實際效能表現和價格策略了。</p>",
+    "image": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/09/82d46e40-8bcc-4cef-9767-2a0b7c26b73a.webp",
+    "source": "癮科技",
+    "url": "https://www.cool3c.com/article/251692",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "015",
+    "title": "暗网狂卖1.53亿张驾照！FBI紧急介入，你的资料可能已遭窃取",
+    "summary": "暗网新服务冲击百万民众隐私，FBI紧急介入调查身份验证公司遭入侵事件，数据规模创历史纪录。",
+    "content": "<h2>暗网新服务狂卖1.53亿张驾照</h2><p>最近暗网冒出个叫Nexus的服务，<strong>直接开卖超过1.53亿张美国与加拿大的驾照扫描件</strong>，连国防部长Pete Hegseth的资料都躺平任卖。这数字什么概念？台湾人口才2300万，这数据量够把整个东亚地区的人口扫荡三遍。更夸张的是，卖家还大方提供「免费试看」——记者自己的维吉尼亚州驾照就被拿来当样品，连红外线和紫外线扫描图都齐了，连2025年6月搭飞机去参加家族葬礼的时间戳都清楚记录。</p><h2>FBI紧急介入，身份验证公司成焦点</h2><p>FBI纽奥良分局已经正式立案调查，<strong>怀疑数据源头是一家路易斯安那州的知名身份验证公司</strong>，客户名单里还挂着好几家财富500大企业。这公司平时帮各大平台验证用户身份，没想到自家数据库被掏空后，竟成了黑市批发商。更细思极恐的是，数据里还混着大麻药房会员卡、政府人员通行卡（CAC）甚至商用驾照（CDL），<strong>等于把民众的医疗记录、政府权限全打包促销</strong>。</p><h2>编辑悄悄话</h2><p>下次填表前，记得先检查自己的驾照有没有上暗网拍卖清单。毕竟现在连国防部长的资料都能当样品送，你的个人信息说不定早就在黑市被转手三次了。</p>",
+    "image": "https://krebsonsecurity.com/wp-content/uploads/2026/09/nexus-phegseth.png",
+    "source": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "016",
+    "title": "Gamescom 展場盜竊風波！主辦方道歉卻不提賠償",
+    "summary": "Gamescom 展場爆發多起開發者硬體遭竊事件，主辦方最初回應被批冷血，如今公開道歉並承諾改進安保，但全文未提及任何賠償方案，引發業界質疑。",
+    "content": "<h2>展場盜竊風波，主辦方第一時間甩鍋</h2>\n<p><strong>Gamescom 今年展場爆發多起獨立遊戲開發者硬體遭竊事件，主辦方最初的回應卻被網友砲轟為冷血。</strong>當時的聲明中，主辦單位暗示許多受影響的參展商沒有購買足夠的保險，等於把責任推給受害者。這番話一出，整個遊戲圈瞬間炸鍋，大家紛紛質疑：你們是辦展還是辦保險理賠說明會？</p>\n<p><strong>獨立開發者本來預算就緊，一台展示用筆電或主機可能就是全部家當，現在東西被偷還要被說沒買保險，簡直是二次傷害。</strong>這場風波迅速從社群媒體蔓延到主流遊戲媒體，成為今年 Gamescom 最熱門的話題，沒有人想談遊戲，大家都在談盜竊與安保。</p>\n<h2>道歉來了，但賠償字都沒提</h2>\n<p><strong>Gamescom 終於在 X 平台發布第二則聲明，承認最初的回應缺乏同理心，並表示批評是合理的。</strong>聲明中寫道，他們對受影響的參展商感到抱歉，也感謝業界與玩家對這些獨立開發者的支持。不過，這份聲明最引人注目的，反而是它完全沒有提到任何賠償的可能性。</p>\n<p><strong>PC Gamer 隨後聯繫主辦單位 Koelnmesse GmbH，詢問具體失竊案件數量、是否有賠償計畫，以及安保人員的審核機制，但對方除了重複兩份聲明之外，沒有任何回應。</strong>這種沉默讓許多參展商更加不滿，大家不禁懷疑：道歉歸道歉，到底有沒有打算為這場安保疏失負責？</p>\n<p>Gamescom 同時承諾將針對獨立參展商進行專項安保檢討，並舉辦圓桌會議與參展商共同研擬具體改善措施。這聽起來是正向的承諾，但對於已經損失設備的開發者來說，未來的安保升級無法彌補當下的損失。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>辦展就像辦派對，客人帶了寶貝來參加，結果東西被偷，主人第一時間說「你為什麼沒鎖好」，這誰受得了。</strong>Gamescom 現在道歉了，也說要改進，但賠償這兩個字就像空氣一樣，存在卻摸不到。獨立開發者帶著夢想與積蓄來參展，結果賠了時間又賠錢，這種體驗說不定會讓更多人 reconsider 明年還來不來。安保這件事，真的不能只靠事後檢討，事前預防才是王道。</p>",
+    "image": "https://cdn.mos.cms.futurecdn.net/N26NhyeTtbkfws7KhYUQ3V-1920-80.jpg",
+    "source": "PC Gamer",
+    "url": "https://www.pcgamer.com/gaming-industry/events-conferences/that-criticism-is-justified-gamescom-apologizes-for-its-callous-response-to-developer-hardware-thefts/",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "017",
+    "title": "前索尼獨立遊戲主管跨界辦活動，遊戲與詩的界線要被顛覆了",
+    "summary": "前 PlayStation 獨立遊戲主管吉田修平與 TIGSource 創辦人馬格努森攜手英國國家影視學院，推出「遊戲詩」 jams 活動，挑戰藝術形式間的傳統界線，並開放瀏覽器遊玩提交。",
+    "content": "<h2>遊戲詩是什麼？吉田修平跨界辦活動顛覆想像</h2>\n<p><strong>9 月 7 日到 8 日，遊戲圈要發生一件怪事。</strong>前 PlayStation 獨立遊戲部門主管吉田修平，加上 TIGSource 創辦人喬丹·馬格努森，兩位重量級人物聯手英國國家影視學院（NFTS），要辦一場名為「遊戲詩 jams」的活動。聽起來很玄？簡單說，他們想把遊戲和詩這兩樣東西混在一起，打破藝術形式之間的傳統界線。主辦單位在 Itch.io 上寫得很清楚：這是一種「新興的短篇個人表達形式」，核心精神就是挑戰既有框架。</p>\n<p>馬格努森可不是第一次玩這種跨界實驗。他在 TIGSource 論壇時期就累積了大量短格式遊戲創作經驗，後來還寫了一本開放取用的《Game Poems》專書，把歌德、艾略特、狄金森等詩人的創作原則拆解成「簡潔性」、「主觀性」和「儀式表演」等核心概念，再搭配安娜·安索普、皮平·巴爾等當代遊戲詩人的作品，提供實作練習。這套理論框架，正是這次 jams 的精神底蘊。</p>\n<h2>評審陣容豪華，主題壓軸揭曉</h2>\n<p><strong>這次 jams 的評審團可說是遊戲與影視圈的夢幻組合。</strong>除了吉田修平和馬格努森，還有《迪斯科殭屍》的敘事設計師卡什·德庫爾、《圓南》的遊戲設計師約翰·勞、羅馬美術學院教授克勞迪奧·波利納，以及跨足遊戲與影視的編劇珍娜·喬維。馬格努森會在 9 月 7 日上午 11 點（英國時間）透過 Zoom 舉辦開幕研討會，揭曉本次 jams 的正式主題。所有参赛作品必須能在瀏覽器中直接遊玩，得獎者將獲得 Steam 禮券。</p>\n<p><strong>這場活動最有趣的地方，在於它把「寫詩」這件事從文字牢籠裡解放出來。</strong>馬格努森在書中開宗明義地說：詩不是某種形式，而是一種可以存在於任何媒介中的介入模式。這句話聽起來有點抽象，但放在遊戲這個互動媒介上，突然就變得具體了——玩家每一次點擊、每一次選擇，都可以是詩的節奏與呼吸。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>說實話，聽到「遊戲詩」這個詞，我第一反應是：這是要讓我邊玩邊唸詩嗎？</strong>但仔細想想，遊戲本來就是一種高度壓縮的體驗藝術，短短幾分鐘的互動裡塞滿了敘事、美學和情感張力，跟一首十四行詩的密度其實不相上下。吉田修平從商業遊戲世界走出來，願意為這種小眾實驗站台，本身就說明獨立遊戲圈正在尋找新的表達語言。這次 jams 的主題還沒揭曉，但已經讓人期待——畢竟，誰說遊戲不能像詩一樣，讓人心臟漏跳一拍呢？</p>",
+    "image": "https://assetsio.gnwcdn.com/Shuhei-yoshida_eZou60v.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/former-playstation-indie-boss-shuhei-yoshida-and-the-founder-of-tigsource-are-throwing-a-game-poem-jam-that-challenges-traditional-boundaries-between-art-forms",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "018",
+    "title": "任天堂雙Direct轟炸！薩爾達40週年重製版即將揭曉",
+    "summary": "任天堂宣布將連辦兩場Direct，薩爾達40週年紀念活動與Switch 2遊戲陣容同步曝光，有望重塑玩家對經典重製的期待，並推動主機銷售動能。",
+    "content": "<h2>任天堂雙Direct連發，薩爾達粉絲準備好迎接震撼了嗎？</h2>\n<p><strong>任天堂這次不藏私，直接預告9月8日薩爾達40週年Direct，緊接著9月9日再推Switch 2遊戲特輯。</strong>這場連環驚喜不僅讓粉絲期待值爆表，更顯示任天堂對Switch 2生態的重視。據官方說明，9月8日的Direct將專注於《薩爾達傳說》系列40週年相關資訊，而隔天則會揭露今冬發售的Switch 2遊戲陣容。這種密集釋出策略，無疑是任天堂在競爭激烈的遊戲市場中，試圖以內容優勢吸引玩家升級主機的明確信號。</p>\n\n<h2>薩爾達重製版細節曝光，經典角色化身Pixar風格引熱議</h2>\n<p><strong>《時之笛》重製版的林克形象已從N64時期的稜角分明，轉變為更接近Pixar動畫的柔和風格，引發玩家對視覺革新與懷舊平衡的討論。</strong>任天堂在早期預告中已透露，這款重製版將全面升級畫質與操作體驗，而9月的Direct有望公布具體發售日期。瑞士零售商曾意外洩漏《時之笛》將於2026年12月1日上市，若屬實，這將是Switch 2發售後首波重磅大作之一，與《俠盜獵車手6》僅隔一個月，形成強勁的假期檔期效應。</p>\n\n<h2>編輯悄悄話</h2>\n<p>任天堂這波操作簡直是「餵飯級」貼心，直接把薩爾達40週年與Switch 2遊戲陣容打包上桌，連《時之笛》重製版的發售日都幫你猜好了。主機漲價50美元？沒關係，有經典重製版撐腰，玩家大概會邊罵邊掏錢吧！畢竟，誰能拒絕一個穿著Pixar風格裝備的林克呢？</p>",
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/nintendoswitch2_thelegendofzelda_ocarinaoftime_screenshot.png?w=1600&h=900&fit=crop",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-nintendo-direct-september-2026/",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "019",
+    "title": "任天堂連兩晚直播！薩爾達40週年與Switch新作情報揭曉",
+    "summary": "任天堂宣布9月8日及9日連續兩晚舉行Direct直播，薩爾達傳說迎來40週年，同時揭曉Switch後續新作陣容，將重塑玩家期待。",
+    "content": "<h2>薩爾達40週年，海拉魯傳奇再續</h2><p><strong>從1986年首作問世至今，《薩爾達傳說》已走過四十載春秋。</strong>任天堂特別在9月8日晚間推出紀念Direct，不僅回顧經典，更預計公開系列最新動態。對於陪伴林克冒險的玩家來說，這是一場不容錯過的懷舊與期待交織的盛宴。</p><h2>Switch後續新作陣容揭曉</h2><p><strong>隔天9月9日的Nintendo Direct將焦點轉向Switch平台未來。</strong>玩家最關心的新作消息、續作動態，以及可能的新硬體相關情報，都將在此揭開序幕。連續兩晚的直播安排，顯示任天堂對此次發表的重視程度。</p><h2>編輯悄悄話</h2><p>這兩場直播就像任天堂準備的雙重驚喜，薩爾達40週年勾起無數玩家的青春回憶，而Switch新作情報則讓人對未來充滿期待。與其熬夜追直播，不如提前準備好零食和好心情，畢竟海拉魯的冒險和任天堂的新作，都值得你專心守候。</p>",
+    "image": "https://img.4gamers.com.tw/news-image/825807ad-d74b-415c-97b0-e8945ccab989.jpg",
+    "source": "4Gamers",
+    "url": "https://www.4gamers.com.tw/news/detail/81873/zelda-40th-anniversary-nintendo-direct-2026",
+    "date": "2026-09-04"
+  },
+  {
+    "id": "020",
+    "title": "薩爾達40週年大公開！任天堂9/8晚間揭曉系列最新動態",
+    "summary": "任天堂宣布9月8日晚間舉辦薩爾達40週年Direct，預計揭曉系列最新動態，將重塑玩家對未來作品的期待。",
+    "content": "<h2>薩爾達40週年Direct即將登場</h2>\n<p><strong>任天堂宣布9月8日晚間舉辦薩爾達40週年Direct</strong>，節目時長約30分鐘，將帶來系列最新資訊。這不僅是紀念活動，更是玩家期待已久的新作品預告。</p>\n<ul>\n<li><strong>節目時間：台灣時間9月8日晚間10點</strong>，適合熬夜觀看。</li>\n<li><strong>內容涵蓋系列40週年回顧與未來規劃</strong>，可能包含新作消息。</li>\n</ul>\n\n<h2>玩家期待值破表</h2>\n<p><strong>薩爾達系列40年來累積了無數經典</strong>，從初代到《曠野之息》《王國之淚》，每一步都影響著遊戲產業。這次Direct預計將揭示新方向，可能挑戰傳統玩法或引入新技術。</p>\n<ul>\n<li><strong>玩家社群熱烈討論中</strong>，期待任天堂帶來驚喜。</li>\n<li><strong>系列新作可能結合AI或新硬體</strong>，提升遊戲體驗。</li>\n</ul>\n\n<h2>編輯悄悄話</h2>\n<p><strong>薩爾達40週年Direct不只是遊戲發布</strong>，更是任天堂與玩家的情感連結。準備好零食和熬夜精神，一起見證這個傳奇系列的下一章吧！畢竟，誰不想在40週年時看到更多驚喜呢？</p>",
+    "image": "https://p2.bahamut.com.tw/B/2KU/87/a0f9824ae660c688219388a3122067r5.WEBP",
+    "source": "巴哈姆特 GNN",
+    "url": "https://gnn.gamer.com.tw/detail.php?sn=311138",
+    "date": "2026-09-04"
   }
 ]
