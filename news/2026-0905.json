@@ -1,0 +1,172 @@
+[
+  {
+    "id": "001",
+    "title": "Google 天氣 AI 大升級！即時衛星數據讓預報五倍清晰",
+    "summary": "Google 推出 WeatherNext 3，以即時衛星數據取代傳統物理模擬，每小時更新預報，解析度提升五倍，將顛覆農業、再生能源與日常決策的氣象資訊品質。",
+    "content": "<h2>從衛星數據學天氣，Google 這次玩真的</h2>\n<p><strong>WeatherNext 3 直接「看」地球，不再靠猜。</strong>過去氣象模型依賴歷史數據與物理模擬，但天氣變化太快，舊方法總像隔著毛玻璃看風景。這次 Google DeepMind 和 Google Research 直接把即時衛星影像喂給 AI，讓模型學會從真實觀測中學習。每小時更新、解析度提高到 5 公里，連台灣山區的地形細節都能清楚呈現，不再是過去那種「像素化」的模糊預報。</p>\n\n<h2>你的日常決策，被這技術悄悄重塑</h2>\n<p><strong>出門帶傘、農夫播種、風力發電站調度，全被重新定義。</strong>以前天氣預報差一點，可能只是多淋一場雨；現在五倍清晰的預報，能精準預測局部陣雨、熱島效應，甚至極端氣候的連鎖影響。農業可以精確安排灌溉，再生能源能提前調度風電與太陽能，連 Google 搜尋、地圖和 Gemini 都直接整合這套系統，讓十幾億人每天打開手機，就能看到更貼近真實的天氣畫面。</p>\n\n<ul>\n<li><strong>技術核心：</strong>採用 Functional Generative Network 網格轉換器，同時輸出全球風場、局部溫度與氣旋路徑。</li>\n<li><strong>應用場景：</strong>已整合至 Google Search、Maps、Gemini 與 Cloud 平台，開發者也能直接調用 API。</li>\n<li><strong>驗證結果：</strong>獨立評估機構 Brightband 指出，其準確度與即時性目前位居全球氣象 AI 模型之首。</li>\n</ul>\n\n<h2>編輯悄悄話</h2>\n<p>以前看天氣預報，總覺得氣象局在「猜」；現在 Google 直接讓 AI 當衛星的眼線，每小時更新、五倍清晰，連你家巷口的雨都躲不過。這不只是技術升級，更是把天氣從「參考資訊」變成「決策基礎」。下次出門前，不妨多看了一眼 Google 天氣——那背後可能是一台正在吞噬即時衛星數據的 AI，正幫你算好每一步。</p>",
+    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.width-1300.png",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "002",
+    "title": "GPT-6 Astra 防提示注入 隱藏攻擊仍破防",
+    "summary": "OpenAI新模型GPT-6 Astra減少幻覺並抵禦直接提示注入，但隱藏在文件中的間接攻擊仍使其在8.5%情況下被攻破，對企業AI代理安全構成挑戰。",
+    "content": "<h2>直接攻擊擋得住，隱藏攻擊卻破防？</h2>\n<p><strong>GPT-6 Astra 在直接提示注入防禦上表現亮眼，抵禦率高達99.99%，但一旦攻擊藏在文件裡，模型仍會中招。</strong>OpenAI這次推出的新模型號稱幻覺更少、防提示注入更強，測試結果顯示，面對用戶直接輸入的惡意指令，Astra 幾乎都能擋下。然而，當攻擊者把惡意提示隱藏在AI正在閱讀的文件中時，情況就不同了。安全公司Gray Swan的測試指出，在1,810個精心設計的間接提示注入攻擊中，Astra 仍有8.5%的機率被攻破，雖然比前代GPT-5.6 Sol的27%大幅改善，但對需要處理真實數據的AI代理來說，這個數字仍然偏高。</p>\n\n<h2>AI代理天天讀文件，風險誰來扛？</h2>\n<p><strong>企業若讓AI代理自主處理文件，等於把大門留了一條縫給攻擊者。</strong>隨著AI代理越來越常自動讀取文件、執行程式碼或操作工具，間接提示注入的風險也隨之升高。測試中，Astra 在15次嘗試中至少被攻破一次的機率為8.5%，而Claude Opus 5表現較佳，失敗率僅4.8%，但同樣無法完全免疫。OpenAI強調，這些測試僅針對基礎模型，未包含產品中額外安裝的安全分類器，因此實際環境中的表現可能更差。對於依賴AI代理24小時運作的企業而言，這意味著安全團隊必須在多道防線上加強把關，否則一旦中招，後果可能不堪設想。</p>\n\n<h2>編輯悄悄話</h2>\n<p>看來AI再聰明，也怕「內鬼」從文件裡搞鬼。企業上線AI代理前，得多道關卡把關，不然被騙了還幫數錢。技術進步快，但安全防線也得跟上，不然再強的模型也只是紙上談兵。</p>",
+    "image": "https://the-decoder.com/wp-content/uploads/2025/11/openai_logo_wall-3.png",
+    "source": "The Decoder",
+    "url": "https://the-decoder.com/openais-gpt-6-astra-hallucinates-less-but-remains-vulnerable-to-hidden-prompt-injections/",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "003",
+    "title": "NeoMME多語言編碼器問世，AI跨語言理解再升級",
+    "summary": "NeoMME多模態原生編碼器正式亮相，支援多語言處理，將重塑AI跨語言理解能力，讓機器翻譯與內容分析更精準高效。",
+    "content": "<h2>NeoMME是什麼？多模態加多語言一次搞定</h2>\n<p><strong>NeoMME是一個高效能的多模態原生編碼器，同時支援多語言處理。</strong>簡單來說，它就像是一個超級翻譯官，不僅能看懂文字，還能理解圖片、音訊等多種形式的資訊，而且不只懂英文，還能處理多種語言。這個技術的突破在於，它把多模態和多語言整合在同一個架構裡，不用再分別訓練不同的模型，大幅提升了效率。</p>\n<p>過去我們處理不同語言或不同類型的資料時，往往需要多個專門的模型來應對，不僅耗時耗力，還容易出現資訊不一致的問題。NeoMME的出現，讓這些問題迎刃而解，<strong>一個模型就能搞定多種語言和多種資料類型</strong>，這在AI領域絕對是一大進步。</p>\n<h2>對台灣用戶有什麼影響？</h2>\n<p><strong>台灣作為多語言社會，這項技術的應用潛力特別大。</strong>想像一下，以後我們用AI搜尋資料時，不管輸入中文、英文還是其他語言，系統都能精準理解並回傳最相關的結果。對於從事跨國業務的企業來說，NeoMME能讓文件翻譯、市場分析等工作變得更加順暢，節省大量人力成本。</p>\n<p>此外，<strong>多模態的能力也讓內容創作變得更加多元</strong>。無論是影片字幕生成、圖片描述撰寫，還是跨語言的社群媒體經營，NeoMME都能提供強而有力的支援。對於一般用戶而言，這意味著未來使用AI工具時，體驗會更加流暢自然，不再受語言隔閡的限制。</p>\n<h2>編輯悄悄話</h2>\n<p>說實在的，NeoMME這種技術就像是一個萬能翻譯官，以後我們跟外國朋友聊天，再也不用擔心語言不通的問題了。而且它還能看懂圖片、聽懂聲音，簡直是AI界的六邊形戰士。台灣這麼小一個地方，能擁有這種多語言能力，以後跟世界接軌絕對更方便。不過話說回來，技術再好，還是要看我們怎麼用，畢竟工具只是工具，人才是主角。</p>",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6264f9655f6f2e14d6ac981c/GJ6FUbgFpq1x8RNOqzmz-.webp",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/Hcompany/neomme",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "004",
+    "title": "NVIDIA 攜手微軟推本地 AI 新方案，RTX Spark 筆電 10 月上市",
+    "summary": "NVIDIA 與微軟及合作夥伴在 IFA 2026 宣布加速本地 AI 推理，並推出 RTX Spark Windows 筆電，**重塑個人電腦的 AI 運算體驗**，讓開發者與創作者能更安全、更快速地在本機部署 AI 代理程式。",
+    "content": "<h2>本地 AI 不再難搞，一鍵設定就上手</h2>\n<p><strong>過去要讓 AI 在本機跑起來，得自己挑模型、找推理伺服器、調 quantization 參數，還得隨時更新，門檻高到讓人卻步。</strong>這次 NVIDIA 與微軟及合作夥伴在 IFA 2026 宣布，要讓這件事變得簡單許多。三款目前最主流的 AI 代理程式——Perplexity Portable Computer、Hermes Agent 與 OpenClaw——都將在 Windows 上提供簡化的一鍵設定體驗，底層全部基於 llama.cpp，並內建 NVIDIA 最新的推理最佳化技術。</p>\n<p><strong>Perplexity Portable Computer</strong> 已經可以在配備 24GB VRAM 以上 RTX 顯示卡的 Linux 系統上運行，Windows 版本即將推出。它把模型、編排工具與應用程式打包成單一體驗，用戶可以完全在本機執行工作流程，不用消耗雲端額度；只有在需要更深入研究或推理時，才會經使用者同意後，將部分任務升級到雲端 15 種以上的尖端模型。</p>\n\n<h2>三款代理程式各有所長，本地部署更安心</h2>\n<p><strong>Hermes Agent</strong> 由 Nous Research 開發，是一款通用型代理程式，以穩定性與自我改進能力著稱，適合全天候在本機運行。一鍵設定後，它會自動偵測 NVIDIA 顯示卡、挑選合適的模型與配置，並透過整合的 llama.cpp 與 NVIDIA 推理最佳化直接運行，完全省去手動下載模型與調參的麻煩。</p>\n<p><strong>OpenClaw</strong> 則是 GitHub 上最受歡迎的開放代理專案，星數已超過 38 萬，社群持續在研究、工程、專案管理與日常生產力等領域開發工具與技能。NVIDIA、微軟與 OpenClaw 團隊合作推出的 Windows 應用程式，大幅降低了在 RTX 顯示卡上的上手門檻，讓更多使用者能輕鬆在本機運行優化後的本地模型。</p>\n\n<h2>推理效能再升級，llama.cpp 與 vLLM 雙雙加速</h2>\n<p><strong>推理速度直接影響本地 AI 的實用性，NVIDIA 持續與開放原始碼社群合作，讓本地代理程式的回應更迅速。</strong>llama.cpp 在 GeForce RTX 5090 上透過核心最佳化、增強的推測解碼技術與更快的 Prefill，帶來最高 1.9 倍的吞吐量提升。vLLM 在 RTX PRO 6000 Blackwell 工作站上則實現 1.2 倍效能增長，讓專業創作者與開發者能在本地處理更複雜的任務。</p>\n<p>同時，<strong>NVIDIA 也宣布全新 RTX Spark Windows 筆電將於 10 月上市</strong>，這款緊湊型電腦專為 AI 愛好者、開發者與創作者設計，提供更多在本機安全運行強大 AI 代理程式的選擇。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前想在自己電腦上跑 AI，簡直像在廚房裡自己磨麵粉做麵包——麻煩又容易翻車。現在 NVIDIA 直接把麵粉、酵母、烤箱都幫你準備好，你只需要按一個按鈕，麵包就出爐了。<strong>本地 AI 正在從極客玩具變成日常工具</strong>，資料不用上傳雲端、不用擔心隱私外洩，還能隨時隨地離線使用。這波操作，讓 AI 真正回到你的口袋裡，而不是鎖在別人的伺服器上。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/nv-blog-1280x680-1.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "005",
+    "title": "Ollama改採透明計費！每月額度自動重置，AI使用成本大降",
+    "summary": "Ollama重塑雲端AI定價模式，全面轉向按token計費並附贈每月額度，徹底顛覆過去GPU時間計費的不確定性，讓開發者能精準掌控開支。",
+    "content": "<h2>定價透明化，AI使用不再霧裡看花</h2>\n<p><strong>Ollama這次把計費方式翻轉，從GPU時間改為按token計費，讓開發者終於能算清楚每筆請求的花費。</strong>過去用GPU時間計費，特別是隨著Kimi K3這種2.8萬億參數的超大模型出現，費用根本難以預測。現在每個方案都附贈每月額度，用完之後繼續按token費率計費，沒有服務費，也沒有5小時或每週限制。</p>\n\n<h2>免費方案也升級，額度每月自動重置</h2>\n<ul>\n<li><strong>免費方案現在包含少量月度使用額度</strong>，可以體驗入門模型，想使用全部模型則可加值，採按量計費，無需訂閱。</li>\n<li><strong>Pro、Max、Team方案的額度每月自動重置</strong>，不會累積到下個月，但重置日固定，方便規劃。</li>\n<li><strong>現有用戶可保留原方案</strong>，也能隨時在帳戶設定中升級到新定價，改帳單週期會自動轉換到新方案。</li>\n</ul>\n\n<h2>資料安全與計算位置，一次講清楚</h2>\n<p><strong>所有請求都在美國、歐洲的專用計算資源上運行</strong>，部分Qwen模型還支援新加坡節點，零資料保留，不記錄提示詞，也不訓練用戶資料。</p>\n<p><strong>Team方案現已開放報名，入門價為每月500美元</strong>，適合需要擴展開放模型存取的大型團隊。新方案今天上線，現有訂閱者可在帳戶設定中升級，或聯繫支援團隊申請退回原方案。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這次Ollama的定價調整，說白了就是讓AI使用成本更透明、更可預測。以前用GPU時間計費，就像去餐廳點菜不知道會付多少錢，現在改成按token計費，每筆請求花多少一目了然。對開發者來說，這下終於能精準控管預算，不用擔心月底帳單嚇一跳。不過免費方案的額度有限，重度使用者可能還是得乖乖付錢，但至少知道會付多少，心裡有底。</p>",
+    "image": "https://ollama.com/public/og.png",
+    "source": "Ollama Blog",
+    "url": "https://ollama.com/blog/transparent-pricing",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "006",
+    "title": "機器人資料新創XDOF僅3個月，就談出12億美元估值",
+    "summary": "XDOF從隱身模式走出僅三個月，便啟動B輪募資，估值高達12億美元。這股風潮正在重塑機器人產業的資料競爭格局，讓資本市場重新評估AI訓練資料的真實價值。",
+    "content": "<h2>三個月從隱身到12億美元，XDOF做對了什麼？</h2>\n<p><strong>機器人資料新創XDOF在2026年Disrupt大會前悄悄走出隱身模式，隨即啟動B輪募資，估值直接衝上12億美元。</strong>這速度在矽谷不算罕見，但放在機器人領域，確實讓人刮目相看。機器人產業現在最缺的不是硬體，而是能訓練出真正好用AI的資料。XDOF看準的就是這個痛點——他們專攻機器人訓練資料的蒐集與標註，幫各大機器人公司解決「資料荒」問題。</p>\n<p><strong>從零到独角兽只花三個月，背後反映的是資本對機器人資料賽道的極度飢渴。</strong>過去幾年，AI大模型把文字、影像、語音的資料市場炒得滾燙，但機器人需要的資料完全不同——那是3D空間感知、機械臂動作軌跡、觸覺回饋等多元資料的組合，門檻高、產出慢，能做的玩家少之又少。</p>\n<h2>12億美元估值，機器人資料市場要翻天了嗎？</h2>\n<p><strong>XDOF的估值不僅是數字遊戲，更代表投資人對機器人資料基礎建設的長期看好。</strong>隨著OpenAI、Anthropic等大廠持續推出更強的AI模型，機器人要真正落地到工廠、倉儲、甚至家庭場景，資料才是那道跨不過去的坎。XDOF選擇在這個節骨眼上走出隱身、快速募資，等於向市場宣告：他們準備好承接這波需求爆發了。</p>\n<p><strong>對台灣讀者來說，這則新聞的潛在意義在於——機器人資料產業正在形成新的供應鏈格局。</strong>台灣在精密製造與電子產業有深厚根基，若能搭上機器人資料標註與訓練的列車，有機會在下一波AI硬體革命中佔有一席之地。</p>\n<h2>編輯悄悄話</h2>\n<p>三個月從隱身到12億美元，XDOF這速度讓人想起當年那些一推出就估值破億的AI新創。但機器人資料跟文字AI資料不一樣，它需要的是真實世界的物理互動數據，這塊市場才剛開始熱起來。下次看到機器人相關的新創故事，別只盯著大模型看，資料才是真正決定機器人能不能走出實驗室、走進我們生活的關鍵。</p>",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "007",
+    "title": "Audacity 4 大改版：免費音訊編輯器終於跟上時代步伐",
+    "summary": "Audacity 4 正式推出，以非破壞性編輯、全新介面與更聰明的片段管理，將這款自 2000 年問世的老將，從笨重的免費工具重塑為接近現代 DAW 的強悍編輯器。",
+    "content": "<h2>非破壞性編輯，剪錯也不怕</h2>\n<p><strong>這次改版最核心的突破，就是終於支援非破壞性編輯。</strong>過去在 Audacity 裡剪一段音訊，剪下去就回不去了，想恢復只能靠歷史記錄慢慢往前追。現在不同了，你把片段縮短，隨時可以拖回邊緣還原原始長度，就像玩拼圖一樣自由。更棒的是，片段現在可以重疊，即使時間軸上沒有足夠空間，也能先貼上再調整，不用再像以前那樣被卡住動彈不得。</p>\n<p><strong>片段分割功能也大幅強化，</strong>現在可以輕鬆將音訊切開、重新排列組合，對於需要精細處理播客或音樂製作的用戶來說，這簡直是解放雙手的功能。開發團隊也同步更新了片段包絡線與內建效果器，讓整體操作體驗更直覺。</p>\n<h2>長相大翻新，終於不像二十年前產物</h2>\n<p><strong>Audacity 從 2000 年問世以來，介面幾乎沒變過。</strong>新功能一個個往上疊，結果就是越用越臃腫、越用越難找。這次 Audacity 4 來了個徹底的大改造，視覺風格與 Muse 旗下其他產品如 Muse Score 和 Audio.com 保持一致，還支援可自訂主題，讓使用者可以依照自己的喜好調整外觀。</p>\n<p>改版前還流傳過一版不太討喜的新 Logo，引發小範圍爭議，但最終定案版本比早期流出版本好看得多。整體來說，這次改版讓 Audacity 從一個「能用但很笨重」的免費工具，晉升為接近現代數位音訊工作站（DAW）水準的專業編輯器。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>Audacity 就像那個從年輕就陪你到現在的老朋友，</strong>功能夠用但長相和習慣始終沒變。這次 4.0 終於願意換個造型、學點新技能，對老用戶來說或許有點不習慣，但對新進使用者而言，這才是他們第一次真正認識 Audacity。免費音訊編輯市場，終於有了一場像樣的進化。</p>",
+    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Audacity-4.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "008",
+    "title": "AI智力排行榜大更新！Claude、GPT-6誰主沉浮？",
+    "summary": "Artificial Analysis Intelligence Index v4.2重磅改版，新增複雜任務與私有測試集，顛覆現有評分標準。Anthropic與OpenAI持續領跑，模型競賽進入新階段。",
+    "content": "<h2>測試任務全面升級，AI要過更難的關</h2>\n<p><strong>這次改版最關鍵的改變，是加入「私有測試集」來防止作弊。</strong>過去模型可能透過反覆練習特定題目來刷高分，現在40%的評分權重都來自隱藏測試數據，讓排名更真實反映實際能力。新增的AA-Briefcase模擬真實知識工作場景，要求AI處理數千份文件、完成多階段任務；GDP.pdf則考驗模型在4,592頁PDF中整合資訊的能力，涵蓋文字、表格、圖表甚至註解。</p>\n\n<h2>模型戰況白熱化，效率與實力並重</h2>\n<p><strong>Anthropic的Claude Fable 5.1繼續霸榜，OpenAI的GPT-6 Astra緊追在後。</strong>值得注意的是，GPT-6 Astra在輸出token效率上表現突出，幾乎擊敗所有同層級模型。四家實驗室——Anthropic、OpenAI、Meta、Z.AI——共同佔據「每任務成本」前沿曲線，顯示業界在性能與成本間尋找平衡的競爭格局。評測基礎設施也同步升級，修正評分標準模糊性，讓模型評分更穩定可靠。</p>\n\n<h2>編輯悄悄話</h2>\n<p>AI競賽就像跑馬拉松，現在不僅比誰跑得快，還比誰跑得穩、跑得省。私有測試集這招頗像考試改採「隨機抽題」，讓補習班效應大打折扣。下次看到排行榜時，別只看分數高低，想想這些題目是不是真能反映AI解決實際問題的能力——畢竟，能過關的才是真本事。</p>",
+    "image": "https://cdn.sanity.io/images/6vfeftx9/articles/6f95888d7f2b11ac42c1be194ed4de6fa96571cb-1254x1254.png?w=1200&auto=format",
+    "source": "Hacker News",
+    "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "009",
+    "title": "GitHub 推出 HydraFusion，多模型協作讓程式碼品質直逼 Opus 5",
+    "summary": "GitHub 推出 Project HydraFusion，以多模型編排技術重塑 AI 輔助編碼體驗。在評估中匹配甚至超越 Opus 5 基準，同時降低工作流程成本，現已開放研究預覽。",
+    "content": "<h2>多模型協作，不只是噱頭</h2>\n<p><strong>GitHub 這次把「多模型編排」玩真的了。</strong>Project HydraFusion 的核心概念很直接：不再依賴單一 AI 模型獨挑大樑，而是讓多個模型分工協作，根據不同編碼任務選擇最適合的模型來處理。在控制性離線評估中，HydraFusion 的選擇性編碼工作流程不僅匹配了 Opus 5 的表現，甚至在某些情境下更勝一籌，同時還把預估的工作流程成本壓了下來。</p>\n<p>這對開發者來說意味著什麼？簡單說，你不用為了追求最高品質而犧牲效率，也不用為了省錢而妥協於較差的建議。GitHub 這次試圖在品質與成本之間找到一個更聰明的平衡點。</p>\n\n<h2>從研究預覽到日常開發</h2>\n<p><strong>現在已經可以在 GitHub Copilot 中體驗這個功能。</strong>HydraFusion 目前以研究預覽的形式開放，代表它還在持續測試與優化階段，但已經具備實際使用的價值。對於習慣使用 GitHub Copilot 的開發者來說，這是一個不需要額外設定就能嘗試的新選項。</p>\n<p>GitHub 強調自己是全球開發者體驗最佳的平台，也是唯一在每個環節都內建安全機制的 AI 驅動平台。HydraFusion 的推出，進一步強化了這個定位——不只是幫你寫程式，而是讓整個編碼流程更安全、更高效。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>AI 寫程式已經不是新鮮事，但「誰來寫、怎麼寫」才是關鍵。</strong>HydraFusion 的思路很務實：與其讓一個模型包辦一切，不如讓多個模型各司其職，該用誰就用誰。這就像一間好廚房不會只靠一個廚師，而是讓每個人都發揮專長。對開發者而言，這代表未來你可能會看到更多「智能分派」式的 AI 工具出現，而不只是更快的單一模型。</p>",
+    "image": "https://github.blog/wp-content/uploads/2026/09/OptA_UI.jpg",
+    "source": "GitHub Blog",
+    "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "010",
+    "title": "Anaconda推預設安全AI編程代理，重塑軟體供應鏈防護",
+    "summary": "Anaconda推出預設安全的AI編程代理，重塑軟體供應鏈防護機制，強調提示工程非安全屏障，並透過戰略收購強化企業AI基礎設施。",
+    "content": "<h2>預設安全：AI編程代理的新常態</h2>\n<p><strong>預設安全意味著AI代理在出廠時就內建防護機制，而非事後補強。</strong>Anaconda的AI編程代理不再依賴開發者手動設定安全規則，而是從設計階段就將防護邏輯嵌入核心。Greg Jennings指出，過去許多團隊將提示詞當作安全護城河，但這種做法如同用紙牆擋洪水——看似有防備，實則一衝就潰。</p>\n<p><strong>供應鏈安全不能只靠「信任」，必須用技術驗證。</strong>Anaconda透過收購具備軟體物料清單（SBOM）分析能力的團隊，將第三方套件風險管控前置。這就像買房子不只檢查門鎖，還得確認建材是否符合抗震標準。</p>\n\n<h2>收購策略：補強AI基礎設施的拼圖</h2>\n<p><strong>戰略收購是Anaconda鞏固企業級AI護城河的关键一步。</strong>近年頻繁併購安全治理與可觀測性工具商，顯示其目標不僅是提供編程代理，更要打造端到端的可信賴AI開發環境。這種做法類似組裝電腦時，不只看主機板，還得確保電源供應器與散熱系統都能穩定協作。</p>\n<p><strong>企業採用AI代理時，最該擔心的是「黑箱依賴」。</strong>Anaconda強調透明化套件來源與依賴關係，讓開發者能追溯每個程式碼片段的來歷。這如同餐廳公開食材溯源，消費者才能安心下筷。</p>\n\n<h2>編輯悄悄話</h2>\n<p>看來以後寫程式，AI助手不僅要聰明，還得自帶防彈衣。Anaconda這招預設安全，或許能讓開發者少掉幾根頭髮。畢竟在AI狂飙的時代，能同時兼顧效率與防護的解決方案，才是真正能打硬仗的利器。</p>",
+    "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format",
+    "source": "Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "011",
+    "title": "Cloudflare 联手 OpenAI 推出漏洞智能扫描，4000个漏洞先修哪个不再头痛",
+    "summary": "Cloudflare 联合 OpenAI Daybreak 模型推出漏洞发现与修复服务，结合 WAF 数据与生产流量分析，帮助安全团队优先处理最关键的威胁，重塑漏洞管理流程。",
+    "content": "<h2>漏洞太多修不过来？AI 帮你排优先级</h2>\n<p><strong>你的扫描器刚报了4000个新漏洞，其中78个是严重等级，你该先修哪一个？</strong>这个问题困扰了无数安全团队。Cloudflare 现在宣布推出漏洞发现与修复服务，作为 Cloudflare Managed Defense 的一部分，专门解决这个痛点。这项服务采用邀请制，利用 OpenAI Daybreak 模型，包括 GPT-5.6 Cyber，对客户授权的代码库进行侦察、漏洞搜寻和验证。</p>\n<p><strong>最棒的是，所有补丁提案都会经过自动检查，客户才是最终拍板的人。</strong>Cloudflare 强调，虽然他们会提出代码补丁和其他缓解方案，但实施与否完全由客户决定，安全团队始终掌握主导权。</p>\n\n<h2>从「盲目扫描」到「情境感知」的质变</h2>\n<p><strong>传统漏洞扫描最大的盲点，就是不知道哪些代码真的在线上跑。</strong>扫描器告诉你某个 handler 有漏洞，但不会告诉你这段代码是否已部署、有没有人真的在访问这个路由、周围有什么安全活动，或者你现有的防护措施是否已经到位。你只能在没有生产环境证据的情况下，凭感觉决定优先级。</p>\n<p><strong>Cloudflare 的解法是把 WAF 数据和生产流量快照结合起来。</strong>透过全球网络，他们能看到哪些路由是活跃的、流量有多大、最近有没有安全事件。如果客户同时启用了 Web Application Firewall，Cloudflare 还能看到哪些规则已经在运行、哪些攻击已经被拦截。这些情境信息让一个普通的漏洞发现，变成明确的优先级判断：这个漏洞在上线代码里、在热门路由上、有近期攻击活动、而且没有任何现有防护。</p>\n<p><strong>这项服务支援 Cloudflare Workers 和代理应用程序，扫描流程分为几个阶段。</strong>首先从 Web Assets 和 WAF 收集流量与安全数据快照，接著用源代码漏洞分析找出潜在弱点，最后将两者结合，识别出高流量的「热路径」并优先处理。</p>\n\n<h2>编辑悄悄话</h2>\n<p><strong>以前修漏洞像在玩扫雷，永远不知道下一个点下去会不会爆炸。</strong>现在有了 AI 加上真实流量数据，至少知道哪颗雷最有可能炸、炸了影响多大。对安全团队来说，这不只是工具升级，更是工作方式的根本改变。毕竟，面对4000个漏洞还知道从哪里下手，比盲目加班修到秃头有价值多了。</p>",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M1M93F7AEJ7GBHA2V4NNP3XK.01M1M93G208121NF47SS8DRCZ6.png",
+    "source": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "012",
+    "title": "Google WeatherNext 3直取卫星数据，5公里解析度颠覆天气预报",
+    "summary": "Google推出WeatherNext 3全球AI天气模型，直接摄取每小时更新的地球同步卫星影像，解析度最高达5公里，大幅超越传统数值天气预报系统，已整合至Google搜索、Gemini、Google Maps等服务。",
+    "content": "<h2>卫星数据直接喂给AI，天气预报不再靠猜</h2>\n<p><strong>传统天气预报靠超级电脑跑物理公式，Google这次直接把卫星影像丢给AI处理。</strong>WeatherNext 3最厉害的地方，在于它不再等待传统数值天气预报系统慢慢分析数据，而是直接摄取地球同步卫星每小时更新的全球影像，搭配既有大气分析资料，立刻重新计算天气状况。这意味着什么？当锋面快速移动、局部降雨突然生成时，模型能即时反映最新状态，不再像过去那样「慢半拍」。</p>\n<p>解析度方面更是大幅提升。WeatherNext 2主要采用约25公里解析度，而WeatherNext 3的温度、湿度等近地表资料可提高至5公里，其他地表资料约10公里，高空风速等资料则维持约25公里。更细的解析度能清楚呈现海岸、山区与河谷等地形造成的局部天气差异，对住在台湾这种多山多海岸的国家来说，实用性直接拉满。</p>\n<h2>不只预报天气，连发电都能算</h2>\n<p><strong>Google这次不只做天气预报，还顺手帮再生能源业者算了一笔账。</strong>WeatherNext 3加入了风力与太阳能发电所需的气象资料，包括100公尺高度的风速、云量及太阳辐射，让能源业者能更精准估算发电量。这对台湾推动再生能源是个好消息，毕竟天气不准，风电和光电的调度就会很麻烦。</p>\n<p>Google的基准测试显示，WeatherNext 3在多数气象变量、预报提前时间与气压层的测试中，表现优于主要的传统数值天气预报系统。Google以欧洲中期天气预报中心（ECMWF）的营运预报系统作为比较基准，评估温度、风速、气压等多种气象资料。降水预报也有所改善，Google加入NASA卫星降水资料与自建的卫星雷达降水资料训练模型，在部分中期降水评估中，表现优于数值天气预报基准。</p>\n<p>目前WeatherNext 3已整合至Google搜索、Gemini、Google Maps、Google Maps Platform天气API与Google Earth Engine。研究人员与企业也可透过BigQuery与Earth Engine查询预报资料，或从Google Cloud Storage批次取得资料。</p>\n<h2>编辑悄悄话</h2>\n<p>以前看天气预报，总觉得「说好的下雨呢？」现在Google直接把卫星影像喂给AI，每小时更新，解析度还提到5公里，以后出门前查天气，应该不用再赌运气了。不过话说回来，台湾的天气向来像小孩的脸，说变就变，就算AI再强，带伞还是保险一点。</p>",
+    "image": "https://www.ithome.com.tw/sites/default/files/field/image/fireshot_capture_102_-_weathernext_3_our_most_advanced_global_weather_ai_model_-_blog.google.jpg",
+    "source": "iThome",
+    "url": "https://www.ithome.com.tw/news/178715",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "013",
+    "title": "逆向工程神操作！GTA V 成功登陸 Switch，玩家自製移植版曝光",
+    "summary": "民間開發者利用外洩原始碼，以逆向工程將GTA V移植至Switch，無需模擬器即可原生運行，挑戰主機遊戲移植技術極限，或將重塑玩家對掌機效能的認知。",
+    "content": "<h2>逆向工程突破技術壁壘</h2><p><strong>這可不是模擬器，而是正兒八經的原生移植。</strong>開發團隊Paralympics Productions利用2023年駭客組織LAPSUS$外洩的GTA V原始碼，將遊戲邏輯重新編譯為ARM指令集，讓這款2013年的開放世界巨作直接在Switch的Tegra X1晶片上運行。整個過程完全跳過模擬層，等於把PC版遊戲「翻譯」成Switch能直接理解的語言。</p><p><strong>原始碼來源牽出一場駭客風波。</strong>這批關鍵資料來自2022年底英國17歲駭客Arion Kurtaj竊取的Rockstar Games內部檔案，2023年12月透過Telegram流出。開發者拿到後不僅要處理ARM架構轉換，還得面對PC版高解析度素材的壓縮難題——畢竟Switch只有4GB記憶體，得靠修改繪製距離和粒子效果來避免硬體過載。</p><h2>實測表現與潛在風險</h2><p><strong>超頻是流暢遊玩的必要條件。</strong>未超頻時幀率僅10-25 FPS，但透過sys-clk等工具對CPU、GPU和記憶體進行安全超頻後，Switch OLED版在簡單場景能維持約30 FPS。不過爆炸場面或大量NPC出現時，幀率仍會明顯下滑，整體表現約莫相當於PS3/Xbox 360世代。</p><p><strong>掌機模式體驗有驚喜也有妥協。</strong>讀取時間合理、發熱控制得當，電池消耗與其他高負載遊戲相近。但Joy-Con按鍵偏重，精準操作稍顯吃力，目前已有玩家成功通過開場任務並自由探索。社群中更出現Switch 2輕度超頻運行影片，引發熱烈討論。</p><h2>編輯悄悄話</h2><p>這移植案就像用螺絲起子修衛星，技術雖炫但風險高。玩家別急著抄捷徑，官方移植才是王道。畢竟，誰想玩到一半主機當機呢？</p>",
+    "image": "https://www.kocpc.com.tw/wp-content/uploads/2026/09/20260905015954_0_8c94f1.jpg",
+    "source": "電腦王阿達",
+    "url": "https://www.kocpc.com.tw/archives/667706",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "014",
+    "title": "底片機回潮！KODAK Snapic A1 免調參數，自動捲片閃光燈隨手拍",
+    "summary": "底片攝影正被KODAK Snapic A1重塑，自動捲片與閃光燈設計顛覆傳統操作，讓新手也能輕鬆捕捉復古氛圍，解決數位疲勞下的懷舊痛點。",
+    "content": "<h2>免調參數的復古新體驗</h2><p><strong>這台相機把複雜留給過去，把樂趣還給你。</strong>KODAK Snapic A1 三片式玻璃鏡頭搭配25mm焦段，陽光下拍照銳利度夠用，底片特有的暗角與顆粒感自然顯現。兩段式對焦鈕只要區分「近拍」或「遠景」，不用算距離，憑直覺就能操作。</p><p><strong>自動捲片與回片功能省去犯錯煩惱。</strong>每按一次快門，機身自動準備下一張，頂端OLED螢幕清楚顯示剩餘張數。傳統底片機最怕忘捲片或卡針，這台直接幫你搞定，安心享受拍攝過程。</p><h2>雙重曝光玩出未知驚喜</h2><p><strong>同一張底片疊加兩次影像，靈感與運氣決戰。</strong>先拍建築輪廓再疊樹影花草，無法預覽螢幕，每次揭開底片的瞬間都像開盲盒。這種未知感正是雙重曝光最過癮的地方，讓拍照從技術活變成創意遊戲。</p><p><strong>自動閃光燈補光，室內合照也有復古菲林感。</strong>f/9.5固定光圈在陰天或室內容易吃光，內建防紅眼閃光燈即時補光，聚餐拍朋友合照能保留底片溫暖調性。雖然不主打夜拍，但適當距離內成功率大幅提升。</p><h2>編輯悄悄話</h2><p>底片機不是老古董，而是讓你慢下來的生活夥伴。Snapic A1把複雜留給過去，把樂趣還給你，下次聚會不妨試試，看看你的故事會顯影成什麼模樣。</p>",
+    "image": "https://bucket-image.inkmaginecms.com/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/09/184a6b73-3e1f-4c0e-af07-9c2fbed98336.jpg",
+    "source": "癮科技",
+    "url": "https://www.cool3c.com/article/251662",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "015",
+    "title": "骑在恐怖木偶肩上砍怪？这款暗黑RPG让你体验「肩扛噩梦」的快感",
+    "summary": "颠覆传统动作RPG框架，玩家骑乘恐怖木偶探索暗黑世界，挑战生存极限。",
+    "content": "<h2>骑在噩梦木偶肩上，砍怪也要有「高度」优势</h2>\n<p><strong>当「肩扛式战斗」成为核心玩法，这款暗黑RPG彻底颠覆了传统动作游戏框架。</strong>《Withering Realms》将玩家置于1920年代架空世界，扮演幽灵孩童骑乘活体木偶「The Doll」探索哥特式沼泽、腐烂庄园与开花墓地。木偶浑身弹簧铰链、独眼咧嘴的惊悚造型，被开发者形容为「Phil Tippett定格动画《Mad God》遇上《Mouthwashing》的Curly」。</p>\n<p><strong>战斗系统融合「俯视角塞尔达」与「血源诅咒」的精髓。</strong>玩家可替换木偶右臂为链球、喷火烛台等诡谲武器，还能从木偶背部发射法术。面对眼球电视、疯癫女仆等110余种怪物，骑乘视角既提供战术优势，也强化了「与噩梦共生」的沉浸感。</p>\n\n<h2>昼夜交替的暗黑世界，夜晚的Penwyll镇藏着更多秘密</h2>\n<p><strong>解锁新区域后，玩家可切换至调查员Althea Crossley进行潜行玩法。</strong>这位「擅长开锁、审问与潜行」的角色采用3/4视角固定镜头，与木偶战斗形成节奏互补。昼夜系统更添变数：夜晚怪物更强，但Penwyll镇的商店会刷新特殊「谋杀零件」，推动剧情与装备双线发展。</p>\n<p><strong>早期测试版已支持完整通关，预计流程15-42小时。</strong>50种武器、70个护符的收集要素，搭配后续语言支持与终局内容更新，让这款「恐怖玩偶肩上的动作RPG」成为Steam新品值得关注的黑马。</p>\n\n<h2>编辑悄悄话</h2>\n<p>说真的，谁小时候没幻想过骑个巨型玩偶打怪呢？《Withering Realms》把这份暗黑童话照进现实——只不过你的坐骑长得像从《寂静岭》片场溜出来的。当独眼木偶扛着你在沼泽里狂奔时，大概会明白什么叫「痛并快乐着」。毕竟，能骑着噩梦砍怪的游戏，谁舍得放下手柄啊？</p>",
+    "image": "https://assetsio.gnwcdn.com/Withering-Realms-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+    "source": "Rock Paper Shotgun",
+    "url": "https://www.rockpapershotgun.com/top-down-zelda-meets-bloodborne-action-rpg-withering-realms-is-out-now-in-early-access-should-you-fancy-riding-the-shoulders-of-a-horrible-doll",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "016",
+    "title": "任天堂兩連發！薩爾達40週年Direct接力登場",
+    "summary": "任天堂宣布連續兩晚播出Direct直播，首晚以薩爾達傳說40週年為核心，次晚揭開Switch後續新作陣容，強勢推進玩家期待，重塑年度遊戲盛事格局。",
+    "content": "<h2>薩爾達40週年，任天堂這次要大辦</h2>\n<p><strong>連續兩晚的Direct直播，任天堂這次真的不藏私。</strong>9月8日晚上10點，台灣玩家將迎來「薩爾達傳說40週年Direct」，這是為了慶祝這個傳奇系列誕生40週年所特別企劃的直播節目。從1986年首作問世至今，林克與海拉魯王國已經陪伴玩家走過四十年，這次任天堂選擇用一場專屬Direct來致敬，可見對這個IP的重視程度。雖然具體發表內容尚未公開，但能確定的是，<strong>這絕對不是普通的回顧特輯，而是帶有重磅新消息的紀念活動。</strong></p>\n\n<h2>隔天接力，Switch新陣容即將揭曉</h2>\n<p><strong>9月9日晚上10點，Nintendo Direct直接接棒，Switch後續新作陣容將正式亮相。</strong>這場直播預計帶來任天堂Switch平台最新遊戲情報，包含尚未公開的新作動態與現有遊戲的更新計畫。對於還在用Switch的玩家來說，這無疑是年度最值得期待的一晚。<strong>任天堂近年在Switch生命週期後段持續推出新作品，這次接力直播很可能會有令人眼睛為之一亮的消息。</strong></p>\n\n<h2>編輯悄悄話</h2>\n<p>連續兩晚的Direct直播，等於把玩家假期直接包辦了。說實話，這種大手筆的企劃在任天堂歷史上也不算常見，這次雙連發的規格，代表他們對2026年下半年充滿信心。<strong>薩爾達40週年加上Switch新作陣容，兩場直播加起來幾乎等於任天堂年度最大型的新聞發布會。</strong>建議大家提前把時間空出來，泡杯茶、準備好零食，兩晚連看下來，保證不會後悔。</p>",
+    "image": "https://img.4gamers.com.tw/news-image/825807ad-d74b-415c-97b0-e8945ccab989.jpg",
+    "source": "4Gamers",
+    "url": "https://www.4gamers.com.tw/news/detail/81873/zelda-40th-anniversary-nintendo-direct-2026",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "017",
+    "title": "CAPCOM《鬼武者 劍之道》發售日公開 宣傳片揭曉江戶劍鬥特色",
+    "summary": "CAPCOM宣布《鬼武者 劍之道》於2026年9月4日發售，宣傳片公開故事與劍鬥動作，重塑經典IP的動作體驗。",
+    "content": "<h2>江戶劍鬥風暴來襲！《鬼武者 劍之道》發售日敲定</h2>\n<p><strong>CAPCOM正式宣布《鬼武者 劍之道》將於2026年9月4日發售</strong>，同步公開上市宣傳影片。這款劍鬥動作遊戲將帶領玩家進入江戶時代初期的京都，體驗主角宮本武藏的命運抉擇。宣傳片中詳細展示了遊戲的核心特色，包括流暢的劍鬥系統與史詩級劇情。</p>\n\n<h2>經典IP新詮釋 宮本武藏的命運之劍</h2>\n<p><strong>本作由CAPCOM重新打造，融合經典《鬼武者》元素與創新劍鬥玩法</strong>。遊戲背景設定在歷史轉折點，玩家將跟隨宮本武藏探索京都的暗流與機遇。宣傳片中的動作場景展現了精準的劍技對決，強調策略性戰鬥與即時反應的結合。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這款遊戲讓老玩家回憶起《鬼武者》系列的經典魅力，新玩家也能透過宮本武藏的故事感受江戶時代的劍鬥文化。9月4日發售日已敲定，喜歡動作遊戲的玩家可別錯過這場劍術盛宴。</p>",
+    "image": "https://p2.bahamut.com.tw/B/2KU/19/3ed1e7d25b080e572803f812272068n5.JPG",
+    "source": "巴哈姆特 GNN",
+    "url": "https://gnn.gamer.com.tw/detail.php?sn=311140",
+    "date": "2026-09-05"
+  }
+]
