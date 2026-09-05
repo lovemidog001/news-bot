@@ -168,5 +168,95 @@
     "source": "巴哈姆特 GNN",
     "url": "https://gnn.gamer.com.tw/detail.php?sn=311140",
     "date": "2026-09-05"
+  },
+  {
+    "id": "018",
+    "title": "OpenAI砸10億美元，搶救台灣也靠得住的民生基礎設施防禦",
+    "summary": "OpenAI推出Daybreak for Frontline Defenders，以10億美元補貼資源有限的前線防禦者，**重塑關鍵基礎設施的網路安全格局**，讓水電、金融等民生系統不再因預算不足而裸奔。",
+    "content": "<h2>為什麼是現在？攻擊者已經用AI升級了</h2>\n<p><strong>OpenAI這次不是來賣模型的，是來搶時間的。</strong>他們觀察到一個嚴峻現實：隨著全球AI模型能力快速躍升，AI驅動的網路攻擊將變得更加普及且精密。這意味著攻擊者不再只是躲在暗處的技術高手，而是能利用強大AI工具快速尋找漏洞、自動化攻擊的組織。對防禦者來說，這是一場速度競賽——<strong>誰先找到弱點並補上，誰就能守住。</strong>OpenAI將這段窗口期稱為「defender's window」，強調機會正在收窄，現在不行動就來不及了。</p>\n<p>過去許多基層防禦團隊，面對的是陳舊系統、不足預算與有限人力，卻要抵擋日益複雜的攻擊。OpenAI這次把Daybreak的先進AI網路能力，以補貼方式直接送到這些團隊手上，讓他們能審查舊有程式碼、分析可疑活動、驗證漏洞並優先處理最嚴重的風險。</p>\n\n<h2>10億美元怎麼花？從美國水電系統開始</h2>\n<p><strong>這筆錢不是撒胡椒面，而是精準投放到最脆弱的環節。</strong>OpenAI明確指出，首批受惠對象是美國境內營運關鍵基礎設施的機構，包含自來水與污水系統、電網營運商、州與地方政府、社區與區域銀行、非營利組織，以及開放原始碼維護者。這些組織的共同點是：肩負重大責任，卻沒有大型企業的資源。</p>\n<p>事實上，OpenAI已經有過實戰經驗。此前美國多處水系統遭受網路攻擊，OpenAI立即提供受影響州份與公用事業機構高達100萬美元的免費API額度與Daybreak存取權，協助團隊在系統持續運作的情況下完成程式碼審查、驗證發現、開發修補程式並確認修復。這次10億美元的承諾，是把同樣的模式擴大並常態化，<strong>目標是在未來六個月內讓資源受限的防禦者全面用上前沿AI能力。</strong>OpenAI也預告，接下來會將此模式擴展至合作國家。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>這就像你發現整條街只有你家沒裝防盜門，而小偷已經換上夜視鏡了。</strong>OpenAI這次砸下10億美元，等於在說：「別讓關鍵系統因為錢不夠就裸奔。」水斷了、電停了、銀行當機，這些都不是遙遠的科幻情節，而是下一秒就可能發生的事。防禦者手上有武器了，接下來就看誰先下手為強。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/lvizepLUAiputffdSjtue/f89a11ed639405a45b491f70c882f0de/SEO_Card___short_copy_example__1_.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "019",
+    "title": "AMD推60美元遊戲機BC-250，平價電競時代來臨？",
+    "summary": "AMD推出定價僅60美元的BC-250迷你主機，企圖顛覆入門級遊戲市場。這款被稱為「60美元遊戲PC」的產品，能否真正讓玩家用零錢花錢的代價體驗3A大作？",
+    "content": "<h2>60美元買什麼？AMD這次不玩假的</h2>\n<p><strong>AMD BC-250以極致低價切入市場，目標是讓預算有限的玩家也能接觸遊戲。</strong>這款被外界稱為「60美元遊戲PC」的產品，在2025年引發廣泛討論。對於許多學生族或剛入社會的年輕人來說，一台能跑遊戲的電腦從來不是小數目，而AMD這次直接把門檻壓到地板價。雖然規格細節尚未完全揭曉，但這個定價策略本身就足以讓業界側目。</p>\n\n<h2>平價不等於爛，還是只是噱頭？</h2>\n<p><strong>關鍵不在於價格多低，而在於這個價位能不能真正跑動現代遊戲。</strong>業界普遍對BC-250持謹慎樂觀態度。AMD過往在整合顯示核心與低功耗設計上有不錯表現，但60美元要做出能玩遊戲的體驗，難度不低。外界猜測這款產品可能針對雲端遊戲或輕度電競優化，而非硬碰硬跑最新3A大作。無論如何，這都是一次大膽的市場試水溫。</p>\n\n<h2>編輯悄悄話</h2>\n<p>說實在的，60美元在台灣大概只夠吃幾頓便當，現在居然能買一台遊戲主機，這世界真的變了。AMD這招就像在高端電競市場丟了一顆炸彈，不管BC-250最後表現如何，它已經成功讓所有人開始思考：遊戲電腦的門檻，是不是該被重新定義了？</p>",
+    "image": "",
+    "source": "Hacker News",
+    "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "020",
+    "title": "醫療 AI 新選擇！Ling 3.0 Flash Sante 免費開放至 10/4",
+    "summary": "inclusionAI 推出醫療專用 AI 模型 Ling 3.0 Flash Sante，10 月 4 日前免費使用，將顛覆醫療研究與臨床工作流程。",
+    "content": "<h2>醫療 AI 新選擇，免費體驗不花錢</h2>\n<p><strong>inclusionAI 的 Ling 3.0 Flash Sante 專為醫療領域設計，10 月 4 日前免費使用。</strong>這款模型基於 Ling 3.0 Flash 開發，採用 Mixture-of-Experts 架構，總參數達 124B，但每次 token 僅激活約 5.1B，搭配 256K 上下文視窗與函數呼叫功能，能高效處理醫療推理、專業健康任務、深度研究與多步驟醫療流程。</p>\n<p><strong>免費方案提供兩種模型 ID 選擇，滿足不同需求。</strong>標準版 ID <code>inclusionai/ling-3.0-flash-sante</code> 在免費期結束後將開始計費；而 <code>inclusionai/ling-3.0-flash-sante-free</code> 則會在優惠結束後直接停止服務，避免意外扣款。所有免費請求仍會顯示於使用儀表板並保留追蹤記錄，只是不產生費用。</p>\n\n<h2>如何上手？技術細節一次看</h2>\n<p><strong>透過 AI SDK 設定 model 參數即可快速整合。</strong>開發者可在 AI SDK 中指定模型 ID，若希望免費期結束後停止服務而非計費，建議使用 <code>-free</code> 版本。此外，AI Gateway 提供統一 API 介面，支援使用追蹤、成本控管、重試機制與效能優化，並內建自訂報表、零資料保留功能與 API 金鑰預算管理等進階特性。</p>\n<p><strong>AI Gateway 採用供應商原價計費，不收取平台手續費。</strong>無論是透過標準方案或 Bring Your Own Key（BYOK）模式，皆能享受無加價的透明定價。開發者可於模型遊樂場或免費模型頁面直接測試，或參考編程代理指南連接 Claude Code、Codex、Cursor 等工具。</p>\n\n<h2>編輯悄悄話</h2>\n<p>醫療 AI 越來越普及，這次免費試用的機會難得，但記得在 10 月 4 日前決定是否繼續使用，避免被自動計費。如果你正在尋找能處理複雜醫療邏輯的模型，這波優惠絕對值得關注！</p>",
+    "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5P96Goh9cE4twnHsrz63Rz/e97e41e40a8d533c9c7b213d12783de5/image__77_.png",
+    "source": "Vercel Blog",
+    "url": "https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "021",
+    "title": "Google Lyria 3.5 登陸 Gemini App，AI 音樂生成門檻大降",
+    "summary": "Google 最強音樂生成模型 Lyria 3.5 正式上線 Gemini App，讓全球使用者無需跳轉，直接在對話中生成完整歌曲，推動 AI 音樂創作進入日常對話層級。",
+    "content": "<h2>從 Flow Music 到 Gemini：AI 音樂生成不再只是創作者的工具</h2>\n<p><strong>Google 這次把音樂生成從「專業工具」推進到「對話入口」，讓普通人也能輕鬆玩音樂。</strong>9 月 4 日，Google 官方帳號在 X 上宣布，旗下最強的音樂生成模型 Lyria 3.5 正式上線 Gemini App，所有全球使用者都能直接在手機或網頁端生成完整歌曲。這個模型在 7 月底先在 Google Flow Music 亮相，一個月後才推到 Gemini 這個更大規模的入口。對一般使用者來說，差別在於不必再跳到 Flow Music，直接在 Gemini 對話裡就能生成音樂。</p>\n<p><strong>Lyria 3.5 在音樂性、歌詞品質和聲線表現上都有顯著改進。</strong>模型能生成 44.1kHz 立體聲音頻，產出包含主歌、副歌、橋段在內的完整歌曲結構，而非只是重複一小段旋律。DeepMind 模型頁面顯示 Lyria 支援最長三分鐘的歌曲生成，使用者可以自訂歌詞主題、聲線風格和音響偏好，也能上傳圖片讓模型據此生成音樂。</p>\n\n<h2>模板、長度、風格三招搞定，新手也能秒生成生日歌</h2>\n<p><strong>這次上線 Gemini App 帶了三組新功能，讓生成音樂變得超簡單。</strong>第一是模板：Google 提供一系列起始模板，涵蓋背景音樂、品牌 jingle、個人化鈴聲等場景，讓使用者不用從空白 prompt 開始。第二是曲目長度選擇：使用者可以選短片段或較長的完整曲目。第三是風格控制：可以直接選擇或描述音樂類型，並在有人聲和純器樂之間切換。</p>\n<p><strong>API 端的規格更細緻，開發者可以精確控制音樂的每個細節。</strong>Gemini API 文件列出兩個模型 ID：`lyria-3-clip-preview` 固定產出 30 秒短片，`lyria-3.5` 則生成數分鐘的完整曲目。開發者最多可以隨 prompt 提供十張圖片，用 section tags（Verse、Chorus、Bridge）寫自訂歌詞，也能用 timestamps 指定樂器在何時進入。預設輸出 MP3，Lyria 3.5 額外支援 WAV 格式。</p>\n\n<h2>版權護欄與 SynthID 水印，Google 提前卡位 AI 音樂市場</h2>\n<p><strong>所有 Lyria 生成的音頻都附帶 SynthID 水印，讓平台能辨認音樂是否由 AI 生成。</strong>Google 將其描述為「人類耳朵無法察覺」的標記，讓聆聽者和平台能辨認音樂是否由 AI 生成或編輯。版權護欄方面，API 文件明確列出：所有 prompt 會經過安全過濾器，指向特定歌手的聲線請求和版權歌詞的生成都會被封鎖。</p>\n<p><strong>在音樂人參與方面，Lyria 系列在開發過程中有製作人和音樂家的參與。</strong>製作人 Wyclef Jean 曾使用 Music AI Sandbox，Yung Spielburg 則用 Lyria 為動畫短片《Dear Upstairs Neighbors》配樂。Lyria 3.5 現在同時在 Gemini App、Google Flow Music、Google AI Studio 和 Google Vids 四個入口可取得，Google 這次把入口拉寬，等於把 AI 音樂生成從「工具」推進到「對話」的層級。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前想生成一首歌，得先學 prompt 寫法、找專門工具，現在直接在 Gemini 裡打「幫我寫一首生日歌」就能搞定。<strong>這就像從「專業廚房」走進「速食餐廳」，門檻直接降到零。</strong>不過版權護欄和 SynthID 水印也提醒我們，AI 音樂雖然方便，但還是得尊重原創。下次在 Gemini 裡生成音樂時，記得想想：這首歌的版權到底算誰的？</p>",
+    "image": "https://www.kocpc.com.tw/wp-content/uploads/2026/09/introducing-lyria-3-5-music-gene.jpg",
+    "source": "電腦王阿達",
+    "url": "https://www.kocpc.com.tw/archives/667874",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "022",
+    "title": "空間小救星！LG Lite 32移動電視7999元，電視螢幕二合一隨處擺放",
+    "summary": "LG Lite 32重塑居家娛樂方式，7999元特價讓電視與電腦螢幕二合一，隨處移動滿足小空間需求，顛覆傳統固定式電視設計。",
+    "content": "<h2>一機多用，小空間救星</h2>\n<p><strong>IPS面板搭配1080p解析度，60Hz更新率雖不頂級卻夠日常使用。</strong>這款31.5吋電視最特別的是底座設計，能直立或平放，客廳當電視、臥室睡前看片、書房接筆電當螢幕，一台搞定所有場景。</p>\n\n<h2>7999元超值價，電視螢幕兩不誤</h2>\n<p><strong>特價後僅7999元，比同尺寸電視更親民。</strong>對於租房族或空間有限的小家庭，不用再煩惱電視佔地或電腦螢幕太小，移動式設計讓生活彈性大幅提升。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以後看劇不用再糾結「放客廳還是臥室」，這款移動電視讓你隨心所欲。7999元買不到吃亏，但能買到方便，小家庭必備！</p>",
+    "image": "https://bucket-image.inkmaginecms.com/version/social/9dde7c0f-a597-445c-80dd-9a93db8a4006/image/2026/09/fb1a8d8c-2056-4a88-9bf5-34fe8210a872.webp",
+    "source": "癮科技",
+    "url": "https://www.cool3c.com/article/251705",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "023",
+    "title": "FBI介入調查！暗網驚現1.53億張駕照外流，國防部長也在名單中",
+    "summary": "FBI正式介入調查一起大規模身份資料外洩事件，暗網新服務Nexus公然販售超過1.53億張美加駕照數位掃描檔，資料來源直指路易斯安那州身份驗證公司，高階官員也未能倖免，身份盜用危機全面升溫。",
+    "content": "<h2>暗網驚現1.53億張駕照，FBI正式介入調查</h2>\n<p><strong>這可不是普通的資安事件，而是美國歷來最大規模的駕照資料外洩案。</strong>本週暗網上出現了一個名為Nexus的身份盜用服務，公然販售超過1.53億張來自美國和加拿大的駕照數位掃描檔。更誇張的是，FBI紐奧良分局今天已經正式展開調查，追查這些照片的來源。</p>\n<p><strong>連美國國防部長Pete Hegseth的駕照都在名單中，這下事情鬧大了。</strong>根據KrebsOnSecurity的報導，這個服務不僅有駕照，還包含超過1,000萬張身分證、300多萬本旅行證件，以及至少57.9萬張醫療卡。資料數量在24小時內就增加了近40萬筆，顯示盜竊行為持續進行中。</p>\n<p><strong>這個服務還大方提供免費試看，連記者本人的駕照都被拿來當範例。</strong>服務創始者在俄羅斯網路犯罪論壇Exploit上發布廣告時，直接把作者的維吉尼亞州駕照當作免費樣本展示，這種大膽程度實在讓人咋舌。</p>\n\n<h2>資料來源直指身份驗證公司，高階官員也難倖免</h2>\n<p><strong>Nexus服務背後團隊聲稱，這些駕照影像來自一家大型身份驗證公司的資料洩漏。</strong>這家位於路易斯安那州的身份驗證公司服務眾多財富500強企業客戶，但具體名稱尚未曝光。調查人員正全力追查資料來源，試圖釐清洩漏規模與時間。</p>\n<p><strong>更令人擔憂的是，這些資料不僅包含駕照正反面照片，還有紅外線和紫外線掃描版本。</strong>每張圖片都附有日期和時間戳記，部分資料顯示拍攝時間可追溯至2025年6月，當時作者曾搭機前往美國中西部參加家族葬禮。這意味著盜竊行為可能已經持續超過一年。</p>\n<p><strong>資料中還出現大麻藥局識別卡和軍用身份證（CAC）等敏感文件，顯示洩漏範圍極廣。</strong>部分記錄標註來源為「CDL」（商業駕照）或「CAC」（通用存取卡），後者是用於進入政府建築和機密區域的身份證件。這種資料一旦落入不法分子手中，後果不堪設想。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>說真的，看完這則新聞我整個人都傻了。</strong>1.53億張駕照啊！這數字比台灣人口還多三倍有餘，而且連國防部長的資料都在裡面，代表什麼？代表你以為已經很安全的東西，其實早就被扒得精光。以後出門帶駕照，可能不只是帶一張卡片那麼簡單，得隨時擔心自己的身份有沒有被冒用。這世道，連暗網都在搞批發價，身份盜用已經不是新聞，而是日常了。</p>",
+    "image": "https://krebsonsecurity.com/wp-content/uploads/2026/09/nexus-phegseth.png",
+    "source": "Krebs on Security",
+    "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "024",
+    "title": "Amazon 砍劇！最前衛蜘蛛人影集無緣第二季",
+    "summary": "《Spider-Noir》確定無第二季，但索尼與 Amazon 正醞釀多部蜘蛛人衍生影集，漫威電視宇宙即將重塑。",
+    "content": "<h2>首播亮眼卻快速掉榜，Amazon 為何砍劇？</h2>\n<p><strong>《Spider-Noir》雖然開門紅，但排名下滑速度比《Reacher》還快，成為取消主因。</strong> Amazon 未公開具體原因，但市場數據顯示觀眾黏著度不足。不過這不代表漫威計畫泡湯——<strong>索尼正與 Amazon 開發多部蜘蛛人角色影集，其中一部已接近正式核定。</strong></p>\n\n<h2>黑白雙版本、反派大翻新，這部影集有多顛覆？</h2>\n<ul>\n<li><strong>62歲主角搭配黑色電影風格，打破傳統超級英雄框架。</strong> 影集提供黑白與彩色雙版本，製作成本翻倍，卻換來獨特視覺體驗。</li>\n<li><strong>Sandman、Tombstone 等反派重新詮釋，帶來新鮮感。</strong> 每個角色都跳出漫畫原著舒適圈，展現編劇大膽企圖心。</li>\n<li>雖然取消，但<strong>完整故事線無懸念，適合一次性觀賞。</strong> 沒有刻意留彩蛋吊胃口，反而讓故事畫下完美句點。</li>\n</ul>\n\n<h2>編輯悄悄話</h2>\n<p>超級英雄劇集競爭激烈，觀眾口味越來越刁鑽。<strong>《Spider-Noir》用實驗性手法挑戰類型框架，雖然商業表現未達預期，卻為漫威宇宙打開新可能性。</strong> 與其遺憾砍劇，不如欣賞這季敢於不同的勇氣——畢竟不是每部影集都敢讓蜘蛛人穿西裝、抽菸、在雨夜裡沉思啊！</p>",
+    "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/spider-noir.jpg?w=1600&h=900&fit=crop",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/spider-noir-canceled/",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "025",
+    "title": "EGS限免！二戰射擊遊戲《Beach Invasion 1944》免費拿 架MG42轟炸盟軍登陸",
+    "summary": "獨立遊戲團隊AIx2 Games打造的二戰射擊遊戲《Beach Invasion 1944》現正於Epic Games Store限時免費領取，9月7日前入庫即可永久保存。玩家將化身軸心國士兵，在諾曼第防線抵禦海陸空三棲進攻，體驗經典武器操作與戰術佈置的雙重挑戰。",
+    "content": "<h2>二戰防線重現！MG42機槍與Flak 88防空炮齊上陣</h2>\n<p><strong>這款遊戲讓你親手操作二戰經典武器，體驗諾曼第登陸戰的緊張刺激。</strong>《Beach Invasion 1944》由獨立團隊AIx2 Games開發，玩家將置身於佈滿鐵絲網與碉堡的防線上，面對猶如潮水般湧來的敵軍步兵、戰車與轟炸機。遊戲不僅還原MG42通用機槍與Flak 88防空炮等歷史武器，更要求玩家精準控制彈藥消耗與槍械冷卻時間。</p>\n<p><strong>戰術佈置與資源管理是生存關鍵。</strong>除了直接操作武器，玩家還需呼叫火炮支援、佈置反坦克地雷，甚至等待補給空投。這種多層次的防禦策略，讓遊戲不僅是單純的射擊體驗，更考驗玩家的戰術規劃能力。</p>\n\n<h2>EGS限免活動詳情 9月7日前免費入庫</h2>\n<p><strong>這次限免由開發者自行推出，不會在商店首頁顯示。</strong>玩家需主動前往Epic Games Store頁面領取，活動截止至9月7日。成功領取後遊戲將永久保存至個人收藏庫，無需再次付費即可隨時遊玩。</p>\n<p><strong>獨立遊戲的限免機會難得。</strong>這類由小團隊開發的遊戲通常較少參與大型促銷活動，這次EGS的限時免費讓玩家能以零成本體驗二戰題材的射擊遊戲，對歷史戰爭遊戲愛好者來說是一大福音。</p>\n\n<h2>編輯悄悄話</h2>\n<p>二戰遊戲迷們這次可別再猶豫了！《Beach Invasion 1944》不僅還原經典武器，更把戰術佈置玩出花樣。9月7日前去Epic領取，以後想打盟軍登陸戰隨時開槍，這波限免絕對值得收藏。</p>",
+    "image": "https://img.4gamers.com.tw/news-image/a02b4879-07fc-4fdc-97ec-9a1d559e2482.jpg",
+    "source": "4Gamers",
+    "url": "https://www.4gamers.com.tw/news/detail/81874/beach-invasion-1944-is-free-to-keep-on-egs",
+    "date": "2026-09-05"
+  },
+  {
+    "id": "026",
+    "title": "像素格鬥新玩法！《Guidus One》《Blossom Tales》手機遊戲週報",
+    "summary": "巴哈姆特電玩瘋本週推薦11款手機遊戲，其中《Guidus One》以即時戰鬥結合Roguelike要素顛覆傳統動作RPG框架，《Blossom Tales》則用復古像素風重塑冒險遊戲體驗，為玩家帶來全新遊戲選擇。",
+    "content": "<h2>像素風遊戲掀起復古新浪潮</h2>\n<p><strong>《Blossom Tales》以經典2D像素畫面打造動作冒險世界</strong>，這款遊戲讓玩家彷彿回到紅白機時代，卻擁有現代流暢的操作體驗。遊戲中精心設計的關卡與敵人配置，展現出開發團隊對傳統遊戲的深刻理解與創新詮釋。</p>\n<p><strong>《Guidus One》將即時戰鬥與Roguelike元素完美融合</strong>，每次遊玩都能體驗不同組合的技能與道具。這種設計讓遊戲重玩價值大幅提升，玩家需要在動態戰鬥中即時調整策略，體驗「一局一世界」的刺激感。</p>\n\n<h2>多元玩法滿足不同玩家需求</h2>\n<p><strong>《Karkaba》將阿拉伯街頭文化融入格鬥遊戲</strong>，獨特的視覺風格與幽默元素讓格鬥玩法更具地域特色。遊戲中角色設計與場景細節都充滿中東文化元素，為格鬥遊戲類型注入新鮮血液。</p>\n<p><strong>《弓姬城》打破塔防與經營遊戲的界線</strong>，將戰鬥策略與城鎮建設結合。玩家不僅要應對敵人進攻，還需合理規劃資源與建築布局，體驗雙重策略樂趣。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這批手機遊戲展現了開發者們在有限螢幕尺寸中發揮無限創意的企圖心。從復古像素到多元文化融合，從單一陣型到玩法跨界，這些作品證明手機平台已不再是小型遊戲的代名詞。下次在捷運上等待到站時，不妨試試這些作品，也許會發現口袋裡就藏著下一個讓你上癮的遊戲世界。</p>",
+    "image": "https://p2.bahamut.com.tw/B/2KU/61/156b3d2cf0ad798c68ff11cc13206495.PNG",
+    "source": "巴哈姆特 GNN",
+    "url": "https://gnn.gamer.com.tw/detail.php?sn=311142",
+    "date": "2026-09-05"
   }
 ]
