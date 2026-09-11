@@ -8,5 +8,15 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "date": "2026-09-11"
+  },
+  {
+    "id": "002",
+    "title": "AlphaGenome Atlas 繪製90億種DNA變異地圖，精準醫學迎來新紀元",
+    "summary": "AlphaGenome Atlas 以AI技術重塑人類基因研究，完整預測90億種單字母DNA變異的分子效應，為精準醫療與遺傳疾病診斷帶來顛覆性突破。",
+    "content": "<h2>AI 看懂人類基因密碼</h2><p><strong>Google DeepMind 推出的 AlphaGenome Atlas，把人類基因組裡每一個可能出現的單字母變異，全部預測了一遍。</strong>人類基因組大約有30億個鹼基對，換算下來，單一位置的字母替換就有90億種可能。過去研究這些變異，要靠實驗室一筆一畫慢慢測，成本高、速度慢。現在 AlphaGenome 直接以深度學習模型預測每一種變異對基因功能的影響，等於把基因組的「使用手冊」一次寫完。</p><h2>從研究到臨床，只差一步</h2><p><strong>這項技術最關鍵的價值，在於讓遺傳疾病的診斷速度與準確度大幅提升。</strong>過去醫師面對患者帶有未知基因變異的檢測報告，往往只能猜測其臨床意義。AlphaGenome Atlas 提供的是系統性的預測資料庫，醫師可以對照每一種變異的分子效應，快速判斷是否與特定疾病相關。這不僅適用於罕見病，也為癌症基因檢測、藥物基因體學等領域，提供前所未有的參考基準。</p><h2>編輯悄悄話</h2><p>想像一下，以後去驗血，報告上不只寫「你有這個基因變異」，還直接告訴你「這個變異會讓你的肝臟代謝藥物能力下降30%」——這不是科幻，而是 AlphaGenome Atlas 正在推動的現實。基因檢測從「找到差異」邁向「理解差異」，精準醫療的時代，真的來了。</p>",
+    "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "date": "2026-09-11"
   }
 ]
