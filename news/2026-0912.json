@@ -1,0 +1,12 @@
+[
+  {
+    "id": "001",
+    "title": "Perplexity 全面信任 GPT-6 Astra：從寫程式到監控系統一手包辦",
+    "summary": "Perplexity 將 GPT-6 Astra 納入核心工作流，從撰寫通訊、修改軟體到監控生產系統全面接管，檢查頻率大幅降低，重塑 AI 在工程領域的信任邊界。",
+    "content": "<h2>AI 越會寫程式，搜尋引擎就越聰明</h2>\n<p><strong>Perplexity 創辦人 Johnny Ho 點出一個關鍵：模型寫程式能力越強，搜尋引擎就越精準。</strong>身為 AI 驅動的解答引擎，Perplexity 的核心任務是處理海量資訊並給出準確答案。Johnny 觀察到，每一次模型在程式碼撰寫上進步，搜尋引擎的表現就跟著升級——它能寫出更好的程式來搜尋網頁與內部資料，再把結果濃縮成簡潔有力的摘要。</p>\n<p>但這只是前半段故事。真正的挑戰在於，如何把這些資訊處理能力應用到真實世界的系統上。過去這一步總是卡關，直到 GPT-6 Astra 出現，才讓整個流程變得順暢許多。</p>\n\n<h2>測試程式碼不再靠人力硬撐</h2>\n<p><strong>Johnny 最推崇的應用，是讓 GPT-6 Astra 幫忙寫測試程式。</strong>工程團隊時間有限，手動測試根本來不及。於是 Johnny 直接請 GPT-6 Astra 針對某個應用程式，自動建構一套小型測試程式。這個模型能產生非常逼真的模擬回應——比如扮演另一個服務、語言模型 API 或連接器，然後檢查應用程式如何應對，從頭到尾把整個工作流程跑一遍。</p>\n<p>這種做法等於讓 AI 同時扮演測試者與被測試對象的夥伴，大幅縮短開發週期。<strong>Perplexity 使用 GPT-6 Astra 撰寫通訊、修改軟體、監控生產系統，而且檢查頻率比之前模型低得多。</strong>這代表什麼？代表團隊對模型的信任度已經提升到一個新層次——不是每步都要盯，而是敢放手讓它跑。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>以前我們擔心 AI 會不會出錯，現在 Perplexity 的團隊擔心的是：如果 AI 太可靠，我們是不是該找點事做了？</strong>GPT-6 Astra 讓工程團隊從繁瑣的測試工作中解放，把精力放在真正需要人類判斷的地方。這不只是效率提升，更是工作方式的根本轉變——當 AI 能獨立完成端到端的系統任務，人類的角色從執行者變成監督者，這或許才是未來職場最真實的寫照。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2ONJEXhA8M9IGON14JgHTc/4450550ce2d8b38c7fe2e7825839c92a/og.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "date": "2026-09-12"
+  }
+]
