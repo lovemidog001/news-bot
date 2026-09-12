@@ -8,5 +8,15 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "date": "2026-09-12"
+  },
+  {
+    "id": "002",
+    "title": "AlphaGenome Atlas 繪製 90 億 DNA 變異預測圖，揭開基因密碼新頁",
+    "summary": "AlphaGenome Atlas 重塑基因研究，預測 90 億種 DNA 變異的分子效應，為精準醫療帶來革命性進展，讓醫師能更準確地解讀基因突變與疾病關聯。",
+    "content": "<p>想像一下，你的 DNA 就像一本厚厚的生命手冊，每個字母的微小變動都可能影響健康。現在，科學家終於繪製出這本手冊的完整『地圖』，預測每一種可能的字母變異會帶來什麼後果。</p>\n\n<h2>90 億變異，一張圖看懂基因密碼</h2>\n<p><strong>這幅 Atlas 涵蓋人類基因組中所有單字母 DNA 變異，總數高達 90 億種。</strong>過去研究往往只聚焦少數已知突變，如今科學家能系統性預測每種變異的分子效應，彷彿為基因組裝上導航系統。這不僅加速基礎研究，更讓臨床醫師在解讀患者基因數據時，有據可依。</p>\n\n<h2>從實驗室到診所，精準醫療不再遙遠</h2>\n<p><strong>這項技術有望推動精準醫療進入新階段，讓治療方案更個人化。</strong>例如，當醫師發現患者帶有某種罕見基因變異，Atlas 能立即提示該變異可能影響哪些蛋白質功能，進而推測疾病風險或藥物反應。這意味著未來診斷將不再只是猜測，而是基於大數據的預測。</p>\n\n<h2>編輯悄悄話</h2>\n<p>基因組就像一本天書，過去我們只能讀懂零星幾頁，現在終於有了一本完整字典。這不僅是科學家的勝利，更是每個人的健康福音。下次聽到基因檢測，別再覺得遙不可及——因為這幅 Atlas 正悄悄改變我們對生命的理解。</p>",
+    "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "date": "2026-09-12"
   }
 ]
