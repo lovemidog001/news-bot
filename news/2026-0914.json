@@ -8,5 +8,15 @@
     "source": "OpenAI Blog",
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "date": "2026-09-14"
+  },
+  {
+    "id": "002",
+    "title": "AlphaGenome Atlas 繪出90億種DNA變異地圖，精準預測基因突變效應",
+    "summary": "AlphaGenome Atlas 以AI預測人類基因組中90億種單字母DNA變異的分子效應，將徹底重塑基因變異解讀方式，為精準醫療與遺傳疾病研究帶來顛覆性突破。",
+    "content": "<h2>一張圖看懂90億種基因突變</h2><p>人類基因組裡總共有約30億個DNA字母，而每個位置都可能出現不同變化。AlphaGenome Atlas 這個專案，就是把所有可能的單字母變異——總共90億種——全部預測一遍，畫出一張完整的分子效應地圖。**這就像把基因組的「地圖」從模糊的輪廓，升級成超高解析度的衛星影像。**過去我們只能猜測某個突變有沒有影響，現在AI可以直接預測它會如何改變基因功能。</p><h2>AI預測基因變異，不只是快而已</h2><p>這個Atlas背後的技術核心，是基於AlphaFold團隊開發的AI模型延伸而來。AlphaGenome 能預測DNA序列變化後，對基因調控元件（比如啟動子、增強子）的影響，進而推估這個變異是否會導致疾病。**簡單說，它讓「看不見的基因變異」變得「看得見」。**這對遺傳疾病研究、癌症基因檢測，甚至藥物開發，都是巨大的推進。</p><p>過去臨床基因檢測常常遇到一種困境：檢出某個基因變異，但不知道它到底是「無害的」還是「有害的」。AlphaGenome Atlas 提供的預測數據，能讓醫生和遺傳學家更快判斷變異的臨床意義，減少無謂的恐慌或漏診。</p><h2>編輯悄悄話</h2><p>想像一下，以後去健檢，基因報告不再只有「有或沒有」的簡單答案，而是像導航軟體一樣，精準告訴你哪條路走得通、哪條路有坑。**這不只是科技的進步，更是每個人健康自主權的一次大升級。**未來基因檢測，可能真的會像量血壓一樣平常。</p>",
+    "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "date": "2026-09-14"
   }
 ]
