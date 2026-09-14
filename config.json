@@ -7,9 +7,9 @@
     "agnes"
   ],
   "models": {
-    "groq": "llama-3.1-8b-instant",
-    "nvidia": "nvidia/llama-3.1-nemotron-70b-instruct",
-    "gemini": "gemini-1.5-flash-latest",
+    "groq": "llama-3.3-70b-versatile",
+    "nvidia": "meta/llama-3.1-70b-instruct",
+    "gemini": "gemini-1.5-flash-002",
     "agnes": "agnes-2.0-flash"
   }
 }
