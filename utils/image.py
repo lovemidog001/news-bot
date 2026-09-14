@@ -4,11 +4,23 @@ from bs4 import BeautifulSoup
 
 def fetch_image(url):
     try:
+        # 更完整的瀏覽器模擬 headers，避免 403
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+            "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
+            "Sec-Fetch-Dest": "document",
+            "Sec-Fetch-Mode": "navigate",
+            "Sec-Fetch-Site": "none",
+            "Sec-Fetch-User": "?1",
+            "Cache-Control": "max-age=0"
         }
 
         response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
 
         # ── 策略1：og:image（最常見）──
@@ -48,6 +60,11 @@ def fetch_image(url):
                 if not any(kw in src.lower() for kw in skip_keywords):
                     return src
 
+    except requests.exceptions.HTTPError as e:
+        if e.response is not None and e.response.status_code in (403, 404):
+            print(f"Image Error: HTTP {e.response.status_code} for {url}")
+        else:
+            print(f"Image Error: {e}")
     except Exception as e:
         print(f"Image Error: {e}")
 
