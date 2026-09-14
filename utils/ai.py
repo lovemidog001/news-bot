@@ -3,6 +3,12 @@ import re
 import json
 import time
 import requests
+from typing import Optional
+
+
+# ===== Retry 設定 =====
+MAX_RETRIES = 3
+BASE_DELAY = 2  # 秒
 
 def build_prompt(text):
     return f"""
@@ -61,148 +67,173 @@ def build_prompt(text):
 """
 
 # ── NVIDIA ──
-def call_nvidia(text, model="nvidia/nemotron-3-ultra"):
-
-    api_key = os.getenv("NVIDIA_API_KEY")
-    if not api_key:
-        raise ValueError("NVIDIA_API_KEY 環境變數未設定")
-
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
-    }
-
-    payload = {
-        "model": model,
-        "messages": [
-            {
-                "role": "user",
-                "content": build_prompt(text)
-            }
-        ],
-        "temperature": 0.6,
-        "top_p": 0.9,
-        "max_tokens": 2000
-    }
-
-    response = requests.post(
-        "https://integrate.api.nvidia.com/v1/chat/completions",
-        headers=headers,
-        json=payload,
-        timeout=60
+def call_nvidia(text, model="meta/llama-3.1-70b-instruct"):
+    """NVIDIA Nemotron / Llama models via NVIDIA API"""
+    return _call_with_retry(
+        provider="nvidia",
+        url="https://integrate.api.nvidia.com/v1/chat/completions",
+        headers_factory=lambda key: {
+            "Authorization": f"Bearer {key}",
+            "Content-Type": "application/json"
+        },
+        payload_factory=lambda m: {
+            "model": m,
+            "messages": [{"role": "user", "content": build_prompt(text)}],
+            "temperature": 0.6,
+            "top_p": 0.9,
+            "max_tokens": 2000
+        },
+        model=model,
+        api_key_env="NVIDIA_API_KEY",
+        response_parser=lambda r: r.json()["choices"][0]["message"]["content"]
     )
-
-    response.raise_for_status()
-
-    return response.json()["choices"][0]["message"]["content"]
 
 
 # ── Gemini ──
-def call_gemini(text, model="gemini-1.5-flash"):
-
-    api_key = os.getenv("GEMINI_API_KEY")
-    if not api_key:
-        raise ValueError("GEMINI_API_KEY 環境變數未設定")
-
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
-
-    payload = {
-        "contents": [
-            {
-                "parts": [
-                    {
-                        "text": build_prompt(text)
-                    }
-                ]
+def call_gemini(text, model="gemini-1.5-flash-002"):
+    """Google Gemini API with retry"""
+    def _gemini_headers(key):
+        return {"Content-Type": "application/json"}
+    
+    def _gemini_payload(m):
+        return {
+            "contents": [{"parts": [{"text": build_prompt(text)}]}],
+            "generationConfig": {
+                "temperature": 0.6,
+                "maxOutputTokens": 2000
             }
-        ],
-        "generationConfig": {
-            "temperature": 0.6,
-            "maxOutputTokens": 2000
         }
-    }
-
-    response = requests.post(
-        url,
-        json=payload,
-        timeout=60
+    
+    def _gemini_parser(r):
+        data = r.json()
+        return data["candidates"][0]["content"]["parts"][0]["text"]
+    
+    return _call_with_retry(
+        provider="gemini",
+        url=f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={{api_key}}",
+        headers_factory=_gemini_headers,
+        payload_factory=_gemini_payload,
+        model=model,
+        api_key_env="GEMINI_API_KEY",
+        response_parser=_gemini_parser,
+        inject_key_in_url=True
     )
-
-    response.raise_for_status()
-
-    return response.json()["candidates"][0]["content"]["parts"][0]["text"]
 
 
 # ── Groq ──
-def call_groq(text, model="llama-3.1-70b-versatile"):
-
-    api_key = os.getenv("GROQ_API_KEY")
-    if not api_key:
-        raise ValueError("GROQ_API_KEY 環境變數未設定")
-
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
-    }
-
-    payload = {
-        "model": model,
-        "messages": [
-            {
-                "role": "user",
-                "content": build_prompt(text)
-            }
-        ],
-        "temperature": 0.6,
-        "max_tokens": 2000
-    }
-
-    response = requests.post(
-        "https://api.groq.com/openai/v1/chat/completions",
-        headers=headers,
-        json=payload,
-        timeout=60
+def call_groq(text, model="llama-3.3-70b-versatile"):
+    """Groq API with retry"""
+    return _call_with_retry(
+        provider="groq",
+        url="https://api.groq.com/openai/v1/chat/completions",
+        headers_factory=lambda key: {
+            "Authorization": f"Bearer {key}",
+            "Content-Type": "application/json"
+        },
+        payload_factory=lambda m: {
+            "model": m,
+            "messages": [{"role": "user", "content": build_prompt(text)}],
+            "temperature": 0.6,
+            "max_tokens": 2000
+        },
+        model=model,
+        api_key_env="GROQ_API_KEY",
+        response_parser=lambda r: r.json()["choices"][0]["message"]["content"]
     )
-
-    response.raise_for_status()
-
-    return response.json()["choices"][0]["message"]["content"]
 
 
 # ── Agnes AI ──
 def call_agnes(text, model="agnes-2.0-flash"):
-
-    api_key = os.getenv("AGNES_API_KEY")
-    if not api_key:
-        raise ValueError("AGNES_API_KEY 環境變數未設定")
-
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
-    }
-
-    payload = {
-        "model": model,
-        "messages": [
-            {
-                "role": "user",
-                "content": build_prompt(text)
-            }
-        ],
-        "temperature": 0.3,
-        "max_tokens": 2000
-    }
-
-    response = requests.post(
-        "https://apihub.agnes-ai.com/v1/chat/completions",
-        headers=headers,
-        json=payload,
-        timeout=60
+    """Agnes AI API with retry"""
+    return _call_with_retry(
+        provider="agnes",
+        url="https://apihub.agnes-ai.com/v1/chat/completions",
+        headers_factory=lambda key: {
+            "Authorization": f"Bearer {key}",
+            "Content-Type": "application/json"
+        },
+        payload_factory=lambda m: {
+            "model": m,
+            "messages": [{"role": "user", "content": build_prompt(text)}],
+            "temperature": 0.3,
+            "max_tokens": 2000
+        },
+        model=model,
+        api_key_env="AGNES_API_KEY",
+        response_parser=lambda r: r.json()["choices"][0]["message"]["content"]
     )
 
-    response.raise_for_status()
 
-    return response.json()["choices"][0]["message"]["content"]
+# ===== 通用重試邏輯 =====
+def _call_with_retry(
+    provider: str,
+    url: str,
+    headers_factory,
+    payload_factory,
+    model: str,
+    api_key_env: str,
+    response_parser,
+    inject_key_in_url: bool = False
+):
+    """
+    通用的帶重試機制 API 調用
+    - 支援指數退避重試
+    - 自動處理 429 (rate limit), 5xx (server error)
+    - 401/403/404 不重試 (認證/端點問題)
+    """
+    api_key = os.getenv(api_key_env)
+    if not api_key:
+        raise ValueError(f"{api_key_env} 環境變數未設定")
+
+    # 處理 URL 中的 API key 注入 (Gemini 用)
+    final_url = url
+    if inject_key_in_url:
+        final_url = url.format(api_key=api_key)
+
+    headers = headers_factory(api_key)
+    payload = payload_factory(model)
+
+    last_error = None
+    
+    for attempt in range(MAX_RETRIES):
+        try:
+            response = requests.post(
+                final_url,
+                headers=headers,
+                json=payload,
+                timeout=60
+            )
+            
+            # 不重試的錯誤碼
+            if response.status_code in (401, 403, 404):
+                response.raise_for_status()
+            
+            # 可重試的錯誤碼
+            if response.status_code in (429, 500, 502, 503, 504):
+                raise requests.HTTPError(f"{response.status_code}: {response.text}", response=response)
+            
+            response.raise_for_status()
+            return response_parser(response)
+            
+        except requests.exceptions.Timeout:
+            last_error = Exception(f"請求超時 (60s)")
+        except requests.exceptions.ConnectionError as e:
+            last_error = Exception(f"連線錯誤: {e}")
+        except requests.exceptions.HTTPError as e:
+            last_error = e
+            if e.response is not None and e.response.status_code not in (429, 500, 502, 503, 504):
+                raise
+        except Exception as e:
+            last_error = e
+        
+        if attempt < MAX_RETRIES - 1:
+            delay = BASE_DELAY * (2 ** attempt)
+            print(f"[Fallback] {provider} 第 {attempt + 1} 次失敗: {last_error}，{delay}s 後重試...")
+            time.sleep(delay)
+        else:
+            print(f"[Fallback] {provider} 重試 {MAX_RETRIES} 次均失敗: {last_error}")
+    
+    raise last_error or Exception(f"{provider} 調用失敗")
 
 
 # ── Provider 對應表 ──
