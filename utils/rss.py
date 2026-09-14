@@ -1,5 +1,6 @@
 import re
 import json
+import time
 import requests
 from bs4 import BeautifulSoup
 import feedparser
@@ -59,52 +60,84 @@ def extract_full_content(url):
     抓取網頁全文內容 (FeedFuse 核心功能模擬)
     嘗試從網頁中提取最有可能是正文的部分
     """
-    try:
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-        resp = requests.get(url, headers=headers, timeout=15)
-        resp.raise_for_status()
-        
-        # 處理編碼問題
-        resp.encoding = resp.apparent_encoding
-        
-        soup = BeautifulSoup(resp.text, "lxml")
-        
-        # 移除干擾元素
-        for tag in soup(["script", "style", "nav", "footer", "header", "aside", "iframe", "ad"]):
-            tag.decompose()
-
-        # 1. 嘗試常見的正文標籤
-        content_tags = [
-            soup.find("article"),
-            soup.find("div", class_=re.compile(r"article|content|post|entry|main-body", re.I)),
-            soup.find("main")
-        ]
-        
-        best_tag = next((tag for tag in content_tags if tag), None)
-        
-        if best_tag:
-            paragraphs = best_tag.find_all("p")
-            if not paragraphs:
-                # 如果有標籤但沒 <p>，直接拿文字
-                text = best_tag.get_text(separator="\n", strip=True)
-            else:
-                text = "\n".join([p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 20])
-        else:
-            # 2. 如果找不到明確標籤，則抓取所有的 <p>
-            paragraphs = soup.find_all("p")
-            if not paragraphs:
-                text = soup.get_text(separator="\n", strip=True)
-            else:
-                text = "\n".join([p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 20])
-        
-        # 限制長度，避免 token 爆炸，但提供足夠資訊
-        return text[:4000]
-
-    except Exception as e:
-        print(f"[Scraper] 抓取全文失敗 ({url}): {e}")
+    # 更完整的瀏覽器模擬 headers，避免 403
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Connection": "keep-alive",
+        "Upgrade-Insecure-Requests": "1",
+        "Sec-Fetch-Dest": "document",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Site": "none",
+        "Sec-Fetch-User": "?1",
+        "Cache-Control": "max-age=0"
+    }
+    
+    max_retries = 2
+    resp = None
+    for attempt in range(max_retries):
+        try:
+            resp = requests.get(url, headers=headers, timeout=15)
+            
+            # 403, 404, 410 等不重試的錯誤
+            if resp.status_code in (403, 404, 410):
+                print(f"[Scraper] HTTP {resp.status_code} 無法存取: {url}")
+                return ""
+            
+            resp.raise_for_status()
+            break
+            
+        except requests.exceptions.HTTPError as e:
+            if e.response is not None and e.response.status_code in (429, 500, 502, 503, 504):
+                if attempt < max_retries - 1:
+                    time.sleep(2 * (attempt + 1))
+                    continue
+            print(f"[Scraper] 抓取全文失敗 ({url}): {e}")
+            return ""
+        except Exception as e:
+            print(f"[Scraper] 抓取全文失敗 ({url}): {e}")
+            return ""
+    
+    if resp is None:
         return ""
+    
+    # 處理編碼問題
+    resp.encoding = resp.apparent_encoding
+    
+    soup = BeautifulSoup(resp.text, "lxml")
+    
+    # 移除干擾元素
+    for tag in soup(["script", "style", "nav", "footer", "header", "aside", "iframe", "ad"]):
+        tag.decompose()
+
+    # 1. 嘗試常見的正文標籤
+    content_tags = [
+        soup.find("article"),
+        soup.find("div", class_=re.compile(r"article|content|post|entry|main-body", re.I)),
+        soup.find("main")
+    ]
+    
+    best_tag = next((tag for tag in content_tags if tag), None)
+    
+    if best_tag:
+        paragraphs = best_tag.find_all("p")
+        if not paragraphs:
+            # 如果有標籤但沒 <p>，直接拿文字
+            text = best_tag.get_text(separator="\n", strip=True)
+        else:
+            text = "\n".join([p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 20])
+    else:
+        # 2. 如果找不到明確標籤，則抓取所有的 <p>
+        paragraphs = soup.find_all("p")
+        if not paragraphs:
+            text = soup.get_text(separator="\n", strip=True)
+        else:
+            text = "\n".join([p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 20])
+    
+    # 限制長度，避免 token 爆炸，但提供足夠資訊
+    return text[:4000]
 
 
 def fetch_rss():
