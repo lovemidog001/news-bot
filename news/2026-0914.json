@@ -1,0 +1,12 @@
+[
+  {
+    "id": "001",
+    "title": "Perplexity 全面信任 GPT-6 Astra，搜尋引擎進入自動化新紀元",
+    "summary": "Perplexity 將 GPT-6 Astra 納入核心工作流，從撰寫通訊、修改軟體到監控生產系統全面放手，檢查頻率大幅降低，**重塑 AI 在工程實務上的信任邊界**，搜尋引擎的進化速度將因此加速。",
+    "content": "<h2>從搜尋引擎到全自動系統，Perplexity 的 AI 信任升級</h2>\n<p><strong>Perplexity 不再只是搜尋工具，而是把 GPT-6 Astra 當成真正的工程夥伴。</strong>這家以 AI 驅動的問答引擎，過去專注於搜尋與資訊整合，如今卻把 GPT-6 Astra 用於撰寫通訊內容、修改軟體程式碼，甚至監控生產環境。與早期模型相比，團隊的介入頻率大幅降低，代表模型已經能獨立處理更多複雜任務。</p>\n<p>創辦人兼策略長 Johnny Ho 指出，每當模型在程式碼撰寫能力上有所突破，Perplexity 的搜尋引擎就會跟著升級。<strong>模型越會寫程式，搜尋引擎就能寫出更好的程式來爬取網頁、整合內部資訊，並用更精簡的方式摘要輸出。</strong>這形成了一個正向循環，讓搜尋品質與 AI 能力互相推動。</p>\n<p>不過 Johnny 也坦言，真正的挑戰在於如何把這些資訊處理能力應用到真實世界的系統中。而 GPT-6 Astra 的出現，恰好填補了這個缺口，讓 Perplexity 能夠把 AI 從「回答問題」推進到「執行任務」的階段。</p>\n\n<h2>測試程式碼不再靠人力，AI 自己扮演所有服務</h2>\n<p><strong>Johnny 認為 AI 最實用的應用之一，就是測試程式碼。</strong>在時間有限的情況下，他會請 GPT-6 Astra 為某個應用程式建構一套小型測試程式。這個模型能夠生成逼真的回應，模擬其他服務（例如語言模型 API 或連接器）的輸出，從而扮演那些外部服務的替代角色。</p>\n<p>透過這種方式，GPT-6 Astra 可以完整檢查應用程式如何回應各種情境，並從頭到尾測試整個工作流程。<strong>這意味著開發者不需要手動模擬每一個外部依賴，AI 就能自行完成端到端的測試驗證。</strong></p>\n<p>這種做法不僅節省時間，也大幅降低測試環境的建置成本。對於追求精準與效率的 Perplexity 來說，GPT-6 Astra 已經不只是輔助工具，而是工程團隊不可或缺的成員。</p>\n\n<h2>編輯悄悄話</h2>\n<p>以前我們總覺得 AI 只會聊天、寫文章，現在它連測試程式碼都能自己搞定，還不用你一直盯著。Perplexity 這一步跨出去，代表 AI 已經從「幫你做事」變成「自己把事做完」，下次你的程式出問題時，也許該先問問 AI 能不能自己修。</p>",
+    "image": "https://images.ctfassets.net/kftzwdyauwt9/2ONJEXhA8M9IGON14JgHTc/4450550ce2d8b38c7fe2e7825839c92a/og.png?w=1600&h=900&fit=fill",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "date": "2026-09-14"
+  }
+]
