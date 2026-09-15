@@ -28,5 +28,35 @@
     "source": "TechOrange",
     "url": "https://techorange.com/2026/09/15/bmw-toyota-hyundai-mercedes-benz-humanoid-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
     "date": "2026-09-15"
+  },
+  {
+    "id": "004",
+    "title": "AlphaGenome Atlas 繪出90億種DNA變異地圖，基因研究迎來新紀元",
+    "summary": "AlphaGenome Atlas 以AI預測人類基因組中90億種單字母DNA變異的分子效應，將徹底重塑基因疾病研究與精準醫療的未來版圖。",
+    "content": "<h2>一張地圖，搞定90億種基因變異</h2>\n<p><strong>這套Atlas不只是資料集，而是人類基因組的「完整預測地圖」。</strong>過去研究基因變異，往往只能針對少數已知突變做分析，但AlphaGenome Atlas直接把人類基因組裡所有可能的單字母DNA變化——總共90億種——全部預測一遍。這意味著，無論你遇到什麼罕見基因變異，都能在這張地圖上找到對應的分子效應預測，不用再靠猜。</p>\n<p><strong>對臨床基因檢測來說，這等於多了一雙能預判未來的眼睛。</strong>過去許多基因變異被歸類為「意義不明」，醫生看到報告也只能說「暫時不知道影響」。現在有了Atlas，這些變異的潛在風險可以被量化預測，對遺傳疾病篩檢、癌症基因標記的判讀，都有實質推進。</p>\n<h2>AI解讀基因，比科學家快上幾百倍</h2>\n<p><strong>AlphaGenome的核心技術來自AlphaFold團隊的延伸，AI已經能「讀懂」基因組的語言。</strong>過去解讀DNA變異需要大量實驗驗證，耗時又昂貴。現在透過深度學習模型，系統可以直接預測某個DNA字母改變後，對染色質結構、基因調控元件的影響，速度是傳統方法的數百倍。</p>\n<p><strong>這不代表實驗會被取代，而是讓實驗設計更有方向。</strong>研究人員可以先用Atlas篩選出最值得驗證的變異，再投入實驗資源，大幅降低試錯成本。對台灣的生技產業來說，這套工具如果落地應用，將是提升競爭力的關鍵武器。</p>\n<h2>編輯悄悄話</h2>\n<p>以前基因檢測報告出來，醫生看著一堆「意義不明」的變異乾瞪眼，現在AI直接幫你畫出一張完整的地圖，告訴你可能發生什麼事。這就像從看地圖找路，升級成有導航系統直接帶你到目的地。基因時代的導航儀，終於上線了。</p>",
+    "image": "https://lh3.googleusercontent.com/vOjFcTcdX2GCEB9yk-tJ7GAfyhTAMo-zW7scq3TrT9qk1mYw5qE0BdUqI8XQclMuUchZr7pYUFdVt3ZzrXc1NGFFJOqi7kIUX_QuAXZR7lkVzxjk=w1200-h630-n-nu-rw",
+    "source": "Google DeepMind",
+    "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "005",
+    "title": "送貨機器人頻違規，道路規則成關鍵痛點",
+    "summary": "送貨機器人頻繁違規，衝擊現有道路規則，或將重塑最後一哩路配送生態。",
+    "content": "<h2>送貨機器人上路，為何總是「違規」？</h2>\n<p><strong>道路規則理解不足，成為送貨機器人普及的最大絆腳石。</strong>許多消費者發現，這些看似先進的機器人常在人行道、斑馬線前「卡關」，甚至誤闖車道。技術團隊坦言，現有感測器與演算法對複雜交通環境的判斷仍顯粗糙，尤其在台灣多變的街頭動態中，機器人往往無法即時反應。</p>\n<p><strong>法規與技術落差，讓機器人「守法」成為難題。</strong>現行交通規範多針對人類駕駛設計，機器人缺乏對紅綠燈、手勢指揮的解讀能力。業者指出，部分城市已嘗試劃設專用道，但全面鋪開仍需時間。</p>\n\n<h2>技術突破與法規調整，能否讓機器人守規矩？</h2>\n<p><strong>業界正研發更精準的感知系統，同時呼籲政府放寬法規限制。</strong>新世代機器人導入AI視覺辨識，能更準確判斷行人動向與號誌狀態。然而，技術迭代速度仍落後於實際部署需求，部分企業選擇「降速行駛」以換取安全，卻影響配送效率。</p>\n<p><strong>消費者態度兩極，安全與便利如何取捨？</strong>支持者認為機器人能減少人力成本，反對者則擔憂違規行為可能危及行人。專家建議，未來需建立「機器人交通教育」，並透過5G網路即時更新路況資訊。</p>\n\n<h2>編輯悄悄話</h2>\n<p>送貨機器人想成為街頭常客，得先學會「看路況」而非「撞路障」。下次看到機器人在斑馬線前發呆，別急著按喇叭——它可能正在腦內疯狂計算：這紅燈，到底該不該過？</p>",
+    "image": "",
+    "source": "Engadget",
+    "url": "https://www.engadget.com/2255845/delivery-robots-biggest-issues/",
+    "date": "2026-09-15"
+  },
+  {
+    "id": "006",
+    "title": "免費AI模型攻略：Agnes、NVIDIA、Hermes、OpenCode四招零成本上手",
+    "summary": "免費AI Agent模型管道大公開！Agnes AI、NVIDIA、Hermes內建模型與OpenCode四種API Key設定教學，顛覆入門門檻，但隱私與限流風險須謹慎評估。",
+    "content": "<h2>免費模型怎麼挑？四招教你零成本上手</h2>\n<p><strong>想體驗AI Agent卻不想先砸錢？這四種免費管道讓你輕鬆入門。</strong>Agnes AI註冊後直接生成API Key，填入Hermes的客製化Endpoint就能測試，推薦先用Agnes V2.5 Flash，中文回應速度夠快又省錢。NVIDIA開發者平台則需完成手機驗證，免費模型清單會隨時間變動，熱門時段可能限流，建議先跑短任務測試穩定性。</p>\n<p><strong>Hermes內建模型最省事，但預設選項未必免費。</strong>啟用前務必確認計費標示，避免誤觸付費方案。OpenCode雖有免費模型，但註冊流程可能綁定信用卡與自動儲值，使用前一定要檢查能否關閉自動加值功能。</p>\n\n<h2>隱藏風險要注意！免費不等於沒代價</h2>\n<ul>\n<li><strong>API Key就像密碼，別隨手貼在社群或截圖分享。</strong>停用時記得回平台撤銷舊金鑰，重新建立新鑰匙。</li>\n<li><strong>免費雲端模型不適合處理機密資料。</strong>公司合約、客戶個資或敏感資訊，務必先確認平台資料使用政策，別為方便埋下資安地雷。</li>\n<li><strong>限流與不穩是免費服務的常態。</strong>若Agent頻繁失敗，別硬撐，切換模型或稍後再試，免費Endpoint別當成唯一備案。</li>\n</ul>\n\n<h2>編輯悄悄話</h2>\n<p>免費模型就像超市試吃，嚐鮮可以，但別當成正餐。Agnes AI適合新手練功，NVIDIA適合愛折腾的玩家，Hermes內建選項最省事卻要睜大眼睛看計費細節。記住：敏感資料自己守，測試完再決定要不要付費升級，畢竟免費的往往最貴，時間與風險都是隱形成本。</p>",
+    "image": "https://www.kocpc.com.tw/wp-content/uploads/2026/09/20260915232305_0_d588cb.jpg",
+    "source": "電腦王阿達",
+    "url": "https://www.kocpc.com.tw/archives/669064",
+    "date": "2026-09-15"
   }
 ]
