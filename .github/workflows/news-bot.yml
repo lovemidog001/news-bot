@@ -2,15 +2,16 @@ name: AI News Bot
 
 on:
   schedule:
-     # UTC 03:00 → 台灣 11:00 → 美國東部 23:00
-     # UTC 11:00 → 台灣 19:00 → 美國東部 07:00
-     # UTC 15:00 → 台灣 23:00 → 美國東部 11:00
-     # UTC 23:00 → 台灣 07:00（隔天） → 美國東部 19:00  
+    # UTC 03:00 → 台灣 11:00 → 美國東部 23:00
+    # UTC 11:00 → 台灣 19:00 → 美國東部 07:00
+    # UTC 15:00 → 台灣 23:00 → 美國東部 11:00
+    # UTC 23:00 → 台灣 07:00（隔天） → 美國東部 19:00
     - cron: '5 11,23 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   build:
@@ -61,8 +62,22 @@ jobs:
           else
             echo "No news file for today ($DATE), skipping sync"
           fi
-          
+
       - name: Clear Old Cache Endpoints (Deprecated)
         run: |
           curl -s "https://ailoom.ccwu.cc/cache_clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clear failed (non-critical)"
-          curl -s "https://bountygo.qzz.io/api/cache/clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clear failed (non-critical)"
+
+  delete-old-runs:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: read
+
+    steps:
+      - name: Delete workflow runs older than 3 days
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 3
+          keep_minimum_runs: 1
