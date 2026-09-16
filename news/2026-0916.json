@@ -158,5 +158,45 @@
     "source": "4Gamers",
     "url": "https://www.4gamers.com.tw/news/detail/82087/canon-eos-r8-ii-launches",
     "date": "2026-09-16"
+  },
+  {
+    "id": "017",
+    "title": "OpenAI推AI廣告新招 行銷人準備好被搶飯碗了嗎",
+    "summary": "OpenAI推出Sponsored Agents等AI廣告工具，並與HubSpot、Shopify深度整合，將重塑數位行銷生態，讓品牌投放更精準高效。",
+    "content": "<h2>AI廣告代理上線 行銷戰術大翻新</h2>\n<p><strong>OpenAI這次不玩虛的，直接把AI變成你的廣告代理人。</strong>新推出的Sponsored Agents功能，讓品牌主可以設定目標、預算與受眾，AI就會自動生成廣告文案、選擇投放時機，甚至根據數據回饋即時調整策略。這意味著行銷團隊不用再熬夜想標題、測素材，AI幫你搞定一切。</p>\n<p><strong>對中小企業來說，這簡直是降維打擊。</strong>過去只有大廠才請得起的廣告顧問服務，現在一個AI工具就能取代。OpenAI強調，這些AI代理會學習品牌調性，越用越懂你的客群，投放效果也會隨時間提升。</p>\n\n<h2>串接Shopify與HubSpot 電商行銷一步到位</h2>\n<p><strong>OpenAI這次還把觸角伸向電商與CRM領域。</strong>與Shopify的整合讓商家可以直接在後台設定AI廣告任務，商品上架的同時，廣告素材也自動生成。而與HubSpot的合作，則讓行銷團隊能把客戶資料與廣告投放串聯，實現更精準的個人化推播。</p>\n<p><strong>這套組合拳打下來，整個數位行銷流程都被重新定義。</strong>從選品、素材製作、投放到數據分析，AI都能參與其中。行銷人員的角色，將從執行者轉向策略監督者，重點放在設定目標與審核成果，而非重複勞動。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>AI廣告工具來勢洶洶，但行銷的本質從來沒變。</strong>工具再聰明，還是需要懂人性的人來下指令。與其擔心被取代，不如趕快上手，讓AI成為你的超級助手。畢竟，會用工具的行銷人，永遠比只會苦幹的人更有競爭力。</p>",
+    "image": "",
+    "source": "OpenAI Blog",
+    "url": "https://openai.com/index/reimagining-advertising-with-ai",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "018",
+    "title": "前OpenAI研究員推出不產文字的AI，70毫秒分類超快",
+    "summary": "顛覆傳統AI模式，前OpenAI研究員推出不產文字的Jev模型，專攻軟體分類，70毫秒回應，token成本極低，但僅限預設選項內。",
+    "content": "<h2>不寫字卻能精準分類，AI新玩法來了</h2>\n<p><strong>Jev模型徹底顛覆「AI必須產出文字」的刻板印象</strong>，由前OpenAI研究員Diogo Almeida創辦的TypeSafe AI團隊，推出這款專為軟體開發設計的「純分類引擎」。它不生成對話、不寫程式碼，而是直接在預設選項中快速判斷，<strong>70毫秒的回應速度讓傳統語言模型望塵莫及</strong>。更驚人是token價格壓到極低，對需要大量呼叫的企業級應用來說，成本優勢無可比擬。</p>\n<p>不過這套系統有個明顯限制：<strong>它只能保證在設定好的選項內不跑偏，卻無法確保選項本身正確</strong>。就像一個超級精準的選票統計員，能瞬間算出結果，但要是候選人名單有誤，統計再快也白搭。這種「框架內極致效率」的設計哲學，正挑戰著業界對AI能力的想像邊界。</p>\n\n<h2>從聊天機器人到分類引擎，AI分工時代來臨</h2>\n<p><strong>傳統大語言模型像萬能應召女郎，什麼都能聊但未必專業</strong>，而Jev選擇做「專科醫師」。在軟體開發場景中，這類需要快速決策的任務（例如程式碼審查、錯誤類型歸納）正好發揮其專長。<strong>70毫秒的延遲意味著每秒可處理超過14次判斷</strong>，這種吞吐量對金融交易、即時系統監控等場景具有革命性意義。</p>\n<p>但技術突破總伴隨新問題：<strong>當AI不再「說話」，人類如何驗證其判斷邏輯？</strong>TypeSafe AI選擇用透明化選項設定來回應，將決策權部分交還給開發者。這種「人机協作新形態」或許會催生更多垂直領域的專用模型，讓AI產業從「大而全」轉向「專而精」的分工格局。</p>\n\n<h2>編輯悄悄話</h2>\n<p>這就像請來一位從不說話的軍師，你問他「該選A還是B」，他瞬間指給你看，但要是題目本身有問題，他也只能乖乖按選項答。科技圈又來個反直覺的玩法，看來以後AI界也要分「話癆型」和「悶騷型」了！</p>",
+    "image": "",
+    "source": "The Decoder",
+    "url": "https://the-decoder.com/former-openai-researcher-builds-an-ai-model-that-judges-options-instead-of-writing-text/",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "019",
+    "title": "NVIDIA Vera Rubin NVL72性能飆升3.7倍，AI推理成本大降",
+    "summary": "NVIDIA Vera Rubin NVL72在MLPerf Inference v6.1基準測試中顛覆現有AI推理經濟模型，相較GB300 NVL72吞吐量提升最高3.7倍，大幅降低每token成本，同時擴展效率達99%，為企業AI基礎設施投資帶來全新選擇。",
+    "content": "<h2>性能飆升背後的全棧協同設計</h2>\n<p><strong>NVIDIA Vera Rubin NVL72在MLPerf Inference v6.1中交出亮眼成績單，在Qwen3-VL測試中吞吐量比GB300 NVL72高出最高3.7倍，在DeepSeek-R1測試中也達到2.5倍的提升。</strong>這可不是單純的硬體升級，而是從晶片到軟體的全棧協同設計成果。Vera Rubin搭載強化版Tensor Cores與Transformer Engine，同時支援NVFP4精度，能有效縮減模型權重、注意力機制與KV快取的記憶體佔用，在幾乎不影響輸出品質的前提下，大幅提升吞吐量。</p>\n<p><strong>更關鍵的是，NVIDIA強調平台通用性——同一套基礎設施能運行任何模型、任何工作負載，從訓練到推理、從語言到影片，維持高利用率。</strong>這意味著企業不必為了不同任務重複投資硬體，一次到位就能應對多種AI應用場景。</p>\n<h2>擴展效率99%，AI Agent性能飆升30倍</h2>\n<p><strong>NVIDIA在擴展效率上同樣表現驚人，從單櫃72顆GPU擴展到四櫃288顆GPU時，離線場景下仍維持99%的擴展效率，吞吐量幾乎與硬體增加量成正比。</strong>這在AI基礎設施中極為關鍵，因為多數情況下增加GPU數量並不意味著線性提升效能，若GPU數量接近翻倍卻只帶來個位數百分比的效能成長，基礎設施成本將遠超效能增益。</p>\n<p><strong>針對正在興起的AI Agent應用，Vera Rubin NVL72在SemiAnalysis AgentX基準測試中展現30倍於GB300 NVL72的效能。</strong>AI Agent需要跨越多步驟進行推理、規劃與行動，這正在重塑AI推理效能的衡量方式。NVIDIA也預告即將推出的MLPerf Endpoints基準測試，將為Agentic推理工作負載帶來標準化測量方法。</p>\n<p><strong>支撐這些技術表現的，是第六代NVIDIA NVLink與NVLink Switch提供的互連基礎，包速率比市售乙太網路高出10倍，延遲降低3倍。</strong>搭配分散式服務架構，將prefill與decode階段分離，並在大規模專家並行處理上發揮最大效率，讓DeepSeek-R1與Qwen3-VL等模型能在機櫃規模下發揮最佳效能。合作夥伴Nebius也提交了Vera Rubin NVL72的預覽結果，展現出色的性能表現。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>AI推理這塊餅越來越大，但成本壓力也跟著水漲船高。</strong>NVIDIA這次拿出Vera Rubin NVL72，不只是拼效能數字，更是在算一筆經濟帳——同樣的基礎設施投入，能不能產生更多token、服務更多使用者、賺進更多營收。99%的擴展效率意味著加GPU不會白加，30倍的AI Agent效能提升則暗示著下一波應用浪潮即將到來。對企業來說，這不只是技術升級，更是投資回報率的重新計算。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/mlperf-inference-6-1.png",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+    "date": "2026-09-16"
+  },
+  {
+    "id": "020",
+    "title": "Nvidia高管揭密：機器人產業正等待下一個ChatGPT時刻",
+    "summary": "Nvidia的Les Karpas在TechCrunch Disrupt 2026上指出，機器人產業正等待一個突破時刻，如同AI領域的ChatGPT革命。這將重塑機器人如何融入日常生活，推動產業從實驗室走向千家萬戶。",
+    "content": "<h2>機器人產業的瓶頸在哪裡？</h2>\n<p><strong>機器人產業正處於一個關鍵的轉捩點，等待著屬於自己的ChatGPT時刻。</strong>Nvidia的Les Karpas在TechCrunch Disrupt 2026上分享了他的觀察，指出雖然機器人技術已經進步許多，但真正要進入一般人的日常生活，還需要一個突破性的時刻。這就像當年ChatGPT出現之前，大家已經知道AI很厲害，但就是缺少那個讓所有人都驚艷的瞬間。</p>\n<p><strong>機器人產業目前面臨的最大挑戰，是如何讓技術從實驗室走向真實世界。</strong>Les Karpas提到，許多機器人公司在實驗室裡表現出色，但一旦進入複雜的現實環境，就會遇到各種意想不到的問題。這就像一個學生考試成績很好，但實際工作時卻手忙腳亂。</p>\n<h2>為什麼機器人需要自己的ChatGPT時刻？</h2>\n<p><strong>ChatGPT的成功在於它讓所有人都能立即感受到AI的實用價值。</strong>Les Karpas認為，機器人產業也需要這樣一個時刻，讓消費者、企業和投資人都能清楚地看到機器人的實際效益。這不僅僅是技術問題，更是一個關於如何讓技術被理解和接受的問題。</p>\n<p><strong>機器人產業正在積累必要的技術基礎，包括更好的感測器、更聰明的演算法和更強大的運算能力。</strong>Nvidia在這方面扮演了重要角色，他們的硬體和軟體平台正在幫助機器人公司開發出更智能、更靈活的解決方案。但就像任何技術革命一樣，最後的突破往往來自於意想不到的地方。</p>\n<h2>編輯悄悄話</h2>\n<p><strong>機器人產業的ChatGPT時刻，可能就在不遠的未來。</strong>就像當年大家沒想到聊天機器人會這麼火一樣，我們也無法預測機器人產業的突破會以什麼形式出現。但有一點可以確定，那就是Nvidia等科技大廠正在為這個時刻做準備，而我們這些消費者，只需要保持耐心，等待那個讓所有人都驚艷的瞬間到來。</p>",
+    "image": "",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "date": "2026-09-16"
   }
 ]
