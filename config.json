@@ -1,15 +1,17 @@
 {
-  "max_articles": 60,
+  "max_articles": 20,
+
   "fallback_chain": [
-    "groq",
     "nvidia",
+    "groq",
     "gemini",
     "agnes"
   ],
+
   "models": {
+    "nvidia": "nvidia/nemotron-3.5-lightning-30b-a3b",
     "groq": "llama-3.3-70b-versatile",
-    "nvidia": "meta/llama-3.1-70b-instruct",
-    "gemini": "gemini-1.5-flash-002",
+    "gemini": "gemini-3.6-flash",
     "agnes": "agnes-2.0-flash"
   }
 }
