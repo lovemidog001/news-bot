@@ -1,0 +1,28 @@
+name: Delete Old Workflow Runs
+
+on:
+  schedule:
+    # 每天 UTC 時間 0:00 自動執行一次（可依需求調整）
+    - cron: '0 0 * * *'
+  # 允許在 GitHub 頁面上手動觸發執行
+  workflow_dispatch:
+
+jobs:
+  del_runs:
+    runs-on: ubuntu-latest
+    permissions:
+      # 自動刪除 Actions 執行紀錄所需的權限
+      actions: write
+      contents: read
+    steps:
+      - name: Delete workflow runs older than 3 days
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          # 存取的 Token，預設自動帶入 GitHub 提供的權限即可
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # 要清理紀錄的儲存庫名稱
+          repository: ${{ github.repository }}
+          # 保留天數：只保留 3 天內的紀錄
+          retain_days: 3
+          # 保留筆數：即便超過 3 天，最少仍保留最近的 1 筆紀錄（避免整個頁面變成空的）
+          keep_minimum_runs: 1
