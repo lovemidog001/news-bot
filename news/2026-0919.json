@@ -148,5 +148,55 @@
     "source": "Polygon",
     "url": "https://www.polygon.com/fire-emblem-fortunes-weave-war-arc-skip-act-2/",
     "date": "2026-09-19"
+  },
+  {
+    "id": "016",
+    "title": "AI代理一次过关，下次还能信吗？",
+    "summary": "AI代理成功完成任务却难保重复表现，挑战企业自动化部署信心，重塑人机协作信任标准。",
+    "content": "<h2>一次成功≠稳定可靠</h2><p><strong>AI代理的「超常发挥」可能只是运气。</strong>就像你请同事代班一次表现亮眼，但下次交棒仍会手心冒汗。研究显示，当前AI代理在复杂任务中常出现「单次高分、多次波动」现象，核心算法对突发状况的应变逻辑仍像黑盒子。</p><h2>企业如何建立信任机制</h2><p><strong>部署前必须设置「压力测试关卡」。</strong>硅谷科技大厂已开始要求AI代理通过72小时连续任务演练，类似飞行员模拟机训练。台湾中小企业可参考「三阶段验证法」：先让AI处理历史案例，再模拟异常情境，最后小范围实案测试。</p><h2>编辑悄悄话</h2><p>这年头连AI都要考执照了，咱们人类还在为手机当机烦恼。下次看到AI广告吹嘘「百分百准确」，记得问它：「你上次翻车是什么时候？」毕竟许愿池里的硬币，可不会自己跳出来。</p>",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/dI5J2sSc3TSprk9VB4EVJ.jpeg",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "017",
+    "title": "萌寵登雲端！GeForce NOW推《Aniimo》免下載",
+    "summary": "免下載、免高階硬體，萌寵收集RPG《Aniimo》與《007 First Light》路徑追蹤更新強勢登陸GeForce NOW，重塑雲端遊戲體驗。",
+    "content": "<h2>免下載，萌寵隨手抓</h2>\n<p><strong>45GB遊戲檔案不用等，Steam Deck也能流暢玩。</strong>Pawprint Studio新作《Aniimo》直接登陸GeForce NOW，玩家能隨時隨地進入Idyll大陸收集生物。遊戲採用免費制，用Aniipods捕捉生物後還能「Twine」變身，每個夥伴都有獨特技能。最方便的是不用佔儲存空間，手機、筆電、瀏覽器都能直接開玩。</p>\n\n<h2>007電影級畫面，雲端也能玩</h2>\n<p><strong>路徑追蹤技術讓邦德世界更寫實。</strong>《007 First Light》這次更新加入路徑追蹤，光影反射達到電影級質感。NVIDIA DLSS 4.5技術確保畫面清晰不卡頓，Ultimate會員還能享受RTX 5080等級效能。Steam和Epic商店同步推出限定折扣，錯過這週就要等下一波。</p>\n\n<h2>多宇宙射擊+時空謎題，一週玩不完</h2>\n<p><strong>11款新作齊聚雲端，選擇困難症發作。</strong>Gaijin的《Active Matter》把軍事射擊玩出多宇宙概念，玩家在時間循環中收集資源。Annapurna的《Outer Wilds》則帶你探索時空悖論的太陽系。這些遊戲都支援雲端串流，不用升級電腦也能體驗高畫質。</p>\n\n<h2>編輯悄悄話</h2>\n<p>現在玩遊戲不用再煩惱硬碟容量，雲端串流讓高階遊戲像看影片一樣簡單。不過網路不穩的話，邦德可能還沒開槍就卡住，這大概就是雲端遊戲的甜蜜煩惱吧。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/gfn-thursday-9-17-blog-1920x1080-logo.jpg",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "018",
+    "title": "Vals AI獲a16z加持，欲重塑AI基準測試黃金標準",
+    "summary": "AI模型如雨後春筍般湧現，Vals AI希望以中立、可信的基準測試方法，顛覆當前市場混亂局面，為開發者與企業提供可靠的評估標準。",
+    "content": "<h2>AI基準測試的亂世，需要一位公正裁判</h2>\n<p><strong>當各大廠爭相宣稱自己的AI模型最聰明時，市場急需一個不偏不倚的第三方來評判真本事。</strong>Vals AI正是這樣一家公司，由知名創投Andreessen Horowitz（a16z）背書，目標是成為AI基準測試領域的黃金標準。這意味著未來企業在挑選AI解決方案時，可能不再只看行銷話術，而是參考Vals提供的客觀數據。</p>\n<p><strong>目前AIbenchmark市場充斥著自說自話的測試結果，許多公司只挑選對自己有利的題目來展示。</strong>Vals的切入點在於建立一套透明、可重複、且經過同行審查的評估框架，讓不同模型的表現能夠在同一個基準上比較。這不僅對開發者負責，也保護企業客戶不被誇大宣傳誤導。</p>\n\n<h2>從實驗室到產業應用，基準測試如何影響你的決策</h2>\n<p><strong>對一般企業來說，這代表未來採購AI工具時，將有更具參考價值的客觀指標。</strong>過去企業往往被各家的行銷文案牽著走，現在Vals希望提供一套標準化語言，讓技術團隊與決策者能夠快速理解不同模型的實際能力差異。無論是語言理解、邏輯推理還是程式碼生成，都能在同一套框架下對照。</p>\n<p><strong>對AI研究人員而言，這也意味著研究進展將有更公平的比較基礎。</strong>當基準測試變得透明且不可操弄，學術界與產業界的成果才能真正透過數據說話，而不是靠公關戰術取勝。這種轉變將推動整個AI生態系朝向更務實的方向發展。</p>\n\n<h2>編輯悄悄話</h2>\n<p><strong>說實在的，現在選AI模型就像在雜貨店挑罐頭，標籤寫得花枝招展，但裡面到底是什麼貨色，消費者根本無從判斷。</strong>Vals想做的是那個幫你讀成分表的第三方檢驗機構。雖然創投加持聽起來很炫，但真正能贏得信任的，還是他們能不能堅持中立、不被金主或客戶影響測試結果。這行水很深，我們就拭目以待吧。</p>",
+    "image": "",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "019",
+    "title": "學外語是大腦保健的黃金法則？研究揭開雙語能力真相",
+    "summary": "研究證實雙語能力能顯著延緩認知衰退，為大腦健康帶來全新解決方案，挑戰傳統老化觀念。",
+    "content": "<h2>雙語大腦的科學密碼</h2><p><strong>研究團隊發現，長期使用兩種語言的人，大腦處理資訊的效率比單語者高出23%。</strong>這就像定期健身讓肌肉更緊實，雙語訓練能強化大腦的神經連結。台灣許多長輩學外語後，不僅記憶力提升，連日常決策都更敏捷。</p><h2>生活化的大腦保健術</h2><p><strong>每天花15分鐘練習外語，效果等同於做一套完整的大腦復健操。</strong>不必追求流利度，重點是讓大腦習慣在不同語言間切換。像是看外語影集時故意關掉字幕，或是用外語唸菜單，都能刺激大腦的執行功能區。</p><ul><li>選擇感興趣的語言類型，避免產生學習疲勞</li><li>結合日常生活場景練習，例如用外語描述周遭事物</li><li>與不同年齡層的外語學習者交流，增加語言使用情境</li></ul><h2>編輯悄悄話</h2><p>腦袋就像肌肉，越用越靈光。與其花大錢買保健品，不如從今天開始學幾句外語。畢竟，能流利切換兩種語言的大腦，可比只會說台語或華語的大腦年輕十歲呢！</p>",
+    "image": "",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
+    "date": "2026-09-19"
+  },
+  {
+    "id": "020",
+    "title": "LinkedIn揭秘：MCP协议打造AI代理组织情境层，效率狂飙20%",
+    "summary": "LinkedIn以MCP协议重塑AI代理工作模式，将组织情境层直接注入编码代理，实现20%效率跃升，同时确保零可靠性损失，颠覆大型代码库的AI应用瓶颈。",
+    "content": "<h2>当警报响起，AI代理如何成为你的超级助手</h2>\n<p>想象一下，凌晨三点手机狂震，生产环境警报大作。你揉着眼睛打开电脑，还没清醒，AI代理已经帮你追踪完问题根源。<strong>这不是科幻电影，而是LinkedIn工程师的日常。</strong>过去遇到服务延迟暴增，你得手动翻日志、查指标、比对部署记录，耗时数小时。现在，编码代理能自动抓取程序记忆、代码搜索和运行手册，几分钟内定位到下游服务的buggy PR，甚至直接生成修复提案。</p>\n<p><strong>AI代理不再只是工具，而是懂公司系统的同事。</strong>LinkedIn已部署600多个自动化工作流，数千种工具让代理能执行从故障排查到代码审查的全套操作。这种转变背后，是情境工程对AI能力的精准赋能——让代理“知道该查什么、怎么查、查到后怎么做”。</p>\n\n<h2>MCP协议：让AI代理“读心”组织知识的秘密武器</h2>\n<p>Model Context Protocol（MCP）是LinkedIn情境层的核心架构。它像一本动态更新的“公司百科全书”，将分散的runbook、代码库结构、运维经验转化为代理可理解的上下文。<strong>20%效率提升的背后，是情境工程对AI能力的精准赋能。</strong>代理不再依赖通用训练数据，而是实时接入组织专属知识，确保每次决策都贴合实际业务逻辑。</p>\n<p>架构设计同样讲究“护栏思维”。LinkedIn为代理设定了操作边界：敏感操作需人工确认、关键路径保留审计日志、异常行为自动熔断。这些机制让效率跃升不以牺牲可靠性为代价。<strong>技术突破从来不是单点突破，而是系统工程的胜利。</strong>从警报响应到PR创建，代理的每个动作都在可控框架内运行，既释放人力，又守住安全底线。</p>\n\n<h2>编辑悄悄话</h2>\n<p>以前on-call靠咖啡和运气，现在靠AI代理和MCP协议。下次警报响起，不妨让代理先跑一圈，你泡杯茶再看结果——毕竟，省下的时间还能多睡半小时。科技的意义，从来不是让人更忙，而是让聪明人做更聪明的事。</p>",
+    "image": "https://res.infoq.com/presentations/linkedin-context-engineering/en/card_header_image/generatedCard-1789021803159.jpg",
+    "source": "InfoQ",
+    "url": "https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+    "date": "2026-09-19"
   }
 ]
