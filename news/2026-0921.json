@@ -158,5 +158,45 @@
     "source": "巴哈姆特 GNN",
     "url": "https://gnn.gamer.com.tw/detail.php?sn=312060",
     "date": "2026-09-21"
+  },
+  {
+    "id": "017",
+    "title": "物理學家剪枝LLM：Ising模型優化突破AI效率",
+    "summary": "研究團隊將大型語言模型的剪枝問題轉化為Ising優化模型，成功顛覆傳統方法，大幅提升AI運算效率，為未來模型壓縮開闢新途徑。",
+    "content": "<h2>物理學方法破解AI剪枝難題</h2><p>想像一下，把複雜的AI模型剪枝問題，當成物理學家的磁鐵排列遊戲來解！研究團隊發現，大型語言模型（LLM）的參數剪枝，其實和物理學中的<strong>Ising模型優化問題</strong>驚人相似。這種跨領域嫁接，讓原本耗時的模型壓縮過程，瞬間有了全新解法。</p><h2>Ising模型如何重塑模型壓縮</h2><p>傳統剪枝方法像在玩「大家來找碴」，逐個參數測試去留。但Ising模型把整個網絡視為互動系統，用物理學的能量最小化概念，<strong>一次性優化整體結構</strong>。這種做法不僅加速訓練，還能保留關鍵資訊，讓模型更輕量卻不失精準。</p><h2>編輯悄悄話</h2><p>這就像用物理學家的透鏡，重新審視AI的「瘦身」藝術。當學科邊界被打破，原來枯燥的參數剪枝，竟能變成一場優雅的數學舞蹈。下次看到AI變輕快，別忘了背後可能有物理學家的功劳。</p>",
+    "image": "https://cdn-uploads.huggingface.co/production/uploads/693c2a4eb0871ba57155b4ed/q4gZV9ENtfFwge7H3Q7YJ.png",
+    "source": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "018",
+    "title": "NVIDIA Halos 全層安全架構，為 2035 年 4900 萬輛無人車把關",
+    "summary": "Physical AI 正從實驗室快速邁向大規模部署，2035 年預計有 4900 萬輛無人車與 6000 萬台工業機器人上路。NVIDIA 推出 Halos 全層安全系統，重塑物理 AI 安全驗證標準，讓硬體、軟體與 AI 行為在真實環境中都能可靠運作。",
+    "content": "<h2>4900 萬輛無人車上路，安全不能只靠一次檢查</h2>\n<p><strong>到 2035 年，全球將有 4900 萬輛第 3 至 5 級自動駕駛車輛在路上行駛，同時還有 6000 萬台工業機器人在工廠與倉庫裡忙碌。</strong>這不是科幻電影的場景，而是 ABI Research 與 Omdia 的實際預測數據。當這些機器開始與人類共享道路、工廠與倉庫，安全必須跟隨部署規模同步擴展，而不是在上市前做一次檢查就了事。</p>\n<p>Physical AI 的安全，指的是證明 AI 驅動的機器——無論是無人車、人形機器人還是工業機械臂——在將決策轉化為實體動作時，能夠保持安全。這需要從硬體、軟體、AI 行為、運作環境到部署生命週期，每一層都有完整的安全保障。</p>\n<p><strong>多年測試與基準驗證後，無人車正逐步擴大商業應用，開發者必須證明自動系統如何應對潛在的硬體與軟體故障、功能限制，以及 AI 特有的風險。</strong>機器人產業也正站在類似的轉捩點，自動機器開始進入與人類共存的環境。</p>\n\n<h2>NVIDIA Halos：從雲端到車上的全鏈安全驗證</h2>\n<p><strong>NVIDIA Halos 是首款針對 Physical AI 的全層安全系統，協助開發者從設計、驗證到部署，每一階段都能建立可追溯的安全證據。</strong>它的核心概念是：安全不能只靠單一環節，必須貫穿整個生命週期。</p>\n<p>在無人車領域，Halos 串連了雲端 AI 開發與模擬環境，以及車載部署，讓安全證據能在車輛的整個生命週期中保持連貫。對於機器人，Halos 同樣涵蓋嵌入式軟體、感測器、矽元件到系統整合的各個層面。</p>\n<p><strong>NVIDIA Halos AI Systems Inspection Lab 則將安全、資安與 AI 安全需求轉化為可重複的檢查流程，協助整合方案通過第三方機構的最終系統級認證。</strong>這個實驗室已經匯聚了 AUMOVIO、Bosch、Gatik、Hesai、Lucid、MIRA、onsemi、Plus AI、Sony、Valeo 與 Wayve 等夥伴，涵蓋自動駕駛開發、ADAS、感測器、矽元件、系統整合與安全驗證。</p>\n<p>在無人車方面，Geely、Isuzu、Nissan（搭載 Wayve 軟體）與 Einride 正在 NVIDIA Hyperion 平台上打造第 4 級-ready 車輛，並由 Halos OS 提供安全支援。Uber、Grab、Lyft 等行動服務業者也採用 Hyperion 擴展 Robotaxi 的開發與部署。機器人領域則有 acontis 與 QNX 提供嵌入式軟體，Advantech 與 NexCOBOT 打造安全設計的 NVIDIA IGX 系統，Infineon、NXP、STMicroelectronics 與 Texas Instruments 貢獻感測器與安全微控制器技術，KION Group 開發無人叉車的機能安全代理，Agility 則將 NVIDIA IGX Thor 與 Halos Core 整合進 Digit 5 人形機器人的安全系統。</p>\n\n<h2>合作生態系：安全標準需要全產業一起定義</h2>\n<p><strong>Physical AI 安全需要專業的工程、資料、流程與驗證能力，沒有哪家公司能單獨完成，必須靠整個生態系共同建立標準。</strong>NVIDIA 超過十年的無人車安全開發經驗，涵蓋機能安全、感測器融合、AI 行為保證、視覺 AI、模擬與真實世界驗證，成為 Halos 的技術基礎。</p>\n<p>TÜV SÜD 已認證 NVIDIA 的汽車產品生命週期軟體流程，這代表安全驗證不再只是口號，而是有第三方機構背書的實際標準。</p>\n<p><strong>當無人車與機器人開始真正進入我們的生活環境，安全標準的制定將決定這些技術能走多遠。</strong>NVIDIA Halos 的出現，正是試圖在產業快速擴張的同時，為安全建立一套可執行、可驗證、可追溯的框架。</p>\n\n<h2>編輯悄悄話</h2>\n<p>想像一下，未來你的通勤車是無人駕駛，樓下的倉庫由機器人搬貨，連你家可能都有人形機器人幫忙打掃。聽起來很美好，但這些機器要是出了差錯，後果可不是鬧著玩的。NVIDIA 這次推 Halos，等於是在幫整個 Physical AI 產業建一套「安全守則」，從設計到上路每一層都有檢查。畢竟，技術再厲害，安全不過關，再多的百萬輛機器人也只是擺在那裡看而已。</p>",
+    "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/robotics-pr-halos-1600x900-1.png",
+    "source": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "019",
+    "title": "Oura 22億美元IPO登場 股東套現12.6億引關注",
+    "summary": "Oura迎來22億美元IPO，但Forerunner Ventures將套現12.6億美元，引發市場對新創公司上市動機的關注，此舉或將重塑投資者對早期股東退出策略的看法。",
+    "content": "<h2>22億美元IPO背後的股東套現遊戲</h2>\n<p><strong>Forerunner Ventures將拋售全部持股，套現金額高達12.6億美元，幾乎佔IPO總額的六成。</strong>這次IPO看起來熱鬧，但仔細一看，原來是早期投資人在撈錢。Oura這支睡眠追蹤戒指去年估值已達40億美元，如今登陸紐交所，投資人終於等到變現時刻。</p>\n<p><strong>新創公司上市不再是「共同成長」的童話，而是投資人精準退出的算盤。</strong>Forerunner從2016年投資以來，持股成本僅數百萬美元，如今套現近13億美元，報酬率驚人。其他早期投資人如Founders Fund、Lightspeed也相繼套現，顯示這波IPO更像是「股東的慶功宴」。</p>\n<h2>股東套現對Oura未來發展意味著什麼？</h2>\n<p><strong>早期股東大規模退出，可能讓Oura在後續發展中失去重要資源與背書。</strong>投資人套現後，公司能否持續創新？睡眠追蹤市場競爭激烈，Withings、Fitbit早已占據一席之地，Oura需要靠產品力說話。</p>\n<p><strong>IPO資金將用於研發與市場擴張，但股東套現也反映資本市場對短期回報的執著。</strong>對消費者而言，Oura戒指的設計與功能仍具吸引力，但投資人用腳投票，顯示資本市場的現實：新創故事講完，就是套現時刻。</p>\n<h2>編輯悄悄話</h2>\n<p>看來這波IPO熱潮，背後是投資人的精明算盤。對消費者來說，Oura的產品還是一樣好用，但股東們已經先落袋為安，這市場啊，真是有趣！</p>",
+    "image": "",
+    "source": "TechCrunch",
+    "url": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
+    "date": "2026-09-21"
+  },
+  {
+    "id": "020",
+    "title": "加州和解派拉蒙華納合併案 反壟斷戰役暫告一段落",
+    "summary": "加州與派拉蒙、華納達成和解協議，終結這場牽動好萊塢格局的合併訴訟。聯邦貿易委員會主席萊娜·汗直言州政府握有強有力證據，這場和解將重塑媒體產業競爭生態，引發倡議團體強烈不滿。",
+    "content": "<h2>和解協議背後的博弈棋局</h2>\n<p><strong>加州終於對派拉蒙與華納的合併案畫下句點，但這場和解並非勝利宣言。</strong>州政府原本對這場訴訟信心滿滿，認為有足夠證據證明合併違法，如今選擇和解，背後牽扯的資源消耗與時間成本不容小覷。媒體產業的巨頭們透過合併擴大版圖，而監管單位的態度也成為市場關注焦點。</p>\n<p><strong>聯邦貿易委員會主席萊娜·汗公開表示州政府握有非常強烈的證據顯示合併違法。</strong>這句話等於在和解協議達成後，仍對業界發出警告訊號。倡議團體對此反應激烈，認為和解等於讓大型媒體集團逃過更嚴厲的懲罰，未來市場競爭格局恐進一步失衡。</p>\n\n<h2>好萊塢巨頭合併的深遠影響</h2>\n<p><strong>派拉蒙與華納的合併案牽動的不只是票房數字，更是整個娛樂產業的權力重分配。</strong>兩大電影公司若正式合併，將掌握更多內容產製與發行管道，中小製作公司面臨的競爭壓力將持續升高。觀眾選擇的多元性可能因此縮減，而內容創作者的議價空間也會受到壓縮。</p>\n<p><strong>這場訴訟從頭到尾都是反壟斷議題的縮影。</strong>政府試圖透過法律手段維持市場競爭，但和解協議的達成，讓許多關注媒體多樣性的團體感到失望。未來是否會有其他州或聯邦層級的行動，將是觀察重點。</p>\n\n<h2>編輯悄悄話</h2>\n<p>和解協議就像一場拖了很久的連續劇終於大結局，但觀眾心裡都知道劇情還有未解的伏筆。派拉蒙與華納的合併案告訴我們，大型企業的擴張腳步不會因為一場訴訟就停下來，而監管單位的態度往往比口頭警告更值得玩味。下次去電影院選片時，不妨想想螢幕背後那些看不見的商業博弈。</p>",
+    "image": "",
+    "source": "Ars Technica",
+    "url": "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+    "date": "2026-09-21"
   }
 ]
