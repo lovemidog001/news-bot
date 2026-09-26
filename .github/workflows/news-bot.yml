@@ -1,78 +1,163 @@
-name: AI News Bot
+name: Daily News Sync
 
 on:
   schedule:
-    # UTC 03:00 → 台灣 11:00 → 美國東部 23:00
-    # UTC 11:00 → 台灣 19:00 → 美國東部 07:00
-    # UTC 15:00 → 台灣 23:00 → 美國東部 11:00
-    # UTC 23:00 → 台灣 07:00（隔天） → 美國東部 19:00
-    - cron: '5 11,23 * * *'
+    - cron: '0 18 * * *'  # UTC 18:00 = 台灣隔天 02:00
   workflow_dispatch:
+    inputs:
+      date:
+        description: '指定新聞日期 (YYYY-MM-DD)，留空則使用昨天'
+        required: false
+        type: string
+
+env:
+  TZ: Asia/Taipei
 
 permissions:
   contents: write
-  actions: write
+
+concurrency:
+  group: news-pipeline
+  cancel-in-progress: false
 
 jobs:
-  build:
+  daily-news:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
-
+    timeout-minutes: 30
+    defaults:
+      run:
+        shell: bash
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+          cache: pip
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run News Generator
+      - name: Run daily pipeline
+        run: python scripts/main.py --date "${{ inputs.date || '' }}"
         env:
-          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python main.py
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
 
-      - name: Commit JSON Files
+      - name: Calculate target date
+        id: target
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add news/
-          git commit -m "Auto update news $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
-          git push
-
-      - name: Sync News to Website
-        env:
-          NEWS_SYNC_TOKEN: ${{ secrets.NEWS_SYNC_TOKEN }}
-          SITE_URL: https://bountygo.qzz.io
-        run: |
-          DATE=$(date +%Y-%m%d)
-          FILE="news/${DATE}.json"
-          if [ -f "$FILE" ]; then
-            echo "Syncing $FILE to website..."
-            curl -X POST "${SITE_URL}/api/sync_news.php?token=${NEWS_SYNC_TOKEN}" \
-              -H "Content-Type: application/json" \
-              -d @"$FILE" \
-              -w "\nHTTP %{http_code}" \
-              -s -o /dev/null || echo "Sync failed (non-critical)"
+          set -euo pipefail
+          if [ -n "${{ inputs.date }}" ]; then
+            TARGET_DATE="${{ inputs.date }}"
           else
-            echo "No news file for today ($DATE), skipping sync"
+            TARGET_DATE="$(TZ=Asia/Taipei date -d 'yesterday' '+%Y-%m-%d')"
+          fi
+          echo "date=${TARGET_DATE}" >> "$GITHUB_OUTPUT"
+          echo "Target date: ${TARGET_DATE}"
+          test -s "data/${TARGET_DATE}.json"
+
+      - name: Cleanup old data
+        run: find data -name "*.json" -mtime +30 -delete 2>/dev/null || true
+
+      - name: Commit daily JSON to GitHub
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "data: 新聞資料 ${{ steps.target.outputs.date }}"
+            git push origin HEAD:${GITHUB_REF_NAME}
           fi
 
-      - name: Clear Old Cache Endpoints (Deprecated)
+      - name: Notify Serv00 and verify database
+        env:
+          SERV00_UPDATE_URL: ${{ secrets.SERV00_UPDATE_URL }}
+          SERV00_UPDATE_TOKEN: ${{ secrets.SERV00_UPDATE_TOKEN }}
+          TARGET_DATE: ${{ steps.target.outputs.date }}
         run: |
-          curl -s "https://ailoom.ccwu.cc/cache_clear.php?token=${{ secrets.CACHE_TOKEN }}" || echo "Cache clear failed (non-critical)"
+          set -euo pipefail
+          test -n "$SERV00_UPDATE_URL"
+          test -n "$SERV00_UPDATE_TOKEN"
+          echo "Notify Serv00: $TARGET_DATE"
+          curl --fail-with-body --retry 5 --retry-delay 3 --max-time 60 \
+            -X POST "$SERV00_UPDATE_URL" \
+            -H "Authorization: Bearer $SERV00_UPDATE_TOKEN" \
+            -H "Content-Type: application/json" \
+            --data "{\"date\":\"$TARGET_DATE\"}" \
+            -o /tmp/update-response.json
+          cat /tmp/update-response.json
+          python - <<'PY'
+          import json
+          p='/tmp/update-response.json'
+          d=json.load(open(p,encoding='utf-8'))
+          if d.get('success') is not True:
+              raise SystemExit('Serv00 update API did not report success')
+          print(f"Serv00 DB: inserted={d.get('inserted',0)}, skipped={d.get('skipped',0)}, errors={d.get('errors',0)}")
+          if int(d.get('errors',0)) > 0:
+              raise SystemExit('Serv00 reported invalid news records')
+          PY
+
+      - name: Clear Old Cache Endpoints
+        env:
+          CACHE_TOKEN: ${{ secrets.CACHE_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -n "$CACHE_TOKEN"
+          curl --fail-with-body --retry 3 --retry-delay 2 --max-time 30 \
+            "https://ailoom.ccwu.cc/cache_clear.php?token=${CACHE_TOKEN}" \
+            -o /tmp/cache-response.json
+          cat /tmp/cache-response.json
+          python - <<'PY'
+          import json
+          d=json.load(open('/tmp/cache-response.json',encoding='utf-8'))
+          if d.get('ok') is not True and d.get('success') is not True:
+              raise SystemExit('Cache clear failed')
+          PY
+
+      - name: Verify frontend API
+        env:
+          TARGET_DATE: ${{ steps.target.outputs.date }}
+        run: |
+          set -euo pipefail
+          curl --fail-with-body --retry 3 --retry-delay 2 --max-time 30 \
+            "https://ailoom.ccwu.cc/api/news.php?date=${TARGET_DATE}&page=1&limit=1" \
+            -o /tmp/frontend-response.json
+          cat /tmp/frontend-response.json
+          python - <<'PY'
+          import json
+          d=json.load(open('/tmp/frontend-response.json',encoding='utf-8'))
+          if d.get('success') is not True:
+              raise SystemExit('Frontend API returned success=false')
+          total=int(d.get('pagination',{}).get('total',0))
+          print(f'Frontend API total for target date: {total}')
+          if total < 1:
+              raise SystemExit('Frontend API has no news for the target date')
+          PY
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Daily News Sync" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Status:** ${{ job.status }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "**Date:** ${{ steps.target.outputs.date }}" >> "$GITHUB_STEP_SUMMARY"
 
   delete-old-runs:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     permissions:
       actions: write
       contents: read
-
     steps:
       - name: Delete workflow runs older than 3 days
         uses: Mattraks/delete-workflow-runs@v2
